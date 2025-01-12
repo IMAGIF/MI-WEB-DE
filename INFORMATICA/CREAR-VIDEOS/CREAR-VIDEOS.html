@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Enlaces</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .page-header, .page-footer {
+            background: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .card-content {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .card h2 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.5rem;
+        }
+
+        .card p {
+            color: #000; /* Changed from #666 to #000 */
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: 1fr;
+                padding: 10px;
+            }
+
+            .card {
+                margin: 0 auto;
+                max-width: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="page-header" style="display: flex; flex-direction: column; align-items: center; position: relative;">
+        <h1 style="margin: 0;">Crear Videos con I.A.</h1>
+        <button class="button" style="align-self: flex-end; margin-top: 10px; padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;" onclick="window.open('https://imagif.github.io/MIS-ENLACES/', '_blank')">Inicio</button>
+    </header>
+
+    <div class="container">
+        <p style="text-align: center; margin-bottom: 20px; color: white;">Creación de videos a través de herramientas de IA, de texto, imagen, sonido y video.</p>
+        <div class="grid-container">
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/index.html">
+                    <img src="imagen/imagen1.avif" alt="Herramientas de Imagen">
+                    <div class="card-content">
+                        <h2>Imagen</h2>
+                        <p>Herramientas y recursos para edición de imágenes</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="sonido.html">
+                    <img src="imagen/imagen2.avif" alt="Herramientas de Sonido">
+                    <div class="card-content">
+                        <h2>Sonido</h2>
+                        <p>Recursos y aplicaciones para edición de audio</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="video.html">
+                    <img src="imagen/imagen3.avif" alt="Herramientas de Video">
+                    <div class="card-content">
+                        <h2>Video</h2>
+                        <p>Software y herramientas para edición de videos</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="inteligencia.html">
+                    <img src="imagen/imagen4.avif" alt="Herramientas de IA">
+                    <div class="card-content">
+                        <h2>I.A.</h2>
+                        <p>Herramientas y recursos de Inteligencia Artificial</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="page-footer">
+        <p>Creado por #imagif</p>
+        <p>email: imagenesgifs@gmail.com</p>
+    </footer>
+</body>
+</html>
