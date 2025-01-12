@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuentos Infantiles</title>
+    <meta name="description" content="Disfruta de una colección de cuentos infantiles ilustrados con aventuras emocionantes para niños.">
+    <meta name="keywords" content="cuentos infantiles, historias para niños, aventuras para niños, cuentos ilustrados">
+    <meta name="author" content="Cuentos Infantiles">
+    <link rel="canonical" href="https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff; /* Color de fondo claro */
+            color: #333; /* Color de texto principal */
+            margin: 0;
+            padding-bottom: 60px; /* Espacio para el footer */
+            position: relative; /* Asegura que el footer esté al final */
+        }
+
+        header {
+            background-color: #1e2851; /* Color de fondo azul oscuro */
+            color: #fff; /* Color de texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative; /* Asegura que el menú se posiciona correctamente */
+            max-width: 850px; /* Ancho máximo de la cabecera */
+            margin: 0 auto; /* Centra la cabecera */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
+        }
+
+        .header-buttons {
+            display: flex;
+            justify-content: space-between; /* Asegura que los botones estén distribuidos como deseas */
+            padding: 0 20px; /* Espacio a los lados para los botones */
+            margin-top: 10px; /* Espacio entre el título y los botones */
+        }
+
+        .header-buttons a {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            padding: 10px 20px;
+            font-size: 12px; /* Tamaño de fuente */
+            border: none; /* Sin borde */
+            cursor: pointer; /* Cursor de puntero al pasar por encima */
+            border-radius: 5px; /* Bordes redondeados */
+            text-decoration: none; /* Sin subrayado */
+            text-align: center; /* Centra el texto en los botones */
+        }
+
+        .header-buttons a.pinterest {
+            background-color: #fff; /* Fondo blanco para Pinterest */
+            color: #000; /* Texto negro */
+            margin-left: 20px; /* Margen izquierdo */
+        }
+
+        .header-buttons a.youtube {
+            background-color: #ff0000; /* Fondo rojo para YouTube */
+        }
+
+        .titulo {
+            font-size: 36px; /* Tamaño de fuente grande para el título */
+            margin: 20px 0; /* Espacio alrededor del título */
+        }
+
+        .contenido {
+            display: flex;
+            flex-wrap: wrap; /* Permite que los elementos se envuelvan */
+            justify-content: center;
+            gap: 20px; /* Espacio entre los elementos */
+            padding: 20px;
+            max-width: 1200px; /* Ancho máximo del contenido */
+            margin: 0 auto; /* Centra el contenido */
+        }
+
+        .cuento-item {
+            display: flex;
+            flex-direction: column; /* Coloca la imagen y el texto en una columna */
+            align-items: center; /* Centra horizontalmente */
+            max-width: 350px; /* Ancho máximo de cada item */
+            background-color: #fff; /* Fondo blanco para el contenido */
+            border-radius: 10px;
+            padding: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
+            margin-bottom: 20px; /* Espacio entre los cuentos */
+        }
+
+        .cuento-item img {
+            width: 100%; /* Ancho de la imagen */
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 10px; /* Espacio entre la imagen y el texto */
+        }
+
+        .cuento-item .texto {
+            text-align: center; /* Centra el texto */
+        }
+
+        .cuento-item h2 {
+            margin: 0;
+            font-size: 18px;
+        }
+
+        .cuento-item p {
+            margin: 5px 0 0;
+            font-size: 14px;
+        }
+
+        .cuento-item a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        .barra-mensaje {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            margin: 20px 0;
+            width: 850px; /* Ancho igual al de la cabecera */
+            margin: 0 auto; /* Centrado horizontal */
+            border-radius: 10px; /* Bordes redondeados */
+        }
+
+        @media (max-width: 600px) {
+            .barra-mensaje {
+                width: 90%; /* Ancho del 90% en dispositivos pequeños */
+                max-width: 100%; /* Ancho máximo */
+                padding: 10px; /* Espacio interno */
+                font-size: 14px; /* Tamaño de fuente más pequeño */
+            }
+
+            .cuento-item {
+                max-width: 100%; /* Ancho máximo del 100% en dispositivos pequeños */
+            }
+
+            .cuento-item img {
+                width: 100%; /* Ajustar el ancho de la imagen para dispositivos pequeños */
+            }
+
+            .cuento-item .texto {
+                text-align: left; /* Alinear el texto a la izquierda */
+            }
+        }
+
+        footer {
+            background-color: #1e2851; /* Color de fondo azul oscuro */
+            color: #fff; /* Color de texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative; /* Cambiado a relativo */
+            max-width: 850px; /* Ancho máximo del footer */
+            margin: 0 auto; /* Centrar el footer */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
+        }
+
+        .video-container {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%; /* Proporción 16:9 */
+            height: 0;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="titulo">CUENTOS INFANTILES</h1>
+        <div class="header-buttons">
+            <a href="https://es.pinterest.com/imagif55/" class="pinterest" target="_blank">PINTEREST</a>
+            <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" class="youtube" target="_blank">YOUTUBE</a>
+        </div>
+    </header>
+    <div class="barra-mensaje">
+        <p>Haz clic en la imagen que desees y verás un bonito cuento. 😊</p>
+    </div>
+    <div class="contenido">
+        <div class="cuento-item">
+            <a href="la-gran-aventura-de-tito-el-tigre.html"><img src="imagen/cuento1/imagen3.avif" alt="Un bonito y colorido dibujo del personaje de Tito el Tigre"></a>
+            <div class="texto">
+                <h2><a href="la-gran-aventura-de-tito-el-tigre.html">La Gran Aventura del Tigre Tito</a></h2>
+                <p>✅🐯 Únete a Tito el Tigre en una emocionante aventura a través de la selva, donde conocerá nuevos amigos como Lolo el loro y Rina la rana.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="la-carrera-de-la-liebre-y-la-tortuga.html"><img src="imagen/cuento2/imagen1.avif" alt="Un bonito dibujo de los personajes del cuento de la liebre y la tortuga"></a>
+            <div class="texto">
+                <h2><a href="la-carrera-de-la-liebre-y-la-tortuga.html">La Carrera entre la Liebre y la Tortuga</a></h2>
+                <p>✅🐢 Acompaña a la tortuga y la liebre en una emocionante carrera llena de enseñanzas sobre la constancia y la determinación.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="el-tesoro-del-bosque-encantado.html"><img src="imagen/cuento3/imagen1.avif" alt="Un bonito dibujo con Bobi, el oso, y todos sus amigos del cuento del tesoro del bosque encantado"></a>
+            <div class="texto">
+                <h2><a href="el-tesoro-del-bosque-encantado.html">El Tesoro del Bosque Encantado</a></h2>
+                <p>✅🐻 ¡Únete a Luna, Bobi, Nina y Roco en una emocionante aventura por el Bosque Encantado en busca de un misterioso tesoro!</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="la-fábula-de-la-gacela-y-el-león.html"><img src="imagen/cuento4/imagen1.avif" alt="Un bonito dibujo con el león y la gacela, protagonistas de un cuento muy interesante"></a>
+            <div class="texto">
+                <h2><a href="la-fábula-de-la-gacela-y-el-león.html">La Fábula de la Gacela y el León</a></h2>
+                <p>✅🦁🦌 Descubre la hermosa amistad entre un león y una gacela!</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="tito-el-tigre-y-sus-amigos-unidos-frente-al-fuego.html"><img src="imagen/cuento5/imagen1.avif" alt="Un bonito dibujo de Tito, Leo, Coco y NoNo salvando el bosque"></a>
+            <div class="texto">
+                <h2><a href="tito-el-tigre-y-sus-amigos-unidos-frente-al-fuego.html">Tito el Tigre y sus Amigos Unidos Frente al Fuego</a></h2>
+                <p>✅🔥 Acompaña a Tito, Leo, Coco y NoNo en su aventura para salvar el bosque de un gran incendio tras una feroz tormenta.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="el-monito-coco-y-la-leccion-de-responsabilidad.html"><img src="imagen/cuento6/imagen1.avif" alt="Un bonito dibujo del monito Coco aprendiendo una lección de responsabilidad"></a>
+            <div class="texto">
+                <h2><a href="el-monito-coco-y-la-leccion-de-responsabilidad.html">El Monito Coco y la Lección de Responsabilidad</a></h2>
+                <p>✅🌳✨ Descubre la historia de Coco, el monito que aprendió el valor de la responsabilidad y el amor al ayudar a su mamá. Un cuento infantil con una hermosa moraleja.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="el-superpoder-de-la-princesa-dorian.html"><img src="imagen/cuento7/imagen1.avif" alt="Un bonito dibujo de la princesa Dorian"></a>
+            <div class="texto">
+                <h2><a href="el-superpoder-de-la-princesa-dorian.html">El Superpoder de la princesa Dorian</a></h2>
+                <p>✅🌳✨ Acompaña a la princesa Dorian en esta encantadora aventura en el bosque. Después de caerse y perder la memoria, Dorian descubre que tiene un increíble superpoder.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="tito-el-tigre-y-las-abejas.html"><img src="imagen/cuento8/imagen1.avif" alt="Un bonito dibujo de Tito el Tigre y las abejas"></a>
+            <div class="texto">
+                <h2><a href="tito-el-tigre-y-las-abejas.html">Tito el Tigre y las Abejas 🐯🍯</a></h2>
+                <p>✅ Disfruta de esta divertida historia donde Tito, un curioso tigre, aprende una valiosa lección sobre el respeto y la amistad mientras intenta conseguir un poco de miel.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="la-ardilla-y-la-lechuza.html"><img src="imagen/cuento9/imagen1.avif" alt="Un bonito dibujo de la ardilla y la lechuza"></a>
+            <div class="texto">
+                <h2><a href="la-ardilla-y-la-lechuza.html">La Ardilla y la Lechuza 🐿️🦉</a></h2>
+                <p>✅🐿️🦉 Descubre cómo la ardilla aprende una valiosa lección sobre compartir y amistad en este encantador cuento. Suscríbete a nuestro canal de YouTube para más cuentos.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="los-ninos-viajan-a-la-luna.html"><img src="imagen/cuento10/imagen1.avif" alt="Un bonito dibujo de los niños viajando a la Luna"></a>
+            <div class="texto">
+                <h2><a href="los-ninos-viajan-a-la-luna.html">Los Niños Viajan a La Luna 🌕🚀👩‍🚀</a></h2>
+                <p>✅🌕🚀👩‍🚀 Únete a un grupo de niños en su increíble aventura para viajar a la Luna. Aprende sobre la importancia de la imaginación y el trabajo en equipo en este emocionante cuento. Suscríbete a nuestro canal de YouTube para más cuentos.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="el-primer-boton-del-mundo.html"><img src="imagen/cuento11/imagen1.avif" alt="Un bonito dibujo del primer botón del mundo"></a>
+            <div class="texto">
+                <h2><a href="el-primer-boton-del-mundo.html">El Primer Botón del Mundo</a></h2>
+                <p>✅🧵 Acompaña a un niño en una emocionante aventura cuando descubre algo brillante con lo que puede hacer el primer botón de la historia. Aprende sobre la creatividad y la importancia de los pequeños detalles. Suscríbete a nuestro canal de YouTube para más cuentos.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="aventuras-en-la-naturaleza-con-nono-y-tito-el-tigre.html"><img src="imagen/cuento12/imagen1.avif" alt="Un bonito dibujo de NoNo el robot rojo y Tito el Tigre en la naturaleza"></a>
+            <div class="texto">
+                <h2><a href="aventuras-en-la-naturaleza-con-nono-y-tito-el-tigre.html">Aventuras en la Naturaleza con NoNo y Tito el Tigre 🤖🐅</a></h2>
+                <p>✅🤖🐅 Acompaña a NoNo el robot rojo y Tito el Tigre en una emocionante aventura en la naturaleza. Aprende valiosas enseñanzas sobre cómo sobrevivir en el bosque. Suscríbete a nuestro canal de YouTube para más cuentos.</p>
+            </div>
+        </div>
+        <div class="cuento-item">
+            <a href="las-olimpiadas-del-bosque.html"><img src="imagen/cuento13/imagen1.avif" alt="Un bonito dibujo de los animales del bosque participando en las olimpiadas"></a>
+            <div class="texto">
+                <h2><a href="las-olimpiadas-del-bosque.html">Las Olimpiadas del Bosque 🐯🦁🐘</a></h2>
+                <p>✅🐯🦁🐘 Únete a los amigos del bosque en una emocionante competición donde deciden hacer sus propias olimpiadas. Aprende sobre la amistad, el trabajo en equipo y el espíritu deportivo en este encantador cuento infantil.</p>
+            </div>
+        </div>
+        <!-- Nuevo cuento añadido -->
+        <div class="cuento-item">
+            <a href="los-guardianes-del-arroyo-brillante.html"><img src="imagen/cuento14/imagen1.avif" alt="Un bonito dibujo de los amigos del bosque junto al arroyo brillante"></a>
+            <div class="texto">
+                <h2><a href="los-guardianes-del-arroyo-brillante.html">🌟Los Guardianes del Arroyo Brillante 🐾</a></h2>
+                <p>✅ Descubre lo que hacen los amigos del bosque cuando se encuentran con el arroyo lleno de basura.</p>
+            </div>
+            <div class="cuento-item">
+                <a href="fresita-y-cielito-la-amistad-de-dos-hormigas.html"><img src="imagen/cuento15/imagen1.avif" alt="Un bonito y colorido dibujo de Fresita y Cielito, una hormiga roja y una hormiga azul"></a>
+                <div class="texto">
+                    <h2><a href="fresita-y-cielito-la-amistad-de-dos-hormigas.html">Fresita y Cielito: La Amistad de dos Hormigas</a></h2>
+                    <p>✅🐯 Un bonito cuento sobre la amistad de dos hormigas diferentes, una roja, llamada Fresita y una azul, llamada Cielito. Su amistad les ayudará a mejorar y a apoyarse en todos los momentos.</p>
+                </div>
+            </div>
+    </div>
+    <!-- Video de YouTube incrustado -->
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kPJikyTTLPM?si=P-3V8dukq3MOmRlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <p class="contenido">Para ver más cuentos y canciones visítame en Youtube.</p>
+    <footer>
+        © 2024 Cuentos Infantiles. Todos los derechos reservados.
+    </footer>
+</body>
+</html>
