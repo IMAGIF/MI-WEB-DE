@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inteligencia</title>
+    <title>MIS ENLACES</title>
     <style>
         * {
             margin: 0;
@@ -46,7 +46,7 @@
 
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 20px;
             padding: 20px;
             max-width: 1200px;
@@ -58,6 +58,11 @@
             overflow: hidden;
             transition: transform 0.3s ease;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            background: #fff;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
         .card:hover {
@@ -70,53 +75,8 @@
             padding: 20px;
             text-align: center;
             height: 100%;
+            color: black;
         }
-
-        .card:nth-child(1) { background: #FF6B6B; }
-        .card:nth-child(1) a { color: white; }
-
-        .card:nth-child(2) { background: #4ECDC4; }
-        .card:nth-child(2) a { color: black; }
-
-        .card:nth-child(3) { background: #45B7D1; }
-        .card:nth-child(3) a { color: white; }
-
-        .card:nth-child(4) { background: #96CEB4; }
-        .card:nth-child(4) a { color: black; }
-
-        .card:nth-child(5) { background: #D4A5A5; }
-        .card:nth-child(5) a { color: black; }
-
-        .card:nth-child(6) { background: #9B59B6; }
-        .card:nth-child(6) a { color: white; }
-
-        .card:nth-child(7) { background: #3498DB; }
-        .card:nth-child(7) a { color: white; }
-
-        .card:nth-child(8) { background: #F1C40F; }
-        .card:nth-child(8) a { color: black; }
-
-        .card:nth-child(9) { background: #E74C3C; }
-        .card:nth-child(9) a { color: white; }
-
-        .card:nth-child(10) { background: #2ECC71; }
-        .card:nth-child(10) a { color: white; }
-
-        .card:nth-child(11) { background: #FF6B6B; }
-        .card:nth-child(11) a { color: white; }
-
-        .card:nth-child(12) { background: #4ECDC4; }
-        .card:nth-child(12) a { color: black; }
-
-        .card:nth-child(13) { background: #45B7D1; }
-        .card:nth-child(13) a { color: white; }
-
-        .card:nth-child(14) { background: #96CEB4; }
-        .card:nth-child(14) a { color: black; }
-
-	.card:nth-child(15) { background: #D4A5A5; }
-        .card:nth-child(15) a { color: black; }
-
 
         .card h2 {
             font-size: 1.2rem;
@@ -131,7 +91,7 @@
 
         @media (max-width: 768px) {
             .grid-container {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
             }
             
             .home-button {
@@ -153,23 +113,23 @@
     <div class="container">
         <div class="grid-container">
             <div class="card">
-                <a href="#">
-                    <h2>Boton 1</h2>
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/">
+                    <h2>INFORMATICA</h2>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
-                    <h2>Boton 2</h2>
+                <a href="https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/">
+                    <h2>CUENTOS INFANTILES</h2>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
-                    <h2>Boton 3</h2>
+                <a href="https://imagif.github.io/MI-WEB-DE/LISTAS-IPTV/">
+                    <h2>LISTAS IPTV</h2>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
-                    <h2>Boton 4</h2>
+                <a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/">
+                    <h2>VESTIDOS</h2>
                 </a>
             </div>
             <div class="card">
@@ -221,12 +181,11 @@
                 <a href="#">
                     <h2>Boton 14</h2>
                 </a>
-	    </div>
+            </div>
             <div class="card">
                 <a href="#">
                     <h2>Boton 15</h2>
                 </a>
-
             </div>
         </div>
     </div>
