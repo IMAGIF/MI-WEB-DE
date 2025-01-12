@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canales en Directo</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding-bottom: 60px;
+            position: relative;
+        }
+
+        header {
+            background-color: #1e2851;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            max-width: 560px;
+            margin: 0 auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+        }
+
+        .inicio-btn {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 5px 10px;
+        }
+
+        .titulo {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .contenido {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+            max-width: 560px;
+            margin: 0 auto;
+        }
+
+        .video-item {
+            width: 100%;
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .video-item h2 {
+            margin-top: 0;
+            margin-bottom: 5px;
+        }
+
+        .video-item p {
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: #666;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        footer {
+            background-color: #1e2851;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            max-width: 560px;
+            margin: 0 auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        @media (max-width: 600px) {
+            header, .contenido, footer {
+                max-width: 95%;
+            }
+            
+            .titulo {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="https://imagif.github.io/MIS-ENLACES/" class="inicio-btn">Inicio</a>
+        <h1 class="titulo">Canales en Directo</h1>
+        <div style="width: 50px;"></div>
+    </header>
+    <div class="contenido">
+        <div class="video-item">
+            <h2>EURONEWS</h2>
+            <p>Noticias internacionales en español las 24 horas</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/O9mOtdZ-nSk?si=EUNPFNFSu10fYDw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>CANAL 24 HORAS</h2>
+            <p>Canal de noticias español con cobertura continua</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/7_srED6k0bE?si=auCGSCKvBcOAgEFa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>SKY NEWS</h2>
+            <p>Noticias británicas e internacionales en inglés</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/YDvsBbKfLPA?si=BmEWPYDlEZWY0VPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>FRANCE24</h2>
+            <p>Canal internacional de noticias francés</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/l8PMl7tUDIE?si=Jb8zqBXVkMHeVGsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>NBC NEWS</h2>
+            <p>Noticias estadounidenses y cobertura internacional</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/Wjha3tGMNqs?si=N7PYKRlO-MpOgE3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>DW EN VIVO</h2>
+            <p>Canal alemán de noticias internacionales en español</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/Io5mt83nCcU?si=85ap_KRKXBkDGsF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>NTN24</h2>
+            <p>Noticias de Latinoamérica y el mundo</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/R7P3BUzco3s?si=92hc_kRoyaTaRICv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>GOL MEXICO</h2>
+            <p>Canal deportivo especializado en fútbol mexicano</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/GvqwcvxRR_c?si=8MMAbq-6pcVEH6WB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>BABY LOONEY TUNES</h2>
+            <p>Series animadas clásicas para niños</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/p5l3ZS1jVUE?si=nGD0wPTk55sGys-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>BLUEY</h2>
+            <p>Serie infantil educativa y entretenida</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/gzw-b65QHHc?si=IVnNgPjkJ4eUmMFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>PEPPA PIG</h2>
+            <p>Serie animada preescolar popular</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/aGMSVJcRxbM?si=xgdcbLxJw3UCXAMB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>FOX WEATHER</h2>
+            <p>Canal meteorológico con cobertura 24/7</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/wt6SIE7BXS8?si=rTROJZ3N-CovVDD1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>WORLD CAM</h2>
+            <p>Cámaras en vivo de diferentes lugares del mundo</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/Bgju_pNB7OA?si=NUUjBoLElq4VeWRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-item">
+            <h2>NASA</h2>
+            <p>Transmisiones espaciales y contenido científico</p>
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/Jm8wRjD3xVA?si=RwAcfxOXnb1RPuy9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+    <footer>
+        email: imagenesgifs@gmail.com
+    </footer>
+</body>
+</html>
