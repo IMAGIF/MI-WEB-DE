@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vestidos Estilo Bohemio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #790fea; /* Violeta */
+            color: white; /* Letra en blanco */
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            margin: 10px 0 20px;
+            font-size: 1.2em;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            margin-bottom: 60px; /* Espacio inferior para evitar superposición con el pie de bohemio */
+        }
+        .item {
+            display: contents;
+        }
+        .item img {
+            width: 150px;
+            height: auto;
+            cursor: pointer;
+            margin: 0 auto;
+            display: block;
+        }
+        .item div {
+            flex: 1;
+            max-width: 400px; /* Reduce el ancho de bohemio descripción */
+        }
+        .item h3 {
+            margin: 0;
+            font-size: 1.5em;
+        }
+        .item p {
+            margin: 10px 0;
+        }
+        .item button {
+            padding: 10px 20px;
+            background-color: #add8e6;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .item button:hover {
+            background-color: #90c1e0;
+        }
+        footer {
+            background-color: #790fea; /* Violeta */
+            color: white; /* Letra en blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            width: 100%;
+        }
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #333;
+            color: white;
+            min-width: 160px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            color: white;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #575757;
+        }
+        .dropdown button {
+            background-color: #000;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .dropdown button:hover {
+            background-color: #444;
+        }
+        .show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>VESTIDOS ESTILO BOHEMIO</h1>
+    <h2>Encuentra el mejor vestido para el momento adecuado y al mejor precio</h2>
+    <div class="dropdown">
+        <button onclick="toggleMenu()">Menú</button>
+        <div id="dropdownContent" class="dropdown-content">
+            <a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/index.html">Inicio</a>
+            <a href="de-verano">Vestido de Verano</a>
+            <a href="de-fiesta">Vestido de Fiesta</a>
+            <a href="casual">Vestido Casual</a>
+            <a href="formal">Vestido Formal</a>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <div class="item">
+        <a href="https://amzn.to/3L3Km3D" target="_blank">
+            <img src="imagen/bohemio/imagen1.avif" alt="Vestido Bohemio">
+        </a>
+        <div>
+            <h3>Marca AUSELILY Maxi Vestidos</h3>
+            <p>Maxi vestido con dos bolsillos laterales, mangas largas, cuello redondo, largo hasta el suelo, elástico en la cintura.</p>
+            <a href="https://amzn.to/3L3Km3D" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3LccSjr" target="_blank">
+            <img src="imagen/bohemio/imagen2.avif" alt="Vestido Bohemio">
+        </a>
+        <div>
+            <h3>Marca CHERFLY Vestido Largo</h3>
+            <p>Vestido de manga corta con cuello redondo, dobladillo fluido. El vestido está hecho de material elástico, fácil de llevar y quitar. </p>
+            <a href="https://amzn.to/3LccSjr" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3VJBk0M" target="_blank">
+            <img src="imagen/bohemio/imagen3.avif" alt="Vestido Bohemio">
+        </a>
+        <div>
+            <h3>Marca AUSELILY Maxi Vestidos</h3>
+            <p>Vestido con dos bolsillos laterales, mangas largas, cuello redondo, elástico en la cintura, suave y cómodo.</p>
+            <a href="https://amzn.to/3VJBk0M" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3XFUUgU" target="_blank">
+            <img src="imagen/bohemio/imagen4.avif" alt="Vestido Bohemio">
+        </a>
+        <div>
+            <h3>Marca AUSELILY Vestido Largo</h3>
+            <p> Vestido de tirantes con cuello en V. Perfecto para el desgaste diario de verano.</p>
+            <a href="https://amzn.to/3XFUUgU" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/4d0CoEz" target="_blank">
+            <img src="imagen/bohemio/imagen5.avif" alt="Vestido Bohemio">
+        </a>
+        <div>
+            <h3>Marca CUPSHE Vestido Sin Mangas</h3>
+            <p>Vestido bohemio sin mangas, cuello en V, vestido fruncido con borlas y cordones con volantes.</p>
+            <a href="https://amzn.to/4d0CoEz" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<footer>
+    2024 &copy; Estilos de Vestidos Populares
+</footer>
+
+<script>
+    function toggleMenu() {
+        document.getElementById("dropdownContent").classList.toggle("show");
+    }
+
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropdown button')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            for (var i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VESTIDOS DE VERANO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #187c20; /* Verde */
+            color: white; /* Letra en blanco */
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            margin: 10px 0 20px;
+            font-size: 1.2em;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            margin-bottom: 60px; /* Espacio inferior para evitar superposición con el pie de verano */
+        }
+        .item {
+            display: contents;
+        }
+        .item img {
+            width: 150px;
+            height: auto;
+            cursor: pointer;
+            margin: 0 auto;
+            display: block;
+        }
+        .item div {
+            flex: 1;
+            max-width: 400px; /* Reduce el ancho de veranocripción */
+        }
+        .item h3 {
+            margin: 0;
+            font-size: 1.5em;
+        }
+        .item p {
+            margin: 10px 0;
+        }
+        .item button {
+            padding: 10px 20px;
+            background-color: #add8e6;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .item button:hover {
+            background-color: #90c1e0;
+        }
+        footer {
+            background-color: #187c20; /* Verde */
+            color: white; /* Letra en blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            width: 100%;
+        }
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #333;
+            color: white;
+            min-width: 160px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            color: white;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #575757;
+        }
+        .dropdown button {
+            background-color: #000;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .dropdown button:hover {
+            background-color: #444;
+        }
+        .show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>VESTIDOS DE VERANO</h1>
+    <h2>Encuentra el mejor vestido para el momento adecuado y al mejor precio</h2>
+    <div class="dropdown">
+        <button onclick="toggleMenu()">Menú</button>
+        <div id="dropdownContent" class="dropdown-content">
+            <a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/index.html">Inicio</a> <!-- URL corregida -->
+            <a href="de-fiesta">Vestido de Fiesta</a>
+            <a href="casual">Vestido Casual</a>
+            <a href="formal">Vestido Formal</a>
+            <a href="bohemio">Vestido Bohemio</a>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <div class="item">
+        <a href="https://amzn.to/3zolLEd" target="_blank">
+            <img src="imagen/de-verano/imagen1.avif" alt="Vestido de verano">
+        </a>
+        <div>
+            <h3>riou 2024 Vestido Mujer Verano</h3>
+            <p>Casual Sin Mangas Estampada Retro Vestidos de Playa Informal con Cuello en V.</p>
+            <a href="https://amzn.to/3zolLEd" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/4cj0L0f" target="_blank">
+            <img src="imagen/de-verano/imagen2.avif" alt="Vestido de Verano">
+        </a>
+        <div>
+            <h3>ONLY Vestido para Mujer</h3>
+            <p>Mini - corte corto. Tirantes estrechos. Apliques de encaje de ganchillo</p>
+            <a href="https://amzn.to/4cj0L0f" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3zoxvXa" target="_blank">
+            <img src="imagen/de-verano/imagen3.avif" alt="Vestido de Verano">
+        </a>
+        <div>
+            <h3>WNEEDU Vestido Mujer Verano</h3>
+            <p>Vestido informal, perfecto para la playa, cuello en V casual con bolsillos.</p>
+            <a href="https://amzn.to/3zoxvXa" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/4cnfpTV" target="_blank">
+            <img src="imagen/de-verano/imagen4.avif" alt="Vestido de Verano">
+        </a>
+        <div>
+            <h3>riou Vestido Camisola Mujer</h3>
+            <p>Sin Mangas Honda Vintage Camisa de Vestir con Estampado de Flores Vestido Casual Vacaciones.</p>
+            <a href="https://amzn.to/45MUwzd" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3W1wnSd" target="_blank">
+            <img src="imagen/de-verano/imagen5.avif" alt="Vestido de Verano">
+        </a>
+        <div>
+            <h3>MOLERANI Midi Vestidos</h3>
+            <p>Vestido de mujer con vuelo, cuello en V, con botones decorativos y sin mangas y con un bolsillo funcional.</p>
+            <a href="https://amzn.to/3W1wnSd" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<footer>
+    2024 &copy; Estilos de Vestidos Populares
+</footer>
+
+<script>
+    function toggleMenu() {
+        document.getElementById("dropdownContent").classList.toggle("show");
+    }
+
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropdown button')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            for (var i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+
+</body>
+</html>

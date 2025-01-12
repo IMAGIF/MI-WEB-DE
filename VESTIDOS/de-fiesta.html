@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VESTIDOS DE FIESTA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #e11515; /* Rojo */
+            color: white; /* Letra en blanco */
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        h2 {
+            margin: 10px 0 20px;
+            font-size: 1.2em;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            margin-bottom: 60px; /* Espacio inferior para evitar superposición con el pie de fiesta */
+        }
+        .item {
+            display: contents;
+        }
+        .item img {
+            width: 150px;
+            height: auto;
+            cursor: pointer;
+            margin: 0 auto;
+            display: block;
+        }
+        .item div {
+            flex: 1;
+            max-width: 400px; /* Reduce el ancho de fiesta descripción */
+        }
+        .item h3 {
+            margin: 0;
+            font-size: 1.5em;
+        }
+        .item p {
+            margin: 10px 0;
+        }
+        .item button {
+            padding: 10px 20px;
+            background-color: #add8e6;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .item button:hover {
+            background-color: #90c1e0;
+        }
+        footer {
+            background-color: #e11515; /* Rojo */
+            color: white; /* Letra en blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            width: 100%;
+        }
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #333;
+            color: white;
+            min-width: 160px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        .dropdown-content a {
+            color: white;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #575757;
+        }
+        .dropdown button {
+            background-color: #000;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .dropdown button:hover {
+            background-color: #444;
+        }
+        .show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>VESTIDOS DE FIESTA</h1>
+    <h2>Encuentra el mejor vestido para el momento adecuado y al mejor precio</h2>
+    <div class="dropdown">
+        <button onclick="toggleMenu()">Menú</button>
+        <div id="dropdownContent" class="dropdown-content">
+            <a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/index.html">Inicio</a>
+            <a href="de-verano">Vestidos de Verano</a>
+            <a href="casual">Vestido Casual</a>
+            <a href="formal">Vestido Formal</a>
+            <a href="bohemio">Vestido Bohemio</a>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <div class="item">
+        <a href="https://amzn.to/4cluGVx" target="_blank">
+            <img src="imagen/de-fiesta/imagen1.avif" alt="Vestido de Fiesta">
+        </a>
+        <div>
+            <h3>Vestido largo de verano para mujer</h3>
+            <p>vestido largo con espalda descubierta, estilo vintage, cuello halter noche, fiesta, cóctel elegante.</p>
+            <a href="https://amzn.to/4cluGVx" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3W19dLN" target="_blank">
+            <img src="imagen/de-fiesta/imagen2.avif" alt="Vestido de Fiesta">
+        </a>
+        <div>
+            <h3>Marca Laughido Vestido largo de cóctel</h3>
+            <p>Hermoso vestido largo de tirantes con abertura.</p>
+            <a href="https://amzn.to/3W19dLN" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/3VDimZm" target="_blank">
+            <img src="imagen/de-fiesta/imagen3.avif" alt="Vestido de Fiesta">
+        </a>
+        <div>
+            <h3>Marca Missufe Vestido de cóctel</h3>
+            <p>Este es un elegante vestido de estilo vintage con un moderno escote corazón y dobladillo de tulipán. Para ocasiones importantes.</p>
+            <a href="https://amzn.to/3VDimZm" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/4cjDDP5" target="_blank">
+            <img src="imagen/de-fiesta/imagen4.avif" alt="Vestido de Fiesta">
+        </a>
+        <div>
+            <h3>Vestido Largo de Sirena</h3>
+            <p>Vestido Largo de Sirena con Estampado Floral con Tirantes Delgados Sin Mangas.</p>
+            <a href="https://amzn.to/4cjDDP5" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+    <div class="item">
+        <a href="https://amzn.to/4bxLhEs" target="_blank">
+            <img src="imagen/de-fiesta/imagen5.avif" alt="Vestido De Fiesta">
+        </a>
+        <div>
+            <h3>Missufe Vestido de cóctel elegante</h3>
+            <p>Vestido de cóctel elegante para mujer, vestido de fiesta, estilo rockabilly, ceñido, vintage, cruzado.</p>
+            <a href="https://amzn.to/4bxLhEs" target="_blank">
+                <button>Ver más</button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<footer>
+    2024 &copy; Estilos de Vestidos Populares
+</footer>
+
+<script>
+    function toggleMenu() {
+        document.getElementById("dropdownContent").classList.toggle("show");
+    }
+
+    window.onclick = function(event) {
+        if (!event.target.matches('.dropdown button')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            for (var i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+
+</body>
+</html>
