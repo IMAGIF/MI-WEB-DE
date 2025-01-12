@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://play-lh.googleusercontent.com/cq_1HNMi5V8RqgMhWaya8xD0osTPnKWVI_ESCLF_F5lu7GeSDKyeErdbvvlU3j8tcaY", EL CONFIDENCIAL
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="EURONEWS" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EURONEWS
+https://www.youtube.com/embed/O9mOtdZ-nSk?si=FU5u3v-K85zM7k9O
+#EXTINF:0 type="favorites" channelId="-1" name="DW" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8h0N8FvyY0rdIg0lfNP2noOFhE4vNelXcg&s", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="stream" channelId="2883" group="NEWS" logo="https://i.imgur.com/05S3yYZ.png", CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FOX" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/180px-Fox_News_Channel_logo.svg.png", FOX
+https://www.youtube.com/embed/YDfiTGGPYCk?si=nOJIVE2uyU0I7Ylk
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/640px-LiveNOW_from_FOX.png", FOX LIVE NOW
+https://www.youtube.com/embed/rXTAxGe3yK0?si=H6pQ-0qcBF92VmKq
+#EXTINF:0 type="stream" channelId="2832" group="NEWS" logo="https://i.imgur.com/w7GV86i.png", RTP 1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2832" group="NEWS" logo="https://i.imgur.com/w7GV86i.png", RTP 1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/xGlToly.png", Bloomberg TV+ UHD (2160p)
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTduVskC-NILQa7Nnt_ZpoEKF5doyClFY41sXPHER8g&s", ABC News USA EN
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="GB News" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png", GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://image.roku.com/developer_channels/prod/e05544ebbf9d0911e33072fd56b9724900b8e7e84fb53d21d6155a7850f359c0.png", OAN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="363" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png", Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="NEWS" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:0 type="favorites" channelId="1321" group="NEWS" logo="https://i.imgur.com/3NwzqoB.png", La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="24 HORAS" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", 24 HORAS
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/lPyJhBN.png", UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 type="stream" channelId="2832" group="NEWS" logo="https://i.imgur.com/w7GV86i.png", RTP 1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="RTP3 Ⓖ" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpR_lBIy9QXEthZxozlR8uPbXOllBJV5AddBUjWsqxvgkPd4xUy2A2l3D8i36dO1zcA&usqp=CAU", RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/tjI0dLx.png", Elche 7 TV (576p)
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+#EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
+https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
+
+#EXTINF:0 type="stream" channelId="-1" name="NASA SPACEFLIGHT" group="YOUTUBE" logo="https://i.pinimg.com/474x/82/ff/47/82ff47cae833411639ebd93c6169e7f0.jpg", NASA SPACE FLIGHT  
+https://www.youtube.com/watch?v=mhJRzQsLZGg
