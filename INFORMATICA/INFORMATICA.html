@@ -3,51 +3,140 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>INFORMATICA</title>
+    <title>Inteligencia</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-        .page-header {
-            background-color: #187c20; /* Verde */
-            color: white; /* Letra en blanco */
-            padding: 20px 0;
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .page-header, .page-footer {
+            background: black;
+            color: white;
+            padding: 20px;
             text-align: center;
-            position: relative;
+            width: 100%;
         }
+
         .home-button {
             position: absolute;
-            left: 20px;
             top: 20px;
-            color: white;
+            left: 20px;
+            padding: 10px 20px;
+            background: white;
+            color: black;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
             text-decoration: none;
         }
+
         .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid-container {
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-columns: repeat(5, 1fr);
             gap: 20px;
             padding: 20px;
             max-width: 1200px;
             margin: 0 auto;
         }
+
         .card {
-            background-color: white;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 20px;
-            text-align: center;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
         }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
         .card a {
             text-decoration: none;
-            color: #333;
+            display: block;
+            padding: 20px;
+            text-align: center;
+            height: 100%;
         }
+
+        .card:nth-child(1) { background: #FF6B6B; }
+        .card:nth-child(1) a { color: white; }
+
+        .card:nth-child(2) { background: #4ECDC4; }
+        .card:nth-child(2) a { color: black; }
+
+        .card:nth-child(3) { background: #45B7D1; }
+        .card:nth-child(3) a { color: white; }
+
+        .card:nth-child(4) { background: #96CEB4; }
+        .card:nth-child(4) a { color: black; }
+
+        .card:nth-child(5) { background: #D4A5A5; }
+        .card:nth-child(5) a { color: black; }
+
+        .card:nth-child(6) { background: #9B59B6; }
+        .card:nth-child(6) a { color: white; }
+
+        .card:nth-child(7) { background: #3498DB; }
+        .card:nth-child(7) a { color: white; }
+
+        .card:nth-child(8) { background: #F1C40F; }
+        .card:nth-child(8) a { color: black; }
+
+        .card:nth-child(9) { background: #E74C3C; }
+        .card:nth-child(9) a { color: white; }
+
+        .card:nth-child(10) { background: #2ECC71; }
+        .card:nth-child(10) a { color: white; }
+
+        .card:nth-child(11) { background: #FF6B6B; }
+        .card:nth-child(11) a { color: white; }
+
+        .card:nth-child(12) { background: #4ECDC4; }
+        .card:nth-child(12) a { color: black; }
+
+        .card:nth-child(13) { background: #45B7D1; }
+        .card:nth-child(13) a { color: white; }
+
+        .card:nth-child(14) { background: #96CEB4; }
+        .card:nth-child(14) a { color: black; }
+
         .card h2 {
-            margin: 0;
-            font-size: 1.5em;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .home-button {
+                position: relative;
+                display: inline-block;
+                margin: 10px;
+                left: 0;
+                top: 0;
+            }
         }
     </style>
 </head>
@@ -74,7 +163,67 @@
                     <h2>Boton 3</h2>
                 </a>
             </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 4</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 5</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 6</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 7</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 8</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 9</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 10</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 11</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 12</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 13</h2>
+                </a>
+            </div>
+            <div class="card">
+                <a href="#">
+                    <h2>Boton 14</h2>
+                </a>
+            </div>
         </div>
     </div>
+
+    <footer class="page-footer">
+        <p>Creado por #imagif</p>
+        <p>email: imagenesgifs@gmail.com</p>
+    </footer>
 </body>
 </html>
