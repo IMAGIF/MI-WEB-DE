@@ -58,11 +58,11 @@
             overflow: hidden;
             transition: transform 0.3s ease;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-            background: #fff;
-            text-align: center;
             display: flex;
-            flex-direction: column;
+            align-items: center;
             justify-content: center;
+            height: 150px;
+            color: white;
         }
 
         .card:hover {
@@ -72,22 +72,35 @@
         .card a {
             text-decoration: none;
             display: block;
-            padding: 20px;
             text-align: center;
+            width: 100%;
             height: 100%;
-            color: black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: inherit; /* Use the color of the parent element */
         }
 
         .card h2 {
             font-size: 1.2rem;
-            margin-bottom: 10px;
+            margin: 0;
         }
 
-        .card p {
-            font-size: 0.9rem;
-            line-height: 1.4;
-            opacity: 0.9;
-        }
+        .card:nth-child(1) { background: #FF6B6B; }
+        .card:nth-child(2) { background: #4ECDC4; color: black; }
+        .card:nth-child(3) { background: #45B7D1; }
+        .card:nth-child(4) { background: #96CEB4; color: black; }
+        .card:nth-child(5) { background: #D4A5A5; color: black; }
+        .card:nth-child(6) { background: #9B59B6; }
+        .card:nth-child(7) { background: #3498DB; }
+        .card:nth-child(8) { background: #F1C40F; color: black; }
+        .card:nth-child(9) { background: #E74C3C; }
+        .card:nth-child(10) { background: #2ECC71; }
+        .card:nth-child(11) { background: #FF6B6B; }
+        .card:nth-child(12) { background: #4ECDC4; color: black; }
+        .card:nth-child(13) { background: #45B7D1; }
+        .card:nth-child(14) { background: #96CEB4; color: black; }
+        .card:nth-child(15) { background: #D4A5A5; color: black; }
 
         @media (max-width: 768px) {
             .grid-container {
