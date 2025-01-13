@@ -63,6 +63,7 @@
             justify-content: center;
             height: 150px;
             color: white;
+            position: relative;
         }
 
         .card:hover {
@@ -79,6 +80,18 @@
             align-items: center;
             justify-content: center;
             color: inherit; /* Use the color of the parent element */
+            position: relative;
+            z-index: 1;
+        }
+
+        .card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
         }
 
         .card h2 {
@@ -127,21 +140,25 @@
         <div class="grid-container">
             <div class="card">
                 <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html">
+                    <img src="D:/MI-WEB-DE/IMAGEN/imagen1.avif" alt="INFORMATICA">
                     <h2>INFORMATICA</h2>
                 </a>
             </div>
             <div class="card">
                 <a href="https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/cuentos-infantiles.html">
+                    <img src="D:/MI-WEB-DE/IMAGEN/imagen2.avif" alt="CUENTOS INFANTILES">
                     <h2>CUENTOS INFANTILES</h2>
                 </a>
             </div>
             <div class="card">
                 <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/MULTIMEDIA.html">
+                    <img src="D:/MI-WEB-DE/IMAGEN/imagen3.avif" alt="MULTIMEDIA">
                     <h2>MULTIMEDIA</h2>
                 </a>
             </div>
             <div class="card">
                 <a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/vestidos.html">
+                    <img src="D:/MI-WEB-DE/IMAGEN/imagen4.avif" alt="VESTIDOS">
                     <h2>VESTIDOS</h2>
                 </a>
             </div>
