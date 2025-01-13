@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MULTIMEDIA</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff; /* Color de fondo claro */
+            color: #333; /* Color de texto principal */
+            margin: 0;
+            padding-bottom: 60px; /* Espacio para el footer */
+        }
+
+        header {
+            background-color: #1e2851; /* Color de fondo azul oscuro */
+            color: #fff; /* Color de texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative; /* Asegura que el menú se posiciona correctamente */
+            max-width: 850px; /* Ancho máximo de la cabecera */
+            margin: 0 auto; /* Centra la cabecera */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
+        }
+
+        .menu-container {
+            position: absolute; /* Posición absoluta para situar el menú correctamente */
+            top: 10px; /* Alineado con el contenido del header */
+            left: 10px; /* Espaciado desde el borde izquierdo */
+        }
+
+        .menu-button {
+            background-color: #ff0000; /* Fondo rojo */
+            color: #fff; /* Texto blanco */
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            text-decoration: none; /* Sin subrayado */
+        }
+
+        .header-buttons {
+            display: flex;
+            justify-content: flex-end; /* Alinea el botón a la derecha */
+            padding: 0 20px; /* Espacio a los lados para los botones */
+            margin-top: 10px; /* Espacio entre el título y los botones */
+        }
+
+        .header-buttons a {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            padding: 10px 20px;
+            font-size: 12px; /* Tamaño de fuente */
+            border: none; /* Sin borde */
+            cursor: pointer; /* Cursor de puntero al pasar por encima */
+            border-radius: 5px; /* Bordes redondeados */
+            text-decoration: none; /* Sin subrayado */
+            text-align: center; /* Centra el texto en los botones */
+        }
+
+        .titulo {
+            font-size: 36px; /* Tamaño de fuente grande para el título */
+            margin: 20px 0; /* Espacio alrededor del título */
+        }
+
+        .archivo {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center; /* Centrar el texto */
+        }
+
+        .archivo .archivo-boton {
+            display: block;
+            width: 200px; /* Ancho de los botones */
+            margin: 10px auto; /* Espaciado y centrado */
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        .archivo .deportes {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+        }
+
+        .archivo .peliculas {
+            background-color: #1e90ff; /* Fondo azul */
+            color: #fff; /* Texto blanco */
+        }
+
+        .archivo .noticias {
+            background-color: #ff6347; /* Fondo rojo tomate */
+            color: #fff; /* Texto blanco */
+        }
+
+        .archivo .documentales {
+            background-color: #32cd32; /* Fondo verde lima */
+            color: #fff; /* Texto blanco */
+        }
+
+        .archivo .espana {
+            background-color: #ffa500; /* Fondo naranja */
+            color: #fff; /* Texto blanco */
+        }
+
+        .barra-mensaje {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            margin: 20px 0;
+            width: 850px; /* Ancho igual al de la cabecera */
+            margin: 0 auto; /* Centrado horizontal */
+            border-radius: 10px; /* Bordes redondeados */
+        }
+
+        @media (max-width: 600px) {
+            .barra-mensaje {
+                width: 90%; /* Ancho del 90% en dispositivos pequeños */
+                max-width: 100%; /* Ancho máximo */
+                padding: 10px; /* Espacio interno */
+                font-size: 14px; /* Tamaño de fuente más pequeño */
+            }
+        }
+
+        footer {
+            background-color: #1e2851; /* Color de fondo azul oscuro */
+            color: #fff; /* Color de texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative; /* Cambiado a relativo */
+            max-width: 850px; /* Ancho máximo del footer */
+            margin: 0 auto; /* Centrar el footer */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="menu-container">
+            <a href="https://imagif.github.io/MI-WEB-DE/" class="menu-button">Inicio</a>
+        </div>
+        <h1 class="titulo">LISTAS IPTV</h1>
+        <div class="header-buttons">
+            <a href="https://imagif.github.io/Cuentos-Infantiles/" target="_blank">CUENTOS</a>
+        </div>
+    </header>
+    <div class="barra-mensaje">
+        <p>LISTAS PERSONALES IPTV</p>
+    </div>
+    <div class="archivo">
+        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html" class="archivo-boton deportes">Listas-IPTV</a>
+        <a href="#" class="archivo-boton peliculas">Noticias</a>
+        <a href="#" class="archivo-boton noticias">Dibujos Animados</a>
+        <a href="#" class="archivo-boton documentales">Naturaleza</a>
+        <a href="#" class="archivo-boton espana">Espacio</a>
+    </div>
+    <footer>
+        <p>© 2024 Listas iptv. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
