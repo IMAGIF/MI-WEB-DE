@@ -3,227 +3,205 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inteligencia</title>
+    <title>INFORMÁTICA - Listas IPTV PERSONALES</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-
         body {
-            min-height: 100vh;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff; /* Color de fondo claro */
+            color: #333; /* Color de texto principal */
+            margin: 0;
+            padding-bottom: 60px; /* Espacio para el footer */
         }
 
-        .page-header, .page-footer {
-            background: black;
-            color: white;
-            padding: 20px;
+        header {
+            background-color: #1e2851; /* Color de fondo azul oscuro */
+            color: #fff; /* Color de texto blanco */
             text-align: center;
-            width: 100%;
+            padding: 10px 0;
+            position: relative; /* Asegura que el menú se posiciona correctamente */
+            max-width: 850px; /* Ancho máximo de la cabecera */
+            margin: 0 auto; /* Centra la cabecera */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
+            display: flex; /* Utilizamos flexbox para alinear elementos */
+            justify-content: space-between; /* Espacio entre los elementos */
+            align-items: center; /* Alineación vertical centrada */
         }
 
-        .home-button {
-            position: absolute;
-            top: 20px;
-            left: 20px;
+        .menu-container {
+            display: flex;
+            justify-content: flex-start; /* Alinea el menú a la izquierda */
+            align-items: center;
+        }
+
+        .menu-button {
+            background-color: #ff0000; /* Fondo rojo */
+            color: #fff; /* Texto blanco */
             padding: 10px 20px;
-            background: white;
-            color: black;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .dropdown-content {
+            display: none; /* Oculto por defecto */
+            position: absolute;
+            background-color: #1e2851; /* Fondo del dropdown */
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Sombra */
+            z-index: 1;
+            border-radius: 5px;
+        }
+
+        .dropdown-content a {
+            color: white; /* Texto blanco */
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #575757; /* Fondo ligeramente más claro al pasar el ratón */
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block; /* Mostrar el contenido al pasar el ratón */
+        }
+
+        .header-buttons {
+            display: flex;
+            align-items: center;
+        }
+
+        .header-buttons a {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            padding: 10px 20px;
+            font-size: 16px; /* Tamaño de fuente */
+            border: none; /* Sin borde */
+            cursor: pointer; /* Cursor de puntero al pasar por encima */
+            border-radius: 5px; /* Bordes redondeados */
+            text-decoration: none; /* Sin subrayado */
+            text-align: center; /* Centra el texto en los botones */
+            margin-left: 10px; /* Espacio entre botones */
+        }
+
+        .titulo {
+            font-size: 24px; /* Tamaño de fuente más pequeño para el título */
+            margin: 0; /* Espacio alrededor del título */
+            flex-grow: 1; /* Crece para ocupar el espacio restante */
+        }
+
+        .archivo {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center; /* Centrar el texto */
+        }
+
+        .archivo .archivo-boton {
+            display: block;
+            width: 200px; /* Ancho de los botones */
+            margin: 10px auto; /* Espaciado y centrado */
+            padding: 10px 20px;
+            font-size: 16px;
             border: none;
             border-radius: 5px;
             cursor: pointer;
             text-decoration: none;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(5, 1fr);
-            gap: 20px;
-            padding: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .card {
-            border-radius: 15px;
-            overflow: hidden;
-            transition: transform 0.3s ease;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-        }
-
-        .card:hover {
-            transform: translateY(-10px);
-        }
-
-        .card a {
-            text-decoration: none;
-            display: block;
-            padding: 20px;
             text-align: center;
-            height: 100%;
         }
 
-        .card:nth-child(1) { background: #FF6B6B; }
-        .card:nth-child(1) a { color: white; }
-
-        .card:nth-child(2) { background: #4ECDC4; }
-        .card:nth-child(2) a { color: black; }
-
-        .card:nth-child(3) { background: #45B7D1; }
-        .card:nth-child(3) a { color: white; }
-
-        .card:nth-child(4) { background: #96CEB4; }
-        .card:nth-child(4) a { color: black; }
-
-        .card:nth-child(5) { background: #D4A5A5; }
-        .card:nth-child(5) a { color: black; }
-
-        .card:nth-child(6) { background: #9B59B6; }
-        .card:nth-child(6) a { color: white; }
-
-        .card:nth-child(7) { background: #3498DB; }
-        .card:nth-child(7) a { color: white; }
-
-        .card:nth-child(8) { background: #F1C40F; }
-        .card:nth-child(8) a { color: black; }
-
-        .card:nth-child(9) { background: #E74C3C; }
-        .card:nth-child(9) a { color: white; }
-
-        .card:nth-child(10) { background: #2ECC71; }
-        .card:nth-child(10) a { color: white; }
-
-        .card:nth-child(11) { background: #FF6B6B; }
-        .card:nth-child(11) a { color: white; }
-
-        .card:nth-child(12) { background: #4ECDC4; }
-        .card:nth-child(12) a { color: black; }
-
-        .card:nth-child(13) { background: #45B7D1; }
-        .card:nth-child(13) a { color: white; }
-
-        .card:nth-child(14) { background: #96CEB4; }
-        .card:nth-child(14) a { color: black; }
-
-        .card h2 {
-            font-size: 1.2rem;
-            margin-bottom: 10px;
+        .archivo .deportes {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
         }
 
-        .card p {
-            font-size: 0.9rem;
-            line-height: 1.4;
-            opacity: 0.9;
+        .archivo .peliculas {
+            background-color: #1e90ff; /* Fondo azul */
+            color: #fff; /* Texto blanco */
         }
 
-        @media (max-width: 768px) {
-            .grid-container {
-                grid-template-columns: repeat(2, 1fr);
+        .archivo .noticias {
+            background-color: #ff6347; /* Fondo rojo tomate */
+            color: #fff; /* Texto blanco */
+        }
+
+        .archivo .documentales {
+            background-color: #32cd32; /* Fondo verde lima */
+            color: #fff; /* Texto blanco */
+        }
+
+        .archivo .espana {
+            background-color: #ffa500; /* Fondo naranja */
+            color: #fff; /* Texto blanco */
+        }
+
+        .barra-mensaje {
+            background-color: #000; /* Fondo negro */
+            color: #fff; /* Texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            margin: 20px 0;
+            width: 850px; /* Ancho igual al de la cabecera */
+            margin: 0 auto; /* Centrado horizontal */
+            border-radius: 10px; /* Bordes redondeados */
+        }
+
+        @media (max-width: 600px) {
+            .barra-mensaje {
+                width: 90%; /* Ancho del 90% en dispositivos pequeños */
+                max-width: 100%; /* Ancho máximo */
+                padding: 10px; /* Espacio interno */
+                font-size: 14px; /* Tamaño de fuente más pequeño */
             }
-            
-            .home-button {
-                position: relative;
-                display: inline-block;
-                margin: 10px;
-                left: 0;
-                top: 0;
-            }
+        }
+
+        footer {
+            background-color: #1e2851; /* Color de fondo azul oscuro */
+            color: #fff; /* Color de texto blanco */
+            text-align: center;
+            padding: 10px 0;
+            position: relative; /* Cambiado a relativo */
+            max-width: 850px; /* Ancho máximo del footer */
+            margin: 0 auto; /* Centrar el footer */
+            border-radius: 10px; /* Bordes redondeados */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
         }
     </style>
 </head>
 <body>
-    <header class="page-header">
-        <a href="https://imagif.github.io/MI-WEB-DE/index.html" class="home-button">Inicio</a>
-        <h1>INFORMATICA</h1>
-    </header>
-
-    <div class="container">
-        <div class="grid-container">
-            <div class="card">
-                <a href="https://github.com/IMAGIF/MI-WEB-DE/INFORMATICA/CREAR-VIDEOS.html">
-                    <h2>Boton 1</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 2</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 3</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 4</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 5</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 6</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 7</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 8</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 9</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 10</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 11</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 12</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 13</h2>
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <h2>Boton 14</h2>
-                </a>
+    <header>
+        <div class="menu-container">
+            <div class="dropdown">
+                <button class="menu-button">MENÚ</button>
+                <div class="dropdown-content">
+                    <a href="index.html">Inicio</a>
+                    <a href="informatica.html">Informática</a>
+                </div>
             </div>
         </div>
+        <h1 class="titulo">INFORMÁTICA</h1>
+        <div class="header-buttons">
+            <a href="https://imagif.github.io/Cuentos-Infantiles/" target="_blank">CUENTOS</a>
+        </div>
+    </header>
+
+    <div class="barra-mensaje">
+        <p>LISTAS PERSONALES IPTV - INFORMÁTICA</p>
     </div>
 
-    <footer class="page-footer">
-        <p>Creado por #imagif</p>
-        <p>email: imagenesgifs@gmail.com</p>
+    <div class="archivo">
+        <a href="instalar-pc.html" class="archivo-boton deportes">INSTALAR PC</a>
+        <a href="herramientas-ia.html" class="archivo-boton peliculas">CONTENIDO IA</a>
+        <a href="mis-webs.html" class="archivo-boton noticias">MIS WEBS</a>
+        <a href="mis-programas.html" class="archivo-boton documentales">MIS PROGRAMAS</a>
+        <a href="utilidades.html" class="archivo-boton espana">UTILIDADES</a>
+    </div>
+
+    <footer>
+        <p>© 2024 Listas iptv. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
