@@ -7,163 +7,100 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f0f8ff; /* Color de fondo claro */
-            color: #333; /* Color de texto principal */
+            background-color: #7cfc00; /* Fondo verde hierba */
+            color: #333;
             margin: 0;
-            padding-bottom: 60px; /* Espacio para el footer */
+            padding: 0;
         }
 
-        header {
-            background-color: #1e2851; /* Color de fondo azul oscuro */
-            color: #fff; /* Color de texto blanco */
-            text-align: center;
-            padding: 10px 0;
-            position: relative; /* Asegura que el menú se posiciona correctamente */
-            max-width: 850px; /* Ancho máximo de la cabecera */
-            margin: 0 auto; /* Centra la cabecera */
-            border-radius: 10px; /* Bordes redondeados */
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
-        }
-
-        .menu-container {
-            position: absolute; /* Posición absoluta para situar el menú correctamente */
-            top: 10px; /* Alineado con el contenido del header */
-            left: 10px; /* Espaciado desde el borde izquierdo */
-        }
-
-        .menu-button {
+        header, footer {
             background-color: #ff0000; /* Fondo rojo */
-            color: #fff; /* Texto blanco */
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-            text-decoration: none; /* Sin subrayado */
-        }
-
-        .header-buttons {
-            display: flex;
-            justify-content: flex-end; /* Alinea el botón a la derecha */
-            padding: 0 20px; /* Espacio a los lados para los botones */
-            margin-top: 10px; /* Espacio entre el título y los botones */
-        }
-
-        .header-buttons a {
-            background-color: #000; /* Fondo negro */
-            color: #fff; /* Texto blanco */
-            padding: 10px 20px;
-            font-size: 12px; /* Tamaño de fuente */
-            border: none; /* Sin borde */
-            cursor: pointer; /* Cursor de puntero al pasar por encima */
-            border-radius: 5px; /* Bordes redondeados */
-            text-decoration: none; /* Sin subrayado */
-            text-align: center; /* Centra el texto en los botones */
-        }
-
-        .titulo {
-            font-size: 36px; /* Tamaño de fuente grande para el título */
-            margin: 20px 0; /* Espacio alrededor del título */
-        }
-
-        .archivo {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center; /* Centrar el texto */
-        }
-
-        .archivo .archivo-boton {
-            display: block;
-            width: 200px; /* Ancho de los botones */
-            margin: 10px auto; /* Espaciado y centrado */
-            padding: 10px 20px;
-            font-size: 16px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
-            text-align: center;
-        }
-
-        .archivo .deportes {
-            background-color: #000; /* Fondo negro */
-            color: #fff; /* Texto blanco */
-        }
-
-        .archivo .peliculas {
-            background-color: #1e90ff; /* Fondo azul */
-            color: #fff; /* Texto blanco */
-        }
-
-        .archivo .noticias {
-            background-color: #ff6347; /* Fondo rojo tomate */
-            color: #fff; /* Texto blanco */
-        }
-
-        .archivo .documentales {
-            background-color: #32cd32; /* Fondo verde lima */
-            color: #fff; /* Texto blanco */
-        }
-
-        .archivo .espana {
-            background-color: #ffa500; /* Fondo naranja */
-            color: #fff; /* Texto blanco */
-        }
-
-        .barra-mensaje {
-            background-color: #000; /* Fondo negro */
-            color: #fff; /* Texto blanco */
+            color: #fff; /* Fuentes en blanco */
             text-align: center;
             padding: 10px 0;
-            margin: 20px 0;
-            width: 850px; /* Ancho igual al de la cabecera */
+            max-width: 800px; /* Ancho máximo */
             margin: 0 auto; /* Centrado horizontal */
             border-radius: 10px; /* Bordes redondeados */
         }
 
+        header .inicio-btn {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 5px 10px;
+            display: block;
+            text-align: left;
+            margin: 10px 0;
+        }
+
+        .titulo {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .contenido {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+            max-width: 800px; /* Ancho máximo */
+            margin: 0 auto; /* Centrado horizontal */
+        }
+
+        .contenido a {
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            margin: 10px 0;
+            border-radius: 10px; /* Bordes redondeados */
+            overflow: hidden;
+        }
+
+        .contenido img {
+            width: 100%;
+            border-radius: 10px; /* Bordes redondeados */
+        }
+
+        footer p {
+            margin: 0;
+        }
+
         @media (max-width: 600px) {
-            .barra-mensaje {
-                width: 90%; /* Ancho del 90% en dispositivos pequeños */
-                max-width: 100%; /* Ancho máximo */
-                padding: 10px; /* Espacio interno */
-                font-size: 14px; /* Tamaño de fuente más pequeño */
+            header, .contenido, footer {
+                max-width: 95%;
+            }
+            
+            .titulo {
+                font-size: 20px;
             }
         }
-
-        footer {
-            background-color: #1e2851; /* Color de fondo azul oscuro */
-            color: #fff; /* Color de texto blanco */
-            text-align: center;
-            padding: 10px 0;
-            position: relative; /* Cambiado a relativo */
-            max-width: 850px; /* Ancho máximo del footer */
-            margin: 0 auto; /* Centrar el footer */
-            border-radius: 10px; /* Bordes redondeados */
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra para darle profundidad */
-        }
-
     </style>
 </head>
 <body>
     <header>
-        <div class="menu-container">
-            <a href="https://imagif.github.io/MI-WEB-DE/" class="menu-button">Inicio</a>
-        </div>
         <h1 class="titulo">MULTIMEDIA</h1>
-        <div class="header-buttons">
-            <a href="https://imagif.github.io/Cuentos-Infantiles/" target="_blank">CUENTOS</a>
-        </div>
+        <a href="https://imagif.github.io/MI-WEB-DE/" class="inicio-btn">INICIO</a>
     </header>
-    <div class="archivo">
-        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html" class="archivo-boton deportes">Listas-IPTV</a>
-        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LIVE.html" class="archivo-boton peliculas">Noticias</a>
-        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/Dibujos-Animados.html" class="archivo-boton noticias">Dibujos Animados</a>
-        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/NATURALEZA.html" class="archivo-boton documentales">NATURALEZA</a>
-        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/ESPACIO.html" class="archivo-boton espana">ESPACIO</a>
+    <div class="contenido">
+        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html">
+            <img src="../IMAGEN/31.avif" alt="LISTAS IPTV">
+        </a>
+        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LIVE.html">
+            <img src="../IMAGEN/32.avif" alt="NOTICIAS">
+        </a>
+        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/Dibujos-Animados.html">
+            <img src="../IMAGEN/33.avif" alt="DIBUJOS ANIMADOS">
+        </a>
+        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/NATURALEZA.html">
+            <img src="../IMAGEN/34.avif" alt="NATURALEZA">
+        </a>
+        <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/ESPACIO.html">
+            <img src="../IMAGEN/35.avif" alt="ESPACIO">
+        </a>
     </div>
     <footer>
-        <p>© 2025 Listas iptv. Todos los derechos reservados.</p>
+        <p>Pie de página: 2025 Listas IPTV y Canales en Directo.</p>
     </footer>
 </body>
 </html>
