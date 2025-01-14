@@ -16,3 +16,5 @@ dtv://antenna:38/dvb/6
 dtv://antenna:25/dvb/7
 #EXTINF:0 type="favorites" group="Pelis", TVG2 HD
 dtv://antenna:25/dvb/8
+#EXTINF:0 type="favorites" group="Generalistas" logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200", El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
