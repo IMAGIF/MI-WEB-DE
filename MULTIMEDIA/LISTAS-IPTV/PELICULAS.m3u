@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/NJYEYE3.png", Rakuten Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Dominican Republic" logo="https://i.imgur.com/DBvm7YS.png", AION TV (1080p)
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Family;Movies" logo="https://i.imgur.com/hboiinD.jpg", Rakuten TV Family Spain (720p)
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png", Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="stream" channelId="4995" group="United Arab Emirates" logo="https://i.imgur.com/tYOxhA9.png", MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="New Zealand", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="United States" logo="https://i.imgur.com/bZWoDTg.png", Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="United States" logo="https://i.imgur.com/p16HNIM.png", Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="New Zealand", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="United States" logo="https://i.imgur.com/p16HNIM.png", Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Dominican Republic" logo="https://i.imgur.com/DBvm7YS.png", AION TV (1080p)
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ELEFANTES IMAGIF 1" group="YOUTUBE" logo="https://raw.githubusercontent.com/IMAGIF/PAPAPUMUKY1/main/IMAGEN/CUENTOS.jpg", ELEFANTES IMAGIF 1
+https://www.youtube.com/embed/4msWlq3MZUg?si=MC_Zb2eNK-nSbqyi
+#EXTINF:0 type="stream" channelId="-1" name="ELEFANTES IMAGIF 2" group="YOUTUBE" logo="https://raw.githubusercontent.com/IMAGIF/PAPAPUMUKY1/1416a3bbcbb1429849d24bbbcc3a4566cf45a60a/IMAGEN/RAYO%20ESPECTRAL.jpeg", ELEFANTES IMAGIF 2
+https://www.youtube.com/embed/s2Hy_s1L0FQ?si=xAeP9Wi2IJdWYQ-F
