@@ -1,17 +1,28 @@
 
+Inicio Total
+https://imagif.github.io/MI-WEB-DE/
+
+
+
 https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/cuentos-infantiles.html
 MI-WEB-DE/CUENTOS-INFANTILES/cuentos-infantiles.html
 
-MI-WEB-DE/INFORMATICA/INFORMATICA.html
 
-	MI-WEB-DE/INFORMATICA/CREAR-VIDEOS.html
+
+
+https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html
+
+	
 	MI-WEB-DE/INFORMATICA/IMAGEN.html
 	MI-WEB-DE/INFORMATICA/SONIDO.html
 	MI-WEB-DE/INFORMATICA/VIDEO.html
 
-	MI-WEB-DE/MULTIMEDIA/multimedia.html
+	
+https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/MULTIMEDIA.html
+
+MI-WEB-DE/MULTIMEDIA/multimedia.html
 		
-		MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html
+		MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html    https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html
 		MI-WEB-DE/MULTIMEDIA/LIVE.html
 		MI-WEB-DE/MULTIMEDIA/DIBUJOS-ANIMADOS.html
 
