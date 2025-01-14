@@ -1,20 +1,18 @@
 #EXTM3U
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0 type="favorites" group="Noticias", La 1 HD
+#EXTINF:0 type="favoritos" grupo="Noticias", La 1 HD
 dtv://antenna:22/dvb/1
-#EXTINF:0 type="favorites" group="Noticias", La 2 HD
+#EXTINF:0 type="favoritos" grupo="Noticias", La 2 HD
 dtv://antenna:22/dvb/2
-#EXTINF:0 type="favorites" group="Noticias", antena3 HD
+#EXTINF:0 type="favoritos" grupo="Noticias", antena3 HD
 dtv://antenna:38/dvb/3
-#EXTINF:0 type="favorites" group="Noticias", Cuatro HD
+#EXTINF:0 type="favoritos" grupo="Noticias", Cuatro HD
 dtv://antenna:28/dvb/4
-#EXTINF:0 type="favorites" group="Noticias", Telecinco HD
+#EXTINF:0 type="favoritos" grupo="Noticias", Telecinco HD
 dtv://antenna:28/dvb/5
-#EXTINF:0 type="favorites" group="Noticias", laSexta HD
+#EXTINF:0 type="favoritos" grupo="Noticias", laSexta HD
 dtv://antenna:38/dvb/6
-#EXTINF:0 type="favorites" group="Noticias", TVG HD A Coruña
+#EXTINF:0 type="favoritos" grupo="Noticias", TVG HD A Coruña
 dtv://antenna:25/dvb/7
-#EXTINF:0 type="favorites" group="Noticias", tvG2 HD
+#EXTINF:0 type="favoritos" grupo="Noticias", tvG2 HD
 dtv://antenna:25/dvb/8
