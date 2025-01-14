@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 NOMBRE="La 1 HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:22/dvb/1
-#EXTINF:0 NOMBRE="la 2 HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:22/dvb/2
-#EXTINF:0 NOMBRE="A3 HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:38/dvb/3
-#EXTINF:0 NOMBRE="CUATRO HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:28/dvb/4
-#EXTINF:0 NOMBRE="TELECINCO HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:28/dvb/5
-#EXTINF:0 NOMBRE="LA SEXTA HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:38/dvb/6
-#EXTINF:0 NOMBRE="TVG HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:25/dvb/7
-#EXTINF:0 NOMBRE="TVG2 HD" GRUPO="NOTICIAS" logo="" VER: dtv://antenna:25/dvb/8
+#EXTINF:0 NAME="La 1 HD" GROUP="NOTICIAS" logo="" dtv://antenna:22/dvb/1
+#EXTINF:0 NAME="la 2 HD" GROUP="NOTICIAS" logo="" dtv://antenna:22/dvb/2
+#EXTINF:0 NAME="A3 HD" GROUP="NOTICIAS" logo="" dtv://antenna:38/dvb/3
+#EXTINF:0 NAME="CUATRO HD" GROUP="NOTICIAS" logo="" dtv://antenna:28/dvb/4
+#EXTINF:0 NAME="TELECINCO HD" GROUP="NOTICIAS" logo="" dtv://antenna:28/dvb/5
+#EXTINF:0 NAME="LA SEXTA HD" GROUP="NOTICIAS" logo="" dtv://antenna:38/dvb/6
+#EXTINF:0 NAME="TVG HD" GROUP="NOTICIAS" logo="" dtv://antenna:25/dvb/7
+#EXTINF:0 NAME="TVG2 HD" GROUP="NOTICIAS" logo="" dtv://antenna:25/dvb/8
