@@ -26,6 +26,23 @@ MI-WEB-DE/MULTIMEDIA/multimedia.html
 		MI-WEB-DE/MULTIMEDIA/LIVE.html
 		MI-WEB-DE/MULTIMEDIA/DIBUJOS-ANIMADOS.html
 
+
+En multimedia así quedan los links: 
+	LISTAS IPTV: https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html
+	NOTICIAS: https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LIVE.html
+	DIBUJOS ANIMADOS: https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/Dibujos-Animados.html
+	NATURALEZA: https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/NATURALEZA.html
+	ESPACIO: https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/ESPACIO.html
+
+Encabezado: MULTIMEDIA
+Botón Inicio: https://imagif.github.io/MI-WEB-DE/
+imágenes: "D:\MI-WEB-DE\IMAGEN\31.avif"
+
+Pie de página: 2025 Listas IPTV y Canales en Directo.
+
+imágenes de listas iptv para la tele
+"D:\MI-WEB-DE\MULTIMEDIA\LISTAS-IPTV\IMAGEN\NATURALEZA.jpeg"
+MULTIMEDIA/LISTAS-IPTV/IMAGEN/NATURALEZA.jpeg
 	
 
 

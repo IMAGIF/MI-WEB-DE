@@ -1,0 +1,55 @@
+IPTV COPIO PARA ORDENAR
+
+NOMBRE: Turkmenistan Sport
+VER: http://217.174.225.146/hls/ch004_720/index.m3u8
+LOGO: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU
+GRUPO: DEPORTE
+
+La 1 HD
+dtv://antenna:22/dvb/1
+
+la 2 HD
+dtv://antenna:22/dvb/2
+
+A3 HD
+dtv://antenna:38/dvb/3
+
+CUATRO HD
+dtv://antenna:28/dvb/4
+
+TELECINCO HD
+dtv://antenna:28/dvb/5
+
+LA SEXTA HD
+dtv://antenna:38/dvb/6
+
+TVG HD
+dtv://antenna:25/dvb/7
+
+TVG2 HD
+dtv://antenna:25/dvb/8
+
+#EXTM3U
+
+#EXTINF:0 NOMBRE="Negocios TV" GRUPO="NOTICIAS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" VER: https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:0 NOMBRE="EL CONFIDENCIAL" GRUPO="NOTICIAS" logo="https://play-lh.googleusercontent.com/cq_1HNMi5V8RqgMhWaya8xD0osTPnKWVI_ESCLF_F5lu7GeSDKyeErdbvvlU3j8tcaY" VER:  
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+Toda lista .m3u .m3u8 sigue el siguiente formato:
+
+COMIENZAN SIEMPRE CON: #EXTM3U
+Y EN LA SIGUIENTE LINEA YA COMENZARÍA LA RELACIÓN DE CADENAS, CANALES O VIDEOS, con el siguiente orden:
+
+#EXTINF:0 NOMBRE="CANAL O CADENA" GRUPO="NOTICIAS O LO QUE SEA" logo="https://IMAGEN" VER: https del canal o video
+
+Este sería un ejemplo de una lista con dos canales:
+
+
+#EXTM3U
+
+#EXTINF:0 NOMBRE="Negocios TV" GRUPO="NOTICIAS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" VER: https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:0 NOMBRE="EL CONFIDENCIAL" GRUPO="NOTICIAS" logo="https://play-lh.googleusercontent.com/cq_1HNMi5V8RqgMhWaya8xD0osTPnKWVI_ESCLF_F5lu7GeSDKyeErdbvvlU3j8tcaY" VER:  
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
