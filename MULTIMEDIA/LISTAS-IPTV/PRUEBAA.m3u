@@ -8,11 +8,11 @@ dtv://antenna:22/dvb/2
 dtv://antenna:38/dvb/3
 #EXTINF:0 type="favorites" group="Noticias", CUATRO HD
 dtv://antenna:28/dvb/4
-#EXTINF:0 type="favorites" group="Sports", TELECINCO HD
+#EXTINF:0 type="favorites" group="Deporte", TELECINCO HD
 dtv://antenna:28/dvb/5
 #EXTINF:0 type="favorites" group="Noticias", LA SEXTA HD
 dtv://antenna:38/dvb/6
 #EXTINF:0 type="favorites" group="Noticias", TVG HD
 dtv://antenna:25/dvb/7
-#EXTINF:0 type="favorites" group="News", TVG2 HD
+#EXTINF:0 type="favorites" group="Pelis", TVG2 HD
 dtv://antenna:25/dvb/8
