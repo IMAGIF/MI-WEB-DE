@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" NAME="La 1 HD" GROUP="NOTICIAS" logo="" dtv://antenna:22/dvb/1
 #EXTINF:0 type="favorites" channelId="-1" NAME="la 2 HD" GROUP="NOTICIAS" logo="" dtv://antenna:22/dvb/2
 #EXTINF:0 type="favorites" channelId="-1" NAME="A3 HD" GROUP="NOTICIAS" logo="" dtv://antenna:38/dvb/3
