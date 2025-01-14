@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:0 type="favoritos" grupo="Noticias", La 1 HD
+#EXTINF:0 type="favorites" group="Noticias", La 1 HD
 dtv://antenna:22/dvb/1
-#EXTINF:0 type="favoritos" grupo="Noticias", La 2 HD
+#EXTINF:0 type="favorites" group="Noticias", la 2 HD
 dtv://antenna:22/dvb/2
-#EXTINF:0 type="favoritos" grupo="Noticias", antena3 HD
+#EXTINF:0 type="favorites" group="Noticias", A3 HD
 dtv://antenna:38/dvb/3
-#EXTINF:0 type="favoritos" grupo="Noticias", Cuatro HD
+#EXTINF:0 type="favorites" group="Noticias", CUATRO HD
 dtv://antenna:28/dvb/4
-#EXTINF:0 type="favoritos" grupo="Noticias", Telecinco HD
+#EXTINF:0 type="favorites" group="Noticias", TELECINCO HD
 dtv://antenna:28/dvb/5
-#EXTINF:0 type="favoritos" grupo="Noticias", laSexta HD
+#EXTINF:0 type="favorites" group="Noticias", LA SEXTA HD
 dtv://antenna:38/dvb/6
-#EXTINF:0 type="favoritos" grupo="Noticias", TVG HD A Coruña
+#EXTINF:0 type="favorites" group="Noticias", TVG HD
 dtv://antenna:25/dvb/7
-#EXTINF:0 type="favoritos" grupo="Noticias", tvG2 HD
+#EXTINF:0 type="favorites" group="Noticias", TVG2 HD
 dtv://antenna:25/dvb/8
