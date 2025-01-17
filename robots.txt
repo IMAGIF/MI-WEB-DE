@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+Sitemap: https://imagif.github.io/MI-WEB-DE/sitemap.xml
