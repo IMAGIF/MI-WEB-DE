@@ -1,0 +1,15 @@
+Añade estos dos canales de video que te voy a relacionar y respeta el formato de la página para que sea responsivo tanto para ordenadores como para dispositivos móviles. Los dos videos o canales incrustados a añadir son los siguientes con el formato Título, Descripción y código: NEGOCIOS TV
+Somos el canal de televisión de información económica en español. Queremos contarte la actualidad financiera de una manera diferente.
+
+
+
+NEGOCIOS TV
+Somos el canal de televisión de información económica en español. Queremos contarte la actualidad financiera de una manera diferente.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kveqmopbX_8?si=wg9ZzcufK9fMRqcD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+BBC NEWS MUNDO
+
+Este es el canal oficial de YouTube de la BBC en español.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COiZuoiVL0Q?si=pIljowr4ZFUWuc2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
