@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://imagif.github.io/MI-WEB-DE/</loc>
     <lastmod>2025-01-17T09:44:49+00:00</lastmod>
@@ -64,7 +61,7 @@
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/la-f%C3%A1bula-de-la-gacela-y-el-le%C3%B3n.html</loc>
+    <loc>https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/la-fábula-de-la-gacela-y-el-león.html</loc>
     <lastmod>2025-01-17T09:44:49+00:00</lastmod>
     <priority>0.64</priority>
   </url>
@@ -125,4 +122,7 @@
   </url>
   <url>
     <loc>https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/LISTAS-IPTV.html</loc>
-    <lastmod>2025-01-17T09:44:49[_{{{CITATION{{{_1{](https://github.com/peelmicro/documentation/tree/02dfa80e90ac619f5ebd81907644fa55744c6c09/other%2Fseo-seo-for-webmasters-thinking-seo.md)[_{{{CITATION{{{_2{](https://github.com/simogeo/sitemap/tree/eded608ada15ad8aac58d6afae6ebb1d46946617/class.sitemap.php)[_{{{CITATION{{{_3{](https://github.com/JonathanSteigleman/wp-content/tree/88d665bd4c1671f6ff2c9448de3156bbcc3d37a6/plugins%2Fleaflet-maps-marker%2Fleaflet-geositemap.php)[_{{{CITATION{{{_4{](https://github.com/knurtsysteme/node-heinzelmann/tree/9501469300ba5e20cee1b593c5760da1b5e6314e/README.md)
+    <lastmod>2025-01-17T09:44:49+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+</urlset>
