@@ -1,0 +1,15 @@
+
+Modifica el cuento de esa página que te he adjuntado cambiando título, descripción, carpeta de imágenes y video incrustado. 
+Esta es la información:
+Título: El Viaje en Globo de Tito el Tigre y sus Amigos.
+Descripción: Acompaña a Tito 🐅, Nono 🤖 y Coco 🐒 en una emocionante aventura en globo que los lleva por desiertos, islas y hasta a conocer dinosaurios. ¡Un cuento lleno de magia, amistad y diversión! Suscríbete a mi canal de YouTube para apoyar la creación de cuentos.
+
+Carpeta de imágenes: cambia la existente por la de cuento17 D:\MI-WEB-DE\CUENTOS-INFANTILES\imagen\cuento17
+
+
+
+
+video incrustado:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tt09377fB7k?si=kcJhzGiyZV8EnznH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
