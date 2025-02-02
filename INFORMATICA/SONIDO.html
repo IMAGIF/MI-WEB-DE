@@ -51,7 +51,7 @@
         }
 
         .tool-button {
-            padding: 15px;
+            padding: 20px;
             border: none;
             border-radius: 5px;
             color: white;
@@ -59,10 +59,24 @@
             text-align: center;
             font-weight: bold;
             transition: transform 0.2s;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
         }
 
         .tool-button:hover {
             transform: scale(1.05);
+        }
+
+        .tool-name {
+            font-size: 1.2em;
+            margin-bottom: 5px;
+        }
+
+        .tool-description {
+            font-size: 0.8em;
+            opacity: 0.9;
+            font-weight: normal;
         }
 
         footer {
@@ -80,8 +94,15 @@
             }
             
             .tool-button {
-                padding: 10px;
-                font-size: 14px;
+                padding: 15px;
+            }
+
+            .tool-name {
+                font-size: 1em;
+            }
+
+            .tool-description {
+                font-size: 0.7em;
             }
         }
     </style>
@@ -95,16 +116,46 @@
     <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="inicio-btn">Inicio</a>
 
     <div class="buttons-container">
-        <a href="https://suno.com/me" class="tool-button" style="background-color: #FF6B6B;">SUNO</a>
-        <a href="#" class="tool-button" style="background-color: #4ECDC4;">Audacity</a>
-        <a href="https://online-audio-converter.com/es/" class="tool-button" style="background-color: #45B7D1;">Convertidor MP4 a MP3</a>
-        <a href="https://www.aiva.ai/" class="tool-button" style="background-color: #96CEB4;">AIVA</a>
-        <a href="https://boomy.com/" class="tool-button" style="background-color: #000000;">Boomy</a>
-        <a href="https://soundraw.io/" class="tool-button" style="background-color: #6C5B7B;">Soundraw</a>
-        <a href="https://aistudio.google.com/music-lm" class="tool-button" style="background-color: #C06C84;">Google MusicLM</a>
-        <a href="https://www.image-line.com/" class="tool-button" style="background-color: #F67280;">FL Studio</a>
-        <a href="https://turboscribe.ai/es/dashboard" class="tool-button" style="background-color: #355C7D;">Turboscribe</a>
-        <a href="https://www.landr.com/" class="tool-button" style="background-color: #2A9D8F;">Landr</a>
+        <a href="https://suno.com/me" class="tool-button" style="background-color: #FF4B4B;">
+            <span class="tool-name">SUNO</span>
+            <span class="tool-description">Generador de música con IA</span>
+        </a>
+        <a href="#" class="tool-button" style="background-color: #8B0000;">
+            <span class="tool-name">Audacity</span>
+            <span class="tool-description">Editor de audio gratuito multiplataforma</span>
+        </a>
+        <a href="https://online-audio-converter.com/es/" class="tool-button" style="background-color: #2B4F81;">
+            <span class="tool-name">Convertidor MP4 a MP3</span>
+            <span class="tool-description">Convierte audio entre formatos</span>
+        </a>
+        <a href="https://www.aiva.ai/" class="tool-button" style="background-color: #6A0DAD;">
+            <span class="tool-name">AIVA</span>
+            <span class="tool-description">Compositor musical con inteligencia artificial</span>
+        </a>
+        <a href="https://boomy.com/" class="tool-button" style="background-color: #000000;">
+            <span class="tool-name">Boomy</span>
+            <span class="tool-description">Crea canciones en segundos con IA</span>
+        </a>
+        <a href="https://soundraw.io/" class="tool-button" style="background-color: #483D8B;">
+            <span class="tool-name">Soundraw</span>
+            <span class="tool-description">Música personalizada para contenido digital</span>
+        </a>
+        <a href="https://aistudio.google.com/music-lm" class="tool-button" style="background-color: #800080;">
+            <span class="tool-name">Google MusicLM</span>
+            <span class="tool-description">Genera música desde descripciones textuales</span>
+        </a>
+        <a href="https://www.image-line.com/" class="tool-button" style="background-color: #8B0000;">
+            <span class="tool-name">FL Studio</span>
+            <span class="tool-description">Estación de trabajo de audio profesional</span>
+        </a>
+        <a href="https://turboscribe.ai/es/dashboard" class="tool-button" style="background-color: #2A0845;">
+            <span class="tool-name">Turboscribe</span>
+            <span class="tool-description">Transcripción y generación de letras</span>
+        </a>
+        <a href="https://www.landr.com/" class="tool-button" style="background-color: #1A5F7A;">
+            <span class="tool-name">Landr</span>
+            <span class="tool-description">Masterización automática de audio</span>
+        </a>
     </div>
 
     <footer>
