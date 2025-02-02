@@ -5,144 +5,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SONIDO</title>
     <style>
-        /* Estilos generales */
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
         }
 
-        /* Encabezado */
-        header {
-            background-color: #000;
-            color: #fff;
+        body {
+            background-color: #f0f0f0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
             padding: 20px;
-            text-align: center;
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            padding: 20px;
             border-radius: 10px;
-            margin: 10px;
+            margin-bottom: 20px;
+            text-align: center;
         }
 
         header h1 {
-            margin: 0;
-            font-size: 2em;
+            margin-bottom: 10px;
         }
 
-        header h2 {
-            margin: 5px 0 0;
-            font-size: 1em;
-            font-weight: normal;
-            text-transform: lowercase;
-        }
-
-        /* Botón de Inicio */
-        .btn-inicio {
-            display: inline-block;
-            margin: 10px;
+        .inicio-btn {
+            background-color: #4CAF50;
+            color: white;
             padding: 10px 20px;
-            background-color: #007BFF;
-            color: #fff;
             text-decoration: none;
             border-radius: 5px;
-            font-size: 1em;
+            display: inline-block;
+            margin-bottom: 20px;
         }
 
-        .btn-inicio:hover {
-            background-color: #0056b3;
-        }
-
-        /* Cuerpo de la Página */
-        .container {
+        .buttons-container {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
-            padding: 20px;
+            gap: 15px;
+            margin-bottom: 20px;
         }
 
-        .container a {
-            text-decoration: none;
-            color: #fff;
+        .tool-button {
             padding: 15px;
+            border: none;
             border-radius: 5px;
-            font-size: 1em;
+            color: white;
+            text-decoration: none;
             text-align: center;
+            font-weight: bold;
+            transition: transform 0.2s;
         }
 
-        /* Colores de fondo para los botones */
-        .container a:nth-child(1) { background-color: #FF5733; } /* SUNO */
-        .container a:nth-child(2) { background-color: #33FF57; } /* Audacity */
-        .container a:nth-child(3) { background-color: #3357FF; } /* Convertidor MP4 a MP3 */
-        .container a:nth-child(4) { background-color: #FF33A1; } /* AIVA */
-        .container a:nth-child(5) { background-color: #33FFF5; } /* Boomy */
-        .container a:nth-child(6) { background-color: #F5FF33; color: #000; } /* Soundraw */
-        .container a:nth-child(7) { background-color: #8A33FF; } /* Google MusicLM */
-        .container a:nth-child(8) { background-color: #FF8A33; } /* FL Studio */
-        .container a:nth-child(9) { background-color: #33FF8A; color: #000; } /* GarageBand */
-        .container a:nth-child(10) { background-color: #FF338A; } /* Landr */
-
-        .container a:hover {
-            opacity: 0.8;
+        .tool-button:hover {
+            transform: scale(1.05);
         }
 
-        /* Pie de Página */
         footer {
-            background-color: #000;
-            color: #fff;
+            background-color: black;
+            color: white;
             padding: 20px;
-            text-align: center;
             border-radius: 10px;
-            margin: 10px;
+            text-align: center;
+            margin-top: auto;
         }
 
-        footer p {
-            margin: 5px 0;
-        }
-
-        /* Diseño Responsivo */
-        @media (max-width: 768px) {
-            .container {
-                grid-template-columns: repeat(2, 1fr);
+        @media (max-width: 600px) {
+            .buttons-container {
+                gap: 10px;
             }
-        }
-
-        @media (max-width: 480px) {
-            .container {
-                grid-template-columns: repeat(2, 1fr);
+            
+            .tool-button {
+                padding: 10px;
+                font-size: 14px;
             }
         }
     </style>
 </head>
 <body>
-
-    <!-- Encabezado -->
     <header>
         <h1>SONIDO</h1>
-        <h2>Herramientas para crear y modificar sonidos</h2>
+        <p>Herramientas para crear y modificar sonidos</p>
     </header>
 
-    <!-- Botón de Inicio -->
-    <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="btn-inicio">Inicio</a>
+    <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="inicio-btn">Inicio</a>
 
-    <!-- Cuerpo de la Página -->
-    <div class="container">
-        <a href="https://suno.com/me">SUNO</a>
-        <a href="https://www.audacityteam.org/">Audacity</a>
-        <a href="https://online-audio-converter.com/es/">Convertidor MP4 a MP3</a>
-        <a href="https://www.aiva.ai/">AIVA (IA para composición musical)</a>
-        <a href="https://boomy.com/">Boomy (creación de música con IA)</a>
-        <a href="https://soundraw.io/">Soundraw (generador de música con IA)</a>
-        <a href="https://aistudio.google.com/music-lm">Google MusicLM (IA experimental de Google para música)</a>
-        <a href="https://www.image-line.com/">FL Studio (software de producción musical)</a>
-        <a href="https://www.apple.com/mac/garageband/">GarageBand (editor de música para Mac)</a>
-        <a href="https://www.landr.com/">Landr (masterización de audio con IA)</a>
+    <div class="buttons-container">
+        <a href="https://suno.com/me" class="tool-button" style="background-color: #FF6B6B;">SUNO</a>
+        <a href="#" class="tool-button" style="background-color: #4ECDC4;">Audacity</a>
+        <a href="https://online-audio-converter.com/es/" class="tool-button" style="background-color: #45B7D1;">Convertidor MP4 a MP3</a>
+        <a href="https://www.aiva.ai/" class="tool-button" style="background-color: #96CEB4;">AIVA</a>
+        <a href="https://boomy.com/" class="tool-button" style="background-color: #000000;">Boomy</a>
+        <a href="https://soundraw.io/" class="tool-button" style="background-color: #6C5B7B;">Soundraw</a>
+        <a href="https://aistudio.google.com/music-lm" class="tool-button" style="background-color: #C06C84;">Google MusicLM</a>
+        <a href="https://www.image-line.com/" class="tool-button" style="background-color: #F67280;">FL Studio</a>
+        <a href="https://turboscribe.ai/es/dashboard" class="tool-button" style="background-color: #355C7D;">Turboscribe</a>
+        <a href="https://www.landr.com/" class="tool-button" style="background-color: #2A9D8F;">Landr</a>
     </div>
 
-    <!-- Pie de Página -->
     <footer>
         <p>2025 Creado por #imagif</p>
         <p>email: imagenesgifs@gmail.com</p>
     </footer>
-
 </body>
 </html>
