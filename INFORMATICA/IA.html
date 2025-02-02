@@ -3,129 +3,215 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inteligencias Artificiales</title>
+    <title>INTELIGENCIA ARTIFICIAL - Asistentes y herramientas</title>
     <style>
-        /* Estilos generales */
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
-        /* Encabezado */
-        header {
-            background-color: #000;
-            color: #fff;
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .page-header, .page-footer {
+            background: black;
+            color: white;
             padding: 20px;
             text-align: center;
-            border-radius: 10px;
-            margin: 10px;
+            width: 100%;
         }
 
-        header h1 {
-            margin: 0;
-            font-size: 2em;
-        }
-
-        /* Botón de Inicio */
-        .btn-inicio {
-            display: inline-block;
-            margin: 10px;
+        .home-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
             padding: 10px 20px;
-            background-color: #007BFF;
-            color: #fff;
-            text-decoration: none;
+            background: white;
+            color: black;
+            border: none;
             border-radius: 5px;
-            font-size: 1em;
+            cursor: pointer;
+            text-decoration: none;
         }
 
-        .btn-inicio:hover {
-            background-color: #0056b3;
-        }
-
-        /* Cuerpo de la Página */
         .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid-container {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
             padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
         }
 
-        .container a {
+        .card {
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card a {
             text-decoration: none;
-            color: #fff;
-            background-color: #007BFF;
-            padding: 15px;
-            border-radius: 5px;
-            font-size: 1em;
-            text-align: center;
-        }
-
-        .container a:hover {
-            background-color: #0056b3;
-        }
-
-        /* Pie de Página */
-        footer {
-            background-color: #000;
-            color: #fff;
+            display: block;
             padding: 20px;
             text-align: center;
-            border-radius: 10px;
-            margin: 10px;
+            height: 100%;
         }
 
-        footer p {
-            margin: 5px 0;
+        .card h2 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
         }
 
-        /* Diseño Responsivo */
+        .card p {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            opacity: 0.9;
+        }
+
+        .card:nth-child(1) { background: #1E3A8A; }
+        .card:nth-child(1) a { color: white; }
+        
+        .card:nth-child(2) { background: #3730A3; }
+        .card:nth-child(2) a { color: white; }
+        
+        .card:nth-child(3) { background: #312E81; }
+        .card:nth-child(3) a { color: white; }
+        
+        .card:nth-child(4) { background: #1F2937; }
+        .card:nth-child(4) a { color: white; }
+        
+        .card:nth-child(5) { background: #374151; }
+        .card:nth-child(5) a { color: white; }
+        
+        .card:nth-child(6) { background: #4C1D95; }
+        .card:nth-child(6) a { color: white; }
+        
+        .card:nth-child(7) { background: #5B21B6; }
+        .card:nth-child(7) a { color: white; }
+        
+        .card:nth-child(8) { background: #6D28D9; }
+        .card:nth-child(8) a { color: white; }
+        
+        .card:nth-child(9) { background: #7C3AED; }
+        .card:nth-child(9) a { color: white; }
+        
+        .card:nth-child(10) { background: #2563EB; }
+        .card:nth-child(10) a { color: white; }
+
         @media (max-width: 768px) {
-            .container {
+            .grid-container {
                 grid-template-columns: repeat(2, 1fr);
             }
-        }
-
-        @media (max-width: 480px) {
-            .container {
-                grid-template-columns: repeat(2, 1fr);
+            
+            .home-button {
+                position: relative;
+                display: inline-block;
+                margin: 10px;
+                left: 0;
+                top: 0;
             }
         }
     </style>
 </head>
 <body>
-
-    <!-- Encabezado -->
-    <header>
-        <h1>Inteligencias Artificiales</h1>
+    <header class="page-header">
+        <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="home-button">Inicio</a>
+        <h1>INTELIGENCIA ARTIFICIAL</h1>
+        <h2>Asistentes y herramientas IA</h2>
     </header>
 
-    <!-- Botón de Inicio -->
-    <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="btn-inicio">Inicio</a>
-
-    <!-- Cuerpo de la Página -->
     <div class="container">
-        <a href="https://chat.openai.com">ChatGPT</a>
-        <a href="https://gemini.google.com">Gemini</a>
-        <a href="https://www.anthropic.com/claude">Claude</a>
-        <a href="https://www.deepseek.com">DeepSeek</a>
-        <a href="https://copilot.microsoft.com">Copilot (Microsoft)</a>
-        <a href="https://www.perplexity.ai">Perplexity</a>
-        <a href="https://chat.mistral.ai/chat">Mistral</a>
-        <a href="https://www.you.com/">You.com</a>
-        <a href="https://www.pi.ai">Pi AI</a>
-        <a href="https://huggingface.co/chat/">HuggingChat</a>
-        <a href="https://labs.google/experiments">Google Labs</a>
-        <a href="https://github.com/copilot">GitHub Copilot</a>
+        <div class="grid-container">
+            <div class="card">
+                <a href="https://chat.openai.com" target="_blank">
+                    <h2>ChatGPT</h2>
+                    <p>Asistente IA de OpenAI</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://gemini.google.com" target="_blank">
+                    <h2>Gemini</h2>
+                    <p>IA multitarea de Google</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.anthropic.com/claude" target="_blank">
+                    <h2>Claude</h2>
+                    <p>Asistente avanzado de Anthropic</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.deepseek.com" target="_blank">
+                    <h2>DeepSeek</h2>
+                    <p>IA especializada en código</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://copilot.microsoft.com" target="_blank">
+                    <h2>Copilot</h2>
+                    <p>Asistente inteligente de Microsoft</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.perplexity.ai" target="_blank">
+                    <h2>Perplexity</h2>
+                    <p>Búsqueda y análisis con IA</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://chat.mistral.ai/chat" target="_blank">
+                    <h2>Mistral</h2>
+                    <p>IA conversacional de código abierto</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.you.com/" target="_blank">
+                    <h2>You.com</h2>
+                    <p>Buscador potenciado por IA</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.pi.ai" target="_blank">
+                    <h2>Pi AI</h2>
+                    <p>Asistente personal empático</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://huggingface.co/chat/" target="_blank">
+                    <h2>HuggingChat</h2>
+                    <p>Chat IA de código abierto</p>
+                </a>
+            </div>
+        </div>
     </div>
 
-    <!-- Pie de Página -->
-    <footer>
-        <p>2025 Creado por #imagif</p>
+    <footer class="page-footer">
+        <p>Creado por #imagif</p>
         <p>email: imagenesgifs@gmail.com</p>
     </footer>
-
 </body>
 </html>
