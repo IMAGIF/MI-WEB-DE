@@ -3,179 +3,214 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VIDEO</title>
+    <title>VIDEO - Crear y editar videos</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
         body {
-            background-color: #f0f0f0;
             min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         }
 
-        header {
-            background-color: black;
+        .page-header, .page-footer {
+            background: black;
             color: white;
             padding: 20px;
-            border-radius: 10px;
-            margin-bottom: 20px;
             text-align: center;
+            width: 100%;
         }
 
-        header h1 {
+        .home-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 10px 20px;
+            background: white;
+            color: black;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .card {
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card a {
+            text-decoration: none;
+            display: block;
+            padding: 20px;
+            text-align: center;
+            height: 100%;
+        }
+
+        .card h2 {
+            font-size: 1.2rem;
             margin-bottom: 10px;
         }
 
-        .inicio-btn {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            display: inline-block;
-            margin-bottom: 20px;
-        }
-
-        .buttons-container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
-            margin-bottom: 20px;
-        }
-
-        .tool-button {
-            padding: 20px;
-            border: none;
-            border-radius: 5px;
-            color: white;
-            text-decoration: none;
-            text-align: center;
-            font-weight: bold;
-            transition: transform 0.2s;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .tool-button:hover {
-            transform: scale(1.05);
-        }
-
-        .tool-name {
-            font-size: 1.2em;
-            margin-bottom: 5px;
-        }
-
-        .tool-description {
-            font-size: 0.8em;
+        .card p {
+            font-size: 0.9rem;
+            line-height: 1.4;
             opacity: 0.9;
-            font-weight: normal;
         }
 
-        footer {
-            background-color: black;
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            margin-top: auto;
-        }
+        .card:nth-child(1) { background: #2C3E50; }
+        .card:nth-child(1) a { color: white; }
+        
+        .card:nth-child(2) { background: #8E44AD; }
+        .card:nth-child(2) a { color: white; }
+        
+        .card:nth-child(3) { background: #2980B9; }
+        .card:nth-child(3) a { color: white; }
+        
+        .card:nth-child(4) { background: #C0392B; }
+        .card:nth-child(4) a { color: white; }
+        
+        .card:nth-child(5) { background: #D35400; }
+        .card:nth-child(5) a { color: white; }
+        
+        .card:nth-child(6) { background: #7D3C98; }
+        .card:nth-child(6) a { color: white; }
+        
+        .card:nth-child(7) { background: #1E8449; }
+        .card:nth-child(7) a { color: white; }
+        
+        .card:nth-child(8) { background: #3498DB; }
+        .card:nth-child(8) a { color: white; }
+        
+        .card:nth-child(9) { background: #6C3483; }
+        .card:nth-child(9) a { color: white; }
+        
+        .card:nth-child(10) { background: #2E4053; }
+        .card:nth-child(10) a { color: white; }
 
-        @media (max-width: 600px) {
-            .buttons-container {
-                gap: 10px;
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(2, 1fr);
             }
             
-            .tool-button {
-                padding: 15px;
-            }
-
-            .tool-name {
-                font-size: 1em;
-            }
-
-            .tool-description {
-                font-size: 0.7em;
+            .home-button {
+                position: relative;
+                display: inline-block;
+                margin: 10px;
+                left: 0;
+                top: 0;
             }
         }
     </style>
 </head>
 <body>
-    <header>
+    <header class="page-header">
+        <a href="INFORMATICA.html" class="home-button">Inicio</a>
         <h1>VIDEO</h1>
-        <p>Herramientas para crear y modificar videos</p>
+        <h2>Crear y editar videos</h2>
     </header>
 
-    <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="inicio-btn">Inicio</a>
+    <div class="container">
+        <div class="grid-container">
+            <div class="card">
+                <a href="https://hailuoai.video/" target="_blank">
+                    <h2>HailuoAI</h2>
+                    <p>Crea videos con IA avanzada</p>
+                </a>
+            </div>
 
-    <div class="buttons-container">
-        <a href="https://hailuoai.video/" class="tool-button" style="background-color: #2C3E50;">
-            <span class="tool-name">HailuoAI</span>
-            <span class="tool-description">Crea videos con IA avanzada</span>
-        </a>
-        <a href="https://ai.invideo.io/login" class="tool-button" style="background-color: #8E44AD;">
-            <span class="tool-name">InVideo AI</span>
-            <span class="tool-description">Editor de video con IA integrada</span>
-        </a>
-        <a href="https://discord.com/login?redirect_to=%2Fchannels%2F1123665496148017235%2F1123665843365093487" class="tool-button" style="background-color: #2980B9;">
-            <span class="tool-name">Discord Video AI</span>
-            <span class="tool-description">Comunidad de creación con IA</span>
-        </a>
-        <a href="https://es.vidnoz.com/image-to-video-ai.html" class="tool-button" style="background-color: #C0392B;">
-            <span class="tool-name">Vidnoz AI</span>
-            <span class="tool-description">Convierte imágenes en videos</span>
-        </a>
-        <a href="https://pinterestdownloader.com/es" class="tool-button" style="background-color: #D35400;">
-            <span class="tool-name">Pinterest Downloader</span>
-            <span class="tool-description">Descarga videos de Pinterest</span>
-        </a>
-        <a href="https://app.pixverse.ai/home" class="tool-button" style="background-color: #7D3C98;">
-            <span class="tool-name">Pixverse AI</span>
-            <span class="tool-description">Generación de videos con IA</span>
-        </a>
-        <a href="https://www.vidu.com/create/" class="tool-button" style="background-color: #1E8449;">
-            <span class="tool-name">Vidu</span>
-            <span class="tool-description">Creación de videos profesionales</span>
-        </a>
-        <a href="https://www.capcut.com/editor" class="tool-button" style="background-color: #3498DB;">
-            <span class="tool-name">CapCut</span>
-            <span class="tool-description">Editor de video gratuito</span>
-        </a>
-        <a href="https://app.pictory.ai/login" class="tool-button" style="background-color: #6C3483;">
-            <span class="tool-name">Pictory</span>
-            <span class="tool-description">Videos automáticos desde textos</span>
-        </a>
-        <a href="https://www.synthesia.io/" class="tool-button" style="background-color: #2E4053;">
-            <span class="tool-name">Synthesia</span>
-            <span class="tool-description">Videos con avatares IA</span>
-        </a>
-        <a href="https://www.canva.com/video-editor/" class="tool-button" style="background-color: #884EA0;">
-            <span class="tool-name">Canva Video</span>
-            <span class="tool-description">Editor intuitivo multiplataforma</span>
-        </a>
-        <a href="https://www.descript.com/" class="tool-button" style="background-color: #145A32;">
-            <span class="tool-name">Descript</span>
-            <span class="tool-description">Editor de video basado en texto</span>
-        </a>
-        <a href="https://www.veed.io/" class="tool-button" style="background-color: #922B21;">
-            <span class="tool-name">VEED</span>
-            <span class="tool-description">Editor de video online</span>
-        </a>
-        <a href="https://www.kdenlive.org/" class="tool-button" style="background-color: #4A235A;">
-            <span class="tool-name">Kdenlive</span>
-            <span class="tool-description">Editor profesional gratuito</span>
-        </a>
+            <div class="card">
+                <a href="https://ai.invideo.io/login" target="_blank">
+                    <h2>InVideo AI</h2>
+                    <p>Editor de video con IA integrada</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://discord.com/login?redirect_to=%2Fchannels%2F1123665496148017235%2F1123665843365093487" target="_blank">
+                    <h2>Discord Video AI</h2>
+                    <p>Comunidad de creación con IA</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://es.vidnoz.com/image-to-video-ai.html" target="_blank">
+                    <h2>Vidnoz AI</h2>
+                    <p>Convierte imágenes en videos</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://pinterestdownloader.com/es" target="_blank">
+                    <h2>Pinterest Downloader</h2>
+                    <p>Descarga videos de Pinterest</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://app.pixverse.ai/home" target="_blank">
+                    <h2>Pixverse AI</h2>
+                    <p>Generación de videos con IA</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.vidu.com/create/" target="_blank">
+                    <h2>Vidu</h2>
+                    <p>Creación de videos profesionales</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.capcut.com/editor" target="_blank">
+                    <h2>CapCut</h2>
+                    <p>Editor de video gratuito</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://app.pictory.ai/login" target="_blank">
+                    <h2>Pictory</h2>
+                    <p>Videos automáticos desde textos</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.synthesia.io/" target="_blank">
+                    <h2>Synthesia</h2>
+                    <p>Videos con avatares IA</p>
+                </a>
+            </div>
+        </div>
     </div>
 
-    <footer>
-        <p>2025 Creado por #imagif</p>
+    <footer class="page-footer">
+        <p>Creado por #imagif</p>
         <p>email: imagenesgifs@gmail.com</p>
     </footer>
 </body>
