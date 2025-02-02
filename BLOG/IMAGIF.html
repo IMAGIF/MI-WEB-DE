@@ -1,183 +1,228 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>IMAGIF - Blog Personal</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAGIF - Blog</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+        }
 
-				<!-- Intro -->
-					<div id="intro">
-						<h1>IMAGIF</h1>
-						<p>Un blog sobre creatividad, tecnología y contenido digital</p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continuar</a></li>
-						</ul>
-					</div>
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+            margin-bottom: 2rem;
+        }
 
-				<!-- Header -->
-					<header id="header">
-						<a href="index.html" class="logo">IMAGIF</a>
-					</header>
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li class="active"><a href="index.html">Inicio</a></li>
-							<li><a href="tutoriales.html">Tutoriales</a></li>
-							<li><a href="recursos.html">Recursos</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="#" class="icon brands fa-youtube"><span class="label">YouTube</span></a></li>
-							<li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
-							<li><a href="#" class="icon solid fa-globe"><span class="label">MIS WEBS</span></a></li>
-						</ul>
-					</nav>
+        .nav {
+            background: #fff;
+            padding: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
 
-				<!-- Main -->
-					<div id="main">
+        .nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+        }
 
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<span class="date">2 Febrero 2025</span>
-									<h2><a href="#">Bienvenidos a mi blog<br />
-									sobre creatividad digital</a></h2>
-									<p>Un espacio donde comparto mis experiencias, tutoriales y recursos<br />
-									sobre diseño, tecnología y creación de contenido digital.<br />
-									Aprende, explora y crea conmigo.</p>
-								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
-								<ul class="actions special">
-									<li><a href="#" class="button large">Leer más</a></li>
-								</ul>
-							</article>
+        .nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
 
-						<!-- Posts -->
-							<section class="posts">
-								<article>
-									<header>
-										<span class="date">2 Febrero 2025</span>
-										<h2><a href="#">Herramientas gratuitas<br />
-										para creadores de contenido</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>Una selección de las mejores herramientas gratuitas para crear contenido digital de calidad. Desde editores de imagen hasta plataformas de diseño.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Leer más</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">1 Febrero 2025</span>
-										<h2><a href="#">Guía básica de<br />
-										edición de video</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-									<p>Tutorial paso a paso para aprender a editar videos de manera profesional utilizando herramientas accesibles. Perfecto para principiantes.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Leer más</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">31 Enero 2025</span>
-										<h2><a href="#">Inteligencia Artificial<br />
-										en la creatividad</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-									<p>Descubre cómo la IA está transformando el mundo creativo y cómo puedes aprovecharla para mejorar tus proyectos digitales.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Leer más</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">30 Enero 2025</span>
-										<h2><a href="#">Los mejores recursos<br />
-										para diseñadores</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<p>Una colección curada de recursos gratuitos y premium para diseñadores: fuentes, mockups, templates y más.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Leer más</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">29 Enero 2025</span>
-										<h2><a href="#">Optimización de<br />
-										contenido digital</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-									<p>Aprende a optimizar tus imágenes y videos para web sin perder calidad. Técnicas y herramientas profesionales.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Leer más</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date">28 Enero 2025</span>
-										<h2><a href="#">Tendencias en<br />
-										diseño digital 2025</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<p>Las últimas tendencias en diseño web, gráfico y multimedia que dominarán este año. Mantente actualizado.</p>
-									<ul class="actions special">
-										<li><a href="#" class="button">Leer más</a></li>
-									</ul>
-								</article>
-							</section>
+        .nav a:hover {
+            color: #764ba2;
+        }
 
-						<!-- Footer -->
-							<footer>
-								<div class="pagination">
-									<a href="#" class="page active">1</a>
-									<a href="#" class="page">2</a>
-									<a href="#" class="page">3</a>
-									<span class="extra">&hellip;</span>
-									<a href="#" class="page">8</a>
-									<a href="#" class="next">Siguiente</a>
-								</div>
-							</footer>
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
 
-					</div>
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            padding: 2rem 0;
+        }
 
-				<!-- Footer -->
-					<footer id="footer">
-						<section class="split contact">
-							<section>
-								<h3>Enlaces de interés</h3>
-								<ul class="icons alt">
-									<li><a href="#" class="icon brands alt fa-youtube"><span class="label">YouTube</span></a></li>
-									<li><a href="#" class="icon brands alt fa-pinterest"><span class="label">Pinterest</span></a></li>
-									<li><a href="#" class="icon solid alt fa-globe"><span class="label">MIS WEBS</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+        .blog-post {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
 
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; IMAGIF</li><li>Diseño original: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+        .blog-post:hover {
+            transform: translateY(-5px);
+        }
 
-			</div>
+        .post-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+        .post-content {
+            padding: 1.5rem;
+        }
 
-	</body>
+        .post-date {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .post-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #333;
+            text-decoration: none;
+        }
+
+        .post-title:hover {
+            color: #764ba2;
+        }
+
+        .post-excerpt {
+            color: #666;
+            margin-bottom: 1rem;
+        }
+
+        .read-more {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: #764ba2;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .read-more:hover {
+            background: #667eea;
+        }
+
+        .footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 2rem;
+        }
+
+        .social-links {
+            margin-top: 1rem;
+        }
+
+        .social-links a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .nav ul {
+                flex-direction: column;
+                text-align: center;
+                gap: 1rem;
+            }
+
+            .blog-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>IMAGIF</h1>
+        <p>Un blog sobre creatividad y tecnología</p>
+    </header>
+
+    <nav class="nav">
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#tutoriales">Tutoriales</a></li>
+            <li><a href="#recursos">Recursos</a></li>
+            <li><a href="#sobre-mi">Sobre Mí</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <div class="blog-grid">
+            <!-- Entrada de Blog 1 -->
+            <article class="blog-post">
+                <img src="images/tutorial-1.jpg" alt="Tutorial de edición" class="post-image">
+                <div class="post-content">
+                    <div class="post-date">2 Febrero, 2025</div>
+                    <h2><a href="#" class="post-title">Introducción a la edición de video</a></h2>
+                    <p class="post-excerpt">Aprende los conceptos básicos de la edición de video y las mejores herramientas para empezar.</p>
+                    <a href="#" class="read-more">Leer más</a>
+                </div>
+            </article>
+
+            <!-- Entrada de Blog 2 -->
+            <article class="blog-post">
+                <img src="images/ia-tools.jpg" alt="Herramientas IA" class="post-image">
+                <div class="post-content">
+                    <div class="post-date">1 Febrero, 2025</div>
+                    <h2><a href="#" class="post-title">Las mejores herramientas de IA</a></h2>
+                    <p class="post-excerpt">Descubre las herramientas de IA más útiles para potenciar tu creatividad digital.</p>
+                    <a href="#" class="read-more">Leer más</a>
+                </div>
+            </article>
+
+            <!-- Entrada de Blog 3 -->
+            <article class="blog-post">
+                <img src="images/design-tips.jpg" alt="Tips de diseño" class="post-image">
+                <div class="post-content">
+                    <div class="post-date">31 Enero, 2025</div>
+                    <h2><a href="#" class="post-title">Tips esenciales de diseño</a></h2>
+                    <p class="post-excerpt">Los principios fundamentales del diseño que todo creador digital debe conocer.</p>
+                    <a href="#" class="read-more">Leer más</a>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="social-links">
+            <a href="#">YouTube</a>
+            <a href="#">Pinterest</a>
+            <a href="#">Mis Webs</a>
+        </div>
+        <p>&copy; 2025 IMAGIF. Todos los derechos reservados.</p>
+    </footer>
+</body>
 </html>
