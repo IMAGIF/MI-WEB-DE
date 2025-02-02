@@ -3,217 +3,146 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMAGEN - Crear videos e I.A.</title>
+    <title>SONIDO</title>
     <style>
-        /* Estilos anteriores se mantienen igual hasta .card */
-        * {
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
         }
 
-        body {
-            min-height: 100vh;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        }
-
-        .page-header, .page-footer {
-            background: black;
-            color: white;
+        /* Encabezado */
+        header {
+            background-color: #000;
+            color: #fff;
             padding: 20px;
             text-align: center;
-            width: 100%;
+            border-radius: 10px;
+            margin: 10px;
         }
 
-        .home-button {
-            position: absolute;
-            top: 20px;
-            left: 20px;
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        header h2 {
+            margin: 5px 0 0;
+            font-size: 1em;
+            font-weight: normal;
+            text-transform: lowercase;
+        }
+
+        /* Botón de Inicio */
+        .btn-inicio {
+            display: inline-block;
+            margin: 10px;
             padding: 10px 20px;
-            background: white;
-            color: black;
-            border: none;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
             border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
+            font-size: 1em;
         }
 
+        .btn-inicio:hover {
+            background-color: #0056b3;
+        }
+
+        /* Cuerpo de la Página */
         .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        .grid-container {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
-            gap: 20px;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
             padding: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
         }
 
-        .card {
-            border-radius: 15px;
-            overflow: hidden;
-            transition: transform 0.3s ease;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-        }
-
-        .card:hover {
-            transform: translateY(-10px);
-        }
-
-        .card a {
+        .container a {
             text-decoration: none;
-            display: block;
+            color: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 1em;
+            text-align: center;
+        }
+
+        /* Colores de fondo para los botones */
+        .container a:nth-child(1) { background-color: #FF5733; } /* SUNO */
+        .container a:nth-child(2) { background-color: #33FF57; } /* Audacity */
+        .container a:nth-child(3) { background-color: #3357FF; } /* Convertidor MP4 a MP3 */
+        .container a:nth-child(4) { background-color: #FF33A1; } /* AIVA */
+        .container a:nth-child(5) { background-color: #33FFF5; } /* Boomy */
+        .container a:nth-child(6) { background-color: #F5FF33; color: #000; } /* Soundraw */
+        .container a:nth-child(7) { background-color: #8A33FF; } /* Google MusicLM */
+        .container a:nth-child(8) { background-color: #FF8A33; } /* FL Studio */
+        .container a:nth-child(9) { background-color: #33FF8A; color: #000; } /* GarageBand */
+        .container a:nth-child(10) { background-color: #FF338A; } /* Landr */
+
+        .container a:hover {
+            opacity: 0.8;
+        }
+
+        /* Pie de Página */
+        footer {
+            background-color: #000;
+            color: #fff;
             padding: 20px;
             text-align: center;
-            height: 100%;
+            border-radius: 10px;
+            margin: 10px;
         }
 
-        /* Nuevos estilos para los colores de las tarjetas */
-        .card:nth-child(1) { background: #FF6B6B; }
-        .card:nth-child(1) a { color: white; }
-
-        .card:nth-child(2) { background: #4ECDC4; }
-        .card:nth-child(2) a { color: black; }
-
-        .card:nth-child(3) { background: #45B7D1; }
-        .card:nth-child(3) a { color: white; }
-
-        .card:nth-child(4) { background: #96CEB4; }
-        .card:nth-child(4) a { color: black; }
-
-        .card:nth-child(5) { background: #D4A5A5; }
-        .card:nth-child(5) a { color: black; }
-
-        .card:nth-child(6) { background: #9B59B6; }
-        .card:nth-child(6) a { color: white; }
-
-        .card:nth-child(7) { background: #3498DB; }
-        .card:nth-child(7) a { color: white; }
-
-        .card:nth-child(8) { background: #F1C40F; }
-        .card:nth-child(8) a { color: black; }
-
-        .card:nth-child(9) { background: #E74C3C; }
-        .card:nth-child(9) a { color: white; }
-
-        .card:nth-child(10) { background: #2ECC71; }
-        .card:nth-child(10) a { color: white; }
-
-        .card h2 {
-            font-size: 1.2rem;
-            margin-bottom: 10px;
+        footer p {
+            margin: 5px 0;
         }
 
-        .card p {
-            font-size: 0.9rem;
-            line-height: 1.4;
-            opacity: 0.9;
-        }
-
+        /* Diseño Responsivo */
         @media (max-width: 768px) {
-            .grid-container {
+            .container {
                 grid-template-columns: repeat(2, 1fr);
             }
-            
-            .home-button {
-                position: relative;
-                display: inline-block;
-                margin: 10px;
-                left: 0;
-                top: 0;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
     </style>
 </head>
 <body>
-    <header class="page-header">
-        <a href="index.html" class="home-button">Inicio</a>
-        <h1>IMAGEN</h1>
-        <h2>Crear videos e I.A.</h2>
+
+    <!-- Encabezado -->
+    <header>
+        <h1>SONIDO</h1>
+        <h2>Herramientas para crear y modificar sonidos</h2>
     </header>
 
+    <!-- Botón de Inicio -->
+    <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" class="btn-inicio">Inicio</a>
+
+    <!-- Cuerpo de la Página -->
     <div class="container">
-        <div class="grid-container">
-            <div class="card">
-                <a href="https://es.pinterest.com/imagif55/" target="_blank">
-                    <h2>Pinterest</h2>
-                    <p>Imágenes y diseños inspiradores</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://pinterestdownloader.com/es" target="_blank">
-                    <h2>Pinterest Downloader</h2>
-                    <p>Descarga imágenes de Pinterest</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://pixabay.com/es/" target="_blank">
-                    <h2>Pixabay</h2>
-                    <p>Banco de imágenes gratuitas</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://squoosh.app/" target="_blank">
-                    <h2>Squoosh</h2>
-                    <p>Optimizador de imágenes</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://www.iloveimg.com/" target="_blank">
-                    <h2>iLoveIMG</h2>
-                    <p>Editor de imágenes online</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://labs.google/fx" target="_blank">
-                    <h2>Google Labs FX</h2>
-                    <p>Efectos experimentales</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://app.leonardo.ai/" target="_blank">
-                    <h2>Leonardo AI</h2>
-                    <p>Generación de imágenes IA</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://perchance.org/ai-character-generator" target="_blank">
-                    <h2>AI Character Generator</h2>
-                    <p>Generador de personajes</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://piclumen.com/app/image-generator/create" target="_blank">
-                    <h2>PicLumen</h2>
-                    <p>Generador de imágenes</p>
-                </a>
-            </div>
-
-            <div class="card">
-                <a href="https://designer.microsoft.com/editor" target="_blank">
-                    <h2>Microsoft Designer</h2>
-                    <p>Editor de diseño profesional</p>
-                </a>
-            </div>
-        </div>
+        <a href="https://suno.com/me">SUNO</a>
+        <a href="https://www.audacityteam.org/">Audacity</a>
+        <a href="https://online-audio-converter.com/es/">Convertidor MP4 a MP3</a>
+        <a href="https://www.aiva.ai/">AIVA (IA para composición musical)</a>
+        <a href="https://boomy.com/">Boomy (creación de música con IA)</a>
+        <a href="https://soundraw.io/">Soundraw (generador de música con IA)</a>
+        <a href="https://aistudio.google.com/music-lm">Google MusicLM (IA experimental de Google para música)</a>
+        <a href="https://www.image-line.com/">FL Studio (software de producción musical)</a>
+        <a href="https://www.apple.com/mac/garageband/">GarageBand (editor de música para Mac)</a>
+        <a href="https://www.landr.com/">Landr (masterización de audio con IA)</a>
     </div>
 
-    <footer class="page-footer">
-        <p>Creado por #imagif</p>
+    <!-- Pie de Página -->
+    <footer>
+        <p>2025 Creado por #imagif</p>
         <p>email: imagenesgifs@gmail.com</p>
     </footer>
+
 </body>
 </html>
