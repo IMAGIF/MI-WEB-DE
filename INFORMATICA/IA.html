@@ -47,9 +47,8 @@
 
         /* Cuerpo de la Página */
         .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
             gap: 10px;
             padding: 20px;
         }
@@ -58,12 +57,10 @@
             text-decoration: none;
             color: #fff;
             background-color: #007BFF;
-            padding: 15px 30px;
+            padding: 15px;
             border-radius: 5px;
             font-size: 1em;
             text-align: center;
-            flex: 1 1 calc(20% - 20px);
-            max-width: calc(20% - 20px);
         }
 
         .container a:hover {
@@ -86,16 +83,14 @@
 
         /* Diseño Responsivo */
         @media (max-width: 768px) {
-            .container a {
-                flex: 1 1 calc(50% - 20px);
-                max-width: calc(50% - 20px);
+            .container {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
 
         @media (max-width: 480px) {
-            .container a {
-                flex: 1 1 100%;
-                max-width: 100%;
+            .container {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
     </style>
@@ -116,12 +111,14 @@
         <a href="https://gemini.google.com">Gemini</a>
         <a href="https://www.anthropic.com/claude">Claude</a>
         <a href="https://www.deepseek.com">DeepSeek</a>
-        <a href="https://copilot.microsoft.com">Copilot</a>
+        <a href="https://copilot.microsoft.com">Copilot (Microsoft)</a>
         <a href="https://www.perplexity.ai">Perplexity</a>
-        <a href="https://www.mistral.ai">Mistral</a>
-        <a href="https://ai.facebook.com/tools/llama">Llama</a>
-        <a href="https://www.you.com/chat">YouChat</a>
+        <a href="https://chat.mistral.ai/chat">Mistral</a>
+        <a href="https://www.you.com/">You.com</a>
         <a href="https://www.pi.ai">Pi AI</a>
+        <a href="https://huggingface.co/chat/">HuggingChat</a>
+        <a href="https://labs.google/experiments">Google Labs</a>
+        <a href="https://github.com/copilot">GitHub Copilot</a>
     </div>
 
     <!-- Pie de Página -->
