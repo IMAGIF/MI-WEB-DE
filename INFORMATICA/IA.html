@@ -113,6 +113,12 @@
         
         .card:nth-child(10) { background: #2C3E50; } /* Azul oscuro */
         .card:nth-child(10) a { color: white; }
+        
+        .card:nth-child(11) { background: #F39C12; } /* Amarillo oscuro */
+        .card:nth-child(11) a { color: white; }
+        
+        .card:nth-child(12) { background: #34495E; } /* Gris azulado */
+        .card:nth-child(12) a { color: white; }
 
         @media (max-width: 768px) {
             .grid-container {
@@ -125,6 +131,12 @@
                 margin: 10px;
                 left: 0;
                 top: 0;
+            }
+        }
+
+        @media (min-width: 769px) {
+            .grid-container {
+                grid-template-columns: repeat(4, 1fr);
             }
         }
     </style>
@@ -207,11 +219,25 @@
                     <p>Chat IA de código abierto</p>
                 </a>
             </div>
+
+            <div class="card">
+                <a href="https://labs.google/experiments" target="_blank">
+                    <h2>Google Labs</h2>
+                    <p>Innovación tecnológica experimental</p>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://github.com/copilot" target="_blank">
+                    <h2>GitHub Copilot</h2>
+                    <p>Programación asistida por IA</p>
+                </a>
+            </div>
         </div>
     </div>
 
     <footer class="page-footer">
-        <p>Creado por #imagif</p>
+        <p>2025 Creado por #imagif</p>
         <p>email: imagenesgifs@gmail.com</p>
     </footer>
 </body>
