@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIS LUGARES</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .page-header, .page-footer {
+            background: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .home-button {
+            display: inline-block;
+            margin: 10px auto;
+            padding: 10px 20px;
+            background: white;
+            color: black;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .card {
+            border-radius: 15px;
+            overflow: hidden;
+            transition: transform 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .card a {
+            text-decoration: none;
+            display: block;
+            padding: 20px;
+            text-align: center;
+            height: 100%;
+        }
+
+        .card h2 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 0.9rem;
+            line-height: 1.4;
+            opacity: 0.9;
+        }
+
+        /* Nueva paleta de colores más variada */
+        .card:nth-child(1) { background: #2C3E50; } /* Azul oscuro */
+        .card:nth-child(1) a { color: white; }
+
+        .card:nth-child(2) { background: #C0392B; } /* Rojo */
+        .card:nth-child(2) a { color: white; }
+
+        .card:nth-child(3) { background: #27AE60; } /* Verde */
+        .card:nth-child(3) a { color: white; }
+
+        .card:nth-child(4) { background: #8E44AD; } /* Púrpura */
+        .card:nth-child(4) a { color: white; }
+
+        .card:nth-child(5) { background: #D35400; } /* Naranja */
+        .card:nth-child(5) a { color: white; }
+
+        .card:nth-child(6) { background: #2980B9; } /* Azul */
+        .card:nth-child(6) a { color: white; }
+
+        .card:nth-child(7) { background: #C0392B; } /* Rojo */
+        .card:nth-child(7) a { color: white; }
+
+        .card:nth-child(8) { background: #16A085; } /* Verde azulado */
+        .card:nth-child(8) a { color: white; }
+
+        .card:nth-child(9) { background: #8E44AD; } /* Púrpura */
+        .card:nth-child(9) a { color: white; }
+
+        .card:nth-child(10) { background: #2C3E50; } /* Azul oscuro */
+        .card:nth-child(10) a { color: white; }
+
+        .card:nth-child(11) { background: #F39C12; } /* Amarillo oscuro */
+        .card:nth-child(11) a { color: white; }
+
+        .card:nth-child(12) { background: #34495E; } /* Gris azulado */
+        .card:nth-child(12) a { color: white; }
+
+        .card:nth-child(13) { background: #2C3E50; } /* Azul oscuro */
+        .card:nth-child(13) a { color: white; }
+
+        .card:nth-child(14) { background: #C0392B; } /* Rojo */
+        .card:nth-child(14) a { color: white; }
+
+        .card:nth-child(15) { background: #27AE60; } /* Verde */
+        .card:nth-child(15) a { color: white; }
+
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .home-button {
+                display: inline-block;
+                margin: 10px auto;
+            }
+
+            .page-header {
+                text-align: center;
+            }
+
+            .page-header h1 {
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="page-header">
+        <h1>MIS LUGARES</h1>
+        <h2>Mis Lugares de Compartir</h2>
+        <a href="https://imagif.github.io/MI-WEB-DE/#" class="home-button">Inicio</a>
+    </header>
+
+    <div class="container">
+        <div class="grid-container">
+            <div class="card">
+                <a href="https://imagenesgifs.wixsite.com/paracompartir" target="_blank">
+                    <h2>IMAGENES Y GIFS</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://ideasdesdetucasa.wixsite.com/ideas" target="_blank">
+                    <h2>IDEAS</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" target="_blank">
+                    <h2>IMAGIF EN YOUTUBE</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/" target="_blank">
+                    <h2>TODOS MIS ENLACES</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/CUENTOS-INFANTILES/cuentos-infantiles.html" target="_blank">
+                    <h2>GITHUB CUENTOS</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://sites.google.com/view/imagenes-e-ideas/IMAGIF" target="_blank">
+                    <h2>BLOG GOOGLE SITES</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://sites.google.com/view/pajaritos-cantores" target="_blank">
+                    <h2>PAJARITOS CANTORES</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://ideasdesdecasa.wixsite.com/optimizatupc" target="_blank">
+                    <h2>OPTIMIZA TU PC</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://es.pinterest.com/imagif55/" target="_blank">
+                    <h2>PINTEREST</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://wordpress.com/home/vestidosnoche.wordpress.com" target="_blank">
+                    <h2>VESTIDOS papapumuky1</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://wordpress.com/home/surveypal.wordpress.com" target="_blank">
+                    <h2>SURVEYPAL en ideasdetucasa</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://papapumuky1.wixsite.com/ideas-copy" target="_blank">
+                    <h2>papapumuky1 copia</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagenesgifs.wixstudio.com/cuentos-infantiles" target="_blank">
+                    <h2>CUENTOS INFANTILES</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagenesgifs.wixsite.com/sonicaura" target="_blank">
+                    <h2>AURICULARES VENTA</h2>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="https://opinosobre.wixsite.com/politica" target="_blank">
+                    <h2>OPINIÓN POLÍTICA</h2>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="page-footer">
+        <p>2025 Creado por #imagif</p>
+        <p>email: imagenesgifs@gmail.com</p>
+    </footer>
+</body>
+</html>
