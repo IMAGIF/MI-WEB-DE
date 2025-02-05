@@ -14,105 +14,155 @@
 
         body {
             min-height: 100vh;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
         }
 
         .page-header, .page-footer {
-            background: black;
+            background: rgba(0, 0, 0, 0.8);
             color: white;
-            padding: 20px;
+            padding: 25px;
             text-align: center;
             width: 100%;
+            backdrop-filter: blur(10px);
+        }
+
+        .page-header h1 {
+            font-size: 2.5em;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
         }
 
         .home-button {
             position: absolute;
             top: 20px;
             left: 20px;
-            padding: 10px 20px;
+            padding: 12px 24px;
             background: white;
             color: black;
             border: none;
-            border-radius: 5px;
+            border-radius: 25px;
             cursor: pointer;
             text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .home-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
-            padding: 20px;
+            padding: 40px 20px;
         }
 
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 30px;
             padding: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
         }
 
         .card {
-            border-radius: 15px;
+            border-radius: 20px;
             overflow: hidden;
-            transition: transform 0.3s ease;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 150px;
-            color: white;
+            transition: all 0.4s ease;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+            height: 180px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(5px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
         }
 
         .card:hover {
-            transform: translateY(-10px);
+            transform: translateY(-15px) scale(1.02);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
         }
 
         .card a {
             text-decoration: none;
-            display: block;
-            text-align: center;
-            width: 100%;
-            height: 100%;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: inherit; /* Use the color of the parent element */
+            height: 100%;
+            width: 100%;
+            color: white;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            padding: 20px;
+            transition: all 0.3s ease;
         }
 
         .card h2 {
-            font-size: 1.2rem;
-            margin: 0;
+            font-size: 1.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
 
-        .card:nth-child(1) { background: #FF6B6B; }
-        .card:nth-child(2) { background: #4ECDC4; color: black; }
-        .card:nth-child(3) { background: #45B7D1; }
-        .card:nth-child(4) { background: #96CEB4; color: black; }
-        .card:nth-child(5) { background: #D4A5A5; color: black; }
-        .card:nth-child(6) { background: #9B59B6; }
-        .card:nth-child(7) { background: #3498DB; }
-        .card:nth-child(8) { background: #F1C40F; color: black; }
-        .card:nth-child(9) { background: #E74C3C; }
-        .card:nth-child(10) { background: #2ECC71; }
-        .card:nth-child(11) { background: #FF6B6B; }
-        .card:nth-child(12) { background: #4ECDC4; color: black; }
-        .card:nth-child(13) { background: #45B7D1; }
-        .card:nth-child(14) { background: #96CEB4; color: black; }
-        .card:nth-child(15) { background: #D4A5A5; color: black; }
+        .card:nth-child(1) { background: linear-gradient(45deg, #FF416C, #FF4B2B); }
+        .card:nth-child(2) { background: linear-gradient(45deg, #4776E6, #8E54E9); }
+        .card:nth-child(3) { background: linear-gradient(45deg, #00B4DB, #0083B0); }
+        .card:nth-child(4) { background: linear-gradient(45deg, #834d9b, #d04ed6); }
+        .card:nth-child(5) { background: linear-gradient(45deg, #1D976C, #93F9B9); }
+        .card:nth-child(6) { background: linear-gradient(45deg, #ee0979, #ff6a00); }
+        .card:nth-child(7) { background: linear-gradient(45deg, #4776E6, #8E54E9); }
+        .card:nth-child(8) { background: linear-gradient(45deg, #00B4DB, #0083B0); }
+        .card:nth-child(9) { background: linear-gradient(45deg, #834d9b, #d04ed6); }
+        .card:nth-child(10) { background: linear-gradient(45deg, #1D976C, #93F9B9); }
+
+        .page-footer {
+            margin-top: auto;
+        }
+
+        .page-footer p {
+            margin: 5px 0;
+            font-size: 1.1em;
+        }
 
         @media (max-width: 768px) {
             .grid-container {
                 grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                gap: 20px;
+                padding: 15px;
             }
             
             .home-button {
                 position: relative;
                 display: inline-block;
-                margin: 10px;
+                margin: 10px auto;
                 left: 0;
                 top: 0;
+            }
+
+            .card {
+                height: 150px;
+            }
+
+            .card h2 {
+                font-size: 1.2rem;
+            }
+
+            .page-header h1 {
+                font-size: 2em;
+            }
+        }
+
+        @media (min-width: 1400px) {
+            .grid-container {
+                grid-template-columns: repeat(5, 1fr);
             }
         }
     </style>
@@ -179,7 +229,7 @@
     </div>
 
     <footer class="page-footer">
-        <p>Creado por #imagif</p>
+        <p>2025 Creado por #imagif</p>
         <p>email: imagenesgifs@gmail.com</p>
     </footer>
 </body>
