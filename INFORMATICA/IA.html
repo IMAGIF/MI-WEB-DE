@@ -9,40 +9,56 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
             background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin: 20px 0;
         }
         .container {
             display: grid;
             grid-template-columns: repeat(3, 1fr); /* 3 columnas para ordenadores */
             gap: 20px;
-            width: 90%;
+            padding: 20px;
             max-width: 1200px;
+            margin: 0 auto;
         }
         @media (max-width: 768px) {
             .container {
                 grid-template-columns: repeat(2, 1fr); /* 2 columnas para móviles */
             }
         }
-        .button {
-            background-color: #007BFF;
-            color: white;
-            text-align: center;
+        .item {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
             padding: 15px;
-            border-radius: 5px;
-            text-decoration: none;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease;
+        }
+        .item:hover {
+            transform: scale(1.05);
+        }
+        .item a {
             display: block;
-            transition: background-color 0.3s ease;
+            color: #007BFF;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            margin-bottom: 10px;
         }
-        .button:hover {
-            background-color: #0056b3;
-        }
-        .description {
-            margin-top: 5px;
+        .item p {
             font-size: 14px;
-            color: #ffffff;
+            color: #666;
+            margin: 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 12px;
+            color: #999;
         }
     </style>
 </head>
@@ -50,28 +66,72 @@
     <h1>INTELIGENCIA ARTIFICIAL - Asistentes y herramientas</h1>
     <div class="container">
         <!-- Botones existentes -->
-        <a href="https://chatgpt.openai.com/" class="button">ChatGPT</a>
-        <a href="https://gemini.google.com/" class="button">Gemini</a>
-        <a href="https://claude.ai/" class="button">Claude</a>
-        <a href="https://deepseek.ai/" class="button">DeepSeek</a>
-        <a href="https://copilot.github.com/" class="button">Copilot</a>
-        <a href="https://perplexity.ai/" class="button">Perplexity</a>
-        <a href="https://mistral.ai/" class="button">Mistral</a>
-        <a href="https://you.com/" class="button">You.com</a>
-        <a href="https://pi.ai/" class="button">Pi AI</a>
-        <a href="https://huggingface.co/chat" class="button">HuggingChat</a>
-        <a href="https://labs.google.com/" class="button">Google Labs</a>
-        <a href="https://copilot.github.com/" class="button">GitHub Copilot</a>
+        <div class="item">
+            <a href="https://chatgpt.openai.com/">ChatGPT</a>
+            <p>Asistente IA de OpenAI</p>
+        </div>
+        <div class="item">
+            <a href="https://gemini.google.com/">Gemini</a>
+            <p>IA multitarea de Google</p>
+        </div>
+        <div class="item">
+            <a href="https://claude.ai/">Claude</a>
+            <p>Asistente avanzado de Anthropic</p>
+        </div>
+        <div class="item">
+            <a href="https://deepseek.ai/">DeepSeek</a>
+            <p>IA especializada en código</p>
+        </div>
+        <div class="item">
+            <a href="https://copilot.github.com/">Copilot</a>
+            <p>Asistente inteligente de Microsoft</p>
+        </div>
+        <div class="item">
+            <a href="https://perplexity.ai/">Perplexity</a>
+            <p>Búsqueda y análisis con IA</p>
+        </div>
+        <div class="item">
+            <a href="https://mistral.ai/">Mistral</a>
+            <p>IA conversacional de código abierto</p>
+        </div>
+        <div class="item">
+            <a href="https://you.com/">You.com</a>
+            <p>Buscador potenciado por IA</p>
+        </div>
+        <div class="item">
+            <a href="https://pi.ai/">Pi AI</a>
+            <p>Asistente personal empático</p>
+        </div>
+        <div class="item">
+            <a href="https://huggingface.co/chat">HuggingChat</a>
+            <p>Chat IA de código abierto</p>
+        </div>
+        <div class="item">
+            <a href="https://labs.google.com/">Google Labs</a>
+            <p>Innovación tecnológica experimental</p>
+        </div>
+        <div class="item">
+            <a href="https://copilot.github.com/">GitHub Copilot</a>
+            <p>Programación asistida por IA</p>
+        </div>
 
         <!-- Nuevos botones -->
-        <a href="https://chat.qwenlm.ai/" class="button">Qwen</a>
-        <div class="description">Asistente avanzado de Alibaba</div>
-
-        <a href="https://eugene.ai/" class="button">Eugene</a>
-        <div class="description">IA europea gratuita</div>
-
-        <a href="https://nlp.biu.ac.il/~ariel/mt5/" class="button">MT5</a>
-        <div class="description">Modelo multilingüe gratuito</div>
+        <div class="item">
+            <a href="https://chat.qwenlm.ai/">Qwen</a>
+            <p>Asistente avanzado de Alibaba</p>
+        </div>
+        <div class="item">
+            <a href="https://eugene.ai/">Eugene</a>
+            <p>IA europea gratuita</p>
+        </div>
+        <div class="item">
+            <a href="https://nlp.biu.ac.il/~ariel/mt5/">MT5</a>
+            <p>Modelo multilingüe gratuito</p>
+        </div>
     </div>
+    <footer>
+        2025 Creado por #imagif<br>
+        email: imagenesgifs@gmail.com
+    </footer>
 </body>
 </html>
