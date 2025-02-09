@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="-1" name="24 HORAS" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", 24 HORAS
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 1" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 1 GEO
+https://directes-tv-es.ccma.cat/live-origin/oca1-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="AccuWeather NOW" group="Weather" logo="https://i.imgur.com/M8wbVYK.png", AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Africam Nkorho" group="YOUTUBE" logo="https://th.bing.com/th/id/OIG4.ASi71RW2EEls_r8gRV2G?pid=ImgGn", Africam Nkorho
+https://www.youtube.com/embed/dIChLG4_WNs?si=E0EoJIWKZNjI-m7p
+#EXTINF:0 type="stream" channelId="-1" name="Al Jazeera Qatar" group="Int. Asia" logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200", Al Jazeera Qatar EN
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="America TeVe USA" group="Int. América" logo="https://graph.facebook.com/americateve/picture?width=200&height=200", America TeVe USA
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Andalucía Cocina" group="Andalucía" logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200", Andalucía Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Anove TV" group="Galicia" logo="https://graph.facebook.com/anove.tv/picture?width=200&height=200", Anove TV
+https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Atresplayer Multicine" group="Eventuales" logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200", Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Bloomberg Europe" group="Int. Europa" logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg", Bloomberg Europe EN
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Bloomberg USA" group="Int. América" logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg", Bloomberg USA EN
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="C33 Madrid" group="C. de Madrid" logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200", C33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CBS News USA" group="Int. América" logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200", CBS News USA EN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 type="stream" channelId="893" name="CGTN" group="Int. Asia" logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200", CGTN
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4006" name="CGTN Documentary" group="Int. Asia" logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200", CGTN Documentary EN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CGTN News" group="Int. Asia" logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200", CGTN News EN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0 type="stream" channelId="2883" name="CNN Internacional" group="Int. Europa" logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320", CNN Internacional
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:0 type="favorites" channelId="1382" name="Canal Parlamento" group="Eventuales" logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200", Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:0 type="favorites" channelId="1671" name="Canal Sur Andalucía" group="Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Canal Sur Más Noticias" group="Andalucía" logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200", Canal Sur Más Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Channel 24 Ucrania" group="Int. Europa" logo="https://graph.facebook.com/news24ukraine/picture?width=200&height=200", Channel 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Cheddar USA" group="Int. América" logo="https://graph.facebook.com/cheddar/picture?width=200&height=200", Cheddar USA EN
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:0 type="favorites" channelId="1380" name="Clan" group="Infantiles" logo="https://graph.facebook.com/clantve/picture?width=200&height=200", Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:0 type="favorites" channelId="2134" name="Classic Arts Showcase" group="Int. Otros" logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", Classic Arts Showcase EN
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DW" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8h0N8FvyY0rdIg0lfNP2noOFhE4vNelXcg&s", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Digi24 Rumanía" group="Int. Europa" logo="https://graph.facebook.com/Digi24HD/picture?width=200&height=200", Digi24 Rumanía RO
+https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="EITB Basque" group="Int. Europa" logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ELEFANTES IMAGIF 1" group="YOUTUBE" logo="https://raw.githubusercontent.com/IMAGIF/PAPAPUMUKY1/main/IMAGEN/CUENTOS.jpg", ELEFANTES IMAGIF 1
+https://www.youtube.com/embed/4msWlq3MZUg?si=MC_Zb2eNK-nSbqyi
+#EXTINF:0 type="stream" channelId="-1" name="ELEFANTES IMAGIF 2" group="YOUTUBE" logo="https://raw.githubusercontent.com/IMAGIF/PAPAPUMUKY1/1416a3bbcbb1429849d24bbbcc3a4566cf45a60a/IMAGEN/RAYO%20ESPECTRAL.jpeg", ELEFANTES IMAGIF 2
+https://www.youtube.com/embed/s2Hy_s1L0FQ?si=xAeP9Wi2IJdWYQ-F
+#EXTINF:0 type="stream" channelId="-1" name="EURONEWS" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EURONEWS
+https://www.youtube.com/embed/O9mOtdZ-nSk?si=FU5u3v-K85zM7k9O
+#EXTINF:0 type="favorites" channelId="-1" name="El Confidencial" group="Informativos" logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200", El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0 type="favorites" channelId="4030" name="El Toro TV" group="Generalistas" logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200", El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:0 type="favorites" channelId="1684" name="Esport 3" group="Deportivos" logo="https://graph.facebook.com/Esport3/picture?width=200&height=200", Esport 3 GEO
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:0 type="stream" channelId="217" name="Euronews" group="Informativos" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:0 type="stream" channelId="177" name="FOX" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/180px-Fox_News_Channel_logo.svg.png", FOX
+https://www.youtube.com/embed/YDfiTGGPYCk?si=nOJIVE2uyU0I7Ylk
+#EXTINF:0 type="stream" channelId="-1" name="FOX Live Now USA" group="Int. América" logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200", FOX Live Now USA EN
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Fox Weather" group="Weather" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png", Fox Weather
+https://lnc-fox-weather.tubi.video/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="GB News" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png", GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="GB News UK" group="Int. Europa" logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200", GB News UK EN
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4899" name="Kidz" group="Infantiles" logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200", Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:0 type="favorites" channelId="1372" name="LOS40" group="Radio_Populares" logo="https://graph.facebook.com/los40/picture?width=200&height=200", LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 type="favorites" channelId="1321" name="La 2" group="Generalistas" logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 type="favorites" channelId="2528" name="LaOtra" group="C. de Madrid" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Miami TV" group="Int. Otros" logo="https://graph.facebook.com/miamitv/picture?width=200&height=200", Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3383" name="Motorsport.tv" group="Deportivos Int." logo="https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200", Motorsport.tv
+https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="NAMIBIA" group="YOUTUBE" logo="https://th.bing.com/th/id/OIG4.ofkYEP0a4qBjSkOvNUO4?pid=ImgGn", NAMIBIA
+https://www.youtube.com/embed/ydYDqZQpim8?si=Hj_OkLCLu_JQOXNu
+#EXTINF:0 type="stream" channelId="-1" name="NASA" group="YOUTUBE" logo="https://th.bing.com/th/id/R.dfe000c4d39e10adeac73e968d0081c0?rik=2qecWrg5GwkLaA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnasa-logo-png-nasa-logo-1664.png&ehk=d%2bgvuoNz%2b0udsBSxL%2bAGF0N%2f1tWoj4H6GaKOJhRCIyQ%3d&risl=&pid=ImgRaw&r=0", NASA
+https://www.youtube.com/embed/mhJRzQsLZGg?si=Z9Rw2caTlgovxqei
+#EXTINF:0 type="stream" channelId="-1" name="NASA SPACEFLIGHT" group="YOUTUBE" logo="https://i.pinimg.com/474x/82/ff/47/82ff47cae833411639ebd93c6169e7f0.jpg", NASA SPACE FLIGHT
+https://www.youtube.com/watch?v=mhJRzQsLZGg
+#EXTINF:0 type="stream" channelId="-1" name="NHK World Japan" group="Int. Asia" logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200", NHK World Japan EN
+https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="National Geographic Finland" group="Finland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png", National Geographic Finland
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
+#EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Newsmax TV USA" group="Int. América" logo="https://graph.facebook.com/newsmax/picture?width=200&height=200", Newsmax TV USA EN
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Pequeradio TV" group="Infantiles" logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200", Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RNE para todos" group="Generalistas" logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200", RNE para todos
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP 1 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200", RTP 1 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP 2 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200", RTP 2 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP 3 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp/picture?width=200&height=200", RTP 3 Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP Internacional Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpinternacional/picture?width=200&height=200", RTP Internacional Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="RTP3 Ⓖ" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpR_lBIy9QXEthZxozlR8uPbXOllBJV5AddBUjWsqxvgkPd4xUy2A2l3D8i36dO1zcA&usqp=CAU", RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Radio Marca" group="Radio_Populares" logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Sky News UK" group="Int. Europa" logo="https://graph.facebook.com/skynews/picture?width=200&height=200", Sky News UK EN
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 type="stream" channelId="3013" name="Sport Italia" group="Int. Europa" logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200", Sport Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TRT World Turquía" group="Int. Europa" logo="https://graph.facebook.com/trtworld/picture?width=200&height=200", TRT World Turquía EN
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TV Ferrol" group="Galicia" logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200", TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:0 type="favorites" channelId="2814" name="TV3" group="Cataluña" logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png", TV3 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="4029" name="TV3.CAT" group="Int. Europa" logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png", TV3.CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVE Int. Europa" group="Int. Europa" logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200", TVE Int. Europa
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:0 type="favorites" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4038" name="TVG 2" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG América" group="Int. Europa" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG América
+https://crtvg-america.flumotion.cloud/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Cativ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Cativ@s
+https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Eventos" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG Eventos
+https://crtvg-events1.flumotion.cloud/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Mira Radio Galega" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG Mira Radio Galega
+https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Mociñ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Mociñ@s
+https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Pequerrech@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Pequerrech@s
+https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Xabarin" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Xabarin
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TeleVigo" group="Galicia" logo="https://graph.facebook.com/televigo/picture?width=200&height=200", TeleVigo
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+#EXTINF:0 type="stream" channelId="1322" name="Teledeporte" group="Deportivos" logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:0 type="favorites" channelId="1324" name="Telemadrid" group="C. de Madrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Telemadrid Internacional" group="Int. Europa" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid Internacional
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
+https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
+#EXTINF:0 type="favorites" channelId="-1" name="Vinx TV Asturias" group="Deportivos" logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200", Vinx TV Asturias
+https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
+#EXTINF:0 type="favorites" channelId="4606" name="WeatherNation" group="Weather" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png", WeatherNation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:0 type="favorites" channelId="-1" name="WeatherNation USA" group="Int. América" logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200", WeatherNation USA
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
