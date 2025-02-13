@@ -3,8 +3,7 @@
 https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/VmaYUcq.png", Fast Sports (1080p)
 http://stream01.vnet.am/Channel_131/index.m3u8
-#EXTINF:0 type="stream" channelId="1349" group="Sports" logo="https://i.imgur.com/Q3WjH1Q.png", Canal+ Sport
-http://78.130.250.2:8023/play/a02v/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1536" group="Sports" logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png", SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network USA
@@ -15,8 +14,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/wLjSSo2.jpg", Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/q8BENJg.png", CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:0 type="stream" channelId="1349" group="Sports" logo="https://i.imgur.com/Q3WjH1Q.png", Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
@@ -64,8 +61,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png", DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/VmaYUcq.png", Fast Sports (1080p)
-http://stream01.vnet.am/Channel_131/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1329" group="Sports" logo="https://i.imgur.com/O9BapV9.png", Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/q8BENJg.png", CBS Sports HQ
