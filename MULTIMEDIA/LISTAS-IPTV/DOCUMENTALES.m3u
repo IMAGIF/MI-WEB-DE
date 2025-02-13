@@ -21,3 +21,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://lnc-fox-weather.tubi.video/index.m3u8
 #EXTINF:0 type="favorites" channelId="4606" name="WeatherNation" group="Weather" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png", WeatherNation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:0 type="favorites" channelId="736" group="Argentina" logo="https://i.imgur.com/Poz3xfi.png", CGTN Español (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="France" logo="https://i.imgur.com/vQuyyWO.png", Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png", WGRZ-DT1 (1080p)
+https://livevideo01.wgrz.com/hls/live/2016286/elvs/live.m3u8
+#EXTINF:0 type="favorites" channelId="2063" group="United States", Wild TV (1080p)
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/b49ElBk.png", WUSA-DT1 (1080p)
+https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
