@@ -61,9 +61,9 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png", DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-
-#EXTINF:0 type="stream" channelId="1329" group="Sports" logo="https://i.imgur.com/O9BapV9.png", Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United States", Dazn Ringside (1080p)
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/q8BENJg.png", CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/e3yJ9QN.png", World Poker Tour Italy (720p)
@@ -80,10 +80,7 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/FabFP5A.png", Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Dazn Ringside (1080p)
-https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png", DAZN Combat (1080p)
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
 
 #EXTINF:0 type="favorites" channelId="1328" group="United States" logo="https://i.imgur.com/xA0l7DP.png", Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
