@@ -1,0 +1,34 @@
+Como MEJORAR un Windows LENTO en 2025
+
+https://youtu.be/so8mRNnlimw?si=G2DlE7bqMpQ0UNeL
+
+
+COMO LIMPIAR, ACELERAR Y SACAR EL MÁXIMO RENDIMIENTO DE MI PC EN 2025 SIN PROGRAMAS
+
+https://youtu.be/DUdsLbffkXI?si=e1IvXBZ2V2_wWUuQ
+
+Barra búsquedas, escribir ejecutar
+luego temp y eliminamos
+luego escribimos %temp% y eliminamos
+luego escribimos prefetch y eliminamos
+
+Luego al botón de inicio, sistema, almacenamiento, sensor almacenamiento …
+
+
+Luego en búsquedas escribimos "visor de eventos" REgistros de Windows - aplicación - botón derecho y borrar registro.
+Haremos lo mismo con instalación y sistema.
+
+Luego otra vez en buscar escribimos "rendimiento" y elegimos ajustar la apariencia y rendimiento. 1) ajustamos para obtener el mejor rendimiento y luego activamos: mostrar vistas en miniatura y 2) suavizar bordes para las fuentes de pantalla.
+
+Seguidamente podemos ir a dentro de Aplicaciones e Inicio para elegir que aplicaciones se inician automáticamente.
+
+Por último en inicio seguimos por Privacidad y seguridad, permisos de búsqueda, y elegimos búsqueda en Windows y nos aseguramos que está elegido el modo clásico
+
+OTRO VIDEO DE OPTIMIACIÓN LLAMADO
+ACELERA TU WINDOWS
+https://youtu.be/u61WHBfvnQA?si=Wa8iNmmid49lPsAw
+
+PULSAR CTRL+MAY+ESC
+En la barra lateral vamos a aplicaciones de arranque, ordenamos la lista por estado y ordenar, luego clic derecho y deshabilitar lo que no interese.
+
+
