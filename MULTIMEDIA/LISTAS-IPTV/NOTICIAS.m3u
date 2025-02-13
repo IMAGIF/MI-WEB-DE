@@ -70,3 +70,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/0xW69iu.png", OAN Plus
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7815-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90d7ae21-b8ff-4bf0-a4e4-79081c9d1445
+#EXTINF:0 type="favorites" channelId="-1" name="RTP 1 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200", RTP 1 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP 2 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200", RTP 2 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP 3 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp/picture?width=200&height=200", RTP 3 Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="RTP Internacional Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpinternacional/picture?width=200&height=200", RTP Internacional Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
