@@ -101,6 +101,9 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Channel 24 Ucrania" group="Int. Europa" logo="https://graph.facebook.com/news24ukraine/picture?width=200&height=200", Channel 24 Ucrania
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Portugal" logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg", Bigtime (720p)
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" name="Bloomberg Europe" group="Int. Europa" logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg", Bloomberg Europe EN
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
