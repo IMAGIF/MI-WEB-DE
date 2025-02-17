@@ -33,9 +33,6 @@ https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://image.roku.com/developer_channels/prod/e05544ebbf9d0911e33072fd56b9724900b8e7e84fb53d21d6155a7850f359c0.png", OAN  http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 type="favorites" channelId="-1" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png", OAN (1080p)
-https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
 #EXTINF:0 type="favorites" channelId="-1" group="NEWS" logo="https://i.imgur.com/0xW69iu.png", OAN Plus
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7815-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90d7ae21-b8ff-4bf0-a4e4-79081c9d1445
 
