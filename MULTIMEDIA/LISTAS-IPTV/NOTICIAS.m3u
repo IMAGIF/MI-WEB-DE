@@ -21,7 +21,6 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0 type="favorites" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-
 #EXTINF:0 type="favorites" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png", Fox Noticias Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
@@ -40,10 +39,13 @@ https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="NEWS" logo="https://i.imgur.com/0xW69iu.png", OAN Plus
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7815-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90d7ae21-b8ff-4bf0-a4e4-79081c9d1445
 
+#EXTINF:0 type="favorites" channelId="527" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png", CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NEWS" logo="https://i.imgur.com/JZt2qh5.png", NBC News NOW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/xGlToly.png", Bloomberg TV+ UHD (2160p)
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-
-
 
 #EXTINF:0 type="stream" channelId="363" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png", Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
@@ -57,16 +59,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-
-
-#EXTINF:0 type="favorites" channelId="527" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png", CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/JZt2qh5.png", NBC News NOW
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
-
-
-#EXTINF:0 type="stream" channelId="2832" group="NEWS" logo="https://i.imgur.com/w7GV86i.png", RTP 1 (720p) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="RTP 1 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200", RTP 1 Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="RTP 2 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200", RTP 2 Portugal
@@ -79,7 +71,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/lPyJhBN.png", UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-
 
 #EXTINF:0 type="favorites" channelId="1264" group="Austria" logo="https://i.imgur.com/40p3eif.png", ORF 1 HD (720p)
 https://s6.hopslan.com/orfx12/index.m3u8?token=cf047287f41e1ab2866bf517eb314b80f26ea1c4-9d0c133dedf3dd368c452f391b3bc18c-1733949261-173393
