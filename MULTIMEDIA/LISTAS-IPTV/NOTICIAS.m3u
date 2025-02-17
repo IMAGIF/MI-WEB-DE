@@ -3,8 +3,12 @@
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="EURONEWS" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EURONEWS
 https://www.youtube.com/embed/O9mOtdZ-nSk?si=FU5u3v-K85zM7k9O
+
 #EXTINF:0 type="favorites" channelId="-1" name="DW" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8h0N8FvyY0rdIg0lfNP2noOFhE4vNelXcg&s", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="France" logo="https://i.imgur.com/u8N6uoj.png", France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:0 type="favorites" channelId="1143" group="United Kingdom" logo="https://i.imgur.com/vSz2WEp.png", BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:0 type="favorites" group="Noticias" logo="https://i.imgur.com/REuN9RR.png", BBC Noticias Asia Pacific (720p)
@@ -53,11 +57,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://i.imgur.com/A1xzjOI.png", DW Español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="France" logo="https://i.imgur.com/u8N6uoj.png", France 24 French (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:0 type="favorites" channelId="527" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png", CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
