@@ -23,6 +23,24 @@ http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:0 type="favorites" channelId="1502" group="France" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png", France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/SLrjImc.png", More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="1322" group="Sports" logo="https://i.imgur.com/b0H5f62.png", Teledeporte (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="United States", Formula 1 Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
+
+#EXTINF:0 type="stream" channelId="3383" group="Sports" logo="https://i.imgur.com/qmczb2N.png", Motorsport.tv (720p)
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Undefined", A21 Network | Russian Motorsport Television
+https://autopilot.catcast.tv/content/37909/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://www.htspor.com/images/manifest/social-share-logo.png", HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8
 
@@ -34,9 +52,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="3087" group="Sports" logo="https://i.imgur.com/tGTVcVe.jpg", Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-
-#EXTINF:0 type="favorites" channelId="1322" group="Sports" logo="https://i.imgur.com/b0H5f62.png", Teledeporte (1080p) [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="United States", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -62,11 +77,20 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="2405" group="Poland" logo="https://i.imgur.com/Kpx4GUi.png", NSport+ (1080p)
 http://185.236.229.62:9981/play/a05h
 
-#EXTINF:0 type="favorites" channelId="4388" group="Poland" logo="https://i.imgur.com/QZwPFa8.png", Canal+ Sport 3 (1080p)
-http://185.236.229.62:9981/play/a05e
+#EXTINF:0 type="favorites" channelId="1349" group="Sports" logo="https://i.imgur.com/Q3WjH1Q.png", Canal+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="3193" group="Poland" logo="https://i.imgur.com/Aq2hnUj.png", Canal+ Sport 2 (1080p)
 http://178.219.128.68:64888/CANASPOR2HD
+
+#EXTINF:0 type="favorites" channelId="4388" group="Poland" logo="https://i.imgur.com/QZwPFa8.png", Canal+ Sport 3 (1080p)
+http://185.236.229.62:9981/play/a05e
+
+#EXTINF:0 type="favorites" channelId="4389" group="Poland" logo="https://i.imgur.com/BNAPYAx.png", Canal+ Sport 4 (1080p)
+http://185.236.229.62:9981/play/a05f
+
+#EXTINF:0 type="favorites" channelId="-1" group="Armenia" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/320px-CANAL%2B_Sport_5.png", Canal+ Sport 5 (1080p)
+http://195.189.60.33:9012/play/a009
 
 #EXTINF:0 type="favorites" channelId="4642" group="United States", UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
@@ -80,35 +104,14 @@ https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png", DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Formula 1 Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-
-#EXTINF:0 type="favorites" channelId="1502" group="France" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png", France 2 (1080p)
-http://69.64.57.208/france2/mono.m3u8
-
-#EXTINF:0 type="favorites" channelId="4389" group="Poland" logo="https://i.imgur.com/BNAPYAx.png", Canal+ Sport 4 (1080p)
-http://185.236.229.62:9981/play/a05f
-
-#EXTINF:0 type="favorites" channelId="-1" group="Armenia" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/320px-CANAL%2B_Sport_5.png", Canal+ Sport 5 (1080p)
-http://195.189.60.33:9012/play/a009
-
-#EXTINF:0 type="favorites" channelId="1349" group="Sports" logo="https://i.imgur.com/Q3WjH1Q.png", Canal+ Sport
-http://78.130.250.2:8023/play/a02v/index.m3u8
-
 #EXTINF:0 type="favorites" channelId="1536" group="Sports" logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png", SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/SLrjImc.png", More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="1328" group="United States" logo="https://i.imgur.com/xA0l7DP.png", Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
 #EXTINF:0 type="favorites" channelId="1329" group="United States" logo="https://i.imgur.com/O9BapV9.png", Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:0 type="favorites" channelId="170" group="United States" logo="https://i.imgur.com/LHtxKI8.png", Fox Sports 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/wLjSSo2.jpg", Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
@@ -137,12 +140,6 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/1IXQoWq.png", Sport En France (1080p)
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
-#EXTINF:0 type="stream" channelId="3383" group="Sports" logo="https://i.imgur.com/qmczb2N.png", Motorsport.tv (720p)
-https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Undefined", A21 Network | Russian Motorsport Television
-https://autopilot.catcast.tv/content/37909/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/47X44DD.png", MadeinBO TV (1080p)
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 
@@ -151,12 +148,6 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/q8BENJg.png", CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/e3yJ9QN.png", World Poker Tour Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/VTrKSxt.png", Poker Night in America (1080p)
-https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8
 
 #EXTINF:0 type="stream" channelId="4982" group="Sports" logo="https://i.imgur.com/R1hGX1d.png", KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
