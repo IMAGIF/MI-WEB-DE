@@ -1,8 +1,31 @@
 #EXTM3U
-#EXTINF:0 type="favorites" channelId="-1" name="24 HORAS" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", 24 HORAS
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:0 type="stream" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:0 type="favorites" channelId="1321" name="La 2" group="Generalistas" logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:0 type="favorites" channelId="2124" group="Spain" logo="https://i.imgur.com/USbmwiC.png", Antena 3 (720p)
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="1678" group="Spain" logo="https://i.imgur.com/NYLnABb.png", Cuatro (1080p)
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="2527" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png", Telecinco (720p)
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="1692" group="Spain" logo="https://i.imgur.com/aKV5voq.png", La Sexta (720p)
+http://185.189.225.150:85/LaSexta/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/GrzQ1ya.png", Negocios TV (1080p)
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 1" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 1 GEO
 https://directes-tv-es.ccma.cat/live-origin/oca1-hls/master.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="Andalucía Cocina" group="Andalucía" logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200", Andalucía Cocina
@@ -31,10 +54,8 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 #EXTINF:0 type="favorites" channelId="1372" name="LOS40" group="Radio_Populares" logo="https://graph.facebook.com/los40/picture?width=200&height=200", LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:0 type="favorites" channelId="1321" name="La 2" group="Generalistas" logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="2528" name="LaOtra" group="C. de Madrid" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
@@ -97,3 +118,53 @@ https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+#EXTINF:0 type="favorites" channelId="1695" group="Spain" logo="https://i.imgur.com/D1pUrGC.png", Neox (576p)
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:0 type="favorites" channelId="41" group="Spain" logo="https://i.imgur.com/E84jnP8.png", Nickelodeon (Spain) (576p)
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:0 type="favorites" channelId="2125" group="Spain" logo="https://i.imgur.com/Vx1F4o5.png", Nova (Spain) (576p)
+http://185.189.225.150:85/nova/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/EcinFGu.png", PTV Sevilla (1080p)
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:0 type="favorites" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:0 type="favorites" channelId="4899" name="Kidz" group="Infantiles" logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200", Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Atresplayer Multicine" group="Eventuales" logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200", Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
+https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
+#EXTINF:0 type="favorites" channelId="-1" name="Onda Cero" group="Eventuales" logo="https://graph.facebook.com/ondacero/picture?width=200&height=200", Onda Cero
+https://atres-live.ondacero.es/h264/live/obs/master.m3u8
+
+#EXTINF:0 type="favorites" channelId="2819" group="Spain" logo="https://i.imgur.com/Udrt2eK.png", Mega (Spain) (576p)
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/72JmyjM.png", NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="1573" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN (1080p)
+http://178.219.128.68:64888/AXN
+#EXTINF:0 type="favorites" channelId="1380" group="Spain" logo="https://i.imgur.com/03jFV68.png", Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/iM9AN6Z.png", Costa Noroeste TV (1080p) [Not 24/7]
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/AqGIoIt.png", Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/F1NdbpE.png", Factoria de Ficcion (1080p)
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/ZnmAXVv.png", France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:0 type="favorites" channelId="2814" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png", TV3 (1080p)
+http://185.189.225.150:85/tv3/index.m3u8
+#EXTINF:0 type="favorites" channelId="2501" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMC (Spain) (720p)
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/W2Qqz2F.png", El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0 type="favorites" channelId="4030" group="Spain" logo="https://i.imgur.com/z8M0Dpy.png", El Toro TV (720p)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:0 type="favorites" channelId="4036" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png", Paramount Network (Spain) (720p)
+http://185.189.225.150:85/Paramount/index.m3u8
