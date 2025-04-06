@@ -22,8 +22,7 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Portugal" logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg", TOP Barca (1080p)
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="1264" group="Undefined", ORF 1 HD
@@ -75,8 +74,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:0 type="favorites" channelId="3217" group="United States", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/V562tpO.png", beIN SPORTS XTRA en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef
 
 #EXTINF:0 type="favorites" channelId="-1" group="Russia" logo="https://i.imgur.com/BKaEtqL.png", Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
@@ -154,8 +151,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="1060" group="Turkey" logo="https://i.imgur.com/6tv0zxh.png", TRT Spor (1080p)
 http://185.234.111.229:8000/play/a00e
-#EXTINF:0 type="favorites" channelId="3194" group="Poland" logo="https://i.imgur.com/AOu4FXH.png", Eleven Sports 1 (1080p)
-http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="1349" group="Sports" logo="https://i.imgur.com/Q3WjH1Q.png", Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:0 type="favorites" channelId="3194" group="Sports" logo="https://i.imgur.com/AOu4FXH.png", Eleven Sports 1 (2160p)
@@ -166,5 +162,4 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/i8o7QEj.png", FL Sport (1080p)
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="4506" group="Sports" logo="https://i.imgur.com/TQ4uJZk.png", M4 Sport (1080p)
-http://146.59.85.40:89/m4hd/index.m3u8
+
