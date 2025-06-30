@@ -19,6 +19,9 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:0 type="favorites" channelId="1692" group="Spain" logo="https://i.imgur.com/aKV5voq.png", La Sexta (720p)
 http://185.189.225.150:85/LaSexta/index.m3u8
 
+#EXTINF:0 type="favorites" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
+https://www.youtube.com/embed/dBiXJlm6YWc?si=-_gdLtqPiwjDI7AI
+
 #EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/GrzQ1ya.png", Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
