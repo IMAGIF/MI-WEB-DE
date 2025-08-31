@@ -1,41 +1,140 @@
 #EXTM3U
 
-#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/tArvcvj.png", Poker TV (720p)
-https://hls.pokertvfa.live/hls/stream.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/VmaYUcq.png", Fast Sports (1080p)
-http://stream01.vnet.am/Channel_131/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Formula 1 Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-#EXTINF:0 type="favorites" group="Deporte" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Deporte
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:0 type="favorites" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/AYza8KO.png", TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/qJyAWU8.png", TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/wLjSSo2.jpg", Multivisión Deporte
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/A8CnA8g.png", CBS Deporte Network USA
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/1IXQoWq.png", Deporte En France (1080p)
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/rzPQ9Iz.png", Беларусь 5 Интернет (1080p) [Not 24/7]
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2308" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png", RSI La 2 (720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+
+#EXTINF:0 type="favorites" channelId="2303" group="Switzerland" logo="https://i.imgur.com/OP5lHv9.png", RTS 1 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+
+#EXTINF:0 type="favorites" channelId="3211" group="Sports" logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/WECmUKH.png", TVCG 2 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="4079" group="Sports" logo="https://i.imgur.com/6PEevOM.png", Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:0 type="stream" channelId="1322" name="Teledeporte" group="Deportivos" logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RoCOuhJ.png", VITAL Tennis [Not 24/7]
+https://vslive.pw/stream/48685/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/PMJ7Zmo.png", Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/E5jjKHI.png", Star Sports 1 HD [Geo-blocked]
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="3193" group="Czech Republic" logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-2-lu-cz-sk.png", Canal+ Sport 2 (1080i)
+http://78.130.250.2:8023/play/a02w/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="1684" group="Sports" logo="https://i.imgur.com/tkjUFzb.png", Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="170" group="United States" logo="https://i.imgur.com/LHtxKI8.png", Fox Sports 2 (720p)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/IaRaabJ.jpg", Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2948" group="Czech Republic" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/512px-%C4%8CT_sport_logo.png", ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+
+
+#EXTINF:0 type="favorites" channelId="1329" group="Undefined", Fox Sports 1
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/SLrjImc.png", More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png", beIN Sports USA
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:0 type="favorites" channelId="3368" group="Sports" logo="https://i.imgur.com/t35zhM9.png", L'Equipe (1080p)
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HdNshgF.png", RTI La 3 (1080p) [Not 24/7]
+http://69.64.57.208/la3/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="157" group="Sports" logo="https://i.imgur.com/udTzwzu.png", Матч! Арена
+http://194.143.148.28:8080/MatchArena/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://www.htspor.com/images/manifest/social-share-logo.png", HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8
+
+
+
+#EXTINF:0 type="favorites" channelId="1502" group="France" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png", France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="4982" group="Sports" logo="https://i.imgur.com/R1hGX1d.png", KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group="Undefined", A21 Network | Russian Motorsport Television
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United States", Formula 1 Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
+#EXTINF:0 type="favorites" channelId="3087" group="Sports" logo="https://i.imgur.com/tGTVcVe.jpg", Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Russia" logo="https://i.imgur.com/BKaEtqL.png", Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2304" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/lEXrwos.jpg", RTA Sport (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network USA
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+
+
+#EXTINF:0 type="favorites" channelId="1328" group="United States" logo="https://i.imgur.com/xA0l7DP.png", Fox Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
+
+
+
+
+
 #EXTINF:0 type="favorites" group="Noticias" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:0 type="favorites" group="Noticias", El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:0 type="favorites" group="Economia" logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200", El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:0 type="favorites" group="Noticias" logo="https://i.imgur.com/REuN9RR.png", BBC Noticias Asia Pacific (720p)
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:0 type="favorites" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTduVskC-NILQa7Nnt_ZpoEKF5doyClFY41sXPHER8g&s", ABC News USA EN
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 type="favorites" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png", Fox Noticias Channel
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:0 type="favorites" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png", OAN (1080p)
-https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Sky News UK" group="Int. Europa" logo="https://graph.facebook.com/skynews/picture?width=200&height=200", Sky News UK EN
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:0 type="favorites" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png", GB Noticias
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 
 
 #EXTINF:0 type="favorites" channelId="-1" name="Onda Cero" group="Eventuales" logo="https://graph.facebook.com/ondacero/picture?width=200&height=200", Onda Cero

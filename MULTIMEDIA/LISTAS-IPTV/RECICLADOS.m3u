@@ -73,3 +73,21 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 #EXTINF:0 tvg-id="4669" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports",Fox Sports Premium (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
+
+
+#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/tArvcvj.png", Poker TV (720p)
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/VmaYUcq.png", Fast Sports (1080p)
+http://stream01.vnet.am/Channel_131/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United States", Formula 1 Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
+#EXTINF:0 type="favorites" group="Deporte" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Deporte
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/wLjSSo2.jpg", Multivisión Deporte
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/A8CnA8g.png", CBS Deporte Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:0 type="favorites" group="Deporte" logo="https://i.imgur.com/1IXQoWq.png", Deporte En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
