@@ -12,8 +12,6 @@ https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:0 type="favorites" group="Economia" logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200", El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-
-
 #EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
 #EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
