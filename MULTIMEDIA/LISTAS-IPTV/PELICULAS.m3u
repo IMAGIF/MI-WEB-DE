@@ -1,16 +1,28 @@
 #EXTM3U
 
-
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMC East (1080p)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/bZWoDTg.png", Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/NJYEYE3.png", Rakuten Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/NJYEYE3.png", Rakuten TV Action Movies (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/sj5h9bl.png", Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="United States", Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
+
 #EXTINF:0 type="favorites" channelId="-1" group="United States", Sci-Fi World
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group="New Zealand", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -26,14 +38,62 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/IwJ5Pnc.png", The Walking Dead Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
 
+#EXTINF:0 type="favorites" channelId="3357" group="Poland" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" shift="3", TV4 (1080p) [Geo-blocked]
+https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+
 
 #EXTINF:0 type="dibujos" channelId="-1" group="United States" logo="https://i.imgur.com/G1J4IsT.png", Nickelodeon en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+
+
 
 #EXTINF:0 type="dibujos" channelId="2711" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png", NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:0 type="dibujos" channelId="-1" group="United States", Transformers TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef
+
+
+
+#EXTINF:0 type="dibujos" channelId="2711" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png", NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:0 type="dibujos" channelId="-1" name="TVG Pequerrech@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Pequerrech@s
+https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
+
+#EXTINF:0 type="dibujos" channelId="-1" name="TVG Mociñ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Mociñ@s
+https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
+
+#EXTINF:0 type="dibujos" channelId="-1" name="TVG Xabarin" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Xabarin
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/tArvcvj.png", Poker TV (720p)
+https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:0 type="favorites" channelId="3722" group="Dominican Republic" logo="https://i.imgur.com/QMadWXp.png", Antena 3 Internacional (480p)
+http://38.180.133.31:8000/play/a0ki/index.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="1183" group="United Kingdom" logo="https://i.imgur.com/2BpUK0W.png", ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:0 type="favorites" channelId="1184" group="United Kingdom" logo="https://i.imgur.com/JuyM2z5.png", ITV3 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:0 type="favorites" channelId="1185" group="United Kingdom" logo="https://i.imgur.com/DYI4IA2.png", ITV4 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+
+
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/P9eT0O9.png", Hell's Kitchen (1080p)
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
 
 

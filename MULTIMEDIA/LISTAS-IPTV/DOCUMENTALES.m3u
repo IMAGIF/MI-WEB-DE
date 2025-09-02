@@ -1,14 +1,34 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/iCLFnWw.png", NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/CH6VcTR.jpg", NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" name="NASA" group="YOUTUBE" logo="https://th.bing.com/th/id/R.dfe000c4d39e10adeac73e968d0081c0?rik=2qecWrg5GwkLaA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnasa-logo-png-nasa-logo-1664.png&ehk=d%2bgvuoNz%2b0udsBSxL%2bAGF0N%2f1tWoj4H6GaKOJhRCIyQ%3d&risl=&pid=ImgRaw&r=0", NASA
 https://www.youtube.com/embed/mhJRzQsLZGg?si=Z9Rw2caTlgovxqei
+
+#EXTINF:0 type="favorites" channelId="-1" name="NASA SPACEFLIGHT" group="YOUTUBE" logo="https://i.pinimg.com/474x/82/ff/47/82ff47cae833411639ebd93c6169e7f0.jpg", NASA SPACE FLIGHT
+https://www.youtube.com/watch?v=mhJRzQsLZGg
+
+
 #EXTINF:0 type="stream" channelId="-1" name="NASA SPACEFLIGHT" group="YOUTUBE" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9JFGfD2mtXfgjQsvjmKySPCtMRxm0i2sB1586snuMQP2Effwf", NASA SPACEFLIGHT
 https://www.youtube.com/embed/cOmmvhDQ2HM?si=lN2vivn0Eo4YY80x
+
+#EXTINF:0 type="favorites" channelId="2904" group="Turkey" logo="https://i.imgur.com/lWeJxm0.png", Life TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png", National Geographic East
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/M87kbVk.png", Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2063" group="United States", Wild TV (1080p)
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" name="NAMIBIA" group="YOUTUBE" logo="https://th.bing.com/th/id/OIG4.ofkYEP0a4qBjSkOvNUO4?pid=ImgGn", NAMIBIA
 https://www.youtube.com/embed/ydYDqZQpim8?si=Hj_OkLCLu_JQOXNu
 #EXTINF:0 type="stream" channelId="-1" name="Africam Nkorho" group="YOUTUBE" logo="https://th.bing.com/th/id/OIG4.ASi71RW2EEls_r8gRV2G?pid=ImgGn", Africam Nkorho

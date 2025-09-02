@@ -1,14 +1,21 @@
 #EXTM3U
+
 #EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" name="EURONEWS" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EURONEWS
 https://www.youtube.com/embed/O9mOtdZ-nSk?si=FU5u3v-K85zM7k9O
 
 #EXTINF:0 type="favorites" channelId="-1" name="DW" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8h0N8FvyY0rdIg0lfNP2noOFhE4vNelXcg&s", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF:0 type="favorites" channelId="2214" group="Czech Republic" logo="https://i.imgur.com/1nN4rEP.png", Rai Italia
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="-1" group="France" logo="https://i.imgur.com/u8N6uoj.png", France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
 #EXTINF:0 type="favorites" channelId="1143" group="United Kingdom" logo="https://i.imgur.com/vSz2WEp.png", BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:0 type="favorites" group="Noticias" logo="https://i.imgur.com/REuN9RR.png", BBC Noticias Asia Pacific (720p)
@@ -44,8 +51,28 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="NEWS" logo="https://i.imgur.com/JZt2qh5.png", NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 
+
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png", WGRZ-DT1 (1080p)
+https://livevideo01.wgrz.com/hls/live/2016286/elvs/live.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/b49ElBk.png", WUSA-DT1 (1080p)
+https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
+
+
+
+
 #EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/xGlToly.png", Bloomberg TV+ UHD (2160p)
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/W2Qqz2F.png", El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
 
 #EXTINF:0 type="stream" channelId="363" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png", Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8

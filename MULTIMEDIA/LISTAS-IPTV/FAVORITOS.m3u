@@ -1,219 +1,122 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/WECmUKH.png", TVCG 2 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/QORHrXu.png", TVCG 1 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+
 #EXTINF:0 type="favorites" channelId="736" group="Argentina" logo="https://i.imgur.com/Poz3xfi.png", CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="France" logo="https://i.imgur.com/vQuyyWO.png", Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Dazn Ringside (1080p)
-https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Hallmark en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/G1J4IsT.png", Nickelodeon en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
-#EXTINF:0 type="favorites" channelId="2711" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png", NickToons (720p)
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Sci-Fi World
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/IwJ5Pnc.png", The Walking Dead Universe
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Transformers TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/512px-NBC_Peacock_1986.svg.png", WGRZ-DT1 (1080p)
-https://livevideo01.wgrz.com/hls/live/2016286/elvs/live.m3u8
-#EXTINF:0 type="favorites" channelId="2063" group="United States", Wild TV (1080p)
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/b49ElBk.png", WUSA-DT1 (1080p)
-https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Turkmenistan" logo="https://i.imgur.com/zKWfwAw.png", Türkmenistan (406p) [Not 24/7]
-https://alpha.tv.online.tm/hls/ch007.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="-1" group="Turkey" logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png", Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/647WCF8.png", Hispania TV
 https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://iili.io/J1kV1Bn.png", ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+
+
 #EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.ibb.co/Drx6fgZ/Logo-white.png", VIVO TV (1080p)
 https://stream.vivotv.uy/hls/stream.m3u8
-#EXTINF:0 type="favorites" channelId="1507" group="France" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png", France 5 (1080p)
-http://69.64.57.208/france5/mono.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Poland" logo="https://i.imgur.com/UNwzRHN.png", Telewizja Toruń (1080p) [Not 24/7]
 http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
-#EXTINF:0 type="favorites" channelId="3357" group="Poland" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" shift="3", TV4 (1080p) [Geo-blocked]
-https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMC East (1080p)
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/q8BENJg.png", CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:0 type="favorites" channelId="-1" name="NASA SPACEFLIGHT" group="YOUTUBE" logo="https://i.pinimg.com/474x/82/ff/47/82ff47cae833411639ebd93c6169e7f0.jpg", NASA SPACE FLIGHT
-https://www.youtube.com/watch?v=mhJRzQsLZGg
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/JZt2qh5.png", NBC News NOW
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+
+
+
 #EXTINF:0 type="favorites" channelId="3217" group="United States", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:0 type="favorites" channelId="4642" group="United States", UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png", DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/47X44DD.png", MadeinBO TV (1080p)
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Undefined", A21 Network | Russian Motorsport Television
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/1IXQoWq.png", Sport En France (1080p)
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:0 type="favorites" channelId="3013" name="Sport Italia" group="Int. Europa" logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200", Sport Italia IT
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="3013" name="Sport Italia" group="Int. Europa" logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200", Sport Italia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://www.htspor.com/images/manifest/social-share-logo.png", HTSpor TV (1080p)
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8
-#EXTINF:0 type="favorites" channelId="-1" group="United States", ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:0 type="favorites" channelId="-1" group="United States", Formula 1 Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-#EXTINF:0 type="favorites" channelId="1502" group="France" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png", France 2 (1080p)
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/SLrjImc.png", More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/tArvcvj.png", Poker TV (720p)
-https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/IaRaabJ.jpg", Sharjah Sports TV (1080p)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="1678" group="Spain" logo="https://i.imgur.com/NYLnABb.png", Cuatro (1080p)
-http://185.189.225.150:85/CuatroHD/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/W2Qqz2F.png", El Confidencial TV (1080p)
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:0 type="favorites" channelId="4036" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png", Paramount Network (Spain) (720p)
-http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:0 type="favorites" channelId="2527" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png", Telecinco (720p)
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:0 type="favorites" channelId="2814" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png", TV3 (1080p)
-http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:0 type="favorites" channelId="2501" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMC (Spain) (720p)
-http://vegafibratv.com:8085/AMC/index.m3u8
-#EXTINF:0 type="favorites" channelId="2124" group="Spain" logo="https://i.imgur.com/USbmwiC.png", Antena 3 (720p)
-http://185.189.225.150:85/Antena3HD/index.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/iM9AN6Z.png", Costa Noroeste TV (1080p) [Not 24/7]
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/F1NdbpE.png", Factoria de Ficcion (1080p)
-http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:0 type="favorites" channelId="1692" group="Spain" logo="https://i.imgur.com/aKV5voq.png", La Sexta (720p)
-http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:0 type="favorites" channelId="2819" group="Spain" logo="https://i.imgur.com/Udrt2eK.png", Mega (Spain) (576p)
-http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:0 type="favorites" channelId="1695" group="Spain" logo="https://i.imgur.com/D1pUrGC.png", Neox (576p)
-http://185.189.225.150:85/neox/index.m3u8
-#EXTINF:0 type="favorites" channelId="41" group="Spain" logo="https://i.imgur.com/E84jnP8.png", Nickelodeon (Spain) (576p)
-http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:0 type="favorites" channelId="2125" group="Spain" logo="https://i.imgur.com/Vx1F4o5.png", Nova (Spain) (576p)
-http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/EcinFGu.png", PTV Sevilla (1080p)
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
-#EXTINF:0 type="favorites" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
 https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
+
 #EXTINF:0 type="favorites" channelId="-1" group="Portugal" logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg", Car City Adventures (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Portugal" logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg", TOP Barca (1080p)
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Pequerrech@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Pequerrech@s
-https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/l5iax42.png", FIFA+ (720p)
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Mociñ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Mociñ@s
-https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Xabarin" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Xabarin
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Cativ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Cativ@s
-https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvg/smil:channel7PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png", talkSPORT (1080p)
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="2904" group="Turkey" logo="https://i.imgur.com/lWeJxm0.png", Life TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/P9eT0O9.png", Hell's Kitchen (1080p)
-https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="2715" group="United Kingdom" logo="https://i.imgur.com/hdyJ4PT.png", MTV Music
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
-#EXTINF:0 type="favorites" channelId="4456" group="United Kingdom" logo="https://i.imgur.com/YyPnMeB.png", Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/GuM4GnX.png", NOW Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="1300" group="United Kingdom" logo="https://i.imgur.com/fGUlCY3.png", Pop (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/NJYEYE3.png", Rakuten Top Movies UK (1080p)
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/NJYEYE3.png", Rakuten TV Action Movies (1080p)
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/Vvxz6KX.png", Trace Hits (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/vQWWfyW.png", MTV en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png", National Geographic East
-http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/sj5h9bl.png", Paramount Movie Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png", VH1 East
-http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/V6Kaqha.png", ACCDN (1080p)
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="3194" group="Sports" logo="https://i.imgur.com/AOu4FXH.png", Eleven Sports 1 (2160p)
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
-#EXTINF:0 type="favorites" channelId="3211" group="Sports" logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+
+
 #EXTINF:0 type="favorites" channelId="2409" group="Argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png", El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://i.imgur.com/vEzeqHP.png", Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Dominican Republic" logo="https://i.imgur.com/OSet4en.png", Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
 #EXTINF:0 type="favorites" channelId="3366" group="Costa Rica" logo="https://i.imgur.com/nefPi2Y.png", Canal 8 (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Costa Rica" logo="https://i.imgur.com/gBbLyqh.png", CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Bahrain" logo="https://i.imgur.com/ZkuZmIo.png", Bahrain Sports 2 (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
 #EXTINF:0 type="favorites" channelId="4983" group="Kuwait" logo="https://i.imgur.com/l4oX0gf.png", KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
 #EXTINF:0 type="favorites" channelId="-1" group="Norway" logo="https://i.imgur.com/0YJYgR7.png", Auto Motor Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7954-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419fb478-b5bb-4f2f-b6f0-d53563fbc250
-#EXTINF:0 type="favorites" channelId="-1" group="Oman" logo="https://i.imgur.com/1omi7p8.png", Oman Sports TV (1080p) [Not 24/7]
+
+#EXTINF:0 type="sport" channelId="-1" group="Oman" logo="https://i.imgur.com/1omi7p8.png", Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:0 type="favorites" channelId="4574" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png", SportsNet New York (540p)
-http://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://i.imgur.com/GT0Yi2T.png", Swerve Sports (1080p)
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="1328" group="Undefined", Fox Sports
+
+
+
+#EXTINF:0 type="sport" channelId="1328" group="Undefined", Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53736561-1e9b-4402-9a3b-8217f259b1fa
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
+
+#EXTINF:0 type="sport" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:0 type="favorites" channelId="3368" group="Sports" logo="https://i.imgur.com/t35zhM9.png", L'Equipe (1080p)
+
+
+#EXTINF:0 type="sport" channelId="3368" group="Sports" logo="https://i.imgur.com/t35zhM9.png", L'Equipe (1080p)
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-#EXTINF:0 type="favorites" channelId="4079" group="Sports" logo="https://i.imgur.com/6PEevOM.png", Rai Sport HD
+
+#EXTINF:0 type="sport" channelId="4079" group="Sports" logo="https://i.imgur.com/6PEevOM.png", Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HdNshgF.png", RTI La 3 (1080p) [Not 24/7]
+
+#EXTINF:0 type="sport" channelId="-1" group="Sports" logo="https://i.imgur.com/HdNshgF.png", RTI La 3 (1080p) [Not 24/7]
 http://69.64.57.208/la3/index.m3u8
-#EXTINF:0 type="favorites" channelId="4328" group="Sports" logo="https://i.imgur.com/4gQoNqN.png", Eurosport 1 (1080p)
-http://207.246.124.62:8080/EUROSPORT1/index.m3u8
-#EXTINF:0 type="favorites" channelId="2391" group="Undefined", El Financiero Bloomberg
-https://mdstrm.com/live-stream-playlist/5f8efcfc42b083040356c9d7.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/6vWd2Gq.png", Eurosport 2
-http://143.244.60.30/EUROSPORT2/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/5V3h9fM.png", FIFA+ (2160p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzVWx0cmFIL1VQRF9VSEQ/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:0 type="favorites" channelId="3368" group="Sports" logo="https://i.imgur.com/t35zhM9.png", L'Equipe (1080p)
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-#EXTINF:0 type="favorites" channelId="4079" group="Sports" logo="https://i.imgur.com/6PEevOM.png", Rai Sport HD
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HdNshgF.png", RTI La 3 (1080p) [Not 24/7]
-http://69.64.57.208/la3/index.m3u8
-#EXTINF:0 type="favorites" channelId="4328" group="Sports" logo="https://i.imgur.com/4gQoNqN.png", Eurosport 1 (1080p)
-http://207.246.124.62:8080/EUROSPORT1/index.m3u8
+
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Costa Rica" logo="https://i.imgur.com/gBbLyqh.png", CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+
+#EXTINF:0 type="music" channelId="2715" group="United Kingdom" logo="https://i.imgur.com/hdyJ4PT.png", MTV Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
+
+#EXTINF:0 type="music" channelId="4456" group="United Kingdom" logo="https://i.imgur.com/YyPnMeB.png", Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0 type="music" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/GuM4GnX.png", NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0 type="music" channelId="1300" group="United Kingdom" logo="https://i.imgur.com/fGUlCY3.png", Pop (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+
+#EXTINF:0 type="music" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/Vvxz6KX.png", Trace Hits (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+
+#EXTINF:0 type="music" channelId="-1" group="United States" logo="https://i.imgur.com/vQWWfyW.png", MTV en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
+
+#EXTINF:0 type="music" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png", VH1 East
+http://fl3.moveonjoy.com/VH1/index.m3u8
