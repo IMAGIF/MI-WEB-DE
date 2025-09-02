@@ -152,6 +152,11 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:0 type="favorites" channelId="2125" group="Spain" logo="https://i.imgur.com/Vx1F4o5.png", Nova (Spain) (576p)
 http://185.189.225.150:85/nova/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/iCLFnWw.png", NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/CH6VcTR.jpg", NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 

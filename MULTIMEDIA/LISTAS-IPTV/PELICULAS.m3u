@@ -59,6 +59,8 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 
+#EXTINF:0 type="favorites" channelId="-1" group="France" logo="https://i.imgur.com/vQuyyWO.png", Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://i.imgur.com/P9eT0O9.png", Hell's Kitchen (1080p)
 https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 
