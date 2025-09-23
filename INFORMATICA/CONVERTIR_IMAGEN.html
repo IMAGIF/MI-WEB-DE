@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Convertidor de imágenes - Múltiples formatos</title>
+  <style>
+    :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial; --bg:#fbfbfd; --card:#ffffff; --muted:#6b7280}
+    body{background:linear-gradient(180deg,#f6f8ff 0%,var(--bg) 100%);margin:0;padding:24px; color:#111}
+    .container{max-width:860px;margin:0 auto;background:var(--card);border-radius:12px;padding:20px;box-shadow:0 6px 30px rgba(16,24,40,0.06)}
+    h1{margin:0 0 8px;font-size:20px}
+    p.lead{margin:0 0 16px;color:var(--muted)}
+    .uploader{border:2px dashed #dfe6ff;border-radius:10px;padding:18px;text-align:center;cursor:pointer}
+    .uploader.drag{background:#f1f5ff;border-color:#9bb0ff}
+    input[type=file]{display:none}
+    .row{display:flex;gap:12px;flex-wrap:wrap;margin-top:12px}
+    .controls{flex:1;min-width:220px}
+    .preview{width:320px;max-width:100%;border-radius:8px;overflow:hidden;border:1px solid #eef2ff;padding:8px;background:#fff}
+    img.previewImg{display:block;width:100%;height:auto;margin-top:8px}
+    .buttons{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+    button, .btn{padding:8px 12px;border-radius:8px;border:0;cursor:pointer}
+    button.primary{background:#2563eb;color:#fff}
+    button.ghost{background:#eef2ff;color:#1f2937}
+    label.block{display:block;margin-top:8px}
+    .meta{font-size:13px;color:var(--muted);margin-top:6px}
+    .footer{font-size:13px;color:var(--muted);margin-top:14px}
+    .hidden{display:none}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Convertidor de imágenes - Múltiples formatos</h1>
+    <p class="lead">Arrastra, selecciona o pega imágenes (PNG, WebP, GIF estático, JPG...). Ajusta la calidad, el color de fondo y descarga los resultados en el formato deseado.</p>
+
+    <div id="uploader" class="uploader" tabindex="0">
+      <strong>Haz clic o arrastra aquí una o varias imágenes</strong>
+      <div class="meta">(Se aceptan múltiples imágenes)</div>
+      <input id="fileInput" type="file" accept="image/*" multiple />
+    </div>
+
+    <div class="row">
+      <div class="controls">
+        <label class="block">Ajustes de conversión:</label>
+        <label>Calidad (0.1 – 1.0): <span id="qualityLabel">0.92</span></label>
+        <input id="quality" type="range" min="0.1" max="1" step="0.01" value="0.92" />
+
+        <label class="block">Color de fondo para transparencias:</label>
+        <input id="bgColor" type="color" value="#ffffff" />
+
+        <label class="block">Formato de salida:</label>
+        <select id="formatSelect">
+          <option value="image/jpeg">JPEG/JPG</option>
+          <option value="image/png">PNG</option>
+          <option value="image/webp">WebP</option>
+          <option value="image/avif">AVIF</option>
+        </select>
+
+        <label class="block">Opciones:</label>
+        <div class="buttons">
+          <button id="convertBtn" class="primary btn">Convertir todas</button>
+          <button id="downloadBtn" class="ghost btn" disabled>Descargar</button>
+          <button id="clearBtn" class="btn">Limpiar</button>
+        </div>
+
+        <div style="margin-top:12px">
+          <label class="block">Ancho máximo (px, opcional):</label>
+          <input id="maxWidth" type="number" min="1" placeholder="Dejar en blanco = mantener tamaño" />
+        </div>
+
+        <div class="meta" style="margin-top:12px">También puedes pegar imágenes (Ctrl+V / Cmd+V) mientras esta página está activa.</div>
+      </div>
+
+      <div class="preview">
+        <div style="text-align:center;color:var(--muted)">Previsualización</div>
+        <div id="previewsContainer"></div>
+        <div id="info" class="meta">Ninguna imagen cargada.</div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <small>Nota: Las transparencias se rellenan con el color elegido. Puedes convertir múltiples imágenes a la vez en distintos formatos.</small>
+    </div>
+  </div>
+
+  <script>
+    const uploader = document.getElementById('uploader');
+    const fileInput = document.getElementById('fileInput');
+    const previewsContainer = document.getElementById('previewsContainer');
+    const info = document.getElementById('info');
+    const convertBtn = document.getElementById('convertBtn');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const clearBtn = document.getElementById('clearBtn');
+    const quality = document.getElementById('quality');
+    const qualityLabel = document.getElementById('qualityLabel');
+    const maxWidth = document.getElementById('maxWidth');
+    const bgColor = document.getElementById('bgColor');
+    const formatSelect = document.getElementById('formatSelect');
+
+    let currentImages = [];
+    let convertedBlobs = [];
+
+    function setInfo(text){ info.textContent = text }
+
+    function showPreviewFromBlob(blob, name){
+      const div = document.createElement('div');
+      div.style.marginTop = '8px';
+      const img = document.createElement('img');
+      img.src = URL.createObjectURL(blob);
+      img.className='previewImg';
+      img.onload = ()=> URL.revokeObjectURL(img.src);
+      div.appendChild(img);
+      const lbl = document.createElement('div');
+      lbl.textContent = name + ' ('+Math.round(blob.size/1024)+' KB)';
+      lbl.className='meta';
+      div.appendChild(lbl);
+      previewsContainer.appendChild(div);
+    }
+
+    function loadImageFile(file){
+      if(!file.type.startsWith('image/')){ alert('Solo archivos de imagen.'); return; }
+      currentImages.push(file);
+      showPreviewFromBlob(file, file.name);
+      setInfo(currentImages.length + ' imagen(es) cargada(s).');
+    }
+
+    uploader.addEventListener('click', ()=> fileInput.click());
+    fileInput.addEventListener('change', e=>{
+      Array.from(e.target.files).forEach(f => loadImageFile(f));
+    });
+
+    ['dragenter','dragover'].forEach(ev=> uploader.addEventListener(ev, e=>{ e.preventDefault(); uploader.classList.add('drag'); }));
+    ['dragleave','drop'].forEach(ev=> uploader.addEventListener(ev, e=>{ e.preventDefault(); uploader.classList.remove('drag'); }));
+    uploader.addEventListener('drop', e=>{
+      Array.from(e.dataTransfer.files).forEach(f => loadImageFile(f));
+    });
+
+    window.addEventListener('paste', async (e)=>{
+      const items = e.clipboardData && e.clipboardData.items;
+      if(!items) return;
+      for(const it of items){
+        if(it.type.indexOf('image') !== -1){
+          const blob = it.getAsFile();
+          if(blob) loadImageFile(blob);
+        }
+      }
+    });
+
+    quality.addEventListener('input', ()=> qualityLabel.textContent = quality.value);
+
+    clearBtn.addEventListener('click', ()=>{
+      currentImages=[]; convertedBlobs=[]; previewsContainer.innerHTML=''; downloadBtn.disabled=true; setInfo('Ninguna imagen cargada.'); fileInput.value='';
+    });
+
+    convertBtn.addEventListener('click', async ()=>{
+      if(currentImages.length===0){ alert('No hay imágenes cargadas.'); return; }
+      convertedBlobs=[]; downloadBtn.disabled=true; previewsContainer.innerHTML='';
+      setInfo('Convirtiendo imágenes...');
+      const format=formatSelect.value;
+      for(const imgBlob of currentImages){
+        try{
+          const blob=await convertImage(imgBlob, format, parseFloat(quality.value), parseInt(maxWidth.value)||null, bgColor.value);
+          convertedBlobs.push({blob, name:imgBlob.name});
+          showPreviewFromBlob(blob, imgBlob.name.replace(/\.[^/.]+$/, '')+format.split('/')[1]);
+        }catch(e){ console.error(e); }
+      }
+      if(convertedBlobs.length>0) downloadBtn.disabled=false;
+      setInfo('Conversión completada — '+convertedBlobs.length+' imagen(es) convertida(s).');
+    });
+
+    downloadBtn.addEventListener('click', ()=>{
+      if(convertedBlobs.length===0){ alert('No hay imágenes convertidas.'); return; }
+      convertedBlobs.forEach(obj=>{
+        const a=document.createElement('a');
+        const url=URL.createObjectURL(obj.blob);
+        a.href=url;
+        const ext=formatSelect.value.split('/')[1];
+        a.download=obj.name.replace(/\.[^/.]+$/, '')+'.'+ext;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        setTimeout(()=> URL.revokeObjectURL(url),10000);
+      });
+    });
+
+    function loadImageElementFromBlob(blob){
+      return new Promise((resolve,reject)=>{
+        const img=new Image();
+        img.onload=()=>resolve(img);
+        img.onerror=()=>reject(new Error('No se pudo cargar la imagen')); 
+        img.src=URL.createObjectURL(blob);
+      });
+    }
+
+    async function convertImage(blob, format='image/jpeg', quality=0.92, maxW=null, background='#ffffff'){
+      const img=await loadImageElementFromBlob(blob);
+      let {width,height}=img;
+      if(maxW && width>maxW){ const ratio=maxW/width; width=Math.round(width*ratio); height=Math.round(height*ratio); }
+      const canvas=document.createElement('canvas'); canvas.width=width; canvas.height=height;
+      const ctx=canvas.getContext('2d');
+      ctx.fillStyle=background; ctx.fillRect(0,0,width,height);
+      ctx.drawImage(img,0,0,width,height);
+      return new Promise((resolve,reject)=>{
+        canvas.toBlob(b=>b?resolve(b):reject(new Error('toBlob nulo')),format,quality);
+      });
+    }
+
+    uploader.addEventListener('keydown', (e)=>{ if(e.key==='Enter'||e.key===' ') fileInput.click(); });
+  </script>
+</body>
+</html>
