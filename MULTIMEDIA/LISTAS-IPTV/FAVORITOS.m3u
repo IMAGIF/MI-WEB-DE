@@ -569,3 +569,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 #EXTINF:0 type="music" channelId="-1" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png", VH1 East
 http://fl3.moveonjoy.com/VH1/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
