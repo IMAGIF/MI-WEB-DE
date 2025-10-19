@@ -81,7 +81,8 @@ https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/WECmUKH.png", TVCG 2 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/QORHrXu.png", TVCG 1 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/SLrjImc.png", More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
@@ -128,6 +129,9 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E
 #EXTINF:0 type="favorites" channelId="1684" group="Sports" logo="https://i.imgur.com/tkjUFzb.png", Esport3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" group="Dominican Republic" logo="https://i.imgur.com/yU5LqTL.png", CDN Deportes (720p)
+http://200.125.170.122:8000/play/a03j/index.m3u8
+
 
 #EXTINF:0 type="favorites" channelId="3368" group="Sports" logo="https://i.imgur.com/t35zhM9.png", L'Equipe (1080p)
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
@@ -137,11 +141,9 @@ https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HdNshgF.png", RTI La 3 (1080p) [Not 24/7]
-http://69.64.57.208/la3/index.m3u8
 
-
-
+#EXTINF:0 type="favorites" channelId="3217" group="United States", NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 
 #EXTINF:0 type="stream" channelId="4982" group="Sports" logo="https://i.imgur.com/R1hGX1d.png", KTV Sport (1080p)
@@ -156,7 +158,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/lEXrwos.jpg", RTA Sport (1080p)
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
-
+#EXTINF:0 type="favorites" channelId="-1" group="Italy" logo="https://i.imgur.com/ELXmaqg.png", TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Oman" logo="https://i.imgur.com/1omi7p8.png", Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -169,9 +172,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 
 
-
-#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/QORHrXu.png", TVCG 1 (720p) [Not 24/7]
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Portugal" logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg", TOP Barca (1080p)
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
@@ -181,34 +181,29 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://iili.io/J1kV1Bn.png", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:0 type="favorites" channelId="4574" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png", SportsNet New York (540p)
-http://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 3" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 3 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 1" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 1 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 
-#EXTINF:0 type="sport" channelId="-1" group="United States" logo="https://i.imgur.com/GT0Yi2T.png", Swerve Sports (1080p)
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Indonesia" logo="https://i.postimg.cc/PrqBt2h1/tvrisport.png", TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Premier Sports 3 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png", IRIB3 (1080p)
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/tsljAnY.png", Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
-#EXTINF:0 type="favorites" channelId="3217" group="United States", NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
-
-
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/3mEdjuq.png", CBC Sport [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png", KCMN-LD6 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-
-
-
-#EXTINF:0 type="favorites" channelId="-1" group="Dominican Republic" logo="https://i.imgur.com/yU5LqTL.png", CDN Deportes (720p)
-http://200.125.170.122:8000/play/a03j/index.m3u8
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="Bahrain" logo="https://i.imgur.com/ZkuZmIo.png", Bahrain Sports 2 (720p) [Not 24/7]
@@ -222,18 +217,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
 
-
-
-#EXTINF:0 type="favorites" channelId="55" group="Russia" logo="https://i.imgur.com/sVc8cFt.png", Авто Плюс
-http://31.148.48.15/Avto_Plus/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Indonesia" logo="https://i.imgur.com/fAbGImS.png", Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:0 type="favorites" channelId="2647" group="Portugal" logo="https://i.imgur.com/H8Tgl7m.png", TVI (720p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:0 type="favorites" channelId="973" group="Switzerland" logo="https://i.imgur.com/xgml2Pl.png", SRF 1 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Italy" logo="https://i.imgur.com/ELXmaqg.png", TR Sport (480p)
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="North Macedonia" logo="https://i.imgur.com/7k8ar1Z.png", M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
@@ -291,6 +274,19 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 
+#EXTINF:0 type="favorites" channelId="961" group="Austria" logo="https://i.imgur.com/svgv2q5.png", ORF 2 (720p)
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/LmkNt3v.png", Unbeaten (1080p)
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2647" group="Portugal" logo="https://i.imgur.com/H8Tgl7m.png", TVI (720p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:0 type="favorites" channelId="973" group="Switzerland" logo="https://i.imgur.com/xgml2Pl.png", SRF 1 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HdNshgF.png", RTI La 3 (1080p) [Not 24/7]
+http://69.64.57.208/la3/index.m3u8
+
 
