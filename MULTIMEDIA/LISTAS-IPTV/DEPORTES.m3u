@@ -2,11 +2,13 @@
 #EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png", DirecTV Sports (1080p)
+http://38.183.182.166:8000/play/a125/index.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/rzPQ9Iz.png", Беларусь 5 Интернет (1080p) [Not 24/7]
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png", DirecTV Sports (1080p)
-http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/UrsLSRs.png", Tigo Sports (720p) [Geo-blocked]
 https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
@@ -24,18 +26,34 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 
+
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+https://fl41.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:0 type="favorites" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-
+https://fl41.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/AYza8KO.png", TSN3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
+https://fl41.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/qJyAWU8.png", TSN4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-
+https://fl41.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+https://fl41.moveonjoy.com/TSN_5/index.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="3514" group="Undefined", Premier Sports 1 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:0 type="favorites" channelId="3513" group="Undefined", Premier Sports 2 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Premier Sports 4 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Premier Sports 5 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="1266" group="Austria" logo="https://i.imgur.com/6W637Gn.png", ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/2ZcUXbE.png", Radio Turrialba TV Sports (720p) [Geo-blocked]
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
+
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://www.lyngsat.com/logo/tv/ss/solhsports-af.png", Solh Sports
@@ -47,18 +65,12 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="4964" group="Sports" logo="https://i.imgur.com/CsEElsJ.png", Sharjah Sports (1080p) [Geo-blocked]
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:0 type="favorites" channelId="3514" group="Undefined", Premier Sports 1 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:0 type="favorites" channelId="3513" group="Undefined", Premier Sports 2 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Premier Sports 4 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Premier Sports 5 (720p) [Geo-blocked]
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/wLjSSo2.jpg", Multivisión Sports (720p) [Not 24/7]
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png", beIN Sports USA
+http://fl41.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 
 
@@ -66,8 +78,6 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:0 type="favorites" channelId="2303" group="Switzerland" logo="https://i.imgur.com/OP5lHv9.png", RTS 1 (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 
-#EXTINF:0 type="favorites" channelId="3211" group="Sports" logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/E5jjKHI.png", Star Sports 1 HD [Geo-blocked]
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -85,15 +95,13 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="4079" group="Sports" logo="https://i.imgur.com/6PEevOM.png", Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:0 type="favorites" channelId="170" group="United States" logo="https://i.imgur.com/LHtxKI8.png", Fox Sports 2 (720p)
-http://23.237.104.106:8080/USA_FS2/index.m3u8
+
 
 #EXTINF:0 type="favorites" channelId="1329" group="Undefined", Fox Sports 1
 https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png", beIN Sports USA
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/Poxw8lG.png", Dubai Sports 1 (1080p)
@@ -150,8 +158,6 @@ https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://69.64.57.208/france2/mono.m3u8
 
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
 
 
 
@@ -311,8 +317,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://www.htspor.com/images/manifest/social-share-logo.png", HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch&ppid=675956db19f9bb686edda21d15d911e8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/EcinFGu.png", PTV Sevilla (1080p)
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+
 
 #EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
@@ -336,3 +341,6 @@ https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 https://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Ukraine" logo="https://i.imgur.com/B6sfpDa.png", CNBC Europe HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/tArvcvj.png", Poker TV (720p)
+https://hls.pokertvfa.live/hls/stream.m3u8
