@@ -1,17 +1,22 @@
 #EXTM3U
 
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:0 type="favorites" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/AYza8KO.png", TSN3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/qJyAWU8.png", TSN4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
+#EXTINF:0 type="stream" channelId="-1" group="Canada" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/AYza8KO.png", TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/qJyAWU8.png", TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:0 type="stream" channelId="1266" group="Austria" logo="https://i.imgur.com/6W637Gn.png", ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:0 type="stream" channelId="2308" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png", RSI La 2 (720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8#
+
+EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/rzPQ9Iz.png", Беларусь 5 Интернет (1080p) [Not 24/7]
