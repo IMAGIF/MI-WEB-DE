@@ -2,6 +2,22 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png", DirecTV Sports (1080p)
 http://38.183.182.166:8000/play/a125/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Canada" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/AYza8KO.png", TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/qJyAWU8.png", TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:0 type="stream" channelId="1266" group="Austria" logo="https://i.imgur.com/6W637Gn.png", ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p)
+
+
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/2ZcUXbE.png", Radio Turrialba TV Sports (720p) [Geo-blocked]
 https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 #EXTINF:0 type="stream" channelId="3514" group="Undefined", Premier Sports 1 (720p) [Geo-blocked]
@@ -26,21 +42,15 @@ http://87.255.35.150:18848/
 http://87.255.35.150:18818/
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png", IRIB3 (1080p)
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Canada" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/AYza8KO.png", TSN3
-https://fl1.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/qJyAWU8.png", TSN4
-https://fl1.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/HEzHpzz.png", TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:0 type="stream" channelId="1266" group="Austria" logo="https://i.imgur.com/6W637Gn.png", ServusTV HD
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:0 type="stream" channelId="2308" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png", RSI La 2 (720p)
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:0 type="stream" channelId="2304" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p)
+
+#EXTINF:0 type="stream" channelId="3748" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png", ESPN Deportes (360p)
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:0 type="stream" channelId="4555" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png", ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0 type="stream" channelId="3211" group="Sports" logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+
+
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.lyngsat.com/logo/tv/ss/solhsports-af.png", Solh Sports
 https://wo.cma.footballii.ir/hls2/solh.m3u8

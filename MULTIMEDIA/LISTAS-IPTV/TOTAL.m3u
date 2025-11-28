@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png", DirecTV Sports (1080p)
+http://38.183.182.166:8000/play/a125/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="Canada" logo="https://i.imgur.com/eRFE0jZ.png", TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png", TSN2
@@ -13,26 +16,55 @@ https://fl1.moveonjoy.com/TSN_4/index.m3u8
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:0 type="stream" channelId="1266" group="Austria" logo="https://i.imgur.com/6W637Gn.png", ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-#EXTINF:0 type="stream" channelId="2308" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png", RSI La 2 (720p)
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8#
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p)
+
+#EXTINF:0 type="favorites" channelId="2304" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/2ZcUXbE.png", Radio Turrialba TV Sports (720p) [Geo-blocked]
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
+#EXTINF:0 type="stream" channelId="3514" group="Undefined", Premier Sports 1 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:0 type="stream" channelId="3513" group="Undefined", Premier Sports 2 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:0 type="stream" channelId="3513" group="Sports" logo="https://i.imgur.com/eMNWhDq.png", Premier Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Undefined", Premier Sports 4 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Undefined", Premier Sports 5 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:0 type="stream" channelId="1345" group="France" logo="https://i.imgur.com/5HcyMnW.png", Canal+ (1080p)
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="India" logo="https://i.imgur.com/hWo7Ba4.png", Sony Sports Ten 1 (1080p)
+http://87.255.35.150:18926/
+#EXTINF:0 type="stream" channelId="-1" group="India" logo="https://i.imgur.com/W96KVqu.png", Sony Sports Ten 2 (1080p)
+http://87.255.35.150:18927/
+#EXTINF:0 type="stream" channelId="-1" group="India" logo="https://i.imgur.com/vG19HxD.png", Sony Sports Ten 3 (1080p)
+http://87.255.35.150:18848/
+#EXTINF:0 type="stream" channelId="-1" group="India" logo="https://i.imgur.com/40BbQUd.png", Sony Sports Ten 5 (1080p)
+http://87.255.35.150:18818/
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png", IRIB3 (1080p)
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3748" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png", ESPN Deportes (360p)
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:0 type="stream" channelId="4555" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png", ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0 type="stream" channelId="3211" group="Sports" logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="1684" group="Sports" logo="https://i.imgur.com/tkjUFzb.png", Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
 EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/rzPQ9Iz.png", Беларусь 5 Интернет (1080p) [Not 24/7]
-https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/IaRaabJ.jpg", Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:0 type="favorites" channelId="2308" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png", RSI La 2 (720p)
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
 
-#EXTINF:0 type="favorites" channelId="2303" group="Switzerland" logo="https://i.imgur.com/OP5lHv9.png", RTS 1 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-
-#EXTINF:0 type="favorites" channelId="3211" group="Sports" logo="https://i.imgur.com/HiBrysh.png", ESPN U (720p)
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/WECmUKH.png", TVCG 2 (720p) [Not 24/7]
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="4079" group="Sports" logo="https://i.imgur.com/6PEevOM.png", Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
@@ -40,8 +72,6 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:0 type="stream" channelId="1322" name="Teledeporte" group="Deportivos" logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RoCOuhJ.png", VITAL Tennis [Not 24/7]
-https://vslive.pw/stream/48685/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/PMJ7Zmo.png", Dubai Sports 2 (720p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
@@ -52,16 +82,14 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:0 type="favorites" channelId="3193" group="Czech Republic" logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-2-lu-cz-sk.png", Canal+ Sport 2 (1080i)
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
-#EXTINF:0 type="favorites" channelId="1684" group="Sports" logo="https://i.imgur.com/tkjUFzb.png", Esport3 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
 
 
 #EXTINF:0 type="favorites" channelId="170" group="United States" logo="https://i.imgur.com/LHtxKI8.png", Fox Sports 2 (720p)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/IaRaabJ.jpg", Sharjah Sports TV (1080p)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
 
 #EXTINF:0 type="favorites" channelId="2948" group="Czech Republic" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/512px-%C4%8CT_sport_logo.png", ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
@@ -74,12 +102,8 @@ https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/SLrjImc.png", More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png", beIN Sports USA
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 
-#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/RngmCDn.png", Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
 
 #EXTINF:0 type="favorites" channelId="3368" group="Sports" logo="https://i.imgur.com/t35zhM9.png", L'Equipe (1080p)
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
@@ -116,8 +140,7 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Russia" logo="https://i.imgur.com/BKaEtqL.png", Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
-#EXTINF:0 type="favorites" channelId="2304" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
 
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/lEXrwos.jpg", RTA Sport (1080p)
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8

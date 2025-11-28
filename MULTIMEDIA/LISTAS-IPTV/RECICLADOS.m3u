@@ -211,3 +211,13 @@ http://fl3.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:0 type="sport" channelId="-1" group="United States" logo="https://i.imgur.com/GT0Yi2T.png", Swerve Sports (1080p)
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2308" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png", RSI La 2 (720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/QORHrXu.png", TVCG 1 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/WECmUKH.png", TVCG 2 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+
