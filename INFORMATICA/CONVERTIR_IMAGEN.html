@@ -6,10 +6,52 @@
   <title>Convertidor de imágenes - Múltiples formatos</title>
   <style>
     :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial; --bg:#fbfbfd; --card:#ffffff; --muted:#6b7280}
-    body{background:linear-gradient(180deg,#f6f8ff 0%,var(--bg) 100%);margin:0;padding:24px; color:#111}
+
+    /* ── RESET & BASE ── */
+    *, *::before, *::after { box-sizing: border-box; }
+    body{background:linear-gradient(180deg,#f6f8ff 0%,var(--bg) 100%);margin:0;padding:0; color:#111}
+
+    /* ── HEADER ── */
+    .site-header {
+      background: #111111;
+      color: #ffffff;
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .site-header .site-title {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      color: #ffffff;
+      text-decoration: none;
+    }
+    .btn-inicio {
+      background: #cc0000;
+      color: #ffffff !important;
+      font-weight: 700;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 9px 20px;
+      border-radius: 6px;
+      border: none;
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-block;
+      transition: background 0.2s;
+    }
+    .btn-inicio:hover { background: #aa0000; }
+
+    /* ── MAIN CONTENT ── */
+    .page-body { padding: 24px 16px; }
+
     .container{max-width:860px;margin:0 auto;background:var(--card);border-radius:12px;padding:20px;box-shadow:0 6px 30px rgba(16,24,40,0.06)}
-    h1{margin:0 0 8px;font-size:20px}
-    p.lead{margin:0 0 16px;color:var(--muted)}
+    h1{margin:0 0 8px;font-size:clamp(16px, 4vw, 20px)}
+    p.lead{margin:0 0 16px;color:var(--muted); font-size:clamp(13px, 3vw, 15px)}
     .uploader{border:2px dashed #dfe6ff;border-radius:10px;padding:18px;text-align:center;cursor:pointer}
     .uploader.drag{background:#f1f5ff;border-color:#9bb0ff}
     input[type=file]{display:none}
@@ -23,64 +65,108 @@
     button.ghost{background:#eef2ff;color:#1f2937}
     label.block{display:block;margin-top:8px}
     .meta{font-size:13px;color:var(--muted);margin-top:6px}
-    .footer{font-size:13px;color:var(--muted);margin-top:14px}
+    .footer-note{font-size:13px;color:var(--muted);margin-top:14px}
     .hidden{display:none}
+
+    /* ── RESPONSIVE ADJUSTMENTS ── */
+    @media (max-width: 600px) {
+      .preview { width: 100%; }
+      .controls { min-width: 100%; }
+      .site-header { flex-direction: column; align-items: flex-start; }
+      .container { padding: 14px; }
+    }
+
+    /* ── PAGE FOOTER ── */
+    .page-footer {
+      background: #111111;
+      color: #ffffff;
+      text-align: center;
+      padding: 16px 20px;
+      font-size: 13px;
+      line-height: 1.8;
+      margin-top: 0;
+    }
+    .page-footer p {
+      margin: 2px 0;
+      color: #cccccc;
+    }
+    .page-footer a {
+      color: #aaaaff;
+      text-decoration: none;
+    }
+    .page-footer a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Convertidor de imágenes - Múltiples formatos</h1>
-    <p class="lead">Arrastra, selecciona o pega imágenes (PNG, WebP, GIF estático, JPG...). Ajusta la calidad, el color de fondo y descarga los resultados en el formato deseado.</p>
 
-    <div id="uploader" class="uploader" tabindex="0">
-      <strong>Haz clic o arrastra aquí una o varias imágenes</strong>
-      <div class="meta">(Se aceptan múltiples imágenes)</div>
-      <input id="fileInput" type="file" accept="image/*" multiple />
-    </div>
+  <!-- ENCABEZADO -->
+  <header class="site-header">
+    <span class="site-title">Mi WEB DE</span>
+    <a class="btn-inicio" href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/UTILIDAD.html">INICIO</a>
+  </header>
 
-    <div class="row">
-      <div class="controls">
-        <label class="block">Ajustes de conversión:</label>
-        <label>Calidad (0.1 – 1.0): <span id="qualityLabel">0.92</span></label>
-        <input id="quality" type="range" min="0.1" max="1" step="0.01" value="0.92" />
+  <!-- CONTENIDO PRINCIPAL -->
+  <div class="page-body">
+    <div class="container">
+      <h1>Convertidor de imágenes - Múltiples formatos</h1>
+      <p class="lead">Arrastra, selecciona o pega imágenes (PNG, WebP, GIF estático, JPG...). Ajusta la calidad, el color de fondo y descarga los resultados en el formato deseado.</p>
 
-        <label class="block">Color de fondo para transparencias:</label>
-        <input id="bgColor" type="color" value="#ffffff" />
-
-        <label class="block">Formato de salida:</label>
-        <select id="formatSelect">
-          <option value="image/jpeg">JPEG/JPG</option>
-          <option value="image/png">PNG</option>
-          <option value="image/webp">WebP</option>
-          <option value="image/avif">AVIF</option>
-        </select>
-
-        <label class="block">Opciones:</label>
-        <div class="buttons">
-          <button id="convertBtn" class="primary btn">Convertir todas</button>
-          <button id="downloadBtn" class="ghost btn" disabled>Descargar</button>
-          <button id="clearBtn" class="btn">Limpiar</button>
-        </div>
-
-        <div style="margin-top:12px">
-          <label class="block">Ancho máximo (px, opcional):</label>
-          <input id="maxWidth" type="number" min="1" placeholder="Dejar en blanco = mantener tamaño" />
-        </div>
-
-        <div class="meta" style="margin-top:12px">También puedes pegar imágenes (Ctrl+V / Cmd+V) mientras esta página está activa.</div>
+      <div id="uploader" class="uploader" tabindex="0">
+        <strong>Haz clic o arrastra aquí una o varias imágenes</strong>
+        <div class="meta">(Se aceptan múltiples imágenes)</div>
+        <input id="fileInput" type="file" accept="image/*" multiple />
       </div>
 
-      <div class="preview">
-        <div style="text-align:center;color:var(--muted)">Previsualización</div>
-        <div id="previewsContainer"></div>
-        <div id="info" class="meta">Ninguna imagen cargada.</div>
-      </div>
-    </div>
+      <div class="row">
+        <div class="controls">
+          <label class="block">Ajustes de conversión:</label>
+          <label>Calidad (0.1 – 1.0): <span id="qualityLabel">0.92</span></label>
+          <input id="quality" type="range" min="0.1" max="1" step="0.01" value="0.92" style="width:100%" />
 
-    <div class="footer">
-      <small>Nota: Las transparencias se rellenan con el color elegido. Puedes convertir múltiples imágenes a la vez en distintos formatos.</small>
+          <label class="block">Color de fondo para transparencias:</label>
+          <input id="bgColor" type="color" value="#ffffff" />
+
+          <label class="block">Formato de salida:</label>
+          <select id="formatSelect" style="padding:6px;border-radius:6px;border:1px solid #ddd;width:100%">
+            <option value="image/jpeg">JPEG/JPG</option>
+            <option value="image/png">PNG</option>
+            <option value="image/webp">WebP</option>
+            <option value="image/avif">AVIF</option>
+          </select>
+
+          <label class="block">Opciones:</label>
+          <div class="buttons">
+            <button id="convertBtn" class="primary btn">Convertir todas</button>
+            <button id="downloadBtn" class="ghost btn" disabled>Descargar</button>
+            <button id="clearBtn" class="btn">Limpiar</button>
+          </div>
+
+          <div style="margin-top:12px">
+            <label class="block">Ancho máximo (px, opcional):</label>
+            <input id="maxWidth" type="number" min="1" placeholder="Dejar en blanco = mantener tamaño" style="width:100%;padding:6px;border-radius:6px;border:1px solid #ddd" />
+          </div>
+
+          <div class="meta" style="margin-top:12px">También puedes pegar imágenes (Ctrl+V / Cmd+V) mientras esta página está activa.</div>
+        </div>
+
+        <div class="preview">
+          <div style="text-align:center;color:var(--muted)">Previsualización</div>
+          <div id="previewsContainer"></div>
+          <div id="info" class="meta">Ninguna imagen cargada.</div>
+        </div>
+      </div>
+
+      <div class="footer-note">
+        <small>Nota: Las transparencias se rellenan con el color elegido. Puedes convertir múltiples imágenes a la vez en distintos formatos.</small>
+      </div>
     </div>
   </div>
+
+  <!-- PIE DE PÁGINA -->
+  <footer class="page-footer">
+    <p>2025 Creado por #imagif</p>
+    <p>email: <a href="mailto:imagenesgifs@gmail.com">imagenesgifs@gmail.com</a></p>
+  </footer>
 
   <script>
     const uploader = document.getElementById('uploader');
