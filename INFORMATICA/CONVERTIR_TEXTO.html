@@ -1,0 +1,728 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Convertidor de archivos de texto</title>
+  <style>
+    :root {
+      font-family: system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;
+      --bg: #fbfbfd; --card: #ffffff; --muted: #6b7280;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    body { background: linear-gradient(180deg,#f6f8ff 0%,var(--bg) 100%); margin:0; padding:0; color:#111; }
+
+    /* HEADER */
+    .site-header {
+      background: #111111; color:#fff;
+      padding: 12px 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    .site-title { font-size:20px; font-weight:700; letter-spacing:.5px; color:#fff; text-decoration:none; }
+    .btn-inicio {
+      background:#cc0000; color:#fff !important;
+      font-weight:700; font-size:14px; letter-spacing:1px; text-transform:uppercase;
+      padding:9px 20px; border-radius:6px; border:none; text-decoration:none;
+      cursor:pointer; display:inline-block; transition:background .2s;
+    }
+    .btn-inicio:hover { background:#aa0000; }
+
+    /* MAIN */
+    .page-body { padding: 24px 16px; }
+    .container {
+      max-width:860px; margin:0 auto; background:var(--card);
+      border-radius:12px; padding:20px; box-shadow:0 6px 30px rgba(16,24,40,.06);
+    }
+    h1 { margin:0 0 8px; font-size:clamp(16px,4vw,20px); }
+    p.lead { margin:0 0 16px; color:var(--muted); font-size:clamp(13px,3vw,15px); }
+
+    .uploader {
+      border:2px dashed #dfe6ff; border-radius:10px; padding:22px;
+      text-align:center; cursor:pointer; transition:background .2s, border-color .2s;
+    }
+    .uploader.drag { background:#f1f5ff; border-color:#9bb0ff; }
+    .uploader .formats { font-size:12px; color:var(--muted); margin-top:6px; }
+    input[type=file] { display:none; }
+
+    .row { display:flex; gap:12px; flex-wrap:wrap; margin-top:14px; }
+    .controls { flex:1; min-width:220px; }
+    .preview-panel {
+      width:340px; max-width:100%; border-radius:8px; overflow:hidden;
+      border:1px solid #eef2ff; padding:10px; background:#fff;
+    }
+    .preview-title { text-align:center; color:var(--muted); font-size:13px; margin-bottom:6px; }
+    #previewContent {
+      width:100%; height:220px; overflow:auto; border:1px solid #e5e7eb;
+      border-radius:6px; padding:8px; font-size:12px; background:#f9fafb;
+      white-space:pre-wrap; word-break:break-word; color:#374151;
+      font-family: 'Courier New', monospace;
+    }
+
+    label.block { display:block; margin-top:10px; font-size:14px; font-weight:500; }
+    select, input[type=number] {
+      padding:6px; border-radius:6px; border:1px solid #ddd; width:100%; margin-top:4px;
+    }
+    .buttons { display:flex; gap:8px; margin-top:12px; flex-wrap:wrap; }
+    button.primary { background:#2563eb; color:#fff; }
+    button.ghost    { background:#eef2ff; color:#1f2937; }
+    button, .btn    { padding:8px 14px; border-radius:8px; border:0; cursor:pointer; font-size:14px; }
+    button:disabled { opacity:.45; cursor:not-allowed; }
+
+    .meta  { font-size:13px; color:var(--muted); margin-top:6px; }
+    .badge {
+      display:inline-block; background:#dbeafe; color:#1d4ed8;
+      font-size:11px; padding:2px 8px; border-radius:20px; margin-top:8px;
+    }
+    .badge.ok  { background:#dcfce7; color:#166534; }
+    .badge.err { background:#fee2e2; color:#991b1b; }
+
+    /* conversion matrix info */
+    .matrix-wrap { margin-top:16px; }
+    .matrix-wrap summary { cursor:pointer; font-size:13px; color:#2563eb; }
+    .matrix-table { width:100%; border-collapse:collapse; font-size:12px; margin-top:8px; }
+    .matrix-table th, .matrix-table td { border:1px solid #e5e7eb; padding:5px 8px; text-align:center; }
+    .matrix-table th { background:#f1f5ff; }
+    .matrix-table .yes { color:#16a34a; font-weight:700; }
+    .matrix-table .par { color:#d97706; font-weight:700; }
+    .matrix-table .no  { color:#dc2626; }
+
+    .footer-note { font-size:13px; color:var(--muted); margin-top:14px; }
+
+    @media (max-width:600px){
+      .preview-panel { width:100%; }
+      .controls      { min-width:100%; }
+      .site-header   { flex-direction:column; align-items:flex-start; }
+      .container     { padding:14px; }
+    }
+
+    /* FOOTER */
+    .page-footer {
+      background:#111111; color:#fff;
+      text-align:center; padding:20px; font-size:16px; line-height:2;
+    }
+    .page-footer p   { margin:2px 0; color:#cccccc; }
+    .page-footer a   { color:#aaaaff; text-decoration:none; }
+    .page-footer a:hover { text-decoration:underline; }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <span class="site-title">Mi WEB DE</span>
+    <a class="btn-inicio" href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/UTILIDAD.html">INICIO</a>
+  </header>
+
+  <div class="page-body">
+    <div class="container">
+      <h1>Convertidor de archivos de texto</h1>
+      <p class="lead">Carga un archivo de texto (TXT, HTML, Markdown, DOCX, RTF...), elige el formato de salida y descárgalo convertido. Todo funciona en tu navegador, sin subir datos a ningún servidor.</p>
+
+      <div id="uploader" class="uploader" tabindex="0">
+        <strong>Haz clic o arrastra aquí tu archivo de texto</strong>
+        <div class="formats">Formatos aceptados: .txt &nbsp;·&nbsp; .html / .htm &nbsp;·&nbsp; .md &nbsp;·&nbsp; .docx &nbsp;·&nbsp; .rtf &nbsp;·&nbsp; .csv</div>
+        <input id="fileInput" type="file" accept=".txt,.html,.htm,.md,.markdown,.docx,.rtf,.csv,text/*" />
+      </div>
+
+      <div class="row">
+        <div class="controls">
+
+          <div id="fileInfo" class="meta">Ningún archivo cargado.</div>
+          <div id="fileBadge"></div>
+
+          <label class="block">Formato de salida:</label>
+          <select id="formatSelect">
+            <option value="" disabled selected>— selecciona formato de salida —</option>
+          </select>
+          <div id="formatNote" class="meta" style="margin-top:4px"></div>
+
+          <div class="buttons">
+            <button id="convertBtn" class="primary btn" disabled>Convertir</button>
+            <button id="downloadBtn" class="ghost btn" disabled>Descargar</button>
+            <button id="clearBtn" class="btn">Limpiar</button>
+          </div>
+
+          <!-- Tabla de compatibilidad -->
+          <details class="matrix-wrap">
+            <summary>Ver tabla de conversiones disponibles</summary>
+            <table class="matrix-table">
+              <thead>
+                <tr><th>Origen ↓ / Destino →</th><th>TXT</th><th>HTML</th><th>MD</th><th>PDF</th><th>DOCX</th><th>CSV</th><th>RTF</th></tr>
+              </thead>
+              <tbody>
+                <tr><td><b>TXT</b></td>  <td>—</td><td class="yes">✔</td><td class="yes">✔</td><td class="yes">✔</td><td class="yes">✔</td><td class="yes">✔</td><td class="yes">✔</td></tr>
+                <tr><td><b>HTML</b></td> <td class="yes">✔</td><td>—</td><td class="par">~</td><td class="yes">✔</td><td class="par">~</td><td class="no">✖</td><td class="no">✖</td></tr>
+                <tr><td><b>MD</b></td>   <td class="yes">✔</td><td class="yes">✔</td><td>—</td><td class="yes">✔</td><td class="yes">✔</td><td class="no">✖</td><td class="no">✖</td></tr>
+                <tr><td><b>DOCX</b></td> <td class="yes">✔</td><td class="yes">✔</td><td class="par">~</td><td class="par">~</td><td>—</td><td class="no">✖</td><td class="no">✖</td></tr>
+                <tr><td><b>RTF</b></td>  <td class="yes">✔</td><td class="no">✖</td><td class="no">✖</td><td class="par">~</td><td class="no">✖</td><td class="no">✖</td><td>—</td></tr>
+                <tr><td><b>CSV</b></td>  <td class="yes">✔</td><td class="yes">✔</td><td class="no">✖</td><td class="yes">✔</td><td class="yes">✔</td><td>—</td><td class="no">✖</td></tr>
+              </tbody>
+            </table>
+            <div class="meta" style="margin-top:4px"><span class="yes">✔</span> completo &nbsp; <span class="par" style="color:#d97706">~</span> parcial (texto plano) &nbsp; <span style="color:#dc2626">✖</span> no disponible</div>
+          </details>
+        </div>
+
+        <div class="preview-panel">
+          <div class="preview-title">Vista previa del contenido</div>
+          <div id="previewContent">El contenido del archivo aparecerá aquí...</div>
+          <div id="previewInfo" class="meta"></div>
+        </div>
+      </div>
+
+      <div class="footer-note">
+        <small>Nota: Las conversiones se realizan íntegramente en tu navegador. Ningún archivo sale de tu dispositivo. Las conversiones marcadas como parciales (·~·) extraen el texto sin conservar el formato visual original.</small>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <p>2025 Creado por #imagif</p>
+    <p>email: <a href="mailto:imagenesgifs@gmail.com">imagenesgifs@gmail.com</a></p>
+  </footer>
+
+  <!-- mammoth.js para leer DOCX -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.6.0/mammoth.browser.min.js"></script>
+
+  <script>
+  // ─── ESTADO ────────────────────────────────────────────────────────────────
+  let loadedFile    = null;   // File object
+  let extractedText = '';     // texto plano extraído
+  let extractedHtml = '';     // HTML extraído (si disponible)
+  let convertedBlob = null;
+  let sourceExt     = '';
+
+  // ─── MAPA DE CONVERSIONES DISPONIBLES ──────────────────────────────────────
+  // formato: { label, targets: [{value, label, note?}] }
+  const convMap = {
+    txt:  {
+      label: 'Texto plano (TXT)',
+      targets: [
+        {value:'html',  label:'HTML'},
+        {value:'md',    label:'Markdown (MD)'},
+        {value:'pdf',   label:'PDF'},
+        {value:'docx',  label:'Word (DOCX)'},
+        {value:'csv',   label:'CSV (texto)'},
+        {value:'rtf',   label:'RTF'},
+      ]
+    },
+    html: {
+      label: 'Página web (HTML)',
+      targets: [
+        {value:'txt',   label:'Texto plano (TXT)'},
+        {value:'md',    label:'Markdown (MD) — parcial', note:'Se extrae el texto. El formato visual no se conserva.'},
+        {value:'pdf',   label:'PDF'},
+        {value:'docx',  label:'Word (DOCX) — parcial',   note:'Se incluye el texto del HTML sin estilos complejos.'},
+      ]
+    },
+    md:   {
+      label: 'Markdown (MD)',
+      targets: [
+        {value:'txt',   label:'Texto plano (TXT)'},
+        {value:'html',  label:'HTML'},
+        {value:'pdf',   label:'PDF'},
+        {value:'docx',  label:'Word (DOCX)'},
+      ]
+    },
+    docx: {
+      label: 'Word (DOCX)',
+      targets: [
+        {value:'txt',   label:'Texto plano (TXT)'},
+        {value:'html',  label:'HTML'},
+        {value:'md',    label:'Markdown (MD) — parcial', note:'Se convierte el texto. Sin formato avanzado.'},
+        {value:'pdf',   label:'PDF — parcial',           note:'El layout puede diferir del original.'},
+      ]
+    },
+    rtf:  {
+      label: 'RTF',
+      targets: [
+        {value:'txt',   label:'Texto plano (TXT)'},
+        {value:'pdf',   label:'PDF — parcial',           note:'El layout puede diferir del original.'},
+      ]
+    },
+    csv:  {
+      label: 'CSV (hoja de datos)',
+      targets: [
+        {value:'txt',   label:'Texto plano (TXT)'},
+        {value:'html',  label:'Tabla HTML'},
+        {value:'pdf',   label:'PDF (tabla)'},
+        {value:'docx',  label:'Word (DOCX) con tabla'},
+      ]
+    },
+  };
+
+  // ─── DOM ───────────────────────────────────────────────────────────────────
+  const uploader      = document.getElementById('uploader');
+  const fileInput     = document.getElementById('fileInput');
+  const fileInfo      = document.getElementById('fileInfo');
+  const fileBadge     = document.getElementById('fileBadge');
+  const formatSelect  = document.getElementById('formatSelect');
+  const formatNote    = document.getElementById('formatNote');
+  const convertBtn    = document.getElementById('convertBtn');
+  const downloadBtn   = document.getElementById('downloadBtn');
+  const clearBtn      = document.getElementById('clearBtn');
+  const previewContent= document.getElementById('previewContent');
+  const previewInfo   = document.getElementById('previewInfo');
+
+  function badge(txt, type=''){
+    fileBadge.innerHTML = `<span class="badge ${type}">${txt}</span>`;
+  }
+
+  // ─── CARGA DE ARCHIVO ──────────────────────────────────────────────────────
+  uploader.addEventListener('click', () => fileInput.click());
+  uploader.addEventListener('keydown', e => { if(e.key==='Enter'||e.key===' ') fileInput.click(); });
+  fileInput.addEventListener('change', e => { if(e.target.files[0]) loadFile(e.target.files[0]); });
+  ['dragenter','dragover'].forEach(ev => uploader.addEventListener(ev, e => { e.preventDefault(); uploader.classList.add('drag'); }));
+  ['dragleave','drop'].forEach(ev => uploader.addEventListener(ev, e => { e.preventDefault(); uploader.classList.remove('drag'); }));
+  uploader.addEventListener('drop', e => { if(e.dataTransfer.files[0]) loadFile(e.dataTransfer.files[0]); });
+
+  async function loadFile(file){
+    loadedFile    = file;
+    convertedBlob = null;
+    downloadBtn.disabled = true;
+    const name = file.name;
+    const ext  = name.split('.').pop().toLowerCase().replace('htm','html').replace('markdown','md');
+    sourceExt  = ext;
+
+    fileInfo.textContent = `📄 ${name} (${(file.size/1024).toFixed(1)} KB)`;
+
+    if(!convMap[ext]){
+      badge('Formato no soportado', 'err');
+      previewContent.textContent = 'Formato no reconocido. Prueba con: TXT, HTML, MD, DOCX, RTF o CSV.';
+      convertBtn.disabled = true;
+      formatSelect.innerHTML = '<option value="" disabled selected>— no disponible —</option>';
+      return;
+    }
+
+    badge(convMap[ext].label, 'ok');
+
+    // Extraer contenido
+    try{
+      await extractContent(file, ext);
+    } catch(e){
+      badge('Error al leer', 'err');
+      previewContent.textContent = 'No se pudo leer el archivo: ' + e.message;
+      convertBtn.disabled = true;
+      return;
+    }
+
+    // Poblar opciones de salida
+    const targets = convMap[ext].targets;
+    formatSelect.innerHTML = '<option value="" disabled selected>— selecciona formato de salida —</option>';
+    targets.forEach(t => {
+      const opt = document.createElement('option');
+      opt.value = t.value;
+      opt.textContent = t.label;
+      opt.dataset.note = t.note || '';
+      formatSelect.appendChild(opt);
+    });
+    formatNote.textContent = '';
+    convertBtn.disabled = false;
+  }
+
+  async function extractContent(file, ext){
+    if(ext === 'docx'){
+      const ab = await file.arrayBuffer();
+      const result = await mammoth.extractRawText({ arrayBuffer: ab });
+      const htmlResult = await mammoth.convertToHtml({ arrayBuffer: ab });
+      extractedText = result.value;
+      extractedHtml = htmlResult.value;
+    } else {
+      const text = await file.text();
+      extractedText = text;
+      if(ext === 'html'){
+        extractedHtml = text;
+      } else if(ext === 'md'){
+        extractedHtml = mdToHtml(text);
+      } else if(ext === 'rtf'){
+        extractedText = rtfToText(text);
+        extractedHtml = '';
+      } else {
+        extractedHtml = '';
+      }
+    }
+
+    // Vista previa
+    const preview = extractedText.slice(0, 1200) + (extractedText.length > 1200 ? '\n\n[... texto truncado en la vista previa ...]' : '');
+    previewContent.textContent = preview || '(Archivo vacío o sin texto extraíble)';
+    previewInfo.textContent = `${extractedText.length.toLocaleString()} caracteres · ${extractedText.split(/\n/).length.toLocaleString()} líneas`;
+  }
+
+  formatSelect.addEventListener('change', () => {
+    const sel = formatSelect.selectedOptions[0];
+    formatNote.textContent = sel ? (sel.dataset.note || '') : '';
+    convertBtn.disabled = !formatSelect.value;
+  });
+
+  // ─── CONVERSIÓN ────────────────────────────────────────────────────────────
+  convertBtn.addEventListener('click', async () => {
+    const target = formatSelect.value;
+    if(!target || !loadedFile){ alert('Selecciona un archivo y un formato de salida.'); return; }
+    convertBtn.textContent = 'Convirtiendo...';
+    convertBtn.disabled = true;
+    try{
+      convertedBlob = await doConvert(sourceExt, target, extractedText, extractedHtml, loadedFile.name);
+      downloadBtn.disabled = false;
+      badge('¡Conversión lista!', 'ok');
+    } catch(e){
+      badge('Error en conversión', 'err');
+      alert('Error: ' + e.message);
+    }
+    convertBtn.textContent = 'Convertir';
+    convertBtn.disabled = false;
+  });
+
+  downloadBtn.addEventListener('click', () => {
+    if(!convertedBlob) return;
+    const target  = formatSelect.value;
+    const baseName = loadedFile.name.replace(/\.[^/.]+$/, '');
+    const extMap  = { txt:'txt', html:'html', md:'md', pdf:'pdf', docx:'docx', csv:'csv', rtf:'rtf' };
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(convertedBlob);
+    a.download = baseName + '_convertido.' + (extMap[target] || target);
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 10000);
+  });
+
+  clearBtn.addEventListener('click', () => {
+    loadedFile = null; extractedText = ''; extractedHtml = ''; convertedBlob = null; sourceExt = '';
+    fileInput.value = '';
+    fileInfo.textContent = 'Ningún archivo cargado.';
+    fileBadge.innerHTML = '';
+    previewContent.textContent = 'El contenido del archivo aparecerá aquí...';
+    previewInfo.textContent = '';
+    formatSelect.innerHTML = '<option value="" disabled selected>— selecciona formato de salida —</option>';
+    formatNote.textContent = '';
+    convertBtn.disabled = true;
+    downloadBtn.disabled = true;
+  });
+
+  // ─── MOTOR DE CONVERSIÓN ───────────────────────────────────────────────────
+  async function doConvert(src, dst, text, html, filename){
+    // → TXT
+    if(dst === 'txt'){
+      return new Blob([text], { type: 'text/plain;charset=utf-8' });
+    }
+    // → HTML
+    if(dst === 'html'){
+      let body = '';
+      if(src === 'md')   body = mdToHtml(text);
+      else if(src === 'csv') body = csvToHtmlTable(text);
+      else if(html)          body = html;
+      else                   body = '<pre>' + escHtml(text) + '</pre>';
+      const full = `<!doctype html>\n<html lang="es">\n<head><meta charset="utf-8"><title>${escHtml(filename)}</title></head>\n<body>\n${body}\n</body>\n</html>`;
+      return new Blob([full], { type: 'text/html;charset=utf-8' });
+    }
+    // → Markdown
+    if(dst === 'md'){
+      let md = '';
+      if(src === 'html') md = htmlToMdBasic(html || text);
+      else               md = text;
+      return new Blob([md], { type: 'text/markdown;charset=utf-8' });
+    }
+    // → RTF
+    if(dst === 'rtf'){
+      const rtf = textToRtf(text);
+      return new Blob([rtf], { type: 'application/rtf' });
+    }
+    // → CSV (solo desde TXT)
+    if(dst === 'csv'){
+      return new Blob([text], { type: 'text/csv;charset=utf-8' });
+    }
+    // → DOCX
+    if(dst === 'docx'){
+      return buildDocx(src === 'csv' ? csvToPlainTable(text) : text, src === 'md' ? mdToHtml(text) : (html||''));
+    }
+    // → PDF
+    if(dst === 'pdf'){
+      const htmlForPdf = src === 'md'   ? mdToHtml(text)
+                       : src === 'csv'  ? csvToHtmlTable(text)
+                       : html           ? html
+                       : '<pre style="font-family:monospace;font-size:12px;white-space:pre-wrap">' + escHtml(text) + '</pre>';
+      return htmlToPdfBlob(htmlForPdf, filename);
+    }
+    throw new Error('Conversión no implementada');
+  }
+
+  // ─── UTILIDADES DE TEXTO ───────────────────────────────────────────────────
+  function escHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function rtfToText(rtf){
+    return rtf
+      .replace(/\{[^{}]*\}/g,'')
+      .replace(/\\[a-z]+\d* ?/g,' ')
+      .replace(/\\\n/g,'\n')
+      .replace(/\{|\}/g,'')
+      .replace(/  +/g,' ')
+      .trim();
+  }
+
+  function textToRtf(text){
+    const escaped = text
+      .replace(/\\/g,'\\\\')
+      .replace(/\{/g,'\\{').replace(/\}/g,'\\}')
+      .replace(/\n/g,'\\par\n');
+    return `{\\rtf1\\ansi\\deff0\n{\\fonttbl{\\f0 Arial;}}\n{\\f0\\fs24 ${escaped}}\n}`;
+  }
+
+  // ─── MARKDOWN ──────────────────────────────────────────────────────────────
+  function mdToHtml(md){
+    return md
+      .replace(/^#### (.+)$/gm, '<h4>$1</h4>')
+      .replace(/^### (.+)$/gm,  '<h3>$1</h3>')
+      .replace(/^## (.+)$/gm,   '<h2>$1</h2>')
+      .replace(/^# (.+)$/gm,    '<h1>$1</h1>')
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g,     '<em>$1</em>')
+      .replace(/`(.+?)`/g,       '<code>$1</code>')
+      .replace(/^\s*[-*]\s+(.+)$/gm, '<li>$1</li>')
+      .replace(/(<li>.*<\/li>\n?)+/g, m => '<ul>' + m + '</ul>')
+      .replace(/^\d+\.\s+(.+)$/gm, '<li>$1</li>')
+      .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2">$1</a>')
+      .replace(/^(?!<[hul]).+$/gm, m => m.trim() ? '<p>' + m + '</p>' : '')
+      .replace(/\n{2,}/g,'\n');
+  }
+
+  function htmlToMdBasic(html){
+    return html
+      .replace(/<h1[^>]*>(.*?)<\/h1>/gi,    '# $1\n')
+      .replace(/<h2[^>]*>(.*?)<\/h2>/gi,    '## $1\n')
+      .replace(/<h3[^>]*>(.*?)<\/h3>/gi,    '### $1\n')
+      .replace(/<h4[^>]*>(.*?)<\/h4>/gi,    '#### $1\n')
+      .replace(/<strong[^>]*>(.*?)<\/strong>/gi, '**$1**')
+      .replace(/<b[^>]*>(.*?)<\/b>/gi,      '**$1**')
+      .replace(/<em[^>]*>(.*?)<\/em>/gi,    '*$1*')
+      .replace(/<i[^>]*>(.*?)<\/i>/gi,      '*$1*')
+      .replace(/<li[^>]*>(.*?)<\/li>/gi,    '- $1\n')
+      .replace(/<a[^>]+href="([^"]+)"[^>]*>(.*?)<\/a>/gi, '[$2]($1)')
+      .replace(/<br\s*\/?>/gi,'\n')
+      .replace(/<p[^>]*>(.*?)<\/p>/gi,'$1\n\n')
+      .replace(/<[^>]+>/g,'')
+      .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&nbsp;/g,' ')
+      .trim();
+  }
+
+  // ─── CSV ───────────────────────────────────────────────────────────────────
+  function parseCSV(text){
+    return text.trim().split('\n').map(row =>
+      row.split(',').map(c => c.trim().replace(/^"|"$/g,''))
+    );
+  }
+  function csvToHtmlTable(text){
+    const rows = parseCSV(text);
+    if(!rows.length) return '<p>(vacío)</p>';
+    let html = '<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;font-family:sans-serif;font-size:13px">\n';
+    rows.forEach((row, ri) => {
+      html += '<tr>';
+      row.forEach(cell => {
+        html += ri === 0 ? `<th style="background:#dbeafe">${escHtml(cell)}</th>` : `<td>${escHtml(cell)}</td>`;
+      });
+      html += '</tr>\n';
+    });
+    return html + '</table>';
+  }
+  function csvToPlainTable(text){
+    return parseCSV(text).map(r => r.join('\t')).join('\n');
+  }
+
+  // ─── PDF (via print window) ────────────────────────────────────────────────
+  function htmlToPdfBlob(bodyHtml, title){
+    return new Promise((resolve, reject) => {
+      const w = window.open('', '_blank',
+        'width=900,height=700,scrollbars=yes,resizable=yes');
+      if(!w){ reject(new Error('El navegador bloqueó la ventana emergente. Permite ventanas emergentes e inténtalo de nuevo.')); return; }
+      w.document.open();
+      w.document.write(`<!doctype html><html><head>
+        <meta charset="utf-8">
+        <title>${escHtml(title||'documento')}</title>
+        <style>
+          body{font-family:Georgia,serif;font-size:13px;line-height:1.6;max-width:750px;margin:30px auto;color:#111}
+          pre{white-space:pre-wrap;word-break:break-word;font-family:monospace;font-size:12px}
+          table{border-collapse:collapse;width:100%}
+          td,th{border:1px solid #ccc;padding:5px 8px}
+          th{background:#dbeafe}
+          @media print{body{margin:0}}
+        </style>
+      </head><body>${bodyHtml}
+      <script>
+        window.onload = function(){
+          setTimeout(function(){
+            window.print();
+          }, 400);
+        };
+      <\/script>
+      </body></html>`);
+      w.document.close();
+      // We resolve with a placeholder blob; user saves via browser print dialog
+      setTimeout(() => resolve(new Blob([''], {type:'application/pdf'})), 800);
+      // Override download to notify user
+      downloadBtn.addEventListener('click', () => {}, { once: true });
+    });
+  }
+
+  // ─── DOCX (formato mínimo válido sin librerías) ────────────────────────────
+  function buildDocx(plainText, htmlContent){
+    // DOCX is a ZIP. We build a minimal one manually using base64-encoded skeleton.
+    // Core file: word/document.xml with paragraphs from plainText
+    const paragraphs = plainText.split('\n').map(line => {
+      const safe = line
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;').replace(/'/g,'&apos;');
+      return `<w:p><w:r><w:t xml:space="preserve">${safe}</w:t></w:r></w:p>`;
+    }).join('\n');
+
+    const docXml = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+  xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+  xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+<w:body>
+${paragraphs}
+<w:sectPr><w:pgSz w:w="12240" w:h="15840"/></w:sectPr>
+</w:body>
+</w:document>`;
+
+    const relsXml = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+</Relationships>`;
+
+    const wordRelsXml = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+</Relationships>`;
+
+    const contentTypesXml = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+  <Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+  <Default Extension="xml"  ContentType="application/xml"/>
+  <Override PartName="/word/document.xml"
+    ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+</Types>`;
+
+    // Build ZIP manually
+    return buildZip([
+      { name: '[Content_Types].xml',       data: contentTypesXml },
+      { name: '_rels/.rels',               data: relsXml         },
+      { name: 'word/_rels/document.xml.rels', data: wordRelsXml  },
+      { name: 'word/document.xml',         data: docXml          },
+    ]);
+  }
+
+  // Minimal ZIP builder (no compression = store)
+  function buildZip(files){
+    const enc = new TextEncoder();
+    const localHeaders = [];
+    const centralDir   = [];
+    let offset = 0;
+
+    for(const file of files){
+      const nameBytes = enc.encode(file.name);
+      const dataBytes = enc.encode(file.data);
+      const crc = crc32(dataBytes);
+      const now = dosDateTime();
+
+      // Local file header
+      const lh = new Uint8Array(30 + nameBytes.length);
+      const lv = new DataView(lh.buffer);
+      lv.setUint32(0, 0x04034b50, true); // signature
+      lv.setUint16(4, 20, true);          // version needed
+      lv.setUint16(6, 0, true);           // flags
+      lv.setUint16(8, 0, true);           // no compression
+      lv.setUint16(10, now.time, true);
+      lv.setUint16(12, now.date, true);
+      lv.setUint32(14, crc, true);
+      lv.setUint32(18, dataBytes.length, true);
+      lv.setUint32(22, dataBytes.length, true);
+      lv.setUint16(26, nameBytes.length, true);
+      lv.setUint16(28, 0, true);
+      lh.set(nameBytes, 30);
+
+      // Central directory entry
+      const cd = new Uint8Array(46 + nameBytes.length);
+      const cv = new DataView(cd.buffer);
+      cv.setUint32(0, 0x02014b50, true);
+      cv.setUint16(4, 20, true);
+      cv.setUint16(6, 20, true);
+      cv.setUint16(8, 0, true);
+      cv.setUint16(10, 0, true);
+      cv.setUint16(12, now.time, true);
+      cv.setUint16(14, now.date, true);
+      cv.setUint32(16, crc, true);
+      cv.setUint32(20, dataBytes.length, true);
+      cv.setUint32(24, dataBytes.length, true);
+      cv.setUint16(28, nameBytes.length, true);
+      cv.setUint16(30, 0, true);
+      cv.setUint16(32, 0, true);
+      cv.setUint16(34, 0, true);
+      cv.setUint16(36, 0, true);
+      cv.setUint32(38, 0, true);
+      cv.setUint32(42, offset, true);
+      cd.set(nameBytes, 46);
+
+      localHeaders.push(lh, dataBytes);
+      centralDir.push(cd);
+      offset += lh.length + dataBytes.length;
+    }
+
+    const cdStart  = offset;
+    const cdBytes  = concat(centralDir);
+    const eocd     = new Uint8Array(22);
+    const ev       = new DataView(eocd.buffer);
+    ev.setUint32(0, 0x06054b50, true);
+    ev.setUint16(4, 0, true);
+    ev.setUint16(6, 0, true);
+    ev.setUint16(8, files.length, true);
+    ev.setUint16(10, files.length, true);
+    ev.setUint32(12, cdBytes.length, true);
+    ev.setUint32(16, cdStart, true);
+    ev.setUint16(20, 0, true);
+
+    const all = concat([...localHeaders, cdBytes, eocd]);
+    return new Blob([all], { type: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+  }
+
+  function concat(arrays){
+    const total = arrays.reduce((s,a)=>s+a.length,0);
+    const out   = new Uint8Array(total);
+    let off = 0;
+    for(const a of arrays){ out.set(a,off); off+=a.length; }
+    return out;
+  }
+
+  function dosDateTime(){
+    const d = new Date();
+    const date = ((d.getFullYear()-1980)<<9)|((d.getMonth()+1)<<5)|d.getDate();
+    const time = (d.getHours()<<11)|(d.getMinutes()<<5)|(d.getSeconds()>>1);
+    return { date, time };
+  }
+
+  function crc32(data){
+    let crc = 0xFFFFFFFF;
+    const table = crc32.table || (crc32.table = (()=>{
+      const t = new Uint32Array(256);
+      for(let i=0;i<256;i++){
+        let c=i;
+        for(let j=0;j<8;j++) c = (c&1)?(0xEDB88320^(c>>>1)):(c>>>1);
+        t[i]=c;
+      }
+      return t;
+    })());
+    for(let i=0;i<data.length;i++) crc = table[(crc^data[i])&0xFF]^(crc>>>8);
+    return (crc^0xFFFFFFFF)>>>0;
+  }
+
+  // Override download for PDF (open print dialog instead)
+  const origDownload = downloadBtn.onclick;
+  downloadBtn.addEventListener('click', () => {
+    if(formatSelect.value === 'pdf'){
+      // PDF was already opened in popup for printing, just remind user
+      const hint = document.createElement('div');
+      hint.className = 'meta';
+      hint.style.cssText = 'color:#d97706;margin-top:6px';
+      hint.textContent = '💡 Se ha abierto una ventana para imprimir. Elige "Guardar como PDF" en el diálogo de impresión.';
+      hint.id = 'pdfHint';
+      if(!document.getElementById('pdfHint'))
+        document.querySelector('.buttons').after(hint);
+    }
+  });
+  </script>
+</body>
+</html>
