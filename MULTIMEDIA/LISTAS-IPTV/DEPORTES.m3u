@@ -25,7 +25,8 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:0 type="favorites" channelId="1502" group="France" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png", France 2 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 
-
+#EXTINF:0 type="stream" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
 #EXTINF:0 type="favorites" channelId="1569" group="Georgia" logo="https://i.imgur.com/FJBL6zI.png", 2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
