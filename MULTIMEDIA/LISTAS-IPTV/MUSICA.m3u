@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://static.elektamedia.com/ch/tmc_concerts.png", Totalmusic Concerts (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://static.elektamedia.com/ch/tmc_80s.png", Totalmusic 80s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://static.elektamedia.com/ch/tmc_00s.png", Totalmusic 2000s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2715" group="United Kingdom" logo="https://i.imgur.com/hdyJ4PT.png", MTV Music

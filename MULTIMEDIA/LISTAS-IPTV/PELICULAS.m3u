@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://static.elektamedia.com/ch/entch.png", ENT Channel (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United Kingdom" logo="https://static.elektamedia.com/ch/entf.png", ENT Family (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:0 type="favorites" channelId="3492" group="United Kingdom" logo="https://i.imgur.com/MTSgoGI.png", Film4 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="1185" group="United Kingdom" logo="https://i.imgur.com/DYI4IA2.png", ITV4 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:0 type="favorites" channelId="1184" group="United Kingdom" logo="https://i.imgur.com/JuyM2z5.png", ITV3 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:0 type="favorites" channelId="1183" group="United Kingdom" logo="https://i.imgur.com/2BpUK0W.png", ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
 #EXTINF:0 type="stream" channelId="-1" group="United States" logo="https://i.imgur.com/bZWoDTg.png", Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/ULKvDN7.png", Pluto TV Thrillers Spain
