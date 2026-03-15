@@ -6,6 +6,10 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 #EXTINF:0 type="stream" channelId="1266" group="Austria" logo="https://i.imgur.com/6W637Gn.png", ServusTV HD
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 
+#EXTINF:0 type="favorites" channelId="2303" group="Switzerland" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RTS_1_logo_2019.svg/langca-330px-RTS_1_logo_2019.svg.png", RTS 1 (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+
+
 #EXTINF:0 type="favorites" channelId="2304" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png", RTS 2 (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 
@@ -27,9 +31,9 @@ https://www.youtube.com/embed/lnGAjJK8Vqw?si=nrDDziKKnr1J3jRB
 
 
 
-
 #EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png", Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
 
 #EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/AqGIoIt.png", Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8

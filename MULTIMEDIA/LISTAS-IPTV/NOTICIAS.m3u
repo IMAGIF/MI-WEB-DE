@@ -6,7 +6,11 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
 https://www.youtube.com/embed/lnGAjJK8Vqw?si=nrDDziKKnr1J3jRB
 
+#EXTINF:0 type="stream" channelId="-1" name="LIVE CAMS" group="YOUTUBE" logo="https://www.ocean-retreat.com/wp-content/uploads/2024/07/Live-Cams-Madeira.png", 
+https://www.youtube.com/embed/4E-iFtUM2kk?si=O7t2kt2sJuPT8r20
 
+#EXTINF:0 type="stream" channelId="-1" name="CAMS LIVE" group="YOUTUBE" logo="https://www.ocean-retreat.com/wp-content/uploads/2024/07/Live-Cams-Madeira.png", 
+https://www.youtube.com/embed/toZ1WJFVYVk?si=WFLkU2WGCRgbUW57
 
 #EXTINF:0 type="favorites" channelId="-1" name="DW" group="NEWS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8h0N8FvyY0rdIg0lfNP2noOFhE4vNelXcg&s", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -34,6 +38,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="EURONEWS" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EURONEWS
 https://www.youtube.com/embed/O9mOtdZ-nSk?si=FU5u3v-K85zM7k9O
 
+#EXTINF:0 type="favorites" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
 #EXTINF:0 type="favorites" channelId="1143" group="United Kingdom" logo="https://i.imgur.com/vSz2WEp.png", BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -146,12 +152,6 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-
-
-
-
-
 
 
 

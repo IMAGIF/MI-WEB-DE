@@ -1,271 +1,133 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/1jDS9UC.png", La 1 HEVC (1080p)
-http://176.65.146.237:8401/play/a095/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/1jDS9UC.png", La 1 UHD (2160p)
-http://176.65.146.237:8401/play/a09u/index.m3u8
-#EXTINF:0 type="stream" channelId="1321" group="Spain" logo="https://i.imgur.com/3NwzqoB.png", La 2 (1080p)
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
-#EXTINF:0 type="stream" channelId="2124" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png", Antena 3 (1080p)
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-#EXTINF:0 type="stream" channelId="1678" group="Spain" logo="https://i.imgur.com/NYLnABb.png", Cuatro (1080p)
-http://176.65.146.237:8401/play/a09s/index.m3u8
-#EXTINF:0 type="stream" channelId="2527" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png", Telecinco (1080p)
-http://176.65.146.237:8401/play/a09r/index.m3u8
-#EXTINF:0 type="stream" channelId="1692" group="Spain" logo="https://i.imgur.com/aKV5voq.png", La Sexta (1080p)
-http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/dvkzH8n.png", Galicia TV Europa (720p)
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
-https://www.youtube.com/embed/dBiXJlm6YWc?si=-_gdLtqPiwjDI7AI
-#EXTINF:0 type="stream" channelId="4038" group="Spain" logo="https://i.imgur.com/yFy6gxg.png", TVG2 (720p) [Geo-blocked]
-https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1322" group="Spain" logo="https://i.imgur.com/b0H5f62.png", Teledeporte (1080p)
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-#EXTINF:0 type="stream" channelId="3639" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png", Be Mad (1080p)
-http://176.65.146.237:8401/play/a0aj/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png", Paramount Network Spain (1080p)
-http://176.65.146.237:8401/play/a09i/index.m3u8
-#EXTINF:0 type="stream" channelId="2819" group="Spain" logo="https://i.imgur.com/Udrt2eK.png", Mega (1080p)
-http://176.65.146.237:8401/play/a0a5/index.m3u8
-#EXTINF:0 type="stream" channelId="1695" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png", Neox (1080p)
-http://176.65.146.237:8401/play/a0ag/index.m3u8
-#EXTINF:0 type="stream" channelId="2125" group="Spain" logo="https://i.imgur.com/Vx1F4o5.png", Nova (1080p)
-http://176.65.146.237:8401/play/a0ah/index.m3u8
-#EXTINF:0 type="stream" channelId="1683" group="Spain" logo="https://i.postimg.cc/259RSYsd/energy.png", Energy (1080p)
-http://176.65.146.237:8401/play/a0ac/index.m3u8
-#EXTINF:0 type="stream" channelId="1380" group="Spain" logo="https://i.imgur.com/03jFV68.png", Clan (1280p)
-https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/kklTIMm.png", Veo7 (1080p)
-http://176.65.146.237:8401/play/a09k/index.m3u8
-#EXTINF:0 type="stream" channelId="1332" group="Spain" logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png", Real Madrid TV (1080p)
-http://176.65.146.237:8401/play/a0ak/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/9y8VcBr.png", Squirrel (1080p)
-http://176.65.146.237:8401/play/a09h/index.m3u8
-#EXTINF:0 type="stream" channelId="1685" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png", FDF (1080p)
-http://176.65.146.237:8401/play/a09p/index.m3u8
-#EXTINF:0 type="stream" channelId="1682" group="Spain" logo="https://i.imgur.com/o7fvEr6.png", Divinity (1080p)
-http://176.65.146.237:8401/play/a09q/index.m3u8
-#EXTINF:0 type="stream" channelId="3638" group="Spain" logo="https://i.imgur.com/ZpaeqyN.png", TEN (1080p)
-http://176.65.146.237:8401/play/a0al/index.m3u8
-#EXTINF:0 type="stream" channelId="3722" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png", Antena 3 Internacional (480p)
-http://38.183.182.166:8000/play/a0sx/index.m3u8
-#EXTINF:0 type="stream" channelId="3640" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png", Atreseries (1080p)
-http://176.65.146.237:8401/play/a0ai/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png", Atreseries Internacional (1080p)
-http://38.183.182.166:8000/play/a104/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/IUVRm5L.png", 24 Horas (1080p)
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:0 type="stream" channelId="2829" group="Spain" logo="https://i.imgur.com/IUVRm5L.png", 24 Horas Internacional
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
+https://www.youtube.com/embed/lnGAjJK8Vqw?si=nrDDziKKnr1J3jRB
+
+
 #EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/GrzQ1ya.png", Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/AqGIoIt.png", Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/ZnmAXVv.png", France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:0 type="stream" channelId="2829" group="Spain" logo="https://i.imgur.com/IUVRm5L.png", 24 Horas Internacional
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF:0 type="stream" channelId="4030" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png", El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/W2Qqz2F.png", El Confidencial TV (1080p)
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:0 type="stream" channelId="4035" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png", Trece (1080p)
-http://176.65.146.237:8401/play/a0a9/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.postimg.cc/wvbm21St/france24.png", France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/512px-Logo_Canal_33_Madrid_2025.jpg", Canal 33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="United States" logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png", Telemundo Al Dia
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:0 type="stream" channelId="1970" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png", Galavision
-http://104.238.205.28:8989/278705_.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/512px-Andaluc%C3%ADa_TV_2018_logo.svg.png", Andalucía Televisión (1080p)
-http://176.65.146.237:8401/play/a09g/index.m3u8
-#EXTINF:0 type="stream" channelId="1670" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/512px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png", Canal Sur (1080p)
-http://176.65.146.237:8401/play/a09c/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/A3JscwS.png", Canal Sur Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1074" name="ETB1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png", ETB1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:0 type="stream" channelId="3120" name="ETB2" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png", ETB2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:0 type="stream" channelId="1664" group="Spain" logo="https://i.imgur.com/6YSi1zW.png", Aragon TV (720p)
-https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png", TV3CAT Originals (1080p)
-https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="TV3Cat Ⓖ" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png", TV3Cat Ⓖ
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-#EXTINF:0 type="stream" channelId="4029" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png", TV3CAT (1080p) [Geo-blocked]
-https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
-#EXTINF:0 type="stream" channelId="2814" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png", TV3 (1080p) [Geo-blocked]
-https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
-#EXTINF:0 type="stream" channelId="4047" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png", A Punt
-https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:0 type="stream" channelId="1704" group="Spain" logo="https://i.imgur.com/Bgm2iZY.png", Solidaria TV (720p)
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/iM9AN6Z.png", Costa Noroeste TV (1080p) [Not 24/7]
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/s6V8rQd.png", Noroeste TV (1080p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
 
 
+#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
+#EXTINF:0 type="favorites" channelId="1321" name="La 2" group="Generalistas" logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/dvkzH8n.png", Galicia TV Europa (720p)
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
+https://www.youtube.com/embed/dBiXJlm6YWc?si=-_gdLtqPiwjDI7AI
 
 
 #EXTINF:0 type="favorites" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
 https://www.youtube.com/embed/dBiXJlm6YWc?si=P9XJG_MrHRWVGcyX
 
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV (1080p)
-
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/W2Qqz2F.png", El Confidencial TV (1080p)
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-
-
-#EXTINF:0 type="favorites" channelId="-1" name="24h" group="Informativos" logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 1" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 1 GEO
-https://directes-tv-es.ccma.cat/live-origin/oca1-hls/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Andalucía Cocina" group="Andalucía" logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200", Andalucía Cocina
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Atresplayer Multicine" group="Eventuales" logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200", Atresplayer Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="C33 Madrid" group="C. de Madrid" logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200", C33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/.m3u8
-#EXTINF:0 type="favorites" channelId="1382" name="Canal Parlamento" group="Eventuales" logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200", Canal Parlamento
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:0 type="favorites" channelId="1671" name="Canal Sur Andalucía" group="Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Canal Sur Más Noticias" group="Andalucía" logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200", Canal Sur Más Noticias
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="1380" name="Clan" group="Infantiles" logo="https://graph.facebook.com/clantve/picture?width=200&height=200", Clan
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-#EXTINF:0 type="favorites" channelId="2134" name="Classic Arts Showcase" group="Int. Otros" logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", Classic Arts Showcase EN
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-#EXTINF:0 type="favorites" channelId="1684" name="Esport 3" group="Deportivos" logo="https://graph.facebook.com/Esport3/picture?width=200&height=200", Esport 3 GEO
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:0 type="favorites" channelId="4899" name="Kidz" group="Infantiles" logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200", Kidz
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-#EXTINF:0 type="favorites" channelId="1372" name="LOS40" group="Radio_Populares" logo="https://graph.facebook.com/los40/picture?width=200&height=200", LOS40
-https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-
-
-#EXTINF:0 type="favorites" channelId="2528" name="LaOtra" group="C. de Madrid" logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="RNE para todos" group="Generalistas" logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200", RNE para todos
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="RTP 1 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200", RTP 1 Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="RTP 2 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200", RTP 2 Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="RTP 3 Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtp/picture?width=200&height=200", RTP 3 Portugal
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="RTP Internacional Portugal" group="Int. Europa" logo="https://graph.facebook.com/rtpinternacional/picture?width=200&height=200", RTP Internacional Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="RTVE 24H" group="NEWS" logo="https://i.imgur.com/WTDKOoM.png", RTVE 24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Radio Marca" group="Radio_Populares" logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200", Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
-#EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TV Ferrol" group="Galicia" logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200", TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-#EXTINF:0 type="favorites" channelId="2814" name="TV3" group="Cataluña" logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png", TV3 GEO CAT
-https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
-#EXTINF:0 type="favorites" channelId="4029" name="TV3.CAT" group="Int. Europa" logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png", TV3.CAT
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVE Int. Europa" group="Int. Europa" logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200", TVE Int. Europa
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:0 type="favorites" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
-https://www.youtube.com/embed/YNqj5t4rlAA
-#EXTINF:0 type="favorites" channelId="4038" name="TVG 2" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG 2
+#EXTINF:0 type="stream" channelId="4038" group="Spain" logo="https://i.imgur.com/yFy6gxg.png", TVG2 (720p) [Geo-blocked]
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG América" group="Int. Europa" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG América
-https://crtvg-america.flumotion.cloud/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Cativ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Cativ@s
-https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Eventos" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG Eventos
-https://crtvg-events1.flumotion.cloud/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Mira Radio Galega" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG Mira Radio Galega
-https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Mociñ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Mociñ@s
-https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Pequerrech@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Pequerrech@s
-https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TVG Xabarin" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Xabarin
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="TeleVigo" group="Galicia" logo="https://graph.facebook.com/televigo/picture?width=200&height=200", TeleVigo
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
-#EXTINF:0 type="stream" channelId="1322" name="Teledeporte" group="Deportivos" logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte GEO
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:0 type="favorites" channelId="1324" name="Telemadrid" group="C. de Madrid" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Telemadrid Internacional" group="Int. Europa" logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid Internacional
-https://new-international-23-secure2.akamaized.net/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
-https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
-#EXTINF:0 type="favorites" channelId="-1" name="Vinx TV Asturias" group="Deportivos" logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200", Vinx TV Asturias
-https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="WeatherNation USA" group="Int. América" logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200", WeatherNation USA
-https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
-#EXTINF:0 type="favorites" channelId="1695" group="Spain" logo="https://i.imgur.com/D1pUrGC.png", Neox (576p)
-http://185.189.225.150:85/neox/index.m3u8
-#EXTINF:0 type="favorites" channelId="41" group="Spain" logo="https://i.imgur.com/E84jnP8.png", Nickelodeon (Spain) (576p)
-http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:0 type="favorites" channelId="2125" group="Spain" logo="https://i.imgur.com/Vx1F4o5.png", Nova (Spain) (576p)
-http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/EcinFGu.png", PTV Sevilla (1080p)
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
-#EXTINF:0 type="favorites" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:0 type="favorites" channelId="4899" name="Kidz" group="Infantiles" logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200", Kidz
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="Atresplayer Multicine" group="Eventuales" logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200", Atresplayer Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
-#EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
-https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
-#EXTINF:0 type="favorites" channelId="-1" name="Onda Cero" group="Eventuales" logo="https://graph.facebook.com/ondacero/picture?width=200&height=200", Onda Cero
-https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
-#EXTINF:0 type="favorites" channelId="2819" group="Spain" logo="https://i.imgur.com/Udrt2eK.png", Mega (Spain) (576p)
-http://185.189.225.150:85/mega/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/72JmyjM.png", NatureTime
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 
-#EXTINF:0 type="favorites" channelId="1573" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png", AXN (1080p)
-http://178.219.128.68:64888/AXN
-#EXTINF:0 type="favorites" channelId="1380" group="Spain" logo="https://i.imgur.com/03jFV68.png", Clan TVE (1080p) [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/iM9AN6Z.png", Costa Noroeste TV (1080p) [Not 24/7]
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/AqGIoIt.png", Distrito TV (1080p)
-https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/F1NdbpE.png", Factoria de Ficcion (1080p)
-http://185.189.225.150:85/fdf/index.m3u8
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/ZnmAXVv.png", France 24 Español (1080p)
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.postimg.cc/wvbm21St/france24.png", France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:0 type="favorites" channelId="2814" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png", TV3 (1080p)
-http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:0 type="favorites" channelId="2501" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png", AMC (Spain) (720p)
-http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/W2Qqz2F.png", El Confidencial TV (1080p)
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:0 type="favorites" channelId="4030" group="Spain" logo="https://i.imgur.com/z8M0Dpy.png", El Toro TV (720p)
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:0 type="favorites" channelId="4036" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png", Paramount Network (Spain) (720p)
-http://185.189.225.150:85/Paramount/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/512px-Logo_Canal_33_Madrid_2025.jpg", Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/A3JscwS.png", Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="1671" name="Canal Sur Andalucía" group="Andalucía" logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+
+#EXTINF:0 type="stream" channelId="1074" name="ETB1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png", ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:0 type="stream" channelId="3120" name="ETB2" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png", ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:0 type="stream" channelId="1664" group="Spain" logo="https://i.imgur.com/6YSi1zW.png", Aragon TV (720p)
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png", TV3CAT Originals (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+
+#EXTINF:0 type="stream" channelId="1704" group="Spain" logo="https://i.imgur.com/Bgm2iZY.png", Solidaria TV (720p)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/iM9AN6Z.png", Costa Noroeste TV (1080p) [Not 24/7]
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/s6V8rQd.png", Noroeste TV (1080p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="C33 Madrid" group="C. de Madrid" logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200", C33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+
+#EXTINF:0 type="favorites" channelId="1382" name="Canal Parlamento" group="Eventuales" logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200", Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="1332" name="Real Madrid TV" group="Deportivos" logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200", Real Madrid TV EN
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="TV Ferrol" group="Galicia" logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200", TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="TeleVigo" group="Galicia" logo="https://graph.facebook.com/televigo/picture?width=200&height=200", TeleVigo
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/EcinFGu.png", PTV Sevilla (1080p)
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/iM9AN6Z.png", Costa Noroeste TV (1080p) [Not 24/7]
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="Radio Marca" group="Radio_Populares" logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200", Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+
+#EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
+https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="WeatherNation USA" group="Int. América" logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200", WeatherNation USA
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+
+#EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
+https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
 
