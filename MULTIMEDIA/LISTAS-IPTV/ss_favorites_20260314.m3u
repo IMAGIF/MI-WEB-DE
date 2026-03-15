@@ -155,8 +155,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg", Viaplay TV (Finland) (720p) [Not 24/7]
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
-#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg", La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 type="favorites" channelId="1090" group="Sports" logo="https://i.imgur.com/qBVqtYd.png", FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://imgur.com/khj869k.png", Tour Spot TV (1280p) [Not 24/7]
@@ -247,5 +245,57 @@ https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16284&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_cat=IAB8&content_channel=cocinafamiliar&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&ssai_enabled=1&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live&ua=[%UA%]&device_type=[DEVICE_TYPE]&min_ad_duration=6&max_ad_duration=120&ip=[IP]
 #EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/BaEyZto.png", Realitatea Sportiva (720p)
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2303" group="Senegal" logo="https://i.imgur.com/HHGktpF.png", RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2303" group="Switzerland" logo="https://i.imgur.com/OP5lHv9.png", RTS 1 (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:0 type="favorites" channelId="1264" group="Austria" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png", ORF 1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTINF:0 type="favorites" channelId="1944" group="Australia" logo="https://i.imgur.com/BrW7gk8.png", ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:0 type="favorites" channelId="1444" group="United States" logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png", ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:0 type="favorites" channelId="1321" name="La 2" group="Generalistas" logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 type="favorites" channelId="2531" name="TVG" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4038" name="TVG 2" group="Galicia" logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Xabarin" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Xabarin
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Pequerrech@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Pequerrech@s
+https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Cativ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Cativ@s
+https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="TVG Mociñ@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Mociñ@s
+https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4029" name="TV3.CAT" group="Int. Europa" logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png", TV3.CAT
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="2883" name="CNN Internacional" group="Int. Europa" logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320", CNN Internacional
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:0 type="favorites" channelId="3013" name="Sport Italia" group="Int. Europa" logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200", Sport Italia IT
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3013" name="Sport Italia" group="Int. Europa" logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200", Sport Italia
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3013" name="Sport Italia" group="Int. Europa" logo="https://graph.facebook.com/sportitaliatv/picture?width=200&height=200", Sport Italia
+https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Sky News Reino Unido" group="Int. Europa" logo="https://graph.facebook.com/skynews/picture?width=200&height=200", Sky News Reino Unido EN
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="GB News Reino Unido" group="Int. Europa" logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200", GB News Reino Unido EN
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="217" name="Euronews" group="Informativos" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+#EXTINF:0 type="favorites" channelId="1322" name="Teledeporte" group="Deportivos" logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte GEO
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="+24" group="Eventuales" logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png", +24
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="SX3" group="Cataluña" logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200", SX3 GEO
+https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="2826" group="Spain" logo="https://i.imgur.com/VUy8xIG.png", Historia (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png", Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8

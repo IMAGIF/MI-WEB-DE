@@ -13,6 +13,7 @@ https://www.youtube.com/embed/cOmmvhDQ2HM?si=lN2vivn0Eo4YY80x
 
 #EXTINF:0 type="stream" channelId="-1" name="NAMIBIA" group="YOUTUBE" logo="https://th.bing.com/th/id/OIG4.ofkYEP0a4qBjSkOvNUO4?pid=ImgGn", NAMIBIA
 https://www.youtube.com/embed/ydYDqZQpim8?si=Hj_OkLCLu_JQOXNu
+
 #EXTINF:0 type="stream" channelId="-1" name="Africam Nkorho" group="YOUTUBE" logo="https://th.bing.com/th/id/OIG4.ASi71RW2EEls_r8gRV2G?pid=ImgGn", Africam Nkorho
 https://www.youtube.com/embed/dIChLG4_WNs?si=E0EoJIWKZNjI-m7p
 
@@ -51,8 +52,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e
 
 #EXTINF:0 type="stream" channelId="2063" group="United States", Wild TV (1080p)
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="United States", Sci-Fi World
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+
+
+#EXTINF:0 type="favorites" channelId="2826" group="Spain" logo="https://i.imgur.com/VUy8xIG.png", Historia (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="United States" logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png", Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 
 
 #EXTINF:0 type="favorites" channelId="-1" name="AccuWeather NOW" group="Weather" logo="https://i.imgur.com/M8wbVYK.png", AccuWeather NOW
