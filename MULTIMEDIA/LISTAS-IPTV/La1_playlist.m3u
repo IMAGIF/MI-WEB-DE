@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 1",La 1 - Video 1
+https://www.youtube.com/watch?v=icZWlgXHyVM
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 2",La 1 - Video 2
+https://www.youtube.com/watch?v=ZqgkGf4hPMM
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 3",La 1 - Video 3
+https://www.youtube.com/watch?v=6x3e5_Ph5R0
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 4",La 1 - Video 4
+https://www.youtube.com/watch?v=NaSwcNWucWU
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 5",La 1 - Video 5
+https://www.youtube.com/watch?v=gsRe-AQdOs0
