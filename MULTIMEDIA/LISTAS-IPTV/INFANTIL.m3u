@@ -26,10 +26,11 @@ https://www.youtube.com/embed/hnFQ_JkbsHw?si=qMhZAqZfmfuIFdi6
 #EXTINF:0 type="dibujos" channelId="-1" name="PAW PATROL" group="YOUTUBE" logo="https://i.etsystatic.com/38235722/r/il/0cb698/7156430706/il_1588xN.7156430706_2xe8.jpg", 
 https://www.youtube.com/embed/GewwXnJQIU0?si=GJjpTg0bPps7g-os
 
-#EXTINF:0 type="stream" channelId="-1" name="CARS" group="YOUTUBE" logo="https://static.posters.cz/image/750/33475.jpg", 
+#EXTINF:0 type="dibujos" channelId="-1" name="CARS" group="YOUTUBE" logo="https://static.posters.cz/image/750/33475.jpg", 
 https://www.youtube.com/embed/m23Q6biuVpE?si=zQGncKHeaKg5ir1L
 
-
+#EXTINF:0 type="dibujos" channelId="-1" name="MARVEL" group="YOUTUBE" logo="https://cdn.marvel.com/content/1x/marvels_avengers_teamup.jpg", 
+https://www.youtube.com/embed/13GZtHqYrLY?si=Px_Fki2BfkEM5ecE
 
 #EXTINF:0 type="dibujos" channelId="-1" name="TVG Pequerrech@s" group="Galicia" logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", TVG Pequerrech@s
 https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
