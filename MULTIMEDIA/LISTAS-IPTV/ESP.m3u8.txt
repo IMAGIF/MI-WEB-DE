@@ -1,13 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="IMAGIF MÚSICA" tvg-logo="https://yt3.ggpht.com/u6LGqobZPVLJYygycoBfPY3m3ZR8FMVMRj-8mk-q7jBhSASHjNGJ_82QKJFDB784Dpeue9Tc=s176-c-k-c0x00ffffff-no-rj" group-title="Informativos" tvg-name="IMAGIF MÚSICA"
-https://www.youtube.com/embed/videoseries?si=OLJGeabwRBmGW2l8&amp;list=PLoXhorB_HZR0JkFe7PEAloY1WNnGz2gMu
+#EXTINF:-1 tvg-id="IMAGIF MÚSICA" tvg-logo="https://yt3.ggpht.com/u6LGqobZPVLJYygycoBfPY3m3ZR8FMVMRj-8mk-q7jBhSASHjNGJ_82QKJFDB784Dpeue9Tc=s176-c-k-c0x00ffffff-no-rj" group-title="MUSIC" tvg-name="IMAGIF MÚSICA"
+https://youtube.com/playlist?list=PLoXhorB_HZR0JkFe7PEAloY1WNnGz2gMu&si=BfeCwQm9GNMysZMC
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=OLJGeabwRBmGW2l8&amp;list=PLoXhorB_HZR0JkFe7PEAloY1WNnGz2gMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
