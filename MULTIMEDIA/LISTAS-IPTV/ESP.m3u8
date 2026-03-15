@@ -1,8 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
-https://www.youtube.com/watch?v=icZWlgXHyVM&list=PLoXhorB_HZR05KTuL-1Rg4BQZz4b3_exw
+#EXTINF:-1 tvg-id="Elsa de Frozen" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 1",Elsa de Frozen - Video 1
+https://www.youtube.com/watch?v=icZWlgXHyVM
+
+#EXTINF:-1 tvg-id="Un Corazón Roto" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 2",Un Corazón Roto - Video 2
+https://www.youtube.com/watch?v=ZqgkGf4hPMM
+
+#EXTINF:-1 tvg-id="Abrí los Ojos" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 3",Abrí los Ojos - Video 3
+https://www.youtube.com/watch?v=6x3e5_Ph5R0
+
+#EXTINF:-1 tvg-id=Nubes de Amor" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 4",Nubes de Amor - Video 4
+https://www.youtube.com/watch?v=NaSwcNWucWU
+
+#EXTINF:-1 tvg-id="Acordes Ocultos" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1 - Video 5",Acordes Ocultos - Video 5
+https://www.youtube.com/watch?v=gsRe-AQdOs0
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
