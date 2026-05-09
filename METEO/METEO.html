@@ -62,68 +62,60 @@
 
         /* CONTENIDO */
         .container {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 40px 20px;
+            padding: 30px 20px;
         }
 
         .grid-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 30px;
-            padding: 20px;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(2, 1fr);
+            }
         }
 
         .card {
-            border-radius: 20px;
+            border-radius: 15px;
             overflow: hidden;
-            transition: all 0.4s ease;
-            box-shadow: 0 15px 30px rgba(0,0,0,0.2);
-            height: 180px;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(5px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            transition: transform 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            height: 150px;
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(4px);
+            border: 1px solid rgba(255,255,255,0.3);
         }
 
         .card:hover {
-            transform: translateY(-15px) scale(1.02);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            transform: translateY(-10px);
         }
 
         .card a {
             text-decoration: none;
-            color: white;
-            font-weight: bold;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
             padding: 20px;
-        }
-
-        .card h2 {
-            font-size: 1.4rem;
-            margin-top: 10px;
+            height: 100%;
+            width: 100%;
+            color: white;
+            text-align: center;
         }
 
         .icon {
-            font-size: 2.4rem;
-            display: block;
+            font-size: 2.2rem;
+            margin-bottom: 8px;
         }
 
-        /* COLORES DE LAS TARJETAS */
-        .card:nth-child(1) { background: linear-gradient(45deg, #FF416C, #FF4B2B); }
-        .card:nth-child(2) { background: linear-gradient(45deg, #4776E6, #8E54E9); }
-        .card:nth-child(3) { background: linear-gradient(45deg, #00B4DB, #0083B0); }
-        .card:nth-child(4) { background: linear-gradient(45deg, #834d9b, #d04ed6); }
-        .card:nth-child(5) { background: linear-gradient(45deg, #1D976C, #93F9B9); }
-        .card:nth-child(6) { background: linear-gradient(45deg, #ee0979, #ff6a00); }
-        .card:nth-child(7) { background: linear-gradient(45deg, #4776E6, #8E54E9); }
-        .card:nth-child(8) { background: linear-gradient(45deg, #00B4DB, #0083B0); }
-        .card:nth-child(9) { background: linear-gradient(45deg, #834d9b, #d04ed6); }
-        .card:nth-child(10) { background: linear-gradient(45deg, #1D976C, #93F9B9); }
+        .card h2 {
+            font-size: 1.2rem;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+        }
 
         /* PIE DE PÁGINA */
         .page-footer {
@@ -137,30 +129,6 @@
 
         .page-footer p {
             margin: 5px 0;
-        }
-
-        /* RESPONSIVE */
-        @media (max-width: 768px) {
-            .grid-container {
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-                gap: 20px;
-            }
-
-            .card {
-                height: 150px;
-            }
-
-            .card h2 {
-                font-size: 1.1rem;
-            }
-
-            .icon {
-                font-size: 2rem;
-            }
-
-            .page-header h1 {
-                font-size: 1.8rem;
-            }
         }
     </style>
 </head>
@@ -178,7 +146,7 @@
 
             <!-- BOTÓN 1: SOL Y LUNA -->
             <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/SOL Y LUNA.html">
+                <a href="https://imagif.github.io/MI-WEB-DE/METEO/SOL Y LUNA.html">
                     <span class="icon">☀️🌙</span>
                     <h2>SOL Y LUNA</h2>
                 </a>
@@ -186,7 +154,7 @@
 
             <!-- BOTÓN 2: MAREAS -->
             <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/MAREAS.html">
+                <a href="https://imagif.github.io/MI-WEB-DE/METEO/MAREAS.html">
                     <span class="icon">🌊</span>
                     <h2>MAREAS</h2>
                 </a>
@@ -194,13 +162,13 @@
 
             <!-- BOTÓN 3: PUERTOS DEL ESTADO -->
             <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/PUERTOS ESTADO.html">
+                <a href="https://imagif.github.io/MI-WEB-DE/METEO/PUERTOS ESTADO.html">
                     <span class="icon">⚓</span>
                     <h2>PUERTOS DEL ESTADO</h2>
                 </a>
             </div>
 
-            <!-- BOTONES 4–10: ICONO GENÉRICO -->
+            <!-- BOTONES 4–10: DE MOMENTO A INICIO -->
             <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 4</h2></a></div>
             <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 5</h2></a></div>
             <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 6</h2></a></div>
