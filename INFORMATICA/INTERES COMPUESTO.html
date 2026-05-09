@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculadora de Interés Compuesto</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      color: #222;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    /* ENCABEZADO */
+    header {
+      background: black;
+      color: white;
+      padding: 25px;
+      text-align: center;
+      position: relative;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .home-button {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      padding: 12px 24px;
+      background: white;
+      color: black;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .home-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(255,255,255,0.4);
+    }
+
+    /* CONTENIDO */
+    .page-wrapper {
+      max-width: 900px;
+      margin: 40px auto;
+      background: rgba(255,255,255,0.9);
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    }
+
+    .content {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 25px;
+      margin-top: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .content {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    h2 {
+      color: #12355b;
+      margin-bottom: 10px;
+    }
+
+    .form-group {
+      margin-bottom: 12px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 0.9rem;
+      margin-bottom: 4px;
+    }
+
+    .form-group input,
+    .form-group select {
+      width: 100%;
+      padding: 8px 10px;
+      border-radius: 4px;
+      border: 1px solid #bbb;
+      font-size: 0.95rem;
+    }
+
+    .btn-calc {
+      margin-top: 10px;
+      padding: 10px 18px;
+      background: #0b6efd;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .btn-calc:hover {
+      background: #084ec4;
+    }
+
+    .result-box {
+      background: #eef3ff;
+      border-radius: 8px;
+      padding: 15px;
+      border: 1px solid #cdd8f5;
+    }
+
+    .result-value {
+      font-size: 1.3rem;
+      font-weight: bold;
+      color: #0b6efd;
+    }
+
+    /* PIE DE PÁGINA */
+    footer {
+      margin-top: auto;
+      background: black;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 1rem;
+    }
+
+    footer p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
+    <h1>Calculadora Interés Compuesto</h1>
+  </header>
+
+  <div class="page-wrapper">
+    <h2>Introduce los datos</h2>
+
+    <div class="content">
+      <!-- FORMULARIO -->
+      <section>
+        <div class="form-group">
+          <label>Cantidad inicial (€)</label>
+          <input type="number" id="principal" value="1000">
+        </div>
+
+        <div class="form-group">
+          <label>Aportación mensual (€)</label>
+          <input type="number" id="contribucion" value="50">
+        </div>
+
+        <div class="form-group">
+          <label>Tasa de interés anual (%)</label>
+          <input type="number" id="tasa" value="5">
+        </div>
+
+        <div class="form-group">
+          <label>Años</label>
+          <input type="number" id="anos" value="10">
+        </div>
+
+        <div class="form-group">
+          <label>Frecuencia de capitalización</label>
+          <select id="frecuencia">
+            <option value="12">Mensual</option>
+            <option value="4">Trimestral</option>
+            <option value="1">Anual</option>
+          </select>
+        </div>
+
+        <button class="btn-calc" onclick="calcular()">Calcular</button>
+      </section>
+
+      <!-- RESULTADO -->
+      <section>
+        <h2>Resultado</h2>
+        <div class="result-box">
+          <p>Valor futuro estimado:</p>
+          <p id="resultado" class="result-value">—</p>
+          <p id="detalle"></p>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <footer>
+    <p>Creado por #imagif 2025</p>
+    <p>email: imagenesgifs@gmail.com</p>
+  </footer>
+
+  <script>
+    function calcular() {
+      const principal = parseFloat(document.getElementById('principal').value) || 0;
+      const contribucion = parseFloat(document.getElementById('contribucion').value) || 0;
+      const tasa = parseFloat(document.getElementById('tasa').value) || 0;
+      const anos = parseFloat(document.getElementById('anos').value) || 0;
+      const frecuencia = parseFloat(document.getElementById('frecuencia').value) || 1;
+
+      const r = tasa / 100;
+      const n = frecuencia;
+      const t = anos;
+
+      const factor = Math.pow(1 + r / n, n * t);
+      const montoPrincipal = principal * factor;
+      let montoAportes = 0;
+
+      if (r > 0) {
+        montoAportes = contribucion * ((factor - 1) / (r / n));
+      } else {
+        montoAportes = contribucion * n * t;
+      }
+
+      const total = montoPrincipal + montoAportes;
+
+      document.getElementById('resultado').textContent =
+        total.toLocaleString('es-ES', { style: 'currency', currency: 'EUR' });
+
+      document.getElementById('detalle').textContent =
+        `Capital inicial: ${principal} € · Aportación mensual: ${contribucion} € · Años: ${t} · Interés anual: ${tasa}%`;
+    }
+  </script>
+
+</body>
+</html>
