@@ -214,13 +214,11 @@
   <header class="page-header">
     <h1>METEO</h1>
 
-    <!-- SELECTOR DE CIUDAD (OPCIÓN 3) -->
     <div class="city-selector">
       <input type="text" id="city-input" placeholder="Introduce una ciudad">
       <button onclick="searchCity()">Buscar</button>
     </div>
 
-    <!-- DATOS METEO -->
     <div class="meteo-bar">
       <div id="clock">--:--:--</div>
       <div id="weather-icon">⏳</div>
@@ -238,6 +236,7 @@
   <div class="container">
     <div class="grid-container">
 
+      <!-- BOTÓN 1 -->
       <div class="card">
         <a href="https://imagif.github.io/MI-WEB-DE/METEO/SOL Y LUNA.html">
           <span class="icon">☀️🌙</span>
@@ -245,6 +244,7 @@
         </a>
       </div>
 
+      <!-- BOTÓN 2 -->
       <div class="card">
         <a href="https://imagif.github.io/MI-WEB-DE/METEO/MAREAS.html">
           <span class="icon">🌊</span>
@@ -252,6 +252,15 @@
         </a>
       </div>
 
+      <!-- BOTÓN 3 (Marea Coruña) -->
+      <div class="card">
+        <a href="https://tablademareas.com/es/a-coruna/a-coruna#_tabla_mareas">
+          <span class="icon">🌊</span>
+          <h2>MAREA CORUÑA</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 4 (Puertos del Estado) -->
       <div class="card">
         <a href="https://imagif.github.io/MI-WEB-DE/METEO/PUERTOS ESTADO.html">
           <span class="icon">⚓</span>
@@ -259,14 +268,53 @@
         </a>
       </div>
 
-      <!-- BOTONES 4–10 -->
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 4</h2></a></div>
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 5</h2></a></div>
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 6</h2></a></div>
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 7</h2></a></div>
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 8</h2></a></div>
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 9</h2></a></div>
-      <div class="card"><a href="#"><span class="icon">⭐</span><h2>BOTÓN 10</h2></a></div>
+      <!-- BOTÓN 5 – Fase lunar -->
+      <div class="card">
+        <a href="https://www.timeanddate.com/moon/phases/">
+          <span class="icon">🌕</span>
+          <h2>FASE LUNAR</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 6 – Próxima luna llena -->
+      <div class="card">
+        <a href="https://www.timeanddate.com/moon/phases/spain/a-coruna">
+          <span class="icon">🌝</span>
+          <h2>LUNA LLENA</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 7 – Eclipses -->
+      <div class="card">
+        <a href="https://www.timeanddate.com/eclipse/">
+          <span class="icon">🌑</span>
+          <h2>ECLIPSES</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 8 – Mapa de nubes -->
+      <div class="card">
+        <a href="https://www.windy.com/?clouds,43.36,-8.41,8">
+          <span class="icon">☁️</span>
+          <h2>NUBES</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 9 – Radar lluvia -->
+      <div class="card">
+        <a href="https://www.meteogalicia.gal/web/predicion/radar.action">
+          <span class="icon">🌧️</span>
+          <h2>RADAR LLUVIA</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 10 – Índice UV -->
+      <div class="card">
+        <a href="https://www.aemet.es/es/eltiempo/prediccion/radiacionuv">
+          <span class="icon">🌞</span>
+          <h2>ÍNDICE UV</h2>
+        </a>
+      </div>
 
     </div>
   </div>
@@ -278,7 +326,6 @@
 
   <!-- SCRIPT COMPLETO -->
   <script>
-    /* RELOJ */
     function updateClock() {
       const now = new Date();
       document.getElementById('clock').textContent =
@@ -287,7 +334,6 @@
     setInterval(updateClock, 1000);
     updateClock();
 
-    /* CARGAR METEO */
     async function loadWeather(lat, lon) {
       const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&hourly=relativehumidity_2m,pressure_msl,windspeed_10m,precipitation_probability`;
 
@@ -324,12 +370,11 @@
       }
     }
 
-    /* GEOCODIFICAR CIUDAD */
     async function searchCity() {
       const city = document.getElementById("city-input").value.trim();
 
       if (city === "") {
-        loadWeather(43.3623, -8.4115); // A Coruña por defecto
+        loadWeather(43.3623, -8.4115);
         return;
       }
 
@@ -356,7 +401,6 @@
       }
     }
 
-    /* CARGA INICIAL: A CORUÑA */
     loadWeather(43.3623, -8.4115);
   </script>
 
