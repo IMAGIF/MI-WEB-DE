@@ -90,10 +90,10 @@
     }
 
     #weather-icon {
-      font-size: 2rem;
+      font-size: 2.6rem; /* ICONO MÁS GRANDE */
     }
 
-    #pressure, #temp, #humidity, #wind, #rain {
+    #pressure, #temp, #humidity, #wind {
       font-size: 1.2rem;
       color: #fdbb2d;
       font-weight: bold;
@@ -111,10 +111,10 @@
       }
 
       #weather-icon {
-        font-size: 1.8rem;
+        font-size: 2.3rem; /* TAMBIÉN MÁS GRANDE EN MÓVIL */
       }
 
-      #pressure, #temp, #humidity, #wind, #rain {
+      #pressure, #temp, #humidity, #wind {
         font-size: 1.1rem;
       }
     }
@@ -225,7 +225,6 @@
       <div id="temp">--°C</div>
       <div id="humidity">--%</div>
       <div id="wind">-- km/h</div>
-      <div id="rain">--%</div>
       <div id="pressure">---- hPa</div>
     </div>
 
@@ -300,9 +299,9 @@
         </a>
       </div>
 
-      <!-- BOTÓN 9 – Radar lluvia -->
+      <!-- BOTÓN 9 – Radar lluvia (CORREGIDO) -->
       <div class="card">
-        <a href="https://www.meteogalicia.gal/web/predicion/radar.action">
+        <a href="https://www.meteogalicia.gal/web/predicion/portada">
           <span class="icon">🌧️</span>
           <h2>RADAR LLUVIA</h2>
         </a>
@@ -335,7 +334,7 @@
     updateClock();
 
     async function loadWeather(lat, lon) {
-      const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&hourly=relativehumidity_2m,pressure_msl,windspeed_10m,precipitation_probability`;
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&hourly=relativehumidity_2m,pressure_msl,windspeed_10m`;
 
       try {
         const resp = await fetch(url);
@@ -346,7 +345,6 @@
         const wind = data.current_weather.windspeed;
         const humidity = data.hourly.relativehumidity_2m[0];
         const pressure = data.hourly.pressure_msl[0];
-        const rain = data.hourly.precipitation_probability[0];
 
         const icons = {
           0: "☀️", 1: "🌤️", 2: "⛅", 3: "☁️",
@@ -363,7 +361,6 @@
         document.getElementById("humidity").textContent = `${humidity}%`;
         document.getElementById("wind").textContent = `${wind} km/h`;
         document.getElementById("pressure").textContent = `${pressure} hPa`;
-        document.getElementById("rain").textContent = `${rain}%`;
 
       } catch (e) {
         document.getElementById("weather-icon").textContent = "⚠️";
