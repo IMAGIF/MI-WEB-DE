@@ -39,54 +39,15 @@
 
     .page-header h1 {
       font-size: 2rem;
-      margin-bottom: 10px;
+      margin-bottom: 5px;
       letter-spacing: 2px;
     }
 
-    /* BARRA METEO */
-    .meteo-bar {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 35px;
-      margin-bottom: 10px;
-      flex-wrap: wrap;
-    }
-
     #clock {
-      font-size: 1.6rem;
-      font-weight: bold;
+      font-size: 1.1rem;
       color: #fdbb2d;
-    }
-
-    #weather-icon {
-      font-size: 2rem;
-    }
-
-    #pressure, #temp, #humidity, #wind {
-      font-size: 1.2rem;
-      color: #fdbb2d;
+      margin-bottom: 10px;
       font-weight: bold;
-    }
-
-    /* Versión móvil */
-    @media (max-width: 768px) {
-      .meteo-bar {
-        flex-direction: column;
-        gap: 5px;
-      }
-
-      #clock {
-        font-size: 1.3rem;
-      }
-
-      #weather-icon {
-        font-size: 1.8rem;
-      }
-
-      #pressure, #temp, #humidity, #wind {
-        font-size: 1.1rem;
-      }
     }
 
     .home-button {
@@ -122,6 +83,9 @@
     @media (max-width: 768px) {
       .grid-container {
         grid-template-columns: repeat(2, 1fr);
+      }
+      #clock {
+        font-size: 1rem;
       }
     }
 
@@ -184,19 +148,10 @@
 
 <body>
 
-  <!-- ENCABEZADO UNIFICADO CON RELOJ + METEO COMPLETA -->
+  <!-- ENCABEZADO UNIFICADO CON RELOJ -->
   <header class="page-header">
     <h1>METEO</h1>
-
-    <div class="meteo-bar">
-      <div id="clock">--:--:--</div>
-      <div id="weather-icon">⏳</div>
-      <div id="temp">--°C</div>
-      <div id="humidity">--%</div>
-      <div id="wind">-- km/h</div>
-      <div id="pressure">---- hPa</div>
-    </div>
-
+    <div id="clock"></div>
     <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
   </header>
 
@@ -227,7 +182,7 @@
         </a>
       </div>
 
-      <!-- BOTONES 4–10 -->
+      <!-- BOTONES 4–10: DE MOMENTO A INICIO -->
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 4</h2></a></div>
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 5</h2></a></div>
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 6</h2></a></div>
@@ -244,7 +199,7 @@
     <p>email: imagenesgifs@gmail.com</p>
   </footer>
 
-  <!-- SCRIPT DEL RELOJ + METEO -->
+  <!-- SCRIPT DEL RELOJ -->
   <script>
     function updateClock() {
       const now = new Date();
@@ -253,50 +208,6 @@
     }
     setInterval(updateClock, 1000);
     updateClock();
-
-    // --- METEO REAL A CORUÑA ---
-    async function loadWeather() {
-      const lat = 43.3623;
-      const lon = -8.4115;
-
-      const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&hourly=relativehumidity_2m,pressure_msl,windspeed_10m`;
-
-      try {
-        const resp = await fetch(url);
-        const data = await resp.json();
-
-        const code = data.current_weather.weathercode;
-        const temp = data.current_weather.temperature;
-        const wind = data.current_weather.windspeed;
-        const humidity = data.hourly.relativehumidity_2m[0];
-        const pressure = data.hourly.pressure_msl[0];
-
-        const icons = {
-          0: "☀️", 1: "🌤️", 2: "⛅", 3: "☁️",
-          45: "🌫️", 48: "🌫️",
-          51: "🌦️", 53: "🌦️", 55: "🌧️",
-          61: "🌧️", 63: "🌧️", 65: "🌧️",
-          71: "🌨️",
-          80: "🌦️", 81: "🌧️", 82: "⛈️",
-          95: "⛈️", 96: "⛈️", 99: "⛈️"
-        };
-
-        document.getElementById("weather-icon").textContent = icons[code] || "❓";
-        document.getElementById("temp").textContent = `${temp}°C`;
-        document.getElementById("humidity").textContent = `${humidity}%`;
-        document.getElementById("wind").textContent = `${wind} km/h`;
-        document.getElementById("pressure").textContent = `${pressure} hPa`;
-
-      } catch (e) {
-        document.getElementById("weather-icon").textContent = "⚠️";
-        document.getElementById("temp").textContent = "--°C";
-        document.getElementById("humidity").textContent = "--%";
-        document.getElementById("wind").textContent = "-- km/h";
-        document.getElementById("pressure").textContent = "---- hPa";
-      }
-    }
-
-    loadWeather();
   </script>
 
 </body>
