@@ -1,192 +1,303 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>METEO</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>METEO</title>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
-        body {
-            min-height: 100vh;
-            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
-            background-size: 400% 400%;
-            animation: gradient 15s ease infinite;
-            display: flex;
-            flex-direction: column;
-        }
+    body {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      display: flex;
+      flex-direction: column;
+    }
 
-        @keyframes gradient {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
 
-        /* ENCABEZADO UNIFICADO */
-        .page-header {
-            background: black;
-            color: white;
-            padding: 25px 20px;
-            text-align: center;
-            width: 100%;
-        }
+    /* ENCABEZADO UNIFICADO */
+    .page-header {
+      background: black;
+      color: white;
+      padding: 25px 20px;
+      text-align: center;
+      width: 100%;
+    }
 
-        .page-header h1 {
-            font-size: 2rem;
-            margin-bottom: 10px;
-            letter-spacing: 2px;
-        }
+    .page-header h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+      letter-spacing: 2px;
+    }
 
-        .home-button {
-            display: inline-block;
-            margin-top: 10px;
-            padding: 10px 20px;
-            background: white;
-            color: black;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            transition: 0.3s;
-        }
+    /* BARRA METEO */
+    .meteo-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 35px;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+    }
 
-        .home-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(255,255,255,0.4);
-        }
+    #clock {
+      font-size: 1.6rem;
+      font-weight: bold;
+      color: #fdbb2d;
+    }
 
-        /* CONTENIDO */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 30px 20px;
-        }
+    #weather-icon {
+      font-size: 2rem;
+    }
 
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-        }
+    #pressure, #temp, #humidity, #wind {
+      font-size: 1.2rem;
+      color: #fdbb2d;
+      font-weight: bold;
+    }
 
-        @media (max-width: 768px) {
-            .grid-container {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
+    /* Versión móvil */
+    @media (max-width: 768px) {
+      .meteo-bar {
+        flex-direction: column;
+        gap: 5px;
+      }
 
-        .card {
-            border-radius: 15px;
-            overflow: hidden;
-            transition: transform 0.3s ease;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.25);
-            height: 150px;
-            background: linear-gradient(145deg, #0a1a33, #0f2b55); /* AZUL OSCURO */
-            border: 1px solid rgba(255,255,255,0.15);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+      #clock {
+        font-size: 1.3rem;
+      }
 
-        .card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.35);
-        }
+      #weather-icon {
+        font-size: 1.8rem;
+      }
 
-        .card a {
-            text-decoration: none;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            height: 100%;
-            width: 100%;
-            color: white;
-            text-align: center;
-        }
+      #pressure, #temp, #humidity, #wind {
+        font-size: 1.1rem;
+      }
+    }
 
-        .icon {
-            font-size: 2.2rem;
-            margin-bottom: 8px;
-        }
+    .home-button {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
+      background: white;
+      color: black;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
 
-        .card h2 {
-            font-size: 1.2rem;
-            text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
-        }
+    .home-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(255,255,255,0.4);
+    }
 
-        /* PIE DE PÁGINA */
-        .page-footer {
-            margin-top: auto;
-            background: black;
-            color: white;
-            text-align: center;
-            padding: 20px;
-            font-size: 1rem;
-        }
+    /* CONTENIDO */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 30px 20px;
+    }
 
-        .page-footer p {
-            margin: 5px 0;
-        }
-    </style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    .card {
+      border-radius: 15px;
+      overflow: hidden;
+      transition: transform 0.3s ease;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+      height: 150px;
+      background: linear-gradient(145deg, #0a1a33, #0f2b55);
+      border: 1px solid rgba(255,255,255,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 15px 30px rgba(0,0,0,0.35);
+    }
+
+    .card a {
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      height: 100%;
+      width: 100%;
+      color: white;
+      text-align: center;
+    }
+
+    .icon {
+      font-size: 2.2rem;
+      margin-bottom: 8px;
+    }
+
+    .card h2 {
+      font-size: 1.2rem;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    }
+
+    /* PIE DE PÁGINA */
+    .page-footer {
+      margin-top: auto;
+      background: black;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 1rem;
+    }
+
+    .page-footer p {
+      margin: 5px 0;
+    }
+  </style>
 </head>
 
 <body>
 
-    <!-- ENCABEZADO UNIFICADO -->
-    <header class="page-header">
-        <h1>METEO</h1>
-        <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
-    </header>
+  <!-- ENCABEZADO UNIFICADO CON RELOJ + METEO COMPLETA -->
+  <header class="page-header">
+    <h1>METEO</h1>
 
-    <div class="container">
-        <div class="grid-container">
-
-            <!-- BOTÓN 1: SOL Y LUNA -->
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/METEO/SOL Y LUNA.html">
-                    <span class="icon">☀️🌙</span>
-                    <h2>SOL Y LUNA</h2>
-                </a>
-            </div>
-
-            <!-- BOTÓN 2: MAREAS -->
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/METEO/MAREAS.html">
-                    <span class="icon">🌊</span>
-                    <h2>MAREAS</h2>
-                </a>
-            </div>
-
-            <!-- BOTÓN 3: PUERTOS DEL ESTADO -->
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/METEO/PUERTOS ESTADO.html">
-                    <span class="icon">⚓</span>
-                    <h2>PUERTOS DEL ESTADO</h2>
-                </a>
-            </div>
-
-            <!-- BOTONES 4–10: DE MOMENTO A INICIO -->
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 4</h2></a></div>
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 5</h2></a></div>
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 6</h2></a></div>
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 7</h2></a></div>
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 8</h2></a></div>
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 9</h2></a></div>
-            <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 10</h2></a></div>
-
-        </div>
+    <div class="meteo-bar">
+      <div id="clock">--:--:--</div>
+      <div id="weather-icon">⏳</div>
+      <div id="temp">--°C</div>
+      <div id="humidity">--%</div>
+      <div id="wind">-- km/h</div>
+      <div id="pressure">---- hPa</div>
     </div>
 
-    <footer class="page-footer">
-        <p>2025 Creado por #imagif</p>
-        <p>email: imagenesgifs@gmail.com</p>
-    </footer>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
+  </header>
+
+  <div class="container">
+    <div class="grid-container">
+
+      <!-- BOTÓN 1: SOL Y LUNA -->
+      <div class="card">
+        <a href="https://imagif.github.io/MI-WEB-DE/METEO/SOL Y LUNA.html">
+          <span class="icon">☀️🌙</span>
+          <h2>SOL Y LUNA</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 2: MAREAS -->
+      <div class="card">
+        <a href="https://imagif.github.io/MI-WEB-DE/METEO/MAREAS.html">
+          <span class="icon">🌊</span>
+          <h2>MAREAS</h2>
+        </a>
+      </div>
+
+      <!-- BOTÓN 3: PUERTOS DEL ESTADO -->
+      <div class="card">
+        <a href="https://imagif.github.io/MI-WEB-DE/METEO/PUERTOS ESTADO.html">
+          <span class="icon">⚓</span>
+          <h2>PUERTOS DEL ESTADO</h2>
+        </a>
+      </div>
+
+      <!-- BOTONES 4–10 -->
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 4</h2></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 5</h2></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 6</h2></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 7</h2></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 8</h2></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 9</h2></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/"><span class="icon">⭐</span><h2>BOTÓN 10</h2></a></div>
+
+    </div>
+  </div>
+
+  <footer class="page-footer">
+    <p>2025 Creado por #imagif</p>
+    <p>email: imagenesgifs@gmail.com</p>
+  </footer>
+
+  <!-- SCRIPT DEL RELOJ + METEO -->
+  <script>
+    function updateClock() {
+      const now = new Date();
+      const options = { hour: '2-digit', minute: '2-digit', second: '2-digit' };
+      document.getElementById('clock').textContent = now.toLocaleTimeString('es-ES', options);
+    }
+    setInterval(updateClock, 1000);
+    updateClock();
+
+    // --- METEO REAL A CORUÑA ---
+    async function loadWeather() {
+      const lat = 43.3623;
+      const lon = -8.4115;
+
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&hourly=relativehumidity_2m,pressure_msl,windspeed_10m`;
+
+      try {
+        const resp = await fetch(url);
+        const data = await resp.json();
+
+        const code = data.current_weather.weathercode;
+        const temp = data.current_weather.temperature;
+        const wind = data.current_weather.windspeed;
+        const humidity = data.hourly.relativehumidity_2m[0];
+        const pressure = data.hourly.pressure_msl[0];
+
+        const icons = {
+          0: "☀️", 1: "🌤️", 2: "⛅", 3: "☁️",
+          45: "🌫️", 48: "🌫️",
+          51: "🌦️", 53: "🌦️", 55: "🌧️",
+          61: "🌧️", 63: "🌧️", 65: "🌧️",
+          71: "🌨️",
+          80: "🌦️", 81: "🌧️", 82: "⛈️",
+          95: "⛈️", 96: "⛈️", 99: "⛈️"
+        };
+
+        document.getElementById("weather-icon").textContent = icons[code] || "❓";
+        document.getElementById("temp").textContent = `${temp}°C`;
+        document.getElementById("humidity").textContent = `${humidity}%`;
+        document.getElementById("wind").textContent = `${wind} km/h`;
+        document.getElementById("pressure").textContent = `${pressure} hPa`;
+
+      } catch (e) {
+        document.getElementById("weather-icon").textContent = "⚠️";
+        document.getElementById("temp").textContent = "--°C";
+        document.getElementById("humidity").textContent = "--%";
+        document.getElementById("wind").textContent = "-- km/h";
+        document.getElementById("pressure").textContent = "---- hPa";
+      }
+    }
+
+    loadWeather();
+  </script>
 
 </body>
 </html>
