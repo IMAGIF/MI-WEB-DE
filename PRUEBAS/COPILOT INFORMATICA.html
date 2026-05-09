@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFORMÁTICA</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            background-size: 300% 300%;
+            animation: gradient 12s ease infinite;
+            color: white;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        header {
+            width: 100%;
+            padding: 40px 20px;
+            text-align: center;
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(6px);
+            position: relative;
+        }
+
+        header h1 {
+            font-size: 3rem;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            text-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+
+        .home-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 12px 24px;
+            background: white;
+            color: black;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .home-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(255,255,255,0.4);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+
+        .grid-container {
+            display: grid;
+            gap: 35px;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        }
+
+        .card {
+            height: 200px;
+            border-radius: 20px;
+            overflow: hidden;
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255,255,255,0.2);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            transition: 0.4s;
+        }
+
+        .card:hover {
+            transform: translateY(-12px) scale(1.03);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+        }
+
+        .card a {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            color: white;
+            font-size: 1.6rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Colores de tarjetas */
+        .card:nth-child(1) { background: linear-gradient(45deg, #ff416c, #ff4b2b); }
+        .card:nth-child(2) { background: linear-gradient(45deg, #4776e6, #8e54e9); }
+        .card:nth-child(3) { background: linear-gradient(45deg, #00b4db, #0083b0); }
+        .card:nth-child(4) { background: linear-gradient(45deg, #834d9b, #d04ed6); }
+        .card:nth-child(5) { background: linear-gradient(45deg, #1d976c, #93f9b9); }
+        .card:nth-child(6) { background: linear-gradient(45deg, #ee0979, #ff6a00); }
+        .card:nth-child(7) { background: linear-gradient(45deg, #4776e6, #8e54e9); }
+        .card:nth-child(8) { background: linear-gradient(45deg, #00b4db, #0083b0); }
+        .card:nth-child(9) { background: linear-gradient(45deg, #834d9b, #d04ed6); }
+        .card:nth-child(10) { background: linear-gradient(45deg, #1d976c, #93f9b9); }
+
+        footer {
+            margin-top: 60px;
+            padding: 25px;
+            text-align: center;
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(6px);
+        }
+
+        footer p {
+            margin: 6px 0;
+            font-size: 1.1rem;
+        }
+
+        @media (max-width: 768px) {
+            header h1 { font-size: 2.2rem; }
+            .card { height: 160px; }
+            .card a { font-size: 1.3rem; }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
+        <h1>INFORMÁTICA</h1>
+    </header>
+
+    <div class="container">
+        <div class="grid-container">
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/VIDEO.html">VIDEOS</a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/IMAGEN.html">IMAGEN</a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/SONIDO.html">SONIDO</a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/IA.html">I.A.</a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/WINDOWS/">WINDOWS</a>
+            </div>
+
+            <div class="card">
+                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/UTILIDAD.html">UTILIDAD</a>
+            </div>
+
+            <div class="card">
+                <a href="#">BOTON 7</a>
+            </div>
+
+            <div class="card">
+                <a href="#">BOTON 8</a>
+            </div>
+
+            <div class="card">
+                <a href="#">BOTON 9</a>
+            </div>
+
+            <div class="card">
+                <a href="#">BOTON 10</a>
+            </div>
+
+        </div>
+    </div>
+
+    <footer>
+        <p>2025 Creado por #imagif</p>
+        <p>email: imagenesgifs@gmail.com</p>
+    </footer>
+
+</body>
+</html>
