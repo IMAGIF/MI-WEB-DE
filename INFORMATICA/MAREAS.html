@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mareas España - Utilidades</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; }
+
+    body {
+      background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      color: #222;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    header {
+      background: black;
+      color: white;
+      padding: 25px;
+      text-align: center;
+      position: relative;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .home-button {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      padding: 12px 24px;
+      background: white;
+      color: black;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .home-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(255,255,255,0.4);
+    }
+
+    .page-wrapper {
+      max-width: 700px;
+      margin: 40px auto;
+      background: rgba(255,255,255,0.95);
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+
+    h2 { color: #12355b; margin-bottom: 10px; }
+
+    p.desc { font-size: 0.95rem; margin-bottom: 20px; }
+
+    input {
+      width: 100%;
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #bbb;
+      margin-bottom: 15px;
+      font-size: 1rem;
+    }
+
+    .btn {
+      padding: 12px 20px;
+      background: #0b6efd;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .btn:hover { background: #084ec4; }
+
+    .error { color: #b00020; margin-top: 10px; }
+
+    footer {
+      margin-top: auto;
+      background: black;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
+    <h1>Mareas España</h1>
+  </header>
+
+  <div class="page-wrapper">
+    <h2>Consulta de mareas por ciudad</h2>
+    <p class="desc">
+      Escribe una ciudad costera de España para abrir su tabla de mareas en tablademareas.com
+    </p>
+
+    <input type="text" id="city" placeholder="Ejemplo: A Coruña, Vigo, Cádiz, Barcelona...">
+
+    <button class="btn" onclick="buscarMareas()">Ver mareas</button>
+
+    <p id="error" class="error"></p>
+  </div>
+
+  <footer>
+    <p>Creado por #imagif 2025</p>
+    <p>email: imagenesgifs@gmail.com</p>
+  </footer>
+
+  <script>
+    function normalizarTexto(txt) {
+      return txt
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/ /g, "-");
+    }
+
+    function buscarMareas() {
+      const city = document.getElementById("city").value.trim();
+      const error = document.getElementById("error");
+      error.textContent = "";
+
+      if (!city) {
+        error.textContent = "Por favor, escribe una ciudad costera.";
+        return;
+      }
+
+      const ciudadURL = normalizarTexto(city);
+
+      const url = `https://tablademareas.com/es/${ciudadURL}/${ciudadURL}`;
+
+      window.open(url, "_blank");
+    }
+  </script>
+
+</body>
+</html>

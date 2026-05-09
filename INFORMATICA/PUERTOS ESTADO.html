@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mareas España - Utilidades</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      color: #222;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    header {
+      background: black;
+      color: white;
+      padding: 25px;
+      text-align: center;
+      position: relative;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .home-button {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      padding: 12px 24px;
+      background: white;
+      color: black;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .home-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(255,255,255,0.4);
+    }
+
+    .page-wrapper {
+      max-width: 900px;
+      margin: 40px auto;
+      background: rgba(255,255,255,0.95);
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    }
+
+    h2 {
+      color: #12355b;
+      margin-bottom: 10px;
+    }
+
+    p.desc {
+      font-size: 0.95rem;
+      margin-bottom: 15px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .group-title {
+      margin-top: 20px;
+      font-weight: bold;
+      color: #12355b;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 4px;
+    }
+
+    .port-link {
+      display: block;
+      padding: 8px 10px;
+      background: #eef3ff;
+      border-radius: 6px;
+      text-decoration: none;
+      color: #12355b;
+      font-size: 0.95rem;
+      border: 1px solid #d0dcff;
+      transition: 0.2s;
+    }
+
+    .port-link:hover {
+      background: #d9e4ff;
+      transform: translateY(-1px);
+    }
+
+    .port-link span {
+      font-size: 0.85rem;
+      color: #555;
+    }
+
+    footer {
+      margin-top: auto;
+      background: black;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 1rem;
+    }
+
+    footer p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
+    <h1>Mareas España</h1>
+  </header>
+
+  <div class="page-wrapper">
+    <h2>Consulta oficial de mareas en España</h2>
+    <p class="desc">
+      Selecciona un puerto para abrir la página oficial de mareas de Puertos del Estado.
+      Allí podrás ver las horas de pleamar y bajamar, alturas y gráficas detalladas.
+    </p>
+
+    <!-- CANTÁBRICO / GALICIA -->
+    <div class="group-title">Galicia y Cantábrico</div>
+    <div class="grid">
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=coruna" target="_blank">
+        A Coruña<br><span>Puerto de A Coruña</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=ferrol" target="_blank">
+        Ferrol<br><span>Ría de Ferrol</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=vigo" target="_blank">
+        Vigo<br><span>Ría de Vigo</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=vilagarcia" target="_blank">
+        Vilagarcía<br><span>Ría de Arousa</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=aviles" target="_blank">
+        Avilés<br><span>Asturias</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=gijon" target="_blank">
+        Gijón<br><span>Asturias</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=santander" target="_blank">
+        Santander<br><span>Cantabria</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=bilbao" target="_blank">
+        Bilbao<br><span>País Vasco</span>
+      </a>
+    </div>
+
+    <!-- ATLÁNTICO ANDALUZ -->
+    <div class="group-title">Atlántico andaluz</div>
+    <div class="grid">
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=huelva" target="_blank">
+        Huelva<br><span>Andalucía</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=cadiz" target="_blank">
+        Cádiz<br><span>Bahía de Cádiz</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=algeciras" target="_blank">
+        Algeciras<br><span>Estrecho de Gibraltar</span>
+      </a>
+    </div>
+
+    <!-- MEDITERRÁNEO PENINSULAR -->
+    <div class="group-title">Mediterráneo peninsular</div>
+    <div class="grid">
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=malaga" target="_blank">
+        Málaga<br><span>Costa del Sol</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=almeria" target="_blank">
+        Almería<br><span>Andalucía oriental</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=cartagena" target="_blank">
+        Cartagena<br><span>Murcia</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=valencia" target="_blank">
+        Valencia<br><span>Comunidad Valenciana</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=castellon" target="_blank">
+        Castellón<br><span>Comunidad Valenciana</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=tarragona" target="_blank">
+        Tarragona<br><span>Cataluña</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=barcelona" target="_blank">
+        Barcelona<br><span>Cataluña</span>
+      </a>
+    </div>
+
+    <!-- ISLAS BALEARES -->
+    <div class="group-title">Islas Baleares</div>
+    <div class="grid">
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=palma" target="_blank">
+        Palma de Mallorca<br><span>Mallorca</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=mahon" target="_blank">
+        Maó-Mahón<br><span>Menorca</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=ibiza" target="_blank">
+        Ibiza<br><span>Ibiza</span>
+      </a>
+    </div>
+
+    <!-- ISLAS CANARIAS -->
+    <div class="group-title">Islas Canarias</div>
+    <div class="grid">
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=laspalmas" target="_blank">
+        Las Palmas<br><span>Gran Canaria</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=santacruz" target="_blank">
+        Santa Cruz de Tenerife<br><span>Tenerife</span>
+      </a>
+      <a class="port-link" href="https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx?port=arrecife" target="_blank">
+        Arrecife<br><span>Lanzarote</span>
+      </a>
+    </div>
+
+    <p class="desc" style="margin-top:25px; font-size:0.9rem;">
+      Los datos de mareas mostrados en las páginas enlazadas proceden de
+      <strong>Puertos del Estado</strong>, organismo oficial de referencia en España.
+    </p>
+  </div>
+
+  <footer>
+    <p>Creado por #imagif 2025</p>
+    <p>email: imagenesgifs@gmail.com</p>
+  </footer>
+
+</body>
+</html>
