@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mareas España - Utilidades</title>
+  <title>Mareas España - Puertos del Estado</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -10,17 +10,17 @@
       box-sizing: border-box;
       margin: 0;
       padding: 0;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
     body {
+      min-height: 100vh;
       background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
       background-size: 400% 400%;
       animation: gradient 15s ease infinite;
-      color: #222;
-      min-height: 100vh;
       display: flex;
       flex-direction: column;
+      color: #222;
     }
 
     @keyframes gradient {
@@ -29,28 +29,27 @@
       100% { background-position: 0% 50%; }
     }
 
-    header {
+    /* ENCABEZADO UNIFICADO */
+    .page-header {
       background: black;
       color: white;
-      padding: 25px;
+      padding: 25px 20px;
       text-align: center;
-      position: relative;
+      width: 100%;
     }
 
-    header h1 {
-      font-size: 2.2rem;
-      text-transform: uppercase;
-      letter-spacing: 2px;
+    .page-header h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
     }
 
     .home-button {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      padding: 12px 24px;
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
       background: white;
       color: black;
-      border-radius: 25px;
+      border-radius: 5px;
       text-decoration: none;
       font-weight: bold;
       transition: 0.3s;
@@ -61,6 +60,7 @@
       box-shadow: 0 6px 20px rgba(255,255,255,0.4);
     }
 
+    /* CONTENIDO */
     .page-wrapper {
       max-width: 900px;
       margin: 40px auto;
@@ -117,7 +117,8 @@
       color: #555;
     }
 
-    footer {
+    /* PIE DE PÁGINA UNIFICADO */
+    .page-footer {
       margin-top: auto;
       background: black;
       color: white;
@@ -126,7 +127,7 @@
       font-size: 1rem;
     }
 
-    footer p {
+    .page-footer p {
       margin: 5px 0;
     }
   </style>
@@ -134,9 +135,10 @@
 
 <body>
 
-  <header>
-    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
+  <!-- ENCABEZADO UNIFICADO -->
+  <header class="page-header">
     <h1>Mareas España</h1>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
   </header>
 
   <div class="page-wrapper">
@@ -249,7 +251,7 @@
     </p>
   </div>
 
-  <footer>
+  <footer class="page-footer">
     <p>Creado por #imagif 2025</p>
     <p>email: imagenesgifs@gmail.com</p>
   </footer>

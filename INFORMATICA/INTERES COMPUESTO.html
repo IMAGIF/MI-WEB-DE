@@ -10,17 +10,17 @@
       box-sizing: border-box;
       margin: 0;
       padding: 0;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
     body {
+      min-height: 100vh;
       background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
       background-size: 400% 400%;
       animation: gradient 15s ease infinite;
-      color: #222;
-      min-height: 100vh;
       display: flex;
       flex-direction: column;
+      color: #222;
     }
 
     @keyframes gradient {
@@ -29,29 +29,27 @@
       100% { background-position: 0% 50%; }
     }
 
-    /* ENCABEZADO */
-    header {
+    /* ENCABEZADO UNIFICADO */
+    .page-header {
       background: black;
       color: white;
-      padding: 25px;
+      padding: 25px 20px;
       text-align: center;
-      position: relative;
+      width: 100%;
     }
 
-    header h1 {
-      font-size: 2.2rem;
-      text-transform: uppercase;
-      letter-spacing: 2px;
+    .page-header h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
     }
 
     .home-button {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      padding: 12px 24px;
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
       background: white;
       color: black;
-      border-radius: 25px;
+      border-radius: 5px;
       text-decoration: none;
       font-weight: bold;
       transition: 0.3s;
@@ -139,7 +137,7 @@
     }
 
     /* PIE DE PÁGINA */
-    footer {
+    .page-footer {
       margin-top: auto;
       background: black;
       color: white;
@@ -148,7 +146,7 @@
       font-size: 1rem;
     }
 
-    footer p {
+    .page-footer p {
       margin: 5px 0;
     }
   </style>
@@ -156,9 +154,10 @@
 
 <body>
 
-  <header>
+  <!-- ENCABEZADO UNIFICADO -->
+  <header class="page-header">
+    <h1>Calculadora de Interés Compuesto</h1>
     <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
-    <h1>Calculadora Interés Compuesto</h1>
   </header>
 
   <div class="page-wrapper">
@@ -211,7 +210,7 @@
     </div>
   </div>
 
-  <footer>
+  <footer class="page-footer">
     <p>Creado por #imagif 2025</p>
     <p>email: imagenesgifs@gmail.com</p>
   </footer>
