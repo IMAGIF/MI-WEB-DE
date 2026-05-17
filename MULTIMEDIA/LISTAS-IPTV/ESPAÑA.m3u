@@ -6,7 +6,7 @@ https://www.youtube.com/embed/giLnfariO-8?si=0yWKOZBpMZ8MbVfW
 
 
 #EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
-https://www.youtube.com/embed/lnGAjJK8Vqw?si=tjBbofWujsHMDvWO
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=embedded&cpn=T7kaeNpTr4G0bgGI&ver=2&cmt=5094.986&fmt=398&fs=0&rt=422.018&euri=https%3A%2F%2Fwww.libertaddigital.com%2F&lact=57390&live=dvr&cl=914399729&state=playing&volume=100&subscribed=1&cbr=Edge%20Chromium&cbrver=148.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20260515.01.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=es_ES&cr=ES&uga=m57&rtn=462&afmt=140&lio=1779040636.484&idpj=-8&ldpj=-12&rti=422&size=460%3A260%3A1.4249999523162842&inview=0&st=5054.975&et=5094.986&muted=0&docid=giLnfariO-8&ei=3xMKaozWKc_ap-oPyoul6QM&plid=AAZSCEXAx_xb7wff&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgiLnfariO-8%3Fhl%3Des%26rel%3D0%26ap%3D1&of=kfke2gtQD-gpho9y47DNyw&vm=CAEQARgEOjJBSHFpSlRLcWw1NEdQdVhGRGJkMDJ3d2VVZmJPZHhQSTI4OTJTaGIyTk5tSlhLQ1B5Z2JjQUxkcUFQS0hNbEJORmRTNWRMTHg5UjBYUmJoWmdlWUdvU2VjOWRnblNoR0JsRGtBNHI3MjRKVHp3LVc2ZG5uUTlpSk5tUjZxekNOMTFZWnRMdi04MTZudU1fT3EwVEFhQkc0
 
 #EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
