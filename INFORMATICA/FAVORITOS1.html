@@ -12,7 +12,6 @@
       --border: #1f2433;
       --accent1: #4f8aff;
       --accent2: #ff6b6b;
-      --accent3: #a78bfa;
       --text: #e8eaf0;
       --muted: #5a6278;
       --card-hover: #1c2030;
@@ -60,38 +59,6 @@
       text-align: center;
       margin-bottom: 3.5rem;
       animation: fadeDown 0.6s ease both;
-      position: relative;
-    }
-
-    /* Botón Inicio */
-    .home-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.45rem;
-      padding: 0.4rem 1rem;
-      border-radius: 999px;
-      background: rgba(79,138,255,0.1);
-      border: 1px solid rgba(79,138,255,0.28);
-      color: #7aabff;
-      font-family: 'Syne', sans-serif;
-      font-weight: 700;
-      font-size: 0.78rem;
-      letter-spacing: 0.05em;
-      text-decoration: none;
-      text-transform: uppercase;
-      transition: background 0.2s, border-color 0.2s, color 0.2s, transform 0.2s;
-      margin-bottom: 1.1rem;
-    }
-
-    .home-btn:hover {
-      background: rgba(79,138,255,0.2);
-      border-color: rgba(79,138,255,0.5);
-      color: #aac8ff;
-      transform: translateY(-1px);
-    }
-
-    .home-btn .home-icon {
-      font-size: 0.85rem;
     }
 
     header h1 {
@@ -119,7 +86,6 @@
     }
     .section:nth-child(2) { animation-delay: 0.1s; }
     .section:nth-child(3) { animation-delay: 0.2s; }
-    .section:nth-child(4) { animation-delay: 0.3s; }
 
     .section-header {
       display: flex;
@@ -153,19 +119,12 @@
       color: #ff9090;
     }
 
-    .section-pill.purple {
-      background: rgba(167,139,250,0.12);
-      border: 1px solid rgba(167,139,250,0.25);
-      color: #c4b0fd;
-    }
-
     .section-pill .dot {
       width: 6px; height: 6px;
       border-radius: 50%;
     }
-    .section-pill.blue .dot   { background: #4f8aff; }
-    .section-pill.red .dot    { background: #ff6b6b; }
-    .section-pill.purple .dot { background: #a78bfa; }
+    .section-pill.blue .dot { background: #4f8aff; }
+    .section-pill.red .dot { background: #ff6b6b; }
 
     .count-badge {
       font-size: 0.75rem;
@@ -211,9 +170,6 @@
     .section-red .btn-link::before {
       background: linear-gradient(135deg, rgba(255,107,107,0.06), transparent);
     }
-    .section-purple .btn-link::before {
-      background: linear-gradient(135deg, rgba(167,139,250,0.06), transparent);
-    }
 
     .btn-link:hover {
       background: var(--card-hover);
@@ -231,11 +187,6 @@
       box-shadow: 0 8px 24px rgba(255,107,107,0.12);
     }
 
-    .section-purple .btn-link:hover {
-      border-color: rgba(167,139,250,0.4);
-      box-shadow: 0 8px 24px rgba(167,139,250,0.12);
-    }
-
     .btn-link:hover::before { opacity: 1; }
 
     .btn-icon {
@@ -246,9 +197,12 @@
       font-size: 1rem;
     }
 
-    .section-blue .btn-icon   { background: rgba(79,138,255,0.12); }
-    .section-red .btn-icon    { background: rgba(255,107,107,0.12); }
-    .section-purple .btn-icon { background: rgba(167,139,250,0.12); }
+    .section-blue .btn-icon {
+      background: rgba(79,138,255,0.12);
+    }
+    .section-red .btn-icon {
+      background: rgba(255,107,107,0.12);
+    }
 
     .btn-label {
       font-size: 0.88rem;
@@ -264,16 +218,15 @@
       flex-shrink: 0;
     }
 
-    .section-blue .btn-link:hover .btn-arrow   { color: #4f8aff; transform: translateX(3px); }
-    .section-red .btn-link:hover .btn-arrow    { color: #ff6b6b; transform: translateX(3px); }
-    .section-purple .btn-link:hover .btn-arrow { color: #a78bfa; transform: translateX(3px); }
+    .section-blue .btn-link:hover .btn-arrow { color: #4f8aff; transform: translateX(3px); }
+    .section-red .btn-link:hover .btn-arrow { color: #ff6b6b; transform: translateX(3px); }
 
     footer {
       text-align: center;
       margin-top: 4rem;
       color: var(--muted);
       font-size: 0.8rem;
-      animation: fadeUp 0.5s ease 0.5s both;
+      animation: fadeUp 0.5s ease 0.4s both;
     }
 
     @keyframes fadeDown {
@@ -294,16 +247,11 @@
 <div class="wrapper">
 
   <header>
-    <div>
-      <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html" target="_blank" rel="noopener">
-        <span class="home-icon">🏠</span> Inicio
-      </a>
-    </div>
     <h1>⭐ Mis Favoritos Web</h1>
     <p>Accesos rápidos a tus enlaces guardados</p>
   </header>
 
-  <!-- SECCIÓN 1: INFORMÁTICA -->
+  <!-- SECCIÓN 1: INFOT -->
   <div class="section section-blue">
     <div class="section-header">
       <span class="section-pill blue"><span class="dot"></span>Informática</span>
@@ -331,7 +279,7 @@
 
       <a class="btn-link" href="https://fsymbols.com/es/signos/euro/" target="_blank" rel="noopener">
         <span class="btn-icon">😊</span>
-        <span class="btn-label">Símbolos &amp; Emojis</span>
+        <span class="btn-label">Símbolos & Emojis</span>
         <span class="btn-arrow">→</span>
       </a>
 
@@ -362,7 +310,7 @@
     </div>
   </div>
 
-  <!-- SECCIÓN 2: MIS WEBS -->
+  <!-- SECCIÓN 2: MIS WEB -->
   <div class="section section-red">
     <div class="section-header">
       <span class="section-pill red"><span class="dot"></span>Mis Webs</span>
@@ -415,23 +363,6 @@
       <a class="btn-link" href="https://wordpress.com/home/vestidosnoche.wordpress.com" target="_blank" rel="noopener">
         <span class="btn-icon">👗</span>
         <span class="btn-label">Vestidos</span>
-        <span class="btn-arrow">→</span>
-      </a>
-
-    </div>
-  </div>
-
-  <!-- SECCIÓN 3: FAVORITOS EDGE -->
-  <div class="section section-purple">
-    <div class="section-header">
-      <span class="section-pill purple"><span class="dot"></span>Favoritos Edge</span>
-      <span class="count-badge">1 enlace</span>
-    </div>
-    <div class="grid">
-
-      <a class="btn-link" href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/FAVORITOS EDGE.html" target="_blank" rel="noopener">
-        <span class="btn-icon">⭐</span>
-        <span class="btn-label">Mis Favoritos Edge — Organizados</span>
         <span class="btn-arrow">→</span>
       </a>
 
