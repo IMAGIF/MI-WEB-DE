@@ -4,6 +4,9 @@
 #EXTINF:0 type="stream" channelId="-1" name="ESRADIO" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/EsRadio_logo.svg/1280px-EsRadio_logo.svg.png", ESRADIO
 https://www.youtube.com/embed/giLnfariO-8?si=0yWKOZBpMZ8MbVfW
 
+#EXTINF:-1 tvg-name="Libertad Digital" tvg-logo="https://s.libertaddigital.com/logos/ld/256.png", Libertad Digital (Directo)
+https://www.youtube.com/watch?v=giLnfariO-8
+
 
 #EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
 https://esradio.libertaddigital.com/directo.html
