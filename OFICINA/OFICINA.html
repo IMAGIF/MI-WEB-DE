@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>10 Objetos Imprescindibles para tu Mesa de Oficina | Las Mejores Ofertas</title>
+  <meta name="description" content="Descubre los 10 objetos imprescindibles que no pueden faltar en ninguna mesa de oficina. Pinzas, grapadora, organizadores y mucho más. Haz clic en las imágenes para ver las mejores ofertas."/>
+  <meta name="keywords" content="material de oficina, objetos para escritorio, mesa de oficina, papelería, organizadores de escritorio, grapadora, pinzas metálicas, material escolar"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --navy:   #002366;
+      --navy2:  #003080;
+      --gold:   #c8a96e;
+      --gold2:  #e8c98e;
+      --cream:  #f9f6f0;
+      --white:  #ffffff;
+      --text:   #1a1a2e;
+      --muted:  #6b7280;
+      --border: #e5ddd0;
+      --shadow: rgba(0,35,102,0.10);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Lato', sans-serif;
+      background: var(--cream);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: linear-gradient(135deg, var(--navy) 0%, var(--navy2) 100%);
+      color: var(--white);
+      padding: 2.2rem 1.5rem 2rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse at 20% 50%, rgba(200,169,110,0.12) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 30%, rgba(200,169,110,0.08) 0%, transparent 50%);
+      pointer-events: none;
+    }
+
+    /* Botón Inicio */
+    .home-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      padding: .35rem .9rem;
+      border-radius: 999px;
+      border: 1px solid rgba(200,169,110,0.5);
+      background: rgba(200,169,110,0.12);
+      color: var(--gold2);
+      font-family: 'Lato', sans-serif;
+      font-size: .75rem;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      transition: background .2s, border-color .2s;
+      margin-bottom: 1.2rem;
+      position: relative;
+      z-index: 1;
+    }
+    .home-btn:hover {
+      background: rgba(200,169,110,0.22);
+      border-color: var(--gold2);
+    }
+
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.6rem, 5vw, 2.8rem);
+      font-weight: 900;
+      line-height: 1.2;
+      letter-spacing: -.5px;
+      margin-bottom: .6rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    header h1 span {
+      color: var(--gold2);
+    }
+
+    .header-sub {
+      font-size: clamp(.85rem, 2vw, 1rem);
+      font-weight: 300;
+      color: rgba(255,255,255,.75);
+      max-width: 640px;
+      margin: 0 auto;
+      line-height: 1.6;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Franja CTA */
+    .cta-strip {
+      background: var(--gold);
+      color: var(--navy);
+      text-align: center;
+      padding: .75rem 1.5rem;
+      font-size: .88rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+    }
+
+    .cta-strip span {
+      font-weight: 300;
+      font-style: italic;
+    }
+
+    /* ── MAIN ── */
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 2.5rem 1.2rem 4rem;
+    }
+
+    /* ── PRODUCTO ── */
+    .product {
+      display: grid;
+      grid-template-columns: 200px 1fr;
+      gap: 0;
+      background: var(--white);
+      border-radius: 16px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 20px var(--shadow);
+      margin-bottom: 1.5rem;
+      overflow: hidden;
+      transition: transform .25s, box-shadow .25s;
+      animation: fadeUp .5s ease both;
+    }
+
+    .product:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 32px rgba(0,35,102,0.15);
+    }
+
+    /* Número de orden */
+    .product-num {
+      position: absolute;
+      top: 12px; left: 12px;
+      width: 28px; height: 28px;
+      background: var(--navy);
+      color: var(--gold2);
+      border-radius: 50%;
+      font-family: 'Playfair Display', serif;
+      font-size: .78rem;
+      font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      z-index: 2;
+    }
+
+    /* Imagen */
+    .product-img-wrap {
+      position: relative;
+      background: #f0ede8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.2rem;
+      min-height: 170px;
+      cursor: pointer;
+    }
+
+    .product-img-wrap img {
+      width: 130px;
+      height: 130px;
+      object-fit: contain;
+      transition: transform .3s;
+      display: block;
+    }
+
+    .product-img-wrap:hover img {
+      transform: scale(1.07);
+    }
+
+    /* Badge "Ver oferta" sobre la imagen */
+    .offer-badge {
+      position: absolute;
+      bottom: 10px; left: 50%;
+      transform: translateX(-50%);
+      background: var(--gold);
+      color: var(--navy);
+      font-size: .65rem;
+      font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      padding: .22rem .65rem;
+      border-radius: 999px;
+      white-space: nowrap;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity .2s;
+    }
+
+    .product-img-wrap:hover .offer-badge {
+      opacity: 1;
+    }
+
+    /* Texto */
+    .product-body {
+      padding: 1.4rem 1.6rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: .5rem;
+      border-left: 3px solid var(--gold);
+    }
+
+    .product-tag {
+      font-size: .68rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--gold);
+    }
+
+    .product-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--navy);
+      line-height: 1.2;
+    }
+
+    .product-desc {
+      font-size: .88rem;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .product-link {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      margin-top: .3rem;
+      font-size: .78rem;
+      font-weight: 700;
+      color: var(--navy);
+      text-decoration: none;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      border-bottom: 2px solid var(--gold);
+      padding-bottom: 1px;
+      width: fit-content;
+      transition: color .2s, border-color .2s;
+    }
+
+    .product-link:hover {
+      color: var(--gold);
+      border-color: var(--gold2);
+    }
+
+    /* Numeración con stagger */
+    .product:nth-child(1)  { animation-delay: .05s; }
+    .product:nth-child(2)  { animation-delay: .10s; }
+    .product:nth-child(3)  { animation-delay: .15s; }
+    .product:nth-child(4)  { animation-delay: .20s; }
+    .product:nth-child(5)  { animation-delay: .25s; }
+    .product:nth-child(6)  { animation-delay: .30s; }
+    .product:nth-child(7)  { animation-delay: .35s; }
+    .product:nth-child(8)  { animation-delay: .40s; }
+    .product:nth-child(9)  { animation-delay: .45s; }
+    .product:nth-child(10) { animation-delay: .50s; }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--navy);
+      color: rgba(255,255,255,.6);
+      text-align: center;
+      padding: 1.2rem 1rem;
+      font-size: .78rem;
+      letter-spacing: .03em;
+    }
+
+    footer a {
+      color: var(--gold2);
+      text-decoration: none;
+    }
+
+    /* ── ANIMACIONES ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 600px) {
+      .product {
+        grid-template-columns: 1fr;
+      }
+      .product-img-wrap {
+        min-height: 160px;
+        border-left: none;
+        border-bottom: 3px solid var(--gold);
+      }
+      .product-body {
+        border-left: none;
+        border-top: none;
+        padding: 1.1rem 1.1rem 1.3rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/">🏠 Inicio</a>
+  </div>
+  <h1>Los <span>10 Objetos Imprescindibles</span><br>para tu Mesa de Oficina</h1>
+  <p class="header-sub">Todo lo que necesitas tener a mano para trabajar con orden, comodidad y eficiencia cada día.</p>
+</header>
+
+<div class="cta-strip">
+  ¿Buscas la mejor oferta? <span>Haz clic en cualquier imagen para ver los mejores precios en Amazon.</span>
+</div>
+
+<main>
+
+  <!-- 1. PINZAS METÁLICAS -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/4wCOm1H" target="_blank" rel="noopener sponsored" title="Ver ofertas de Pinzas Metálicas en Amazon">
+      <span class="product-num">1</span>
+      <img src="IMAGEN/OFICINA/IMAGEN1.avif" alt="Pinzas metálicas para documentos"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 1</span>
+      <h2 class="product-title">Pinzas Metálicas para Documentos</h2>
+      <p class="product-desc">Resistentes y duraderas, las pinzas metálicas son indispensables para sujetar folios, facturas y documentos sin dañarlos. Se presentan en varios tamaños —desde 19 mm hasta 51 mm— para adaptarse a cualquier grosor de papel. Un básico que nunca falta en ningún escritorio.</p>
+      <a class="product-link" href="https://amzn.to/4wCOm1H" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 2. GRAPADORA -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE2" target="_blank" rel="noopener sponsored" title="Ver ofertas de Grapadoras en Amazon">
+      <span class="product-num">2</span>
+      <img src="IMAGEN/OFICINA/IMAGEN2.avif" alt="Grapadora de escritorio"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 2</span>
+      <h2 class="product-title">Grapadora de Escritorio</h2>
+      <p class="product-desc">Compacta y eficiente, una buena grapadora mantiene tus documentos ordenados y unidos de forma segura. Los modelos con capacidad para 20-30 hojas son perfectos para uso diario en casa u oficina. Busca una con base antideslizante para mayor comodidad.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE2" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 3. DISPENSADOR DE CLIPS -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE3" target="_blank" rel="noopener sponsored" title="Ver ofertas de Dispensador de Clips en Amazon">
+      <span class="product-num">3</span>
+      <img src="IMAGEN/OFICINA/IMAGEN3.avif" alt="Dispensador de clips metálicos para escritorio"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 3</span>
+      <h2 class="product-title">Dispensador de Clips</h2>
+      <p class="product-desc">Un práctico dispensador magnético o de plástico que mantiene tus clips a mano y sin enredos. Los clips de papel son esenciales para organizar documentos de forma provisional y el dispensador hace que cogerlos sea rápido y sin complicaciones. Incluye clips surtidos en varios tamaños.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE3" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 4. ORGANIZADOR DE BOLÍGRAFOS Y LÁPICES -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE4" target="_blank" rel="noopener sponsored" title="Ver ofertas de Organizadores de Escritorio en Amazon">
+      <span class="product-num">4</span>
+      <img src="IMAGEN/OFICINA/IMAGEN4.avif" alt="Bote organizador para bolígrafos y lápices de escritorio"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 4</span>
+      <h2 class="product-title">Organizador de Bolígrafos y Lápices</h2>
+      <p class="product-desc">Un bote o portaútiles mantiene bolígrafos, lápices, rotuladores y tijeras siempre a la vista y accesibles. Los modelos con varios compartimentos permiten separar cada herramienta, ahorrando tiempo y evitando el caos sobre la mesa. Disponibles en madera, metal o bambú.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE4" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 5. TIJERAS DE OFICINA -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE5" target="_blank" rel="noopener sponsored" title="Ver ofertas de Tijeras de Oficina en Amazon">
+      <span class="product-num">5</span>
+      <img src="IMAGEN/OFICINA/IMAGEN5.avif" alt="Tijeras de oficina de acero inoxidable"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 5</span>
+      <h2 class="product-title">Tijeras de Oficina</h2>
+      <p class="product-desc">Unas buenas tijeras con hoja de acero inoxidable y mango ergonómico son herramientas cotidianas imprescindibles. Sirven para cortar papel, cinta adhesiva, embalajes y mucho más. Un artículo que parece menor hasta que no lo tienes a mano y lo necesitas urgentemente.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE5" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 6. CINTA ADHESIVA CON PORTARROLLOS -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE6" target="_blank" rel="noopener sponsored" title="Ver ofertas de Portarrollos de Cinta en Amazon">
+      <span class="product-num">6</span>
+      <img src="IMAGEN/OFICINA/IMAGEN6.avif" alt="Portarrollos con cinta adhesiva para oficina"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 6</span>
+      <h2 class="product-title">Cinta Adhesiva con Portarrollos</h2>
+      <p class="product-desc">El portarrollos de celo es un clásico irremplazable: pegar, sellar sobres, reparar documentos o envolver regalos son solo algunos de sus usos. Un dispensador de cinta pesado y estable evita que se mueva al tirar. Elige modelos con cinta invisible para un acabado profesional.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE6" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 7. PERFORADORA -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE7" target="_blank" rel="noopener sponsored" title="Ver ofertas de Perforadoras en Amazon">
+      <span class="product-num">7</span>
+      <img src="IMAGEN/OFICINA/IMAGEN7.avif" alt="Perforadora de dos agujeros para oficina"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 7</span>
+      <h2 class="product-title">Perforadora de Papel</h2>
+      <p class="product-desc">Perforar documentos para archivarlos en carpetas de anillas es una tarea diaria en cualquier oficina. Una perforadora de dos o cuatro agujeros con guía de centrado y depósito de confeti integrado hace el trabajo limpio y preciso. Los modelos metálicos ofrecen mayor durabilidad.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE7" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 8. NOTAS ADHESIVAS (POST-IT) -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE8" target="_blank" rel="noopener sponsored" title="Ver ofertas de Notas Adhesivas en Amazon">
+      <span class="product-num">8</span>
+      <img src="IMAGEN/OFICINA/IMAGEN8.avif" alt="Pack de notas adhesivas Post-it de colores"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 8</span>
+      <h2 class="product-title">Notas Adhesivas (Post-it)</h2>
+      <p class="product-desc">Las notas adhesivas son la herramienta de productividad más sencilla y eficaz: recordatorios, ideas, mensajes o marcadores visuales en segundos. Los packs multicolor facilitan la organización por categorías. Irremplazables tanto en la mesa de trabajo como en el monitor o la nevera.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE8" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 9. SELLO DE FECHAS / TAMPÓN -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE9" target="_blank" rel="noopener sponsored" title="Ver ofertas de Sellos de Oficina en Amazon">
+      <span class="product-num">9</span>
+      <img src="IMAGEN/OFICINA/IMAGEN9.avif" alt="Sello fechador automático para oficina"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 9</span>
+      <h2 class="product-title">Sello Fechador y Tampón</h2>
+      <p class="product-desc">Un sello fechador automático agiliza el registro de documentos, facturas y albaranes con un solo golpe. Los modelos de tinta integrada (sin tampón externo) son los más cómodos y duraderos. Indispensable en cualquier oficina que gestione papeleo de forma regular.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE9" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+  <!-- 10. BANDEJA DE DOCUMENTOS -->
+  <article class="product">
+    <a class="product-img-wrap" href="https://amzn.to/ENLACE10" target="_blank" rel="noopener sponsored" title="Ver ofertas de Bandejas de Documentos en Amazon">
+      <span class="product-num">10</span>
+      <img src="IMAGEN/OFICINA/IMAGEN10.avif" alt="Bandeja de documentos apilable para escritorio"/>
+      <span class="offer-badge">🛒 Ver oferta</span>
+    </a>
+    <div class="product-body">
+      <span class="product-tag">Imprescindible nº 10</span>
+      <h2 class="product-title">Bandeja Apilable para Documentos</h2>
+      <p class="product-desc">Una bandeja de documentos permite clasificar el papeleo por prioridad: entrada, salida y pendiente. Los modelos apilables de malla metálica o acrílico transparente mantienen la mesa ordenada sin ocupar demasiado espacio. Imprescindible para quienes gestionan mucho volumen de papel cada día.</p>
+      <a class="product-link" href="https://amzn.to/ENLACE10" target="_blank" rel="noopener sponsored">Ver precios en Amazon →</a>
+    </div>
+  </article>
+
+</main>
+
+<footer>
+  <p>2024 &copy; <a href="https://imagif.github.io/MI-WEB-DE/">Imagif</a> &nbsp;·&nbsp; Material de oficina imprescindible &nbsp;·&nbsp; <em>Los enlaces de imágenes son de afiliado Amazon</em></p>
+</footer>
+
+</body>
+</html>
