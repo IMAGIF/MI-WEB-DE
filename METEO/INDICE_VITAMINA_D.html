@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ÍNDICE VITAMINA D</title>
+<style>
+*{box-sizing:border-box;font-family:Segoe UI,Tahoma,sans-serif}
+body{margin:0;min-height:100vh;background:linear-gradient(135deg,#1a2a6c,#b21f1f,#fdbb2d);display:flex;flex-direction:column}
+header,footer{background:#000;color:#fff;text-align:center;padding:20px}
+.home{display:inline-block;background:#fff;color:#000;padding:10px 20px;border-radius:8px;text-decoration:none}
+main{max-width:1000px;width:95%;margin:25px auto;background:rgba(255,255,255,.95);padding:28px;border-radius:20px}
+.row{display:flex;gap:10px;flex-wrap:wrap}
+input,button{padding:12px;border-radius:8px;border:1px solid #ccc}
+input{flex:1;min-width:250px}
+button{cursor:pointer;font-weight:700}
+#result{display:none}
+.score{font-size:5rem;text-align:center;font-weight:800}
+.bar{font-size:2rem;text-align:center;margin:15px 0}
+.status{text-align:center;font-size:1.5rem;font-weight:700}
+.data p{font-size:1.1rem}
+</style>
+</head>
+<body>
+<header>
+<h1>ÍNDICE VITAMINA D</h1>
+<p>Posición solar · UV · Nubosidad</p>
+<a class="home" href="https://imagif.github.io/MI-WEB-DE/">Inicio</a>
+</header>
+
+<main>
+<div class="row">
+<input id="city" placeholder="Ciudad (ej. A Coruña)">
+<button onclick="buscarCiudad()">Calcular</button>
+<button onclick="usarUbicacion()">📍 Usar mi ubicación</button>
+</div>
+
+<div id="result">
+<div class="score" id="score"></div>
+<div class="bar" id="bar"></div>
+<div class="status" id="status"></div>
+
+<div class="data">
+<p>📍 <span id="loc"></span></p>
+<p>☀️ Altura solar: <span id="alt"></span>°</p>
+<p>🧭 Azimut solar: <span id="azi"></span>°</p>
+<p>🌞 Índice UV: <span id="uv"></span></p>
+<p>☁️ Nubosidad: <span id="cloud"></span>%</p>
+<p>🕐 Hora local: <span id="hora"></span></p>
+<p>🏆 Mediodía solar aprox.: <span id="solarnoon"></span></p>
+</div>
+</div>
+
+<h2>¿Cuál es la mejor hora para tomar el sol?</h2>
+<p>La síntesis de vitamina D suele ser más eficiente cerca del mediodía solar, cuando el Sol alcanza su máxima altura. Este índice combina altura solar, UV y nubosidad.</p>
+</main>
+
+<footer>
+<p>Creado por #imagif 2026</p>
+<p>email: imagenesgifs@gmail.com</p>
+</footer>
+
+<script>
+async function buscarCiudad(){
+ let c=document.getElementById('city').value.trim();
+ if(!c){alert('Introduce una ciudad');return;}
+ let r=await fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(c)}&count=1&language=es&format=json`);
+ let d=await r.json();
+ if(!d.results){alert('Ciudad no encontrada');return;}
+ let p=d.results[0];
+ calcular(p.latitude,p.longitude,p.name);
+}
+
+function usarUbicacion(){
+ navigator.geolocation.getCurrentPosition(p=>{
+  calcular(p.coords.latitude,p.coords.longitude,"Mi ubicación");
+ });
+}
+
+function solarPosition(lat,lon,date=new Date()){
+ const rad=Math.PI/180;
+ const day=Math.floor((Date.UTC(date.getFullYear(),date.getMonth(),date.getDate())-Date.UTC(date.getFullYear(),0,0))/86400000);
+
+ const gamma=2*Math.PI/365*(day-1+(date.getHours()-12)/24);
+ const eqtime=229.18*(0.000075+0.001868*Math.cos(gamma)-0.032077*Math.sin(gamma)-0.014615*Math.cos(2*gamma)-0.040849*Math.sin(2*gamma));
+ const decl=0.006918-0.399912*Math.cos(gamma)+0.070257*Math.sin(gamma)-0.006758*Math.cos(2*gamma)+0.000907*Math.sin(2*gamma)-0.002697*Math.cos(3*gamma)+0.00148*Math.sin(3*gamma);
+
+ const tz=-date.getTimezoneOffset()/60;
+ const timeOffset=eqtime+4*lon-60*tz;
+ const tst=date.getHours()*60+date.getMinutes()+date.getSeconds()/60+timeOffset;
+ const ha=(tst/4-180)*rad;
+
+ const latr=lat*rad;
+ let zen=Math.acos(Math.sin(latr)*Math.sin(decl)+Math.cos(latr)*Math.cos(decl)*Math.cos(ha));
+ let alt=90-zen/rad;
+
+ let az=Math.atan2(Math.sin(ha),Math.cos(ha)*Math.sin(latr)-Math.tan(decl)*Math.cos(latr))/rad+180;
+
+ const solarNoon=(720-4*lon-eqtime+tz*60)/60;
+
+ return {altitude:alt,azimuth:az,solarNoon:solarNoon};
+}
+
+async function calcular(lat,lon,nombre){
+ const pos=solarPosition(lat,lon,new Date());
+
+ const w=await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=uv_index,cloud_cover`);
+ const wd=await w.json();
+
+ const uv=wd.current?.uv_index ?? 0;
+ const cloud=wd.current?.cloud_cover ?? 0;
+
+ const alt=Math.max(0,pos.altitude);
+
+ let score=(alt/90)*50 + (Math.min(11,uv)/11)*35 + ((100-cloud)/100)*15;
+ score=Math.round(Math.max(0,Math.min(100,score)));
+
+ const icons=["🟥","🟥","🟧","🟧","🟨","🟨","🟩","🟩","🟩","⭐"];
+ let filled=Math.max(1,Math.round(score/10));
+ document.getElementById('bar').textContent=icons.slice(0,filled).join(' ');
+
+ let txt="🔴 Muy bajo";
+ if(score>=80) txt="⭐ Momento óptimo para sintetizar vitamina D";
+ else if(score>=60) txt="🟢 Bueno";
+ else if(score>=40) txt="🟡 Aceptable";
+ else if(score>=20) txt="🟠 Bajo";
+
+ document.getElementById('score').textContent=score+"/100";
+ document.getElementById('status').textContent=txt;
+ document.getElementById('loc').textContent=nombre;
+ document.getElementById('alt').textContent=pos.altitude.toFixed(1);
+ document.getElementById('azi').textContent=pos.azimuth.toFixed(1);
+ document.getElementById('uv').textContent=uv;
+ document.getElementById('cloud').textContent=cloud;
+ document.getElementById('hora').textContent=new Date().toLocaleString("es-ES");
+
+ const h=Math.floor(pos.solarNoon);
+ const m=Math.round((pos.solarNoon-h)*60);
+ document.getElementById('solarnoon').textContent=(String(h).padStart(2,"0")+":"+String(m).padStart(2,"0"));
+
+ document.getElementById('result').style.display='block';
+}
+</script>
+</body>
+</html>
