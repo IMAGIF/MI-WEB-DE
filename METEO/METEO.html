@@ -28,7 +28,6 @@
       100% { background-position: 0% 50%; }
     }
 
-    /* ENCABEZADO */
     .page-header {
       background: black;
       color: white;
@@ -43,7 +42,6 @@
       letter-spacing: 2px;
     }
 
-    /* SELECTOR DE CIUDAD */
     .city-selector {
       margin-bottom: 15px;
     }
@@ -73,7 +71,6 @@
       color: black;
     }
 
-    /* BARRA METEO */
     .meteo-bar {
       display: flex;
       justify-content: center;
@@ -89,9 +86,7 @@
       color: #fdbb2d;
     }
 
-    #weather-icon {
-      font-size: 2.6rem; /* ICONO MÁS GRANDE */
-    }
+    #weather-icon { font-size: 2.6rem; }
 
     #pressure, #temp, #humidity, #wind {
       font-size: 1.2rem;
@@ -99,24 +94,14 @@
       font-weight: bold;
     }
 
-    /* Móvil */
     @media (max-width: 768px) {
       .meteo-bar {
         flex-direction: column;
         gap: 5px;
       }
-
-      #clock {
-        font-size: 1.3rem;
-      }
-
-      #weather-icon {
-        font-size: 2.3rem; /* TAMBIÉN MÁS GRANDE EN MÓVIL */
-      }
-
-      #pressure, #temp, #humidity, #wind {
-        font-size: 1.1rem;
-      }
+      #clock { font-size: 1.3rem; }
+      #weather-icon { font-size: 2.3rem; }
+      #pressure, #temp, #humidity, #wind { font-size: 1.1rem; }
     }
 
     .home-button {
@@ -136,7 +121,6 @@
       box-shadow: 0 6px 20px rgba(255,255,255,0.4);
     }
 
-    /* CONTENIDO */
     .container {
       max-width: 1200px;
       margin: 0 auto;
@@ -192,11 +176,16 @@
     }
 
     .card h2 {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
     }
 
-    /* PIE */
+    /* Destacado para vitamina D */
+    .card.featured {
+      background: linear-gradient(145deg, #1a3a1a, #1e5c1e);
+      border: 1px solid rgba(255,220,50,0.3);
+    }
+
     .page-footer {
       margin-top: auto;
       background: black;
@@ -210,7 +199,6 @@
 
 <body>
 
-  <!-- ENCABEZADO -->
   <header class="page-header">
     <h1>METEO</h1>
 
@@ -231,11 +219,18 @@
     <a href="https://imagif.github.io/MI-WEB-DE/" class="home-button">Inicio</a>
   </header>
 
-  <!-- BOTONES -->
   <div class="container">
     <div class="grid-container">
 
-      <!-- BOTÓN 1 -->
+      <!-- 1. PREDICCIÓN DEL TIEMPO -->
+      <div class="card">
+        <a href="https://www.accuweather.com/es/es/spain-weather" target="_blank">
+          <span class="icon">📅🌦️</span>
+          <h2>PREDICCIÓN</h2>
+        </a>
+      </div>
+
+      <!-- 2. SOL Y LUNA -->
       <div class="card">
         <a href="https://imagif.github.io/MI-WEB-DE/METEO/SOL Y LUNA.html">
           <span class="icon">☀️🌙</span>
@@ -243,55 +238,23 @@
         </a>
       </div>
 
-      <!-- BOTÓN 2 -->
-      <div class="card">
-        <a href="https://imagif.github.io/MI-WEB-DE/METEO/MAREAS.html">
-          <span class="icon">🌊</span>
-          <h2>MAREAS</h2>
+      <!-- 3. ÍNDICE VITAMINA D -->
+      <div class="card featured">
+        <a href="https://imagif.github.io/MI-WEB-DE/METEO/INDICE_VITAMINA_D.html">
+          <span class="icon">🌞💊</span>
+          <h2>VITAMINA D</h2>
         </a>
       </div>
 
-      <!-- BOTÓN 3 (Marea Coruña) -->
+      <!-- 4. ÍNDICE UV -->
       <div class="card">
-        <a href="https://tablademareas.com/es/a-coruna/a-coruna#_tabla_mareas">
-          <span class="icon">🌊</span>
-          <h2>MAREA CORUÑA</h2>
+        <a href="https://www.aemet.es/es/eltiempo/prediccion/radiacionuv">
+          <span class="icon">🔆</span>
+          <h2>ÍNDICE UV</h2>
         </a>
       </div>
 
-      <!-- BOTÓN 4 (Puertos del Estado) -->
-      <div class="card">
-        <a href="https://imagif.github.io/MI-WEB-DE/METEO/PUERTOS ESTADO.html">
-          <span class="icon">⚓</span>
-          <h2>PUERTOS DEL ESTADO</h2>
-        </a>
-      </div>
-
-      <!-- BOTÓN 5 – Fase lunar -->
-      <div class="card">
-        <a href="https://www.timeanddate.com/moon/phases/">
-          <span class="icon">🌕</span>
-          <h2>FASE LUNAR</h2>
-        </a>
-      </div>
-
-      <!-- BOTÓN 6 – Próxima luna llena -->
-      <div class="card">
-        <a href="https://www.timeanddate.com/moon/phases/spain/a-coruna">
-          <span class="icon">🌝</span>
-          <h2>LUNA LLENA</h2>
-        </a>
-      </div>
-
-      <!-- BOTÓN 7 – Eclipses -->
-      <div class="card">
-        <a href="https://www.timeanddate.com/eclipse/">
-          <span class="icon">🌑</span>
-          <h2>ECLIPSES</h2>
-        </a>
-      </div>
-
-      <!-- BOTÓN 8 – Mapa de nubes -->
+      <!-- 5. NUBES -->
       <div class="card">
         <a href="https://www.windy.com/?clouds,43.36,-8.41,8">
           <span class="icon">☁️</span>
@@ -299,7 +262,7 @@
         </a>
       </div>
 
-      <!-- BOTÓN 9 – Radar lluvia (CORREGIDO) -->
+      <!-- 6. RADAR LLUVIA -->
       <div class="card">
         <a href="https://www.meteogalicia.gal/web/predicion/portada">
           <span class="icon">🌧️</span>
@@ -307,11 +270,51 @@
         </a>
       </div>
 
-      <!-- BOTÓN 10 – Índice UV -->
+      <!-- 7. MAREAS -->
       <div class="card">
-        <a href="https://www.aemet.es/es/eltiempo/prediccion/radiacionuv">
-          <span class="icon">🌞</span>
-          <h2>ÍNDICE UV</h2>
+        <a href="https://imagif.github.io/MI-WEB-DE/METEO/MAREAS.html">
+          <span class="icon">🌊</span>
+          <h2>MAREAS</h2>
+        </a>
+      </div>
+
+      <!-- 8. MAREA CORUÑA -->
+      <div class="card">
+        <a href="https://tablademareas.com/es/a-coruna/a-coruna#_tabla_mareas">
+          <span class="icon">🌊⚓</span>
+          <h2>MAREA CORUÑA</h2>
+        </a>
+      </div>
+
+      <!-- 9. PUERTOS DEL ESTADO -->
+      <div class="card">
+        <a href="https://imagif.github.io/MI-WEB-DE/METEO/PUERTOS ESTADO.html">
+          <span class="icon">⚓</span>
+          <h2>PUERTOS DEL ESTADO</h2>
+        </a>
+      </div>
+
+      <!-- 10. FASE LUNAR -->
+      <div class="card">
+        <a href="https://www.timeanddate.com/moon/phases/">
+          <span class="icon">🌕</span>
+          <h2>FASE LUNAR</h2>
+        </a>
+      </div>
+
+      <!-- 11. LUNA LLENA -->
+      <div class="card">
+        <a href="https://www.timeanddate.com/moon/phases/spain/a-coruna">
+          <span class="icon">🌝</span>
+          <h2>LUNA LLENA</h2>
+        </a>
+      </div>
+
+      <!-- 12. ECLIPSES -->
+      <div class="card">
+        <a href="https://www.timeanddate.com/eclipse/">
+          <span class="icon">🌑</span>
+          <h2>ECLIPSES</h2>
         </a>
       </div>
 
@@ -319,11 +322,10 @@
   </div>
 
   <footer class="page-footer">
-    <p>2025 Creado por #imagif</p>
+    <p>2026 Creado por #imagif</p>
     <p>email: imagenesgifs@gmail.com</p>
   </footer>
 
-  <!-- SCRIPT COMPLETO -->
   <script>
     function updateClock() {
       const now = new Date();
@@ -387,10 +389,7 @@
           return;
         }
 
-        const lat = data.results[0].latitude;
-        const lon = data.results[0].longitude;
-
-        loadWeather(lat, lon);
+        loadWeather(data.results[0].latitude, data.results[0].longitude);
 
       } catch (e) {
         alert("Error buscando la ciudad.");

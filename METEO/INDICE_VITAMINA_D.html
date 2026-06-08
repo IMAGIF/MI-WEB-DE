@@ -72,9 +72,31 @@ async function buscarCiudad(){
 }
 
 function usarUbicacion(){
- navigator.geolocation.getCurrentPosition(p=>{
-  calcular(p.coords.latitude,p.coords.longitude,"Mi ubicación");
- });
+ if(!navigator.geolocation){
+  alert('Tu navegador no soporta geolocalización.');
+  return;
+ }
+ const btn=document.querySelector('button[onclick="usarUbicacion()"]');
+ btn.textContent='⏳ Obteniendo ubicación...';
+ btn.disabled=true;
+ navigator.geolocation.getCurrentPosition(
+  p=>{
+   btn.textContent='📍 Usar mi ubicación';
+   btn.disabled=false;
+   calcular(p.coords.latitude,p.coords.longitude,"Mi ubicación");
+  },
+  err=>{
+   btn.textContent='📍 Usar mi ubicación';
+   btn.disabled=false;
+   const msgs={
+    1:'Permiso de ubicación denegado. Actívalo en los ajustes del navegador.',
+    2:'No se pudo obtener tu posición. Comprueba tu conexión o GPS.',
+    3:'Tiempo de espera agotado. Inténtalo de nuevo.'
+   };
+   alert(msgs[err.code]||'Error desconocido al obtener la ubicación.');
+  },
+  {timeout:10000,maximumAge:60000,enableHighAccuracy:false}
+ );
 }
 
 function solarPosition(lat,lon,date=new Date()){
@@ -110,20 +132,27 @@ async function calcular(lat,lon,nombre){
  const uv=wd.current?.uv_index ?? 0;
  const cloud=wd.current?.cloud_cover ?? 0;
 
- const alt=Math.max(0,pos.altitude);
+ let score=0;
+ const esNoche=pos.altitude<=0;
 
- let score=(alt/90)*50 + (Math.min(11,uv)/11)*35 + ((100-cloud)/100)*15;
- score=Math.round(Math.max(0,Math.min(100,score)));
+ if(!esNoche){
+  const alt=pos.altitude;
+  score=(alt/90)*50 + (Math.min(11,uv)/11)*35 + ((100-cloud)/100)*15;
+  score=Math.round(Math.max(0,Math.min(100,score)));
+ }
 
  const icons=["🟥","🟥","🟧","🟧","🟨","🟨","🟩","🟩","🟩","⭐"];
- let filled=Math.max(1,Math.round(score/10));
- document.getElementById('bar').textContent=icons.slice(0,filled).join(' ');
+ const filled=Math.round(score/10);
+ document.getElementById('bar').textContent=filled>0 ? icons.slice(0,filled).join(' ') : '⬛';
 
- let txt="🔴 Muy bajo";
- if(score>=80) txt="⭐ Momento óptimo para sintetizar vitamina D";
- else if(score>=60) txt="🟢 Bueno";
- else if(score>=40) txt="🟡 Aceptable";
- else if(score>=20) txt="🟠 Bajo";
+ let txt="🌙 Noche — sin síntesis de vitamina D posible";
+ if(!esNoche){
+  if(score>=80) txt="⭐ Momento óptimo para sintetizar vitamina D";
+  else if(score>=60) txt="🟢 Bueno";
+  else if(score>=40) txt="🟡 Aceptable";
+  else if(score>=20) txt="🟠 Bajo";
+  else txt="🔴 Muy bajo";
+ }
 
  document.getElementById('score').textContent=score+"/100";
  document.getElementById('status').textContent=txt;
