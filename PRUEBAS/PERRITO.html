@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario Infantil: Perrito Feliz</title>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffeef7; /* Fondo rosado suave */
+            color: #333;
+            margin: 0;
+            padding-bottom: 60px;
+        }
+
+        /* ======= ENCABEZADO (copiado del archivo) ======= */
+        header {
+            background-color: #1e2851;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            max-width: 850px;
+            margin: 0 auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .header-buttons {
+            display: flex;
+            justify-content: center;
+            padding: 0 20px;
+            margin-top: 10px;
+        }
+
+        .header-buttons a {
+            background-color: #ff0000;
+            color: #fff;
+            padding: 10px 20px;
+            font-size: 12px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .titulo {
+            font-size: 32px;
+            margin: 10px 0;
+        }
+
+        /* ======= CONTENIDO ======= */
+        .contenedor {
+            max-width: 850px;
+            margin: 20px auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .imagen-perrito {
+            display: block;
+            margin: 0 auto 20px auto;
+            max-width: 250px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #d63384;
+            margin-top: 25px;
+        }
+
+        .pregunta {
+            margin: 10px 0;
+            font-weight: bold;
+        }
+
+        .respuesta {
+            width: 100%;
+            min-height: 40px;
+            margin-top: 5px;
+            margin-bottom: 10px;
+            padding: 6px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            font-family: inherit;
+            resize: vertical;
+        }
+
+        /* ======= SECCIÓN PARA CREAR IMAGEN ======= */
+        .crear-imagen {
+            background: #fff3cd;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 30px;
+            border: 2px solid #ffe08a;
+        }
+
+        .crear-imagen button {
+            background-color: #1e2851;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        /* ======= PIE DE PÁGINA (copiado del archivo) ======= */
+        footer {
+            background-color: #1e2851;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            width: 100%;
+            max-width: 850px;
+            margin: 0 auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- ENCABEZADO -->
+    <header>
+        <h1 class="titulo">Cuestionario Infantil</h1>
+        <div class="header-buttons">
+            <a href="https://imagif.github.io/MI-WEB-DE/">INICIO</a>
+        </div>
+    </header>
+
+    <!-- CONTENIDO -->
+    <div class="contenedor">
+
+        <img src="perrito.webp" alt="Perrito feliz" class="imagen-perrito">
+
+        <h2>1. Observa bien</h2>
+
+        <div class="pregunta">¿De qué color es el perrito?</div>
+        <textarea class="respuesta"></textarea>
+
+        <div class="pregunta">¿Qué expresión tiene en su cara?</div>
+        <textarea class="respuesta"></textarea>
+
+        <div class="pregunta">¿Qué parte del cuerpo te parece más suave?</div>
+        <textarea class="respuesta"></textarea>
+
+        <h2>2. Imagina</h2>
+
+        <div class="pregunta">¿Qué crees que está haciendo el perrito?</div>
+        <textarea class="respuesta"></textarea>
+
+        <div class="pregunta">¿Cómo se siente? ¿Contento, curioso o travieso?</div>
+        <textarea class="respuesta"></textarea>
+
+        <div class="pregunta">Si pudiera hablar, ¿qué diría?</div>
+        <textarea class="respuesta"></textarea>
+
+        <h2>3. Crea</h2>
+
+        <div class="pregunta">¿Qué nombre le pondrías?</div>
+        <textarea class="respuesta"></textarea>
+
+        <div class="pregunta">¿Dónde vive este perrito?</div>
+        <textarea class="respuesta"></textarea>
+
+        <div class="pregunta">¿Qué aventuras podría tener?</div>
+        <textarea class="respuesta"></textarea>
+
+        <!-- SECCIÓN PARA CREAR IMAGEN -->
+        <div class="crear-imagen">
+            <h2>4. Crea tu propia imagen</h2>
+            <p>Escribe una pequeña descripción y luego pulsa el botón para crear una imagen basada en tu idea.</p>
+
+            <textarea class="respuesta" placeholder="Ejemplo: Un perrito jugando en un parque con globos de colores."></textarea>
+
+            <button>Crear imagen</button>
+        </div>
+
+    </div>
+
+    <!-- PIE DE PÁGINA -->
+    <footer>
+        © 2025 Cuentos Infantiles. Todos los derechos reservados.
+    </footer>
+
+</body>
+</html>
