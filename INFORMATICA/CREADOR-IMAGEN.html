@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Creador de Imágenes</title>
+<title>Creador de Imágenes Gratis</title>
 
 <style>
     body {
@@ -21,21 +21,6 @@
         max-width: 850px;
         margin: 0 auto;
         border-radius: 10px;
-    }
-
-    .header-buttons {
-        display: flex;
-        justify-content: center;
-        margin-top: 10px;
-    }
-
-    .header-buttons a {
-        background-color: #ff0000;
-        color: #fff;
-        padding: 10px 20px;
-        font-size: 12px;
-        border-radius: 5px;
-        text-decoration: none;
     }
 
     .contenedor {
@@ -93,16 +78,13 @@
 <body>
 
 <header>
-    <h1>Creador de Imágenes</h1>
-    <div class="header-buttons">
-        <a href="https://imagif.github.io/MI-WEB-DE/">INICIO</a>
-    </div>
+    <h1>Creador de Imágenes Gratis</h1>
 </header>
 
 <div class="contenedor">
 
     <h2>Descripción</h2>
-    <textarea id="descripcion" placeholder="Ejemplo: Un perrito astronauta volando sobre la luna."></textarea>
+    <textarea id="descripcion" placeholder="Ejemplo: Superhéroe estilo cómic saltando entre edificios."></textarea>
 
     <h2>Tipo de imagen</h2>
     <select id="tipo">
@@ -113,11 +95,11 @@
 
     <h2>Estilo</h2>
     <select id="estilo">
-        <option value="disney">Disney</option>
+        <option value="comic">Cómic</option>
         <option value="anime">Anime</option>
         <option value="manga">Manga</option>
         <option value="clasico">Clásico</option>
-        <option value="comic">Cómic</option>
+        <option value="disney">Disney</option>
     </select>
 
     <h2>Formato</h2>
@@ -133,12 +115,10 @@
 </div>
 
 <footer>
-    © 2025 Creador de Imágenes. Todos los derechos reservados.
+    © 2025 Creador de Imágenes Gratis.
 </footer>
 
 <script>
-const API_KEY = ""; 
-
 async function crearImagen() {
     const descripcion = document.getElementById("descripcion").value.trim();
     const tipo = document.getElementById("tipo").value;
@@ -155,34 +135,20 @@ async function crearImagen() {
 
     resultado.innerHTML = "<p>Generando imagen, espera un momento...</p>";
 
-    // Crear predicción
-    const response = await fetch("https://api.replicate.com/v1/predictions", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-            "Authorization": `Token ${API_KEY}`
-        },
-        body: JSON.stringify({
-            version: "c1b9c7c8e5a9d4d8b6e8c7f0c2b8a1d8b3f4e5c6c7d8e9f0", 
-            input: { prompt: prompt }
-        })
-    });
+    const response = await fetch(
+        "https://black-forest-labs-flux-1-schnell.hf.space/run/predict",
+        {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ data: [prompt] })
+        }
+    );
 
-    let prediction = await response.json();
+    const result = await response.json();
 
-    // Esperar a que termine
-    while (prediction.status !== "succeeded" && prediction.status !== "failed") {
-        await new Promise(r => setTimeout(r, 1500));
-
-        const check = await fetch(`https://api.replicate.com/v1/predictions/${prediction.id}`, {
-            headers: { "Authorization": `Token ${API_KEY}` }
-        });
-
-        prediction = await check.json();
-    }
-
-    if (prediction.status === "succeeded") {
-        resultado.innerHTML = `<img src="${prediction.output[0]}" alt="Imagen generada">`;
+    if (result && result.data && result.data[0]) {
+        const imagen = result.data[0].url || result.data[0];
+        resultado.innerHTML = `<img src="${imagen}" alt="Imagen generada">`;
     } else {
         resultado.innerHTML = "<p>Error al generar la imagen.</p>";
     }
