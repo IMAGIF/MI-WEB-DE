@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Creador de Imágenes Gratis</title>
+<title>Creador de Imágenes (Prompt avanzado)</title>
 
 <style>
     body {
@@ -17,10 +17,25 @@
         background-color: #1e2851;
         color: #fff;
         text-align: center;
-        padding: 10px 0;
+        padding: 15px 0;
         max-width: 850px;
         margin: 0 auto;
         border-radius: 10px;
+        position: relative;
+    }
+
+    header a {
+        position: absolute;
+        left: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #ffcc00;
+        padding: 8px 14px;
+        border-radius: 6px;
+        color: #000;
+        font-weight: bold;
+        text-decoration: none;
+        border: 2px solid #000;
     }
 
     .contenedor {
@@ -50,17 +65,25 @@
         cursor: pointer;
         width: 100%;
         font-size: 16px;
+        margin-bottom: 10px;
     }
 
     #resultado {
         margin-top: 20px;
-        text-align: center;
+        padding: 10px;
+        background: #f3f3f3;
+        border-radius: 8px;
+        font-size: 14px;
+        white-space: pre-wrap;
     }
 
-    #resultado img {
-        max-width: 100%;
-        border-radius: 10px;
-        margin-top: 15px;
+    .historial div {
+        background: #f7f7f7;
+        padding: 8px;
+        border-radius: 6px;
+        margin-bottom: 8px;
+        font-size: 13px;
+        white-space: pre-wrap;
     }
 
     footer {
@@ -78,80 +101,201 @@
 <body>
 
 <header>
-    <h1>Creador de Imágenes Gratis</h1>
+    <a href="https://imagif.github.io/MI-WEB-DE/">INICIO</a>
+    <h1>Creador de Imágenes (Prompt avanzado)</h1>
 </header>
 
 <div class="contenedor">
 
     <h2>Descripción</h2>
-    <textarea id="descripcion" placeholder="Ejemplo: Superhéroe estilo cómic saltando entre edificios."></textarea>
+    <textarea id="descripcion" placeholder="Ejemplo: Superhéroe estilo cómic saltando entre edificios, de noche, con lluvia."></textarea>
 
     <h2>Tipo de imagen</h2>
-    <select id="tipo">
-        <option value="retrato">Retrato</option>
-        <option value="foto realista">Foto realista</option>
-        <option value="paisaje">Paisaje</option>
+    <select id="tipo" onchange="actualizarEstilos()">
+        <option value="Cómic">Cómic</option>
+        <option value="Foto realista">Foto realista</option>
+        <option value="Pintura">Pintura</option>
+        <option value="Fotografía">Fotografía</option>
+        <option value="Paisaje">Paisaje</option>
+        <option value="Ilustración">Ilustración</option>
+        <option value="Pixel art">Pixel art</option>
+        <option value="3D render">3D render</option>
+        <option value="Acuarela">Acuarela</option>
     </select>
 
     <h2>Estilo</h2>
     <select id="estilo">
-        <option value="comic">Cómic</option>
-        <option value="anime">Anime</option>
-        <option value="manga">Manga</option>
-        <option value="clasico">Clásico</option>
-        <option value="disney">Disney</option>
+        <!-- Se rellena dinámicamente -->
     </select>
 
     <h2>Formato</h2>
     <select id="formato">
         <option value="9:16">9:16 (vertical)</option>
         <option value="16:9">16:9 (horizontal)</option>
+        <option value="1:1">1:1 (cuadrado)</option>
     </select>
 
-    <button onclick="crearImagen()">Crear imagen</button>
+    <button onclick="crearPrompt()">Crear prompt</button>
 
     <div id="resultado"></div>
+
+    <button id="copiar" style="display:none;" onclick="copiarPrompt()">Copiar prompt</button>
+    <button id="abrir" style="display:none;" onclick="abrirPerchance()">Abrir en Perchance</button>
+
+    <h2>Historial de prompts</h2>
+    <div id="historial"></div>
 
 </div>
 
 <footer>
-    © 2025 Creador de Imágenes Gratis.
+    © 2025 Creador de Imágenes – #imagif
 </footer>
 
 <script>
-async function crearImagen() {
+let ultimoPrompt = "";
+
+// Mapa de estilos según tipo
+const estilosPorTipo = {
+    "Cómic": [
+        "Disney",
+        "Manga",
+        "Anime",
+        "Tradicional",
+        "Infantil",
+        "Superhéroes",
+        "Cartoon americano"
+    ],
+    "Foto realista": [
+        "Alta resolución",
+        "HDR",
+        "Cinemática",
+        "Vintage",
+        "Blanco y negro",
+        "Retrato profesional"
+    ],
+    "Pintura": [
+        "Renacentista",
+        "Impresionista",
+        "Barroco",
+        "Clásico",
+        "Óleo",
+        "Acuarela artística"
+    ],
+    "Fotografía": [
+        "Retrato profesional",
+        "Macro",
+        "Blanco y negro",
+        "Vintage",
+        "Cinemática",
+        "Documental"
+    ],
+    "Paisaje": [
+        "Fantasía",
+        "Realista",
+        "Concept art",
+        "Matte painting",
+        "Minimalista",
+        "Épico"
+    ],
+    "Ilustración": [
+        "Digital art",
+        "Libro infantil",
+        "Minimalista",
+        "Concept art",
+        "Estilo cómic suave",
+        "Estilo cartoon"
+    ],
+    "Pixel art": [
+        "Retro 8-bit",
+        "Retro 16-bit",
+        "Estilo videojuego",
+        "Minimalista",
+        "Chibi pixel",
+        "Isométrico"
+    ],
+    "3D render": [
+        "Realista",
+        "Estilo Pixar",
+        "Estilo videojuego",
+        "Low poly",
+        "Alta definición",
+        "Cinemático"
+    ],
+    "Acuarela": [
+        "Suave",
+        "Infantil",
+        "Paisaje acuarela",
+        "Retrato acuarela",
+        "Minimalista",
+        "Fantasia acuarela"
+    ]
+};
+
+function actualizarEstilos() {
+    const tipo = document.getElementById("tipo").value;
+    const estiloSelect = document.getElementById("estilo");
+    estiloSelect.innerHTML = "";
+
+    const estilos = estilosPorTipo[tipo] || [];
+
+    estilos.forEach(est => {
+        const opt = document.createElement("option");
+        opt.value = est;
+        opt.textContent = est;
+        estiloSelect.appendChild(opt);
+    });
+}
+
+// Inicializar estilos al cargar
+actualizarEstilos();
+
+function crearPrompt() {
     const descripcion = document.getElementById("descripcion").value.trim();
     const tipo = document.getElementById("tipo").value;
     const estilo = document.getElementById("estilo").value;
     const formato = document.getElementById("formato").value;
-    const resultado = document.getElementById("resultado");
 
     if (!descripcion) {
-        resultado.innerHTML = "<p>Por favor, escribe una descripción.</p>";
+        document.getElementById("resultado").innerHTML = "Por favor, escribe una descripción.";
         return;
     }
 
-    const prompt = `${descripcion}. Tipo: ${tipo}. Estilo: ${estilo}. Formato: ${formato}.`;
+    const prompt =
+`Descripción principal: ${descripcion}
 
-    resultado.innerHTML = "<p>Generando imagen, espera un momento...</p>";
+Tipo de imagen: ${tipo}
+Estilo específico: ${estilo}
+Formato: ${formato}
 
-    const response = await fetch(
-        "https://black-forest-labs-flux-1-schnell.hf.space/run/predict",
-        {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ data: [prompt] })
-        }
-    );
+Instrucciones adicionales:
+- Composición cuidada y equilibrada.
+- Iluminación coherente con la escena.
+- Colores bien definidos y armoniosos.
+- Nivel de detalle alto en el sujeto principal.
+- Fondo acorde al tipo de imagen y estilo.
+- Calidad profesional, apta para impresión o uso digital.
 
-    const result = await response.json();
+Este prompt está pensado para generadores de imágenes (IA) como Perchance, Stable Diffusion, Flux, etc.`;
 
-    if (result && result.data && result.data[0]) {
-        const imagen = result.data[0].url || result.data[0];
-        resultado.innerHTML = `<img src="${imagen}" alt="Imagen generada">`;
-    } else {
-        resultado.innerHTML = "<p>Error al generar la imagen.</p>";
-    }
+    ultimoPrompt = prompt;
+
+    document.getElementById("resultado").innerText = prompt;
+    document.getElementById("copiar").style.display = "block";
+    document.getElementById("abrir").style.display = "block";
+
+    const div = document.createElement("div");
+    div.innerText = prompt;
+    document.getElementById("historial").prepend(div);
+}
+
+function copiarPrompt() {
+    navigator.clipboard.writeText(ultimoPrompt);
+    alert("Prompt copiado");
+}
+
+function abrirPerchance() {
+    const url = "https://perchance.org/ai-character-generator?prompt=" + encodeURIComponent(ultimoPrompt);
+    window.open(url, "_blank");
 }
 </script>
 
