@@ -1,235 +1,135 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MI WEB DE</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MI WEB DE</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
-        body {
-            min-height: 100vh;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        }
+    body {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
 
-        .page-header, .page-footer {
-            background: black;
-            color: white;
-            padding: 20px;
-            text-align: center;
-            width: 100%;
-        }
+    .page-header, .page-footer {
+      background: black;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      width: 100%;
+    }
 
-        .page-header {
-            position: relative;
-            text-align: center;
-        }
+    .home-button {
+      display: inline-block;
+      margin: 10px auto;
+      padding: 10px 20px;
+      background: red;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      text-align: center;
+    }
 
-        .home-button {
-            display: inline-block;
-            margin: 10px auto;
-            padding: 10px 20px;
-            background: red; /* Fondo rojo */
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
-            text-align: center;
-        }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+      padding: 20px;
+    }
 
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 40px; /* Increased gap between rows */
-            padding: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+    .card {
+      border-radius: 15px;
+      overflow: hidden;
+      transition: transform 0.3s ease;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 220px;
+      position: relative;
+      background-color: #000;
+    }
 
-        .card {
-            border-radius: 15px;
-            overflow: hidden;
-            transition: transform 0.3s ease;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 200px; /* Increased height to accommodate title */
-            color: white;
-            position: relative;
-        }
+    .card:hover {
+      transform: translateY(-10px);
+    }
 
-        .card:hover {
-            transform: translateY(-10px);
-        }
+    .card a {
+      text-decoration: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+      color: inherit;
+      position: relative;
+      z-index: 1;
+    }
 
-        .card a {
-            text-decoration: none;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            width: 100%;
-            height: 100%;
-            color: inherit; /* Use the color of the parent element */
-            position: relative;
-            z-index: 1;
-        }
+    .card img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain; /* evita cortes */
+      background-color: #000; /* fondo neutro */
+      border-radius: 10px;
+    }
 
-        .card img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            position: absolute;
-            top: 0;
-            left: 0;
-            z-index: -1;
-        }
-
-        .card h2 {
-            font-size: 1.2rem;
-            margin-bottom: 10px; /* Add margin below title */
-        }
-
-        .card:nth-child(1) { background: #FF6B6B; }
-        .card:nth-child(2) { background: #4ECDC4; color: black; }
-        .card:nth-child(3) { background: #45B7D1; }
-        .card:nth-child(4) { background: #96CEB4; color: black; }
-        .card:nth-child(5) { background: #D4A5A5; color: black; }
-        .card:nth-child(6) { background: #9B59B6; }
-        .card:nth-child(7) { background: #3498DB; }
-        .card:nth-child(8) { background: #F1C40F; color: black; }
-        .card:nth-child(9) { background: #E74C3C; }
-        .card:nth-child(10) { background: #2ECC71; }
-        .card:nth-child(11) { background: #FF6B6B; }
-        .card:nth-child(12) { background: #4ECDC4; color: black; }
-        .card:nth-child(13) { background: #45B7D1; }
-        .card:nth-child(14) { background: #96CEB4; color: black; }
-        .card:nth-child(15) { background: #D4A5A5; color: black; }
-
-        @media (max-width: 768px) {
-            .grid-container {
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            }
-
-            .home-button {
-                display: inline-block;
-                margin: 10px auto;
-            }
-
-            .page-header {
-                text-align: center;
-            }
-
-            .page-header h1 {
-                margin-bottom: 10px;
-            }
-        }
-    </style>
+    @media (max-width: 768px) {
+      .grid-container {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      }
+      .home-button {
+        margin: 10px auto;
+      }
+    }
+  </style>
 </head>
 <body>
-    <header class="page-header">
-        <h1>MI WEB DE</h1>
-    </header>
+  <header class="page-header">
+    <h1>MI WEB DE</h1>
+  </header>
 
-    <a href="https://www.youtube.com/@imagif." class="home-button">Sígueme en Youtube</a>
+  <a href="https://www.youtube.com/@imagif." class="home-button">Sígueme en Youtube</a>
 
-    <div class="container">
-        <div class="grid-container">
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html">
-                    <img src="IMAGEN/1.avif" alt="INFORMATICA">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/cuentos-infantiles.html">
-                    <img src="IMAGEN/2.avif" alt="CUENTOS INFANTILES">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/MULTIMEDIA.html">
-                    <img src="IMAGEN/3.avif" alt="MULTIMEDIA">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/vestidos.html">
-                    <img src="IMAGEN/4.avif" alt="VESTIDOS">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/MIS-LUGARES/MIS-LUGARES.html">
-                    <img src="IMAGEN/5.avif" alt="MIS LUGARES">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/GANAR-ONLINE/GANAR-ONLINE.html">
-                    <img src="IMAGEN/6.avif" alt="GANAR ONLINE">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/METEO/METEO.html">
-                    <img src="IMAGEN/7.avif" alt="METEO">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/AURICULARES-OFERTAS/index.html">  
-                    <img src="IMAGEN/auriculares_ofertas.avif" alt="OFERTAS DE AURICULARES">
-                </a>
-            </div>
-            <div class="card">
-                <a href="https://imagif.github.io/MI-WEB-DE/MUNDIAL_2026/MUNDIAL-FUTBOL-2026">
-                    <img src="MUNDIAL_2026/IMAGEN/1.avif" alt="MUNDIAL_2026">
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <img src="IMAGEN/9.avif" alt="Boton 10">
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <img src="IMAGEN/9.avif" alt="Boton 11">
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <img src="IMAGEN/9.avif" alt="Boton 12">
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <img src="IMAGEN/9.avif" alt="Boton 13">
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <img src="IMAGEN/9.avif" alt="Boton 14">
-                </a>
-            </div>
-            <div class="card">
-                <a href="#">
-                    <img src="IMAGEN/9.avif" alt="Boton 15">
-                </a>
-            </div>
-        </div>
+  <div class="container">
+    <div class="grid-container">
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html"><img src="IMAGEN/1.avif" alt="INFORMATICA"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/cuentos-infantiles.html"><img src="IMAGEN/2.avif" alt="CUENTOS INFANTILES"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/MULTIMEDIA.html"><img src="IMAGEN/3.avif" alt="MULTIMEDIA"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/vestidos.html"><img src="IMAGEN/4.avif" alt="VESTIDOS"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/MIS-LUGARES/MIS-LUGARES.html"><img src="IMAGEN/5.avif" alt="MIS LUGARES"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/GANAR-ONLINE/GANAR-ONLINE.html"><img src="IMAGEN/6.avif" alt="GANAR ONLINE"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/METEO/METEO.html"><img src="IMAGEN/7.avif" alt="METEO"></a></div>
+      <div class="card"><a href="https://imagif.github.io/AURICULARES-OFERTAS/index.html"><img src="IMAGEN/auriculares_ofertas.avif" alt="OFERTAS DE AURICULARES"></a></div>
+      <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/MUNDIAL_2026/MUNDIAL-FUTBOL-2026"><img src="MUNDIAL_2026/IMAGEN/1.avif" alt="MUNDIAL_2026"></a></div>
+      <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 10"></a></div>
+      <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 11"></a></div>
+      <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 12"></a></div>
+      <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 13"></a></div>
+      <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 14"></a></div>
+      <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 15"></a></div>
     </div>
+  </div>
 
-    <footer class="page-footer">
-        <p>Creado por #imagif 2025</p>
-        <p>email: imagenesgifs@gmail.com</p>
-    </footer>
+  <footer class="page-footer">
+    <p>Creado por #imagif 2025</p>
+    <p>email: imagenesgifs@gmail.com</p>
+  </footer>
 </body>
 </html>
