@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Mundial FIFA 2026 · Datos en tiempo real</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+    }
+    body {
+      background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header, footer {
+      background: #000000cc;
+      backdrop-filter: blur(4px);
+      color: #f8f9fa;
+      text-align: center;
+      padding: 1.2rem;
+      border-bottom: 2px solid #ffd966;
+    }
+    footer {
+      border-top: 2px solid #ffd966;
+      border-bottom: none;
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+    .home-btn {
+      display: inline-block;
+      background: #ffd966;
+      color: #1e3a2f;
+      padding: 8px 18px;
+      border-radius: 40px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.2s;
+      margin-top: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    .home-btn:hover { background: #ffc107; transform: scale(1.02); }
+    main {
+      max-width: 1500px;
+      width: 95%;
+      margin: 30px auto;
+      background: rgba(255, 255, 255, 0.96);
+      border-radius: 32px;
+      padding: 24px 20px;
+      box-shadow: 0 20px 35px rgba(0,0,0,0.3);
+    }
+    h1 {
+      font-size: 2rem;
+      background: linear-gradient(135deg, #1f5e3a, #ffc857);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      display: inline-block;
+    }
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 30px;
+      border-bottom: 2px solid #cfe3cf;
+      padding-bottom: 10px;
+    }
+    .tab-btn {
+      background: #eef5ea;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.2s;
+      font-size: 1rem;
+    }
+    .tab-btn.activo {
+      background: #1f452f;
+      color: white;
+      box-shadow: 0 0 0 2px #ffd966;
+    }
+    .tab-contenido { display: none; }
+    .tab-contenido.activo { display: block; }
+    .subtitulo {
+      text-align: center;
+      color: #2c5a3b;
+      margin-bottom: 20px;
+      font-weight: 500;
+    }
+    .grupos-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(530px, 1fr));
+      gap: 25px;
+      margin-top: 15px;
+    }
+    .card-grupo {
+      background: #ffffffdd;
+      border-radius: 28px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      overflow: hidden;
+      border: 1px solid #e0e7d9;
+    }
+    .card-header {
+      background: #1f452f;
+      color: white;
+      padding: 12px 18px;
+      font-size: 1.4rem;
+      font-weight: bold;
+    }
+    .tabla-grupo {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+    }
+    .tabla-grupo th, .tabla-grupo td {
+      padding: 8px 4px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+    .equipo-nombre { text-align: left; font-weight: 500; padding-left: 10px; }
+    .filtro-fecha {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 25px;
+      background: #eef5ea;
+      padding: 12px;
+      border-radius: 48px;
+    }
+    .filtro-fecha button {
+      background: #2a6e46;
+      border: none;
+      padding: 6px 16px;
+      border-radius: 30px;
+      color: white;
+      cursor: pointer;
+    }
+    .filtro-fecha button.activo-fecha { background: #ffb347; color: #1e3a2f; }
+    .partido-item {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      background: white;
+      margin: 10px 0;
+      padding: 10px 14px;
+      border-radius: 48px;
+      gap: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    }
+    .partido-hora { background: #2c3e2b; color: white; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; white-space: nowrap; }
+    .equipos { flex: 2; font-weight: 600; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .tv-channel { background: #e9ecef; border-radius: 30px; padding: 4px 12px; font-size: 0.7rem; font-weight: bold; }
+    .reset-btn {
+      background: #8b5a2b;
+      color: white;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    @media (max-width: 700px) {
+      .grupos-grid { grid-template-columns: 1fr; }
+      .partido-item { flex-direction: column; align-items: stretch; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>🏆 MUNDIAL FIFA 2026 🏆</h1>
+  <p>Canadá · México · Estados Unidos | 11 junio – 19 julio | Datos en tiempo real</p>
+  <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/">🏠 INICIO</a>
+</header>
+
+<main>
+  <div class="tabs">
+    <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
+    <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
+  </div>
+
+  <div id="clasificacion" class="tab-contenido activo">
+    <div class="subtitulo">⚽ Clasificación oficial de grupos · Actualización automática</div>
+    <div id="gruposContainer" class="grupos-grid">
+      <div class="card-grupo"><div class="card-header">Cargando...</div></div>
+    </div>
+  </div>
+
+  <div id="calendario" class="tab-contenido">
+    <div class="subtitulo">📆 Partidos del Mundial 2026 · Resultados en directo</div>
+    <div id="fechasFiltro" class="filtro-fecha"></div>
+    <div id="partidosFechaContainer">
+      <div style="text-align:center; padding:40px;">Cargando calendario...</div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>⚽ Datos proporcionados por <a href="https://sportscore.com/" rel="dofollow" target="_blank" style="color:#ffd966;">SportScore</a> · Actualización automática cada 60 segundos.</p>
+  <p><a href="https://imagif.github.io/MI-WEB-DE/" style="color:#ffd966;">Volver al inicio</a></p>
+</footer>
+
+<script>
+  // Configuración
+  const SPORTSCORE_API = 'https://sportscore.com/api/widget';
+  let intervalActualizacion = null;
+
+  // Elementos del DOM
+  const gruposContainer = document.getElementById('gruposContainer');
+  const fechasFiltro = document.getElementById('fechasFiltro');
+  const partidosContainer = document.getElementById('partidosFechaContainer');
+
+  // Estado para no sobrecargar
+  let cargandoPartidos = false;
+  let cargandoStandings = false;
+
+  // ==================== FUNCIONES DE RENDERIZADO ====================
+
+  function renderizarClasificacion(standingsData) {
+    if (!standingsData || !standingsData.data || !standingsData.data.standings) {
+      gruposContainer.innerHTML = '<div class="card-grupo"><div class="card-header">Error al cargar clasificación</div></div>';
+      return;
+    }
+
+    const grupos = standingsData.data.standings;
+    let html = '';
+
+    for (const grupo of grupos) {
+      const nombreGrupo = grupo.group_name || grupo.group || 'Grupo';
+      const teams = grupo.standings || grupo.teams || [];
+
+      html += `
+        <div class="card-grupo">
+          <div class="card-header">${nombreGrupo}</div>
+          <table class="tabla-grupo">
+            <thead>
+              <tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr>
+            </thead>
+            <tbody>
+      `;
+
+      teams.forEach((team, idx) => {
+        const pos = idx + 1;
+        html += `
+          <tr>
+            <td>${pos}</td>
+            <td class="equipo-nombre">${team.team_name || team.name || '???'}</td>
+            <td>${team.played || team.matches_played || 0}</td>
+            <td>${team.wins || 0}</td>
+            <td>${team.draws || 0}</td>
+            <td>${team.losses || 0}</td>
+            <td>${team.goals_for || team.gf || 0}</td>
+            <td>${team.goals_against || team.ga || 0}</td>
+            <td>${(team.goals_for - team.goals_against) || team.goal_diff || 0}</td>
+            <td>${team.points || 0}</td>
+          </tr>
+        `;
+      });
+
+      html += `</tbody></table></div>`;
+    }
+
+    gruposContainer.innerHTML = html;
+  }
+
+  function renderizarCalendario(matchesData) {
+    if (!matchesData || !matchesData.data || !matchesData.data.matches) {
+      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">No se pudieron cargar los partidos</div>';
+      return;
+    }
+
+    const matches = matchesData.data.matches;
+    if (matches.length === 0) {
+      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">No hay partidos disponibles</div>';
+      fechasFiltro.innerHTML = '';
+      return;
+    }
+
+    // Agrupar partidos por fecha
+    const partidosPorFecha = new Map();
+    matches.forEach(match => {
+      const fechaRaw = match.start_time || match.date || match.start_date;
+      let fechaStr = 'Fecha por definir';
+      if (fechaRaw) {
+        const fechaObj = new Date(fechaRaw);
+        if (!isNaN(fechaObj.getTime())) {
+          fechaStr = fechaObj.toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit' });
+        } else {
+          fechaStr = fechaRaw.substring(0, 10);
+        }
+      }
+
+      if (!partidosPorFecha.has(fechaStr)) {
+        partidosPorFecha.set(fechaStr, []);
+      }
+      partidosPorFecha.get(fechaStr).push(match);
+    });
+
+    // Ordenar fechas cronológicamente
+    const fechasOrdenadas = Array.from(partidosPorFecha.keys()).sort((a, b) => {
+      const [da, ma] = a.split('/');
+      const [db, mb] = b.split('/');
+      const fechaA = new Date(2026, parseInt(ma) - 1, parseInt(da));
+      const fechaB = new Date(2026, parseInt(mb) - 1, parseInt(db));
+      return fechaA - fechaB;
+    });
+
+    // Renderizar filtros de fechas
+    fechasFiltro.innerHTML = '';
+    fechasOrdenadas.forEach(fecha => {
+      const btn = document.createElement('button');
+      btn.textContent = fecha;
+      btn.onclick = () => filtrarPartidosPorFecha(fecha, fechasOrdenadas, partidosPorFecha);
+      fechasFiltro.appendChild(btn);
+    });
+
+    // Mostrar primera fecha por defecto
+    if (fechasOrdenadas.length > 0) {
+      filtrarPartidosPorFecha(fechasOrdenadas[0], fechasOrdenadas, partidosPorFecha);
+    }
+  }
+
+  function filtrarPartidosPorFecha(fechaActiva, fechasOrdenadas, partidosPorFecha) {
+    // Resaltar botón activo
+    const botones = document.querySelectorAll('#fechasFiltro button');
+    botones.forEach(btn => {
+      if (btn.textContent === fechaActiva) {
+        btn.classList.add('activo-fecha');
+      } else {
+        btn.classList.remove('activo-fecha');
+      }
+    });
+
+    const matches = partidosPorFecha.get(fechaActiva) || [];
+    if (matches.length === 0) {
+      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">No hay partidos en esta fecha</div>';
+      return;
+    }
+
+    let html = '';
+    matches.forEach(match => {
+      const homeTeam = match.home_team?.name || match.home_team || 'Local';
+      const awayTeam = match.away_team?.name || match.away_team || 'Visitante';
+      const homeScore = match.home_score !== undefined ? match.home_score : (match.status === 'FT' ? match.score?.home : '-');
+      const awayScore = match.away_score !== undefined ? match.away_score : (match.status === 'FT' ? match.score?.away : '-');
+      const status = match.status || 'Programado';
+      const timeStr = match.start_time ? new Date(match.start_time).toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' }) : '';
+
+      html += `
+        <div class="partido-item">
+          <div class="partido-hora">📅 ${fechaActiva} ${timeStr ? timeStr : ''}</div>
+          <div class="equipos">
+            <strong>${homeTeam}</strong>
+            <span style="font-weight:700; min-width:50px; text-align:center;">
+              ${homeScore !== '-' ? homeScore : ''} ${homeScore !== '-' && awayScore !== '-' ? ' - ' : ''} ${awayScore !== '-' ? awayScore : ''}
+            </span>
+            <strong>${awayTeam}</strong>
+          </div>
+          <div class="tv-channel">📺 ${status === 'FT' ? 'Finalizado' : status === 'LIVE' ? 'EN VIVO' : 'Programado'}</div>
+        </div>
+      `;
+    });
+
+    partidosContainer.innerHTML = html;
+  }
+
+  // ==================== CONSULTAS A LA API ====================
+
+  async function obtenerClasificacion() {
+    if (cargandoStandings) return;
+    cargandoStandings = true;
+
+    try {
+      const response = await fetch(`${SPORTSCORE_API}/standings/?sport=football&slug=fifa-world-cup`);
+      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+      const data = await response.json();
+      renderizarClasificacion(data);
+    } catch (error) {
+      console.error('Error obteniendo clasificación:', error);
+      gruposContainer.innerHTML = '<div class="card-grupo"><div class="card-header">Error al cargar clasificación</div></div>';
+    } finally {
+      cargandoStandings = false;
+    }
+  }
+
+  async function obtenerPartidos() {
+    if (cargandoPartidos) return;
+    cargandoPartidos = true;
+
+    try {
+      const response = await fetch(`${SPORTSCORE_API}/matches/?sport=football&limit=100`);
+      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+      const data = await response.json();
+
+      // Filtrar solo partidos del Mundial 2026 (por league o competition)
+      if (data.data && data.data.matches) {
+        data.data.matches = data.data.matches.filter(match => {
+          const competition = match.competition?.name || match.league?.name || '';
+          return competition.toLowerCase().includes('world cup') || competition.toLowerCase().includes('copa mundial');
+        });
+      }
+
+      renderizarCalendario(data);
+    } catch (error) {
+      console.error('Error obteniendo partidos:', error);
+      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">Error al cargar los partidos</div>';
+    } finally {
+      cargandoPartidos = false;
+    }
+  }
+
+  async function actualizarTodo() {
+    await Promise.all([
+      obtenerClasificacion(),
+      obtenerPartidos()
+    ]);
+  }
+
+  // ==================== INICIALIZACIÓN ====================
+
+  function iniciarActualizacionAutomatica() {
+    if (intervalActualizacion) clearInterval(intervalActualizacion);
+    actualizarTodo();
+    intervalActualizacion = setInterval(actualizarTodo, 60000); // cada 60 segundos
+  }
+
+  function init() {
+    iniciarActualizacionAutomatica();
+
+    // Tabs
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tab = btn.dataset.tab;
+        document.querySelectorAll('.tab-contenido').forEach(t => t.classList.remove('activo'));
+        document.getElementById(tab).classList.add('activo');
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
+        btn.classList.add('activo');
+      });
+    });
+  }
+
+  init();
+</script>
+</body>
+</html>
