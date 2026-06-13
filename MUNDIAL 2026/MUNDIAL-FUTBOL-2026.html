@@ -159,7 +159,6 @@
     .tv-channel { background: #e9ecef; border-radius: 30px; padding: 4px 12px; font-size: 0.7rem; font-weight: bold; }
     .loading, .error { text-align: center; padding: 40px; font-weight: bold; }
     .error { color: #c00; }
-    /* Estilos fase final */
     .ronda {
       margin-bottom: 35px;
       border-bottom: 1px solid #ddd;
@@ -231,7 +230,7 @@
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
-    <div class="subtitulo">⚽ Clasificación de grupos · Calculada a partir de los resultados reales</div>
+    <div class="subtitulo">⚽ Clasificación de grupos · Solo partidos con resultado</div>
     <div id="gruposContainer" class="grupos-grid"><div class="loading">Cargando...</div></div>
   </div>
 
@@ -242,7 +241,7 @@
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
-    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento (notación de posiciones hasta que los grupos estén completos)</div>
+    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento (notación hasta que grupos estén definidos)</div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
 </main>
@@ -253,19 +252,16 @@
 </footer>
 
 <script>
-  // URL del JSON oficial (actualizado manualmente por la comunidad)
   const DATA_URL = 'https://cdn.jsdelivr.net/gh/openfootball/worldcup.json@master/2026/worldcup.json';
 
   let matchesAll = [];
-  let groupsData = {};       // { "Grupo A": { "España": {Pts,PJ,...}, ... } }
+  let groupsData = {};
 
-  // Elementos
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
 
-  // ========== CONVERSIÓN HORARIA A MADRID ==========
   function convertToMadridTime(timeStr) {
     if (!timeStr) return '';
     const regex = /(\d{2}:\d{2})\s*UTC([+-]\d+)/;
@@ -279,7 +275,6 @@
     return `${madridHour.toString().padStart(2,'0')}:${minute.toString().padStart(2,'0')}`;
   }
 
-  // ========== CARGA DE DATOS Y CÁLCULO DE CLASIFICACIÓN ==========
   async function loadData() {
     try {
       const res = await fetch(DATA_URL);
@@ -292,9 +287,9 @@
       renderFaseFinal();
     } catch (err) {
       console.error(err);
-      gruposContainer.innerHTML = '<div class="error">Error cargando datos. Intenta más tarde.</div>';
-      partidosContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
-      bracketsContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
+      gruposContainer.innerHTML = '<div class="error">Error cargando datos</div>';
+      partidosContainer.innerHTML = '<div class="error">Error cargando datos</div>';
+      bracketsContainer.innerHTML = '<div class="error">Error cargando datos</div>';
     }
   }
 
@@ -302,15 +297,13 @@
     groupsData = {};
     matchesAll.forEach(match => {
       if (!match.group) return;
+      // Solo contamos partidos que tienen resultado (score.ft)
+      if (!match.score || !match.score.ft) return;  // No jugado aún
       const grp = match.group;
       if (!groupsData[grp]) groupsData[grp] = {};
       const team1 = match.team1, team2 = match.team2;
-      let g1 = 0, g2 = 0;
-      if (match.score && match.score.ft) {
-        g1 = match.score.ft[0];
-        g2 = match.score.ft[1];
-      }
-      // Inicializar
+      const g1 = match.score.ft[0];
+      const g2 = match.score.ft[1];
       for (let t of [team1, team2]) {
         if (!groupsData[grp][t]) groupsData[grp][t] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
       }
@@ -325,7 +318,7 @@
       } else if (g2 > g1) {
         s2.G++; s2.Pts += 3;
         s1.P++;
-      } else if (match.score && match.score.ft) {
+      } else {
         s1.E++; s2.E++;
         s1.Pts += 1; s2.Pts += 1;
       }
@@ -345,7 +338,10 @@
   }
 
   function renderClasificacion() {
-    if (Object.keys(groupsData).length === 0) return;
+    if (Object.keys(groupsData).length === 0) {
+      gruposContainer.innerHTML = '<div class="loading">No hay resultados aún</div>';
+      return;
+    }
     let html = '';
     for (const [grp, teams] of Object.entries(groupsData)) {
       html += `<div class="card-grupo"><div class="card-header">${grp}</div><table class="tabla-grupo"><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr></thead><tbody>`;
@@ -395,9 +391,8 @@
     partidosContainer.innerHTML = html;
   }
 
-  // ========== FASE FINAL: CRUCES POR POSICIONES (SIN NOMBRES HASTA QUE GRUPOS COMPLETOS) ==========
+  // ========== FASE FINAL: CRUCES SEGÚN REGLAMENTO ==========
   function getTeamByPosition(groupId, position) {
-    // groupId ej: "Grupo A", position: 1,2,3
     if (!groupsData[groupId]) return null;
     const teams = Object.keys(groupsData[groupId]);
     if (teams.length >= position) return teams[position-1];
@@ -422,21 +417,19 @@
     return thirds.slice(0,8);
   }
 
-  // Devuelve el nombre a mostrar: si la fase de grupos está completa para ese equipo (PJ=3), muestra el nombre real; si no, muestra la notación.
+  // Mostrar notación o nombre real solo si el equipo ha completado sus 3 partidos (PJ === 3)
   function displayTeam(posCode) {
-    // posCode ej: "1A", "2B", "3C", "mejor3_1" (para los mejores terceros)
     if (posCode.startsWith('mejor3_')) {
       const idx = parseInt(posCode.split('_')[1]) - 1;
       const terceros = getBestThirdPlaces();
       if (terceros.length > idx && terceros[idx]) {
-        // Verificar si el equipo tiene sus 3 partidos jugados
         const eq = terceros[idx].equipo;
         const grupo = terceros[idx].grupo;
         if (groupsData[grupo] && groupsData[grupo][eq] && groupsData[grupo][eq].PJ === 3) {
           return eq;
         }
       }
-      return posCode; // ej. "mejor3_1" (notación)
+      return posCode;
     }
     // Formato "1A", "2B", "3C"
     let pos = parseInt(posCode[0]);
@@ -450,16 +443,12 @@
     return posCode;
   }
 
-  // Definición de los 16 cruces de dieciseisavos según el anexo C (primeras combinaciones estándar)
-  // Nota: Se usan las posiciones según el reglamento. Los mejores terceros se asignan en orden.
   function buildRoundOf32() {
     const terceros = getBestThirdPlaces();
-    // Función para obtener el código del mejor tercero según índice (1..8)
     const getThirdCode = (idx) => {
       if (terceros.length >= idx) return `mejor3_${idx}`;
       return `3º#${idx}`;
     };
-    // Cruces oficiales (Artículo 12.6 del PDF)
     return [
       { id: 'R32_1', local: '2A', away: '2B' },
       { id: 'R32_2', local: '1E', away: getThirdCode(1) },
@@ -486,7 +475,6 @@
       return;
     }
     const r32 = buildRoundOf32();
-    // Mostrar dieciseisavos
     let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL</h3><div class="cruces">`;
     r32.forEach(m => {
       const localDisplay = displayTeam(m.local);
@@ -503,21 +491,16 @@
       `;
     });
     html += `</div></div>`;
-
-    // Octavos, cuartos, etc. (solo estructura, los ganadores se actualizarán con resultados reales)
-    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces"><div class="match-card">Ganador R32_1 vs Ganador R32_2</div><div class="match-card">Ganador R32_3 vs Ganador R32_4</div><div class="match-card">Ganador R32_5 vs Ganador R32_6</div><div class="match-card">Ganador R32_7 vs Ganador R32_8</div><div class="match-card">Ganador R32_9 vs Ganador R32_10</div><div class="match-card">Ganador R32_11 vs Ganador R32_12</div><div class="match-card">Ganador R32_13 vs Ganador R32_14</div><div class="match-card">Ganador R32_15 vs Ganador R32_16</div></div></div>`;
-    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces"><div class="match-card">Ganador Octavos 1 vs Ganador Octavos 2</div><div class="match-card">Ganador Octavos 3 vs Ganador Octavos 4</div><div class="match-card">Ganador Octavos 5 vs Ganador Octavos 6</div><div class="match-card">Ganador Octavos 7 vs Ganador Octavos 8</div></div></div>`;
+    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces">${[...Array(8)].map((_,i) => `<div class="match-card">Ganador R32_${i*2+1} vs Ganador R32_${i*2+2}</div>`).join('')}</div></div>`;
+    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">${[...Array(4)].map((_,i) => `<div class="match-card">Ganador Octavos ${i+1} vs Ganador Octavos ${i+2}</div>`).join('')}</div></div>`;
     html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces"><div class="match-card">Ganador Cuartos 1 vs Ganador Cuartos 2</div><div class="match-card">Ganador Cuartos 3 vs Ganador Cuartos 4</div></div></div>`;
     html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces"><div class="match-card">Perdedor Semifinal 1 vs Perdedor Semifinal 2</div></div></div>`;
     html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
-
     bracketsContainer.innerHTML = html;
   }
 
-  // Inicialización
   loadData();
 
-  // Tabs
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const tabId = btn.dataset.tab;
