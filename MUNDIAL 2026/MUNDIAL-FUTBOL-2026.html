@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final (Cruces por posiciones)</title>
+  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
   <style>
     * {
       margin: 0;
@@ -230,18 +230,18 @@
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
-    <div class="subtitulo">⚽ Clasificación de grupos · Solo partidos con resultado</div>
-    <div id="gruposContainer" class="grupos-grid"><div class="loading">Cargando...</div></div>
+    <div class="subtitulo">⚽ Clasificación de grupos · Solo se contabilizan partidos con resultado</div>
+    <div id="gruposContainer" class="grupos-grid"><div class="loading">Cargando grupos...</div></div>
   </div>
 
   <div id="calendario" class="tab-contenido">
     <div class="subtitulo">📆 Calendario y resultados (hora local convertida a Madrid)</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
-    <div id="partidosFechaContainer"><div class="loading">Cargando...</div></div>
+    <div id="partidosFechaContainer"><div class="loading">Cargando partidos...</div></div>
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
-    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento (notación hasta que grupos estén definidos)</div>
+    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento (notación de posiciones hasta que grupos se definan)</div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
 </main>
@@ -255,13 +255,16 @@
   const DATA_URL = 'https://cdn.jsdelivr.net/gh/openfootball/worldcup.json@master/2026/worldcup.json';
 
   let matchesAll = [];
-  let groupsData = {};
+  let groupsStructure = {};   // Guarda la estructura original de grupos (equipos, partidos)
+  let groupsStats = {};       // Estadísticas actualizadas (solo partidos con resultado)
 
+  // Elementos DOM
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
 
+  // Conversión horaria a Madrid
   function convertToMadridTime(timeStr) {
     if (!timeStr) return '';
     const regex = /(\d{2}:\d{2})\s*UTC([+-]\d+)/;
@@ -275,40 +278,66 @@
     return `${madridHour.toString().padStart(2,'0')}:${minute.toString().padStart(2,'0')}`;
   }
 
+  // Cargar datos y construir estructuras
   async function loadData() {
     try {
       const res = await fetch(DATA_URL);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       matchesAll = data.matches;
-      calculateStandings();
+      buildGroupsStructure();
+      updateStats();
       renderClasificacion();
       renderCalendario();
       renderFaseFinal();
     } catch (err) {
       console.error(err);
-      gruposContainer.innerHTML = '<div class="error">Error cargando datos</div>';
-      partidosContainer.innerHTML = '<div class="error">Error cargando datos</div>';
-      bracketsContainer.innerHTML = '<div class="error">Error cargando datos</div>';
+      gruposContainer.innerHTML = '<div class="error">Error cargando datos. Intenta más tarde.</div>';
+      partidosContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
+      bracketsContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
     }
   }
 
-  function calculateStandings() {
-    groupsData = {};
+  // Construye la lista de grupos y equipos desde los partidos (todos, incluso sin resultado)
+  function buildGroupsStructure() {
+    groupsStructure = {};
     matchesAll.forEach(match => {
       if (!match.group) return;
-      // Solo contamos partidos que tienen resultado (score.ft)
-      if (!match.score || !match.score.ft) return;  // No jugado aún
       const grp = match.group;
-      if (!groupsData[grp]) groupsData[grp] = {};
+      if (!groupsStructure[grp]) {
+        groupsStructure[grp] = { equipos: new Set(), partidos: [] };
+      }
+      groupsStructure[grp].equipos.add(match.team1);
+      groupsStructure[grp].equipos.add(match.team2);
+      groupsStructure[grp].partidos.push(match);
+    });
+    // Convertir Set a array ordenado (opcional)
+    for (let grp in groupsStructure) {
+      groupsStructure[grp].equipos = Array.from(groupsStructure[grp].equipos).sort();
+    }
+  }
+
+  // Actualiza las estadísticas solo con partidos que tienen score.ft (resultado)
+  function updateStats() {
+    groupsStats = {};
+    // Inicializar estadísticas para todos los equipos de todos los grupos
+    for (let grp in groupsStructure) {
+      groupsStats[grp] = {};
+      for (let equipo of groupsStructure[grp].equipos) {
+        groupsStats[grp][equipo] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
+      }
+    }
+    // Recorrer partidos y sumar solo los que tienen resultado
+    matchesAll.forEach(match => {
+      if (!match.group) return;
+      if (!match.score || !match.score.ft) return; // no jugado aún
+      const grp = match.group;
       const team1 = match.team1, team2 = match.team2;
       const g1 = match.score.ft[0];
       const g2 = match.score.ft[1];
-      for (let t of [team1, team2]) {
-        if (!groupsData[grp][t]) groupsData[grp][t] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
-      }
-      const s1 = groupsData[grp][team1];
-      const s2 = groupsData[grp][team2];
+      const s1 = groupsStats[grp][team1];
+      const s2 = groupsStats[grp][team2];
+      if (!s1 || !s2) return;
       s1.PJ++; s2.PJ++;
       s1.GF += g1; s1.GC += g2;
       s2.GF += g2; s2.GC += g1;
@@ -325,25 +354,25 @@
       s1.DG = s1.GF - s1.GC;
       s2.DG = s2.GF - s2.GC;
     });
-    // Ordenar cada grupo
-    for (let grp in groupsData) {
-      const arr = Object.entries(groupsData[grp]);
-      arr.sort((a,b) => {
+    // Ordenar cada grupo por puntos, DG, GF
+    for (let grp in groupsStats) {
+      const entries = Object.entries(groupsStats[grp]);
+      entries.sort((a,b) => {
         if (a[1].Pts !== b[1].Pts) return b[1].Pts - a[1].Pts;
         if (a[1].DG !== b[1].DG) return b[1].DG - a[1].DG;
         return b[1].GF - a[1].GF;
       });
-      groupsData[grp] = Object.fromEntries(arr);
+      groupsStats[grp] = Object.fromEntries(entries);
     }
   }
 
   function renderClasificacion() {
-    if (Object.keys(groupsData).length === 0) {
-      gruposContainer.innerHTML = '<div class="loading">No hay resultados aún</div>';
+    if (Object.keys(groupsStats).length === 0) {
+      gruposContainer.innerHTML = '<div class="loading">Cargando clasificación...</div>';
       return;
     }
     let html = '';
-    for (const [grp, teams] of Object.entries(groupsData)) {
+    for (const [grp, teams] of Object.entries(groupsStats)) {
       html += `<div class="card-grupo"><div class="card-header">${grp}</div><table class="tabla-grupo"><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr></thead><tbody>`;
       let idx = 1;
       for (const [equipo, stats] of Object.entries(teams)) {
@@ -375,7 +404,7 @@
       btn.classList.toggle('activo-fecha', btn.textContent === date);
     });
     const matches = byDate.get(date) || [];
-    if (!matches.length) { partidosContainer.innerHTML = '<div class="loading">Sin partidos</div>'; return; }
+    if (!matches.length) { partidosContainer.innerHTML = '<div class="loading">No hay partidos en esta fecha</div>'; return; }
     let html = '';
     matches.forEach(m => {
       let score = '-';
@@ -391,21 +420,21 @@
     partidosContainer.innerHTML = html;
   }
 
-  // ========== FASE FINAL: CRUCES SEGÚN REGLAMENTO ==========
+  // ---------- FASE FINAL (siempre visible con notaciones) ----------
   function getTeamByPosition(groupId, position) {
-    if (!groupsData[groupId]) return null;
-    const teams = Object.keys(groupsData[groupId]);
+    if (!groupsStats[groupId]) return null;
+    const teams = Object.keys(groupsStats[groupId]);
     if (teams.length >= position) return teams[position-1];
     return null;
   }
 
   function getBestThirdPlaces() {
     let thirds = [];
-    for (let grp in groupsData) {
-      const teams = Object.keys(groupsData[grp]);
+    for (let grp in groupsStats) {
+      const teams = Object.keys(groupsStats[grp]);
       if (teams.length >= 3) {
         const third = teams[2];
-        const stats = groupsData[grp][third];
+        const stats = groupsStats[grp][third];
         thirds.push({ grupo: grp, equipo: third, pts: stats.Pts, dg: stats.DG, gf: stats.GF });
       }
     }
@@ -417,7 +446,7 @@
     return thirds.slice(0,8);
   }
 
-  // Mostrar notación o nombre real solo si el equipo ha completado sus 3 partidos (PJ === 3)
+  // Mostrar nombre real solo si el equipo ha completado sus 3 partidos (PJ === 3)
   function displayTeam(posCode) {
     if (posCode.startsWith('mejor3_')) {
       const idx = parseInt(posCode.split('_')[1]) - 1;
@@ -425,19 +454,18 @@
       if (terceros.length > idx && terceros[idx]) {
         const eq = terceros[idx].equipo;
         const grupo = terceros[idx].grupo;
-        if (groupsData[grupo] && groupsData[grupo][eq] && groupsData[grupo][eq].PJ === 3) {
+        if (groupsStats[grupo] && groupsStats[grupo][eq] && groupsStats[grupo][eq].PJ === 3) {
           return eq;
         }
       }
       return posCode;
     }
-    // Formato "1A", "2B", "3C"
-    let pos = parseInt(posCode[0]);
-    let groupLetter = posCode[1];
-    let groupName = `Grupo ${groupLetter}`;
-    if (!groupsData[groupName]) return posCode;
-    let team = getTeamByPosition(groupName, pos);
-    if (team && groupsData[groupName][team] && groupsData[groupName][team].PJ === 3) {
+    const pos = parseInt(posCode[0]);
+    const groupLetter = posCode[1];
+    const groupName = `Grupo ${groupLetter}`;
+    if (!groupsStats[groupName]) return posCode;
+    const team = getTeamByPosition(groupName, pos);
+    if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ === 3) {
       return team;
     }
     return posCode;
@@ -470,10 +498,6 @@
   }
 
   function renderFaseFinal() {
-    if (Object.keys(groupsData).length < 12) {
-      bracketsContainer.innerHTML = '<div class="loading">Esperando datos de grupos...</div>';
-      return;
-    }
     const r32 = buildRoundOf32();
     let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL</h3><div class="cruces">`;
     r32.forEach(m => {
@@ -491,16 +515,40 @@
       `;
     });
     html += `</div></div>`;
-    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces">${[...Array(8)].map((_,i) => `<div class="match-card">Ganador R32_${i*2+1} vs Ganador R32_${i*2+2}</div>`).join('')}</div></div>`;
-    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">${[...Array(4)].map((_,i) => `<div class="match-card">Ganador Octavos ${i+1} vs Ganador Octavos ${i+2}</div>`).join('')}</div></div>`;
-    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces"><div class="match-card">Ganador Cuartos 1 vs Ganador Cuartos 2</div><div class="match-card">Ganador Cuartos 3 vs Ganador Cuartos 4</div></div></div>`;
+    // Octavos, cuartos, etc. (estructura estática con referencias a ganadores)
+    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces">`;
+    for (let i = 0; i < 8; i++) {
+      html += `<div class="match-card">Ganador R32_${i*2+1} vs Ganador R32_${i*2+2}</div>`;
+    }
+    html += `</div></div>`;
+    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">`;
+    for (let i = 0; i < 4; i++) {
+      html += `<div class="match-card">Ganador Octavos ${i+1} vs Ganador Octavos ${i+2}</div>`;
+    }
+    html += `</div></div>`;
+    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces">
+      <div class="match-card">Ganador Cuartos 1 vs Ganador Cuartos 2</div>
+      <div class="match-card">Ganador Cuartos 3 vs Ganador Cuartos 4</div>
+    </div></div>`;
     html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces"><div class="match-card">Perdedor Semifinal 1 vs Perdedor Semifinal 2</div></div></div>`;
     html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
     bracketsContainer.innerHTML = html;
   }
 
-  loadData();
+  // Recargar datos periódicamente (cada 60 segundos) para reflejar actualizaciones del JSON
+  let interval;
+  function startAutoRefresh() {
+    if (interval) clearInterval(interval);
+    interval = setInterval(() => {
+      loadData();
+    }, 60000);
+  }
 
+  // Inicialización
+  loadData();
+  startAutoRefresh();
+
+  // Manejo de pestañas
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const tabId = btn.dataset.tab;
