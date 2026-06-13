@@ -256,8 +256,14 @@
 
       const team1 = match.team1;
       const team2 = match.team2;
-      const score1 = parseInt(match.score1) || 0;
-      const score2 = parseInt(match.score2) || 0;
+      
+      // Obtener los goles del objeto score.ft (full time) si existe
+      let score1 = 0;
+      let score2 = 0;
+      if (match.score && match.score.ft) {
+        score1 = match.score.ft[0];
+        score2 = match.score.ft[1];
+      }
 
       // Inicializar equipos si no existen
       if (!groupsData[groupName][team1]) {
@@ -284,10 +290,13 @@
         groupsData[groupName][team2].Pts += 3;
         groupsData[groupName][team1].P++;
       } else {
-        groupsData[groupName][team1].E++;
-        groupsData[groupName][team2].E++;
-        groupsData[groupName][team1].Pts += 1;
-        groupsData[groupName][team2].Pts += 1;
+        // Solo sumar puntos de empate si ambos equipos tienen al menos 1 gol (para evitar empates 0-0 en partidos no jugados)
+        if (score1 > 0 || score2 > 0 || (score1 === 0 && score2 === 0 && match.score && match.score.ft)) {
+          groupsData[groupName][team1].E++;
+          groupsData[groupName][team2].E++;
+          groupsData[groupName][team1].Pts += 1;
+          groupsData[groupName][team2].Pts += 1;
+        }
       }
 
       // Calcular diferencia de goles
@@ -404,9 +413,19 @@
 
     let html = '';
     matches.forEach(match => {
-      const scoreText = (match.score1 && match.score2) ? `${match.score1} - ${match.score2}` : 'vs';
+      // Obtener el marcador del objeto score.ft
+      let scoreText = '-';
+      if (match.score && match.score.ft) {
+        scoreText = `${match.score.ft[0]} - ${match.score.ft[1]}`;
+      }
       const roundText = match.round || '';
-      const timeText = match.time || '';
+      // Formatear la hora para mostrar solo la hora local
+      let timeText = match.time || '';
+      if (timeText) {
+        // Extraer solo la hora (ej. "13:00 UTC-6" -> "13:00")
+        const hourMatch = timeText.match(/\d{2}:\d{2}/);
+        if (hourMatch) timeText = hourMatch[0];
+      }
       html += `
         <div class="partido-item">
           <div class="partido-hora">📅 ${activeDate} ${timeText ? `- ${timeText}` : ''}</div>
