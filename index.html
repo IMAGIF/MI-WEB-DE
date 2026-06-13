@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MI WEB DE</title>
+
   <style>
     * {
       margin: 0;
@@ -31,11 +32,9 @@
       padding: 10px 20px;
       background: red;
       color: white;
-      border: none;
       border-radius: 5px;
-      cursor: pointer;
       text-decoration: none;
-      text-align: center;
+      cursor: pointer;
     }
 
     .container {
@@ -44,6 +43,7 @@
       padding: 20px;
     }
 
+    /* NUEVA CUADRÍCULA MEJORADA */
     .grid-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -55,14 +55,12 @@
       border-radius: 15px;
       overflow: hidden;
       transition: transform 0.3s ease;
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+      background: #000;
+      height: 220px;
       display: flex;
-      flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 220px;
-      position: relative;
-      background-color: #000;
     }
 
     .card:hover {
@@ -70,23 +68,17 @@
     }
 
     .card a {
-      text-decoration: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
       width: 100%;
       height: 100%;
-      color: inherit;
-      position: relative;
-      z-index: 1;
+      display: block;
     }
 
+    /* 🔥 NUEVO SISTEMA DE IMÁGENES SIN MÁRGENES NI RECORTES */
     .card img {
       width: 100%;
       height: 100%;
-      object-fit: contain; /* evita cortes */
-      background-color: #000; /* fondo neutro */
+      object-fit: cover;      /* Rellena la tarjeta */
+      aspect-ratio: 4 / 3;    /* Proporción equilibrada */
       border-radius: 10px;
     }
 
@@ -94,13 +86,12 @@
       .grid-container {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
       }
-      .home-button {
-        margin: 10px auto;
-      }
     }
   </style>
 </head>
+
 <body>
+
   <header class="page-header">
     <h1>MI WEB DE</h1>
   </header>
@@ -109,21 +100,32 @@
 
   <div class="container">
     <div class="grid-container">
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/INFORMATICA/INFORMATICA.html"><img src="IMAGEN/1.avif" alt="INFORMATICA"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/CUENTOS-INFANTILES/cuentos-infantiles.html"><img src="IMAGEN/2.avif" alt="CUENTOS INFANTILES"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/MULTIMEDIA/MULTIMEDIA.html"><img src="IMAGEN/3.avif" alt="MULTIMEDIA"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/VESTIDOS/vestidos.html"><img src="IMAGEN/4.avif" alt="VESTIDOS"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/MIS-LUGARES/MIS-LUGARES.html"><img src="IMAGEN/5.avif" alt="MIS LUGARES"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/GANAR-ONLINE/GANAR-ONLINE.html"><img src="IMAGEN/6.avif" alt="GANAR ONLINE"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/METEO/METEO.html"><img src="IMAGEN/7.avif" alt="METEO"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/AURICULARES-OFERTAS/index.html"><img src="IMAGEN/auriculares_ofertas.avif" alt="OFERTAS DE AURICULARES"></a></div>
+
       <div class="card"><a href="https://imagif.github.io/MI-WEB-DE/MUNDIAL_2026/MUNDIAL-FUTBOL-2026"><img src="MUNDIAL_2026/IMAGEN/1.avif" alt="MUNDIAL_2026"></a></div>
+
       <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 10"></a></div>
       <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 11"></a></div>
       <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 12"></a></div>
       <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 13"></a></div>
       <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 14"></a></div>
       <div class="card"><a href="#"><img src="IMAGEN/9.avif" alt="Boton 15"></a></div>
+
     </div>
   </div>
 
@@ -131,5 +133,6 @@
     <p>Creado por #imagif 2025</p>
     <p>email: imagenesgifs@gmail.com</p>
   </footer>
+
 </body>
 </html>
