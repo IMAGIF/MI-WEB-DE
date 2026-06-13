@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Mundial FIFA 2026 · Datos en tiempo real</title>
+  <title>Mundial FIFA 2026 · Calendario y Clasificación</title>
   <style>
     * {
       margin: 0;
@@ -157,6 +157,8 @@
     .partido-hora { background: #2c3e2b; color: white; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; white-space: nowrap; }
     .equipos { flex: 2; font-weight: 600; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
     .tv-channel { background: #e9ecef; border-radius: 30px; padding: 4px 12px; font-size: 0.7rem; font-weight: bold; }
+    .loading, .error { text-align: center; padding: 40px; font-weight: bold; }
+    .error { color: #c00; }
     .reset-btn {
       background: #8b5a2b;
       color: white;
@@ -176,7 +178,7 @@
 <body>
 <header>
   <h1>🏆 MUNDIAL FIFA 2026 🏆</h1>
-  <p>Canadá · México · Estados Unidos | 11 junio – 19 julio | Datos en tiempo real</p>
+  <p>Canadá · México · Estados Unidos | 11 junio – 19 julio | Datos basados en el repositorio abierto openfootball/worldcup.json</p>
   <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/">🏠 INICIO</a>
 </header>
 
@@ -187,259 +189,251 @@
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
-    <div class="subtitulo">⚽ Clasificación oficial de grupos · Actualización automática</div>
+    <div class="subtitulo">⚽ Clasificación de grupos · Calculada a partir de los resultados oficiales</div>
     <div id="gruposContainer" class="grupos-grid">
-      <div class="card-grupo"><div class="card-header">Cargando...</div></div>
+      <div class="loading">Cargando clasificación...</div>
     </div>
   </div>
 
   <div id="calendario" class="tab-contenido">
-    <div class="subtitulo">📆 Partidos del Mundial 2026 · Resultados en directo</div>
+    <div class="subtitulo">📆 Calendario y resultados del torneo</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
     <div id="partidosFechaContainer">
-      <div style="text-align:center; padding:40px;">Cargando calendario...</div>
+      <div class="loading">Cargando partidos...</div>
     </div>
   </div>
 </main>
 
 <footer>
-  <p>⚽ Datos proporcionados por <a href="https://sportscore.com/" rel="dofollow" target="_blank" style="color:#ffd966;">SportScore</a> · Actualización automática cada 60 segundos.</p>
+  <p>⚽ Datos proporcionados por <a href="https://github.com/openfootball/worldcup.json" rel="dofollow" target="_blank" style="color:#ffd966;">openfootball/worldcup.json</a> · Un proyecto de código abierto.</p>
   <p><a href="https://imagif.github.io/MI-WEB-DE/" style="color:#ffd966;">Volver al inicio</a></p>
 </footer>
 
 <script>
-  // Configuración
-  const SPORTSCORE_API = 'https://sportscore.com/api/widget';
-  let intervalActualizacion = null;
+  // URL del archivo JSON con los datos del Mundial (usando jsDelivr como CDN)
+  const WORLDCUP_DATA_URL = 'https://cdn.jsdelivr.net/gh/openfootball/worldcup.json@master/2026/worldcup.json';
+
+  let matchesData = [];
+  let groupsData = {};
 
   // Elementos del DOM
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
 
-  // Estado para no sobrecargar
-  let cargandoPartidos = false;
-  let cargandoStandings = false;
+  // Función para cargar los datos desde el archivo JSON
+  async function loadWorldCupData() {
+    try {
+      const response = await fetch(WORLDCUP_DATA_URL);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      const data = await response.json();
+      matchesData = data.matches;
+      // Calcular la clasificación a partir de los partidos
+      calculateStandingsFromMatches(matchesData);
+      // Renderizar la interfaz
+      renderClasificacion();
+      renderCalendario();
+    } catch (error) {
+      console.error('Error cargando los datos:', error);
+      gruposContainer.innerHTML = '<div class="error">Error al cargar los datos. Por favor, intenta de nuevo más tarde.</div>';
+      partidosContainer.innerHTML = '<div class="error">Error al cargar los datos. Por favor, intenta de nuevo más tarde.</div>';
+    }
+  }
 
-  // ==================== FUNCIONES DE RENDERIZADO ====================
+  // Calcula la clasificación de grupos a partir de los resultados de los partidos
+  function calculateStandingsFromMatches(matches) {
+    // Reiniciar la estructura de grupos
+    groupsData = {};
 
-  function renderizarClasificacion(standingsData) {
-    if (!standingsData || !standingsData.data || !standingsData.data.standings) {
-      gruposContainer.innerHTML = '<div class="card-grupo"><div class="card-header">Error al cargar clasificación</div></div>';
+    matches.forEach(match => {
+      if (!match.group) return; // Ignorar partidos sin grupo (ej. finales)
+      const groupName = match.group;
+      if (!groupsData[groupName]) {
+        groupsData[groupName] = {};
+      }
+
+      const team1 = match.team1;
+      const team2 = match.team2;
+      const score1 = parseInt(match.score1) || 0;
+      const score2 = parseInt(match.score2) || 0;
+
+      // Inicializar equipos si no existen
+      if (!groupsData[groupName][team1]) {
+        groupsData[groupName][team1] = { PJ: 0, G: 0, E: 0, P: 0, GF: 0, GC: 0, DG: 0, Pts: 0 };
+      }
+      if (!groupsData[groupName][team2]) {
+        groupsData[groupName][team2] = { PJ: 0, G: 0, E: 0, P: 0, GF: 0, GC: 0, DG: 0, Pts: 0 };
+      }
+
+      // Actualizar estadísticas del partido
+      groupsData[groupName][team1].PJ++;
+      groupsData[groupName][team2].PJ++;
+      groupsData[groupName][team1].GF += score1;
+      groupsData[groupName][team1].GC += score2;
+      groupsData[groupName][team2].GF += score2;
+      groupsData[groupName][team2].GC += score1;
+
+      if (score1 > score2) {
+        groupsData[groupName][team1].G++;
+        groupsData[groupName][team1].Pts += 3;
+        groupsData[groupName][team2].P++;
+      } else if (score2 > score1) {
+        groupsData[groupName][team2].G++;
+        groupsData[groupName][team2].Pts += 3;
+        groupsData[groupName][team1].P++;
+      } else {
+        groupsData[groupName][team1].E++;
+        groupsData[groupName][team2].E++;
+        groupsData[groupName][team1].Pts += 1;
+        groupsData[groupName][team2].Pts += 1;
+      }
+
+      // Calcular diferencia de goles
+      groupsData[groupName][team1].DG = groupsData[groupName][team1].GF - groupsData[groupName][team1].GC;
+      groupsData[groupName][team2].DG = groupsData[groupName][team2].GF - groupsData[groupName][team2].GC;
+    });
+
+    // Ordenar los equipos de cada grupo por puntos, diferencia de goles, etc.
+    for (let group in groupsData) {
+      const teamsArray = Object.entries(groupsData[group]);
+      teamsArray.sort((a, b) => {
+        if (a[1].Pts !== b[1].Pts) return b[1].Pts - a[1].Pts;
+        if (a[1].DG !== b[1].DG) return b[1].DG - a[1].DG;
+        return b[1].GF - a[1].GF;
+      });
+      groupsData[group] = Object.fromEntries(teamsArray);
+    }
+  }
+
+  // Renderiza la clasificación de grupos
+  function renderClasificacion() {
+    if (Object.keys(groupsData).length === 0) {
+      gruposContainer.innerHTML = '<div class="loading">No hay datos de clasificación disponibles.</div>';
       return;
     }
 
-    const grupos = standingsData.data.standings;
     let html = '';
-
-    for (const grupo of grupos) {
-      const nombreGrupo = grupo.group_name || grupo.group || 'Grupo';
-      const teams = grupo.standings || grupo.teams || [];
-
+    for (const [groupName, teams] of Object.entries(groupsData)) {
       html += `
         <div class="card-grupo">
-          <div class="card-header">${nombreGrupo}</div>
+          <div class="card-header">${groupName}</div>
           <table class="tabla-grupo">
             <thead>
               <tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr>
             </thead>
             <tbody>
       `;
-
-      teams.forEach((team, idx) => {
-        const pos = idx + 1;
+      let position = 1;
+      for (const [teamName, stats] of Object.entries(teams)) {
         html += `
           <tr>
-            <td>${pos}</td>
-            <td class="equipo-nombre">${team.team_name || team.name || '???'}</td>
-            <td>${team.played || team.matches_played || 0}</td>
-            <td>${team.wins || 0}</td>
-            <td>${team.draws || 0}</td>
-            <td>${team.losses || 0}</td>
-            <td>${team.goals_for || team.gf || 0}</td>
-            <td>${team.goals_against || team.ga || 0}</td>
-            <td>${(team.goals_for - team.goals_against) || team.goal_diff || 0}</td>
-            <td>${team.points || 0}</td>
+            <td>${position++}</td>
+            <td class="equipo-nombre">${teamName}</td>
+            <td>${stats.PJ}</td>
+            <td>${stats.G}</td>
+            <td>${stats.E}</td>
+            <td>${stats.P}</td>
+            <td>${stats.GF}</td>
+            <td>${stats.GC}</td>
+            <td>${stats.DG}</td>
+            <td>${stats.Pts}</td>
           </tr>
         `;
-      });
-
+      }
       html += `</tbody></table></div>`;
     }
-
     gruposContainer.innerHTML = html;
   }
 
-  function renderizarCalendario(matchesData) {
-    if (!matchesData || !matchesData.data || !matchesData.data.matches) {
-      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">No se pudieron cargar los partidos</div>';
-      return;
-    }
-
-    const matches = matchesData.data.matches;
-    if (matches.length === 0) {
-      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">No hay partidos disponibles</div>';
-      fechasFiltro.innerHTML = '';
+  // Función para agrupar partidos por fecha y renderizar el calendario
+  function renderCalendario() {
+    if (!matchesData || matchesData.length === 0) {
+      partidosContainer.innerHTML = '<div class="loading">No hay datos de partidos disponibles.</div>';
       return;
     }
 
     // Agrupar partidos por fecha
-    const partidosPorFecha = new Map();
-    matches.forEach(match => {
-      const fechaRaw = match.start_time || match.date || match.start_date;
-      let fechaStr = 'Fecha por definir';
-      if (fechaRaw) {
-        const fechaObj = new Date(fechaRaw);
-        if (!isNaN(fechaObj.getTime())) {
-          fechaStr = fechaObj.toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit' });
-        } else {
-          fechaStr = fechaRaw.substring(0, 10);
-        }
+    const matchesByDate = new Map();
+    matchesData.forEach(match => {
+      if (!match.date) return;
+      if (!matchesByDate.has(match.date)) {
+        matchesByDate.set(match.date, []);
       }
-
-      if (!partidosPorFecha.has(fechaStr)) {
-        partidosPorFecha.set(fechaStr, []);
-      }
-      partidosPorFecha.get(fechaStr).push(match);
+      matchesByDate.get(match.date).push(match);
     });
 
     // Ordenar fechas cronológicamente
-    const fechasOrdenadas = Array.from(partidosPorFecha.keys()).sort((a, b) => {
-      const [da, ma] = a.split('/');
-      const [db, mb] = b.split('/');
-      const fechaA = new Date(2026, parseInt(ma) - 1, parseInt(da));
-      const fechaB = new Date(2026, parseInt(mb) - 1, parseInt(db));
-      return fechaA - fechaB;
-    });
+    const sortedDates = Array.from(matchesByDate.keys()).sort();
 
-    // Renderizar filtros de fechas
+    if (sortedDates.length === 0) {
+      partidosContainer.innerHTML = '<div class="loading">No hay partidos programados.</div>';
+      return;
+    }
+
+    // Crear botones de filtro por fecha
     fechasFiltro.innerHTML = '';
-    fechasOrdenadas.forEach(fecha => {
+    sortedDates.forEach(date => {
       const btn = document.createElement('button');
-      btn.textContent = fecha;
-      btn.onclick = () => filtrarPartidosPorFecha(fecha, fechasOrdenadas, partidosPorFecha);
+      btn.textContent = date;
+      btn.onclick = () => filterMatchesByDate(date, matchesByDate, sortedDates);
       fechasFiltro.appendChild(btn);
     });
 
-    // Mostrar primera fecha por defecto
-    if (fechasOrdenadas.length > 0) {
-      filtrarPartidosPorFecha(fechasOrdenadas[0], fechasOrdenadas, partidosPorFecha);
-    }
+    // Mostrar partidos de la primera fecha por defecto
+    filterMatchesByDate(sortedDates[0], matchesByDate, sortedDates);
   }
 
-  function filtrarPartidosPorFecha(fechaActiva, fechasOrdenadas, partidosPorFecha) {
+  function filterMatchesByDate(activeDate, matchesByDate, sortedDates) {
     // Resaltar botón activo
-    const botones = document.querySelectorAll('#fechasFiltro button');
-    botones.forEach(btn => {
-      if (btn.textContent === fechaActiva) {
+    const buttons = document.querySelectorAll('#fechasFiltro button');
+    buttons.forEach(btn => {
+      if (btn.textContent === activeDate) {
         btn.classList.add('activo-fecha');
       } else {
         btn.classList.remove('activo-fecha');
       }
     });
 
-    const matches = partidosPorFecha.get(fechaActiva) || [];
+    const matches = matchesByDate.get(activeDate) || [];
     if (matches.length === 0) {
-      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">No hay partidos en esta fecha</div>';
+      partidosContainer.innerHTML = '<div class="loading">No hay partidos en esta fecha.</div>';
       return;
     }
 
     let html = '';
     matches.forEach(match => {
-      const homeTeam = match.home_team?.name || match.home_team || 'Local';
-      const awayTeam = match.away_team?.name || match.away_team || 'Visitante';
-      const homeScore = match.home_score !== undefined ? match.home_score : (match.status === 'FT' ? match.score?.home : '-');
-      const awayScore = match.away_score !== undefined ? match.away_score : (match.status === 'FT' ? match.score?.away : '-');
-      const status = match.status || 'Programado';
-      const timeStr = match.start_time ? new Date(match.start_time).toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' }) : '';
-
+      const scoreText = (match.score1 && match.score2) ? `${match.score1} - ${match.score2}` : 'vs';
+      const roundText = match.round || '';
+      const timeText = match.time || '';
       html += `
         <div class="partido-item">
-          <div class="partido-hora">📅 ${fechaActiva} ${timeStr ? timeStr : ''}</div>
+          <div class="partido-hora">📅 ${activeDate} ${timeText ? `- ${timeText}` : ''}</div>
           <div class="equipos">
-            <strong>${homeTeam}</strong>
-            <span style="font-weight:700; min-width:50px; text-align:center;">
-              ${homeScore !== '-' ? homeScore : ''} ${homeScore !== '-' && awayScore !== '-' ? ' - ' : ''} ${awayScore !== '-' ? awayScore : ''}
-            </span>
-            <strong>${awayTeam}</strong>
+            <strong>${match.team1}</strong>
+            <span style="font-weight:700; min-width:50px; text-align:center;">${scoreText}</span>
+            <strong>${match.team2}</strong>
           </div>
-          <div class="tv-channel">📺 ${status === 'FT' ? 'Finalizado' : status === 'LIVE' ? 'EN VIVO' : 'Programado'}</div>
+          <div class="tv-channel">${roundText ? `🏆 ${roundText}` : '⚽ Fase de Grupos'}</div>
         </div>
       `;
     });
-
     partidosContainer.innerHTML = html;
   }
 
-  // ==================== CONSULTAS A LA API ====================
-
-  async function obtenerClasificacion() {
-    if (cargandoStandings) return;
-    cargandoStandings = true;
-
-    try {
-      const response = await fetch(`${SPORTSCORE_API}/standings/?sport=football&slug=fifa-world-cup`);
-      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-      const data = await response.json();
-      renderizarClasificacion(data);
-    } catch (error) {
-      console.error('Error obteniendo clasificación:', error);
-      gruposContainer.innerHTML = '<div class="card-grupo"><div class="card-header">Error al cargar clasificación</div></div>';
-    } finally {
-      cargandoStandings = false;
-    }
-  }
-
-  async function obtenerPartidos() {
-    if (cargandoPartidos) return;
-    cargandoPartidos = true;
-
-    try {
-      const response = await fetch(`${SPORTSCORE_API}/matches/?sport=football&limit=100`);
-      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-      const data = await response.json();
-
-      // Filtrar solo partidos del Mundial 2026 (por league o competition)
-      if (data.data && data.data.matches) {
-        data.data.matches = data.data.matches.filter(match => {
-          const competition = match.competition?.name || match.league?.name || '';
-          return competition.toLowerCase().includes('world cup') || competition.toLowerCase().includes('copa mundial');
-        });
-      }
-
-      renderizarCalendario(data);
-    } catch (error) {
-      console.error('Error obteniendo partidos:', error);
-      partidosContainer.innerHTML = '<div style="text-align:center; padding:40px;">Error al cargar los partidos</div>';
-    } finally {
-      cargandoPartidos = false;
-    }
-  }
-
-  async function actualizarTodo() {
-    await Promise.all([
-      obtenerClasificacion(),
-      obtenerPartidos()
-    ]);
-  }
-
-  // ==================== INICIALIZACIÓN ====================
-
-  function iniciarActualizacionAutomatica() {
-    if (intervalActualizacion) clearInterval(intervalActualizacion);
-    actualizarTodo();
-    intervalActualizacion = setInterval(actualizarTodo, 60000); // cada 60 segundos
-  }
-
+  // Inicializar la carga de datos y la interfaz de pestañas
   function init() {
-    iniciarActualizacionAutomatica();
+    loadWorldCupData();
 
-    // Tabs
+    // Lógica de pestañas
     document.querySelectorAll('.tab-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        const tab = btn.dataset.tab;
-        document.querySelectorAll('.tab-contenido').forEach(t => t.classList.remove('activo'));
-        document.getElementById(tab).classList.add('activo');
+        const tabId = btn.dataset.tab;
+        document.querySelectorAll('.tab-contenido').forEach(tab => {
+          tab.classList.remove('activo');
+        });
+        document.getElementById(tabId).classList.add('activo');
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
         btn.classList.add('activo');
       });
