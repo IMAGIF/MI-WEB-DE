@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Mundial FIFA 2026 · Calendario y Clasificación</title>
+  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
   <style>
     * {
       margin: 0;
@@ -159,15 +159,24 @@
     .tv-channel { background: #e9ecef; border-radius: 30px; padding: 4px 12px; font-size: 0.7rem; font-weight: bold; }
     .loading, .error { text-align: center; padding: 40px; font-weight: bold; }
     .error { color: #c00; }
-    .reset-btn {
-      background: #8b5a2b;
+    .ronda {
+      margin-bottom: 35px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 20px;
+    }
+    .ronda h3 {
+      background: #1f452f;
+      display: inline-block;
+      padding: 6px 20px;
+      border-radius: 30px;
       color: white;
-      border: none;
-      padding: 10px 24px;
-      border-radius: 40px;
-      font-weight: bold;
-      cursor: pointer;
-      margin-top: 20px;
+      margin-bottom: 15px;
+    }
+    .cruces {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: flex-start;
     }
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
@@ -178,7 +187,7 @@
 <body>
 <header>
   <h1>🏆 MUNDIAL FIFA 2026 🏆</h1>
-  <p>Canadá · México · Estados Unidos | 11 junio – 19 julio | Datos basados en el repositorio abierto openfootball/worldcup.json</p>
+  <p>Canadá · México · Estados Unidos | 11 junio – 19 julio | Horarios en ESPAÑA (CEST, UTC+2)</p>
   <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/">🏠 INICIO</a>
 </header>
 
@@ -186,6 +195,7 @@
   <div class="tabs">
     <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
+    <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
@@ -196,21 +206,28 @@
   </div>
 
   <div id="calendario" class="tab-contenido">
-    <div class="subtitulo">📆 Calendario y resultados del torneo</div>
+    <div class="subtitulo">📆 Calendario y resultados del torneo (hora local convertida a Madrid)</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
     <div id="partidosFechaContainer">
       <div class="loading">Cargando partidos...</div>
     </div>
   </div>
+
+  <div id="eliminatoria" class="tab-contenido">
+    <div class="subtitulo">🏆 Cuadro eliminatorio (octavos, cuartos, semifinales, tercer puesto y final)</div>
+    <div id="eliminatoriaContainer">
+      <div class="loading">Cargando fase final...</div>
+    </div>
+  </div>
 </main>
 
 <footer>
-  <p>⚽ Datos proporcionados por <a href="https://github.com/openfootball/worldcup.json" rel="dofollow" target="_blank" style="color:#ffd966;">openfootball/worldcup.json</a> · Un proyecto de código abierto.</p>
+  <p>⚽ Datos proporcionados por <a href="https://github.com/openfootball/worldcup.json" rel="dofollow" target="_blank" style="color:#ffd966;">openfootball/worldcup.json</a> · Conversión horaria a Madrid (CEST, UTC+2).</p>
   <p><a href="https://imagif.github.io/MI-WEB-DE/" style="color:#ffd966;">Volver al inicio</a></p>
 </footer>
 
 <script>
-  // URL del archivo JSON con los datos del Mundial (usando jsDelivr como CDN)
+  // URL del archivo JSON con los datos del Mundial
   const WORLDCUP_DATA_URL = 'https://cdn.jsdelivr.net/gh/openfootball/worldcup.json@master/2026/worldcup.json';
 
   let matchesData = [];
@@ -220,6 +237,28 @@
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
+  const eliminatoriaContainer = document.getElementById('eliminatoriaContainer');
+
+  // Función para convertir hora local del partido a hora de Madrid (CEST, UTC+2)
+  function convertToMadridTime(timeStr) {
+    if (!timeStr) return '';
+    // Ejemplo de timeStr: "13:00 UTC-6" o "14:00 UTC-5" o "15:00 UTC-4"
+    const regex = /(\d{2}:\d{2})\s*UTC([+-]\d+)/;
+    const match = timeStr.match(regex);
+    if (!match) return timeStr; // No se pudo convertir, devolver original
+    
+    const hourMin = match[1];
+    const offset = parseInt(match[2]);
+    const [hour, minute] = hourMin.split(':').map(Number);
+    
+    // Madrid en verano (junio-julio) está en UTC+2
+    const MADRID_OFFSET = 2;
+    let madridHour = hour + (MADRID_OFFSET - offset);
+    if (madridHour >= 24) madridHour -= 24;
+    if (madridHour < 0) madridHour += 24;
+    
+    return `${madridHour.toString().padStart(2,'0')}:${minute.toString().padStart(2,'0')}`;
+  }
 
   // Función para cargar los datos desde el archivo JSON
   async function loadWorldCupData() {
@@ -230,50 +269,41 @@
       }
       const data = await response.json();
       matchesData = data.matches;
-      // Calcular la clasificación a partir de los partidos
       calculateStandingsFromMatches(matchesData);
-      // Renderizar la interfaz
       renderClasificacion();
       renderCalendario();
+      renderFaseFinal();
     } catch (error) {
       console.error('Error cargando los datos:', error);
       gruposContainer.innerHTML = '<div class="error">Error al cargar los datos. Por favor, intenta de nuevo más tarde.</div>';
       partidosContainer.innerHTML = '<div class="error">Error al cargar los datos. Por favor, intenta de nuevo más tarde.</div>';
+      eliminatoriaContainer.innerHTML = '<div class="error">Error al cargar los datos.</div>';
     }
   }
 
-  // Calcula la clasificación de grupos a partir de los resultados de los partidos
+  // Calcula la clasificación de grupos a partir de los resultados
   function calculateStandingsFromMatches(matches) {
-    // Reiniciar la estructura de grupos
     groupsData = {};
-
     matches.forEach(match => {
-      if (!match.group) return; // Ignorar partidos sin grupo (ej. finales)
+      if (!match.group) return;
       const groupName = match.group;
-      if (!groupsData[groupName]) {
-        groupsData[groupName] = {};
-      }
+      if (!groupsData[groupName]) groupsData[groupName] = {};
 
       const team1 = match.team1;
       const team2 = match.team2;
-      
-      // Obtener los goles del objeto score.ft (full time) si existe
-      let score1 = 0;
-      let score2 = 0;
+      let score1 = 0, score2 = 0;
       if (match.score && match.score.ft) {
         score1 = match.score.ft[0];
         score2 = match.score.ft[1];
       }
 
-      // Inicializar equipos si no existen
       if (!groupsData[groupName][team1]) {
-        groupsData[groupName][team1] = { PJ: 0, G: 0, E: 0, P: 0, GF: 0, GC: 0, DG: 0, Pts: 0 };
+        groupsData[groupName][team1] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
       }
       if (!groupsData[groupName][team2]) {
-        groupsData[groupName][team2] = { PJ: 0, G: 0, E: 0, P: 0, GF: 0, GC: 0, DG: 0, Pts: 0 };
+        groupsData[groupName][team2] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
       }
 
-      // Actualizar estadísticas del partido
       groupsData[groupName][team1].PJ++;
       groupsData[groupName][team2].PJ++;
       groupsData[groupName][team1].GF += score1;
@@ -289,25 +319,21 @@
         groupsData[groupName][team2].G++;
         groupsData[groupName][team2].Pts += 3;
         groupsData[groupName][team1].P++;
-      } else {
-        // Solo sumar puntos de empate si ambos equipos tienen al menos 1 gol (para evitar empates 0-0 en partidos no jugados)
-        if (score1 > 0 || score2 > 0 || (score1 === 0 && score2 === 0 && match.score && match.score.ft)) {
-          groupsData[groupName][team1].E++;
-          groupsData[groupName][team2].E++;
-          groupsData[groupName][team1].Pts += 1;
-          groupsData[groupName][team2].Pts += 1;
-        }
+      } else if (match.score && match.score.ft) {
+        groupsData[groupName][team1].E++;
+        groupsData[groupName][team2].E++;
+        groupsData[groupName][team1].Pts += 1;
+        groupsData[groupName][team2].Pts += 1;
       }
 
-      // Calcular diferencia de goles
       groupsData[groupName][team1].DG = groupsData[groupName][team1].GF - groupsData[groupName][team1].GC;
       groupsData[groupName][team2].DG = groupsData[groupName][team2].GF - groupsData[groupName][team2].GC;
     });
 
-    // Ordenar los equipos de cada grupo por puntos, diferencia de goles, etc.
+    // Ordenar equipos
     for (let group in groupsData) {
       const teamsArray = Object.entries(groupsData[group]);
-      teamsArray.sort((a, b) => {
+      teamsArray.sort((a,b) => {
         if (a[1].Pts !== b[1].Pts) return b[1].Pts - a[1].Pts;
         if (a[1].DG !== b[1].DG) return b[1].DG - a[1].DG;
         return b[1].GF - a[1].GF;
@@ -316,72 +342,39 @@
     }
   }
 
-  // Renderiza la clasificación de grupos
   function renderClasificacion() {
     if (Object.keys(groupsData).length === 0) {
       gruposContainer.innerHTML = '<div class="loading">No hay datos de clasificación disponibles.</div>';
       return;
     }
-
     let html = '';
     for (const [groupName, teams] of Object.entries(groupsData)) {
-      html += `
-        <div class="card-grupo">
-          <div class="card-header">${groupName}</div>
-          <table class="tabla-grupo">
-            <thead>
-              <tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr>
-            </thead>
-            <tbody>
-      `;
-      let position = 1;
+      html += `<div class="card-grupo"><div class="card-header">${groupName}</div><table class="tabla-grupo"><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr></thead><tbody>`;
+      let pos = 1;
       for (const [teamName, stats] of Object.entries(teams)) {
-        html += `
-          <tr>
-            <td>${position++}</td>
-            <td class="equipo-nombre">${teamName}</td>
-            <td>${stats.PJ}</td>
-            <td>${stats.G}</td>
-            <td>${stats.E}</td>
-            <td>${stats.P}</td>
-            <td>${stats.GF}</td>
-            <td>${stats.GC}</td>
-            <td>${stats.DG}</td>
-            <td>${stats.Pts}</td>
-          </tr>
-        `;
+        html += `<tr><td>${pos++}</td><td class="equipo-nombre">${teamName}</td><td>${stats.PJ}</td><td>${stats.G}</td><td>${stats.E}</td><td>${stats.P}</td><td>${stats.GF}</td><td>${stats.GC}</td><td>${stats.DG}</td><td>${stats.Pts}</td></tr>`;
       }
       html += `</tbody></table></div>`;
     }
     gruposContainer.innerHTML = html;
   }
 
-  // Función para agrupar partidos por fecha y renderizar el calendario
   function renderCalendario() {
     if (!matchesData || matchesData.length === 0) {
       partidosContainer.innerHTML = '<div class="loading">No hay datos de partidos disponibles.</div>';
       return;
     }
-
-    // Agrupar partidos por fecha
     const matchesByDate = new Map();
     matchesData.forEach(match => {
       if (!match.date) return;
-      if (!matchesByDate.has(match.date)) {
-        matchesByDate.set(match.date, []);
-      }
+      if (!matchesByDate.has(match.date)) matchesByDate.set(match.date, []);
       matchesByDate.get(match.date).push(match);
     });
-
-    // Ordenar fechas cronológicamente
     const sortedDates = Array.from(matchesByDate.keys()).sort();
-
     if (sortedDates.length === 0) {
       partidosContainer.innerHTML = '<div class="loading">No hay partidos programados.</div>';
       return;
     }
-
-    // Crear botones de filtro por fecha
     fechasFiltro.innerHTML = '';
     sortedDates.forEach(date => {
       const btn = document.createElement('button');
@@ -389,76 +382,113 @@
       btn.onclick = () => filterMatchesByDate(date, matchesByDate, sortedDates);
       fechasFiltro.appendChild(btn);
     });
-
-    // Mostrar partidos de la primera fecha por defecto
     filterMatchesByDate(sortedDates[0], matchesByDate, sortedDates);
   }
 
   function filterMatchesByDate(activeDate, matchesByDate, sortedDates) {
-    // Resaltar botón activo
     const buttons = document.querySelectorAll('#fechasFiltro button');
     buttons.forEach(btn => {
-      if (btn.textContent === activeDate) {
-        btn.classList.add('activo-fecha');
-      } else {
-        btn.classList.remove('activo-fecha');
-      }
+      if (btn.textContent === activeDate) btn.classList.add('activo-fecha');
+      else btn.classList.remove('activo-fecha');
     });
-
     const matches = matchesByDate.get(activeDate) || [];
     if (matches.length === 0) {
       partidosContainer.innerHTML = '<div class="loading">No hay partidos en esta fecha.</div>';
       return;
     }
-
     let html = '';
     matches.forEach(match => {
-      // Obtener el marcador del objeto score.ft
       let scoreText = '-';
       if (match.score && match.score.ft) {
         scoreText = `${match.score.ft[0]} - ${match.score.ft[1]}`;
       }
-      const roundText = match.round || '';
-      // Formatear la hora para mostrar solo la hora local
-      let timeText = match.time || '';
-      if (timeText) {
-        // Extraer solo la hora (ej. "13:00 UTC-6" -> "13:00")
-        const hourMatch = timeText.match(/\d{2}:\d{2}/);
-        if (hourMatch) timeText = hourMatch[0];
-      }
+      let timeText = match.time ? convertToMadridTime(match.time) : '';
+      const roundText = match.round || (match.group ? `Grupo ${match.group}` : '');
       html += `
         <div class="partido-item">
-          <div class="partido-hora">📅 ${activeDate} ${timeText ? `- ${timeText}` : ''}</div>
+          <div class="partido-hora">📅 ${activeDate} ${timeText ? `- ${timeText}h` : ''}</div>
           <div class="equipos">
             <strong>${match.team1}</strong>
             <span style="font-weight:700; min-width:50px; text-align:center;">${scoreText}</span>
             <strong>${match.team2}</strong>
           </div>
-          <div class="tv-channel">${roundText ? `🏆 ${roundText}` : '⚽ Fase de Grupos'}</div>
+          <div class="tv-channel">${roundText ? `🏆 ${roundText}` : '⚽ Partido'}</div>
         </div>
       `;
     });
     partidosContainer.innerHTML = html;
   }
 
-  // Inicializar la carga de datos y la interfaz de pestañas
+  // FASE FINAL: agrupar partidos sin grupo por round
+  function renderFaseFinal() {
+    if (!matchesData || matchesData.length === 0) {
+      eliminatoriaContainer.innerHTML = '<div class="loading">No hay datos de la fase final disponibles.</div>';
+      return;
+    }
+    // Filtrar partidos que no pertenecen a ningún grupo (fase eliminatoria)
+    const knockoutMatches = matchesData.filter(match => !match.group);
+    if (knockoutMatches.length === 0) {
+      eliminatoriaContainer.innerHTML = '<div class="loading">Aún no hay partidos de la fase final en los datos.</div>';
+      return;
+    }
+    // Mapeo de nombres de rondas a etiquetas en español
+    const roundMap = {
+      "Round of 16": "Octavos de final",
+      "Quarter-finals": "Cuartos de final",
+      "Semi-finals": "Semifinales",
+      "Play-off for third place": "Tercer puesto",
+      "Final": "Final"
+    };
+    // Agrupar por round
+    const matchesByRound = new Map();
+    knockoutMatches.forEach(match => {
+      let round = match.round || "Desconocido";
+      if (!matchesByRound.has(round)) matchesByRound.set(round, []);
+      matchesByRound.get(round).push(match);
+    });
+    // Orden de rondas deseado
+    const roundOrder = ["Round of 16", "Quarter-finals", "Semi-finals", "Play-off for third place", "Final"];
+    let html = '';
+    for (let roundKey of roundOrder) {
+      if (!matchesByRound.has(roundKey)) continue;
+      const matches = matchesByRound.get(roundKey);
+      const titulo = roundMap[roundKey] || roundKey;
+      html += `<div class="ronda"><h3>🏆 ${titulo}</h3><div class="cruces">`;
+      matches.forEach(match => {
+        let scoreText = '-';
+        if (match.score && match.score.ft) {
+          scoreText = `${match.score.ft[0]} - ${match.score.ft[1]}`;
+        }
+        let timeText = match.time ? convertToMadridTime(match.time) : '';
+        html += `
+          <div class="partido-item" style="width: 280px; margin: 0;">
+            <div class="partido-hora">${match.date} ${timeText ? `- ${timeText}h` : ''}</div>
+            <div class="equipos">
+              <strong>${match.team1}</strong>
+              <span style="font-weight:700; min-width:50px; text-align:center;">${scoreText}</span>
+              <strong>${match.team2}</strong>
+            </div>
+          </div>
+        `;
+      });
+      html += `</div></div>`;
+    }
+    if (html === '') html = '<div class="loading">No se encontraron partidos de eliminatorias.</div>';
+    eliminatoriaContainer.innerHTML = html;
+  }
+
   function init() {
     loadWorldCupData();
-
-    // Lógica de pestañas
     document.querySelectorAll('.tab-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         const tabId = btn.dataset.tab;
-        document.querySelectorAll('.tab-contenido').forEach(tab => {
-          tab.classList.remove('activo');
-        });
+        document.querySelectorAll('.tab-contenido').forEach(tab => tab.classList.remove('activo'));
         document.getElementById(tabId).classList.add('activo');
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
         btn.classList.add('activo');
       });
     });
   }
-
   init();
 </script>
 </body>
