@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final completa</title>
+  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final (Cruces por posiciones)</title>
   <style>
     * {
       margin: 0;
@@ -159,37 +159,33 @@
     .tv-channel { background: #e9ecef; border-radius: 30px; padding: 4px 12px; font-size: 0.7rem; font-weight: bold; }
     .loading, .error { text-align: center; padding: 40px; font-weight: bold; }
     .error { color: #c00; }
-    /* Estilos para la fase final (bracket horizontal) */
-    .bracket {
-      display: flex;
-      flex-direction: row;
-      overflow-x: auto;
-      gap: 30px;
-      padding: 20px 0;
+    /* Estilos fase final */
+    .ronda {
+      margin-bottom: 35px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 20px;
     }
-    .round {
-      flex: 1;
-      min-width: 260px;
-      background: rgba(0,0,0,0.05);
-      border-radius: 20px;
-      padding: 10px;
-    }
-    .round h3 {
+    .ronda h3 {
       background: #1f452f;
-      color: white;
-      padding: 8px;
-      text-align: center;
+      display: inline-block;
+      padding: 6px 20px;
       border-radius: 30px;
+      color: white;
       margin-bottom: 15px;
-      font-size: 1rem;
+    }
+    .cruces {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: flex-start;
     }
     .match-card {
       background: white;
       border-radius: 16px;
-      margin-bottom: 12px;
-      padding: 8px 12px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      border-left: 5px solid #ffb347;
+      width: 280px;
+      padding: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-left: 6px solid #ffb347;
     }
     .match-header {
       font-size: 0.7rem;
@@ -205,20 +201,18 @@
     }
     .team {
       flex: 1;
-      white-space: nowrap;
-      overflow-x: hidden;
-      text-overflow: ellipsis;
+      white-space: normal;
+      word-break: break-word;
+      text-align: center;
     }
-    .score {
-      font-weight: 700;
-      background: #e9ecef;
-      padding: 2px 6px;
-      border-radius: 20px;
-      font-size: 0.8rem;
+    .vs {
+      font-size: 0.7rem;
+      color: #888;
     }
-    @media (max-width: 900px) {
-      .bracket { flex-direction: column; }
-      .round { min-width: auto; }
+    @media (max-width: 700px) {
+      .grupos-grid { grid-template-columns: 1fr; }
+      .partido-item { flex-direction: column; align-items: stretch; }
+      .match-card { width: 100%; }
     }
   </style>
 </head>
@@ -237,7 +231,7 @@
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
-    <div class="subtitulo">⚽ Clasificación de grupos · Calculada a partir de los resultados oficiales</div>
+    <div class="subtitulo">⚽ Clasificación de grupos · Calculada a partir de los resultados reales</div>
     <div id="gruposContainer" class="grupos-grid"><div class="loading">Cargando...</div></div>
   </div>
 
@@ -248,8 +242,8 @@
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
-    <div class="subtitulo">🏆 Cuadro eliminatorio completo (según reglamento FIFA)</div>
-    <div id="bracketContainer" class="bracket"><div class="loading">Generando fase final...</div></div>
+    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento (notación de posiciones hasta que los grupos estén completos)</div>
+    <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
 </main>
 
@@ -259,19 +253,19 @@
 </footer>
 
 <script>
-  // URL del JSON
+  // URL del JSON oficial (actualizado manualmente por la comunidad)
   const DATA_URL = 'https://cdn.jsdelivr.net/gh/openfootball/worldcup.json@master/2026/worldcup.json';
 
   let matchesAll = [];
-  let groupsData = {};    // clasificación real { "Grupo A": { "España": {...}, ... } }
+  let groupsData = {};       // { "Grupo A": { "España": {Pts,PJ,...}, ... } }
 
   // Elementos
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
-  const bracketContainer = document.getElementById('bracketContainer');
+  const bracketsContainer = document.getElementById('bracketsContainer');
 
-  // Utilidades
+  // ========== CONVERSIÓN HORARIA A MADRID ==========
   function convertToMadridTime(timeStr) {
     if (!timeStr) return '';
     const regex = /(\d{2}:\d{2})\s*UTC([+-]\d+)/;
@@ -285,7 +279,7 @@
     return `${madridHour.toString().padStart(2,'0')}:${minute.toString().padStart(2,'0')}`;
   }
 
-  // Cargar datos y calcular clasificación
+  // ========== CARGA DE DATOS Y CÁLCULO DE CLASIFICACIÓN ==========
   async function loadData() {
     try {
       const res = await fetch(DATA_URL);
@@ -295,12 +289,12 @@
       calculateStandings();
       renderClasificacion();
       renderCalendario();
-      renderBracket();   // fase final completa
+      renderFaseFinal();
     } catch (err) {
       console.error(err);
-      gruposContainer.innerHTML = '<div class="error">Error cargando datos</div>';
-      partidosContainer.innerHTML = '<div class="error">Error cargando datos</div>';
-      bracketContainer.innerHTML = '<div class="error">Error cargando datos</div>';
+      gruposContainer.innerHTML = '<div class="error">Error cargando datos. Intenta más tarde.</div>';
+      partidosContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
+      bracketsContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
     }
   }
 
@@ -316,6 +310,7 @@
         g1 = match.score.ft[0];
         g2 = match.score.ft[1];
       }
+      // Inicializar
       for (let t of [team1, team2]) {
         if (!groupsData[grp][t]) groupsData[grp][t] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
       }
@@ -324,13 +319,20 @@
       s1.PJ++; s2.PJ++;
       s1.GF += g1; s1.GC += g2;
       s2.GF += g2; s2.GC += g1;
-      if (g1 > g2) { s1.G++; s1.Pts += 3; s2.P++; }
-      else if (g2 > g1) { s2.G++; s2.Pts += 3; s1.P++; }
-      else if (match.score && match.score.ft) { s1.E++; s2.E++; s1.Pts += 1; s2.Pts += 1; }
+      if (g1 > g2) {
+        s1.G++; s1.Pts += 3;
+        s2.P++;
+      } else if (g2 > g1) {
+        s2.G++; s2.Pts += 3;
+        s1.P++;
+      } else if (match.score && match.score.ft) {
+        s1.E++; s2.E++;
+        s1.Pts += 1; s2.Pts += 1;
+      }
       s1.DG = s1.GF - s1.GC;
       s2.DG = s2.GF - s2.GC;
     });
-    // ordenar cada grupo
+    // Ordenar cada grupo
     for (let grp in groupsData) {
       const arr = Object.entries(groupsData[grp]);
       arr.sort((a,b) => {
@@ -373,7 +375,6 @@
   }
 
   function showMatchesByDate(date, byDate, allDates) {
-    // resaltar botón
     document.querySelectorAll('#fechasFiltro button').forEach(btn => {
       btn.classList.toggle('activo-fecha', btn.textContent === date);
     });
@@ -394,9 +395,7 @@
     partidosContainer.innerHTML = html;
   }
 
-  // --------------------------------------------------------------
-  // FASE FINAL COMPLETA SEGÚN REGLAMENTO (Artículo 12)
-  // --------------------------------------------------------------
+  // ========== FASE FINAL: CRUCES POR POSICIONES (SIN NOMBRES HASTA QUE GRUPOS COMPLETOS) ==========
   function getTeamByPosition(groupId, position) {
     // groupId ej: "Grupo A", position: 1,2,3
     if (!groupsData[groupId]) return null;
@@ -405,7 +404,6 @@
     return null;
   }
 
-  // mejores terceros ordenados
   function getBestThirdPlaces() {
     let thirds = [];
     for (let grp in groupsData) {
@@ -424,124 +422,96 @@
     return thirds.slice(0,8);
   }
 
-  // Construir cruces de dieciseisavos según anexo C (simplificado pero fiel)
-  function buildRoundOf32() {
-    const best = getBestThirdPlaces();
-    // Función para obtener el equipo de una posición o mejor tercero por índice
-    const getTeam = (pos) => {
-      if (pos.startsWith('3')) {
-        let idx = parseInt(pos.substring(1)) - 1;
-        return best[idx] ? best[idx].equipo : `3º#${idx+1}`;
+  // Devuelve el nombre a mostrar: si la fase de grupos está completa para ese equipo (PJ=3), muestra el nombre real; si no, muestra la notación.
+  function displayTeam(posCode) {
+    // posCode ej: "1A", "2B", "3C", "mejor3_1" (para los mejores terceros)
+    if (posCode.startsWith('mejor3_')) {
+      const idx = parseInt(posCode.split('_')[1]) - 1;
+      const terceros = getBestThirdPlaces();
+      if (terceros.length > idx && terceros[idx]) {
+        // Verificar si el equipo tiene sus 3 partidos jugados
+        const eq = terceros[idx].equipo;
+        const grupo = terceros[idx].grupo;
+        if (groupsData[grupo] && groupsData[grupo][eq] && groupsData[grupo][eq].PJ === 3) {
+          return eq;
+        }
       }
-      // formato "1A", "2B"
-      let groupLetter = pos.substring(1);
-      let groupName = `Grupo ${groupLetter}`;
-      let position = parseInt(pos[0]);
-      return getTeamByPosition(groupName, position) || `${pos}`;
+      return posCode; // ej. "mejor3_1" (notación)
+    }
+    // Formato "1A", "2B", "3C"
+    let pos = parseInt(posCode[0]);
+    let groupLetter = posCode[1];
+    let groupName = `Grupo ${groupLetter}`;
+    if (!groupsData[groupName]) return posCode;
+    let team = getTeamByPosition(groupName, pos);
+    if (team && groupsData[groupName][team] && groupsData[groupName][team].PJ === 3) {
+      return team;
+    }
+    return posCode;
+  }
+
+  // Definición de los 16 cruces de dieciseisavos según el anexo C (primeras combinaciones estándar)
+  // Nota: Se usan las posiciones según el reglamento. Los mejores terceros se asignan en orden.
+  function buildRoundOf32() {
+    const terceros = getBestThirdPlaces();
+    // Función para obtener el código del mejor tercero según índice (1..8)
+    const getThirdCode = (idx) => {
+      if (terceros.length >= idx) return `mejor3_${idx}`;
+      return `3º#${idx}`;
     };
-
-    // Definición exacta del PDF (artículo 12.6)
-    const matchups = [
-      { id: 'R32_1', local: '2A', visit: '2B' },
-      { id: 'R32_2', local: '1E', visit: '31' },  // mejor tercero de ABCDF (el #1)
-      { id: 'R32_3', local: '1F', visit: '2C' },
-      { id: 'R32_4', local: '1C', visit: '2F' },
-      { id: 'R32_5', local: '1I', visit: '32' },  // mejor tercero de CDFGH (#2)
-      { id: 'R32_6', local: '2E', visit: '2I' },
-      { id: 'R32_7', local: '1A', visit: '33' },  // mejor tercero de CEFHI (#3)
-      { id: 'R32_8', local: '1L', visit: '34' },  // mejor tercero de EHIJK (#4)
-      { id: 'R32_9', local: '1D', visit: '35' },  // mejor tercero de BEFIJ (#5)
-      { id: 'R32_10', local: '1G', visit: '36' }, // mejor tercero de AEHIJ (#6)
-      { id: 'R32_11', local: '2K', visit: '2L' },
-      { id: 'R32_12', local: '1H', visit: '2J' },
-      { id: 'R32_13', local: '1B', visit: '37' }, // mejor tercero de EFGJ (#7)
-      { id: 'R32_14', local: '1J', visit: '2H' },
-      { id: 'R32_15', local: '1K', visit: '38' }, // mejor tercero de DEIJL (#8)
-      { id: 'R32_16', local: '2D', visit: '2G' }
+    // Cruces oficiales (Artículo 12.6 del PDF)
+    return [
+      { id: 'R32_1', local: '2A', away: '2B' },
+      { id: 'R32_2', local: '1E', away: getThirdCode(1) },
+      { id: 'R32_3', local: '1F', away: '2C' },
+      { id: 'R32_4', local: '1C', away: '2F' },
+      { id: 'R32_5', local: '1I', away: getThirdCode(2) },
+      { id: 'R32_6', local: '2E', away: '2I' },
+      { id: 'R32_7', local: '1A', away: getThirdCode(3) },
+      { id: 'R32_8', local: '1L', away: getThirdCode(4) },
+      { id: 'R32_9', local: '1D', away: getThirdCode(5) },
+      { id: 'R32_10', local: '1G', away: getThirdCode(6) },
+      { id: 'R32_11', local: '2K', away: '2L' },
+      { id: 'R32_12', local: '1H', away: '2J' },
+      { id: 'R32_13', local: '1B', away: getThirdCode(7) },
+      { id: 'R32_14', local: '1J', away: '2H' },
+      { id: 'R32_15', local: '1K', away: getThirdCode(8) },
+      { id: 'R32_16', local: '2D', away: '2G' }
     ];
-
-    return matchups.map(m => ({
-      id: m.id,
-      localCode: m.local,
-      awayCode: m.visit,
-      localName: getTeam(m.local),
-      awayName: getTeam(m.visit),
-      date: null, time: null, score: null
-    }));
   }
 
-  // Obtener partidos reales de eliminatorias desde el JSON (si existen)
-  function getKnockoutMatchesFromData() {
-    const knockouts = matchesAll.filter(m => !m.group && m.round);
-    const byId = {};
-    knockouts.forEach(m => {
-      // Intentar identificar el ID por los equipos o por round/date
-      // Como no tenemos un ID fijo, usaremos una clave combinada
-      let key = `${m.team1}_${m.team2}`;
-      byId[key] = m;
-    });
-    return byId;
-  }
-
-  function renderBracket() {
+  function renderFaseFinal() {
     if (Object.keys(groupsData).length < 12) {
-      bracketContainer.innerHTML = '<div class="loading">Esperando más resultados de grupos...</div>';
+      bracketsContainer.innerHTML = '<div class="loading">Esperando datos de grupos...</div>';
       return;
     }
     const r32 = buildRoundOf32();
-    const realMatches = getKnockoutMatchesFromData();
-
-    // Función para enriquecer un partido con datos reales (fecha, hora, resultado)
-    const enrichMatch = (match) => {
-      let found = null;
-      for (let k in realMatches) {
-        let rm = realMatches[k];
-        if ((rm.team1 === match.localName && rm.team2 === match.awayName) ||
-            (rm.team1 === match.awayName && rm.team2 === match.localName)) {
-          found = rm;
-          break;
-        }
-      }
-      if (found) {
-        match.date = found.date;
-        match.time = found.time ? convertToMadridTime(found.time) : '';
-        if (found.score && found.score.ft) match.score = `${found.score.ft[0]} - ${found.score.ft[1]}`;
-      }
-      return match;
-    };
-
-    const enriched = r32.map(m => enrichMatch(m));
-
-    // Construcción de rondas posteriores (simplificado, sin propagación automática de ganadores)
-    // Para no complicar, mostramos los dieciseisavos y luego indicamos que octavos, cuartos etc. se generarán con los resultados.
-    // Pero el usuario quiere ver todas las rondas aunque sea con placeholders.
-    // Creamos un árbol estático basado en las posiciones teóricas.
-
-    // Aquí implementaremos una visualización en columnas: R32, R16, QF, SF, Final, 3rd.
-    // Los partidos de rondas superiores se mostrarán con los equipos que aparecerían según los cruces, pero sin resultados.
-    // Para no hacer el código eterno, mostraré los 16 partidos de dieciseisavos y luego un aviso de que las siguientes rondas se actualizarán automáticamente cuando haya resultados.
-    // Pero como el usuario quiere ver las columnas, las generaré con texto "Ganador de ...".
-
-    let html = `<div class="round"><h3>🏆 DIECISEISAVOS (16)</h3>`;
-    enriched.forEach(m => {
-      html += `<div class="match-card">
-        <div class="match-header">${m.date ? m.date : ''} ${m.time ? m.time+'h' : ''}</div>
-        <div class="match-teams">
-          <span class="team">${m.localName || m.localCode}</span>
-          <span class="score">${m.score || '-'}</span>
-          <span class="team">${m.awayName || m.awayCode}</span>
+    // Mostrar dieciseisavos
+    let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL</h3><div class="cruces">`;
+    r32.forEach(m => {
+      const localDisplay = displayTeam(m.local);
+      const awayDisplay = displayTeam(m.away);
+      html += `
+        <div class="match-card">
+          <div class="match-header">Partido ${m.id}</div>
+          <div class="match-teams">
+            <span class="team">${localDisplay}</span>
+            <span class="vs">vs</span>
+            <span class="team">${awayDisplay}</span>
+          </div>
         </div>
-      </div>`;
+      `;
     });
-    html += `</div>`;
+    html += `</div></div>`;
 
-    // Añadir columnas de octavos, cuartos, etc. con placeholders
-    html += `<div class="round"><h3>🏆 OCTAVOS (8)</h3><div class="match-card"><div class="match-teams"><span class="team">Ganador R32_1</span><span class="score">-</span><span class="team">Ganador R32_2</span></div></div><div class="match-card">... etc ...</div><p style="margin-top:10px; font-size:0.8rem;">* Se actualizarán al introducir resultados de dieciseisavos</p></div>`;
-    html += `<div class="round"><h3>🏆 CUARTOS (4)</h3><div class="match-card">...</div></div>`;
-    html += `<div class="round"><h3>🏆 SEMIFINALES (2)</h3><div class="match-card">...</div></div>`;
-    html += `<div class="round"><h3>🏆 FINAL</h3><div class="match-card">Ganador SF1 vs Ganador SF2</div><div class="match-card">Tercer puesto: Perdedor SF1 vs Perdedor SF2</div></div>`;
+    // Octavos, cuartos, etc. (solo estructura, los ganadores se actualizarán con resultados reales)
+    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces"><div class="match-card">Ganador R32_1 vs Ganador R32_2</div><div class="match-card">Ganador R32_3 vs Ganador R32_4</div><div class="match-card">Ganador R32_5 vs Ganador R32_6</div><div class="match-card">Ganador R32_7 vs Ganador R32_8</div><div class="match-card">Ganador R32_9 vs Ganador R32_10</div><div class="match-card">Ganador R32_11 vs Ganador R32_12</div><div class="match-card">Ganador R32_13 vs Ganador R32_14</div><div class="match-card">Ganador R32_15 vs Ganador R32_16</div></div></div>`;
+    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces"><div class="match-card">Ganador Octavos 1 vs Ganador Octavos 2</div><div class="match-card">Ganador Octavos 3 vs Ganador Octavos 4</div><div class="match-card">Ganador Octavos 5 vs Ganador Octavos 6</div><div class="match-card">Ganador Octavos 7 vs Ganador Octavos 8</div></div></div>`;
+    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces"><div class="match-card">Ganador Cuartos 1 vs Ganador Cuartos 2</div><div class="match-card">Ganador Cuartos 3 vs Ganador Cuartos 4</div></div></div>`;
+    html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces"><div class="match-card">Perdedor Semifinal 1 vs Perdedor Semifinal 2</div></div></div>`;
+    html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
 
-    bracketContainer.innerHTML = html;
+    bracketsContainer.innerHTML = html;
   }
 
   // Inicialización
@@ -555,7 +525,7 @@
       document.getElementById(tabId).classList.add('activo');
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
       btn.classList.add('activo');
-      if (tabId === 'eliminatoria') renderBracket(); // refrescar
+      if (tabId === 'eliminatoria') renderFaseFinal();
     });
   });
 </script>
