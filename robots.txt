@@ -1,4 +1,27 @@
+# Robots.txt para https://imagif.github.io/MI-WEB-DE/
+# Última actualización: 15 de junio de 2026
+
+# Reglas para todos los bots
 User-agent: *
-Disallow: /private/
 Allow: /
+
+# Bloquear carpetas que no deben indexarse
+Disallow: /private/
+Disallow: /PRUEBAS/
+
+# Bloquear archivos temporales o de sistema (por si acaso)
+Disallow: /*.json$
+Disallow: /*.md$
+
+# Permitir el rastreo de recursos esenciales
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Ubicación del sitemap
 Sitemap: https://imagif.github.io/MI-WEB-DE/sitemap.xml
