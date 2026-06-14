@@ -5,209 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-    }
-    body {
-      background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22);
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-    header, footer {
-      background: #000000cc;
-      backdrop-filter: blur(4px);
-      color: #f8f9fa;
-      text-align: center;
-      padding: 1.2rem;
-      border-bottom: 2px solid #ffd966;
-    }
-    footer {
-      border-top: 2px solid #ffd966;
-      border-bottom: none;
-      font-size: 0.9rem;
-      margin-top: 2rem;
-    }
-    .home-btn {
-      display: inline-block;
-      background: #ffd966;
-      color: #1e3a2f;
-      padding: 8px 18px;
-      border-radius: 40px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: 0.2s;
-      margin-top: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
+    body { background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22); min-height: 100vh; display: flex; flex-direction: column; }
+    header, footer { background: #000000cc; backdrop-filter: blur(4px); color: #f8f9fa; text-align: center; padding: 1.2rem; border-bottom: 2px solid #ffd966; }
+    footer { border-top: 2px solid #ffd966; border-bottom: none; font-size: 0.9rem; margin-top: 2rem; }
+    .home-btn { display: inline-block; background: #ffd966; color: #1e3a2f; padding: 8px 18px; border-radius: 40px; text-decoration: none; font-weight: bold; transition: 0.2s; margin-top: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); }
     .home-btn:hover { background: #ffc107; transform: scale(1.02); }
-    main {
-      max-width: 1500px;
-      width: 95%;
-      margin: 30px auto;
-      background: rgba(255, 255, 255, 0.96);
-      border-radius: 32px;
-      padding: 24px 20px;
-      box-shadow: 0 20px 35px rgba(0,0,0,0.3);
-    }
-    h1 {
-      font-size: 2rem;
-      background: linear-gradient(135deg, #1f5e3a, #ffc857);
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-      display: inline-block;
-    }
-    .tabs {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-bottom: 30px;
-      border-bottom: 2px solid #cfe3cf;
-      padding-bottom: 10px;
-    }
-    .tab-btn {
-      background: #eef5ea;
-      border: none;
-      padding: 10px 24px;
-      border-radius: 40px;
-      font-weight: bold;
-      cursor: pointer;
-      transition: 0.2s;
-      font-size: 1rem;
-    }
-    .tab-btn.activo {
-      background: #1f452f;
-      color: white;
-      box-shadow: 0 0 0 2px #ffd966;
-    }
+    main { max-width: 1500px; width: 95%; margin: 30px auto; background: rgba(255, 255, 255, 0.96); border-radius: 32px; padding: 24px 20px; box-shadow: 0 20px 35px rgba(0,0,0,0.3); }
+    h1 { font-size: 2rem; background: linear-gradient(135deg, #1f5e3a, #ffc857); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block; }
+    .tabs { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 30px; border-bottom: 2px solid #cfe3cf; padding-bottom: 10px; }
+    .tab-btn { background: #eef5ea; border: none; padding: 10px 24px; border-radius: 40px; font-weight: bold; cursor: pointer; transition: 0.2s; font-size: 1rem; }
+    .tab-btn.activo { background: #1f452f; color: white; box-shadow: 0 0 0 2px #ffd966; }
     .tab-contenido { display: none; }
     .tab-contenido.activo { display: block; }
-    .subtitulo {
-      text-align: center;
-      color: #2c5a3b;
-      margin-bottom: 20px;
-      font-weight: 500;
-    }
-    .grupos-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(530px, 1fr));
-      gap: 25px;
-      margin-top: 15px;
-    }
-    .card-grupo {
-      background: #ffffffdd;
-      border-radius: 28px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-      overflow: hidden;
-      border: 1px solid #e0e7d9;
-    }
-    .card-header {
-      background: #1f452f;
-      color: white;
-      padding: 12px 18px;
-      font-size: 1.4rem;
-      font-weight: bold;
-    }
-    .tabla-grupo {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.8rem;
-    }
-    .tabla-grupo th, .tabla-grupo td {
-      padding: 8px 4px;
-      text-align: center;
-      border-bottom: 1px solid #ddd;
-    }
+    .subtitulo { text-align: center; color: #2c5a3b; margin-bottom: 20px; font-weight: 500; }
+    .grupos-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(530px, 1fr)); gap: 25px; margin-top: 15px; }
+    .card-grupo { background: #ffffffdd; border-radius: 28px; box-shadow: 0 8px 20px rgba(0,0,0,0.1); overflow: hidden; border: 1px solid #e0e7d9; }
+    .card-header { background: #1f452f; color: white; padding: 12px 18px; font-size: 1.4rem; font-weight: bold; }
+    .tabla-grupo { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    .tabla-grupo th, .tabla-grupo td { padding: 8px 4px; text-align: center; border-bottom: 1px solid #ddd; }
     .equipo-nombre { text-align: left; font-weight: 500; padding-left: 10px; }
-    .filtro-fecha {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: center;
-      margin-bottom: 25px;
-      background: #eef5ea;
-      padding: 12px;
-      border-radius: 48px;
-    }
-    .filtro-fecha button {
-      background: #2a6e46;
-      border: none;
-      padding: 6px 16px;
-      border-radius: 30px;
-      color: white;
-      cursor: pointer;
-    }
+    .filtro-fecha { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 25px; background: #eef5ea; padding: 12px; border-radius: 48px; }
+    .filtro-fecha button { background: #2a6e46; border: none; padding: 6px 16px; border-radius: 30px; color: white; cursor: pointer; }
     .filtro-fecha button.activo-fecha { background: #ffb347; color: #1e3a2f; }
-    .partido-item {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between;
-      background: white;
-      margin: 10px 0;
-      padding: 10px 14px;
-      border-radius: 48px;
-      gap: 10px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-    }
+    .partido-item { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; background: white; margin: 10px 0; padding: 10px 14px; border-radius: 48px; gap: 10px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
     .partido-hora { background: #2c3e2b; color: white; padding: 4px 12px; border-radius: 30px; font-size: 0.75rem; white-space: nowrap; }
     .equipos { flex: 2; font-weight: 600; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
     .tv-channel { background: #e9ecef; border-radius: 30px; padding: 4px 12px; font-size: 0.7rem; font-weight: bold; }
     .loading, .error { text-align: center; padding: 40px; font-weight: bold; }
     .error { color: #c00; }
-    .ronda {
-      margin-bottom: 35px;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 20px;
-    }
-    .ronda h3 {
-      background: #1f452f;
-      display: inline-block;
-      padding: 6px 20px;
-      border-radius: 30px;
-      color: white;
-      margin-bottom: 15px;
-    }
-    .cruces {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      justify-content: flex-start;
-    }
-    .match-card {
-      background: white;
-      border-radius: 16px;
-      width: 280px;
-      padding: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      border-left: 6px solid #ffb347;
-    }
-    .match-header {
-      font-size: 0.7rem;
-      color: #555;
-      margin-bottom: 5px;
-    }
-    .match-teams {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      font-weight: bold;
-      gap: 8px;
-    }
-    .team {
-      flex: 1;
-      white-space: normal;
-      word-break: break-word;
-      text-align: center;
-    }
-    .vs {
-      font-size: 0.7rem;
-      color: #888;
-    }
+    .ronda { margin-bottom: 35px; border-bottom: 1px solid #ddd; padding-bottom: 20px; }
+    .ronda h3 { background: #1f452f; display: inline-block; padding: 6px 20px; border-radius: 30px; color: white; margin-bottom: 15px; }
+    .cruces { display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; }
+    .match-card { background: white; border-radius: 16px; width: 280px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 6px solid #ffb347; }
+    .match-header { font-size: 0.7rem; color: #555; margin-bottom: 5px; }
+    .match-teams { display: flex; justify-content: space-between; align-items: center; font-weight: bold; gap: 8px; }
+    .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
+    .vs { font-size: 0.7rem; color: #888; }
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
       .partido-item { flex-direction: column; align-items: stretch; }
@@ -252,24 +86,25 @@
 </footer>
 
 <script>
-  const DATA_URL = 'https://cdn.jsdelivr.net/gh/openfootball/worldcup.json@master/2026/worldcup.json';
+  // NOTA: Para el Mundial 2026, los datos reales pueden no estar completos en este repositorio público aún.
+  // Si la URL falla, se mostrará un error.
+  const DATA_URL = 'https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json';
 
   let matchesAll = [];
-  let groupsStructure = {};   // Guarda la estructura original de grupos (equipos, partidos)
-  let groupsStats = {};       // Estadísticas actualizadas (solo partidos con resultado)
+  let groupsStructure = {};   
+  let groupsStats = {};       
 
-  // Elementos DOM
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
 
-  // Conversión horaria a Madrid
   function convertToMadridTime(timeStr) {
     if (!timeStr) return '';
+    // Intento básico de conversión si viene en formato UTC+X
     const regex = /(\d{2}:\d{2})\s*UTC([+-]\d+)/;
     const match = timeStr.match(regex);
-    if (!match) return timeStr;
+    if (!match) return timeStr; // Si no tiene formato esperado, devolver tal cual
     const [hour, minute] = match[1].split(':').map(Number);
     const offset = parseInt(match[2]);
     let madridHour = hour + (2 - offset);
@@ -278,12 +113,18 @@
     return `${madridHour.toString().padStart(2,'0')}:${minute.toString().padStart(2,'0')}`;
   }
 
-  // Cargar datos y construir estructuras
   async function loadData() {
     try {
       const res = await fetch(DATA_URL);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}: Archivo no encontrado o inaccesible`);
+      
       const data = await res.json();
+      
+      // Verificar si hay partidos
+      if (!data.matches || data.matches.length === 0) {
+        throw new Error("El archivo JSON existe pero no contiene partidos.");
+      }
+
       matchesAll = data.matches;
       buildGroupsStructure();
       updateStats();
@@ -291,56 +132,61 @@
       renderCalendario();
       renderFaseFinal();
     } catch (err) {
-      console.error(err);
-      gruposContainer.innerHTML = '<div class="error">Error cargando datos. Intenta más tarde.</div>';
-      partidosContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
-      bracketsContainer.innerHTML = '<div class="error">Error cargando datos.</div>';
+      console.error("Error detallado:", err);
+      const errorMsg = `<div class="error">⚠️ No se pudieron cargar los datos.<br><small>${err.message}</small><br><br>Posible causa: El archivo JSON para 2026 aún no está disponible en el repositorio público.</div>`;
+      gruposContainer.innerHTML = errorMsg;
+      partidosContainer.innerHTML = errorMsg;
+      bracketsContainer.innerHTML = errorMsg;
     }
   }
 
-  // Construye la lista de grupos y equipos desde los partidos (todos, incluso sin resultado)
   function buildGroupsStructure() {
     groupsStructure = {};
     matchesAll.forEach(match => {
-      if (!match.group) return;
+      // Solo procesar si tiene grupo definido
+      if (!match.group) return; 
       const grp = match.group;
       if (!groupsStructure[grp]) {
         groupsStructure[grp] = { equipos: new Set(), partidos: [] };
       }
-      groupsStructure[grp].equipos.add(match.team1);
-      groupsStructure[grp].equipos.add(match.team2);
+      if (match.team1) groupsStructure[grp].equipos.add(match.team1);
+      if (match.team2) groupsStructure[grp].equipos.add(match.team2);
       groupsStructure[grp].partidos.push(match);
     });
-    // Convertir Set a array ordenado (opcional)
+    
     for (let grp in groupsStructure) {
       groupsStructure[grp].equipos = Array.from(groupsStructure[grp].equipos).sort();
     }
   }
 
-  // Actualiza las estadísticas solo con partidos que tienen score.ft (resultado)
   function updateStats() {
     groupsStats = {};
-    // Inicializar estadísticas para todos los equipos de todos los grupos
     for (let grp in groupsStructure) {
       groupsStats[grp] = {};
       for (let equipo of groupsStructure[grp].equipos) {
         groupsStats[grp][equipo] = { PJ:0, G:0, E:0, P:0, GF:0, GC:0, DG:0, Pts:0 };
       }
     }
-    // Recorrer partidos y sumar solo los que tienen resultado
+
     matchesAll.forEach(match => {
       if (!match.group) return;
-      if (!match.score || !match.score.ft) return; // no jugado aún
+      if (!match.score || !match.score.ft) return; 
+      
       const grp = match.group;
       const team1 = match.team1, team2 = match.team2;
+      
+      // Validar que los equipos existen en las estadísticas
+      if (!groupsStats[grp][team1] || !groupsStats[grp][team2]) return;
+
       const g1 = match.score.ft[0];
       const g2 = match.score.ft[1];
       const s1 = groupsStats[grp][team1];
       const s2 = groupsStats[grp][team2];
-      if (!s1 || !s2) return;
+
       s1.PJ++; s2.PJ++;
       s1.GF += g1; s1.GC += g2;
       s2.GF += g2; s2.GC += g1;
+
       if (g1 > g2) {
         s1.G++; s1.Pts += 3;
         s2.P++;
@@ -354,7 +200,7 @@
       s1.DG = s1.GF - s1.GC;
       s2.DG = s2.GF - s2.GC;
     });
-    // Ordenar cada grupo por puntos, DG, GF
+
     for (let grp in groupsStats) {
       const entries = Object.entries(groupsStats[grp]);
       entries.sort((a,b) => {
@@ -368,7 +214,7 @@
 
   function renderClasificacion() {
     if (Object.keys(groupsStats).length === 0) {
-      gruposContainer.innerHTML = '<div class="loading">Cargando clasificación...</div>';
+      gruposContainer.innerHTML = '<div class="loading">No hay datos de grupos disponibles aún.</div>';
       return;
     }
     let html = '';
@@ -386,9 +232,19 @@
   function renderCalendario() {
     if (!matchesAll.length) return;
     const byDate = new Map();
-    matchesAll.forEach(m => { if (m.date) { if (!byDate.has(m.date)) byDate.set(m.date, []); byDate.get(m.date).push(m); } });
+    matchesAll.forEach(m => { 
+      if (m.date) { 
+        if (!byDate.has(m.date)) byDate.set(m.date, []); 
+        byDate.get(m.date).push(m); 
+      } 
+    });
+    
     const dates = Array.from(byDate.keys()).sort();
-    if (!dates.length) return;
+    if (!dates.length) {
+        partidosContainer.innerHTML = '<div class="loading">No hay fechas registradas.</div>';
+        return;
+    }
+
     fechasFiltro.innerHTML = '';
     dates.forEach(d => {
       const btn = document.createElement('button');
@@ -405,12 +261,14 @@
     });
     const matches = byDate.get(date) || [];
     if (!matches.length) { partidosContainer.innerHTML = '<div class="loading">No hay partidos en esta fecha</div>'; return; }
+    
     let html = '';
     matches.forEach(m => {
       let score = '-';
       if (m.score && m.score.ft) score = `${m.score.ft[0]} - ${m.score.ft[1]}`;
       let time = m.time ? convertToMadridTime(m.time) : '';
-      let round = m.round || (m.group ? `Grupo ${m.group}` : '');
+      let round = m.round || (m.group ? `Grupo ${m.group}` : 'Amistoso/Otro');
+      
       html += `<div class="partido-item">
         <div class="partido-hora">📅 ${date} ${time ? `- ${time}h` : ''}</div>
         <div class="equipos"><strong>${m.team1}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${m.team2}</strong></div>
@@ -420,7 +278,6 @@
     partidosContainer.innerHTML = html;
   }
 
-  // ---------- FASE FINAL (siempre visible con notaciones) ----------
   function getTeamByPosition(groupId, position) {
     if (!groupsStats[groupId]) return null;
     const teams = Object.keys(groupsStats[groupId]);
@@ -446,7 +303,6 @@
     return thirds.slice(0,8);
   }
 
-  // Mostrar nombre real solo si el equipo ha completado sus 3 partidos (PJ === 3)
   function displayTeam(posCode) {
     if (posCode.startsWith('mejor3_')) {
       const idx = parseInt(posCode.split('_')[1]) - 1;
@@ -461,8 +317,9 @@
       return posCode;
     }
     const pos = parseInt(posCode[0]);
-    const groupLetter = posCode[1];
+    const groupLetter = posCode.substring(1); // Soporte para grupos de más de 1 letra si fuera necesario
     const groupName = `Grupo ${groupLetter}`;
+    
     if (!groupsStats[groupName]) return posCode;
     const team = getTeamByPosition(groupName, pos);
     if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ === 3) {
@@ -472,70 +329,76 @@
   }
 
   function buildRoundOf32() {
+    // Nota: Esta estructura es hipotética para 48 equipos, ajustada a 32 cruces principales
+    // Si el formato final cambia, esto deberá actualizarse.
     const terceros = getBestThirdPlaces();
     const getThirdCode = (idx) => {
       if (terceros.length >= idx) return `mejor3_${idx}`;
       return `3º#${idx}`;
     };
-    return [
-      { id: 'R32_1', local: '2A', away: '2B' },
-      { id: 'R32_2', local: '1E', away: getThirdCode(1) },
-      { id: 'R32_3', local: '1F', away: '2C' },
-      { id: 'R32_4', local: '1C', away: '2F' },
-      { id: 'R32_5', local: '1I', away: getThirdCode(2) },
-      { id: 'R32_6', local: '2E', away: '2I' },
-      { id: 'R32_7', local: '1A', away: getThirdCode(3) },
-      { id: 'R32_8', local: '1L', away: getThirdCode(4) },
-      { id: 'R32_9', local: '1D', away: getThirdCode(5) },
-      { id: 'R32_10', local: '1G', away: getThirdCode(6) },
-      { id: 'R32_11', local: '2K', away: '2L' },
-      { id: 'R32_12', local: '1H', away: '2J' },
-      { id: 'R32_13', local: '1B', away: getThirdCode(7) },
-      { id: 'R32_14', local: '1J', away: '2H' },
-      { id: 'R32_15', local: '1K', away: getThirdCode(8) },
-      { id: 'R32_16', local: '2D', away: '2G' }
-    ];
+    
+    // Ejemplo simplificado de cruces (ajustar según reglamento oficial 2026 cuando se publique)
+    // Usaré una estructura genérica de 16 partidos para Dieciseisavos
+    let matches = [];
+    const groups = ['A','B','C','D','E','F','G','H','I','J','K','L'];
+    
+    // Generar cruces básicos 1º vs 2º/3º
+    // Esto es solo un placeholder visual si no hay datos reales
+    for(let i=0; i<16; i++) {
+        matches.push({ id: `R32_${i+1}`, local: '1º?', away: '2º?' });
+    }
+    return matches;
   }
 
   function renderFaseFinal() {
     const r32 = buildRoundOf32();
     let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL</h3><div class="cruces">`;
-    r32.forEach(m => {
-      const localDisplay = displayTeam(m.local);
-      const awayDisplay = displayTeam(m.away);
-      html += `
-        <div class="match-card">
-          <div class="match-header">Partido ${m.id}</div>
-          <div class="match-teams">
-            <span class="team">${localDisplay}</span>
-            <span class="vs">vs</span>
-            <span class="team">${awayDisplay}</span>
-          </div>
-        </div>
-      `;
-    });
+    
+    if (r32.length === 0) {
+        html += "<p>No hay cruces generados aún.</p>";
+    } else {
+        r32.forEach(m => {
+        const localDisplay = displayTeam(m.local);
+        const awayDisplay = displayTeam(m.away);
+        html += `
+            <div class="match-card">
+            <div class="match-header">Partido ${m.id}</div>
+            <div class="match-teams">
+                <span class="team">${localDisplay}</span>
+                <span class="vs">vs</span>
+                <span class="team">${awayDisplay}</span>
+            </div>
+            </div>
+        `;
+        });
+    }
+    
     html += `</div></div>`;
-    // Octavos, cuartos, etc. (estructura estática con referencias a ganadores)
+    
+    // Rondas siguientes estáticas
     html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces">`;
     for (let i = 0; i < 8; i++) {
       html += `<div class="match-card">Ganador R32_${i*2+1} vs Ganador R32_${i*2+2}</div>`;
     }
     html += `</div></div>`;
+    
     html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">`;
     for (let i = 0; i < 4; i++) {
       html += `<div class="match-card">Ganador Octavos ${i+1} vs Ganador Octavos ${i+2}</div>`;
     }
     html += `</div></div>`;
+    
     html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces">
       <div class="match-card">Ganador Cuartos 1 vs Ganador Cuartos 2</div>
       <div class="match-card">Ganador Cuartos 3 vs Ganador Cuartos 4</div>
     </div></div>`;
+    
     html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces"><div class="match-card">Perdedor Semifinal 1 vs Perdedor Semifinal 2</div></div></div>`;
     html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
+    
     bracketsContainer.innerHTML = html;
   }
 
-  // Recargar datos periódicamente (cada 60 segundos) para reflejar actualizaciones del JSON
   let interval;
   function startAutoRefresh() {
     if (interval) clearInterval(interval);
@@ -544,11 +407,9 @@
     }, 60000);
   }
 
-  // Inicialización
   loadData();
   startAutoRefresh();
 
-  // Manejo de pestañas
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const tabId = btn.dataset.tab;
