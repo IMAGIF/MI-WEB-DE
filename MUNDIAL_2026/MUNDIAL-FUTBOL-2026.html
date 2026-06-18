@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
-  <meta name="description" content="Calendario completo, clasificación en vivo y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
-  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026">
+  <meta name="description" content="Calendario completo, clasificación en vivo, goleadores y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
+  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026, goleadores Mundial 2026">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
     body { background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22); min-height: 100vh; display: flex; flex-direction: column; }
@@ -16,7 +16,6 @@
     main { max-width: 1500px; width: 95%; margin: 30px auto; background: rgba(255, 255, 255, 0.96); border-radius: 32px; padding: 24px 20px; box-shadow: 0 20px 35px rgba(0,0,0,0.3); }
     h1 { font-size: 2rem; background: linear-gradient(135deg, #1f5e3a, #ffc857); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block; }
     
-    /* NUEVO: Estilos para el bloque SEO descriptivo */
     .intro-seo {
       max-width: 1100px;
       margin: 0 auto 30px auto;
@@ -29,18 +28,8 @@
       font-size: 0.98rem;
       box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     }
-    .intro-seo h2 {
-      color: #1f452f;
-      font-size: 1.4rem;
-      margin-bottom: 12px;
-      font-weight: 700;
-    }
-    .intro-seo h3 {
-      color: #2a6e46;
-      font-size: 1.1rem;
-      margin: 14px 0 6px 0;
-      font-weight: 600;
-    }
+    .intro-seo h2 { color: #1f452f; font-size: 1.4rem; margin-bottom: 12px; font-weight: 700; }
+    .intro-seo h3 { color: #2a6e46; font-size: 1.1rem; margin: 14px 0 6px 0; font-weight: 600; }
     .intro-seo p { margin-bottom: 10px; }
     .intro-seo ul { margin: 8px 0 12px 22px; }
     .intro-seo li { margin-bottom: 4px; }
@@ -75,12 +64,68 @@
     .match-teams { display: flex; justify-content: space-between; align-items: center; font-weight: bold; gap: 8px; }
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
+    
+    /* Estilos para la tabla de goleadores */
+    .goleadores-container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .tabla-goleadores {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .tabla-goleadores thead {
+      background: #1f452f;
+      color: white;
+    }
+    .tabla-goleadores th {
+      padding: 14px 12px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    .tabla-goleadores td {
+      padding: 12px;
+      border-bottom: 1px solid #e0e7d9;
+      font-size: 0.95rem;
+    }
+    .tabla-goleadores tbody tr:hover {
+      background: #f4f9f1;
+    }
+    .tabla-goleadores .posicion {
+      font-weight: bold;
+      text-align: center;
+      font-size: 1.1rem;
+    }
+    .tabla-goleadores .goles {
+      background: #ffd966;
+      color: #1e3a2f;
+      font-weight: bold;
+      padding: 6px 12px;
+      border-radius: 20px;
+      text-align: center;
+      font-size: 1.1rem;
+    }
+    .tabla-goleadores .jugador {
+      font-weight: 600;
+      color: #1f452f;
+    }
+    .tabla-goleadores .equipo {
+      color: #666;
+      font-size: 0.85rem;
+    }
+    
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
       .partido-item { flex-direction: column; align-items: stretch; }
       .match-card { width: 100%; }
       .intro-seo { padding: 18px 16px; font-size: 0.92rem; }
       .intro-seo h2 { font-size: 1.2rem; }
+      .tabla-goleadores th, .tabla-goleadores td { padding: 8px 6px; font-size: 0.85rem; }
     }
   </style>
 </head>
@@ -92,9 +137,8 @@
 </header>
 
 <main>
-  <!-- NUEVO BLOQUE SEO: Texto descriptivo con palabras clave naturales -->
   <section class="intro-seo">
-    <h2>Todo sobre el Mundial FIFA 2026: calendario, clasificación y fase final</h2>
+    <h2>Todo sobre el Mundial FIFA 2026: calendario, clasificación, goleadores y fase final</h2>
     <p>
       Bienvenido a tu guía completa del <strong>Mundial de Fútbol 2026</strong>, la edición más 
       ambiciosa de la historia del fútbol. Por primera vez, la Copa del Mundo se disputará en 
@@ -111,17 +155,18 @@
     <ul>
       <li><strong>Clasificación de los 12 grupos</strong> del Mundial 2026, con puntos, goles a favor, goles en contra, diferencia de goles y estadísticas actualizadas automáticamente tras cada jornada.</li>
       <li><strong>Calendario completo de partidos</strong> filtrado por fecha, con horarios, sedes y resultados en vivo cuando los encuentros estén en juego.</li>
+      <li><strong>Tabla de goleadores</strong> con los 5 máximos artilleros del torneo, actualizada automáticamente tras cada partido.</li>
       <li><strong>Cuadro eliminatorio de la fase final</strong>, desde los dieciseisavos de final hasta la gran final del 19 de julio, con el reglamento oficial de la FIFA para 48 equipos.</li>
     </ul>
     <p>
       Los datos se obtienen de fuentes abiertas y se <strong>actualizan de forma automática 
       cada minuto</strong>, así que no necesitas recargar la página para ver los últimos 
-      resultados, cambios en la tabla de posiciones o los cruces confirmados de la fase 
+      resultados, cambios en la tabla de posiciones, los goleadores del torneo o los cruces confirmados de la fase 
       eliminatoria.
     </p>
     <p>
       Ya sea que quieras seguir a tu selección, consultar los <strong>horarios de los partidos 
-      del Mundial 2026 en España</strong>, conocer el formato de la competición o planificar 
+      del Mundial 2026 en España</strong>, conocer quiénes son los máximos goleadores, conocer el formato de la competición o planificar 
       qué encuentros ver cada día, esta página está diseñada para ser tu referencia rápida, 
       clara y siempre al día. ¡Que disfrutes del fútbol!
     </p>
@@ -130,6 +175,7 @@
   <div class="tabs">
     <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
+    <button class="tab-btn" data-tab="goleadores">⚽ GOLEADORES</button>
     <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
   </div>
 
@@ -142,6 +188,11 @@
     <div class="subtitulo">📆 Calendario y resultados (hora local convertida a Madrid)</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
     <div id="partidosFechaContainer"><div class="loading">Cargando partidos...</div></div>
+  </div>
+
+  <div id="goleadores" class="tab-contenido">
+    <div class="subtitulo">⚽ Máximos goleadores del Mundial 2026 · Actualizado automáticamente</div>
+    <div id="goleadoresContainer" class="goleadores-container"><div class="loading">Cargando goleadores...</div></div>
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
@@ -165,7 +216,82 @@
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
+  const goleadoresContainer = document.getElementById('goleadoresContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
+
+  // Diccionario de traducciones de nombres de países
+  const traducciones = {
+    'Argentina': 'Argentina',
+    'Brazil': 'Brasil',
+    'Germany': 'Alemania',
+    'England': 'Inglaterra',
+    'Spain': 'España',
+    'France': 'Francia',
+    'Italy': 'Italia',
+    'Netherlands': 'Países Bajos',
+    'Portugal': 'Portugal',
+    'Mexico': 'México',
+    'United States': 'Estados Unidos',
+    'Canada': 'Canadá',
+    'Japan': 'Japón',
+    'South Korea': 'Corea del Sur',
+    'Australia': 'Australia',
+    'Saudi Arabia': 'Arabia Saudita',
+    'Qatar': 'Catar',
+    'Iran': 'Irán',
+    'Morocco': 'Marruecos',
+    'Senegal': 'Senegal',
+    'Ghana': 'Ghana',
+    'Cameroon': 'Camerún',
+    'Nigeria': 'Nigeria',
+    'Egypt': 'Egipto',
+    'Uruguay': 'Uruguay',
+    'Ecuador': 'Ecuador',
+    'Chile': 'Chile',
+    'Colombia': 'Colombia',
+    'Paraguay': 'Paraguay',
+    'Peru': 'Perú',
+    'Venezuela': 'Venezuela',
+    'Costa Rica': 'Costa Rica',
+    'Panama': 'Panamá',
+    'Honduras': 'Honduras',
+    'El Salvador': 'El Salvador',
+    'Croatia': 'Croacia',
+    'Belgium': 'Bélgica',
+    'Denmark': 'Dinamarca',
+    'Sweden': 'Suecia',
+    'Switzerland': 'Suiza',
+    'Austria': 'Austria',
+    'Poland': 'Polonia',
+    'Czech Republic': 'República Checa',
+    'Scotland': 'Escocia',
+    'Wales': 'Gales',
+    'Ireland': 'Irlanda',
+    'Iceland': 'Islandia',
+    'Norway': 'Noruega',
+    'Finland': 'Finlandia',
+    'Greece': 'Grecia',
+    'Turkey': 'Turquía',
+    'Serbia': 'Serbia',
+    'Bosnia and Herzegovina': 'Bosnia y Herzegovina',
+    'Ukraine': 'Ucrania',
+    'Russia': 'Rusia',
+    'China': 'China',
+    'India': 'India',
+    'New Zealand': 'Nueva Zelanda',
+    'South Africa': 'Sudáfrica',
+    'Tunisia': 'Túnez',
+    'Algeria': 'Argelia',
+    'Ivory Coast': 'Costa de Marfil',
+    'Kenya': 'Kenia',
+    'Tanzania': 'Tanzania'
+  };
+
+  // Función para traducir nombres de equipos
+  function traducirEquipo(nombre) {
+    if (!nombre) return nombre;
+    return traducciones[nombre] || nombre;
+  }
 
   function convertToMadridTime(timeStr) {
     if (!timeStr) return '';
@@ -196,12 +322,14 @@
       updateStats();
       renderClasificacion();
       renderCalendario();
+      renderGoleadores();
       renderFaseFinal();
     } catch (err) {
       console.error("Error detallado:", err);
       const errorMsg = `<div class="error">⚠️ No se pudieron cargar los datos.<br><small>${err.message}</small><br><br>Posible causa: El archivo JSON para 2026 aún no está disponible en el repositorio público.</div>`;
       gruposContainer.innerHTML = errorMsg;
       partidosContainer.innerHTML = errorMsg;
+      goleadoresContainer.innerHTML = errorMsg;
       bracketsContainer.innerHTML = errorMsg;
     }
   }
@@ -286,7 +414,7 @@
       html += `<div class="card-grupo"><div class="card-header">${grp}</div><table class="tabla-grupo"><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr></thead><tbody>`;
       let idx = 1;
       for (const [equipo, stats] of Object.entries(teams)) {
-        html += `<tr><td>${idx++}</td><td class="equipo-nombre">${equipo}</td><td>${stats.PJ}</td><td>${stats.G}</td><td>${stats.E}</td><td>${stats.P}</td><td>${stats.GF}</td><td>${stats.GC}</td><td>${stats.DG}</td><td>${stats.Pts}</td></tr>`;
+        html += `<tr><td>${idx++}</td><td class="equipo-nombre">${traducirEquipo(equipo)}</td><td>${stats.PJ}</td><td>${stats.G}</td><td>${stats.E}</td><td>${stats.P}</td><td>${stats.GF}</td><td>${stats.GC}</td><td>${stats.DG}</td><td>${stats.Pts}</td></tr>`;
       }
       html += `</tbody></table></div>`;
     }
@@ -335,11 +463,93 @@
       
       html += `<div class="partido-item">
         <div class="partido-hora">📅 ${date} ${time ? `- ${time}h` : ''}</div>
-        <div class="equipos"><strong>${m.team1}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${m.team2}</strong></div>
+        <div class="equipos"><strong>${traducirEquipo(m.team1)}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${traducirEquipo(m.team2)}</strong></div>
         <div class="tv-channel">🏆 ${round}</div>
       </div>`;
     });
     partidosContainer.innerHTML = html;
+  }
+
+  function renderGoleadores() {
+    // Agrupar goles por jugador
+    const golesPorJugador = {};
+    
+    matchesAll.forEach(match => {
+      // Solo procesar partidos que tienen información de goleadores
+      if (!match.goals || !Array.isArray(match.goals)) return;
+      
+      match.goals.forEach(goal => {
+        if (!goal.scorer) return;
+        
+        const jugador = goal.scorer;
+        const equipo = goal.team || 'Desconocido';
+        
+        if (!golesPorJugador[jugador]) {
+          golesPorJugador[jugador] = {
+            nombre: jugador,
+            equipo: equipo,
+            goles: 0
+          };
+        }
+        
+        golesPorJugador[jugador].goles++;
+      });
+    });
+    
+    // Convertir a array y ordenar por goles
+    const goleadoresArray = Object.values(golesPorJugador);
+    goleadoresArray.sort((a, b) => b.goles - a.goles);
+    
+    // Tomar los 5 mejores
+    const top5 = goleadoresArray.slice(0, 5);
+    
+    if (top5.length === 0) {
+      goleadoresContainer.innerHTML = `
+        <div class="loading">
+          <p>⚽ Aún no hay goles registrados en el torneo.</p>
+          <p style="font-size: 0.9rem; color: #666; margin-top: 10px;">
+            Los goleadores aparecerán aquí automáticamente cuando comiencen los partidos.
+          </p>
+        </div>
+      `;
+      return;
+    }
+    
+    // Renderizar tabla
+    let html = `
+      <table class="tabla-goleadores">
+        <thead>
+          <tr>
+            <th style="width: 60px;">#</th>
+            <th>Jugador</th>
+            <th style="width: 150px;">Equipo</th>
+            <th style="width: 100px;">Goles</th>
+          </tr>
+        </thead>
+        <tbody>
+    `;
+    
+    top5.forEach((goleador, index) => {
+      const medalla = index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : (index + 1);
+      html += `
+        <tr>
+          <td class="posicion">${medalla}</td>
+          <td class="jugador">${goleador.nombre}</td>
+          <td class="equipo">${traducirEquipo(goleador.equipo)}</td>
+          <td><span class="goles">${goleador.goles}</span></td>
+        </tr>
+      `;
+    });
+    
+    html += `
+        </tbody>
+      </table>
+      <p style="text-align: center; margin-top: 20px; color: #666; font-size: 0.9rem;">
+        💡 Esta tabla se actualiza automáticamente cada minuto
+      </p>
+    `;
+    
+    goleadoresContainer.innerHTML = html;
   }
 
   function getTeamByPosition(groupId, position) {
@@ -375,7 +585,7 @@
         const eq = terceros[idx].equipo;
         const grupo = terceros[idx].grupo;
         if (groupsStats[grupo] && groupsStats[grupo][eq] && groupsStats[grupo][eq].PJ === 3) {
-          return eq;
+          return traducirEquipo(eq);
         }
       }
       return posCode;
@@ -387,7 +597,7 @@
     if (!groupsStats[groupName]) return posCode;
     const team = getTeamByPosition(groupName, pos);
     if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ === 3) {
-      return team;
+      return traducirEquipo(team);
     }
     return posCode;
   }
