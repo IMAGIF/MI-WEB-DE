@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
-  <meta name="description" content="Calendario completo, clasificación en vivo, goleadores y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
-  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026, goleadores Mundial 2026">
+  <meta name="description" content="Calendario completo, clasificación en vivo y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
+  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
     body { background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22); min-height: 100vh; display: flex; flex-direction: column; }
@@ -65,66 +65,12 @@
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
     
-    .goleadores-container {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    .tabla-goleadores {
-      width: 100%;
-      border-collapse: collapse;
-      background: white;
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    }
-    .tabla-goleadores thead {
-      background: #1f452f;
-      color: white;
-    }
-    .tabla-goleadores th {
-      padding: 14px 12px;
-      text-align: left;
-      font-weight: 600;
-      font-size: 0.9rem;
-    }
-    .tabla-goleadores td {
-      padding: 12px;
-      border-bottom: 1px solid #e0e7d9;
-      font-size: 0.95rem;
-    }
-    .tabla-goleadores tbody tr:hover {
-      background: #f4f9f1;
-    }
-    .tabla-goleadores .posicion {
-      font-weight: bold;
-      text-align: center;
-      font-size: 1.1rem;
-    }
-    .tabla-goleadores .goles {
-      background: #ffd966;
-      color: #1e3a2f;
-      font-weight: bold;
-      padding: 6px 12px;
-      border-radius: 20px;
-      text-align: center;
-      font-size: 1.1rem;
-    }
-    .tabla-goleadores .jugador {
-      font-weight: 600;
-      color: #1f452f;
-    }
-    .tabla-goleadores .equipo {
-      color: #666;
-      font-size: 0.85rem;
-    }
-    
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
       .partido-item { flex-direction: column; align-items: stretch; }
       .match-card { width: 100%; }
       .intro-seo { padding: 18px 16px; font-size: 0.92rem; }
       .intro-seo h2 { font-size: 1.2rem; }
-      .tabla-goleadores th, .tabla-goleadores td { padding: 8px 6px; font-size: 0.85rem; }
     }
   </style>
 </head>
@@ -137,7 +83,7 @@
 
 <main>
   <section class="intro-seo">
-    <h2>Todo sobre el Mundial FIFA 2026: calendario, clasificación, goleadores y fase final</h2>
+    <h2>Todo sobre el Mundial FIFA 2026: calendario, clasificación y fase final</h2>
     <p>
       Bienvenido a tu guía completa del <strong>Mundial de Fútbol 2026</strong>, la edición más 
       ambiciosa de la historia del fútbol. Por primera vez, la Copa del Mundo se disputará en 
@@ -154,18 +100,17 @@
     <ul>
       <li><strong>Clasificación de los 12 grupos</strong> del Mundial 2026, con puntos, goles a favor, goles en contra, diferencia de goles y estadísticas actualizadas automáticamente tras cada jornada.</li>
       <li><strong>Calendario completo de partidos</strong> filtrado por fecha, con horarios, sedes y resultados en vivo cuando los encuentros estén en juego.</li>
-      <li><strong>Tabla de goleadores</strong> con los 5 máximos artilleros del torneo, actualizada automáticamente tras cada partido.</li>
       <li><strong>Cuadro eliminatorio de la fase final</strong>, desde los dieciseisavos de final hasta la gran final del 19 de julio, con el reglamento oficial de la FIFA para 48 equipos.</li>
     </ul>
     <p>
       Los datos se obtienen de fuentes abiertas y se <strong>actualizan de forma automática 
       cada minuto</strong>, así que no necesitas recargar la página para ver los últimos 
-      resultados, cambios en la tabla de posiciones, los goleadores del torneo o los cruces confirmados de la fase 
+      resultados, cambios en la tabla de posiciones o los cruces confirmados de la fase 
       eliminatoria.
     </p>
     <p>
       Ya sea que quieras seguir a tu selección, consultar los <strong>horarios de los partidos 
-      del Mundial 2026 en España</strong>, conocer quiénes son los máximos goleadores, conocer el formato de la competición o planificar 
+      del Mundial 2026 en España</strong>, conocer el formato de la competición o planificar 
       qué encuentros ver cada día, esta página está diseñada para ser tu referencia rápida, 
       clara y siempre al día. ¡Que disfrutes del fútbol!
     </p>
@@ -174,7 +119,6 @@
   <div class="tabs">
     <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
-    <button class="tab-btn" data-tab="goleadores">⚽ GOLEADORES</button>
     <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
   </div>
 
@@ -187,11 +131,6 @@
     <div class="subtitulo">📆 Calendario y resultados (hora local convertida a Madrid)</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
     <div id="partidosFechaContainer"><div class="loading">Cargando partidos...</div></div>
-  </div>
-
-  <div id="goleadores" class="tab-contenido">
-    <div class="subtitulo">⚽ Máximos goleadores del Mundial 2026 · Actualizado automáticamente</div>
-    <div id="goleadoresContainer" class="goleadores-container"><div class="loading">Cargando goleadores...</div></div>
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
@@ -215,74 +154,72 @@
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
-  const goleadoresContainer = document.getElementById('goleadoresContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
 
   const traducciones = {
-    'Argentina': 'Argentina',
-    'Brazil': 'Brasil',
-    'Germany': 'Alemania',
-    'England': 'Inglaterra',
-    'Spain': 'España',
-    'France': 'Francia',
-    'Italy': 'Italia',
-    'Netherlands': 'Países Bajos',
-    'Portugal': 'Portugal',
-    'Mexico': 'México',
-    'United States': 'Estados Unidos',
-    'Canada': 'Canadá',
-    'Japan': 'Japón',
-    'South Korea': 'Corea del Sur',
-    'Australia': 'Australia',
-    'Saudi Arabia': 'Arabia Saudita',
-    'Qatar': 'Catar',
-    'Iran': 'Irán',
-    'Morocco': 'Marruecos',
-    'Senegal': 'Senegal',
-    'Ghana': 'Ghana',
-    'Cameroon': 'Camerún',
-    'Nigeria': 'Nigeria',
-    'Egypt': 'Egipto',
-    'Uruguay': 'Uruguay',
-    'Ecuador': 'Ecuador',
-    'Chile': 'Chile',
-    'Colombia': 'Colombia',
-    'Paraguay': 'Paraguay',
-    'Peru': 'Perú',
-    'Venezuela': 'Venezuela',
-    'Costa Rica': 'Costa Rica',
-    'Panama': 'Panamá',
-    'Honduras': 'Honduras',
-    'El Salvador': 'El Salvador',
-    'Croatia': 'Croacia',
-    'Belgium': 'Bélgica',
-    'Denmark': 'Dinamarca',
-    'Sweden': 'Suecia',
-    'Switzerland': 'Suiza',
-    'Austria': 'Austria',
-    'Poland': 'Polonia',
-    'Czech Republic': 'República Checa',
-    'Scotland': 'Escocia',
-    'Wales': 'Gales',
-    'Ireland': 'Irlanda',
-    'Iceland': 'Islandia',
-    'Norway': 'Noruega',
-    'Finland': 'Finlandia',
-    'Greece': 'Grecia',
-    'Turkey': 'Turquía',
-    'Serbia': 'Serbia',
-    'Bosnia and Herzegovina': 'Bosnia y Herzegovina',
-    'Ukraine': 'Ucrania',
-    'Russia': 'Rusia',
-    'China': 'China',
-    'India': 'India',
-    'New Zealand': 'Nueva Zelanda',
-    'South Africa': 'Sudáfrica',
-    'Tunisia': 'Túnez',
-    'Algeria': 'Argelia',
-    'Ivory Coast': 'Costa de Marfil',
-    'Kenya': 'Kenia',
-    'Tanzania': 'Tanzania'
+    'Argentina': 'Argentina', 'Brazil': 'Brasil', 'Germany': 'Alemania',
+    'England': 'Inglaterra', 'Spain': 'España', 'France': 'Francia',
+    'Italy': 'Italia', 'Netherlands': 'Países Bajos', 'Portugal': 'Portugal',
+    'Mexico': 'México', 'United States': 'Estados Unidos', 'Canada': 'Canadá',
+    'Japan': 'Japón', 'South Korea': 'Corea del Sur', 'Australia': 'Australia',
+    'Saudi Arabia': 'Arabia Saudita', 'Qatar': 'Catar', 'Iran': 'Irán',
+    'Morocco': 'Marruecos', 'Senegal': 'Senegal', 'Ghana': 'Ghana',
+    'Cameroon': 'Camerún', 'Nigeria': 'Nigeria', 'Egypt': 'Egipto',
+    'Uruguay': 'Uruguay', 'Ecuador': 'Ecuador', 'Chile': 'Chile',
+    'Colombia': 'Colombia', 'Paraguay': 'Paraguay', 'Peru': 'Perú',
+    'Venezuela': 'Venezuela', 'Costa Rica': 'Costa Rica', 'Panama': 'Panamá',
+    'Honduras': 'Honduras', 'El Salvador': 'El Salvador', 'Croatia': 'Croacia',
+    'Belgium': 'Bélgica', 'Denmark': 'Dinamarca', 'Sweden': 'Suecia',
+    'Switzerland': 'Suiza', 'Austria': 'Austria', 'Poland': 'Polonia',
+    'Czech Republic': 'República Checa', 'Scotland': 'Escocia', 'Wales': 'Gales',
+    'Ireland': 'Irlanda', 'Iceland': 'Islandia', 'Norway': 'Noruega',
+    'Finland': 'Finlandia', 'Greece': 'Grecia', 'Turkey': 'Turquía',
+    'Serbia': 'Serbia', 'Bosnia and Herzegovina': 'Bosnia y Herzegovina',
+    'Ukraine': 'Ucrania', 'Russia': 'Rusia', 'China': 'China',
+    'India': 'India', 'New Zealand': 'Nueva Zelanda', 'South Africa': 'Sudáfrica',
+    'Tunisia': 'Túnez', 'Algeria': 'Argelia', 'Ivory Coast': 'Costa de Marfil',
+    'Kenya': 'Kenia', 'Tanzania': 'Tanzania', 'Wales': 'Gales',
+    'North Macedonia': 'Macedonia del Norte', 'Georgia': 'Georgia',
+    'Albania': 'Albania', 'Slovenia': 'Eslovenia', 'Hungary': 'Hungría',
+    'Romania': 'Rumanía', 'Bulgaria': 'Bulgaria', 'Slovakia': 'Eslovaquia',
+    'Northern Ireland': 'Irlanda del Norte', 'Montenegro': 'Montenegro',
+    'Luxembourg': 'Luxemburgo', 'Malta': 'Malta', 'Andorra': 'Andorra',
+    'Faroe Islands': 'Islas Feroe', 'Kosovo': 'Kosovo', 'Moldova': 'Moldavia',
+    'Latvia': 'Letonia', 'Estonia': 'Estonia', 'Lithuania': 'Lituania',
+    'Belarus': 'Bielorrusia', 'Armenia': 'Armenia', 'Azerbaijan': 'Azerbaiyán',
+    'Kazakhstan': 'Kazajistán', 'Uzbekistan': 'Uzbekistán', 'Turkmenistan': 'Turkmenistán',
+    'Tajikistan': 'Tayikistán', 'Kyrgyzstan': 'Kirguistán', 'Afghanistan': 'Afganistán',
+    'Pakistan': 'Pakistán', 'Bangladesh': 'Bangladés', 'Sri Lanka': 'Sri Lanka',
+    'Nepal': 'Nepal', 'Bhutan': 'Bután', 'Myanmar': 'Birmania',
+    'Thailand': 'Tailandia', 'Vietnam': 'Vietnam', 'Cambodia': 'Camboya',
+    'Laos': 'Laos', 'Malaysia': 'Malasia', 'Singapore': 'Singapur',
+    'Indonesia': 'Indonesia', 'Philippines': 'Filipinas', 'Brunei': 'Brunéi',
+    'Timor-Leste': 'Timor Oriental', 'Mongolia': 'Mongolia', 'North Korea': 'Corea del Norte',
+    'Taiwan': 'Taiwán', 'Hong Kong': 'Hong Kong', 'Macau': 'Macao',
+    'United Arab Emirates': 'Emiratos Árabes Unidos', 'Oman': 'Omán',
+    'Yemen': 'Yemen', 'Iraq': 'Irak', 'Syria': 'Siria', 'Lebanon': 'Líbano',
+    'Jordan': 'Jordania', 'Palestine': 'Palestina', 'Israel': 'Israel',
+    'Bahrain': 'Baréin', 'Kuwait': 'Kuwait', 'Libya': 'Libia',
+    'Sudan': 'Sudán', 'South Sudan': 'Sudán del Sur', 'Ethiopia': 'Etiopía',
+    'Somalia': 'Somalia', 'Djibouti': 'Yibuti', 'Eritrea': 'Eritrea',
+    'Uganda': 'Uganda', 'Rwanda': 'Ruanda', 'Burundi': 'Burundi',
+    'Democratic Republic of the Congo': 'República Democrática del Congo',
+    'Republic of the Congo': 'República del Congo', 'Gabon': 'Gabón',
+    'Equatorial Guinea': 'Guinea Ecuatorial', 'Central African Republic': 'República Centroafricana',
+    'Chad': 'Chad', 'Niger': 'Níger', 'Mali': 'Malí',
+    'Burkina Faso': 'Burkina Faso', 'Guinea': 'Guinea', 'Guinea-Bissau': 'Guinea-Bisáu',
+    'Sierra Leone': 'Sierra Leona', 'Liberia': 'Liberia', 'Togo': 'Togo',
+    'Benin': 'Benín', 'Mauritania': 'Mauritania', 'Gambia': 'Gambia',
+    'Cape Verde': 'Cabo Verde', 'Mauritius': 'Mauricio', 'Madagascar': 'Madagascar',
+    'Mozambique': 'Mozambique', 'Zimbabwe': 'Zimbabue', 'Zambia': 'Zambia',
+    'Malawi': 'Malaui', 'Angola': 'Angola', 'Namibia': 'Namibia',
+    'Botswana': 'Botsuana', 'Lesotho': 'Lesoto', 'Eswatini': 'Esuatini',
+    'Comoros': 'Comoras', 'Seychelles': 'Seychelles', 'Sao Tome and Principe': 'Santo Tomé y Príncipe',
+    'Tonga': 'Tonga', 'Samoa': 'Samoa', 'Fiji': 'Fiyi',
+    'Papua New Guinea': 'Papúa Nueva Guinea', 'Solomon Islands': 'Islas Salomón',
+    'Vanuatu': 'Vanuatu', 'Kiribati': 'Kiribati', 'Tuvalu': 'Tuvalu',
+    'Palau': 'Palaos', 'Marshall Islands': 'Islas Marshall', 'Micronesia': 'Micronesia',
+    'Nauru': 'Nauru'
   };
 
   function traducirEquipo(nombre) {
@@ -319,14 +256,12 @@
       updateStats();
       renderClasificacion();
       renderCalendario();
-      renderGoleadores();
       renderFaseFinal();
     } catch (err) {
       console.error("Error detallado:", err);
       const errorMsg = `<div class="error">⚠️ No se pudieron cargar los datos.<br><small>${err.message}</small><br><br>Posible causa: El archivo JSON para 2026 aún no está disponible en el repositorio público.</div>`;
       gruposContainer.innerHTML = errorMsg;
       partidosContainer.innerHTML = errorMsg;
-      goleadoresContainer.innerHTML = errorMsg;
       bracketsContainer.innerHTML = errorMsg;
     }
   }
@@ -467,129 +402,6 @@
     partidosContainer.innerHTML = html;
   }
 
-  function renderGoleadores() {
-    const golesPorJugador = {};
-    
-    matchesAll.forEach(match => {
-      let goalsData = null;
-      
-      if (match.goals && Array.isArray(match.goals)) {
-        goalsData = match.goals;
-      } else if (match.scorers && Array.isArray(match.scorers)) {
-        goalsData = match.scorers;
-      } else if (match.goalScorers && Array.isArray(match.goalScorers)) {
-        goalsData = match.goalScorers;
-      } else if (match.events && Array.isArray(match.events)) {
-        goalsData = match.events.filter(e => e.type === 'goal' || e.kind === 'goal');
-      }
-      
-      if (!goalsData || goalsData.length === 0) return;
-      
-      goalsData.forEach(goal => {
-        let jugador = null;
-        let equipo = null;
-        
-        if (goal.scorer) {
-          jugador = goal.scorer;
-        } else if (goal.player) {
-          jugador = goal.player;
-        } else if (goal.name) {
-          jugador = goal.name;
-        } else if (goal.playerName) {
-          jugador = goal.playerName;
-        }
-        
-        if (goal.team) {
-          equipo = goal.team;
-        } else if (goal.teamName) {
-          equipo = goal.teamName;
-        } else if (match.team1 && match.team2) {
-          if (goal.side === 'home' || goal.teamSide === 'home') {
-            equipo = match.team1;
-          } else if (goal.side === 'away' || goal.teamSide === 'away') {
-            equipo = match.team2;
-          }
-        }
-        
-        if (!jugador) return;
-        
-        if (!equipo) {
-          equipo = 'Desconocido';
-        }
-        
-        if (!golesPorJugador[jugador]) {
-          golesPorJugador[jugador] = {
-            nombre: jugador,
-            equipo: equipo,
-            goles: 0
-          };
-        }
-        
-        golesPorJugador[jugador].goles++;
-      });
-    });
-    
-    const goleadoresArray = Object.values(golesPorJugador);
-    goleadoresArray.sort((a, b) => b.goles - a.goles);
-    
-    const top5 = goleadoresArray.slice(0, 5);
-    
-    if (top5.length === 0) {
-      goleadoresContainer.innerHTML = `
-        <div style="background: white; padding: 30px; border-radius: 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-          <p style="font-size: 1.1rem; color: #1f452f; margin-bottom: 15px;">
-            ⚽ Información de goleadores no disponible
-          </p>
-          <p style="color: #666; font-size: 0.95rem; line-height: 1.6;">
-            El archivo de datos actual no incluye información detallada de quién marcó los goles.<br><br>
-            <strong>Nota:</strong> El repositorio openfootball/worldcup.json solo proporciona resultados de partidos, 
-            pero no la lista de goleadores individuales. Para mostrar esta información, sería necesario usar una API 
-            diferente que proporcione estadísticas de jugadores.
-          </p>
-          <p style="margin-top: 20px; font-size: 0.9rem; color: #999;">
-            Mientras tanto, puedes consultar la clasificación de grupos y el calendario de partidos.
-          </p>
-        </div>
-      `;
-      return;
-    }
-    
-    let html = `
-      <table class="tabla-goleadores">
-        <thead>
-          <tr>
-            <th style="width: 60px;">#</th>
-            <th>Jugador</th>
-            <th style="width: 150px;">Equipo</th>
-            <th style="width: 100px;">Goles</th>
-          </tr>
-        </thead>
-        <tbody>
-    `;
-    
-    top5.forEach((goleador, index) => {
-      const medalla = index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : (index + 1);
-      html += `
-        <tr>
-          <td class="posicion">${medalla}</td>
-          <td class="jugador">${goleador.nombre}</td>
-          <td class="equipo">${traducirEquipo(goleador.equipo)}</td>
-          <td><span class="goles">${goleador.goles}</span></td>
-        </tr>
-      `;
-    });
-    
-    html += `
-        </tbody>
-      </table>
-      <p style="text-align: center; margin-top: 20px; color: #666; font-size: 0.9rem;">
-        💡 Esta tabla se actualiza automáticamente cada minuto
-      </p>
-    `;
-    
-    goleadoresContainer.innerHTML = html;
-  }
-
   function getTeamByPosition(groupId, position) {
     if (!groupsStats[groupId]) return null;
     const teams = Object.keys(groupsStats[groupId]);
@@ -641,12 +453,6 @@
   }
 
   function buildRoundOf32() {
-    const terceros = getBestThirdPlaces();
-    const getThirdCode = (idx) => {
-      if (terceros.length >= idx) return `mejor3_${idx}`;
-      return `3º#${idx}`;
-    };
-    
     let matches = [];
     for(let i=0; i<16; i++) {
         matches.push({ id: `R32_${i+1}`, local: '1º?', away: '2º?' });
