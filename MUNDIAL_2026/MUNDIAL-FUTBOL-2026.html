@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Mundial FIFA 2026 · Calendario, Clasificación, Goleadores y Fase Final</title>
+  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
   <meta name="description" content="Calendario completo, clasificación en vivo, goleadores y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
-  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026, goleadores Mundial 2026, pichichi mundial">
+  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026, goleadores Mundial 2026">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
     body { background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22); min-height: 100vh; display: flex; flex-direction: column; }
@@ -65,67 +65,58 @@
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
     
-    /* NUEVOS ESTILOS PARA GOLEADORES */
+    /* Estilos para la tabla de goleadores */
     .goleadores-container {
-      max-width: 900px;
+      max-width: 800px;
       margin: 0 auto;
     }
-    .goleador-card {
-      display: flex;
-      align-items: center;
+    .tabla-goleadores {
+      width: 100%;
+      border-collapse: collapse;
       background: white;
-      border-radius: 20px;
-      padding: 15px 20px;
-      margin-bottom: 15px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-      transition: transform 0.2s;
-      border-left: 6px solid #ffd966;
-    }
-    .goleador-card:hover { transform: translateX(5px); }
-    .goleador-posicion {
-      font-size: 1.8rem;
-      font-weight: bold;
-      color: #1f452f;
-      min-width: 60px;
-      text-align: center;
-    }
-    .goleador-posicion.top1 { color: #ffd700; }
-    .goleador-posicion.top2 { color: #c0c0c0; }
-    .goleador-posicion.top3 { color: #cd7f32; }
-    .goleador-foto {
-      width: 60px;
-      height: 60px;
-      border-radius: 50%;
-      background: #eef5ea;
-      margin: 0 15px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 1.8rem;
+      border-radius: 16px;
       overflow: hidden;
-      border: 2px solid #ffd966;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
-    .goleador-foto img { width: 100%; height: 100%; object-fit: cover; }
-    .goleador-info { flex: 1; }
-    .goleador-nombre { font-size: 1.1rem; font-weight: bold; color: #1f452f; margin-bottom: 4px; }
-    .goleador-equipo { font-size: 0.85rem; color: #555; }
-    .goleador-goles {
-      background: linear-gradient(135deg, #1f452f, #2a6e46);
+    .tabla-goleadores thead {
+      background: #1f452f;
       color: white;
-      padding: 10px 18px;
-      border-radius: 30px;
-      font-weight: bold;
-      font-size: 1.1rem;
-      min-width: 90px;
-      text-align: center;
     }
-    .goleador-goles small { display: block; font-size: 0.7rem; font-weight: normal; opacity: 0.9; }
-    .goleadores-nota {
+    .tabla-goleadores th {
+      padding: 14px 12px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    .tabla-goleadores td {
+      padding: 12px;
+      border-bottom: 1px solid #e0e7d9;
+      font-size: 0.95rem;
+    }
+    .tabla-goleadores tbody tr:hover {
+      background: #f4f9f1;
+    }
+    .tabla-goleadores .posicion {
+      font-weight: bold;
       text-align: center;
+      font-size: 1.1rem;
+    }
+    .tabla-goleadores .goles {
+      background: #ffd966;
+      color: #1e3a2f;
+      font-weight: bold;
+      padding: 6px 12px;
+      border-radius: 20px;
+      text-align: center;
+      font-size: 1.1rem;
+    }
+    .tabla-goleadores .jugador {
+      font-weight: 600;
+      color: #1f452f;
+    }
+    .tabla-goleadores .equipo {
       color: #666;
       font-size: 0.85rem;
-      margin-top: 20px;
-      font-style: italic;
     }
     
     @media (max-width: 700px) {
@@ -134,9 +125,7 @@
       .match-card { width: 100%; }
       .intro-seo { padding: 18px 16px; font-size: 0.92rem; }
       .intro-seo h2 { font-size: 1.2rem; }
-      .goleador-card { flex-wrap: wrap; justify-content: center; text-align: center; }
-      .goleador-foto { margin: 10px; }
-      .goleador-goles { margin-top: 10px; }
+      .tabla-goleadores th, .tabla-goleadores td { padding: 8px 6px; font-size: 0.85rem; }
     }
   </style>
 </head>
@@ -166,18 +155,18 @@
     <ul>
       <li><strong>Clasificación de los 12 grupos</strong> del Mundial 2026, con puntos, goles a favor, goles en contra, diferencia de goles y estadísticas actualizadas automáticamente tras cada jornada.</li>
       <li><strong>Calendario completo de partidos</strong> filtrado por fecha, con horarios, sedes y resultados en vivo cuando los encuentros estén en juego.</li>
-      <li><strong>Tabla de goleadores (Pichichi)</strong> con los 5 máximos realizadores del torneo, actualizada tras cada partido.</li>
+      <li><strong>Tabla de goleadores</strong> con los 5 máximos artilleros del torneo, actualizada automáticamente tras cada partido.</li>
       <li><strong>Cuadro eliminatorio de la fase final</strong>, desde los dieciseisavos de final hasta la gran final del 19 de julio, con el reglamento oficial de la FIFA para 48 equipos.</li>
     </ul>
     <p>
       Los datos se obtienen de fuentes abiertas y se <strong>actualizan de forma automática 
       cada minuto</strong>, así que no necesitas recargar la página para ver los últimos 
-      resultados, cambios en la tabla de posiciones, nuevos goles de los máximos realizadores 
-      o los cruces confirmados de la fase eliminatoria.
+      resultados, cambios en la tabla de posiciones, los goleadores del torneo o los cruces confirmados de la fase 
+      eliminatoria.
     </p>
     <p>
       Ya sea que quieras seguir a tu selección, consultar los <strong>horarios de los partidos 
-      del Mundial 2026 en España</strong>, conocer el formato de la competición o planificar 
+      del Mundial 2026 en España</strong>, conocer quiénes son los máximos goleadores, conocer el formato de la competición o planificar 
       qué encuentros ver cada día, esta página está diseñada para ser tu referencia rápida, 
       clara y siempre al día. ¡Que disfrutes del fútbol!
     </p>
@@ -202,7 +191,7 @@
   </div>
 
   <div id="goleadores" class="tab-contenido">
-    <div class="subtitulo">⚽ Top 5 Goleadores del Mundial FIFA 2026 (Pichichi)</div>
+    <div class="subtitulo">⚽ Máximos goleadores del Mundial 2026 · Actualizado automáticamente</div>
     <div id="goleadoresContainer" class="goleadores-container"><div class="loading">Cargando goleadores...</div></div>
   </div>
 
@@ -213,66 +202,12 @@
 </main>
 
 <footer>
-  <p>⚽ Datos: <a href="https://github.com/openfootball/worldcup.json" target="_blank" style="color:#ffd966;">openfootball/worldcup.json</a> · Goleadores: <a href="https://rapidapi.com/api-sports/api/api-football" target="_blank" style="color:#ffd966;">API-Football</a> · Horarios convertidos a Madrid (CEST, UTC+2).</p>
+  <p>⚽ Datos: <a href="https://github.com/openfootball/worldcup.json" target="_blank" style="color:#ffd966;">openfootball/worldcup.json</a> · Horarios convertidos a Madrid (CEST, UTC+2).</p>
   <p><a href="https://imagif.github.io/MI-WEB-DE/" style="color:#ffd966;">Volver al inicio</a></p>
 </footer>
 
 <script>
   const DATA_URL = 'https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json';
-  
-  // ⚠️ CLAVE API PARA GOLEADORES (opcional)
-  // Para activar los goleadores automáticos:
-  // 1. Regístrate gratis en https://rapidapi.com/api-sports/api/api-football
-  // 2. Copia tu clave "X-RapidAPI-Key"
-  // 3. Pégala entre las comillas de abajo
-  const RAPIDAPI_KEY = ''; // <-- PEGA AQUÍ TU CLAVE (déjalo vacío si no quieres usarla)
-  const RAPIDAPI_HOST = 'v3.football.api-sports.io';
-
-  // 🌍 DICCIONARIO DE TRADUCCIÓN DE SELECCIONES AL ESPAÑOL
-  const TRADUCCIONES = {
-    // Europa (UEFA)
-    'Argentina': 'Argentina', 'Australia': 'Australia', 'Belgium': 'Bélgica', 
-    'Brazil': 'Brasil', 'Cameroon': 'Camerún', 'Canada': 'Canadá',
-    'Costa Rica': 'Costa Rica', 'Croatia': 'Croacia', 'Denmark': 'Dinamarca',
-    'Ecuador': 'Ecuador', 'England': 'Inglaterra', 'France': 'Francia',
-    'Germany': 'Alemania', 'Ghana': 'Ghana', 'Iran': 'Irán',
-    'Japan': 'Japón', 'Korea Republic': 'Corea del Sur', 'Korea DPR': 'Corea del Norte',
-    'Mexico': 'México', 'Morocco': 'Marruecos', 'Netherlands': 'Países Bajos',
-    'Poland': 'Polonia', 'Portugal': 'Portugal', 'Qatar': 'Catar',
-    'Saudi Arabia': 'Arabia Saudí', 'Senegal': 'Senegal', 'Serbia': 'Serbia',
-    'Spain': 'España', 'Switzerland': 'Suiza', 'Tunisia': 'Túnez',
-    'Uruguay': 'Uruguay', 'USA': 'Estados Unidos', 'United States': 'Estados Unidos',
-    'Wales': 'Gales', 'USA': 'Estados Unidos',
-    'Albania': 'Albania', 'Algeria': 'Argelia', 'Angola': 'Angola',
-    'Austria': 'Austria', 'Bosnia-Herzegovina': 'Bosnia-Herzegovina',
-    'Bosnia': 'Bosnia-Herzegovina', 'Bulgaria': 'Bulgaria',
-    'Cape Verde': 'Cabo Verde', 'Chile': 'Chile', 'China PR': 'China',
-    'Colombia': 'Colombia', 'Congo': 'Congo', 'Côte d\'Ivoire': 'Costa de Marfil',
-    'Ivory Coast': 'Costa de Marfil', 'Czech Republic': 'República Checa',
-    'Egypt': 'Egipto', 'Hungary': 'Hungría', 'Iceland': 'Islandia',
-    'Iraq': 'Irak', 'Israel': 'Israel', 'Italy': 'Italia',
-    'Jamaica': 'Jamaica', 'Kosovo': 'Kosovo', 'Nigeria': 'Nigeria',
-    'North Macedonia': 'Macedonia del Norte', 'Norway': 'Noruega',
-    'Panama': 'Panamá', 'Paraguay': 'Paraguay', 'Peru': 'Perú',
-    'Romania': 'Rumanía', 'Russia': 'Rusia', 'Scotland': 'Escocia',
-    'Slovakia': 'Eslovaquia', 'Slovenia': 'Eslovenia', 'South Africa': 'Sudáfrica',
-    'Sweden': 'Suecia', 'Turkey': 'Turquía', 'Ukraine': 'Ucrania',
-    'Venezuela': 'Venezuela', 'Zambia': 'Zambia', 'Zimbabwe': 'Zimbabue',
-    'Honduras': 'Honduras', 'El Salvador': 'El Salvador', 'Guatemala': 'Guatemala',
-    'Bolivia': 'Bolivia', 'New Zealand': 'Nueva Zelanda', 'Haiti': 'Haití',
-    'Cuba': 'Cuba', 'Trinidad and Tobago': 'Trinidad y Tobago'
-  };
-
-  // Función para traducir nombres de equipos
-  function traducir(nombre) {
-    if (!nombre) return '';
-    if (TRADUCCIONES[nombre]) return TRADUCCIONES[nombre];
-    // Búsqueda sin distinguir mayúsculas
-    for (const [eng, esp] of Object.entries(TRADUCCIONES)) {
-      if (eng.toLowerCase() === nombre.toLowerCase()) return esp;
-    }
-    return nombre; // Si no está en el diccionario, devolver el original
-  }
 
   let matchesAll = [];
   let groupsStructure = {};   
@@ -281,8 +216,82 @@
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
-  const bracketsContainer = document.getElementById('bracketsContainer');
   const goleadoresContainer = document.getElementById('goleadoresContainer');
+  const bracketsContainer = document.getElementById('bracketsContainer');
+
+  // Diccionario de traducciones de nombres de países
+  const traducciones = {
+    'Argentina': 'Argentina',
+    'Brazil': 'Brasil',
+    'Germany': 'Alemania',
+    'England': 'Inglaterra',
+    'Spain': 'España',
+    'France': 'Francia',
+    'Italy': 'Italia',
+    'Netherlands': 'Países Bajos',
+    'Portugal': 'Portugal',
+    'Mexico': 'México',
+    'United States': 'Estados Unidos',
+    'Canada': 'Canadá',
+    'Japan': 'Japón',
+    'South Korea': 'Corea del Sur',
+    'Australia': 'Australia',
+    'Saudi Arabia': 'Arabia Saudita',
+    'Qatar': 'Catar',
+    'Iran': 'Irán',
+    'Morocco': 'Marruecos',
+    'Senegal': 'Senegal',
+    'Ghana': 'Ghana',
+    'Cameroon': 'Camerún',
+    'Nigeria': 'Nigeria',
+    'Egypt': 'Egipto',
+    'Uruguay': 'Uruguay',
+    'Ecuador': 'Ecuador',
+    'Chile': 'Chile',
+    'Colombia': 'Colombia',
+    'Paraguay': 'Paraguay',
+    'Peru': 'Perú',
+    'Venezuela': 'Venezuela',
+    'Costa Rica': 'Costa Rica',
+    'Panama': 'Panamá',
+    'Honduras': 'Honduras',
+    'El Salvador': 'El Salvador',
+    'Croatia': 'Croacia',
+    'Belgium': 'Bélgica',
+    'Denmark': 'Dinamarca',
+    'Sweden': 'Suecia',
+    'Switzerland': 'Suiza',
+    'Austria': 'Austria',
+    'Poland': 'Polonia',
+    'Czech Republic': 'República Checa',
+    'Scotland': 'Escocia',
+    'Wales': 'Gales',
+    'Ireland': 'Irlanda',
+    'Iceland': 'Islandia',
+    'Norway': 'Noruega',
+    'Finland': 'Finlandia',
+    'Greece': 'Grecia',
+    'Turkey': 'Turquía',
+    'Serbia': 'Serbia',
+    'Bosnia and Herzegovina': 'Bosnia y Herzegovina',
+    'Ukraine': 'Ucrania',
+    'Russia': 'Rusia',
+    'China': 'China',
+    'India': 'India',
+    'New Zealand': 'Nueva Zelanda',
+    'South Africa': 'Sudáfrica',
+    'Tunisia': 'Túnez',
+    'Algeria': 'Argelia',
+    'Ivory Coast': 'Costa de Marfil',
+    'Kenya': 'Kenia',
+    'Tanzania': 'Tanzania'
+  };
+
+  // Función para traducir nombres de equipos
+  function traducirEquipo(nombre) {
+    if (!nombre) return nombre;
+    return traducciones[nombre] || nombre;
+  }
 
   function convertToMadridTime(timeStr) {
     if (!timeStr) return '';
@@ -313,124 +322,16 @@
       updateStats();
       renderClasificacion();
       renderCalendario();
+      renderGoleadores();
       renderFaseFinal();
     } catch (err) {
       console.error("Error detallado:", err);
       const errorMsg = `<div class="error">⚠️ No se pudieron cargar los datos.<br><small>${err.message}</small><br><br>Posible causa: El archivo JSON para 2026 aún no está disponible en el repositorio público.</div>`;
       gruposContainer.innerHTML = errorMsg;
       partidosContainer.innerHTML = errorMsg;
+      goleadoresContainer.innerHTML = errorMsg;
       bracketsContainer.innerHTML = errorMsg;
     }
-  }
-
-  // 🔥 CARGA DE GOLEADORES (con API-Football o fallback)
-  async function loadGoleadores() {
-    if (!RAPIDAPI_KEY) {
-      goleadoresContainer.innerHTML = `
-        <div class="error" style="color:#2c5a3b; background:#eef5ea; padding:30px; border-radius:20px;">
-          <h3 style="margin-bottom:15px;">⚽ Tabla de Goleadores</h3>
-          <p>Para ver los goleadores actualizados automáticamente, se necesita una clave API gratuita.</p>
-          <p style="margin-top:15px;"><strong>¿Cómo activarla?</strong></p>
-          <ol style="text-align:left; max-width:500px; margin:15px auto; line-height:1.8;">
-            <li>Regístrate gratis en <a href="https://rapidapi.com/api-sports/api/api-football" target="_blank" style="color:#1f452f;">RapidAPI - API-Football</a></li>
-            <li>Copia tu clave <code>X-RapidAPI-Key</code></li>
-            <li>Ábrela el archivo HTML y pégala en la variable <code>RAPIDAPI_KEY</code> (línea superior del script)</li>
-            <li>¡Listo! Los goleadores se actualizarán automáticamente cada minuto.</li>
-          </ol>
-          <p style="margin-top:15px; font-size:0.85rem; color:#666;">El registro es 100% gratuito y solo lleva 2 minutos. Obtienes 100 consultas diarias sin coste.</p>
-        </div>
-      `;
-      return;
-    }
-
-    try {
-      // ID de la Copa del Mundo 2026 en API-Football (se actualizará cuando esté disponible)
-      // Por ahora usamos un ID genérico; cuando la FIFA publique los datos oficiales, 
-      // se puede cambiar por el ID específico del Mundial 2026
-      const WORLD_CUP_ID = 1; // ID de la FIFA World Cup en API-Football
-      const SEASON = 2026;
-      
-      const response = await fetch(
-        `https://${RAPIDAPI_HOST}/players/topscorers?league=${WORLD_CUP_ID}&season=${SEASON}`,
-        {
-          method: 'GET',
-          headers: {
-            'X-RapidAPI-Key': RAPIDAPI_KEY,
-            'X-RapidAPI-Host': RAPIDAPI_HOST
-          }
-        }
-      );
-
-      if (!response.ok) {
-        throw new Error(`Error API: ${response.status}`);
-      }
-
-      const data = await response.json();
-      
-      if (data.response && data.response.length > 0) {
-        renderGoleadores(data.response.slice(0, 5));
-      } else {
-        goleadoresContainer.innerHTML = `
-          <div class="loading" style="color:#2c5a3b; background:#eef5ea; padding:30px; border-radius:20px;">
-            <p>⚽ <strong>Los goleadores se mostrarán aquí cuando comience el Mundial.</strong></p>
-            <p style="margin-top:10px; font-size:0.9rem;">Los datos se actualizarán automáticamente cada minuto una vez que se jueguen los primeros partidos.</p>
-          </div>
-        `;
-      }
-    } catch (err) {
-      console.error("Error al cargar goleadores:", err);
-      goleadoresContainer.innerHTML = `
-        <div class="error" style="color:#c00; background:#fee; padding:20px; border-radius:15px;">
-          ⚠️ No se pudieron cargar los goleadores.<br>
-          <small>${err.message}</small><br><br>
-          <p style="font-size:0.85rem;">Verifica que tu clave API es correcta o inténtalo más tarde.</p>
-        </div>
-      `;
-    }
-  }
-
-  function renderGoleadores(goleadores) {
-    if (!goleadores || goleadores.length === 0) {
-      goleadoresContainer.innerHTML = '<div class="loading">No hay datos de goleadores disponibles aún.</div>';
-      return;
-    }
-
-    let html = '';
-    goleadores.forEach((g, idx) => {
-      const jugador = g.player;
-      const estadisticas = g.statistics[0];
-      const goles = estadisticas.goals.total || 0;
-      const equipo = estadisticas.team.name;
-      const foto = jugador.photo || '';
-      const nombreTraducido = traducir(equipo);
-      
-      let posicionClass = '';
-      if (idx === 0) posicionClass = 'top1';
-      else if (idx === 1) posicionClass = 'top2';
-      else if (idx === 2) posicionClass = 'top3';
-
-      const medalla = idx === 0 ? '🥇' : idx === 1 ? '🥈' : idx === 2 ? '🥉' : `${idx + 1}º`;
-
-      html += `
-        <div class="goleador-card">
-          <div class="goleador-posicion ${posicionClass}">${medalla}</div>
-          <div class="goleador-foto">
-            ${foto ? `<img src="${foto}" alt="${jugador.name}" onerror="this.parentElement.innerHTML='⚽'">` : '⚽'}
-          </div>
-          <div class="goleador-info">
-            <div class="goleador-nombre">${jugador.name}</div>
-            <div class="goleador-equipo">${nombreTraducido} · ${estadisticas.goals.assists || 0} asist.</div>
-          </div>
-          <div class="goleador-goles">
-            ${goles}
-            <small>${goles === 1 ? 'gol' : 'goles'}</small>
-          </div>
-        </div>
-      `;
-    });
-
-    html += `<p class="goleadores-nota">🔄 Actualización automática cada minuto · Datos de API-Football</p>`;
-    goleadoresContainer.innerHTML = html;
   }
 
   function buildGroupsStructure() {
@@ -513,8 +414,7 @@
       html += `<div class="card-grupo"><div class="card-header">${grp}</div><table class="tabla-grupo"><thead><tr><th>#</th><th>Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>GF</th><th>GC</th><th>DG</th><th>Pts</th></tr></thead><tbody>`;
       let idx = 1;
       for (const [equipo, stats] of Object.entries(teams)) {
-        const nombreES = traducir(equipo);
-        html += `<tr><td>${idx++}</td><td class="equipo-nombre">${nombreES}</td><td>${stats.PJ}</td><td>${stats.G}</td><td>${stats.E}</td><td>${stats.P}</td><td>${stats.GF}</td><td>${stats.GC}</td><td>${stats.DG}</td><td>${stats.Pts}</td></tr>`;
+        html += `<tr><td>${idx++}</td><td class="equipo-nombre">${traducirEquipo(equipo)}</td><td>${stats.PJ}</td><td>${stats.G}</td><td>${stats.E}</td><td>${stats.P}</td><td>${stats.GF}</td><td>${stats.GC}</td><td>${stats.DG}</td><td>${stats.Pts}</td></tr>`;
       }
       html += `</tbody></table></div>`;
     }
@@ -561,16 +461,95 @@
       let time = m.time ? convertToMadridTime(m.time) : '';
       let round = m.round || (m.group ? `Grupo ${m.group}` : 'Amistoso/Otro');
       
-      const team1ES = traducir(m.team1);
-      const team2ES = traducir(m.team2);
-      
       html += `<div class="partido-item">
         <div class="partido-hora">📅 ${date} ${time ? `- ${time}h` : ''}</div>
-        <div class="equipos"><strong>${team1ES}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${team2ES}</strong></div>
+        <div class="equipos"><strong>${traducirEquipo(m.team1)}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${traducirEquipo(m.team2)}</strong></div>
         <div class="tv-channel">🏆 ${round}</div>
       </div>`;
     });
     partidosContainer.innerHTML = html;
+  }
+
+  function renderGoleadores() {
+    // Agrupar goles por jugador
+    const golesPorJugador = {};
+    
+    matchesAll.forEach(match => {
+      // Solo procesar partidos que tienen información de goleadores
+      if (!match.goals || !Array.isArray(match.goals)) return;
+      
+      match.goals.forEach(goal => {
+        if (!goal.scorer) return;
+        
+        const jugador = goal.scorer;
+        const equipo = goal.team || 'Desconocido';
+        
+        if (!golesPorJugador[jugador]) {
+          golesPorJugador[jugador] = {
+            nombre: jugador,
+            equipo: equipo,
+            goles: 0
+          };
+        }
+        
+        golesPorJugador[jugador].goles++;
+      });
+    });
+    
+    // Convertir a array y ordenar por goles
+    const goleadoresArray = Object.values(golesPorJugador);
+    goleadoresArray.sort((a, b) => b.goles - a.goles);
+    
+    // Tomar los 5 mejores
+    const top5 = goleadoresArray.slice(0, 5);
+    
+    if (top5.length === 0) {
+      goleadoresContainer.innerHTML = `
+        <div class="loading">
+          <p>⚽ Aún no hay goles registrados en el torneo.</p>
+          <p style="font-size: 0.9rem; color: #666; margin-top: 10px;">
+            Los goleadores aparecerán aquí automáticamente cuando comiencen los partidos.
+          </p>
+        </div>
+      `;
+      return;
+    }
+    
+    // Renderizar tabla
+    let html = `
+      <table class="tabla-goleadores">
+        <thead>
+          <tr>
+            <th style="width: 60px;">#</th>
+            <th>Jugador</th>
+            <th style="width: 150px;">Equipo</th>
+            <th style="width: 100px;">Goles</th>
+          </tr>
+        </thead>
+        <tbody>
+    `;
+    
+    top5.forEach((goleador, index) => {
+      const medalla = index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : (index + 1);
+      html += `
+        <tr>
+          <td class="posicion">${medalla}</td>
+          <td class="jugador">${goleador.nombre}</td>
+          <td class="equipo">${traducirEquipo(goleador.equipo)}</td>
+          <td><span class="goles">${goleador.goles}</span></td>
+        </tr>
+      `;
+    });
+    
+    html += `
+        </tbody>
+      </table>
+      <p style="text-align: center; margin-top: 20px; color: #666; font-size: 0.9rem;">
+        💡 Esta tabla se actualiza automáticamente cada minuto
+      </p>
+    `;
+    
+    goleadoresContainer.innerHTML = html;
   }
 
   function getTeamByPosition(groupId, position) {
@@ -606,7 +585,7 @@
         const eq = terceros[idx].equipo;
         const grupo = terceros[idx].grupo;
         if (groupsStats[grupo] && groupsStats[grupo][eq] && groupsStats[grupo][eq].PJ === 3) {
-          return traducir(eq);
+          return traducirEquipo(eq);
         }
       }
       return posCode;
@@ -618,7 +597,7 @@
     if (!groupsStats[groupName]) return posCode;
     const team = getTeamByPosition(groupName, pos);
     if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ === 3) {
-      return traducir(team);
+      return traducirEquipo(team);
     }
     return posCode;
   }
@@ -690,12 +669,10 @@
     if (interval) clearInterval(interval);
     interval = setInterval(() => {
       loadData();
-      loadGoleadores();
     }, 60000);
   }
 
   loadData();
-  loadGoleadores();
   startAutoRefresh();
 
   document.querySelectorAll('.tab-btn').forEach(btn => {
@@ -706,7 +683,6 @@
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
       btn.classList.add('activo');
       if (tabId === 'eliminatoria') renderFaseFinal();
-      if (tabId === 'goleadores') loadGoleadores();
     });
   });
 </script>
