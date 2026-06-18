@@ -65,7 +65,6 @@
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
     
-    /* Estilos para la tabla de goleadores */
     .goleadores-container {
       max-width: 800px;
       margin: 0 auto;
@@ -219,7 +218,6 @@
   const goleadoresContainer = document.getElementById('goleadoresContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
 
-  // Diccionario de traducciones de nombres de países
   const traducciones = {
     'Argentina': 'Argentina',
     'Brazil': 'Brasil',
@@ -287,7 +285,6 @@
     'Tanzania': 'Tanzania'
   };
 
-  // Función para traducir nombres de equipos
   function traducirEquipo(nombre) {
     if (!nombre) return nombre;
     return traducciones[nombre] || nombre;
@@ -471,18 +468,54 @@
   }
 
   function renderGoleadores() {
-    // Agrupar goles por jugador
     const golesPorJugador = {};
     
     matchesAll.forEach(match => {
-      // Solo procesar partidos que tienen información de goleadores
-      if (!match.goals || !Array.isArray(match.goals)) return;
+      let goalsData = null;
       
-      match.goals.forEach(goal => {
-        if (!goal.scorer) return;
+      if (match.goals && Array.isArray(match.goals)) {
+        goalsData = match.goals;
+      } else if (match.scorers && Array.isArray(match.scorers)) {
+        goalsData = match.scorers;
+      } else if (match.goalScorers && Array.isArray(match.goalScorers)) {
+        goalsData = match.goalScorers;
+      } else if (match.events && Array.isArray(match.events)) {
+        goalsData = match.events.filter(e => e.type === 'goal' || e.kind === 'goal');
+      }
+      
+      if (!goalsData || goalsData.length === 0) return;
+      
+      goalsData.forEach(goal => {
+        let jugador = null;
+        let equipo = null;
         
-        const jugador = goal.scorer;
-        const equipo = goal.team || 'Desconocido';
+        if (goal.scorer) {
+          jugador = goal.scorer;
+        } else if (goal.player) {
+          jugador = goal.player;
+        } else if (goal.name) {
+          jugador = goal.name;
+        } else if (goal.playerName) {
+          jugador = goal.playerName;
+        }
+        
+        if (goal.team) {
+          equipo = goal.team;
+        } else if (goal.teamName) {
+          equipo = goal.teamName;
+        } else if (match.team1 && match.team2) {
+          if (goal.side === 'home' || goal.teamSide === 'home') {
+            equipo = match.team1;
+          } else if (goal.side === 'away' || goal.teamSide === 'away') {
+            equipo = match.team2;
+          }
+        }
+        
+        if (!jugador) return;
+        
+        if (!equipo) {
+          equipo = 'Desconocido';
+        }
         
         if (!golesPorJugador[jugador]) {
           golesPorJugador[jugador] = {
@@ -496,26 +529,31 @@
       });
     });
     
-    // Convertir a array y ordenar por goles
     const goleadoresArray = Object.values(golesPorJugador);
     goleadoresArray.sort((a, b) => b.goles - a.goles);
     
-    // Tomar los 5 mejores
     const top5 = goleadoresArray.slice(0, 5);
     
     if (top5.length === 0) {
       goleadoresContainer.innerHTML = `
-        <div class="loading">
-          <p>⚽ Aún no hay goles registrados en el torneo.</p>
-          <p style="font-size: 0.9rem; color: #666; margin-top: 10px;">
-            Los goleadores aparecerán aquí automáticamente cuando comiencen los partidos.
+        <div style="background: white; padding: 30px; border-radius: 16px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <p style="font-size: 1.1rem; color: #1f452f; margin-bottom: 15px;">
+            ⚽ Información de goleadores no disponible
+          </p>
+          <p style="color: #666; font-size: 0.95rem; line-height: 1.6;">
+            El archivo de datos actual no incluye información detallada de quién marcó los goles.<br><br>
+            <strong>Nota:</strong> El repositorio openfootball/worldcup.json solo proporciona resultados de partidos, 
+            pero no la lista de goleadores individuales. Para mostrar esta información, sería necesario usar una API 
+            diferente que proporcione estadísticas de jugadores.
+          </p>
+          <p style="margin-top: 20px; font-size: 0.9rem; color: #999;">
+            Mientras tanto, puedes consultar la clasificación de grupos y el calendario de partidos.
           </p>
         </div>
       `;
       return;
     }
     
-    // Renderizar tabla
     let html = `
       <table class="tabla-goleadores">
         <thead>
