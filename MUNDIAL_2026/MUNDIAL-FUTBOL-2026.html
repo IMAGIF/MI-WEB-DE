@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Mundial FIFA 2026 · Calendario, Clasificación, Sedes y Fase Final</title>
-  <meta name="description" content="Calendario completo, clasificación en vivo, sedes y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
-  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026, sedes Mundial 2026, estadios Mundial 2026">
+  <title>Mundial FIFA 2026 · Calendario, Clasificación y Fase Final</title>
+  <meta name="description" content="Calendario completo, clasificación en vivo y cuadro eliminatorio del Mundial FIFA 2026. Horarios en España (hora de Madrid), resultados actualizados automáticamente y fase final con los 48 equipos.">
+  <meta name="keywords" content="Mundial 2026, calendario Mundial 2026, clasificación Mundial FIFA 2026, horarios Mundial España, fase final Mundial 2026, resultados Mundial fútbol, grupos Mundial 2026, cuadro eliminatorio 2026">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
     body { background: linear-gradient(135deg, #0b2b1f, #1a472a, #0e3b22); min-height: 100vh; display: flex; flex-direction: column; }
@@ -65,111 +65,8 @@
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
     
-    .sedes-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 20px;
-      margin-top: 15px;
-    }
-    .sede-card {
-      background: white;
-      border-radius: 20px;
-      overflow: hidden;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-      transition: transform 0.2s, box-shadow 0.2s;
-      border: 1px solid #e0e7d9;
-    }
-    .sede-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-    }
-    .sede-header {
-      padding: 16px 18px;
-      color: white;
-      font-weight: bold;
-      font-size: 1.1rem;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .sede-header.usa { background: linear-gradient(135deg, #1f452f, #2a6e46); }
-    .sede-header.mexico { background: linear-gradient(135deg, #006847, #009966); }
-    .sede-header.canada { background: linear-gradient(135deg, #c41e3a, #e63946); }
-    .sede-body { padding: 16px 18px; }
-    .sede-ciudad {
-      font-size: 0.9rem;
-      color: #666;
-      margin-bottom: 8px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-    .sede-capacidad {
-      display: inline-block;
-      background: #ffd966;
-      color: #1e3a2f;
-      padding: 4px 12px;
-      border-radius: 20px;
-      font-size: 0.8rem;
-      font-weight: bold;
-      margin-bottom: 12px;
-    }
-    .sede-partidos {
-      border-top: 1px solid #e0e7d9;
-      padding-top: 12px;
-    }
-    .sede-partidos h4 {
-      font-size: 0.85rem;
-      color: #1f452f;
-      margin-bottom: 8px;
-      font-weight: 600;
-    }
-    .sede-partido-item {
-      background: #f4f9f1;
-      padding: 8px 12px;
-      border-radius: 12px;
-      margin-bottom: 6px;
-      font-size: 0.8rem;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .sede-partido-item .fecha {
-      color: #666;
-      font-size: 0.75rem;
-    }
-    .sede-partido-item .equipos-partido {
-      font-weight: 600;
-      color: #1f452f;
-    }
-    .filtro-pais {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: center;
-      margin-bottom: 25px;
-      background: #eef5ea;
-      padding: 12px;
-      border-radius: 48px;
-    }
-    .filtro-pais button {
-      background: #2a6e46;
-      border: none;
-      padding: 6px 16px;
-      border-radius: 30px;
-      color: white;
-      cursor: pointer;
-      font-size: 0.9rem;
-    }
-    .filtro-pais button.activo-pais {
-      background: #ffb347;
-      color: #1e3a2f;
-      font-weight: bold;
-    }
-    
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
-      .sedes-grid { grid-template-columns: 1fr; }
       .partido-item { flex-direction: column; align-items: stretch; }
       .match-card { width: 100%; }
       .intro-seo { padding: 18px 16px; font-size: 0.92rem; }
@@ -186,7 +83,7 @@
 
 <main>
   <section class="intro-seo">
-    <h2>Todo sobre el Mundial FIFA 2026: calendario, clasificación, sedes y fase final</h2>
+    <h2>Todo sobre el Mundial FIFA 2026: calendario, clasificación y fase final</h2>
     <p>
       Bienvenido a tu guía completa del <strong>Mundial de Fútbol 2026</strong>, la edición más 
       ambiciosa de la historia del fútbol. Por primera vez, la Copa del Mundo se disputará en 
@@ -203,7 +100,6 @@
     <ul>
       <li><strong>Clasificación de los 12 grupos</strong> del Mundial 2026, con puntos, goles a favor, goles en contra, diferencia de goles y estadísticas actualizadas automáticamente tras cada jornada.</li>
       <li><strong>Calendario completo de partidos</strong> filtrado por fecha, con horarios, sedes y resultados en vivo cuando los encuentros estén en juego.</li>
-      <li><strong>Las 16 sedes oficiales</strong> del Mundial 2026, con información de cada estadio, su capacidad y los partidos que acogerá.</li>
       <li><strong>Cuadro eliminatorio de la fase final</strong>, desde los dieciseisavos de final hasta la gran final del 19 de julio, con el reglamento oficial de la FIFA para 48 equipos.</li>
     </ul>
     <p>
@@ -214,7 +110,7 @@
     </p>
     <p>
       Ya sea que quieras seguir a tu selección, consultar los <strong>horarios de los partidos 
-      del Mundial 2026 en España</strong>, conocer las sedes del torneo o planificar 
+      del Mundial 2026 en España</strong>, conocer el formato de la competición o planificar 
       qué encuentros ver cada día, esta página está diseñada para ser tu referencia rápida, 
       clara y siempre al día. ¡Que disfrutes del fútbol!
     </p>
@@ -223,8 +119,6 @@
   <div class="tabs">
     <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
-    <button class="tab-btn" data-tab="goleadores">⚽ GOLEADORES</button>
-    <button class="tab-btn" data-tab="sedes">🏟️ SEDES</button>
     <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
   </div>
 
@@ -237,22 +131,6 @@
     <div class="subtitulo">📆 Calendario y resultados (hora local convertida a Madrid)</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
     <div id="partidosFechaContainer"><div class="loading">Cargando partidos...</div></div>
-  </div>
-
-  <div id="goleadores" class="tab-contenido">
-    <div class="subtitulo">⚽ Máximos goleadores del Mundial 2026</div>
-    <div id="goleadoresContainer"><div class="loading">Cargando goleadores...</div></div>
-  </div>
-
-  <div id="sedes" class="tab-contenido">
-    <div class="subtitulo">🏟️ Las 16 sedes oficiales del Mundial FIFA 2026</div>
-    <div id="filtroPais" class="filtro-pais">
-      <button class="activo-pais" data-pais="todos">🌎 Todas</button>
-      <button data-pais="USA">🇺🇸 Estados Unidos</button>
-      <button data-pais="MEX">🇲🇽 México</button>
-      <button data-pais="CAN">🇨🇦 Canadá</button>
-    </div>
-    <div id="sedesContainer" class="sedes-grid"><div class="loading">Cargando sedes...</div></div>
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
@@ -276,28 +154,7 @@
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
-  const sedesContainer = document.getElementById('sedesContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
-
-  const infoSedes = {
-    'MetLife Stadium': { ciudad: 'East Rutherford, Nueva Jersey', pais: 'USA', capacidad: 82500, emoji: '🇺🇸' },
-    'AT&T Stadium': { ciudad: 'Arlington, Texas', pais: 'USA', capacidad: 80000, emoji: '🇺🇸' },
-    'AT&T Stadium (Arlington)': { ciudad: 'Arlington, Texas', pais: 'USA', capacidad: 80000, emoji: '🇺🇸' },
-    'Mercedes-Benz Stadium': { ciudad: 'Atlanta, Georgia', pais: 'USA', capacidad: 71000, emoji: '🇺🇸' },
-    'Gillette Stadium': { ciudad: 'Foxborough, Massachusetts', pais: 'USA', capacidad: 65878, emoji: '🇺🇸' },
-    'Lincoln Financial Field': { ciudad: 'Filadelfia, Pensilvania', pais: 'USA', capacidad: 69796, emoji: '🇺🇸' },
-    'NRG Stadium': { ciudad: 'Houston, Texas', pais: 'USA', capacidad: 72220, emoji: '🇺🇸' },
-    'SoFi Stadium': { ciudad: 'Inglewood, California', pais: 'USA', capacidad: 70240, emoji: '🇺🇸' },
-    'Levi\'s Stadium': { ciudad: 'Santa Clara, California', pais: 'USA', capacidad: 68500, emoji: '🇺🇸' },
-    'Lumen Field': { ciudad: 'Seattle, Washington', pais: 'USA', capacidad: 69000, emoji: '🇺🇸' },
-    'Hard Rock Stadium': { ciudad: 'Miami Gardens, Florida', pais: 'USA', capacidad: 65326, emoji: '🇺🇸' },
-    'Arrowhead Stadium': { ciudad: 'Kansas City, Missouri', pais: 'USA', capacidad: 76416, emoji: '🇺🇸' },
-    'Estadio Azteca': { ciudad: 'Ciudad de México', pais: 'MEX', capacidad: 87000, emoji: '🇲🇽' },
-    'Estadio Akron': { ciudad: 'Guadalajara, Jalisco', pais: 'MEX', capacidad: 49850, emoji: '🇲🇽' },
-    'Estadio BBVA': { ciudad: 'Monterrey, Nuevo León', pais: 'MEX', capacidad: 53500, emoji: '🇲🇽' },
-    'BC Place': { ciudad: 'Vancouver, Columbia Británica', pais: 'CAN', capacidad: 54500, emoji: '🇨🇦' },
-    'BMO Field': { ciudad: 'Toronto, Ontario', pais: 'CAN', capacidad: 45736, emoji: '🇨🇦' }
-  };
 
   const traducciones = {
     'Argentina': 'Argentina', 'Brazil': 'Brasil', 'Germany': 'Alemania',
@@ -321,27 +178,28 @@
     'Ukraine': 'Ucrania', 'Russia': 'Rusia', 'China': 'China',
     'India': 'India', 'New Zealand': 'Nueva Zelanda', 'South Africa': 'Sudáfrica',
     'Tunisia': 'Túnez', 'Algeria': 'Argelia', 'Ivory Coast': 'Costa de Marfil',
-    'Kenya': 'Kenia', 'Tanzania': 'Tanzania', 'North Macedonia': 'Macedonia del Norte',
-    'Georgia': 'Georgia', 'Albania': 'Albania', 'Slovenia': 'Eslovenia',
-    'Hungary': 'Hungría', 'Romania': 'Rumanía', 'Bulgaria': 'Bulgaria',
-    'Slovakia': 'Eslovaquia', 'Northern Ireland': 'Irlanda del Norte',
-    'Montenegro': 'Montenegro', 'Luxembourg': 'Luxemburgo', 'Malta': 'Malta',
-    'Andorra': 'Andorra', 'Faroe Islands': 'Islas Feroe', 'Kosovo': 'Kosovo',
-    'Moldova': 'Moldavia', 'Latvia': 'Letonia', 'Estonia': 'Estonia',
-    'Lithuania': 'Lituania', 'Belarus': 'Bielorrusia', 'Armenia': 'Armenia',
-    'Azerbaijan': 'Azerbaiyán', 'Kazakhstan': 'Kazajistán', 'Uzbekistan': 'Uzbekistán',
-    'Turkmenistan': 'Turkmenistán', 'Tajikistan': 'Tayikistán', 'Kyrgyzstan': 'Kirguistán',
-    'Afghanistan': 'Afganistán', 'Pakistan': 'Pakistán', 'Bangladesh': 'Bangladés',
-    'Sri Lanka': 'Sri Lanka', 'Nepal': 'Nepal', 'Bhutan': 'Bután',
-    'Myanmar': 'Birmania', 'Thailand': 'Tailandia', 'Vietnam': 'Vietnam',
-    'Cambodia': 'Camboya', 'Laos': 'Laos', 'Malaysia': 'Malasia',
-    'Singapore': 'Singapur', 'Indonesia': 'Indonesia', 'Philippines': 'Filipinas',
-    'Brunei': 'Brunéi', 'Timor-Leste': 'Timor Oriental', 'Mongolia': 'Mongolia',
-    'North Korea': 'Corea del Norte', 'Taiwan': 'Taiwán', 'Hong Kong': 'Hong Kong',
-    'Macau': 'Macao', 'United Arab Emirates': 'Emiratos Árabes Unidos',
-    'Oman': 'Omán', 'Yemen': 'Yemen', 'Iraq': 'Irak', 'Syria': 'Siria',
-    'Lebanon': 'Líbano', 'Jordan': 'Jordania', 'Palestine': 'Palestina',
-    'Israel': 'Israel', 'Bahrain': 'Baréin', 'Kuwait': 'Kuwait', 'Libya': 'Libia',
+    'Kenya': 'Kenia', 'Tanzania': 'Tanzania', 'Wales': 'Gales',
+    'North Macedonia': 'Macedonia del Norte', 'Georgia': 'Georgia',
+    'Albania': 'Albania', 'Slovenia': 'Eslovenia', 'Hungary': 'Hungría',
+    'Romania': 'Rumanía', 'Bulgaria': 'Bulgaria', 'Slovakia': 'Eslovaquia',
+    'Northern Ireland': 'Irlanda del Norte', 'Montenegro': 'Montenegro',
+    'Luxembourg': 'Luxemburgo', 'Malta': 'Malta', 'Andorra': 'Andorra',
+    'Faroe Islands': 'Islas Feroe', 'Kosovo': 'Kosovo', 'Moldova': 'Moldavia',
+    'Latvia': 'Letonia', 'Estonia': 'Estonia', 'Lithuania': 'Lituania',
+    'Belarus': 'Bielorrusia', 'Armenia': 'Armenia', 'Azerbaijan': 'Azerbaiyán',
+    'Kazakhstan': 'Kazajistán', 'Uzbekistan': 'Uzbekistán', 'Turkmenistan': 'Turkmenistán',
+    'Tajikistan': 'Tayikistán', 'Kyrgyzstan': 'Kirguistán', 'Afghanistan': 'Afganistán',
+    'Pakistan': 'Pakistán', 'Bangladesh': 'Bangladés', 'Sri Lanka': 'Sri Lanka',
+    'Nepal': 'Nepal', 'Bhutan': 'Bután', 'Myanmar': 'Birmania',
+    'Thailand': 'Tailandia', 'Vietnam': 'Vietnam', 'Cambodia': 'Camboya',
+    'Laos': 'Laos', 'Malaysia': 'Malasia', 'Singapore': 'Singapur',
+    'Indonesia': 'Indonesia', 'Philippines': 'Filipinas', 'Brunei': 'Brunéi',
+    'Timor-Leste': 'Timor Oriental', 'Mongolia': 'Mongolia', 'North Korea': 'Corea del Norte',
+    'Taiwan': 'Taiwán', 'Hong Kong': 'Hong Kong', 'Macau': 'Macao',
+    'United Arab Emirates': 'Emiratos Árabes Unidos', 'Oman': 'Omán',
+    'Yemen': 'Yemen', 'Iraq': 'Irak', 'Syria': 'Siria', 'Lebanon': 'Líbano',
+    'Jordan': 'Jordania', 'Palestine': 'Palestina', 'Israel': 'Israel',
+    'Bahrain': 'Baréin', 'Kuwait': 'Kuwait', 'Libya': 'Libia',
     'Sudan': 'Sudán', 'South Sudan': 'Sudán del Sur', 'Ethiopia': 'Etiopía',
     'Somalia': 'Somalia', 'Djibouti': 'Yibuti', 'Eritrea': 'Eritrea',
     'Uganda': 'Uganda', 'Rwanda': 'Ruanda', 'Burundi': 'Burundi',
@@ -398,14 +256,12 @@
       updateStats();
       renderClasificacion();
       renderCalendario();
-      renderSedes();
       renderFaseFinal();
     } catch (err) {
       console.error("Error detallado:", err);
       const errorMsg = `<div class="error">⚠️ No se pudieron cargar los datos.<br><small>${err.message}</small><br><br>Posible causa: El archivo JSON para 2026 aún no está disponible en el repositorio público.</div>`;
       gruposContainer.innerHTML = errorMsg;
       partidosContainer.innerHTML = errorMsg;
-      sedesContainer.innerHTML = errorMsg;
       bracketsContainer.innerHTML = errorMsg;
     }
   }
@@ -546,79 +402,6 @@
     partidosContainer.innerHTML = html;
   }
 
-  // NUEVA FUNCIÓN: Renderizar sedes (corregida para usar venue/stadium)
-  function renderSedes(filtroPais = 'todos') {
-    const partidosPorEstadio = {};
-    
-    matchesAll.forEach(match => {
-      const estadio = match.venue || match.stadium;
-      if (!estadio) return;
-      
-      if (!partidosPorEstadio[estadio]) {
-        partidosPorEstadio[estadio] = [];
-      }
-      partidosPorEstadio[estadio].push(match);
-    });
-    
-    const sedes = Object.keys(infoSedes);
-    
-    if (sedes.length === 0) {
-      sedesContainer.innerHTML = '<div class="loading">No hay información de sedes disponible.</div>';
-      return;
-    }
-    
-    let html = '';
-    
-    sedes.forEach(estadio => {
-      const info = infoSedes[estadio];
-      if (filtroPais !== 'todos' && info.pais !== filtroPais) return;
-      
-      const partidos = partidosPorEstadio[estadio] || [];
-      const clasePais = info.pais === 'USA' ? 'usa' : info.pais === 'MEX' ? 'mexico' : 'canada';
-      
-      html += `
-        <div class="sede-card">
-          <div class="sede-header ${clasePais}">
-            <span>${estadio}</span>
-            <span>${info.emoji}</span>
-          </div>
-          <div class="sede-body">
-            <div class="sede-ciudad">📍 ${info.ciudad}</div>
-            <div class="sede-capacidad">👥 ${info.capacidad.toLocaleString('es-ES')} espectadores</div>
-            
-            <div class="sede-partidos">
-              <h4>⚽ Partidos programados (${partidos.length})</h4>
-      `;
-      
-      if (partidos.length === 0) {
-        html += `<div style="color: #999; font-size: 0.8rem; font-style: italic;">Aún no hay partidos asignados</div>`;
-      } else {
-        partidos.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
-        partidos.forEach(p => {
-          const time = p.time ? convertToMadridTime(p.time) : '';
-          const round = p.round || (p.group ? `Grupo ${p.group}` : '');
-          html += `
-            <div class="sede-partido-item">
-              <div>
-                <div class="fecha">${p.date || ''} ${time ? `- ${time}h` : ''}</div>
-                <div class="equipos-partido">${traducirEquipo(p.team1)} vs ${traducirEquipo(p.team2)}</div>
-              </div>
-              <div style="font-size: 0.7rem; color: #666;">${round}</div>
-            </div>
-          `;
-        });
-      }
-      
-      html += `
-            </div>
-          </div>
-        </div>
-      `;
-    });
-    
-    sedesContainer.innerHTML = html;
-  }
-
   function getTeamByPosition(groupId, position) {
     if (!groupsStats[groupId]) return null;
     const teams = Object.keys(groupsStats[groupId]);
@@ -725,47 +508,6 @@
     bracketsContainer.innerHTML = html;
   }
 
-  async function cargarGoleadores() {
-    try {
-      const res = await fetch('data/goleadores.json?nocache=' + Date.now());
-      if (!res.ok) throw new Error('No se pudo cargar goleadores');
-      const goleadores = await res.json();
-
-      goleadores.sort((a, b) => b.goles - a.goles);
-
-      let html = `
-        <table class="tabla-grupo">
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>Jugador</th>
-              <th>País</th>
-              <th>Goles</th>
-            </tr>
-          </thead>
-          <tbody>
-      `;
-
-      let pos = 1;
-      goleadores.forEach(g => {
-        html += `
-          <tr>
-            <td>${pos++}</td>
-            <td class="equipo-nombre">${g.jugador}</td>
-            <td>${traducirEquipo(g.pais)}</td>
-            <td><strong>${g.goles}</strong></td>
-          </tr>
-        `;
-      });
-
-      html += `</tbody></table>`;
-      document.getElementById('goleadoresContainer').innerHTML = html;
-    } catch (e) {
-      document.getElementById('goleadoresContainer').innerHTML =
-        '<div class="error">No se pudieron cargar los goleadores.</div>';
-    }
-  }
-
   let interval;
   function startAutoRefresh() {
     if (interval) clearInterval(interval);
@@ -776,7 +518,6 @@
 
   loadData();
   startAutoRefresh();
-  cargarGoleadores();
 
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -786,16 +527,6 @@
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
       btn.classList.add('activo');
       if (tabId === 'eliminatoria') renderFaseFinal();
-      if (tabId === 'sedes') renderSedes();
-      if (tabId === 'goleadores') cargarGoleadores();
-    });
-  });
-
-  document.querySelectorAll('#filtroPais button').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('#filtroPais button').forEach(b => b.classList.remove('activo-pais'));
-      btn.classList.add('activo-pais');
-      renderSedes(btn.dataset.pais);
     });
   });
 </script>
