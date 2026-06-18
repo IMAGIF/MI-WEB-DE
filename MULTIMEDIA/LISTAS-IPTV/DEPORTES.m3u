@@ -1,6 +1,54 @@
 
 #EXTM3U
 
+
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://i.imgur.com/M6wZzuz.png", Tele Rebelde (480p) [Not 24/7]
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png", CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:0 type="favorites" channelId="1321" name="La 2" group="Generalistas" logo="https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200", La 2
+https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 1" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 1 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 2" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 2 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="3CAT Exclusiu 3" group="Cataluña" logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200", 3CAT Exclusiu 3 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="2814" name="TV3" group="Cataluña" logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png", TV3 GEO CAT
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="1684" name="Esport 3" group="Deportivos" logo="https://graph.facebook.com/Esport3/picture?width=200&height=200", Esport 3 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:0 type="favorites" channelId="3089" name="A SPOR" group="TURK HD+ LINE" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png", A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Uruguay" logo="https://i.imgur.com/2PoEm1x.png", DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://i.imgur.com/qeroYLq.png", Sion TV
+https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
+#EXTINF:0 type="favorites" channelId="1569" group="Georgia" logo="https://i.imgur.com/FJBL6zI.png", 2TV (720p)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg", La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:0 type="favorites" channelId="1320" name="La 1" group="Generalistas" logo="https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg", La 1
+https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsDh1S1RPbvbF_KB4NCbMZPuapcgN1ohcgrA&usqp=CAU", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png", Tigo Sports (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://i.imgur.com/NcfMC29.png", Canal 13 San Luis
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Argentina" logo="https://i.imgur.com/bGoGiry.png", San Luis +
+https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png", VTV6 (1080p)
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+#EXTINF:0 type="favorites" channelId="1322" name="Teledeporte" group="Deportivos" logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte
+https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8
+#EXTINF:0 type="favorites" channelId="2335" group="Sports" logo="https://i.imgur.com/JUZDOCO.png", TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+
+
+
+
 #EXTINF:0 type="favorites" channelId="1264" group="Austria" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/512px-ORF_1_2019.svg.png", ORF 1 HD (720p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 
