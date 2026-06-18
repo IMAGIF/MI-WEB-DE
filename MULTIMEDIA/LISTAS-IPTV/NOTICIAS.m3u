@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=lnGAjJK8Vqw
 #EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/AqGIoIt.png", Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" name="DW Alemania" group="Int. Europa" logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200", DW Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -20,15 +22,15 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 #EXTINF:0 type="favorites" channelId="217" name="Euronews" group="Informativos" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
-#EXTINF:0 type="favorites" channelId="-1" name="+24" group="Eventuales" logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png", +24
-https://ztnr.rtve.es/ztnr/6108696.m3u8
+
+
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="International" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png", France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" name="EURONEWS" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EURONEWS
-https://www.youtube.com/embed/O9mOtdZ-nSk?si=FU5u3v-K85zM7k9O
+#EXTINF:0 type="favorites" channelId="2883" name="CNN Internacional" group="Int. Europa" logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320", CNN Internacional
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="140" group="Spain" logo="https://i.imgur.com/rPAbMSu.png", TV5Monde Europe (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
