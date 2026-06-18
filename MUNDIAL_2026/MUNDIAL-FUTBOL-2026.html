@@ -65,7 +65,7 @@
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
     
-    /* NUEVOS ESTILOS PARA SEDES */
+    /* ESTILOS PARA SEDES */
     .sedes-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -224,7 +224,7 @@
   </section>
 
   <div class="tabs">
-    <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
+    <button class="tab-btn activo" data-tab="clasificacion"> CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
     <button class="tab-btn" data-tab="sedes">🏟️ SEDES</button>
     <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
@@ -236,7 +236,7 @@
   </div>
 
   <div id="calendario" class="tab-contenido">
-    <div class="subtitulo">📆 Calendario y resultados (hora local convertida a Madrid)</div>
+    <div class="subtitulo"> Calendario y resultados (hora local convertida a Madrid)</div>
     <div id="fechasFiltro" class="filtro-fecha"></div>
     <div id="partidosFechaContainer"><div class="loading">Cargando partidos...</div></div>
   </div>
@@ -278,19 +278,19 @@
 
   // Información de las 16 sedes del Mundial 2026
   const infoSedes = {
-    'MetLife Stadium': { ciudad: 'East Rutherford, Nueva Jersey', pais: 'USA', capacidad: 82500, emoji: '🇺🇸' },
+    'MetLife Stadium': { ciudad: 'East Rutherford, Nueva Jersey', pais: 'USA', capacidad: 82500, emoji: '🇺' },
     'AT&T Stadium': { ciudad: 'Arlington, Texas', pais: 'USA', capacidad: 80000, emoji: '🇺🇸' },
     'AT&T Stadium (Arlington)': { ciudad: 'Arlington, Texas', pais: 'USA', capacidad: 80000, emoji: '🇺🇸' },
     'Mercedes-Benz Stadium': { ciudad: 'Atlanta, Georgia', pais: 'USA', capacidad: 71000, emoji: '🇺🇸' },
-    'Gillette Stadium': { ciudad: 'Foxborough, Massachusetts', pais: 'USA', capacidad: 65878, emoji: '🇺🇸' },
-    'Lincoln Financial Field': { ciudad: 'Filadelfia, Pensilvania', pais: 'USA', capacidad: 69796, emoji: '🇺🇸' },
+    'Gillette Stadium': { ciudad: 'Foxborough, Massachusetts', pais: 'USA', capacidad: 65878, emoji: '🇸' },
+    'Lincoln Financial Field': { ciudad: 'Filadelfia, Pensilvania', pais: 'USA', capacidad: 69796, emoji: '🇺' },
     'NRG Stadium': { ciudad: 'Houston, Texas', pais: 'USA', capacidad: 72220, emoji: '🇺🇸' },
     'SoFi Stadium': { ciudad: 'Inglewood, California', pais: 'USA', capacidad: 70240, emoji: '🇺🇸' },
     'Levi\'s Stadium': { ciudad: 'Santa Clara, California', pais: 'USA', capacidad: 68500, emoji: '🇺🇸' },
     'Lumen Field': { ciudad: 'Seattle, Washington', pais: 'USA', capacidad: 69000, emoji: '🇺🇸' },
-    'Hard Rock Stadium': { ciudad: 'Miami Gardens, Florida', pais: 'USA', capacidad: 65326, emoji: '🇺🇸' },
+    'Hard Rock Stadium': { ciudad: 'Miami Gardens, Florida', pais: 'USA', capacidad: 65326, emoji: '🇸' },
     'Arrowhead Stadium': { ciudad: 'Kansas City, Missouri', pais: 'USA', capacidad: 76416, emoji: '🇺🇸' },
-    'Estadio Azteca': { ciudad: 'Ciudad de México', pais: 'MEX', capacidad: 87000, emoji: '🇲🇽' },
+    'Estadio Azteca': { ciudad: 'Ciudad de México', pais: 'MEX', capacidad: 87000, emoji: '🇽' },
     'Estadio Akron': { ciudad: 'Guadalajara, Jalisco', pais: 'MEX', capacidad: 49850, emoji: '🇲🇽' },
     'Estadio BBVA': { ciudad: 'Monterrey, Nuevo León', pais: 'MEX', capacidad: 53500, emoji: '🇲🇽' },
     'BC Place': { ciudad: 'Vancouver, Columbia Británica', pais: 'CAN', capacidad: 54500, emoji: '🇨🇦' },
@@ -544,49 +544,77 @@
     partidosContainer.innerHTML = html;
   }
 
-  // NUEVA FUNCIÓN: Renderizar sedes
+  // FUNCIÓN CORREGIDA: Renderizar sedes buscando en múltiples campos
   function renderSedes(filtroPais = 'todos') {
-    // Agrupar partidos por estadio
+    // Agrupar partidos por estadio/venue/location (buscando en varios campos posibles)
     const partidosPorEstadio = {};
     
     matchesAll.forEach(match => {
-      if (!match.stadium) return;
+      // Intentar encontrar el campo del estadio en diferentes lugares
+      let estadio = null;
       
-      const estadio = match.stadium;
+      if (match.stadium) {
+        estadio = match.stadium;
+      } else if (match.venue) {
+        estadio = match.venue;
+      } else if (match.location) {
+        estadio = match.location;
+      } else if (match.site) {
+        estadio = match.site;
+      } else if (match.place) {
+        estadio = match.place;
+      }
+      
+      // Si no hay estadio, usamos "Por confirmar" temporalmente
+      if (!estadio) {
+        estadio = 'Por confirmar';
+      }
+      
       if (!partidosPorEstadio[estadio]) {
         partidosPorEstadio[estadio] = [];
       }
       partidosPorEstadio[estadio].push(match);
     });
     
-    // Si no hay partidos aún, mostrar todas las sedes con información básica
-    const sedes = Object.keys(infoSedes);
+    // Obtener todas las sedes conocidas + las que aparezcan en los partidos
+    const sedesConocidas = Object.keys(infoSedes);
+    const sedesDePartidos = Object.keys(partidosPorEstadio);
+    const todasLasSedes = [...new Set([...sedesConocidas, ...sedesDePartidos])];
     
-    if (sedes.length === 0) {
+    if (todasLasSedes.length === 0) {
       sedesContainer.innerHTML = '<div class="loading">No hay información de sedes disponible.</div>';
       return;
     }
     
     let html = '';
     
-    sedes.forEach(estadio => {
+    todasLasSedes.forEach(estadio => {
+      // Verificar si es una sede conocida o nueva
       const info = infoSedes[estadio];
       
+      // Si no es una sede conocida, creamos info básica
+      const estadioInfo = info || {
+        ciudad: 'Por confirmar',
+        pais: 'XXX',
+        capacidad: 0,
+        emoji: '🏟️'
+      };
+      
       // Aplicar filtro por país
-      if (filtroPais !== 'todos' && info.pais !== filtroPais) return;
+      if (filtroPais !== 'todos' && estadioInfo.pais !== filtroPais) return;
       
       const partidos = partidosPorEstadio[estadio] || [];
-      const clasePais = info.pais === 'USA' ? 'usa' : info.pais === 'MEX' ? 'mexico' : 'canada';
+      const clasePais = estadioInfo.pais === 'USA' ? 'usa' : estadioInfo.pais === 'MEX' ? 'mexico' : estadioInfo.pais === 'CAN' ? 'canada' : 'usa';
       
       html += `
         <div class="sede-card">
           <div class="sede-header ${clasePais}">
             <span>${estadio}</span>
-            <span>${info.emoji}</span>
+            <span>${estadioInfo.emoji}</span>
           </div>
           <div class="sede-body">
-            <div class="sede-ciudad">📍 ${info.ciudad}</div>
-            <div class="sede-capacidad">👥 ${info.capacidad.toLocaleString('es-ES')} espectadores</div>
+            <div class="sede-ciudad"> ${estadioInfo.ciudad}</div>
+            ${estadioInfo.capacidad > 0 ? `<div class="sede-capacidad">👥 ${estadioInfo.capacidad.toLocaleString('es-ES')} espectadores</div>` : ''}
             
             <div class="sede-partidos">
               <h4>⚽ Partidos programados (${partidos.length})</h4>
@@ -599,11 +627,13 @@
         partidos.forEach(p => {
           const time = p.time ? convertToMadridTime(p.time) : '';
           const round = p.round || (p.group ? `Grupo ${p.group}` : '');
+          const score = p.score && p.score.ft ? `${p.score.ft[0]} - ${p.score.ft[1]}` : '-';
+          
           html += `
             <div class="sede-partido-item">
               <div>
                 <div class="fecha">${p.date || ''} ${time ? `- ${time}h` : ''}</div>
-                <div class="equipos-partido">${traducirEquipo(p.team1)} vs ${traducirEquipo(p.team2)}</div>
+                <div class="equipos-partido">${traducirEquipo(p.team1)} ${score} ${traducirEquipo(p.team2)}</div>
               </div>
               <div style="font-size: 0.7rem; color: #666;">${round}</div>
             </div>
@@ -722,7 +752,7 @@
     </div></div>`;
     
     html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces"><div class="match-card">Perdedor Semifinal 1 vs Perdedor Semifinal 2</div></div></div>`;
-    html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
+    html += `<div class="ronda"><h3> FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
     
     bracketsContainer.innerHTML = html;
   }
