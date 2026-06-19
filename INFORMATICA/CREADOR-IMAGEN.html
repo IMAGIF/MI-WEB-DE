@@ -6,17 +6,19 @@
 <title>Creador de Prompts de Imagen</title>
 <style>
   :root {
-    --primary: #6366f1;
-    --primary-dark: #4f46e5;
-    --primary-light: #818cf8;
-    --bg: #0f172a;
-    --bg-card: #1e293b;
-    --bg-input: #0f172a;
-    --border: #334155;
-    --text: #f1f5f9;
-    --text-muted: #94a3b8;
-    --success: #10b981;
-    --danger: #ef4444;
+    --primary: #2563eb;
+    --primary-dark: #1e40af;
+    --primary-light: #3b82f6;
+    --bg: #ffffff;
+    --bg-alt: #f8fafc;
+    --bg-card: #ffffff;
+    --bg-input: #f1f5f9;
+    --border: #cbd5e1;
+    --text: #0f172a;
+    --text-secondary: #1e3a8a;
+    --text-muted: #475569;
+    --success: #16a34a;
+    --danger: #dc2626;
     --accent: #f59e0b;
   }
 
@@ -28,7 +30,7 @@
 
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+    background: linear-gradient(135deg, #eff6ff 0%, #f8fafc 50%, #eff6ff 100%);
     min-height: 100vh;
     color: var(--text);
     padding: 20px;
@@ -48,24 +50,33 @@
 
   .home-link {
     display: inline-block;
-    color: var(--primary-light);
+    color: white;
+    background: var(--primary);
+    padding: 8px 18px;
     text-decoration: none;
     margin-bottom: 15px;
     font-size: 0.9rem;
-    transition: color 0.3s;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: all 0.3s;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
   }
 
   .home-link:hover {
-    color: var(--accent);
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
   }
 
   h1 {
     font-size: 2.2rem;
-    background: linear-gradient(90deg, var(--primary-light), var(--accent));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--primary-dark);
     margin-bottom: 10px;
+    font-weight: 700;
+  }
+
+  h2 {
+    color: var(--primary-dark);
   }
 
   .subtitle {
@@ -79,7 +90,7 @@
     background: var(--bg-card);
     border-radius: 16px;
     padding: 30px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     border: 1px solid var(--border);
     margin-bottom: 20px;
   }
@@ -91,7 +102,7 @@
   label {
     display: block;
     margin-bottom: 8px;
-    font-weight: 600;
+    font-weight: 700;
     color: var(--text);
     font-size: 0.95rem;
   }
@@ -114,11 +125,12 @@
   }
 
   select {
-    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3e%3cpath fill='%2394a3b8' d='M6 8L0 0h12z'/%3e%3c/svg%3e");
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3e%3cpath fill='%231e3a8a' d='M6 8L0 0h12z'/%3e%3c/svg%3e");
     background-repeat: no-repeat;
     background-position: right 14px center;
     padding-right: 40px;
     cursor: pointer;
+    font-weight: 500;
   }
 
   select:focus,
@@ -126,7 +138,8 @@
   textarea:focus {
     outline: none;
     border-color: var(--primary);
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+    background: white;
   }
 
   textarea {
@@ -162,52 +175,56 @@
     border: none;
     border-radius: 10px;
     font-size: 0.95rem;
-    font-weight: 600;
+    font-weight: 700;
     cursor: pointer;
     transition: all 0.3s;
     font-family: inherit;
   }
 
   .btn-primary {
-    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    background: var(--primary);
     color: white;
   }
 
   .btn-primary:hover {
+    background: var(--primary-dark);
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+    box-shadow: 0 6px 20px rgba(37, 99, 235, 0.4);
   }
 
   .btn-secondary {
-    background: var(--bg-input);
-    color: var(--text);
-    border: 1px solid var(--border);
+    background: white;
+    color: var(--primary-dark);
+    border: 2px solid var(--primary);
   }
 
   .btn-secondary:hover {
-    background: var(--border);
+    background: var(--primary);
+    color: white;
   }
 
   .btn-success {
-    background: linear-gradient(135deg, var(--success), #059669);
+    background: var(--success);
     color: white;
   }
 
   .btn-success:hover {
+    background: #15803d;
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 6px 20px rgba(22, 163, 74, 0.4);
   }
 
   .prompt-output {
     background: var(--bg-input);
-    border: 1px solid var(--border);
+    border: 2px solid var(--primary-light);
     border-radius: 10px;
     padding: 16px;
     margin-top: 20px;
     min-height: 80px;
     color: var(--text);
     font-family: 'Consolas', 'Monaco', monospace;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
+    font-weight: 600;
     white-space: pre-wrap;
     word-wrap: break-word;
   }
@@ -216,6 +233,7 @@
     content: "El prompt generado aparecerá aquí...";
     color: var(--text-muted);
     font-style: italic;
+    font-weight: normal;
   }
 
   .history-item {
@@ -244,6 +262,7 @@
   .history-item .prompt-text {
     color: var(--text);
     word-break: break-word;
+    font-weight: 500;
   }
 
   .history-item .copy-btn {
@@ -259,6 +278,7 @@
     cursor: pointer;
     flex: none;
     min-width: auto;
+    font-weight: 600;
   }
 
   .empty-history {
@@ -271,12 +291,13 @@
   .clear-history {
     background: transparent;
     color: var(--danger);
-    border: 1px solid var(--danger);
+    border: 2px solid var(--danger);
     padding: 8px 16px;
     font-size: 0.85rem;
     margin-bottom: 15px;
     flex: none;
     min-width: auto;
+    font-weight: 600;
   }
 
   .clear-history:hover {
@@ -294,6 +315,8 @@
 
   footer p {
     margin-bottom: 15px;
+    color: var(--text-secondary);
+    font-weight: 600;
   }
 
   .social-links {
@@ -309,18 +332,19 @@
     align-items: center;
     gap: 6px;
     padding: 8px 16px;
-    background: var(--bg-card);
-    color: var(--text);
+    background: white;
+    color: var(--primary-dark);
     text-decoration: none;
     border-radius: 8px;
-    border: 1px solid var(--border);
+    border: 2px solid var(--primary);
     font-size: 0.9rem;
+    font-weight: 600;
     transition: all 0.3s;
   }
 
   .social-links a:hover {
     background: var(--primary);
-    border-color: var(--primary);
+    color: white;
     transform: translateY(-2px);
   }
 
@@ -333,15 +357,26 @@
     color: white;
     padding: 12px 24px;
     border-radius: 10px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
     opacity: 0;
     transition: all 0.3s;
     z-index: 1000;
+    font-weight: 600;
   }
 
   .toast.show {
     opacity: 1;
     transform: translateX(-50%) translateY(0);
+  }
+
+  .lang-note {
+    background: #fef3c7;
+    border-left: 4px solid var(--accent);
+    padding: 10px 14px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    color: #78350f;
+    margin-bottom: 15px;
   }
 </style>
 </head>
@@ -352,15 +387,19 @@
     <a href="https://imagif.github.io/MI-WEB-DE/" class="home-link">← INICIO</a>
     <h1>Creador de Prompts de Imagen</h1>
     <p class="subtitle">
-      Generador de prompts para imágenes con IA. Crea descripciones detalladas para generar imágenes de alta calidad.
+      Generador de prompts para imágenes con IA. Escribe tu descripción en español y el prompt se generará automáticamente en inglés.
       Compatible con Microsoft Copilot, MidJourney, Stable Diffusion, DALL·E, Flux, etc.
     </p>
   </header>
 
   <div class="card">
+    <div class="lang-note">
+      💡 <strong>Consejo:</strong> Escribe la descripción en español. El prompt se generará automáticamente en inglés para mayor compatibilidad con las IAs generadoras de imágenes.
+    </div>
+
     <div class="form-group">
-      <label for="description">📝 Descripción</label>
-      <textarea id="description" placeholder="Describe la imagen que quieres generar..."></textarea>
+      <label for="description">📝 Descripción (en español)</label>
+      <textarea id="description" placeholder="Ej: un barco de vela en el mar al atardecer..."></textarea>
     </div>
 
     <div class="grid-2">
@@ -368,15 +407,15 @@
         <label for="imageType">🎨 Tipo de imagen</label>
         <select id="imageType">
           <option value="">-- Selecciona --</option>
-          <option value="Cómic">Cómic</option>
-          <option value="Foto realista">Foto realista</option>
-          <option value="Pintura">Pintura</option>
-          <option value="Fotografía">Fotografía</option>
-          <option value="Paisaje">Paisaje</option>
-          <option value="Ilustración">Ilustración</option>
-          <option value="Pixel art">Pixel art</option>
+          <option value="comic style">Cómic</option>
+          <option value="realistic photo">Foto realista</option>
+          <option value="painting">Pintura</option>
+          <option value="photography">Fotografía</option>
+          <option value="landscape">Paisaje</option>
+          <option value="illustration">Ilustración</option>
+          <option value="pixel art">Pixel art</option>
           <option value="3D render">3D render</option>
-          <option value="Acuarela">Acuarela</option>
+          <option value="watercolor">Acuarela</option>
         </select>
       </div>
 
@@ -384,30 +423,30 @@
         <label for="style">✨ Estilo</label>
         <select id="style">
           <option value="">-- Selecciona --</option>
-          <option value="Realista">Realista</option>
-          <option value="Cinematográfico">Cinematográfico</option>
-          <option value="Anime">Anime</option>
-          <option value="Manga">Manga</option>
-          <option value="Cyberpunk">Cyberpunk</option>
-          <option value="Steampunk">Steampunk</option>
-          <option value="Fantasía">Fantasía</option>
-          <option value="Ciencia ficción">Ciencia ficción</option>
-          <option value="Minimalista">Minimalista</option>
-          <option value="Vintage">Vintage</option>
-          <option value="Retro">Retro</option>
-          <option value="Surrealista">Surrealista</option>
-          <option value="Impresionista">Impresionista</option>
-          <option value="Barroco">Barroco</option>
-          <option value="Neón">Neón</option>
-          <option value="Oscuro">Oscuro</option>
-          <option value="Brillante">Brillante</option>
-          <option value="Pastel">Pastel</option>
-          <option value="Gótico">Gótico</option>
-          <option value="Cartoon">Cartoon</option>
-          <option value="Hiperrealista">Hiperrealista</option>
-          <option value="Artístico">Artístico</option>
-          <option value="Moderno">Moderno</option>
-          <option value="Clásico">Clásico</option>
+          <option value="realistic">Realista</option>
+          <option value="cinematic">Cinematográfico</option>
+          <option value="anime">Anime</option>
+          <option value="manga">Manga</option>
+          <option value="cyberpunk">Cyberpunk</option>
+          <option value="steampunk">Steampunk</option>
+          <option value="fantasy">Fantasía</option>
+          <option value="sci-fi">Ciencia ficción</option>
+          <option value="minimalist">Minimalista</option>
+          <option value="vintage">Vintage</option>
+          <option value="retro">Retro</option>
+          <option value="surrealist">Surrealista</option>
+          <option value="impressionist">Impresionista</option>
+          <option value="baroque">Barroco</option>
+          <option value="neon">Neón</option>
+          <option value="dark">Oscuro</option>
+          <option value="bright">Brillante</option>
+          <option value="pastel">Pastel</option>
+          <option value="gothic">Gótico</option>
+          <option value="cartoon">Cartoon</option>
+          <option value="hyperrealistic">Hiperrealista</option>
+          <option value="artistic">Artístico</option>
+          <option value="modern">Moderno</option>
+          <option value="classic">Clásico</option>
         </select>
       </div>
     </div>
@@ -415,9 +454,9 @@
     <div class="form-group">
       <label for="format">📐 Formato</label>
       <select id="format">
-        <option value="9:16 (vertical)">9:16 (vertical)</option>
-        <option value="16:9 (horizontal)">16:9 (horizontal)</option>
-        <option value="1:1 (cuadrado)">1:1 (cuadrado)</option>
+        <option value="9:16 vertical">9:16 (vertical)</option>
+        <option value="16:9 horizontal">16:9 (horizontal)</option>
+        <option value="1:1 square">1:1 (cuadrado)</option>
       </select>
     </div>
 
@@ -453,12 +492,112 @@
 <script>
   const HISTORY_KEY = 'promptHistory_imagif';
 
+  // Diccionario español -> inglés para descripciones comunes
+  const dictionary = {
+    // Artículos y preposiciones
+    'un': 'a', 'una': 'a', 'unos': 'some', 'unas': 'some', 'el': 'the', 'la': 'the',
+    'los': 'the', 'las': 'the', 'de': 'of', 'del': 'of the', 'en': 'in', 'con': 'with',
+    'sin': 'without', 'por': 'by', 'para': 'for', 'sobre': 'on', 'entre': 'between',
+    'hacia': 'towards', 'desde': 'from', 'hasta': 'until', 'y': 'and', 'o': 'or',
+    'pero': 'but', 'que': 'that', 'al': 'at the',
+
+    // Pronombres y posesivos
+    'mi': 'my', 'tu': 'your', 'su': 'his/her', 'nuestro': 'our', 'este': 'this',
+    'esta': 'this', 'ese': 'that', 'esa': 'that', 'aquel': 'that', 'aquella': 'that',
+
+    // Adjetivos comunes
+    'grande': 'big', 'pequeño': 'small', 'pequeña': 'small', 'alto': 'tall', 'alta': 'tall',
+    'bajo': 'short', 'baja': 'short', 'largo': 'long', 'larga': 'long', 'corto': 'short',
+    'corta': 'short', 'ancho': 'wide', 'ancha': 'wide', 'estrecho': 'narrow',
+    'nuevo': 'new', 'nueva': 'new', 'viejo': 'old', 'vieja': 'old', 'joven': 'young',
+    'bonito': 'beautiful', 'bonita': 'beautiful', 'hermoso': 'beautiful', 'hermosa': 'beautiful',
+    'feo': 'ugly', 'fea': 'ugly', 'bueno': 'good', 'buena': 'good', 'malo': 'bad', 'mala': 'bad',
+    'fuerte': 'strong', 'débil': 'weak', 'rápido': 'fast', 'rápida': 'fast', 'lento': 'slow',
+    'lenta': 'slow', 'frío': 'cold', 'fría': 'cold', 'caliente': 'hot', 'caluroso': 'hot',
+    'oscuro': 'dark', 'oscura': 'dark', 'claro': 'light', 'clara': 'light', 'brillante': 'bright',
+    'colorido': 'colorful', 'colorida': 'colorful', 'blanco': 'white', 'blanca': 'white',
+    'negro': 'black', 'negra': 'black', 'rojo': 'red', 'roja': 'red', 'azul': 'blue',
+    'verde': 'green', 'amarillo': 'yellow', 'amarilla': 'yellow', 'naranja': 'orange',
+    'morado': 'purple', 'morada': 'purple', 'rosa': 'pink', 'gris': 'gray', 'marrón': 'brown',
+    'dorado': 'golden', 'dorada': 'golden', 'plateado': 'silver', 'plateada': 'silver',
+
+    // Naturaleza
+    'barco': 'ship', 'barcos': 'ships', 'vela': 'sail', 'velas': 'sails', 'mar': 'sea',
+    'océano': 'ocean', 'playa': 'beach', 'arena': 'sand', 'cielo': 'sky', 'nube': 'cloud',
+    'nubes': 'clouds', 'sol': 'sun', 'luna': 'moon', 'estrella': 'star', 'estrellas': 'stars',
+    'montaña': 'mountain', 'montañas': 'mountains', 'río': 'river', 'lago': 'lake',
+    'bosque': 'forest', 'árbol': 'tree', 'árboles': 'trees', 'flor': 'flower', 'flores': 'flowers',
+    'hierba': 'grass', 'planta': 'plant', 'plantas': 'plants', 'jardín': 'garden', 'campo': 'field',
+    'desierto': 'desert', 'isla': 'island', 'cascada': 'waterfall', 'volcán': 'volcano',
+    'atardecer': 'sunset', 'amanecer': 'sunrise', 'noche': 'night', 'día': 'day', 'tarde': 'afternoon',
+
+    // Personas y seres
+    'hombre': 'man', 'mujer': 'woman', 'niño': 'boy', 'niña': 'girl', 'persona': 'person',
+    'gente': 'people', 'amigo': 'friend', 'amiga': 'friend', 'familia': 'family',
+    'rey': 'king', 'reina': 'queen', 'príncipe': 'prince', 'princesa': 'princess',
+    'guerrero': 'warrior', 'mago': 'wizard', 'hada': 'fairy', 'dragón': 'dragon',
+    'ángel': 'angel', 'demonio': 'demon', 'robot': 'robot', 'alien': 'alien',
+
+    // Animales
+    'perro': 'dog', 'gato': 'cat', 'caballo': 'horse', 'pájaro': 'bird', 'pájaros': 'birds',
+    'pez': 'fish', 'peces': 'fish', 'lobo': 'wolf', 'oso': 'bear', 'león': 'lion',
+    'tigre': 'tiger', 'águila': 'eagle', 'serpiente': 'snake', 'mariposa': 'butterfly',
+
+    // Objetos y lugares
+    'casa': 'house', 'casas': 'houses', 'ciudad': 'city', 'pueblo': 'village', 'castillo': 'castle',
+    'palacio': 'palace', 'iglesia': 'church', 'torre': 'tower', 'puente': 'bridge',
+    'camino': 'road', 'carretera': 'highway', 'coche': 'car', 'auto': 'car', 'avión': 'airplane',
+    'tren': 'train', 'bicicleta': 'bicycle', 'libro': 'book', 'libros': 'books',
+    'mesa': 'table', 'silla': 'chair', 'puerta': 'door', 'ventana': 'window',
+    'espada': 'sword', 'escudo': 'shield', 'corona': 'crown', 'anillo': 'ring',
+
+    // Acciones (gerundios para descripciones)
+    'caminando': 'walking', 'corriendo': 'running', 'volando': 'flying', 'nadando': 'swimming',
+    'sentado': 'sitting', 'sentada': 'sitting', 'de pie': 'standing', 'durmiendo': 'sleeping',
+    'comiendo': 'eating', 'bebiendo': 'drinking', 'leyendo': 'reading', 'escribiendo': 'writing',
+    'bailando': 'dancing', 'cantando': 'singing', 'luchando': 'fighting', 'jugando': 'playing',
+    'mirando': 'looking', 'sonriendo': 'smiling', 'llorando': 'crying', 'riendo': 'laughing',
+
+    // Conceptos y atmósfera
+    'mágico': 'magical', 'mágica': 'magical', 'misterioso': 'mysterious', 'misteriosa': 'mysterious',
+    'épico': 'epic', 'épica': 'epic', 'romántico': 'romantic', 'romántica': 'romantic',
+    'terrorífico': 'terrifying', 'terrorífica': 'terrifying', 'pacífico': 'peaceful', 'pacífica': 'peaceful',
+    'tranquilo': 'tranquil', 'tranquila': 'tranquil', 'silencioso': 'silent', 'silenciosa': 'silent',
+    'ruidoso': 'noisy', 'ruidosa': 'noisy', 'antiguo': 'ancient', 'antigua': 'ancient',
+    'futurista': 'futuristic', 'medieval': 'medieval', 'moderno': 'modern', 'moderna': 'modern'
+  };
+
   function showToast(message, type = 'success') {
     const toast = document.getElementById('toast');
     toast.textContent = message;
     toast.style.background = type === 'success' ? 'var(--success)' : 'var(--danger)';
     toast.classList.add('show');
     setTimeout(() => toast.classList.remove('show'), 2500);
+  }
+
+  // Traduce texto de español a inglés usando el diccionario
+  function translateToEnglish(text) {
+    if (!text) return '';
+    
+    let result = text.toLowerCase().trim();
+    
+    // Reemplazar frases compuestas primero (de mayor a menor longitud)
+    const sortedKeys = Object.keys(dictionary).sort((a, b) => b.length - a.length);
+    
+    for (const key of sortedKeys) {
+      const regex = new RegExp('\\b' + key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'g');
+      result = result.replace(regex, dictionary[key]);
+    }
+    
+    // Limpieza final: eliminar artículos duplicados o innecesarios
+    result = result.replace(/\ba a\b/g, 'a');
+    result = result.replace(/\bthe the\b/g, 'the');
+    result = result.replace(/\s+/g, ' ').trim();
+    
+    // Capitalizar primera letra
+    result = result.charAt(0).toUpperCase() + result.slice(1);
+    
+    return result;
   }
 
   function createPrompt() {
@@ -472,15 +611,19 @@
       return;
     }
 
-    let prompt = description;
-    if (imageType) prompt += `, estilo ${imageType.toLowerCase()}`;
-    if (style) prompt += `, con estética ${style.toLowerCase()}`;
-    prompt += `, formato ${format}`;
-    prompt += `, alta calidad, muy detallado, 8k, iluminación profesional`;
+    // Traducir la descripción al inglés
+    const translatedDesc = translateToEnglish(description);
+
+    // Construir el prompt en inglés
+    let prompt = `Create image of: ${translatedDesc}`;
+    if (imageType) prompt += `, ${imageType}`;
+    if (style) prompt += `, ${style} style`;
+    prompt += `, ${format} format`;
+    prompt += `, high quality, highly detailed, 8k, professional lighting, masterpiece`;
 
     document.getElementById('promptOutput').textContent = prompt;
     saveToHistory(prompt);
-    showToast('✅ Prompt creado');
+    showToast('✅ Prompt creado en inglés');
   }
 
   function copyPrompt() {
@@ -502,7 +645,7 @@
       showToast('⚠️ Primero crea un prompt', 'error');
       return;
     }
-    const url = 'https://copilot.microsoft.com/?q=' + encodeURIComponent('Genera una imagen: ' + prompt);
+    const url = 'https://copilot.microsoft.com/?q=' + encodeURIComponent(prompt);
     window.open(url, '_blank');
   }
 
