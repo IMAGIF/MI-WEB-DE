@@ -265,7 +265,7 @@
 
     <h2>Estilo</h2>
     <select id="estilo">
-        <option value="">Selecciona un tipo primero</option>
+        <!-- Se rellena dinámicamente -->
     </select>
 
     <h2>Formato</h2>
@@ -324,80 +324,80 @@ const tipoEnIngles = {
     "Acuarela": "Watercolor"
 };
 
-// Estilos por tipo (usando las claves en español como en tu versión original)
+// Estilos por tipo - EXACTAMENTE COMO EN TU VERSIÓN ORIGINAL
 const estilosPorTipo = {
     "Cómic": [
-        "Disney style",
-        "Manga style", 
-        "Anime style",
-        "Traditional comic",
-        "Kids comic",
-        "Superhero comic",
-        "American cartoon"
+        "Disney",
+        "Manga", 
+        "Anime",
+        "Tradicional",
+        "Infantil",
+        "Superhéroes",
+        "Cartoon americano"
     ],
     "Foto realista": [
-        "High resolution",
+        "Alta resolución",
         "HDR",
-        "Cinematic",
+        "Cinemática",
         "Vintage",
-        "Black and white",
-        "Professional portrait"
+        "Blanco y negro",
+        "Retrato profesional"
     ],
     "Pintura": [
-        "Renaissance",
-        "Impressionist",
-        "Baroque",
-        "Classical",
-        "Oil painting",
-        "Artistic watercolor"
+        "Renacentista",
+        "Impresionista",
+        "Barroco",
+        "Clásico",
+        "Óleo",
+        "Acuarela artística"
     ],
     "Fotografía": [
-        "Professional portrait",
+        "Retrato profesional",
         "Macro",
-        "Black and white",
+        "Blanco y negro",
         "Vintage",
-        "Cinematic",
-        "Documentary"
+        "Cinemática",
+        "Documental"
     ],
     "Paisaje": [
-        "Fantasy",
-        "Realistic",
+        "Fantasía",
+        "Realista",
         "Concept art",
         "Matte painting",
-        "Minimalist",
-        "Epic"
+        "Minimalista",
+        "Épico"
     ],
     "Ilustración": [
         "Digital art",
-        "Children's book",
-        "Minimalist",
+        "Libro infantil",
+        "Minimalista",
         "Concept art",
-        "Soft comic style",
-        "Cartoon style"
+        "Estilo cómic suave",
+        "Estilo cartoon"
     ],
     "Pixel art": [
         "Retro 8-bit",
         "Retro 16-bit",
-        "Video game style",
-        "Minimalist",
+        "Estilo videojuego",
+        "Minimalista",
         "Chibi pixel",
-        "Isometric"
+        "Isométrico"
     ],
     "3D render": [
-        "Realistic",
-        "Pixar style",
-        "Video game style",
+        "Realista",
+        "Estilo Pixar",
+        "Estilo videojuego",
         "Low poly",
-        "High definition",
-        "Cinematic"
+        "Alta definición",
+        "Cinemático"
     ],
     "Acuarela": [
-        "Soft",
-        "Kids style",
-        "Watercolor landscape",
-        "Watercolor portrait",
-        "Minimalist",
-        "Fantasy watercolor"
+        "Suave",
+        "Infantil",
+        "Paisaje acuarela",
+        "Retrato acuarela",
+        "Minimalista",
+        "Fantasia acuarela"
     ]
 };
 
@@ -459,14 +459,9 @@ function actualizarEstilos() {
     const estiloSelect = document.getElementById("estilo");
     estiloSelect.innerHTML = "";
     
-    const estilos = estilosPorTipo[tipo] || [];
+    const estilos = estilosPorTipo[tipo];
     
-    if (estilos.length === 0) {
-        const opt = document.createElement("option");
-        opt.value = "";
-        opt.textContent = "Selecciona un tipo primero";
-        estiloSelect.appendChild(opt);
-    } else {
+    if (estilos && estilos.length > 0) {
         estilos.forEach(est => {
             const opt = document.createElement("option");
             opt.value = est;
