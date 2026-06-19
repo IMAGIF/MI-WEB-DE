@@ -216,10 +216,6 @@
             flex-direction: column;
             align-items: center;
         }
-        .seo-text {
-            padding: 12px 15px;
-            font-size: 0.95rem;
-        }
     }
 </style>
 </head>
@@ -311,24 +307,11 @@
 <script>
 let ultimoPrompt = "";
 
-// Mapeo de tipos de español a inglés para el prompt
-const tipoEnIngles = {
-    "Cómic": "Comic",
-    "Foto realista": "Realistic photo",
-    "Pintura": "Painting",
-    "Fotografía": "Photography",
-    "Paisaje": "Landscape",
-    "Ilustración": "Illustration",
-    "Pixel art": "Pixel art",
-    "3D render": "3D render",
-    "Acuarela": "Watercolor"
-};
-
-// Estilos por tipo - EXACTAMENTE COMO EN TU VERSIÓN ORIGINAL
+// Mapa de estilos según tipo - COPIADO EXACTAMENTE DE TU ARCHIVO ORIGINAL
 const estilosPorTipo = {
     "Cómic": [
         "Disney",
-        "Manga", 
+        "Manga",
         "Anime",
         "Tradicional",
         "Infantil",
@@ -401,6 +384,83 @@ const estilosPorTipo = {
     ]
 };
 
+// FUNCIÓN actualizarEstilos COPIADA EXACTAMENTE DE TU ARCHIVO ORIGINAL
+function actualizarEstilos() {
+    const tipo = document.getElementById("tipo").value;
+    const estiloSelect = document.getElementById("estilo");
+    estiloSelect.innerHTML = "";
+
+    const estilos = estilosPorTipo[tipo] || [];
+
+    estilos.forEach(est => {
+        const opt = document.createElement("option");
+        opt.value = est;
+        opt.textContent = est;
+        estiloSelect.appendChild(opt);
+    });
+}
+
+// Mapeo de tipos a inglés para el prompt
+const tipoEnIngles = {
+    "Cómic": "Comic",
+    "Foto realista": "Realistic photo",
+    "Pintura": "Painting",
+    "Fotografía": "Photography",
+    "Paisaje": "Landscape",
+    "Ilustración": "Illustration",
+    "Pixel art": "Pixel art",
+    "3D render": "3D render",
+    "Acuarela": "Watercolor"
+};
+
+// Mapeo de estilos a inglés para el prompt
+const estiloEnIngles = {
+    "Disney": "Disney style",
+    "Manga": "Manga style",
+    "Anime": "Anime style",
+    "Tradicional": "Traditional style",
+    "Infantil": "Kids style",
+    "Superhéroes": "Superhero style",
+    "Cartoon americano": "American cartoon style",
+    "Alta resolución": "High resolution",
+    "HDR": "HDR",
+    "Cinemática": "Cinematic",
+    "Vintage": "Vintage",
+    "Blanco y negro": "Black and white",
+    "Retrato profesional": "Professional portrait",
+    "Renacentista": "Renaissance",
+    "Impresionista": "Impressionist",
+    "Barroco": "Baroque",
+    "Clásico": "Classical",
+    "Óleo": "Oil painting",
+    "Acuarela artística": "Artistic watercolor",
+    "Macro": "Macro",
+    "Documental": "Documentary",
+    "Fantasía": "Fantasy",
+    "Realista": "Realistic",
+    "Concept art": "Concept art",
+    "Matte painting": "Matte painting",
+    "Minimalista": "Minimalist",
+    "Épico": "Epic",
+    "Libro infantil": "Children's book",
+    "Estilo cómic suave": "Soft comic style",
+    "Estilo cartoon": "Cartoon style",
+    "Retro 8-bit": "Retro 8-bit",
+    "Retro 16-bit": "Retro 16-bit",
+    "Estilo videojuego": "Video game style",
+    "Chibi pixel": "Chibi pixel",
+    "Isométrico": "Isometric",
+    "Estilo Pixar": "Pixar style",
+    "Low poly": "Low poly",
+    "Alta definición": "High definition",
+    "Cinemático": "Cinematic",
+    "Suave": "Soft",
+    "Infantil": "Kids style",
+    "Paisaje acuarela": "Watercolor landscape",
+    "Retrato acuarela": "Watercolor portrait",
+    "Fantasia acuarela": "Fantasy watercolor"
+};
+
 // Diccionario de traducción español -> inglés para descripciones
 const diccionarioTraduccion = {
     "ratón": "mouse", "ratoncito": "little mouse", "raton": "mouse",
@@ -454,23 +514,6 @@ function traducirAEspanolAIngles(texto) {
     return resultado;
 }
 
-function actualizarEstilos() {
-    const tipo = document.getElementById("tipo").value;
-    const estiloSelect = document.getElementById("estilo");
-    estiloSelect.innerHTML = "";
-    
-    const estilos = estilosPorTipo[tipo];
-    
-    if (estilos && estilos.length > 0) {
-        estilos.forEach(est => {
-            const opt = document.createElement("option");
-            opt.value = est;
-            opt.textContent = est;
-            estiloSelect.appendChild(opt);
-        });
-    }
-}
-
 function crearPrompt() {
     const descripcion = document.getElementById("descripcion").value.trim();
     const tipo = document.getElementById("tipo").value;
@@ -484,11 +527,12 @@ function crearPrompt() {
 
     const descripcionIngles = traducirAEspanolAIngles(descripcion) || descripcion;
     const tipoIngles = tipoEnIngles[tipo] || tipo;
+    const estiloIngles = estiloEnIngles[estilo] || estilo;
 
     const prompt = `Create image of: ${descripcionIngles}
 
 Image type: ${tipoIngles}
-Specific style: ${estilo}
+Specific style: ${estiloIngles}
 Format: ${formato}
 
 Additional instructions:
