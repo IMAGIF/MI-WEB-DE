@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Generador de prompts para crear imágenes con IA. Crea descripciones detalladas para Microsoft Copilot, MidJourney, Stable Diffusion y más.">
+<meta name="keywords" content="prompt generator, AI image, Copilot, MidJourney, Stable Diffusion, crear imágenes, generador de prompts">
 <title>Creador de Prompts de Imagen</title>
 
 <style>
@@ -77,6 +79,15 @@
         border-radius: 12px;
         box-shadow: 0 8px 20px rgba(0,0,0,0.3);
         border: 3px solid #ffd966;
+    }
+
+    .image-error {
+        background: #fff3cd;
+        color: #856404;
+        padding: 10px;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        font-size: 0.9rem;
     }
 
     .contenedor {
@@ -240,7 +251,11 @@
         Compatible con Microsoft Copilot, pero el prompt generado puede usarse en cualquier herramienta como MidJourney, Stable Diffusion, DALL·E, Flux, etc.
     </div>
     <div class="seo-image-container">
-        <img src="INFORMATICA/imagen/creador_prompt_imagen.avif" alt="Creador de prompts de imagen - Generador de descripciones para IA" class="seo-image" loading="eager">
+        <img src="INFORMATICA/imagen/creador_prompt_imagen.avif" 
+             alt="Creador de prompts de imagen - Generador de descripciones para IA - Herramienta para crear prompts en español que se traducen automáticamente al inglés" 
+             title="Generador de prompts para imágenes con inteligencia artificial" 
+             class="seo-image" 
+             loading="eager">
     </div>
 </div>
 
@@ -309,6 +324,122 @@
 <script>
 let ultimoPrompt = "";
 
+// Diccionario de traducción español -> inglés para descripciones de imágenes
+const diccionarioTraduccion = {
+    // Animales
+    "ratón": "mouse", "ratoncito": "little mouse", "raton": "mouse",
+    "gato": "cat", "perro": "dog", "pájaro": "bird", "águila": "eagle",
+    "león": "lion", "tigre": "tiger", "lobo": "wolf", "zorro": "fox",
+    "caballo": "horse", "unicornio": "unicorn", "dragón": "dragon",
+    "serpiente": "snake", "pez": "fish", "delfín": "dolphin",
+    "mariposa": "butterfly", "abeja": "bee", "libélula": "dragonfly",
+    
+    // Colores
+    "rojo": "red", "rosa": "pink", "azul": "blue", "verde": "green",
+    "amarillo": "yellow", "naranja": "orange", "morado": "purple",
+    "negro": "black", "blanco": "white", "gris": "gray", "dorado": "golden",
+    "plateado": "silver", "turquesa": "turquoise", "fucsia": "fuchsia",
+    
+    // Objetos y elementos
+    "sol": "sun", "luna": "moon", "estrellas": "stars", "nube": "cloud",
+    "lluvia": "rain", "nieve": "snow", "fuego": "fire", "agua": "water",
+    "edificio": "building", "edificios": "buildings", "casa": "house",
+    "árbol": "tree", "bosque": "forest", "montaña": "mountain",
+    "playa": "beach", "mar": "sea", "océano": "ocean",
+    "ciudad": "city", "pueblo": "town", "carretera": "road",
+    "puente": "bridge", "castillo": "castle", "iglesia": "church",
+    
+    // Acciones y estados
+    "saltando": "jumping", "corriendo": "running", "volando": "flying",
+    "durmiendo": "sleeping", "sonriendo": "smiling", "llorando": "crying",
+    "de pie": "standing", "sentado": "sitting", "abrazando": "hugging",
+    "de noche": "at night", "de día": "during the day", "al atardecer": "at sunset",
+    "al amanecer": "at sunrise",
+    
+    // Estilos y adjetivos
+    "estilo": "style", "cómic": "comic", "realista": "realistic",
+    "fantasía": "fantasy", "futurista": "futuristic", "antiguo": "ancient",
+    "moderno": "modern", "vintage": "vintage", "minimalista": "minimalist",
+    "detailed": "detailed", "colorido": "colorful", "oscuro": "dark",
+    "claro": "bright", "brillante": "shiny", "suave": "soft",
+    "dramático": "dramatic", "mágico": "magical", "misterioso": "mysterious",
+    
+    // Personajes
+    "hombre": "man", "mujer": "woman", "niño": "child", "niña": "girl",
+    "superhéroe": "superhero", "príncipe": "prince", "princesa": "princess",
+    "rey": "king", "reina": "queen", "caballero": "knight",
+    "bruja": "witch", "mago": "wizard", "guerrero": "warrior",
+    "hadita": "fairy", "duende": "elf", "gigante": "giant",
+    
+    // Naturaleza
+    "flor": "flower", "flores": "flowers", "hierba": "grass",
+    "roca": "rock", "piedra": "stone", "arena": "sand",
+    "cielo": "sky", "nubes": "clouds", "arcoíris": "rainbow",
+    
+    // Vestimenta y accesorios
+    "vestido": "dress", "traje": "suit", "armadura": "armor",
+    "sombrero": "hat", "corona": "crown", "gafas": "glasses",
+    "espada": "sword", "escudo": "shield", "varita": "wand",
+    
+    // Conceptos
+    "amor": "love", "paz": "peace", "guerra": "war", "magia": "magic",
+    "aventura": "adventure", "misterio": "mystery", "sueño": "dream",
+    "realidad": "reality", "futuro": "future", "pasado": "past",
+    
+    // Preposiciones y conectores
+    "con": "with", "sin": "without", "y": "and", "o": "or",
+    "en": "in", "sobre": "on", "debajo": "under", "entre": "between",
+    "delante": "in front of", "detrás": "behind", "al lado": "next to",
+    "de": "of", "para": "for", "como": "like",
+    
+    // Tamaños y cantidades
+    "grande": "big", "enorme": "huge", "gigante": "giant",
+    "pequeño": "small", "minúsculo": "tiny", "pequeña": "small",
+    "muchos": "many", "varios": "several", "algunos": "some",
+    
+    // Formas
+    "redondo": "round", "cuadrado": "square", "rectangular": "rectangular",
+    "triangular": "triangular", "ovalado": "oval",
+    
+    // Materiales
+    "madera": "wood", "metal": "metal", "piedra": "stone",
+    "cristal": "crystal", "vidrio": "glass", "oro": "gold",
+    "plata": "silver", "tela": "fabric",
+    
+    // Emociones
+    "feliz": "happy", "triste": "sad", "enojado": "angry",
+    "sorprendido": "surprised", "asustado": "scared", "aburrido": "bored",
+    
+    // Términos artísticos
+    "dibujo": "drawing", "pintura": "painting", "foto": "photo",
+    "ilustración": "illustration", "retrato": "portrait",
+    "paisaje": "landscape", "bodegón": "still life",
+    "abstracto": "abstract", "geométrico": "geometric"
+};
+
+function traducirAEspanolAIngles(texto) {
+    const palabras = texto.toLowerCase().split(/\s+/);
+    const traducidas = palabras.map(palabra => {
+        const limpia = palabra.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\]\[\]\"'\?¿!¡+/]/g, '');
+        
+        if (diccionarioTraduccion[limpia]) {
+            return diccionarioTraduccion[limpia];
+        }
+        
+        for (const [es, en] of Object.entries(diccionarioTraduccion)) {
+            if (es === limpia || es.replace(/[áéíóúüñ]/g, c => 
+                {'á':'a','é':'e','í':'i','ó':'o','ú':'u','ü':'u','ñ':'n'}[c] || c) === limpia) {
+                return en;
+            }
+        }
+        return palabra;
+    });
+    
+    let resultado = traducidas.join(' ');
+    resultado = resultado.charAt(0).toUpperCase() + resultado.slice(1);
+    return resultado;
+}
+
 const estilosPorTipo = {
     "Comic": ["Disney style", "Manga style", "Anime style", "Traditional comic", "Kids comic", "Superhero comic", "American cartoon"],
     "Realistic photo": ["High resolution", "HDR", "Cinematic", "Vintage", "Black and white", "Professional portrait"],
@@ -347,8 +478,9 @@ function crearPrompt() {
         return;
     }
 
-    // Prefijo en inglés + descripción del usuario (en español)
-    const prompt = `Create image of: ${descripcion}
+    const descripcionIngles = traducirAEspanolAIngles(descripcion);
+
+    const prompt = `Create image of: ${descripcionIngles}
 
 Image type: ${tipo}
 Specific style: ${estilo}
