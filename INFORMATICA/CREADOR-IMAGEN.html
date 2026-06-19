@@ -3,575 +3,563 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Generador de prompts para crear imágenes con IA. Crea descripciones detalladas para Microsoft Copilot, MidJourney, Stable Diffusion y más.">
-<meta name="keywords" content="prompt generator, AI image, Copilot, MidJourney, Stable Diffusion, crear imágenes, generador de prompts">
 <title>Creador de Prompts de Imagen</title>
-
 <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    
-    body {
-        font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-        background: linear-gradient(135deg, #1a2332, #2a3442);
-        margin: 0;
-        padding-bottom: 60px;
-        color: #f8f9fa;
-        min-height: 100vh;
-    }
+  :root {
+    --primary: #6366f1;
+    --primary-dark: #4f46e5;
+    --primary-light: #818cf8;
+    --bg: #0f172a;
+    --bg-card: #1e293b;
+    --bg-input: #0f172a;
+    --border: #334155;
+    --text: #f1f5f9;
+    --text-muted: #94a3b8;
+    --success: #10b981;
+    --danger: #ef4444;
+    --accent: #f59e0b;
+  }
 
-    header {
-        background: #000000cc;
-        backdrop-filter: blur(4px);
-        color: #fff;
-        text-align: center;
-        padding: 15px 0;
-        max-width: 850px;
-        margin: 20px auto;
-        border-radius: 10px;
-        border: 2px solid #ffd966;
-        position: relative;
-    }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-    header a {
-        position: absolute;
-        left: 15px;
-        top: 50%;
-        transform: translateY(-50%);
-        background: #ffd966;
-        padding: 8px 14px;
-        border-radius: 6px;
-        color: #1e3a2f;
-        font-weight: bold;
-        text-decoration: none;
-        border: 2px solid #000;
-    }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+    min-height: 100vh;
+    color: var(--text);
+    padding: 20px;
+    line-height: 1.6;
+  }
 
-    header h1 {
-        margin: 0;
-        font-size: 1.6rem;
-    }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
 
-    .seo-container {
-        max-width: 850px;
-        margin: 0 auto 20px auto;
-        padding: 0 20px;
-        text-align: center;
-    }
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px 0;
+  }
 
-    .seo-text {
-        background: rgba(255, 255, 255, 0.96);
-        color: #2c3e2b;
-        padding: 15px 20px;
-        border-radius: 12px;
-        margin-bottom: 15px;
-        line-height: 1.6;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    }
+  .home-link {
+    display: inline-block;
+    color: var(--primary-light);
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+  }
 
-    .seo-image-container {
-        text-align: center;
-        margin-bottom: 20px;
-    }
+  .home-link:hover {
+    color: var(--accent);
+  }
 
-    .seo-image {
-        max-width: 100%;
-        height: auto;
-        border-radius: 12px;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-        border: 3px solid #ffd966;
-    }
+  h1 {
+    font-size: 2.2rem;
+    background: linear-gradient(90deg, var(--primary-light), var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 10px;
+  }
 
-    .contenedor {
-        max-width: 850px;
-        margin: 0 auto;
-        background: rgba(255, 255, 255, 0.96);
-        padding: 25px;
-        border-radius: 12px;
-        color: #2c3e2b;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-    }
+  .subtitle {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
 
-    .contenedor h2 {
-        color: #1f452f;
-        margin-bottom: 8px;
-        font-size: 1.1rem;
-    }
+  .card {
+    background: var(--bg-card);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+  }
 
-    textarea, select {
-        width: 100%;
-        padding: 12px;
-        margin-top: 5px;
-        margin-bottom: 15px;
-        border-radius: 8px;
-        border: 1px solid #ccc;
-        font-size: 14px;
-        font-family: inherit;
-    }
+  .form-group {
+    margin-bottom: 20px;
+  }
 
-    textarea {
-        min-height: 100px;
-        resize: vertical;
-    }
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--text);
+    font-size: 0.95rem;
+  }
 
-    button {
-        background: linear-gradient(135deg, #1f452f, #2a6e46);
-        color: white;
-        padding: 12px 20px;
-        border-radius: 8px;
-        border: none;
-        cursor: pointer;
-        width: 100%;
-        font-size: 16px;
-        margin-bottom: 10px;
-        font-weight: bold;
-        transition: 0.2s;
-    }
+  input[type="text"],
+  select,
+  textarea {
+    width: 100%;
+    padding: 12px 14px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    font-size: 1rem;
+    font-family: inherit;
+    transition: all 0.3s;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
 
-    button:hover {
-        background: linear-gradient(135deg, #2a6e46, #1f452f);
-        transform: translateY(-1px);
-    }
+  select {
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3e%3cpath fill='%2394a3b8' d='M6 8L0 0h12z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+    padding-right: 40px;
+    cursor: pointer;
+  }
 
-    #resultado {
-        margin-top: 20px;
-        padding: 15px;
-        background: #f4f9f1;
-        border-radius: 8px;
-        font-size: 14px;
-        white-space: pre-wrap;
-        border-left: 4px solid #ffd966;
-        line-height: 1.6;
-    }
+  select:focus,
+  input[type="text"]:focus,
+  textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+  }
 
-    .historial div {
-        background: #eef5ea;
-        padding: 10px;
-        border-radius: 6px;
-        margin-bottom: 8px;
-        font-size: 13px;
-        white-space: pre-wrap;
-        border-left: 3px solid #2a6e46;
-    }
+  textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
 
-    footer {
-        background: #000000cc;
-        backdrop-filter: blur(4px);
-        color: #fff;
-        text-align: center;
-        padding: 20px;
-        max-width: 850px;
-        margin: 20px auto;
-        border-radius: 10px;
-        border-top: 2px solid #ffd966;
-    }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
 
-    .social-section {
-        margin-top: 20px;
+  @media (max-width: 600px) {
+    .grid-2 {
+      grid-template-columns: 1fr;
     }
+    h1 { font-size: 1.7rem; }
+    .card { padding: 20px; }
+  }
 
-    .social-section p {
-        margin-bottom: 15px;
-        font-weight: bold;
-        color: #ffd966;
-    }
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
 
-    .social-buttons {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-    }
+  button {
+    flex: 1;
+    min-width: 140px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-family: inherit;
+  }
 
-    .social-btn {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        padding: 8px 14px;
-        background: #ffd966;
-        color: #1e3a2f;
-        text-decoration: none;
-        border-radius: 30px;
-        font-weight: bold;
-        font-size: 0.9rem;
-        transition: 0.2s;
-        border: 2px solid #1e3a2f;
-    }
+  .btn-primary {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: white;
+  }
 
-    .social-btn:hover {
-        background: #ffc107;
-        transform: scale(1.05);
-    }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+  }
 
-    @media (max-width: 700px) {
-        .contenedor {
-            padding: 18px;
-        }
-        header {
-            padding: 12px 0;
-        }
-        header h1 {
-            font-size: 1.3rem;
-        }
-        .social-buttons {
-            flex-direction: column;
-            align-items: center;
-        }
-    }
+  .btn-secondary {
+    background: var(--bg-input);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+
+  .btn-secondary:hover {
+    background: var(--border);
+  }
+
+  .btn-success {
+    background: linear-gradient(135deg, var(--success), #059669);
+    color: white;
+  }
+
+  .btn-success:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+  }
+
+  .prompt-output {
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+    margin-top: 20px;
+    min-height: 80px;
+    color: var(--text);
+    font-family: 'Consolas', 'Monaco', monospace;
+    font-size: 0.9rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .prompt-output:empty::before {
+    content: "El prompt generado aparecerá aquí...";
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .history-item {
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    position: relative;
+    transition: border-color 0.3s;
+  }
+
+  .history-item:hover {
+    border-color: var(--primary);
+  }
+
+  .history-item .timestamp {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-bottom: 6px;
+    display: block;
+  }
+
+  .history-item .prompt-text {
+    color: var(--text);
+    word-break: break-word;
+  }
+
+  .history-item .copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    flex: none;
+    min-width: auto;
+  }
+
+  .empty-history {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 20px;
+    font-style: italic;
+  }
+
+  .clear-history {
+    background: transparent;
+    color: var(--danger);
+    border: 1px solid var(--danger);
+    padding: 8px 16px;
+    font-size: 0.85rem;
+    margin-bottom: 15px;
+    flex: none;
+    min-width: auto;
+  }
+
+  .clear-history:hover {
+    background: var(--danger);
+    color: white;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px 0;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  footer p {
+    margin-bottom: 15px;
+  }
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 15px;
+  }
+
+  .social-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    background: var(--bg-card);
+    color: var(--text);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    font-size: 0.9rem;
+    transition: all 0.3s;
+  }
+
+  .social-links a:hover {
+    background: var(--primary);
+    border-color: var(--primary);
+    transform: translateY(-2px);
+  }
+
+  .toast {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: var(--success);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    transition: all 0.3s;
+    z-index: 1000;
+  }
+
+  .toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
 </style>
 </head>
-
 <body>
 
-<header>
-    <a href="https://imagif.github.io/MI-WEB-DE/">INICIO</a>
-    <h1>Creador de prompts de imagen</h1>
-</header>
+<div class="container">
+  <header>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-link">← INICIO</a>
+    <h1>Creador de Prompts de Imagen</h1>
+    <p class="subtitle">
+      Generador de prompts para imágenes con IA. Crea descripciones detalladas para generar imágenes de alta calidad.
+      Compatible con Microsoft Copilot, MidJourney, Stable Diffusion, DALL·E, Flux, etc.
+    </p>
+  </header>
 
-<div class="seo-container">
-    <div class="seo-text">
-        <strong>Generador de prompts para imágenes con IA.</strong> Crea descripciones detalladas para generar imágenes de alta calidad en cualquier aplicación de inteligencia artificial. 
-        Compatible con Microsoft Copilot, pero el prompt generado puede usarse en cualquier herramienta como MidJourney, Stable Diffusion, DALL·E, Flux, etc.
+  <div class="card">
+    <div class="form-group">
+      <label for="description">📝 Descripción</label>
+      <textarea id="description" placeholder="Describe la imagen que quieres generar..."></textarea>
     </div>
-    <div class="seo-image-container">
-        <img src="imagen/creador_prompt_imagen.avif" 
-             alt="Creador de prompts de imagen - Generador de descripciones para IA" 
-             title="Generador de prompts para imágenes con inteligencia artificial" 
-             class="seo-image" 
-             loading="eager">
+
+    <div class="grid-2">
+      <div class="form-group">
+        <label for="imageType">🎨 Tipo de imagen</label>
+        <select id="imageType">
+          <option value="">-- Selecciona --</option>
+          <option value="Cómic">Cómic</option>
+          <option value="Foto realista">Foto realista</option>
+          <option value="Pintura">Pintura</option>
+          <option value="Fotografía">Fotografía</option>
+          <option value="Paisaje">Paisaje</option>
+          <option value="Ilustración">Ilustración</option>
+          <option value="Pixel art">Pixel art</option>
+          <option value="3D render">3D render</option>
+          <option value="Acuarela">Acuarela</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="style">✨ Estilo</label>
+        <select id="style">
+          <option value="">-- Selecciona --</option>
+          <option value="Realista">Realista</option>
+          <option value="Cinematográfico">Cinematográfico</option>
+          <option value="Anime">Anime</option>
+          <option value="Manga">Manga</option>
+          <option value="Cyberpunk">Cyberpunk</option>
+          <option value="Steampunk">Steampunk</option>
+          <option value="Fantasía">Fantasía</option>
+          <option value="Ciencia ficción">Ciencia ficción</option>
+          <option value="Minimalista">Minimalista</option>
+          <option value="Vintage">Vintage</option>
+          <option value="Retro">Retro</option>
+          <option value="Surrealista">Surrealista</option>
+          <option value="Impresionista">Impresionista</option>
+          <option value="Barroco">Barroco</option>
+          <option value="Neón">Neón</option>
+          <option value="Oscuro">Oscuro</option>
+          <option value="Brillante">Brillante</option>
+          <option value="Pastel">Pastel</option>
+          <option value="Gótico">Gótico</option>
+          <option value="Cartoon">Cartoon</option>
+          <option value="Hiperrealista">Hiperrealista</option>
+          <option value="Artístico">Artístico</option>
+          <option value="Moderno">Moderno</option>
+          <option value="Clásico">Clásico</option>
+        </select>
+      </div>
     </div>
-</div>
 
-<div class="contenedor">
+    <div class="form-group">
+      <label for="format">📐 Formato</label>
+      <select id="format">
+        <option value="9:16 (vertical)">9:16 (vertical)</option>
+        <option value="16:9 (horizontal)">16:9 (horizontal)</option>
+        <option value="1:1 (cuadrado)">1:1 (cuadrado)</option>
+      </select>
+    </div>
 
-    <h2>Descripción</h2>
-    <textarea id="descripcion" placeholder="Ejemplo: Superhéroe estilo cómic saltando entre edificios, de noche, con lluvia."></textarea>
+    <div class="buttons">
+      <button class="btn-primary" onclick="createPrompt()">✨ Crear prompt</button>
+      <button class="btn-secondary" onclick="copyPrompt()">📋 Copiar prompt</button>
+      <button class="btn-success" onclick="openCopilot()">🤖 Abrir en Copilot</button>
+    </div>
 
-    <h2>Tipo de imagen</h2>
-    <select id="tipo" onchange="actualizarEstilos()">
-        <option value="Cómic">Cómic</option>
-        <option value="Foto realista">Foto realista</option>
-        <option value="Pintura">Pintura</option>
-        <option value="Fotografía">Fotografía</option>
-        <option value="Paisaje">Paisaje</option>
-        <option value="Ilustración">Ilustración</option>
-        <option value="Pixel art">Pixel art</option>
-        <option value="3D render">3D render</option>
-        <option value="Acuarela">Acuarela</option>
-    </select>
+    <div id="promptOutput" class="prompt-output"></div>
+  </div>
 
-    <h2>Estilo</h2>
-    <select id="estilo">
-        <!-- Se rellena dinámicamente -->
-    </select>
+  <div class="card">
+    <h2 style="margin-bottom: 15px; font-size: 1.3rem;">📜 Historial de prompts</h2>
+    <button class="clear-history" onclick="clearHistory()">🗑️ Limpiar historial</button>
+    <div id="historyList"></div>
+  </div>
 
-    <h2>Formato</h2>
-    <select id="formato">
-        <option value="9:16">9:16 (vertical)</option>
-        <option value="16:9">16:9 (horizontal)</option>
-        <option value="1:1">1:1 (cuadrado)</option>
-    </select>
-
-    <button onclick="crearPrompt()">Create prompt</button>
-
-    <div id="resultado"></div>
-
-    <button id="copiar" style="display:none;" onclick="copiarPrompt()">Copy prompt</button>
-    <button id="abrir" style="display:none;" onclick="abrirCopilot()">Open in Copilot</button>
-
-    <h2>Historial de prompts</h2>
-    <div id="historial"></div>
-
-</div>
-
-<footer>
+  <footer>
     <p>© 2026 Creador de Prompts – #imagif</p>
-    <div class="social-section">
-        <p>Sígueme en las siguientes páginas:</p>
-        <div class="social-buttons">
-            <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" class="social-btn">
-                📺 YouTube
-            </a>
-            <a href="https://imagenesgifs.wixsite.com/paracompartir" class="social-btn">
-                🌐 Imagif
-            </a>
-            <a href="https://ideasdesdetucasa.wixsite.com/ideas" class="social-btn">
-                💡 Ideas
-            </a>
-            <a href="https://es.pinterest.com/imagif55/" class="social-btn">
-                📌 Pinterest
-            </a>
-        </div>
+    <p>Sígueme en las siguientes páginas:</p>
+    <div class="social-links">
+      <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" target="_blank">📺 YouTube</a>
+      <a href="https://imagenesgifs.wixsite.com/paracompartir" target="_blank">🌐 Imagif</a>
+      <a href="https://ideasdesdetucasa.wixsite.com/ideas" target="_blank">💡 Ideas</a>
+      <a href="https://es.pinterest.com/imagif55/" target="_blank">📌 Pinterest</a>
     </div>
-</footer>
+  </footer>
+</div>
+
+<div id="toast" class="toast"></div>
 
 <script>
-let ultimoPrompt = "";
+  const HISTORY_KEY = 'promptHistory_imagif';
 
-// Mapa de estilos según tipo - COPIADO EXACTAMENTE DE TU ARCHIVO ORIGINAL
-const estilosPorTipo = {
-    "Cómic": [
-        "Disney",
-        "Manga",
-        "Anime",
-        "Tradicional",
-        "Infantil",
-        "Superhéroes",
-        "Cartoon americano"
-    ],
-    "Foto realista": [
-        "Alta resolución",
-        "HDR",
-        "Cinemática",
-        "Vintage",
-        "Blanco y negro",
-        "Retrato profesional"
-    ],
-    "Pintura": [
-        "Renacentista",
-        "Impresionista",
-        "Barroco",
-        "Clásico",
-        "Óleo",
-        "Acuarela artística"
-    ],
-    "Fotografía": [
-        "Retrato profesional",
-        "Macro",
-        "Blanco y negro",
-        "Vintage",
-        "Cinemática",
-        "Documental"
-    ],
-    "Paisaje": [
-        "Fantasía",
-        "Realista",
-        "Concept art",
-        "Matte painting",
-        "Minimalista",
-        "Épico"
-    ],
-    "Ilustración": [
-        "Digital art",
-        "Libro infantil",
-        "Minimalista",
-        "Concept art",
-        "Estilo cómic suave",
-        "Estilo cartoon"
-    ],
-    "Pixel art": [
-        "Retro 8-bit",
-        "Retro 16-bit",
-        "Estilo videojuego",
-        "Minimalista",
-        "Chibi pixel",
-        "Isométrico"
-    ],
-    "3D render": [
-        "Realista",
-        "Estilo Pixar",
-        "Estilo videojuego",
-        "Low poly",
-        "Alta definición",
-        "Cinemático"
-    ],
-    "Acuarela": [
-        "Suave",
-        "Infantil",
-        "Paisaje acuarela",
-        "Retrato acuarela",
-        "Minimalista",
-        "Fantasia acuarela"
-    ]
-};
+  function showToast(message, type = 'success') {
+    const toast = document.getElementById('toast');
+    toast.textContent = message;
+    toast.style.background = type === 'success' ? 'var(--success)' : 'var(--danger)';
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 2500);
+  }
 
-// FUNCIÓN actualizarEstilos COPIADA EXACTAMENTE DE TU ARCHIVO ORIGINAL
-function actualizarEstilos() {
-    const tipo = document.getElementById("tipo").value;
-    const estiloSelect = document.getElementById("estilo");
-    estiloSelect.innerHTML = "";
+  function createPrompt() {
+    const description = document.getElementById('description').value.trim();
+    const imageType = document.getElementById('imageType').value;
+    const style = document.getElementById('style').value;
+    const format = document.getElementById('format').value;
 
-    const estilos = estilosPorTipo[tipo] || [];
+    if (!description) {
+      showToast('⚠️ Escribe una descripción', 'error');
+      return;
+    }
 
-    estilos.forEach(est => {
-        const opt = document.createElement("option");
-        opt.value = est;
-        opt.textContent = est;
-        estiloSelect.appendChild(opt);
+    let prompt = description;
+    if (imageType) prompt += `, estilo ${imageType.toLowerCase()}`;
+    if (style) prompt += `, con estética ${style.toLowerCase()}`;
+    prompt += `, formato ${format}`;
+    prompt += `, alta calidad, muy detallado, 8k, iluminación profesional`;
+
+    document.getElementById('promptOutput').textContent = prompt;
+    saveToHistory(prompt);
+    showToast('✅ Prompt creado');
+  }
+
+  function copyPrompt() {
+    const prompt = document.getElementById('promptOutput').textContent;
+    if (!prompt || prompt.startsWith('El prompt')) {
+      showToast('⚠️ Primero crea un prompt', 'error');
+      return;
+    }
+    navigator.clipboard.writeText(prompt).then(() => {
+      showToast('📋 Copiado al portapapeles');
+    }).catch(() => {
+      showToast('❌ Error al copiar', 'error');
     });
-}
+  }
 
-// Mapeo de tipos a inglés para el prompt
-const tipoEnIngles = {
-    "Cómic": "Comic",
-    "Foto realista": "Realistic photo",
-    "Pintura": "Painting",
-    "Fotografía": "Photography",
-    "Paisaje": "Landscape",
-    "Ilustración": "Illustration",
-    "Pixel art": "Pixel art",
-    "3D render": "3D render",
-    "Acuarela": "Watercolor"
-};
+  function openCopilot() {
+    const prompt = document.getElementById('promptOutput').textContent;
+    if (!prompt || prompt.startsWith('El prompt')) {
+      showToast('⚠️ Primero crea un prompt', 'error');
+      return;
+    }
+    const url = 'https://copilot.microsoft.com/?q=' + encodeURIComponent('Genera una imagen: ' + prompt);
+    window.open(url, '_blank');
+  }
 
-// Mapeo de estilos a inglés para el prompt
-const estiloEnIngles = {
-    "Disney": "Disney style",
-    "Manga": "Manga style",
-    "Anime": "Anime style",
-    "Tradicional": "Traditional style",
-    "Infantil": "Kids style",
-    "Superhéroes": "Superhero style",
-    "Cartoon americano": "American cartoon style",
-    "Alta resolución": "High resolution",
-    "HDR": "HDR",
-    "Cinemática": "Cinematic",
-    "Vintage": "Vintage",
-    "Blanco y negro": "Black and white",
-    "Retrato profesional": "Professional portrait",
-    "Renacentista": "Renaissance",
-    "Impresionista": "Impressionist",
-    "Barroco": "Baroque",
-    "Clásico": "Classical",
-    "Óleo": "Oil painting",
-    "Acuarela artística": "Artistic watercolor",
-    "Macro": "Macro",
-    "Documental": "Documentary",
-    "Fantasía": "Fantasy",
-    "Realista": "Realistic",
-    "Concept art": "Concept art",
-    "Matte painting": "Matte painting",
-    "Minimalista": "Minimalist",
-    "Épico": "Epic",
-    "Libro infantil": "Children's book",
-    "Estilo cómic suave": "Soft comic style",
-    "Estilo cartoon": "Cartoon style",
-    "Retro 8-bit": "Retro 8-bit",
-    "Retro 16-bit": "Retro 16-bit",
-    "Estilo videojuego": "Video game style",
-    "Chibi pixel": "Chibi pixel",
-    "Isométrico": "Isometric",
-    "Estilo Pixar": "Pixar style",
-    "Low poly": "Low poly",
-    "Alta definición": "High definition",
-    "Cinemático": "Cinematic",
-    "Suave": "Soft",
-    "Infantil": "Kids style",
-    "Paisaje acuarela": "Watercolor landscape",
-    "Retrato acuarela": "Watercolor portrait",
-    "Fantasia acuarela": "Fantasy watercolor"
-};
-
-// Diccionario de traducción español -> inglés para descripciones
-const diccionarioTraduccion = {
-    "ratón": "mouse", "ratoncito": "little mouse", "raton": "mouse",
-    "gato": "cat", "perro": "dog", "pájaro": "bird", "águila": "eagle",
-    "león": "lion", "tigre": "tiger", "lobo": "wolf", "zorro": "fox",
-    "caballo": "horse", "unicornio": "unicorn", "dragón": "dragon",
-    "serpiente": "snake", "pez": "fish", "delfín": "dolphin",
-    "mariposa": "butterfly", "abeja": "bee", "libélula": "dragonfly",
-    "rojo": "red", "rosa": "pink", "azul": "blue", "verde": "green",
-    "amarillo": "yellow", "naranja": "orange", "morado": "purple",
-    "negro": "black", "blanco": "white", "gris": "gray", "dorado": "golden",
-    "sol": "sun", "luna": "moon", "estrellas": "stars", "nube": "cloud",
-    "lluvia": "rain", "nieve": "snow", "fuego": "fire", "agua": "water",
-    "edificio": "building", "edificios": "buildings", "casa": "house",
-    "árbol": "tree", "bosque": "forest", "montaña": "mountain",
-    "playa": "beach", "mar": "sea", "océano": "ocean",
-    "ciudad": "city", "pueblo": "town", "carretera": "road",
-    "saltando": "jumping", "corriendo": "running", "volando": "flying",
-    "durmiendo": "sleeping", "sonriendo": "smiling", 
-    "de noche": "at night", "de día": "during the day", "al atardecer": "at sunset",
-    "estilo": "style", "cómic": "comic", "realista": "realistic",
-    "fantasía": "fantasy", "superhéroe": "superhero",
-    "con": "with", "y": "and", "en": "in", "de": "of",
-    "grande": "big", "pequeño": "small", "pequeña": "small"
-};
-
-function traducirAEspanolAIngles(texto) {
-    if (!texto) return "";
-    
-    const palabras = texto.toLowerCase().split(/\s+/);
-    const traducidas = palabras.map(palabra => {
-        const limpia = palabra.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\]\[\]\"'\?¿!¡+]/g, '');
-        
-        if (diccionarioTraduccion[limpia]) {
-            return diccionarioTraduccion[limpia];
-        }
-        
-        for (const [es, en] of Object.entries(diccionarioTraduccion)) {
-            if (es.replace(/[áéíóúüñ]/g, c => 
-                {'á':'a','é':'e','í':'i','ó':'o','ú':'u','ü':'u','ñ':'n'}[c] || c) === limpia) {
-                return en;
-            }
-        }
-        return palabra;
+  function saveToHistory(prompt) {
+    let history = JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]');
+    history.unshift({
+      prompt: prompt,
+      timestamp: new Date().toLocaleString('es-ES')
     });
-    
-    let resultado = traducidas.join(' ');
-    if (resultado) {
-        resultado = resultado.charAt(0).toUpperCase() + resultado.slice(1);
-    }
-    return resultado;
-}
+    if (history.length > 20) history = history.slice(0, 20);
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+    renderHistory();
+  }
 
-function crearPrompt() {
-    const descripcion = document.getElementById("descripcion").value.trim();
-    const tipo = document.getElementById("tipo").value;
-    const estilo = document.getElementById("estilo").value;
-    const formato = document.getElementById("formato").value;
+  function renderHistory() {
+    const history = JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]');
+    const container = document.getElementById('historyList');
 
-    if (!descripcion) {
-        document.getElementById("resultado").innerText = "Por favor, escribe una descripción.";
-        return;
+    if (history.length === 0) {
+      container.innerHTML = '<div class="empty-history">Aún no hay prompts guardados</div>';
+      return;
     }
 
-    const descripcionIngles = traducirAEspanolAIngles(descripcion) || descripcion;
-    const tipoIngles = tipoEnIngles[tipo] || tipo;
-    const estiloIngles = estiloEnIngles[estilo] || estilo;
+    container.innerHTML = history.map((item, index) => `
+      <div class="history-item">
+        <span class="timestamp">🕐 ${item.timestamp}</span>
+        <button class="copy-btn" onclick="copyFromHistory(${index})">Copiar</button>
+        <div class="prompt-text">${escapeHtml(item.prompt)}</div>
+      </div>
+    `).join('');
+  }
 
-    const prompt = `Create image of: ${descripcionIngles}
-
-Image type: ${tipoIngles}
-Specific style: ${estiloIngles}
-Format: ${formato}
-
-Additional instructions:
-- Balanced and careful composition.
-- Consistent lighting with the scene.
-- Well-defined and harmonious colors.
-- High level of detail on the main subject.
-- Background matching the image type and style.
-- Professional quality, suitable for printing or digital use.`;
-
-    ultimoPrompt = prompt;
-
-    document.getElementById("resultado").innerText = prompt;
-    document.getElementById("copiar").style.display = "block";
-    document.getElementById("abrir").style.display = "block";
-
-    const div = document.createElement("div");
-    div.innerText = prompt;
-    document.getElementById("historial").prepend(div);
-}
-
-function copiarPrompt() {
-    if (ultimoPrompt) {
-        navigator.clipboard.writeText(ultimoPrompt);
-        alert("Prompt copiado al portapapeles!");
+  function copyFromHistory(index) {
+    const history = JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]');
+    if (history[index]) {
+      navigator.clipboard.writeText(history[index].prompt).then(() => {
+        showToast('📋 Copiado del historial');
+      });
     }
-}
+  }
 
-function abrirCopilot() {
-    if (ultimoPrompt) {
-        const url = "https://copilot.microsoft.com/?q=" + encodeURIComponent(ultimoPrompt);
-        window.open(url, "_blank");
+  function clearHistory() {
+    if (confirm('¿Seguro que quieres borrar todo el historial?')) {
+      localStorage.removeItem(HISTORY_KEY);
+      renderHistory();
+      showToast('🗑️ Historial borrado');
     }
-}
+  }
 
-// Inicializar al cargar la página
-document.addEventListener('DOMContentLoaded', function() {
-    actualizarEstilos();
-});
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  // Inicializar historial al cargar
+  renderHistory();
 </script>
 
 </body>
