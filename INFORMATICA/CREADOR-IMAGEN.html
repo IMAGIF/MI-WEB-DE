@@ -3,24 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Creador de Imágenes (Prompt avanzado)</title>
+<title>Creador de Prompts de Imagen</title>
 
 <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
     body {
-        font-family: Arial, sans-serif;
-        background: #ffeef7;
+        font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+        background: linear-gradient(135deg, #1a2332, #2a3442);
         margin: 0;
         padding-bottom: 60px;
+        color: #f8f9fa;
+        min-height: 100vh;
     }
 
     header {
-        background-color: #1e2851;
+        background: #000000cc;
+        backdrop-filter: blur(4px);
         color: #fff;
         text-align: center;
         padding: 15px 0;
         max-width: 850px;
-        margin: 0 auto;
+        margin: 20px auto;
         border-radius: 10px;
+        border: 2px solid #ffd966;
         position: relative;
     }
 
@@ -29,35 +35,54 @@
         left: 15px;
         top: 50%;
         transform: translateY(-50%);
-        background: #ffcc00;
+        background: #ffd966;
         padding: 8px 14px;
         border-radius: 6px;
-        color: #000;
+        color: #1e3a2f;
         font-weight: bold;
         text-decoration: none;
         border: 2px solid #000;
     }
 
+    header h1 {
+        margin: 0;
+        font-size: 1.6rem;
+    }
+
     .contenedor {
         max-width: 850px;
         margin: 20px auto;
-        background: #ffffff;
-        padding: 20px;
-        border-radius: 10px;
+        background: rgba(255, 255, 255, 0.96);
+        padding: 25px;
+        border-radius: 12px;
+        color: #2c3e2b;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    }
+
+    .contenedor h2 {
+        color: #1f452f;
+        margin-bottom: 8px;
+        font-size: 1.1rem;
     }
 
     textarea, select {
         width: 100%;
-        padding: 10px;
+        padding: 12px;
         margin-top: 5px;
         margin-bottom: 15px;
         border-radius: 8px;
         border: 1px solid #ccc;
         font-size: 14px;
+        font-family: inherit;
+    }
+
+    textarea {
+        min-height: 100px;
+        resize: vertical;
     }
 
     button {
-        background-color: #1e2851;
+        background: linear-gradient(135deg, #1f452f, #2a6e46);
         color: white;
         padding: 12px 20px;
         border-radius: 8px;
@@ -66,34 +91,104 @@
         width: 100%;
         font-size: 16px;
         margin-bottom: 10px;
+        font-weight: bold;
+        transition: 0.2s;
+    }
+
+    button:hover {
+        background: linear-gradient(135deg, #2a6e46, #1f452f);
+        transform: translateY(-1px);
     }
 
     #resultado {
         margin-top: 20px;
-        padding: 10px;
-        background: #f3f3f3;
+        padding: 15px;
+        background: #f4f9f1;
         border-radius: 8px;
         font-size: 14px;
         white-space: pre-wrap;
+        border-left: 4px solid #ffd966;
+        line-height: 1.6;
     }
 
     .historial div {
-        background: #f7f7f7;
-        padding: 8px;
+        background: #eef5ea;
+        padding: 10px;
         border-radius: 6px;
         margin-bottom: 8px;
         font-size: 13px;
         white-space: pre-wrap;
+        border-left: 3px solid #2a6e46;
     }
 
     footer {
-        background-color: #1e2851;
+        background: #000000cc;
+        backdrop-filter: blur(4px);
         color: #fff;
         text-align: center;
-        padding: 10px 0;
+        padding: 20px;
         max-width: 850px;
-        margin: 0 auto;
+        margin: 20px auto;
         border-radius: 10px;
+        border-top: 2px solid #ffd966;
+    }
+
+    .social-section {
+        margin-top: 20px;
+    }
+
+    .social-section p {
+        margin-bottom: 15px;
+        font-weight: bold;
+        color: #ffd966;
+    }
+
+    .social-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+
+    .social-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 8px 14px;
+        background: #ffd966;
+        color: #1e3a2f;
+        text-decoration: none;
+        border-radius: 30px;
+        font-weight: bold;
+        font-size: 0.9rem;
+        transition: 0.2s;
+        border: 2px solid #1e3a2f;
+    }
+
+    .social-btn:hover {
+        background: #ffc107;
+        transform: scale(1.05);
+    }
+
+    .social-btn img {
+        width: 18px;
+        height: 18px;
+    }
+
+    @media (max-width: 700px) {
+        .contenedor {
+            padding: 18px;
+        }
+        header {
+            padding: 12px 0;
+        }
+        header h1 {
+            font-size: 1.3rem;
+        }
+        .social-buttons {
+            flex-direction: column;
+            align-items: center;
+        }
     }
 </style>
 </head>
@@ -102,132 +197,148 @@
 
 <header>
     <a href="https://imagif.github.io/MI-WEB-DE/">INICIO</a>
-    <h1>Creador de Imágenes (Prompt avanzado)</h1>
+    <h1>Creador de prompts de imagen</h1>
 </header>
 
 <div class="contenedor">
 
     <h2>Descripción</h2>
-    <textarea id="descripcion" placeholder="Ejemplo: Superhéroe estilo cómic saltando entre edificios, de noche, con lluvia."></textarea>
+    <textarea id="descripcion" placeholder="Ejemplo: Superhero comic style jumping between buildings, at night, with rain."></textarea>
 
     <h2>Tipo de imagen</h2>
     <select id="tipo" onchange="actualizarEstilos()">
-        <option value="Cómic">Cómic</option>
-        <option value="Foto realista">Foto realista</option>
-        <option value="Pintura">Pintura</option>
-        <option value="Fotografía">Fotografía</option>
-        <option value="Paisaje">Paisaje</option>
-        <option value="Ilustración">Ilustración</option>
+        <option value="Comic">Comic</option>
+        <option value="Realistic photo">Realistic photo</option>
+        <option value="Painting">Painting</option>
+        <option value="Photography">Photography</option>
+        <option value="Landscape">Landscape</option>
+        <option value="Illustration">Illustration</option>
         <option value="Pixel art">Pixel art</option>
         <option value="3D render">3D render</option>
-        <option value="Acuarela">Acuarela</option>
+        <option value="Watercolor">Watercolor</option>
     </select>
 
     <h2>Estilo</h2>
     <select id="estilo">
-        <!-- Se rellena dinámicamente -->
     </select>
 
     <h2>Formato</h2>
     <select id="formato">
         <option value="9:16">9:16 (vertical)</option>
         <option value="16:9">16:9 (horizontal)</option>
-        <option value="1:1">1:1 (cuadrado)</option>
+        <option value="1:1">1:1 (square)</option>
     </select>
 
-    <button onclick="crearPrompt()">Crear prompt</button>
+    <button onclick="crearPrompt()">Create prompt</button>
 
     <div id="resultado"></div>
 
-    <button id="copiar" style="display:none;" onclick="copiarPrompt()">Copiar prompt</button>
-    <button id="abrir" style="display:none;" onclick="abrirPerchance()">Abrir en Perchance</button>
+    <button id="copiar" style="display:none;" onclick="copiarPrompt()">Copy prompt</button>
+    <button id="abrir" style="display:none;" onclick="abrirCopilot()">Open in Copilot</button>
 
-    <h2>Historial de prompts</h2>
+    <h2>Prompt history</h2>
     <div id="historial"></div>
 
 </div>
 
 <footer>
-    © 2025 Creador de Imágenes – #imagif
+    <p>© 2026 Creador de Prompts – #imagif</p>
+    <div class="social-section">
+        <p>Sígueme en las siguientes páginas:</p>
+        <div class="social-buttons">
+            <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" class="social-btn">
+                📺 YouTube
+            </a>
+            <a href="https://imagenesgifs.wixsite.com/paracompartir" class="social-btn">
+                🌐 Imagif
+            </a>
+            <a href="https://ideasdesdetucasa.wixsite.com/ideas" class="social-btn">
+                💡 Ideas
+            </a>
+            <a href="https://es.pinterest.com/imagif55/" class="social-btn">
+                📌 Pinterest
+            </a>
+        </div>
+    </div>
 </footer>
 
 <script>
 let ultimoPrompt = "";
 
-// Mapa de estilos según tipo
+// Mapa de estilos según tipo (en inglés)
 const estilosPorTipo = {
-    "Cómic": [
-        "Disney",
-        "Manga",
-        "Anime",
-        "Tradicional",
-        "Infantil",
-        "Superhéroes",
-        "Cartoon americano"
+    "Comic": [
+        "Disney style",
+        "Manga style",
+        "Anime style",
+        "Traditional comic",
+        "Kids comic",
+        "Superhero comic",
+        "American cartoon"
     ],
-    "Foto realista": [
-        "Alta resolución",
+    "Realistic photo": [
+        "High resolution",
         "HDR",
-        "Cinemática",
+        "Cinematic",
         "Vintage",
-        "Blanco y negro",
-        "Retrato profesional"
+        "Black and white",
+        "Professional portrait"
     ],
-    "Pintura": [
-        "Renacentista",
-        "Impresionista",
-        "Barroco",
-        "Clásico",
-        "Óleo",
-        "Acuarela artística"
+    "Painting": [
+        "Renaissance",
+        "Impressionist",
+        "Baroque",
+        "Classical",
+        "Oil painting",
+        "Artistic watercolor"
     ],
-    "Fotografía": [
-        "Retrato profesional",
+    "Photography": [
+        "Professional portrait",
         "Macro",
-        "Blanco y negro",
+        "Black and white",
         "Vintage",
-        "Cinemática",
-        "Documental"
+        "Cinematic",
+        "Documentary"
     ],
-    "Paisaje": [
-        "Fantasía",
-        "Realista",
+    "Landscape": [
+        "Fantasy",
+        "Realistic",
         "Concept art",
         "Matte painting",
-        "Minimalista",
-        "Épico"
+        "Minimalist",
+        "Epic"
     ],
-    "Ilustración": [
+    "Illustration": [
         "Digital art",
-        "Libro infantil",
-        "Minimalista",
+        "Children's book",
+        "Minimalist",
         "Concept art",
-        "Estilo cómic suave",
-        "Estilo cartoon"
+        "Soft comic style",
+        "Cartoon style"
     ],
     "Pixel art": [
         "Retro 8-bit",
         "Retro 16-bit",
-        "Estilo videojuego",
-        "Minimalista",
+        "Video game style",
+        "Minimalist",
         "Chibi pixel",
-        "Isométrico"
+        "Isometric"
     ],
     "3D render": [
-        "Realista",
-        "Estilo Pixar",
-        "Estilo videojuego",
+        "Realistic",
+        "Pixar style",
+        "Video game style",
         "Low poly",
-        "Alta definición",
-        "Cinemático"
+        "High definition",
+        "Cinematic"
     ],
-    "Acuarela": [
-        "Suave",
-        "Infantil",
-        "Paisaje acuarela",
-        "Retrato acuarela",
-        "Minimalista",
-        "Fantasia acuarela"
+    "Watercolor": [
+        "Soft",
+        "Kids style",
+        "Watercolor landscape",
+        "Watercolor portrait",
+        "Minimalist",
+        "Fantasy watercolor"
     ]
 };
 
@@ -256,26 +367,23 @@ function crearPrompt() {
     const formato = document.getElementById("formato").value;
 
     if (!descripcion) {
-        document.getElementById("resultado").innerHTML = "Por favor, escribe una descripción.";
+        document.getElementById("resultado").innerHTML = "Please enter a description.";
         return;
     }
 
-    const prompt =
-`Descripción principal: ${descripcion}
+    const prompt = `Main description: ${descripcion}
 
-Tipo de imagen: ${tipo}
-Estilo específico: ${estilo}
-Formato: ${formato}
+Image type: ${tipo}
+Specific style: ${estilo}
+Format: ${formato}
 
-Instrucciones adicionales:
-- Composición cuidada y equilibrada.
-- Iluminación coherente con la escena.
-- Colores bien definidos y armoniosos.
-- Nivel de detalle alto en el sujeto principal.
-- Fondo acorde al tipo de imagen y estilo.
-- Calidad profesional, apta para impresión o uso digital.
-
-Este prompt está pensado para generadores de imágenes (IA) como Perchance, Stable Diffusion, Flux, etc.`;
+Additional instructions:
+- Balanced and careful composition.
+- Consistent lighting with the scene.
+- Well-defined and harmonious colors.
+- High level of detail on the main subject.
+- Background matching the image type and style.
+- Professional quality, suitable for printing or digital use.`;
 
     ultimoPrompt = prompt;
 
@@ -290,11 +398,11 @@ Este prompt está pensado para generadores de imágenes (IA) como Perchance, Sta
 
 function copiarPrompt() {
     navigator.clipboard.writeText(ultimoPrompt);
-    alert("Prompt copiado");
+    alert("Prompt copied!");
 }
 
-function abrirPerchance() {
-    const url = "https://perchance.org/ai-character-generator?prompt=" + encodeURIComponent(ultimoPrompt);
+function abrirCopilot() {
+    const url = "https://www.bing.com/images/create?prompt=" + encodeURIComponent(ultimoPrompt);
     window.open(url, "_blank");
 }
 </script>
