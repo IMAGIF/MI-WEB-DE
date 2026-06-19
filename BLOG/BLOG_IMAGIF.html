@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blog de imagif - Consejos, tutoriales y recursos sobre creación de imágenes con IA, prompts, cuentos infantiles y mucho más.">
+<meta name="keywords" content="blog imagif, prompts IA, imágenes inteligencia artificial, tutoriales, cuentos infantiles, MidJourney, Copilot">
+<meta name="author" content="imagif">
+<title>Blog - imagif</title>
+<style>
+  :root {
+    --primary: #2563eb;
+    --primary-dark: #1e40af;
+    --primary-light: #3b82f6;
+    --bg: #ffffff;
+    --bg-card: #ffffff;
+    --bg-input: #f1f5f9;
+    --border: #cbd5e1;
+    --text: #0f172a;
+    --text-secondary: #1e3a8a;
+    --text-muted: #475569;
+    --success: #16a34a;
+    --danger: #dc2626;
+    --accent: #f59e0b;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #eff6ff 0%, #f8fafc 50%, #eff6ff 100%);
+    min-height: 100vh;
+    color: var(--text);
+    padding: 20px;
+    line-height: 1.6;
+  }
+
+  .container { max-width: 1000px; margin: 0 auto; }
+
+  header { text-align: center; margin-bottom: 30px; padding: 20px 0; }
+
+  .home-link {
+    display: inline-block;
+    color: white;
+    background: var(--primary);
+    padding: 8px 18px;
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: all 0.3s;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+  }
+
+  .home-link:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    color: var(--primary-dark);
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+
+  .subtitle {
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 700;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  /* Navegación de pestañas */
+  .tabs-nav {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 25px;
+    border-bottom: 3px solid var(--border);
+    padding-bottom: 0;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary) var(--bg-input);
+  }
+
+  .tabs-nav::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  .tabs-nav::-webkit-scrollbar-track {
+    background: var(--bg-input);
+    border-radius: 3px;
+  }
+
+  .tabs-nav::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 3px;
+  }
+
+  .tab-button {
+    flex: 0 0 auto;
+    padding: 14px 24px;
+    background: var(--bg-input);
+    border: none;
+    border-bottom: 3px solid transparent;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 8px 8px 0 0;
+    white-space: nowrap;
+    font-family: inherit;
+  }
+
+  .tab-button:hover {
+    background: #e0e7ff;
+    color: var(--primary-dark);
+  }
+
+  .tab-button.active {
+    background: var(--primary);
+    color: white;
+    border-bottom-color: var(--primary-dark);
+  }
+
+  /* Contenido de pestañas */
+  .tab-content {
+    display: none;
+    animation: fadeIn 0.4s ease;
+  }
+
+  .tab-content.active { display: block; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .card {
+    background: var(--bg-card);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+  }
+
+  .blog-post-image {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 12px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    border: 2px solid var(--border);
+  }
+
+  .post-title {
+    font-size: 1.8rem;
+    color: var(--primary-dark);
+    margin-bottom: 15px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .post-meta {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--border);
+  }
+
+  .post-content {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text);
+  }
+
+  .post-content h2 {
+    color: var(--primary-dark);
+    font-size: 1.4rem;
+    margin: 25px 0 15px 0;
+    font-weight: 700;
+  }
+
+  .post-content h3 {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    margin: 20px 0 12px 0;
+    font-weight: 700;
+  }
+
+  .post-content p {
+    margin-bottom: 15px;
+  }
+
+  .post-content ul, .post-content ol {
+    margin: 15px 0 15px 25px;
+  }
+
+  .post-content li {
+    margin-bottom: 8px;
+  }
+
+  .post-content strong {
+    color: var(--primary-dark);
+    font-weight: 700;
+  }
+
+  .highlight-box {
+    background: #eff6ff;
+    border-left: 4px solid var(--primary);
+    padding: 15px 18px;
+    border-radius: 6px;
+    margin: 20px 0;
+    font-weight: 600;
+  }
+
+  .tip-box {
+    background: #fef3c7;
+    border-left: 4px solid var(--accent);
+    padding: 15px 18px;
+    border-radius: 6px;
+    margin: 20px 0;
+    color: #78350f;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px 0;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  footer p {
+    margin-bottom: 15px;
+    color: var(--text-secondary);
+    font-weight: 600;
+  }
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 15px;
+  }
+
+  .social-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    background: white;
+    color: var(--primary-dark);
+    text-decoration: none;
+    border-radius: 8px;
+    border: 2px solid var(--primary);
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.3s;
+  }
+
+  .social-links a:hover {
+    background: var(--primary);
+    color: white;
+    transform: translateY(-2px);
+  }
+
+  @media (max-width: 768px) {
+    h1 { font-size: 1.7rem; }
+    .card { padding: 20px; }
+    .tab-button { padding: 12px 18px; font-size: 0.9rem; }
+    .post-title { font-size: 1.4rem; }
+    .tabs-nav { gap: 5px; }
+  }
+
+  @media (max-width: 480px) {
+    .tab-button { padding: 10px 14px; font-size: 0.85rem; }
+    .post-content { font-size: 0.95rem; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <a href="https://imagif.github.io/MI-WEB-DE/" class="home-link">← INICIO</a>
+    <h1>📝 Blog de imagif</h1>
+    <p class="subtitle">
+      Consejos, tutoriales y recursos sobre creación de imágenes con IA, prompts, cuentos infantiles y mucho más.
+    </p>
+  </header>
+
+  <!-- Navegación de pestañas -->
+  <nav class="tabs-nav">
+    <button class="tab-button active" onclick="showTab('inicio')">🏠 Inicio</button>
+    <button class="tab-button" onclick="showTab('prompts')">🎨 Prompts Perfectos</button>
+    <button class="tab-button" onclick="showTab('cuentos')">📚 Cuentos Infantiles</button>
+    <button class="tab-button" onclick="showTab('tutoriales')">🔧 Tutoriales</button>
+    <button class="tab-button" onclick="showTab('recursos')">💡 Recursos</button>
+  </nav>
+
+  <!-- PESTAÑA 1: INICIO -->
+  <div id="inicio" class="tab-content active">
+    <div class="card">
+      <h2 class="post-title">Bienvenido al Blog de imagif</h2>
+      <div class="post-meta">📅 Publicado el 20 de junio de 2026 | ✍️ Por imagif</div>
+      
+      <img 
+        src="imagen/blog-bienvenida.avif" 
+        alt="Bienvenido al blog de imagif - Recursos y tutoriales sobre inteligencia artificial y creación de contenido" 
+        class="blog-post-image"
+        loading="lazy"
+      >
+
+      <div class="post-content">
+        <p>¡Hola! Bienvenido al <strong>blog de imagif</strong>, tu espacio de referencia para aprender sobre creación de imágenes con inteligencia artificial, generación de prompts efectivos y mucho más.</p>
+
+        <div class="highlight-box">
+          💡 <strong>¿Qué encontrarás aquí?</strong> Tutoriales prácticos, consejos expertos, recursos gratuitos y ejemplos reales para mejorar tus creaciones con IA.
+        </div>
+
+        <h2>📌 Navega por las categorías</h2>
+        <p>En este blog encontrarás diferentes secciones diseñadas para ayudarte:</p>
+
+        <ul>
+          <li><strong>🎨 Prompts Perfectos</strong> - Aprende a crear descripciones que generen imágenes espectaculares</li>
+          <li><strong>📚 Cuentos Infantiles</strong> - Ideas y herramientas para crear historias mágicas con IA</li>
+          <li><strong>🔧 Tutoriales</strong> - Guías paso a paso para dominar diferentes herramientas</li>
+          <li><strong>💡 Recursos</strong> - Enlaces, herramientas y materiales que te serán útiles</li>
+        </ul>
+
+        <h2>🚀 ¿Por qué usar este blog?</h2>
+        <p>La inteligencia artificial está revolucionando la forma de crear contenido visual y escrito. Sin embargo, saber <strong>cómo comunicarte con las IAs</strong> es fundamental para obtener resultados de calidad.</p>
+
+        <p>Aquí no solo te damos teoría, sino <strong>ejemplos prácticos y herramientas funcionales</strong> que puedes usar inmediatamente.</p>
+
+        <div class="tip-box">
+          <strong>💬 Consejo:</strong> Explora todas las pestañas y no dudes en volver cuando necesites inspiración o ayuda con tus proyectos creativos.
+        </div>
+
+        <p>¡Esperamos que disfrutes del contenido y te sea de gran utilidad!</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PESTAÑA 2: PROMPTS -->
+  <div id="prompts" class="tab-content">
+    <div class="card">
+      <h2 class="post-title">Cómo Crear Prompts Perfectos para IA</h2>
+      <div class="post-meta">📅 Publicado el 18 de junio de 2026 | ⏱️ 5 min de lectura</div>
+      
+      <img 
+        src="imagen/prompts-perfectos.avif" 
+        alt="Guía para crear prompts perfectos en MidJourney, Copilot y DALL-E" 
+        class="blog-post-image"
+        loading="lazy"
+      >
+
+      <div class="post-content">
+        <p>Crear un buen prompt es como darle instrucciones precisas a un artista. Cuanto más específico seas, mejor será el resultado.</p>
+
+        <h2>📝 La Fórmula del Prompt Perfecto</h2>
+        <p>Un prompt efectivo suele seguir esta estructura:</p>
+
+        <ol>
+          <li><strong>Sujeto principal</strong> - ¿Qué quieres que aparezca?</li>
+          <li><strong>Acción o estado</strong> - ¿Qué está haciendo?</li>
+          <li><strong>Entorno/escenario</strong> - ¿Dónde se encuentra?</li>
+          <li><strong>Estilo artístico</strong> - ¿Cómo quieres que se vea?</li>
+          <li><strong>Iluminación y atmósfera</strong> - ¿Qué ambiente buscas?</li>
+          <li><strong>Calidad y detalles técnicos</strong> - Resolución, nivel de detalle</li>
+        </ol>
+
+        <div class="highlight-box">
+          <strong>Ejemplo:</strong> "A majestic dragon perched on a mountain peak at sunset, fantasy art style, dramatic lighting with golden hour glow, highly detailed, 8k resolution, cinematic composition"
+        </div>
+
+        <h2>🎯 Consejos Clave</h2>
+        <ul>
+          <li><strong>Sé específico</strong> - En lugar de "un perro", escribe "un golden retriever adulto jugando en un parque"</li>
+          <li><strong>Usa adjetivos descriptivos</strong> - "majestuoso", "brillante", "misterioso", "vibrante"</li>
+          <li><strong>Menciona el estilo</strong> - "fotografía realista", "acuarela", "anime", "cyberpunk"</li>
+          <li><strong>Añade referencias de iluminación</strong> - "luz natural", "hora dorada", "iluminación dramática"</li>
+          <li><strong>Incluye palabras de calidad</strong> - "high quality", "detailed", "8k", "masterpiece"</li>
+        </ul>
+
+        <h2>❌ Errores Comunes</h2>
+        <ul>
+          <li>Prompts demasiado cortos y vagos</li>
+          <li>Mezclar demasiados conceptos contradictorios</li>
+          <li>No especificar el estilo deseado</li>
+          <li>Olvidar detalles importantes del entorno</li>
+        </ul>
+
+        <div class="tip-box">
+          <strong>💡 Herramienta útil:</strong> Usa nuestro <a href="CREADOR-IMAGEN.html" style="color: var(--primary-dark); font-weight: 700;">Creador de Prompts</a> para generar descripciones perfectas automáticamente.
+        </div>
+
+        <h2>🔄 Itera y Mejora</h2>
+        <p>Rara vez el primer prompt da el resultado perfecto. <strong>Experimenta, ajusta y vuelve a intentar</strong>. Cada intento te enseña algo nuevo sobre cómo la IA interpreta tus palabras.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PESTAÑA 3: CUENTOS -->
+  <div id="cuentos" class="tab-content">
+    <div class="card">
+      <h2 class="post-title">Crea Cuentos Infantiles con IA</h2>
+      <div class="post-meta">📅 Publicado el 15 de junio de 2026 | ⏱️ 6 min de lectura</div>
+      
+      <img 
+        src="imagen/cuentos-infantiles.avif" 
+        alt="Cómo crear cuentos infantiles personalizados con inteligencia artificial" 
+        class="blog-post-image"
+        loading="lazy"
+      >
+
+      <div class="post-content">
+        <p>La inteligencia artificial puede ayudarte a crear <strong>cuentos infantiles únicos y personalizados</strong> para los más pequeños. Aquí te enseñamos cómo hacerlo.</p>
+
+        <h2>📖 Elementos de un Buen Cuento Infantil</h2>
+        <ul>
+          <li><strong>Protagonista memorable</strong> - Un personaje con el que los niños se identifiquen</li>
+          <li><strong>Conflicto o desafío</strong> - Un problema que resolver</li>
+          <li><strong>Valores educativos</strong> - Amistad, valentía, respeto, esfuerzo</li>
+          <li><strong>Final satisfactorio</strong> - Que deje un mensaje positivo</li>
+          <li><strong>Lenguaje apropiado</strong> - Adaptado a la edad del lector</li>
+        </ul>
+
+        <div class="highlight-box">
+          <strong>Ejemplo de prompt:</strong> "Escribe un cuento infantil en español para niños de 5-7 años sobre una tortuga llamada Luna que aprende que ir despacio también tiene ventajas. Incluye valores de paciencia y autoaceptación. Tono tierno y divertido, 3 capítulos cortos."
+        </div>
+
+        <h2>🎨 Añade Ilustraciones</h2>
+        <p>Un cuento infantil sin imágenes pierde gran parte de su magia. Usa herramientas como:</p>
+        <ul>
+          <li><strong>Microsoft Copilot</strong> - Gratuito y fácil de usar</li>
+          <li><strong>MidJourney</strong> - Resultados artísticos espectaculares</li>
+          <li><strong>DALL·E</strong> - Excelente para estilos variados</li>
+        </ul>
+
+        <h2>💡 Ideas de Cuentos</h2>
+        <ol>
+          <li>Un animal que tiene miedo a algo y supera su temor</li>
+          <li>Una aventura mágica en un bosque encantado</li>
+          <li>Un objeto cotidiano que cobra vida</li>
+          <li>Un viaje espacial lleno de descubrimientos</li>
+          <li>Una historia sobre la amistad entre diferentes especies</li>
+        </ol>
+
+        <div class="tip-box">
+          <strong>💬 Consejo:</strong> Personaliza los cuentos con el nombre del niño/a y sus intereses favoritos (animales, colores, hobbies) para hacerlo más especial.
+        </div>
+
+        <h2>📱 Publica y Comparte</h2>
+        <p>Una vez creado tu cuento:</p>
+        <ul>
+          <li>Guárdalo en PDF para compartir fácilmente</li>
+          <li>Crea una portada atractiva con IA</li>
+          <li>Ilustra cada capítulo con imágenes coherentes</li>
+          <li>Compártelo en redes sociales o regálalo</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- PESTAÑA 4: TUTORIALES -->
+  <div id="tutoriales" class="tab-content">
+    <div class="card">
+      <h2 class="post-title">Tutorial: De la Idea a la Imagen</h2>
+      <div class="post-meta">📅 Publicado el 10 de junio de 2026 | ⏱️ 8 min de lectura</div>
+      
+      <img 
+        src="imagen/tutorial-idea-imagen.avif" 
+        alt="Tutorial paso a paso: Transforma tus ideas en imágenes con IA" 
+        class="blog-post-image"
+        loading="lazy"
+      >
+
+      <div class="post-content">
+        <p>En este tutorial te guiaré paso a paso para convertir una idea simple en una imagen espectacular usando inteligencia artificial.</p>
+
+        <h2>Paso 1: Define tu Idea</h2>
+        <p>Antes de escribir nada, <strong>visualiza mentalmente</strong> lo que quieres crear:</p>
+        <ul>
+          <li>¿Qué sujeto principal quieres?</li>
+          <li>¿Qué ambiente o emoción buscas transmitir?</li>
+          <li>¿Qué estilo visual prefieres?</li>
+        </ul>
+
+        <div class="highlight-box">
+          <strong>Ejemplo:</strong> Quiero crear una imagen de un faro en una tormenta, que transmita soledad pero también esperanza.
+        </div>
+
+        <h2>Paso 2: Construye el Prompt</h2>
+        <p>Desarrolla tu idea en palabras clave:</p>
+        <pre style="background: var(--bg-input); padding: 15px; border-radius: 8px; overflow-x: auto; font-family: 'Consolas', monospace; font-size: 0.9rem; margin: 15px 0;">
+"A lonely lighthouse on rocky cliffs during a violent storm, 
+dramatic waves crashing against the rocks, dark stormy sky 
+with lightning bolts, a single beam of light cutting through 
+the darkness, moody atmosphere, cinematic photography, 
+high contrast, professional quality, 8k resolution"</pre>
+
+        <h2>Paso 3: Elige la Herramienta</h2>
+        <ul>
+          <li><strong>Para principiantes:</strong> Microsoft Copilot (gratuito)</li>
+          <li><strong>Para calidad artística:</strong> MidJourney</li>
+          <li><strong>Para control preciso:</strong> Stable Diffusion</li>
+        </ul>
+
+        <h2>Paso 4: Genera y Refina</h2>
+        <p>La primera imagen rara vez es perfecta. <strong>Analiza qué no te gusta</strong> y ajusta:</p>
+        <ul>
+          <li>¿Muy oscuro? Añade "bright lighting" o "well-lit"</li>
+          <li>¿Poco detalle? Añade "highly detailed, intricate"</li>
+          <li>¿Estilo incorrecto? Especifica mejor: "oil painting", "digital art", etc.</li>
+        </ul>
+
+        <h2>Paso 5: Post-Procesado (Opcional)</h2>
+        <p>Usa herramientas como:</p>
+        <ul>
+          <li><strong>Canva</strong> - Ajustes básicos y texto</li>
+          <li><strong>Photoshop/GIMP</strong> - Edición avanzada</li>
+          <li><strong>Upscalers</strong> - Mejorar resolución</li>
+        </ul>
+
+        <div class="tip-box">
+          <strong>💡 Pro tip:</strong> Guarda tus prompts exitosos en una carpeta o documento. Te servirán como base para futuras creaciones.
+        </div>
+
+        <h2>📊 Ejemplo Completo</h2>
+        <p><strong>Idea:</strong> Un dragón amigable en un jardín mágico</p>
+        <p><strong>Prompt final:</strong></p>
+        <pre style="background: var(--bg-input); padding: 15px; border-radius: 8px; overflow-x: auto; font-family: 'Consolas', monospace; font-size: 0.9rem; margin: 15px 0;">
+"A friendly emerald green dragon with golden eyes resting 
+in an enchanted garden filled with glowing flowers and 
+magical butterflies, soft sunlight filtering through ancient 
+trees, whimsical fantasy illustration style, vibrant colors, 
+children's book art, warm and inviting atmosphere, 
+highly detailed, 8k"</pre>
+
+        <p>¡Y listo! Así de simple puedes transformar cualquier idea en una imagen impresionante.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PESTAÑA 5: RECURSOS -->
+  <div id="recursos" class="tab-content">
+    <div class="card">
+      <h2 class="post-title">Recursos y Herramientas Recomendadas</h2>
+      <div class="post-meta">📅 Publicado el 5 de junio de 2026 | 🔄 Actualizado regularmente</div>
+      
+      <img 
+        src="imagen/recursos-herramientas.avif" 
+        alt="Recursos y herramientas gratuitas para crear con inteligencia artificial" 
+        class="blog-post-image"
+        loading="lazy"
+      >
+
+      <div class="post-content">
+        <p>Esta es una recopilación de las mejores herramientas y recursos que uso regularmente para crear contenido con IA.</p>
+
+        <h2>🎨 Generadores de Imágenes</h2>
+        
+        <h3>Gratuitos:</h3>
+        <ul>
+          <li><strong>Microsoft Copilot</strong> - Basado en DALL·E 3, muy fácil de usar</li>
+          <li><strong>Leonardo.AI</strong> - 150 créditos gratis al día</li>
+          <li><strong>Playground AI</strong> - 500 imágenes gratis al día</li>
+          <li><strong>Bing Image Creator</strong> - Rápido y efectivo</li>
+        </ul>
+
+        <h3>De pago (con prueba gratuita):</h3>
+        <ul>
+          <li><strong>MidJourney</strong> - Desde $10/mes, calidad excepcional</li>
+          <li><strong>Stable Diffusion</strong> - Control total, requiere más conocimiento</li>
+          <li><strong>Adobe Firefly</strong> - Integrado con Creative Cloud</li>
+        </ul>
+
+        <h2>✍️ Herramientas de Texto</h2>
+        <ul>
+          <li><strong>ChatGPT</strong> - Para brainstorming y escritura creativa</li>
+          <li><strong>Claude</strong> - Excelente para textos largos y detallados</li>
+          <li><strong>Google Gemini</strong> - Bueno para investigación y análisis</li>
+        </ul>
+
+        <h2>🛠️ Herramientas de Edición</h2>
+        <ul>
+          <li><strong>Canva</strong> - Diseño gráfico simple y rápido</li>
+          <li><strong>Photopea</strong> - Photoshop online gratuito</li>
+          <li><strong>Remove.bg</strong> - Eliminar fondos automáticamente</li>
+          <li><strong>Upscale.media</strong> - Mejorar resolución de imágenes</li>
+        </ul>
+
+        <h2>📚 Recursos de Aprendizaje</h2>
+        <ul>
+          <li><strong>Prompt Engineering Guide</strong> - promptengineering.guide</li>
+          <li><strong>MidJourney Documentation</strong> - docs.midjourney.com</li>
+          <li><strong>AI Art Community</strong> - Reddit r/StableDiffusion, r/midjourney</li>
+          <li><strong>YouTube</strong> - Canales especializados en IA creativa</li>
+        </ul>
+
+        <div class="highlight-box">
+          <strong>💡 Consejo:</strong> No necesitas pagar por todas las herramientas. Empieza con las gratuitas y solo invierte cuando necesites funciones específicas.
+        </div>
+
+        <h2>🎁 Recursos Gratuitos</h2>
+        <ul>
+          <li><strong>Unsplash</strong> - Fotos stock gratuitas de alta calidad</li>
+          <li><strong>Pexels</strong> - Imágenes y videos libres de derechos</li>
+          <li><strong>Google Fonts</strong> - Tipografías gratuitas</li>
+          <li><strong>Undraw</strong> - Ilustraciones vectoriales gratuitas</li>
+        </ul>
+
+        <h2>📱 Mis Redes</h2>
+        <p>No olvides seguirme para más contenido:</p>
+        <ul>
+          <li>📺 <strong>YouTube</strong> - Tutoriales en video</li>
+          <li>📌 <strong>Pinterest</strong> - Inspiración visual</li>
+          <li>🌐 <strong>Imagif</strong> - Imágenes y GIFs</li>
+          <li>💡 <strong>Ideas</strong> - Proyectos creativos</li>
+        </ul>
+
+        <div class="tip-box">
+          <strong>🔄 Actualización:</strong> Esta página se actualiza regularmente con nuevas herramientas. ¡Vuelve pronto para descubrir más recursos!
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2026 Blog imagif – #imagif</p>
+    <p>Sígueme en las siguientes páginas:</p>
+    <div class="social-links">
+      <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" target="_blank">📺 YouTube</a>
+      <a href="https://imagenesgifs.wixsite.com/paracompartir" target="_blank">🌐 Imagif</a>
+      <a href="https://ideasdesdetucasa.wixsite.com/ideas" target="_blank">💡 Ideas</a>
+      <a href="https://es.pinterest.com/imagif55/" target="_blank">📌 Pinterest</a>
+    </div>
+  </footer>
+</div>
+
+<script>
+  function showTab(tabId) {
+    // Ocultar todos los contenidos
+    const contents = document.querySelectorAll('.tab-content');
+    contents.forEach(content => content.classList.remove('active'));
+
+    // Desactivar todos los botones
+    const buttons = document.querySelectorAll('.tab-button');
+    buttons.forEach(button => button.classList.remove('active'));
+
+    // Mostrar el contenido seleccionado
+    document.getElementById(tabId).classList.add('active');
+
+    // Activar el botón correspondiente
+    event.target.classList.add('active');
+
+    // Scroll suave al inicio del contenido
+    document.querySelector('.container').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  // Animación de entrada suave al cargar
+  document.addEventListener('DOMContentLoaded', () => {
+    const cards = document.querySelectorAll('.card');
+    cards.forEach((card, index) => {
+      card.style.opacity = '0';
+      card.style.transform = 'translateY(20px)';
+      setTimeout(() => {
+        card.style.transition = 'all 0.5s ease';
+        card.style.opacity = '1';
+        card.style.transform = 'translateY(0)';
+      }, index * 100);
+    });
+  });
+</script>
+
+</body>
+</html>
