@@ -3,6 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Creador de prompts para generar imágenes con IA. Escribe en español y obtén el prompt en inglés, listo para Copilot, MidJourney, DALL·E, Stable Diffusion y más.">
+<meta name="keywords" content="creador de prompts, generador de imágenes IA, prompts inglés, MidJourney, Copilot, DALL·E, Stable Diffusion, Flux">
+<meta name="author" content="imagif">
 <title>Creador de Prompts de Imagen</title>
 <style>
   :root {
@@ -80,10 +83,23 @@
   }
 
   .subtitle {
-    color: var(--text-muted);
-    font-size: 0.95rem;
-    max-width: 600px;
-    margin: 0 auto;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 700;
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+    line-height: 1.5;
+  }
+
+  .header-image {
+    display: block;
+    max-width: 100%;
+    width: 600px;
+    height: auto;
+    margin: 20px auto 0 auto;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    border: 2px solid var(--border);
   }
 
   .card {
@@ -159,6 +175,7 @@
     }
     h1 { font-size: 1.7rem; }
     .card { padding: 20px; }
+    .header-image { width: 100%; }
   }
 
   .buttons {
@@ -390,6 +407,15 @@
       Generador de prompts para imágenes con IA. Escribe tu descripción en español y el prompt se generará automáticamente en inglés.
       Compatible con Microsoft Copilot, MidJourney, Stable Diffusion, DALL·E, Flux, etc.
     </p>
+    <img 
+      src="imagen/creador_prompt_imagen.avif" 
+      alt="Creador de prompts de imagen con IA - Interfaz para generar descripciones en inglés compatibles con MidJourney, Copilot, DALL·E y Stable Diffusion" 
+      title="Creador de Prompts de Imagen - Herramienta gratuita de imagif"
+      class="header-image"
+      loading="lazy"
+      width="600"
+      height="400"
+    >
   </header>
 
   <div class="card">
