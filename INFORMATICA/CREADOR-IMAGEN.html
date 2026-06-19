@@ -252,15 +252,15 @@
 
     <h2>Tipo de imagen</h2>
     <select id="tipo" onchange="actualizarEstilos()">
-        <option value="Comic">Comic</option>
-        <option value="Realistic photo">Realistic photo</option>
-        <option value="Painting">Painting</option>
-        <option value="Photography">Photography</option>
-        <option value="Landscape">Landscape</option>
-        <option value="Illustration">Illustration</option>
+        <option value="Cómic">Cómic</option>
+        <option value="Foto realista">Foto realista</option>
+        <option value="Pintura">Pintura</option>
+        <option value="Fotografía">Fotografía</option>
+        <option value="Paisaje">Paisaje</option>
+        <option value="Ilustración">Ilustración</option>
         <option value="Pixel art">Pixel art</option>
         <option value="3D render">3D render</option>
-        <option value="Watercolor">Watercolor</option>
+        <option value="Acuarela">Acuarela</option>
     </select>
 
     <h2>Estilo</h2>
@@ -272,7 +272,7 @@
     <select id="formato">
         <option value="9:16">9:16 (vertical)</option>
         <option value="16:9">16:9 (horizontal)</option>
-        <option value="1:1">1:1 (square)</option>
+        <option value="1:1">1:1 (cuadrado)</option>
     </select>
 
     <button onclick="crearPrompt()">Create prompt</button>
@@ -282,7 +282,7 @@
     <button id="copiar" style="display:none;" onclick="copiarPrompt()">Copy prompt</button>
     <button id="abrir" style="display:none;" onclick="abrirCopilot()">Open in Copilot</button>
 
-    <h2>Prompt history</h2>
+    <h2>Historial de prompts</h2>
     <div id="historial"></div>
 
 </div>
@@ -311,7 +311,97 @@
 <script>
 let ultimoPrompt = "";
 
-// Diccionario de traducción español -> inglés
+// Mapeo de tipos de español a inglés para el prompt
+const tipoEnIngles = {
+    "Cómic": "Comic",
+    "Foto realista": "Realistic photo",
+    "Pintura": "Painting",
+    "Fotografía": "Photography",
+    "Paisaje": "Landscape",
+    "Ilustración": "Illustration",
+    "Pixel art": "Pixel art",
+    "3D render": "3D render",
+    "Acuarela": "Watercolor"
+};
+
+// Estilos por tipo (usando las claves en español como en tu versión original)
+const estilosPorTipo = {
+    "Cómic": [
+        "Disney style",
+        "Manga style", 
+        "Anime style",
+        "Traditional comic",
+        "Kids comic",
+        "Superhero comic",
+        "American cartoon"
+    ],
+    "Foto realista": [
+        "High resolution",
+        "HDR",
+        "Cinematic",
+        "Vintage",
+        "Black and white",
+        "Professional portrait"
+    ],
+    "Pintura": [
+        "Renaissance",
+        "Impressionist",
+        "Baroque",
+        "Classical",
+        "Oil painting",
+        "Artistic watercolor"
+    ],
+    "Fotografía": [
+        "Professional portrait",
+        "Macro",
+        "Black and white",
+        "Vintage",
+        "Cinematic",
+        "Documentary"
+    ],
+    "Paisaje": [
+        "Fantasy",
+        "Realistic",
+        "Concept art",
+        "Matte painting",
+        "Minimalist",
+        "Epic"
+    ],
+    "Ilustración": [
+        "Digital art",
+        "Children's book",
+        "Minimalist",
+        "Concept art",
+        "Soft comic style",
+        "Cartoon style"
+    ],
+    "Pixel art": [
+        "Retro 8-bit",
+        "Retro 16-bit",
+        "Video game style",
+        "Minimalist",
+        "Chibi pixel",
+        "Isometric"
+    ],
+    "3D render": [
+        "Realistic",
+        "Pixar style",
+        "Video game style",
+        "Low poly",
+        "High definition",
+        "Cinematic"
+    ],
+    "Acuarela": [
+        "Soft",
+        "Kids style",
+        "Watercolor landscape",
+        "Watercolor portrait",
+        "Minimalist",
+        "Fantasy watercolor"
+    ]
+};
+
+// Diccionario de traducción español -> inglés para descripciones
 const diccionarioTraduccion = {
     "ratón": "mouse", "ratoncito": "little mouse", "raton": "mouse",
     "gato": "cat", "perro": "dog", "pájaro": "bird", "águila": "eagle",
@@ -329,7 +419,8 @@ const diccionarioTraduccion = {
     "playa": "beach", "mar": "sea", "océano": "ocean",
     "ciudad": "city", "pueblo": "town", "carretera": "road",
     "saltando": "jumping", "corriendo": "running", "volando": "flying",
-    "durmiendo": "sleeping", "sonriendo": "smiling", "de noche": "at night",
+    "durmiendo": "sleeping", "sonriendo": "smiling", 
+    "de noche": "at night", "de día": "during the day", "al atardecer": "at sunset",
     "estilo": "style", "cómic": "comic", "realista": "realistic",
     "fantasía": "fantasy", "superhéroe": "superhero",
     "con": "with", "y": "and", "en": "in", "de": "of",
@@ -362,19 +453,6 @@ function traducirAEspanolAIngles(texto) {
     }
     return resultado;
 }
-
-// Estilos por tipo
-const estilosPorTipo = {
-    "Comic": ["Disney style", "Manga style", "Anime style", "Traditional comic", "Kids comic", "Superhero comic", "American cartoon"],
-    "Realistic photo": ["High resolution", "HDR", "Cinematic", "Vintage", "Black and white", "Professional portrait"],
-    "Painting": ["Renaissance", "Impressionist", "Baroque", "Classical", "Oil painting", "Artistic watercolor"],
-    "Photography": ["Professional portrait", "Macro", "Black and white", "Vintage", "Cinematic", "Documentary"],
-    "Landscape": ["Fantasy", "Realistic", "Concept art", "Matte painting", "Minimalist", "Epic"],
-    "Illustration": ["Digital art", "Children's book", "Minimalist", "Concept art", "Soft comic style", "Cartoon style"],
-    "Pixel art": ["Retro 8-bit", "Retro 16-bit", "Video game style", "Minimalist", "Chibi pixel", "Isometric"],
-    "3D render": ["Realistic", "Pixar style", "Video game style", "Low poly", "High definition", "Cinematic"],
-    "Watercolor": ["Soft", "Kids style", "Watercolor landscape", "Watercolor portrait", "Minimalist", "Fantasy watercolor"]
-};
 
 function actualizarEstilos() {
     const tipo = document.getElementById("tipo").value;
@@ -410,10 +488,11 @@ function crearPrompt() {
     }
 
     const descripcionIngles = traducirAEspanolAIngles(descripcion) || descripcion;
+    const tipoIngles = tipoEnIngles[tipo] || tipo;
 
     const prompt = `Create image of: ${descripcionIngles}
 
-Image type: ${tipo}
+Image type: ${tipoIngles}
 Specific style: ${estilo}
 Format: ${formato}
 
