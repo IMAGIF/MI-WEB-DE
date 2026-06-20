@@ -4,25 +4,22 @@
   <meta charset="UTF-8" />
   <title>ECONOMIA – IMAGIF</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="IMAGIF ECONOMÍA: Noticias, datos y análisis actualizados sobre mercados, inversión, ahorro y crecimiento económico. Información clara y visual para entender la economía que mueve el mundo." />
+  <meta name="keywords" content="economía, finanzas, inversión, ahorro, mercados, datos macroeconómicos, IMAGIF, análisis económico, noticias económicas" />
 
   <style>
     :root {
       --black: #000;
       --white: #fff;
-
       --blue-light: #e8f1ff;
       --blue-dark: #0a1228;
-
       --gold: #f5d36c;
       --gold-soft: #ffe9a8;
-
       --green: #0f7d4e;
-
       --text-dark: #000;
       --text-light: #fff;
       --text-muted-light: #dfe6ff;
       --text-muted-dark: #333;
-
       --radius: 16px;
       --shadow: 0 18px 40px rgba(0,0,0,0.35);
     }
@@ -93,6 +90,19 @@
       color: var(--text-muted-light);
       font-size: 1rem;
       animation: fadeIn 1.4s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    /* IMAGEN PRINCIPAL */
+    .imagen-principal {
+      display: block;
+      margin: 25px auto;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.5);
     }
 
     /* ICONOS DE SECCIÓN */
@@ -212,6 +222,15 @@
   <header>
     <h1>Panel Económico – IMAGIF</h1>
     <p class="subtitle">Acceso rápido a medios, organismos oficiales, mercados y datos macro.</p>
+
+    <!-- IMAGEN PRINCIPAL -->
+    <img src="IMAGEN/economia.avif"
+         alt="Economía IMAGIF - Noticias, datos y análisis actualizados sobre mercados y finanzas"
+         title="Economía IMAGIF - Panel económico con información actualizada"
+         class="imagen-principal"
+         width="500"
+         height="750"
+         loading="eager">
   </header>
 
   <!-- SECCIÓN 1 – FONDO CLARO -->
