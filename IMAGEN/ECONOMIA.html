@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>ECONOMIA – IMAGIF</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="IMAGIF ECONOMÍA: Noticias, datos y análisis actualizados sobre mercados, inversión, ahorro y crecimiento económico. Información clara y visual para entender la economía que mueve el mundo." />
+  <meta name="keywords" content="economía, finanzas, inversión, ahorro, mercados, datos macroeconómicos, IMAGIF, análisis económico, noticias económicas" />
+
+  <style>
+    :root {
+      --black: #000;
+      --white: #fff;
+      --blue-light: #e8f1ff;
+      --blue-dark: #0a1228;
+      --gold: #f5d36c;
+      --gold-soft: #ffe9a8;
+      --green: #0f7d4e;
+      --text-dark: #000;
+      --text-light: #fff;
+      --text-muted-light: #dfe6ff;
+      --text-muted-dark: #333;
+      --radius: 16px;
+      --shadow: 0 18px 40px rgba(0,0,0,0.35);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: system-ui, sans-serif;
+      background: var(--black);
+      color: var(--white);
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      scroll-behavior: smooth;
+    }
+
+    .wrap {
+      width: 100%;
+      max-width: 1100px;
+    }
+
+    /* MENÚ SUPERIOR FIJO */
+    nav {
+      position: fixed;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(10, 18, 40, 0.85);
+      padding: 10px 22px;
+      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,0.15);
+      backdrop-filter: blur(6px);
+      z-index: 999;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+    }
+
+    nav a {
+      color: var(--white);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    nav a:hover {
+      color: var(--gold);
+    }
+
+    /* ENCABEZADO */
+    header {
+      margin-top: 80px;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+
+    h1 {
+      margin-top: 18px;
+      font-size: 2.2rem;
+      letter-spacing: 0.03em;
+      color: var(--white);
+      animation: fadeIn 1s ease-out;
+    }
+
+    .subtitle {
+      margin-top: 6px;
+      color: var(--text-muted-light);
+      font-size: 1rem;
+      animation: fadeIn 1.4s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    /* IMAGEN PRINCIPAL */
+    .imagen-principal {
+      display: block;
+      margin: 25px auto;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+    }
+
+    /* ICONOS DE SECCIÓN */
+    .section-icon {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+      display: block;
+      text-align: center;
+      animation: pop 0.5s ease-out;
+    }
+
+    @keyframes pop {
+      0% { transform: scale(0.6); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+
+    /* SECCIONES */
+    section {
+      padding: 20px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      margin-bottom: 25px;
+      animation: fadeInUp 0.8s ease-out;
+    }
+
+    @keyframes fadeInUp {
+      0% { transform: translateY(20px); opacity: 0; }
+      100% { transform: translateY(0); opacity: 1; }
+    }
+
+    .section-title {
+      font-size: 1.4rem;
+      font-weight: 800;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    .section-note {
+      font-size: 0.9rem;
+      margin-bottom: 14px;
+      opacity: 0.9;
+      text-align: center;
+    }
+
+    /* GRID */
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+    }
+
+    .link-card {
+      display: block;
+      padding: 12px;
+      border-radius: 12px;
+      text-decoration: none;
+      transition: 0.2s;
+    }
+
+    .link-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    }
+
+    .link-name {
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+
+    .link-desc {
+      font-size: 0.8rem;
+      opacity: 0.85;
+    }
+
+    /* FOOTER */
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255,255,255,0.35);
+      text-align: center;
+      color: var(--white);
+      font-size: 1rem;
+    }
+
+    .social-links {
+      margin-top: 12px;
+      display: flex;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .social-links a {
+      color: var(--gold);
+      text-decoration: none;
+      font-size: 1.1rem;
+      transition: 0.2s;
+    }
+
+    .social-links a:hover {
+      color: var(--gold-soft);
+    }
+  </style>
+</head>
+
+<body>
+<div class="wrap">
+
+  <!-- MENÚ SUPERIOR -->
+  <nav>
+    <a href="https://imagif.github.io/MI-WEB-DE/">
+      🏠 Inicio
+    </a>
+  </nav>
+
+  <!-- ENCABEZADO -->
+  <header>
+    <h1>Panel Económico – IMAGIF</h1>
+    <p class="subtitle">Acceso rápido a medios, organismos oficiales, mercados y datos macro.</p>
+
+    <!-- IMAGEN PRINCIPAL -->
+    <img src="IMAGEN/economia.avif"
+         alt="Economía IMAGIF - Noticias, datos y análisis actualizados sobre mercados y finanzas"
+         title="Economía IMAGIF - Panel económico con información actualizada"
+         class="imagen-principal"
+         width="500"
+         height="750"
+         loading="eager">
+  </header>
+
+  <!-- SECCIÓN 1 – FONDO CLARO -->
+  <section style="background: var(--blue-light); color: var(--text-dark);">
+    <div class="section-icon">📰</div>
+    <div class="section-title">Medios Económicos Españoles</div>
+    <div class="section-note" style="color: var(--text-muted-dark);">Noticias, análisis y opinión</div>
+
+    <div class="link-grid">
+      <a class="link-card" href="https://www.expansion.com/economia.html" target="_blank" style="background:#ffffff; color:#000;">
+        <div class="link-name">Expansión</div>
+        <div class="link-desc">Actualidad económica y empresarial.</div>
+      </a>
+
+      <a class="link-card" href="https://cincodias.elpais.com/" target="_blank" style="background:#ffffff; color:#000;">
+        <div class="link-name">Cinco Días</div>
+        <div class="link-desc">Economía, empresas y tecnología.</div>
+      </a>
+
+      <a class="link-card" href="https://www.eleconomista.es/" target="_blank" style="background:#ffffff; color:#000;">
+        <div class="link-name">El Economista</div>
+        <div class="link-desc">Mercados, bolsa y análisis.</div>
+      </a>
+
+      <a class="link-card" href="https://www.elespanol.com/invertia/" target="_blank" style="background:#ffffff; color:#000;">
+        <div class="link-name">Invertia</div>
+        <div class="link-desc">Información de mercados y macro.</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- SECCIÓN 2 – OSCURA -->
+  <section style="background: var(--blue-dark); color: var(--white);">
+    <div class="section-icon">🏛️</div>
+    <div class="section-title">Organismos Oficiales</div>
+    <div class="section-note" style="color: var(--text-muted-light);">Datos fiables y directos</div>
+
+    <div class="link-grid">
+      <a class="link-card" href="https://www.cnmv.es/" target="_blank" style="background:rgba(255,255,255,0.05); color:white;">
+        <div class="link-name">CNMV</div>
+        <div class="link-desc">Regulación y mercados.</div>
+      </a>
+
+      <a class="link-card" href="https://www.bde.es/" target="_blank" style="background:rgba(255,255,255,0.05); color:white;">
+        <div class="link-name">Banco de España</div>
+        <div class="link-desc">Informes y estadísticas.</div>
+      </a>
+
+      <a class="link-card" href="https://www.ine.es/" target="_blank" style="background:rgba(255,255,255,0.05); color:white;">
+        <div class="link-name">INE</div>
+        <div class="link-desc">Datos oficiales.</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- SECCIÓN 3 – NEGRO + DORADO -->
+  <section style="background: var(--black); color: var(--gold); border: 1px solid var(--gold);">
+    <div class="section-icon">📈</div>
+    <div class="section-title" style="color: var(--gold);">Mercados y Datos Financieros</div>
+    <div class="section-note" style="color: var(--gold-soft);">Cotizaciones, gráficos y seguimiento</div>
+
+    <div class="link-grid">
+      <a class="link-card" href="https://www.investing.com/" target="_blank" style="background:#1a1a1a; color:var(--gold);">
+        <div class="link-name">Investing</div>
+        <div class="link-desc">Mercados globales.</div>
+      </a>
+
+      <a class="link-card" href="https://www.tradingview.com/" target="_blank" style="background:#1a1a1a; color:var(--gold);">
+        <div class="link-name">TradingView</div>
+        <div class="link-desc">Gráficos avanzados.</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- SECCIÓN 4 – CLARA -->
+  <section style="background: var(--white); color: var(--black);">
+    <div class="section-icon">📺</div>
+    <div class="section-title">Vídeo y Directo Económico</div>
+    <div class="section-note" style="color: var(--text-muted-dark);">Análisis en tiempo real</div>
+
+    <div class="link-grid">
+      <a class="link-card" href="https://www.negocios.com/video/directo/" target="_blank" style="background:#f4f4f4; color:#000;">
+        <div class="link-name">Negocios TV</div>
+        <div class="link-desc">Directo y programas.</div>
+      </a>
+
+      <a class="link-card" href="https://www.bloomberg.com/live/europe" target="_blank" style="background:#f4f4f4; color:#000;">
+        <div class="link-name">Bloomberg TV</div>
+        <div class="link-desc">Cobertura global.</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- SECCIÓN 5 – VERDE -->
+  <section style="background: var(--green); color: var(--white);">
+    <div class="section-icon">🌍</div>
+    <div class="section-title">Datos Macro y Calendarios</div>
+    <div class="section-note" style="color:#eafff3;">Contexto para entender los movimientos</div>
+
+    <div class="link-grid">
+      <a class="link-card" href="https://tradingeconomics.com/" target="_blank" style="background:rgba(255,255,255,0.15); color:white;">
+        <div class="link-name">Trading Economics</div>
+        <div class="link-desc">Datos macro globales.</div>
+      </a>
+
+      <a class="link-card" href="https://www.forexfactory.com/calendar" target="_blank" style="background:rgba(255,255,255,0.15); color:white;">
+        <div class="link-name">Forex Factory</div>
+        <div class="link-desc">Calendario económico.</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Creador de Prompts – #imagif</p>
+    <p>Sígueme en las siguientes páginas:</p>
+
+    <div class="social-links">
+      <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" target="_blank">📺 YouTube</a>
+      <a href="https://imagenesgifs.wixsite.com/paracompartir" target="_blank">🌐 Imagif</a>
+      <a href="https://ideasdesdetucasa.wixsite.com/ideas" target="_blank">💡 Ideas</a>
+      <a href="https://es.pinterest.com/imagif55/" target="_blank">📌 Pinterest</a>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>
