@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="IMAGIF NOTICIAS: Las 10 principales noticias de España, Internacional, Deportes y Ciencia, actualizadas cada hora.">
+  <title>NOTICIAS – IMAGIF</title>
+  <style>
+    :root {
+      --negro:#0d0d0d; --oscuro:#1a1a1a; --panel:#222; --borde:#333;
+      --acento:#c8a94a; --acento-h:#e0c060; --texto:#e8e8e8; --suave:#aaa;
+      --verde:#2a7a2a; --serif:'Georgia','Times New Roman',serif;
+      --sans:'Segoe UI','Arial',sans-serif;
+    }
+    *{box-sizing:border-box;margin:0;padding:0;}
+    body{background:var(--negro);color:var(--texto);font-family:var(--sans);min-height:100vh;display:flex;flex-direction:column;}
+
+    .btn-inicio{display:inline-block;margin:18px 0 0 18px;padding:8px 20px;background:var(--oscuro);color:var(--acento);border:1px solid var(--acento);border-radius:6px;text-decoration:none;font-size:.95rem;font-weight:bold;transition:background .2s,color .2s;}
+    .btn-inicio:hover{background:var(--acento);color:var(--negro);}
+
+    header{text-align:center;padding:28px 20px 10px;border-bottom:1px solid var(--borde);}
+    header h1{font-family:var(--serif);font-size:2.2rem;color:var(--acento);letter-spacing:.06em;text-transform:uppercase;}
+    header p{color:var(--suave);font-size:.9rem;margin-top:6px;}
+
+    .pais-wrap{text-align:center;padding:10px 20px 0;font-size:.85rem;color:var(--suave);display:none;}
+    .pais-wrap.vis{display:block;}
+    .pais-wrap select{background:var(--panel);color:var(--texto);border:1px solid var(--borde);border-radius:4px;padding:4px 10px;font-size:.85rem;margin-left:8px;cursor:pointer;}
+
+    .tabs{display:flex;justify-content:center;gap:6px;padding:18px 20px 0;flex-wrap:wrap;}
+    .tab-btn{background:var(--panel);color:var(--suave);border:1px solid var(--borde);border-bottom:none;padding:9px 22px;border-radius:6px 6px 0 0;cursor:pointer;font-size:.95rem;font-weight:600;letter-spacing:.04em;transition:background .2s,color .2s;}
+    .tab-btn:hover{color:var(--acento);}
+    .tab-btn.active{background:var(--oscuro);color:var(--acento);border-color:var(--acento);border-bottom:1px solid var(--oscuro);}
+
+    main{flex:1;max-width:900px;width:100%;margin:0 auto;padding:0 16px 40px;}
+    .tab-panel{display:none;} .tab-panel.active{display:block;}
+
+    .barra{display:flex;justify-content:space-between;align-items:center;padding:10px 0 14px;font-size:.78rem;color:var(--suave);border-bottom:1px solid var(--borde);margin-bottom:18px;flex-wrap:wrap;gap:6px;}
+    .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--verde);margin-right:6px;animation:pulso 2s infinite;}
+    @keyframes pulso{0%,100%{opacity:1;}50%{opacity:.3;}}
+    .btn-act{background:none;border:1px solid var(--borde);color:var(--acento);padding:3px 12px;border-radius:4px;cursor:pointer;font-size:.78rem;}
+    .btn-act:hover{background:var(--panel);}
+
+    ul.lista{list-style:none;}
+    .item{border-bottom:1px solid var(--borde);padding:14px 4px;display:flex;gap:14px;align-items:flex-start;transition:background .15s;}
+    .item:hover{background:var(--panel);border-radius:6px;}
+    .num{font-family:var(--serif);font-size:1.4rem;color:var(--acento);opacity:.5;min-width:30px;line-height:1;padding-top:2px;}
+    .cuerpo{flex:1;}
+    .fuente{font-size:.72rem;color:var(--acento);text-transform:uppercase;letter-spacing:.06em;margin-bottom:4px;}
+    .tit{font-size:1rem;font-family:var(--serif);font-weight:bold;line-height:1.35;margin-bottom:4px;}
+    .tit a{color:var(--texto);text-decoration:none;} .tit a:hover{color:var(--acento);}
+    .desc{font-size:.82rem;color:var(--suave);line-height:1.4;}
+    .fecha{font-size:.72rem;color:var(--suave);margin-top:5px;}
+
+    .cargando{text-align:center;padding:50px 20px;color:var(--suave);}
+    .spin{display:inline-block;width:28px;height:28px;border:3px solid var(--borde);border-top-color:var(--acento);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:14px;}
+    @keyframes spin{to{transform:rotate(360deg);}}
+
+    footer{background:var(--oscuro);border-top:1px solid var(--borde);text-align:center;padding:22px 20px;font-size:.82rem;color:var(--suave);}
+    footer p{margin-bottom:12px;}
+    .flinks{display:flex;justify-content:center;gap:18px;flex-wrap:wrap;}
+    .flinks a{color:var(--acento);text-decoration:none;font-weight:600;}
+    .flinks a:hover{color:var(--acento-h);}
+
+    @media(max-width:600px){
+      header h1{font-size:1.5rem;}
+      .tab-btn{padding:7px 10px;font-size:.82rem;}
+      .num{font-size:1.1rem;}
+    }
+  </style>
+</head>
+<body>
+
+<a class="btn-inicio" href="https://imagif.github.io/MI-WEB-DE/">🏠 Inicio</a>
+
+<header>
+  <h1>📰 NOTICIAS – IMAGIF</h1>
+  <p>Las 10 noticias más destacadas · Actualización automática cada hora</p>
+</header>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="cambiarTab('nacional',this)">🇪🇸 Nacional</button>
+  <button class="tab-btn" onclick="cambiarTab('internacional',this)">🌍 Internacional</button>
+  <button class="tab-btn" onclick="cambiarTab('deportes',this)">⚽ Deportes</button>
+  <button class="tab-btn" onclick="cambiarTab('ciencia',this)">🔬 Ciencia</button>
+</div>
+
+<div class="pais-wrap vis" id="pais-wrap">
+  <label for="sel-pais">País:</label>
+  <select id="sel-pais" onchange="cambiarPais(this.value)">
+    <option value="es">🇪🇸 España (por defecto)</option>
+    <option value="us">🇺🇸 Estados Unidos</option>
+    <option value="mx">🇲🇽 México</option>
+    <option value="ar">🇦🇷 Argentina</option>
+    <option value="co">🇨🇴 Colombia</option>
+    <option value="fr">🇫🇷 Francia</option>
+    <option value="de">🇩🇪 Alemania</option>
+    <option value="it">🇮🇹 Italia</option>
+    <option value="gb">🇬🇧 Reino Unido</option>
+    <option value="pt">🇵🇹 Portugal</option>
+    <option value="br">🇧🇷 Brasil</option>
+    <option value="jp">🇯🇵 Japón</option>
+  </select>
+</div>
+
+<main>
+  <div class="tab-panel active" id="panel-nacional">
+    <div class="barra">
+      <span><span class="dot"></span>Actualización cada hora</span>
+      <span id="hora-act">Cargando…</span>
+      <button class="btn-act" onclick="recargarJSON()">↺ Actualizar</button>
+    </div>
+    <div id="cont-nacional"><div class="cargando"><div class="spin"></div><br>Cargando noticias…</div></div>
+  </div>
+  <div class="tab-panel" id="panel-internacional">
+    <div class="barra"><span><span class="dot"></span>Actualización cada hora</span><span id="hora-act-i">–</span><button class="btn-act" onclick="recargarJSON()">↺ Actualizar</button></div>
+    <div id="cont-internacional"><div class="cargando"><div class="spin"></div><br>Cargando noticias…</div></div>
+  </div>
+  <div class="tab-panel" id="panel-deportes">
+    <div class="barra"><span><span class="dot"></span>Actualización cada hora</span><span id="hora-act-d">–</span><button class="btn-act" onclick="recargarJSON()">↺ Actualizar</button></div>
+    <div id="cont-deportes"><div class="cargando"><div class="spin"></div><br>Cargando noticias…</div></div>
+  </div>
+  <div class="tab-panel" id="panel-ciencia">
+    <div class="barra"><span><span class="dot"></span>Actualización cada hora</span><span id="hora-act-c">–</span><button class="btn-act" onclick="recargarJSON()">↺ Actualizar</button></div>
+    <div id="cont-ciencia"><div class="cargando"><div class="spin"></div><br>Cargando noticias…</div></div>
+  </div>
+</main>
+
+<footer>
+  <p>© 2026 Creador de Prompts – #imagif</p>
+  <p>Sígueme en las siguientes páginas:</p>
+  <div class="flinks">
+    <a href="https://www.youtube.com/channel/UC8m_l7-pDh3W0jnSKNayLLw?sub_confirmation=1" target="_blank" rel="noopener">📺 YouTube</a>
+    <a href="https://imagenesgifs.wixsite.com/paracompartir" target="_blank" rel="noopener">🌐 Imagif</a>
+    <a href="https://ideasdesdetucasa.wixsite.com/ideas" target="_blank" rel="noopener">💡 Ideas</a>
+    <a href="https://es.pinterest.com/imagif55/" target="_blank" rel="noopener">📌 Pinterest</a>
+  </div>
+</footer>
+
+<script>
+// ── Estado ──────────────────────────────────────────────────────────────────
+const st = { pais: 'es', tabActiva: 'nacional', datos: null };
+
+// Mapa país → clave en noticias.json
+const CLAVE_PAIS = {
+  es:'nacional_es', us:'nacional_us', mx:'nacional_mx', ar:'nacional_ar',
+  co:'nacional_co', fr:'nacional_fr', de:'nacional_de', it:'nacional_it',
+  gb:'nacional_gb', pt:'nacional_pt', br:'nacional_br', jp:'nacional_jp',
+};
+
+// ── Cargar JSON ──────────────────────────────────────────────────────────────
+async function cargarJSON() {
+  try {
+    // cache-bust para no leer versión antigua del navegador
+    const res = await fetch('noticias.json?v=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    st.datos = await res.json();
+    mostrarTodo();
+    actualizarHoras();
+  } catch(e) {
+    console.error(e);
+    ['nacional','internacional','deportes','ciencia'].forEach(t => {
+      document.getElementById('cont-' + t).innerHTML = `
+        <div class="cargando">
+          ⚠️ No se pudo cargar noticias.json<br>
+          <small style="color:#aaa;margin-top:8px;display:block">
+            Asegúrate de que el workflow de GitHub Actions se ha ejecutado<br>
+            al menos una vez y que el archivo noticias.json existe en la carpeta NOTICIAS/
+          </small><br>
+          <button class="btn-act" style="padding:6px 18px;margin-top:8px" onclick="recargarJSON()">↺ Reintentar</button>
+        </div>`;
+    });
+  }
+}
+
+function recargarJSON() { cargarJSON(); }
+
+function actualizarHoras() {
+  if (!st.datos) return;
+  const d = new Date(st.datos.actualizado);
+  const txt = d.toLocaleString('es-ES',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
+  ['hora-act','hora-act-i','hora-act-d','hora-act-c'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.textContent = 'Actualizado: ' + txt;
+  });
+}
+
+// ── Renderizar sección ───────────────────────────────────────────────────────
+function renderSeccion(noticias, contId) {
+  const el = document.getElementById(contId);
+  if (!noticias || noticias.length === 0) {
+    el.innerHTML = '<div class="cargando">Sin noticias disponibles en este momento.</div>';
+    return;
+  }
+  const ul = document.createElement('ul');
+  ul.className = 'lista';
+  noticias.forEach((n, i) => {
+    const li = document.createElement('li');
+    li.className = 'item';
+    const fechaStr = n.fecha ? fmtFecha(n.fecha) : '';
+    li.innerHTML = `
+      <span class="num">${String(i+1).padStart(2,'0')}</span>
+      <div class="cuerpo">
+        <div class="fuente">${n.fuente}</div>
+        <div class="tit"><a href="${n.enlace}" target="_blank" rel="noopener">${n.titulo}</a></div>
+        ${n.desc ? `<div class="desc">${n.desc}</div>` : ''}
+        ${fechaStr ? `<div class="fecha">🕐 ${fechaStr}</div>` : ''}
+      </div>`;
+    ul.appendChild(li);
+  });
+  el.innerHTML = '';
+  el.appendChild(ul);
+}
+
+function fmtFecha(iso) {
+  const d = new Date(iso);
+  return isNaN(d) ? '' : d.toLocaleString('es-ES',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
+}
+
+function mostrarTodo() {
+  if (!st.datos) return;
+  const s = st.datos.secciones;
+  const clavePais = CLAVE_PAIS[st.pais] || 'nacional_es';
+  renderSeccion(s[clavePais],     'cont-nacional');
+  renderSeccion(s['internacional'],'cont-internacional');
+  renderSeccion(s['deportes'],     'cont-deportes');
+  renderSeccion(s['ciencia'],      'cont-ciencia');
+}
+
+// ── Pestañas ─────────────────────────────────────────────────────────────────
+function cambiarTab(tab, btn) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('panel-' + tab).classList.add('active');
+  btn.classList.add('active');
+  st.tabActiva = tab;
+  document.getElementById('pais-wrap').classList.toggle('vis', tab === 'nacional');
+}
+
+function cambiarPais(p) {
+  st.pais = p;
+  if (st.datos) {
+    const clave = CLAVE_PAIS[p] || 'nacional_es';
+    renderSeccion(st.datos.secciones[clave], 'cont-nacional');
+  }
+}
+
+// ── Inicio ───────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  cargarJSON();
+  // Recargar automáticamente cada hora
+  setInterval(cargarJSON, 60 * 60 * 1000);
+});
+</script>
+</body>
+</html>
