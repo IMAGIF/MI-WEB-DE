@@ -1,20 +1,684 @@
 {
-  "actualizado": "2026-01-01T00:00:00+00:00",
+  "actualizado": "2026-06-21T23:31:24.652018+00:00",
   "secciones": {
-    "nacional_es": [],
-    "nacional_us": [],
+    "nacional_es": [
+      {
+        "titulo": "¡Pues claro que la policía de Sánchez podría ayudar a huir a su señora!",
+        "enlace": "https://www.libertaddigital.com/espana/2026-06-21/federico-jimenez-losantos-pues-claro-que-la-policia-de-sanchez-podria-ayudar-a-huir-a-su-senora-7424329/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Si Peinado ha presenciado esas hazañas de la policía, ¿cómo no iba a actuar con la cautela necesaria para asegurar la acción de la Justicia?",
+        "fecha": "2026-06-21T07:23:08+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "La \"empatía\" por ser \"víctimas del acoso judicial contra sus familias\" que une a Sánchez con Zapatero y suscita dudas en el PSOE",
+        "enlace": "https://www.elmundo.es/espana/2026/06/21/6a36d121e9cf4ad24d8b457f.html",
+        "desc": "Moncloa cree que el acoso por la corrupción puede llevar a la gente a ver al actual presidente del Gobierno como una víctima&nbsp; Leer",
+        "fecha": "2026-06-21T00:11:33+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Uruguay – Cabo Verde, en directo hoy: a qué hora es, dónde ver online y última hora del partido del Mundial 2026 en vivo gratis",
+        "enlace": "https://okdiario.com/mundial/uruguay-cabo-verde-directo-hoy-que-hora-donde-ver-online-ultima-hora-del-partido-del-mundial-2026-vivo-gratis-18827960",
+        "desc": "El Mundial 2026 no se detiene y en la madrugada de este lunes en España tenemos una importante cita que afecta directamente a la selección española. Dos rivales de su grupo, el H, …",
+        "fecha": "2026-06-22T01:26:38+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "El candidato de Trias se impone en las primarias de Junts para alcalde de Barcelona",
+        "enlace": "https://www.elconfidencial.com/espana/cataluna/2026-06-21/candidato-trias-primarias-junts-alcaldia-barcelona_4376546/",
+        "desc": "Punto para el sector de Junts, minoritario, que quiere darla la vuelta al partido como un calcetín y volver al modelo de Convergència. Las listas para Barcelona han caído de su lad…",
+        "fecha": "2026-06-21T23:31:27.811187+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Bélgica no puede con la resistencia de Irán, que sigue líder del grupo G del Mundial",
+        "enlace": "https://theobjective.com/deportes/futbol/mundial/2026-06-21/belgica-iran-mundial/",
+        "desc": "La selección de fútbol de Bélgica ha empatado este domingo sin goles frente a la aguerrida selección de Irán durante la segunda jornada del Grupo G [&#8230;]",
+        "fecha": "2026-06-21T21:36:40+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "El CGPJ estudia si abre un expediente al juez Peinado por sostener que la Policía puede ayudar a huir a Begoña Gómez",
+        "enlace": "https://www.elespanol.com/espana/tribunales/20260621/cgpj-reune-urgencia-estudia-abrir-expediente-disciplinario-juez-peinado-auto-begona-gomez/1003744294372_0.html",
+        "desc": "El juez justifica retirar el pasaporte a Gómez afirmando que sus propios escoltas podrían \"facilitar esa fuga\" por órdenes superiores. Más información: El juez Peinado sienta ante …",
+        "fecha": "2026-06-21T11:54:01+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Prosperidad, San Blas y Estrella estrenan nuevas escaleras mecánicas en el Metro",
+        "enlace": "https://www.abc.es/espana/madrid/prosperidad-san-blas-estrella-estrenan-nuevas-escaleras-20260620012052-nt.html",
+        "desc": "El Metro de Madrid avanza un poco más en su Plan de Accesibilidad. Varias estaciones, en Prosperidad, San Blas y Estrella, contarán con nuevas escaleras mecánicas para facilitar el…",
+        "fecha": "2026-06-22T01:20:52+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "Begoña Gómez acusa a Peinado ante el CGPJ de vulnerar su derecho de defensa",
+        "enlace": "https://www.libertaddigital.com/espana/2026-06-21/begona-gomez-acusa-a-peinado-ante-el-cgpj-de-vulnerar-su-derecho-de-defensa-7424381/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "El abogado de la mujer de Sánchez acusa a Peinado de no notificarle las resoluciones de este sábado, que incluían medidas cautelares.",
+        "fecha": "2026-06-21T13:23:23+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "El CGPJ valorará mañana si Peinado incurrió en \"falta grave de consideración\" a la Policía por sugerir que podría ayudar a huir a Begoña Gómez",
+        "enlace": "https://www.elmundo.es/espana/2026/06/21/6a37adaffdddff4c458b45a4.html",
+        "desc": "La Comisión Permanente del órgano de los jueces ha celebrado este domingo una reunión telemática y la decisión final se tomará este lunes a las 9.00 horas&nbsp; Leer",
+        "fecha": "2026-06-21T13:54:08+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Cabo Verde sigue de fiesta: Kevin Pina hace el histórico primer gol de su selección en un Mundial",
+        "enlace": "https://okdiario.com/mundial/cabo-verde-sigue-fiesta-kevin-pina-hace-historico-primer-gol-seleccion-mundial-18828943",
+        "desc": "Lo de Cabo Verde ante España no era casualidad. Esta selección debutante en el Mundial plantó cara a una de las favoritas, con una actuación estelar de su portero, Vocinha, y en el…",
+        "fecha": "2026-06-22T00:39:28+02:00",
+        "fuente": "OKDiario"
+      }
+    ],
+    "nacional_us": [
+      {
+        "titulo": "Concertgoer dies after apparent fall from upper level at Madison Square Garden",
+        "enlace": "https://www.foxnews.com/us/concertgoer-dies-after-apparent-fall-from-upper-level-madison-square-garden",
+        "desc": "A 51-year-old man suffered a fatal fall from the upper levels of Madison Square Garden during a sold-out Goose concert on Saturday, police said.",
+        "fecha": "2026-06-21T16:01:43-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Fulton County, Georgia, jail leadership resigns after inmate's death and accusations of unsanitary conditions",
+        "enlace": "https://www.cnn.com/2023/04/18/us/fulton-county-jail-leadership-resignations-lashawn-thompson-death/index.html",
+        "desc": "Three officials at the Fulton County, Georgia, jail have stepped down amid an investigation into the death of an inmate whose family said was housed in a filthy, bug-infested cell …",
+        "fecha": "2023-04-18T15:08:03+00:00",
+        "fuente": "CNN"
+      },
+      {
+        "titulo": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+        "enlace": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+        "desc": "Mona Khalil died Friday after an Israeli airstrike hit her beachside home two weeks ago. She's credited with creating a conservation movement in southern Lebanon to protect sea tur…",
+        "fecha": "2026-06-21T17:37:22-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Multiple hikers dead amid scorching Grand Canyon temperatures",
+        "enlace": "https://www.foxnews.com/us/multiple-hikers-dead-amid-scorching-grand-canyon-temperatures",
+        "desc": "Several individuals have passed away this month apparently in connection with the blazing hot temperatures that are impacting the Grand Canyon.",
+        "fecha": "2026-06-21T14:12:00-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "He was free for 2 years. Now Crosley Green is back in prison for a crime he says he didn't commit",
+        "enlace": "https://www.cnn.com/2023/04/17/us/crosley-green-prison-return/index.html",
+        "desc": "A Florida man who served three decades behind bars for a murder he says he didn't commit returned to prison Monday after spending the past two years building a life outside prison …",
+        "fecha": "2023-04-17T22:45:49+00:00",
+        "fuente": "CNN"
+      },
+      {
+        "titulo": "Trump threatens to 'hit Iran very hard again' while Vance is in Switzerland for talks",
+        "enlace": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+        "desc": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
+        "fecha": "2026-06-21T13:29:57-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "FAA investigates after incoming plane executes go-around due to aircraft leaving from intersecting runway",
+        "enlace": "https://www.foxnews.com/us/faa-investigates-incoming-plane-executes-go-around-due-aircraft-leaving-intersecting-runway",
+        "desc": "The FAA is investigating after a Delta Air Lines flight performed a go-around at Boston Logan International Airport due to an aircraft leaving from an intersecting runway.",
+        "fecha": "2026-06-21T11:08:51-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Tennessee Air National Guardsman applied to be a hitman online, the FBI says. It was a spoof website and now he's facing charges",
+        "enlace": "https://www.cnn.com/2023/04/17/us/tennessee-air-national-guardsman-hitman-online-application/index.html",
+        "desc": "A Tennessee Air National Guardsman is facing charges after applying to be a hitman on a spoof \"rent-a-hitman\" website, according to the Department of Justice.",
+        "fecha": "2023-04-17T09:06:12+00:00",
+        "fuente": "CNN"
+      },
+      {
+        "titulo": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+        "enlace": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+        "desc": "Officials in Russia-occupied Crimea suspended civilian gasoline sales Sunday as Ukraine ramped up attacks on fuel supplies on the Black Sea peninsula.",
+        "fecha": "2026-06-21T09:55:06-04:00",
+        "fuente": "NPR"
+      }
+    ],
     "nacional_mx": [],
-    "nacional_ar": [],
+    "nacional_ar": [
+      {
+        "titulo": "Salud y sexo: otro problema grave mientras miramos el Mundial",
+        "enlace": "https://www.clarin.com/opinion/salud-sexo-problema-grave-miramos-mundial_0_HoroNzVbq1.html",
+        "desc": "El año pasado se registraron 46.799 casos de sífilis en la Argentina, el valor más alto hasta el momento. Mientras crecen otras enfermedades de transmisión sexual, sólo el 15% usa …",
+        "fecha": "2026-06-21T23:03:33+00:00",
+        "fuente": "Clarín"
+      },
+      {
+        "titulo": "De la Espriella será el próximo presidente de Colombia y pone fin al ciclo de Petro",
+        "enlace": "https://www.lanacion.com.ar/el-mundo/con-mas-del-80-escrutado-el-outsider-de-la-espriella-queda-cerca-de-la-presidencia-de-colombia-nid21062026/",
+        "desc": "Según el conteo preliminar oficial, el candidato outsider derrotó al oficialista Iván Cepeda en un balotaje ajustado y llegará a la Casa de Nariño tras una campaña marcada por la p…",
+        "fecha": "2026-06-21T23:28:17+00:00",
+        "fuente": "La Nación"
+      },
+      {
+        "titulo": "Así es el living de Isabel Macedo en Salta: carácter moderno y obras de arte",
+        "enlace": "https://www.clarin.com/fama/living-isabel-macedo-salta-caracter-moderno-obras-arte_0_khN4KVXx6f.html",
+        "desc": "Un ambiente con arte, madera y luz que también piensan sus hijas. Diseño con carácter y un rincón especial para Belita y Julia.",
+        "fecha": "2026-06-21T23:01:38+00:00",
+        "fuente": "Clarín"
+      },
+      {
+        "titulo": "Cómo va Uruguay vs. Cabo Verde por el Mundial 2026",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-uruguay-vs-cabo-verde-y-por-donde-se-puede-ver-en-vivo-nid21062026/",
+        "desc": "El partido de la segunda fecha del Grupo H se disputa en el Hard Rock Stadium de Miami; en el otro duelo España goleó a Arabia Saudita 4 a 0 y lidera la tabla de posiciones",
+        "fecha": "2026-06-21T23:26:39+00:00",
+        "fuente": "La Nación"
+      },
+      {
+        "titulo": "Quién es Abelardo De la Espriella, el libertario admirador de Javier Milei que asumirá la presidencia de Colombia",
+        "enlace": "https://www.clarin.com/mundo/abelardo-espriella-libertario-admirador-javier-milei-asumira-presidencia-colombia_0_xxTNeVFOdH.html",
+        "desc": "El populista de derecha se impuso por un estrecho margen sobre el oficialista Iván Cepeda. Se presenta como el abogado y empresario exitoso, recién llegado a la política, que \"salv…",
+        "fecha": "2026-06-21T22:58:10+00:00",
+        "fuente": "Clarín"
+      },
+      {
+        "titulo": "Uruguay vs. Cabo Verde, en vivo por el Mundial 2026: minuto a minuto del partido",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/uruguay-vs-cabo-verde-en-vivo-por-el-mundial-2026-nid21062026/",
+        "desc": "La Celeste de Marcelo Bielsa busca su primer triunfo ante la selección africana en el estadio de Miami",
+        "fecha": "2026-06-21T23:25:56+00:00",
+        "fuente": "La Nación"
+      }
+    ],
     "nacional_co": [],
-    "nacional_fr": [],
-    "nacional_de": [],
-    "nacional_it": [],
-    "nacional_gb": [],
-    "nacional_pt": [],
-    "nacional_br": [],
-    "nacional_jp": [],
-    "internacional": [],
-    "deportes": [],
-    "ciencia": []
+    "nacional_fr": [
+      {
+        "titulo": "EN DIRECT, canicule : des trains supprimés à partir de lundi en Ile-de-France sur les lignes de RER et de Transilien",
+        "enlace": "https://www.lemonde.fr/planete/live/2026/06/21/en-direct-canicule-des-trains-supprimes-a-partir-de-lundi-en-ile-de-france-sur-les-lignes-de-rer-et-de-transilien_6704498_3244.html",
+        "desc": "Lundi, 49 départements seront placés en vigilance rouge, et 40 autres en vigilance orange. La nuit de dimanche à lundi sera chaude, prévient Météo-France, avec des températures min…",
+        "fecha": "2026-06-21T20:24:03+02:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "EN DIRECT - Canicule : la France fête la musique sous une chaleur étouffante, les rues à Paris envahies par la foule",
+        "enlace": "https://www.lefigaro.fr/actualite-france/en-direct-meteo-canicule-chaleur-fete-de-la-musique-france-alerte-rouge-vigilance-orages-20260621",
+        "desc": "49 départements sont placés en vigilance rouge lundi et les transports en Île-de-France s’annoncent perturbés, notamment pour le RER B. Emmanuel Macron a annoncé qu’une autre cellu…",
+        "fecha": "2026-06-21T23:14:35+02:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "Colombie en direct : Abelardo de la Espriella, candidat de la droite dure, remporte la présidentielle",
+        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260621-presidentielle-colombienne-en-direct-un-duel-entre-ivan-cepeda-et-abelardo-de-la-espriella-deuxieme-tour",
+        "desc": "",
+        "fecha": "2026-06-21T23:09:03+00:00",
+        "fuente": "France 24"
+      },
+      {
+        "titulo": "EN DIRECT, guerre au Moyen-Orient : après un message menaçant de Donald Trump, la délégation iranienne quitte le lieu où se déroulaient les discussions en Suisse, mais maintient les pourparlers",
+        "enlace": "https://www.lemonde.fr/international/live/2026/06/22/en-direct-guerre-au-moyen-orient-apres-un-message-menacant-de-donald-trump-la-delegation-iranienne-quitte-le-lieu-ou-se-deroulaient-les-discussions-en-suisse-mais-maintient-les-pourparlers_6705272_3210.html",
+        "desc": "Un diplomate proche des négociations a affirmé à l’AFP que l’Iran restait « engagé » dans les discussions avec Washington, alors que le président américain a enjoint plus tôt à Téh…",
+        "fecha": "2026-06-22T00:19:30+02:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "Canicule : des suppressions de trains prévues dès lundi sur le réseau francilien, IDFM invite à «reporter» les déplacements",
+        "enlace": "https://www.lefigaro.fr/economie/canicule-des-suppressions-de-trains-prevues-des-lundi-sur-le-reseau-francilien-idfm-invite-a-reporter-les-deplacements-20260621",
+        "desc": "Le RER B sera particulièrement touché, mais les RER C, D, E et plusieurs lignes Transilien verront également leur trafic réduit.",
+        "fecha": "2026-06-22T00:19:43+02:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "\"Une manière de découvrir Paris\" : les touristes étrangers débarquent pour la fête de la musique",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260621-une-mani%C3%A8re-de-d%C3%A9couvrir-paris-les-touristes-%C3%A9trangers-d%C3%A9barquent-pour-la-f%C3%AAte-de-la-musique",
+        "desc": "Alors qu’une large partie de la France est en vigilance rouge canicule, la Fête de la musique se tient ce dimanche 21 juin. Les températures exceptionnelles ont contraint les autor…",
+        "fecha": "2026-06-21T22:55:19+00:00",
+        "fuente": "France 24"
+      },
+      {
+        "titulo": "Comment l’Ukraine organise l’étranglement logistique de la Crimée occupée par la Russie",
+        "enlace": "https://www.lemonde.fr/international/article/2026/06/21/comment-l-ukraine-organise-l-etranglement-logistique-de-la-crimee-occupee-par-la-russie_6706119_3210.html",
+        "desc": "Grâce à une nouvelle génération de drones, Kiev mène une campagne méthodique contre les infrastructures routières, ferroviaires et énergétiques de la péninsule annexée par Moscou e…",
+        "fecha": "2026-06-21T20:19:41+02:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "«Un sketch» : bloqués sans climatisation, les passagers d’un Ouigo contraints de finir leur trajet à pied sous 35 degrés",
+        "enlace": "https://www.lefigaro.fr/conjoncture/un-sketch-bloques-sans-climatisation-les-passagers-d-un-ouigo-contraints-de-finir-leur-trajet-a-pied-sous-35-degres-20260621",
+        "desc": "À quelques minutes de leur arrivée à Toulouse samedi, des voyageurs ont été évacués de leur train immobilisé en pleine voie. Une panne qui a également fortement perturbé le trafic …",
+        "fecha": "2026-06-21T19:47:57+02:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "Climatiseurs, congés climatiques : la canicule relance le débat chez les politiques",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260621-climatiseurs-cong%C3%A9s-climatiques-la-canicule-relance-le-d%C3%A9bat-chez-les-politiques",
+        "desc": "Au menu de l'Essentiel politique : le coup diplomatique d'Emmanuel Macron à Evian et Versailles, le meeting de Bruno Retailleau au Parc Floral à Paris et les propositions des polit…",
+        "fecha": "2026-06-21T21:30:31+00:00",
+        "fuente": "France 24"
+      }
+    ],
+    "nacional_de": [
+      {
+        "titulo": "WM 2026 Live: Iran und Belgien verzweifeln am gegnerischen Torhüter",
+        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-live-belgien-gegen-iran-im-liveticker-a-1cb6b8f8-1bf2-4d0a-8f73-1e3cbdc37538#ref=rss",
+        "desc": "Mit Mbappé, Olise und Dembélé hat Frankreich die vielleicht beste Offensive der Welt. Kein Wunder, dass der Trainer des Iraks gern die Regeln ändern würde. Und: Xavi nennt Messi de…",
+        "fecha": "2026-06-21T23:53:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Fußball-WM 2026: Kevin Pina erzielt das erste WM-Tor der Kap Verde",
+        "enlace": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
+        "desc": "Mit einem direkt verwandelten Freistoß erzielt Pina das erste WM-Tor Kap Verdes. Belgien ließ einen Spieler wegen einer neuen Regel nicht behandeln. Das Liveblog",
+        "fecha": "2026-06-21T22:45:30",
+        "fuente": "Die Zeit"
+      },
+      {
+        "titulo": "WM 2026: Iran-Torhüter Alireza Beiranvand überragt bei Remis gegen Belgien",
+        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-iran-torhueter-alireza-beiranvand-ueberragt-bei-remis-gegen-belgien-a-30744450-f011-4809-bfa4-4dc47f90ce45#ref=rss",
+        "desc": "Man mag die Worte »Goldene Generation« und »Belgien« im selben Satz nicht mehr hören. Gegen Iran verzweifelten Kevin De Bruyne und Co. in Unterzahl an sich selbst – und am iranisch…",
+        "fecha": "2026-06-21T23:50:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Luigi Pantisano: Daniel Günther fordert neuen Linksparteichef zum Rücktritt auf",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-06/daniel-guenther-luigi-pantisano-linksparteichef-ruecktritt-forderung",
+        "desc": "Der Parteichef der Linken hat der CDU »faschistische Politik« vorgeworfen. Der Ministerpräsident von Schleswig-Holstein kritisiert die Aussage als »geschichtsvergessen«.",
+        "fecha": "2026-06-21T22:38:51",
+        "fuente": "Die Zeit"
+      },
+      {
+        "titulo": "Berlin: Mann mit zwei Kindern antisemitisch angegriffen",
+        "enlace": "https://www.spiegel.de/panorama/berlin-mann-mit-zwei-kindern-antisemitisch-angegriffen-a-8c841199-f995-4e00-a87a-deb95836461d#ref=rss",
+        "desc": "Mitten am Tag ist ein 47-Jähriger in Berlin beleidigt und schließlich ins Gesicht geschlagen worden. Die Polizei geht von Antisemitismus aus, das Opfer trug eine Kippa. Mit dabei w…",
+        "fecha": "2026-06-21T23:18:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Prag: Proteste für öffentlich-rechtliche Medien in Tschechien",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-06/proteste-prag-andrej-babis-rundfunkgebuehren-tschechien",
+        "desc": "Tausende Menschen protestieren in Prag gegen Einsparungspläne der Regierung für den öffentlichen Rundfunk. Mitarbeiter haben bereits Streiks angekündigt.",
+        "fecha": "2026-06-21T22:02:35",
+        "fuente": "Die Zeit"
+      }
+    ],
+    "nacional_it": [
+      {
+        "titulo": "Colombia, il trumpiano de la Espriella eletto presidente",
+        "enlace": "https://www.repubblica.it/esteri/2026/06/22/news/colombia_abelardo_de_la_espriella_presidente_trump-425425761/",
+        "desc": "L’annuncio su X: “Il tigre abbraccia il Condor”",
+        "fecha": "2026-06-21T22:43:15+00:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Lo Strega salva Mari: “Resta in gara, si giudica il libro e non l’autore”",
+        "enlace": "https://www.repubblica.it/cultura/2026/06/21/news/premio_strega_michele_mari_teresa_ciabatti_michela_murgia_fondazione_bellonci-425425464/",
+        "desc": "La nota della Fondazione Bellonci mette fine al caso scatenato dalle parole di Michele Mari su Michela Murgia: “Per regolamento non possiamo espellere nessuno”. Ora la parola passa…",
+        "fecha": "2026-06-21T22:01:00+00:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Tutti gli uomini del nuovo Milan: Calvelli dopo Furlani, Almstadt farà il mercato",
+        "enlace": "https://www.repubblica.it/sport/calcio/serie-a/milan/2026/06/22/news/milan_dirigenti_calvelli_almstadt_amorim-425425719/",
+        "desc": "Il proprietario, Jerry Cardinale, promette il modello Liverpool. Il tecnico Amorim sceglierà gli acquisti: priorità a un centravanti, porte aperte a Leao",
+        "fecha": "2026-06-21T22:01:00+00:00",
+        "fuente": "La Repubblica"
+      }
+    ],
+    "nacional_gb": [
+      {
+        "titulo": "Starmer considers political future as pressure to quit mounts",
+        "enlace": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss",
+        "desc": "It comes as US President Donald Trump says on social media that the PM will resign, in a further blow to the Labour leader.",
+        "fecha": "2026-06-21T16:56:17+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "‘Ideal for long days on your feet’: the 30 best summer sandals for men and women",
+        "enlace": "https://www.theguardian.com/thefilter/2026/jun/21/best-summer-sandals-men-women",
+        "desc": "We’ve rounded up stylish and comfy summer footwear for every occasion, whether you want beach perfection or office-ready • The best sunglasses for every budget I’m over clunky shoe…",
+        "fecha": "2026-06-21T13:00:32+00:00",
+        "fuente": "The Guardian"
+      },
+      {
+        "titulo": "Signs grow that PM will resign with mood in government shifting",
+        "enlace": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
+        "desc": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
+        "fecha": "2026-06-21T10:57:56+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "As Starmer eyes the exit, here’s a vital lesson for Andy Burnham: first impressions are everything | Polly Toynbee",
+        "enlace": "https://www.theguardian.com/commentisfree/2026/jun/21/andy-burnham-labour-leadership-keir-starmer",
+        "desc": "If the Makerfield MP is to be our next PM, he needs some immediate and memorable cost of living policies to avoid his predecessor’s fate Pause here before we rush headlong into the…",
+        "fecha": "2026-06-21T14:03:48+00:00",
+        "fuente": "The Guardian"
+      },
+      {
+        "titulo": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+        "enlace": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "desc": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+        "fecha": "2026-06-21T19:33:09+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup’s most compelling battle",
+        "enlace": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
+        "desc": "Fox’s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winner We all know someone like Alexi Lalas. He’s the ranter whose rants neve…",
+        "fecha": "2026-06-21T09:00:27+00:00",
+        "fuente": "The Guardian"
+      }
+    ],
+    "nacional_pt": [
+      {
+        "titulo": "O Dr. Monte e o Mr. Negro",
+        "enlace": "https://www.publico.pt/2026/06/21/opiniao/editorial/dr-monte-mr-negro-2179000",
+        "desc": "Luís Montenegro foi Mr. Negro a abrir o congresso e Dr. Monte a fechá-lo. Editorial deDavid Pontes",
+        "fecha": "2026-06-21T20:28:18+00:00",
+        "fuente": "Público"
+      },
+      {
+        "titulo": "O chumbo de Ventura animou mas não salvou o congresso do PSD",
+        "enlace": "https://observador.pt/opiniao/o-chumbo-de-ventura-animou-mas-nao-salvou-o-congresso-do-psd/",
+        "desc": "O problema com o PSD não é ter renegado a ideologia dos seus fundadores – o problema mesmo é ser cada vez menos um partido de ideias e propostas e mais um partido de simples ocupaç…",
+        "fecha": "2026-06-22T00:26:30+01:00",
+        "fuente": "Observador"
+      },
+      {
+        "titulo": "Ser pobre é triste, ser triste é uma desgraça",
+        "enlace": "https://www.publico.pt/2026/06/21/p3/cronica/pobre-triste-triste-desgraca-2178247",
+        "desc": "“O dinheiro não traz felicidade”, dizem os ricos a caminho das Maldivas, ou os pobres que, sem remédio, se autoconvencem a toque de pão com manteiga e café solúvel. Crónica de Cláu…",
+        "fecha": "2026-06-21T20:00:00+00:00",
+        "fuente": "Público"
+      },
+      {
+        "titulo": "Mulheres zangadas",
+        "enlace": "https://observador.pt/opiniao/mulheres-zangadas/",
+        "desc": "As tradwives, como uma espécie de movimento político, parecem tentar responder a esta ansiedade feminina com a mensagem central de que a sua satisfação não será conseguida imitando…",
+        "fecha": "2026-06-22T00:23:48+01:00",
+        "fuente": "Observador"
+      },
+      {
+        "titulo": "Após duas mortes de crianças em contexto familiar, pede-se mais atenção aos sinais de perigo",
+        "enlace": "https://www.publico.pt/2026/06/21/sociedade/noticia/apos-duas-mortes-criancas-contexto-familiar-pedese-atencao-sinais-perigo-2179002",
+        "desc": "Morte de criança de quatro anos volta a lembrar riscos associados à violência doméstica. Ex-presidente do IAC defende que é preciso intervir precocemente para proteger menores em f…",
+        "fecha": "2026-06-21T19:12:22+00:00",
+        "fuente": "Público"
+      },
+      {
+        "titulo": "A direita que vota PCP",
+        "enlace": "https://observador.pt/opiniao/a-direita-que-vota-pcp/",
+        "desc": "Ainda obrigamos um miúdo de dezassete anos a mostrar que o que sabe é mesmo seu, e já não pedimos a quem se candidata a mandar em nós que prove acreditar no que diz.",
+        "fecha": "2026-06-22T00:21:56+01:00",
+        "fuente": "Observador"
+      }
+    ],
+    "nacional_br": [
+      {
+        "titulo": "José Dirceu é o entrevistado do programa 'Frente a Frente' desta segunda-feira",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/jose-dirceu-e-o-entrevistado-do-programa-frente-a-frente-desta-segunda-feira.shtml",
+        "desc": "O ex-ministro da Casa Civil José Dirceu ( PT ) é o entrevistado desta segunda-feira do programa Frente a Frente, parceria da Folha e do UOL. O programa, ao vivo, vai ao ar às 19h. …",
+        "fecha": "2026-06-21T20:28:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Milei comenta resultado que aponta Espriella como vencedor das eleições na Colômbia; veja repercussão",
+        "enlace": "https://g1.globo.com/mundo/noticia/2026/06/21/espriella-eleicoes-colombia-repercussao.ghtml",
+        "desc": "A apuração preliminar do segundo turno das eleições presidenciais na Colômbia apontou a vitória de Abelardo de la Espriella neste domingo (21). A vitória da direita gerou comentári…",
+        "fecha": "2026-06-21T23:24:38",
+        "fuente": "G1 Globo"
+      },
+      {
+        "titulo": "6 vieses que alimentam perceções erradas",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/06/6-vieses-que-alimentam-percecoes-erradas.shtml",
+        "desc": "A verdade e a percepção foram sempre irmãs desavindas. De vez em quando alinham e entendem-se, mas a maior parte das vezes cada uma anda para seu lado. Tendemos, individualmente e …",
+        "fecha": "2026-06-21T20:09:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Aos 11 anos, atleta de Nova Friburgo conquista bicampeonato brasileiro de jiu-jitsu e se prepara para torneios nos Estados Unidos",
+        "enlace": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/21/aos-11-anos-atleta-de-nova-friburgo-conquista-bicampeonato-brasileiro-de-jiu-jitsu-e-se-prepara-para-torneios-nos-estados-unidos.ghtml",
+        "desc": "Aos 11 anos, atleta de Nova Friburgo conquista bicampeonato brasileiro de jiu-jitsu e se prepara para torneios nos Estados Unidos Divulgação A atleta de Nova Friburgo Melissa Vigno…",
+        "fecha": "2026-06-21T23:07:30",
+        "fuente": "G1 Globo"
+      },
+      {
+        "titulo": "Tarcísio enche a lousa de equações matemáticas em busca de eleitor jovem",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/06/tarcisio-enche-a-lousa-de-equacoes-matematicas-em-busca-de-eleitor-jovem.shtml",
+        "desc": "O governador Tarcísio de Freitas ( Republicanos ) vem buscando diálogo com o eleitorado mais jovem por meio de uma área que nem todo estudante gosta: a matemática . Leia mais (06/2…",
+        "fecha": "2026-06-21T19:48:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Ministério Público de SP cobra medidas contra efeitos do El Niño na Baixada Santista; entenda",
+        "enlace": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/21/ministerio-publico-de-sp-cobra-medidas-contra-efeitos-do-el-nino-na-baixada-santista-entenda.ghtml",
+        "desc": "O que é o El Niño e como ele pode afetar o seu dia a dia O Grupo de Atuação Especial de Defesa do Meio Ambiente (Gaema) pediu esclarecimentos às nove cidades da Baixada Santista (S…",
+        "fecha": "2026-06-21T23:00:08",
+        "fuente": "G1 Globo"
+      }
+    ],
+    "nacional_jp": [
+      {
+        "titulo": "U.S., Iran meet in Switzerland as fresh Trump threat angers Tehran",
+        "enlace": "https://www.japantimes.co.jp/news/2026/06/22/world/politics/us-iran-switzerland-trump-tehran/",
+        "desc": "The talks began with U.S., Iranian, Qatari and Pakistani representatives present, including U.S. Vice President JD Vance and Iranian Foreign Minister Abbas Araghchi.",
+        "fecha": "2026-06-22T07:24:00+09:00",
+        "fuente": "Japan Times"
+      },
+      {
+        "titulo": "How a U.S. author found — and helped build — community in a Japanese hot spring town",
+        "enlace": "https://www.japantimes.co.jp/community/2026/06/22/our-lives/hannah-kirshner-yamanaka-mokkei/",
+        "desc": "With a new home base, Hanna Kirshner hopes to build even deeper community and cultural connections in rural Ishikawa Prefecture.",
+        "fecha": "2026-06-22T07:00:00+09:00",
+        "fuente": "Japan Times"
+      },
+      {
+        "titulo": "Japan ruling LDP’s Suzuki negative on Diet extension",
+        "enlace": "https://www.japantimes.co.jp/news/2026/06/21/japan/politics/suzuki-negative-on-diet-extension/",
+        "desc": "The remarks came after Hiroshi Nakatsuka, secretary-general of the JIP, called for an extension of the Diet session in talks with Suzuki on Monday.",
+        "fecha": "2026-06-21T21:13:00+09:00",
+        "fuente": "Japan Times"
+      }
+    ],
+    "internacional": [
+      {
+        "titulo": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+        "enlace": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "desc": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+        "fecha": "2026-06-21T19:33:09+00:00",
+        "fuente": "BBC World"
+      },
+      {
+        "titulo": "Markets digest bank earnings after recent turmoil",
+        "enlace": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
+        "desc": "",
+        "fecha": "2023-04-14T20:00:28+00:00",
+        "fuente": "CNN World"
+      },
+      {
+        "titulo": "Meloni's spat with Trump is calculated strategy to boost her approval ratings: expert",
+        "enlace": "https://www.foxnews.com/world/melonis-spat-trump-calculated-strategy-boost-her-approval-ratings-expert",
+        "desc": "Analyst says Meloni&apos;s public feud with President Trump is a calculated strategy to boost her declining approval ratings ahead of Italy&apos;s 2027 general election.",
+        "fecha": "2026-06-21T17:39:31-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "World Cup 2026: Iran hold 10-man Belgium to goalless draw in Los Angeles",
+        "enlace": "https://www.france24.com/en/sport/20260621-world-cup-2026-ten-man-belgium-held-to-goalless-draw-by-iran",
+        "desc": "",
+        "fecha": "2026-06-21T21:12:09+00:00",
+        "fuente": "France 24 EN"
+      },
+      {
+        "titulo": "Trump: Repairs will begin ‘immediately’ on Lincoln Memorial Reflecting Pool",
+        "enlace": "https://www.oann.com/newsroom/trump-repairs-will-begin-immediately-on-lincoln-memorial-reflecting-pool/",
+        "desc": "In a Truth Social post, President Donald Trump announced that repairs to the Lincoln Memorial Reflecting Pool will begin immediately following the arrest of \"many additional people…",
+        "fecha": "2026-06-21T23:04:28+00:00",
+        "fuente": "OAN"
+      },
+      {
+        "titulo": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+        "enlace": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+        "desc": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+        "fecha": "2026-06-21T10:55:05+00:00",
+        "fuente": "BBC World"
+      },
+      {
+        "titulo": "Still haven't filed your taxes? Here's what you need to know",
+        "enlace": "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+        "desc": "So far this tax season, the IRS has received more than 90 million income tax returns for 2022.",
+        "fecha": "2023-04-14T20:07:40+00:00",
+        "fuente": "CNN World"
+      },
+      {
+        "titulo": "Albanian protesters flood streets demanding prime minister's resignation amid corruption accusations",
+        "enlace": "https://www.foxnews.com/world/albanian-protesters-flood-streets-demanding-prime-ministers-resignation-amid-corruption-accusations",
+        "desc": "Albania protests target Socialist PM Edi Rama over corruption allegations, not Kushner investments, former ambassador tells Fox News Digital.",
+        "fecha": "2026-06-21T17:34:49-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "World Cup 2026: Iran hold 10-man Belgium to goalless draw in Los Angeles",
+        "enlace": "https://www.france24.com/en/sport/20260621-world-cup-2026-ten-man-belgium-held-to-goalless-draw-by-iran",
+        "desc": "Nathan Ngoy was sent off early in the second half as ten-man Belgium continued to underwhelm with a second draw in as many World Cup games, this time against a valiant Iranian side…",
+        "fecha": "2026-06-21T21:08:57+00:00",
+        "fuente": "France 24 EN"
+      },
+      {
+        "titulo": "Trump blasts NYT over reporting of Iran conflict",
+        "enlace": "https://www.oann.com/newsroom/trump-blasts-nyt-over-reporting-of-iran-conflict/",
+        "desc": "President Donald Trump blasted The New York Times (NYT) over its reporting of the Iranian conflict, calling the outlet \"Corrupt.\" The United States commander-in-chief pointed to th…",
+        "fecha": "2026-06-21T22:23:28+00:00",
+        "fuente": "OAN"
+      }
+    ],
+    "deportes": [
+      {
+        "titulo": "&quot;He visto a los jugadores muy rencorosos y no entiendo por qué&quot;",
+        "enlace": "https://www.marca.com/futbol/seleccion/2026/06/21/he-visto-jugadores-rencorosos-entien-video.html",
+        "desc": "",
+        "fecha": "2026-06-21T23:56:17+02:00",
+        "fuente": "Marca"
+      },
+      {
+        "titulo": "¡Empata Cabo Verde!",
+        "enlace": "https://www.mundodeportivo.com/futbol/mundial/20260621/1004197650/uruguay-cabo-verde-directo-mundial-2026-fase-grupos.html",
+        "desc": "",
+        "fecha": "2026-06-22T01:03:17+02:00",
+        "fuente": "Mundo Deportivo"
+      },
+      {
+        "titulo": "Clark blocks out noise to stumble to US Open title",
+        "enlace": "https://www.bbc.com/sport/golf/articles/c621w7pg5gqo?at_medium=RSS&at_campaign=rss",
+        "desc": "Wyndham Clark blocks out the noise of the fans to win a second US Open title at Shinnecock Hills.",
+        "fecha": "2026-06-21T23:12:12+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "España echa cuentas, Bélgica se mete en un buen lío...",
+        "enlace": "https://www.marca.com/futbol/mundial/2026/06/21/calculadora-mundial.html",
+        "desc": "",
+        "fecha": "2026-06-21T23:44:17+02:00",
+        "fuente": "Marca"
+      },
+      {
+        "titulo": "Lamine da otro tono",
+        "enlace": "https://www.mundodeportivo.com/opinion/20260621/1004197869/lamine-da-tono.html",
+        "desc": "Lamine salió de titular ante Arabia y la selección española liquidó el partido en apenas 20 minutos. No fue solo él, pero dio otro tono. De la Fuente hizo cambios oportunos y el eq…",
+        "fecha": "2026-06-21T20:09:57+02:00",
+        "fuente": "Mundo Deportivo"
+      },
+      {
+        "titulo": "Serena Williams to make singles comeback at Wimbledon",
+        "enlace": "https://www.bbc.com/sport/tennis/articles/cn8kz0vm4d2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.",
+        "fecha": "2026-06-21T20:44:14+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "La parada del Mundial",
+        "enlace": "https://www.marca.com/futbol/mundial/2026/06/21/beiranvand-seca-belgica-firma-parada-mundial.html",
+        "desc": "El meta iraní sostuvo a su selección con siete paradas, una de ellas a bocajarro ante De Cuyper",
+        "fecha": "2026-06-21T23:41:12+02:00",
+        "fuente": "Marca"
+      },
+      {
+        "titulo": "Bélgica vuelve a decepcionar ante la resistente Irán",
+        "enlace": "https://www.mundodeportivo.com/futbol/mundial/20260621/1004197900/belgica.html",
+        "desc": "Bélgica sigue decepcionando en el Mundial 2026. Tras debutar empatando ante Egipto (1-1), hoy fue incapaz de superar a una Irán que empezó su andadura con un 2-2 contra Nueva Zelan…",
+        "fecha": "2026-06-21T23:10:56+02:00",
+        "fuente": "Mundo Deportivo"
+      },
+      {
+        "titulo": "The questions facing England after awful fortnight",
+        "enlace": "https://www.bbc.com/sport/cricket/articles/ce8j7v8dz05o?at_medium=RSS&at_campaign=rss",
+        "desc": "As English cricket deals with the fallout of an extraordinary two weeks, BBC cricket correspondent Stephan Shemilt explores the questions hanging over the entire England set-up.",
+        "fecha": "2026-06-21T20:20:09+00:00",
+        "fuente": "BBC Sport"
+      }
+    ],
+    "ciencia": [
+      {
+        "titulo": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+        "enlace": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm",
+        "desc": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular…",
+        "fecha": "2026-06-21T09:40:21-04:00",
+        "fuente": "Science Daily"
+      },
+      {
+        "titulo": "Tropical Storm Arthur",
+        "enlace": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
+        "desc": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
+        "fecha": "2026-06-19T04:00:00+00:00",
+        "fuente": "NASA"
+      },
+      {
+        "titulo": "The Download: AI bottleneck debates, and BCI trials take off",
+        "enlace": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+        "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke thro…",
+        "fecha": "2026-06-19T12:10:00+00:00",
+        "fuente": "MIT Tech Review"
+      },
+      {
+        "titulo": "Simpler, older version of Stonehenge found three miles from famous site",
+        "enlace": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
+        "desc": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
+        "fecha": "2026-06-17T23:11:29+00:00",
+        "fuente": "BBC Science"
+      },
+      {
+        "titulo": "Autism may have two distinct subtypes that vary by brain activity",
+        "enlace": "https://www.newscientist.com/article/2530459-autism-may-have-two-distinct-subtypes-that-vary-by-brain-activity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "desc": "Evidence is mounting that there are distinct subtypes of autism, and now, scientists have found that the condition can vary according to the strength of people's brain connections",
+        "fecha": "2026-06-16T13:00:42+01:00",
+        "fuente": "New Scientist"
+      },
+      {
+        "titulo": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
+        "enlace": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
+        "desc": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can…",
+        "fecha": "2026-06-21T10:06:09-04:00",
+        "fuente": "Science Daily"
+      },
+      {
+        "titulo": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+        "enlace": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
+        "desc": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival …",
+        "fecha": "2026-06-19T00:50:58+00:00",
+        "fuente": "NASA"
+      },
+      {
+        "titulo": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "enlace": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "desc": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back larg…",
+        "fecha": "2026-06-19T10:40:24+00:00",
+        "fuente": "MIT Tech Review"
+      },
+      {
+        "titulo": "What is El Niño and why could it mean record temperatures?",
+        "enlace": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
+        "desc": "Global temperatures are expected to rise in the coming months as El Niño begins.",
+        "fecha": "2026-06-11T13:32:26+00:00",
+        "fuente": "BBC Science"
+      },
+      {
+        "titulo": "A quantum state that lasts forever may finally be within our grasp",
+        "enlace": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "desc": "Defying the laws of thermodynamics, experiments are beginning to show that a quantum state that is frozen forever might not be impossible. If we can tame it, it could unlock whole …",
+        "fecha": "2026-06-16T15:00:05+01:00",
+        "fuente": "New Scientist"
+      }
+    ]
   }
 }
