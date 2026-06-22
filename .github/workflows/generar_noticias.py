@@ -12,7 +12,7 @@ HEADERS = {
 TIMEOUT = 12
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# FUENTES RSS organizadas por sección e idioma
+# FUENTES RSS
 # ═══════════════════════════════════════════════════════════════════════════════
 
 FUENTES = {
@@ -30,14 +30,7 @@ FUENTES = {
     {"nombre":"El Español",       "url":"https://www.elespanol.com/rss/"},
     {"nombre":"ABC",              "url":"https://www.abc.es/rss/feeds/abc_EspanaEspana.xml"},
   ],
-  "nacional_en": [
-    {"nombre":"Fox News",  "url":"https://feeds.foxnews.com/foxnews/national"},
-    {"nombre":"CNN",       "url":"http://rss.cnn.com/rss/edition_us.rss"},
-    {"nombre":"Reuters",   "url":"https://feeds.reuters.com/reuters/domesticNews"},
-    {"nombre":"AP News",   "url":"https://rsshub.app/apnews/topics/apf-topnews"},
-    {"nombre":"NPR",       "url":"https://feeds.npr.org/1001/rss.xml"},
-  ],
-  "nacional_us": [  # alias de en para EEUU
+  "nacional_us": [
     {"nombre":"Fox News",  "url":"https://feeds.foxnews.com/foxnews/national"},
     {"nombre":"CNN",       "url":"http://rss.cnn.com/rss/edition_us.rss"},
     {"nombre":"Reuters",   "url":"https://feeds.reuters.com/reuters/domesticNews"},
@@ -93,16 +86,21 @@ FUENTES = {
     {"nombre":"NHK World",  "url":"https://www3.nhk.or.jp/nhkworld/upld/feeds/en/news.xml"},
   ],
 
-  # ── INTERNACIONAL por idioma ───────────────────────────────────────────────
+  # ── INTERNACIONAL ─────────────────────────────────────────────────────────
+  # Versión en ESPAÑOL: medios españoles de confianza, sección internacional
   "internacional_es": [
-    {"nombre":"El País Global",  "url":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"},
-    {"nombre":"BBC Mundo",       "url":"https://feeds.bbci.co.uk/mundo/rss.xml"},
-    {"nombre":"France 24 ES",    "url":"https://www.france24.com/es/rss"},
-    {"nombre":"DW Español",      "url":"https://rss.dw.com/rdf/rss-es-all"},
-    {"nombre":"RT en Español",   "url":"https://actualidad.rt.com/rss"},
-    {"nombre":"Euronews ES",     "url":"https://es.euronews.com/rss?format=mrss&level=theme&name=news"},
-    {"nombre":"Reuters ES",      "url":"https://feeds.reuters.com/reuters/MXTopNews"},
+    {"nombre":"COPE Mundo",       "url":"https://www.cope.es/rss/mundo.xml"},
+    {"nombre":"ABC Internacional","url":"https://www.abc.es/rss/feeds/abc_Internacional.xml"},
+    {"nombre":"El Mundo Mundo",   "url":"https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml"},
+    {"nombre":"El Español Mundo", "url":"https://www.elespanol.com/mundo/rss/"},
+    {"nombre":"La Razón Mundo",   "url":"https://www.larazon.es/rss/internacional/"},
+    {"nombre":"El Confidencial I","url":"https://rss.elconfidencial.com/mundo/"},
+    {"nombre":"Libertad Digital I","url":"https://feeds.feedburner.com/libertaddigital/internacional"},
+    {"nombre":"BBC Mundo",        "url":"https://feeds.bbci.co.uk/mundo/rss.xml"},
+    {"nombre":"DW Español",       "url":"https://rss.dw.com/rdf/rss-es-all"},
+    {"nombre":"Euronews ES",      "url":"https://es.euronews.com/rss?format=mrss&level=theme&name=news"},
   ],
+  # Versión en INGLÉS
   "internacional_en": [
     {"nombre":"BBC World",    "url":"http://feeds.bbci.co.uk/news/world/rss.xml"},
     {"nombre":"Reuters",      "url":"https://feeds.reuters.com/reuters/worldNews"},
@@ -113,34 +111,39 @@ FUENTES = {
     {"nombre":"AP World",     "url":"https://rsshub.app/apnews/topics/apf-intlnews"},
   ],
   "internacional_fr": [
-    {"nombre":"Le Monde Monde","url":"https://www.lemonde.fr/rss/une.xml"},
+    {"nombre":"Le Figaro Monde","url":"https://www.lefigaro.fr/rss/figaro_international.xml"},
     {"nombre":"France 24 FR",  "url":"https://www.france24.com/fr/rss"},
     {"nombre":"RFI",           "url":"https://www.rfi.fr/fr/rss"},
     {"nombre":"Euronews FR",   "url":"https://fr.euronews.com/rss?format=mrss&level=theme&name=news"},
   ],
   "internacional_de": [
     {"nombre":"Der Spiegel Int","url":"https://www.spiegel.de/schlagzeilen/index.rss"},
-    {"nombre":"DW Deutsch",     "url":"https://rss.dw.com/rdf/rss-de-all"},
-    {"nombre":"Euronews DE",    "url":"https://de.euronews.com/rss?format=mrss&level=theme&name=news"},
+    {"nombre":"DW Deutsch",    "url":"https://rss.dw.com/rdf/rss-de-all"},
+    {"nombre":"Euronews DE",   "url":"https://de.euronews.com/rss?format=mrss&level=theme&name=news"},
   ],
   "internacional_it": [
     {"nombre":"RAI News",      "url":"https://www.rainews.it/dl/rainews/media/feed-web.xml"},
-    {"nombre":"La Repubblica", "url":"https://www.repubblica.it/rss/homepage/rss2.0.xml"},
+    {"nombre":"La Repubblica", "url":"https://www.repubblica.it/rss/esteri/rss2.0.xml"},
     {"nombre":"Euronews IT",   "url":"https://it.euronews.com/rss?format=mrss&level=theme&name=news"},
   ],
   "internacional_pt": [
     {"nombre":"RTP Notícias","url":"https://www.rtp.pt/noticias/rss"},
-    {"nombre":"Público",     "url":"https://feeds.feedburner.com/PublicoRSS"},
+    {"nombre":"Observador",  "url":"https://observador.pt/feed/"},
     {"nombre":"BBC Brasil",  "url":"https://feeds.bbci.co.uk/portuguese/rss.xml"},
   ],
 
-  # ── DEPORTES por idioma ────────────────────────────────────────────────────
+  # ── DEPORTES ──────────────────────────────────────────────────────────────
   "deportes_es": [
+    # Fútbol
     {"nombre":"Marca",           "url":"https://e00-marca.uecdn.es/rss/portada.xml"},
     {"nombre":"AS",              "url":"https://as.com/rss/tags/ultimas_noticias.xml"},
     {"nombre":"Mundo Deportivo", "url":"https://www.mundodeportivo.com/rss/home.xml"},
-    {"nombre":"Sport",           "url":"https://www.sport.es/rss/portada.xml"},
-    {"nombre":"Relevo",          "url":"https://www.relevo.com/rss/portada.xml"},
+    # Baloncesto
+    {"nombre":"Basket en Red",   "url":"https://www.basketenred.com/feed/"},
+    {"nombre":"AS Baloncesto",   "url":"https://as.com/rss/tags/baloncesto.xml"},
+    # Motor
+    {"nombre":"Marca Motor",     "url":"https://e00-marca.uecdn.es/rss/motor.xml"},
+    {"nombre":"Motorsport ES",   "url":"https://es.motorsport.com/rss/news/latest/"},
   ],
   "deportes_en": [
     {"nombre":"BBC Sport",    "url":"http://feeds.bbci.co.uk/sport/rss.xml"},
@@ -149,30 +152,33 @@ FUENTES = {
     {"nombre":"Sky Sports",   "url":"https://www.skysports.com/rss/12040"},
   ],
   "deportes_fr": [
-    {"nombre":"L'Équipe",    "url":"https://www.lequipe.fr/rss/actu_rss.xml"},
+    {"nombre":"L'Équipe",       "url":"https://www.lequipe.fr/rss/actu_rss.xml"},
     {"nombre":"France 24 Sport","url":"https://www.france24.com/fr/sports/rss"},
   ],
   "deportes_de": [
-    {"nombre":"Kicker",      "url":"https://www.kicker.de/news/fussball/bundesliga/rss.xml"},
-    {"nombre":"DW Sport",    "url":"https://rss.dw.com/rdf/rss-de-sport"},
+    {"nombre":"Kicker",   "url":"https://www.kicker.de/news/fussball/bundesliga/rss.xml"},
+    {"nombre":"DW Sport", "url":"https://rss.dw.com/rdf/rss-de-sport"},
   ],
   "deportes_it": [
-    {"nombre":"Gazzetta",    "url":"https://www.gazzetta.it/rss/home.xml"},
+    {"nombre":"Gazzetta",     "url":"https://www.gazzetta.it/rss/home.xml"},
     {"nombre":"Corriere Sport","url":"https://xml2.corrieredellasera.it/rss/sport.xml"},
   ],
   "deportes_pt": [
-    {"nombre":"A Bola",      "url":"https://www.abola.pt/rss/"},
-    {"nombre":"Record PT",   "url":"https://www.record.pt/rss/"},
+    {"nombre":"A Bola",   "url":"https://www.abola.pt/rss/"},
+    {"nombre":"Record PT","url":"https://www.record.pt/rss/"},
   ],
 
-  # ── CIENCIA / TECNOLOGÍA / SALUD por idioma ────────────────────────────────
+  # ── CIENCIA / TECNOLOGÍA / SALUD / ESPACIO ────────────────────────────────
+  # Versión ES: medios españoles de confianza, sección ciencia
   "ciencia_es": [
-    {"nombre":"Muy Interesante", "url":"https://www.muyinteresante.es/rss"},
-    {"nombre":"National Geo ES", "url":"https://www.nationalgeographic.com.es/rss/ciencia"},
-    {"nombre":"Tendencias21",    "url":"https://www.tendencias21.net/rss"},
-    {"nombre":"El País Ciencia", "url":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada"},
-    {"nombre":"BBC Ciencia ES",  "url":"https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml"},
-    {"nombre":"ABC Ciencia",     "url":"https://www.abc.es/rss/feeds/abc_Ciencia.xml"},
+    {"nombre":"ABC Ciencia",      "url":"https://www.abc.es/rss/feeds/abc_Ciencia.xml"},
+    {"nombre":"El Mundo Ciencia", "url":"https://e00-elmundo.uecdn.es/elmundo/rss/ciencia.xml"},
+    {"nombre":"El Español Ciencia","url":"https://www.elespanol.com/ciencia/rss/"},
+    {"nombre":"COPE Ciencia",     "url":"https://www.cope.es/rss/sociedad.xml"},
+    {"nombre":"Muy Interesante",  "url":"https://www.muyinteresante.es/rss"},
+    {"nombre":"National Geo ES",  "url":"https://www.nationalgeographic.com.es/rss/ciencia"},
+    {"nombre":"Tendencias21",     "url":"https://www.tendencias21.net/rss"},
+    {"nombre":"BBC Ciencia ES",   "url":"https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml"},
   ],
   "ciencia_en": [
     {"nombre":"Science Daily",   "url":"https://www.sciencedaily.com/rss/all.xml"},
@@ -192,12 +198,12 @@ FUENTES = {
     {"nombre":"DW Wissen", "url":"https://rss.dw.com/rdf/rss-de-wissenschaft"},
   ],
   "ciencia_it": [
-    {"nombre":"Focus It",    "url":"https://www.focus.it/rss.xml"},
-    {"nombre":"Le Scienze",  "url":"https://www.lescienze.it/rss/"},
+    {"nombre":"Focus It",  "url":"https://www.focus.it/rss.xml"},
+    {"nombre":"Le Scienze","url":"https://www.lescienze.it/rss/"},
   ],
   "ciencia_pt": [
-    {"nombre":"Ciência Hoje","url":"https://cienciahoje.pt/rss.xml"},
-    {"nombre":"Público Ciência","url":"https://feeds.feedburner.com/PublicoRSS"},
+    {"nombre":"Ciência Hoje",   "url":"https://cienciahoje.pt/rss.xml"},
+    {"nombre":"Observador Tech","url":"https://observador.pt/seccao/tech/feed/"},
   ],
 }
 
@@ -262,15 +268,12 @@ def procesar(fuentes, max_items=10):
 def main():
     print("=== Generando noticias.json ===")
     resultado = {"actualizado": datetime.now(timezone.utc).isoformat(), "secciones": {}}
-
     for clave, fuentes in FUENTES.items():
         print(f"\n[{clave}]")
         resultado["secciones"][clave] = procesar(fuentes)
-
     ruta = "NOTICIAS/noticias.json"
     with open(ruta,"w",encoding="utf-8") as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
-
     total = sum(len(v) for v in resultado["secciones"].values())
     print(f"\n✅ {ruta} — {total} noticias totales")
 
