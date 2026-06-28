@@ -86,9 +86,23 @@
     .ronda h3 { background: #1f452f; display: inline-block; padding: 6px 20px; border-radius: 30px; color: white; margin-bottom: 15px; }
     .cruces { display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; }
     .match-card { background: white; border-radius: 16px; width: 280px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-left: 6px solid #ffb347; }
+    .match-card.jugado { border-left-color: #1f452f; background: #f0fff5; }
     .match-header { font-size: 0.7rem; color: #555; margin-bottom: 5px; }
     .match-teams { display: flex; justify-content: space-between; align-items: center; font-weight: bold; gap: 8px; }
+    .match-score { 
+      background: #1f452f; 
+      color: white; 
+      padding: 4px 10px; 
+      border-radius: 20px; 
+      font-size: 0.85rem; 
+      font-weight: bold;
+    }
+    .match-card.jugado .match-score {
+      background: #ffd966;
+      color: #1e3a2f;
+    }
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
+    .team.ganador { color: #1f452f; font-weight: 700; }
     .vs { font-size: 0.7rem; color: #888; }
     .info-cruce {
       background: #fff8e1;
@@ -187,7 +201,7 @@
   <div id="eliminatoria" class="tab-contenido">
     <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento FIFA 2026 (48 equipos → 32 en eliminatoria)</div>
     <div class="info-cruce">
-      ️ <strong>Formato 2026:</strong> Los 12 primeros de grupo + 12 segundos + 8 mejores terceros = 32 equipos en Dieciseisavos. 
+      ℹ️ <strong>Formato 2026:</strong> Los 12 primeros de grupo + 12 segundos + 8 mejores terceros = 32 equipos en Dieciseisavos. 
       Los nombres de los equipos aparecerán cuando se completen los grupos.
     </div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
@@ -456,7 +470,106 @@
     partidosContainer.innerHTML = html;
   }
 
-  // ========== FUNCIONES MEJORADAS PARA FASE FINAL ==========
+  // ========== NUEVAS FUNCIONES PARA FASE FINAL CON RESULTADOS REALES ==========
+
+  // Obtener ganador de un partido de 32avos por su ID
+  function getGanadorR32(partidoId) {
+    const partido = matchesAll.find(m => m.round === partidoId || m.id === partidoId);
+    if (!partido || !partido.score || !partido.score.ft) return null;
+    
+    const g1 = partido.score.ft[0];
+    const g2 = partido.score.ft[1];
+    
+    if (g1 > g2) return traducirEquipo(partido.team1);
+    if (g2 > g1) return traducirEquipo(partido.team2);
+    return null; // Empate (podría haber prórroga/penaltis)
+  }
+
+  // Renderizar partido de 32avos con resultado si existe
+  function renderPartidoR32(matchData, index) {
+    const ganador = getGanadorR32(matchData.id);
+    const local = displayTeam(matchData.local);
+    const away = displayTeam(matchData.away);
+    const jugado = ganador !== null;
+    
+    return `
+      <div class="match-card ${jugado ? 'jugado' : ''}">
+        <div class="match-header">Partido ${matchData.id}</div>
+        <div class="match-teams">
+          <span class="team ${jugado && local === ganador ? 'ganador' : ''}">${local}</span>
+          ${jugado ? `<span class="match-score">${ganador}</span>` : '<span class="vs">vs</span>'}
+          <span class="team ${jugado && away === ganador ? 'ganador' : ''}">${away}</span>
+        </div>
+      </div>
+    `;
+  }
+
+  // Renderizar rondas posteriores (Octavos, Cuartos, etc.) con ganadores reales
+  function renderRondaPosterior(rondaNombre, numPartidos, getPartidoInfo) {
+    let html = `<div class="ronda"><h3>🏆 ${rondaNombre.toUpperCase()}</h3><div class="cruces">`;
+    
+    for (let i = 0; i < numPartidos; i++) {
+      const info = getPartidoInfo(i);
+      const ganador = info.ganador || null;
+      const local = info.local;
+      const away = info.away;
+      const jugado = ganador !== null;
+      
+      html += `
+        <div class="match-card ${jugado ? 'jugado' : ''}">
+          <div class="match-header">${info.header || `${rondaNombre} ${i+1}`}</div>
+          <div class="match-teams">
+            <span class="team ${jugado && local === ganador ? 'ganador' : ''}">${local}</span>
+            ${jugado ? `<span class="match-score">${ganador}</span>` : '<span class="vs">vs</span>'}
+            <span class="team ${jugado && away === ganador ? 'ganador' : ''}">${away}</span>
+          </div>
+        </div>
+      `;
+    }
+    
+    html += `</div></div>`;
+    return html;
+  }
+
+  function displayTeam(posCode) {
+    if (!posCode) return 'Por definir';
+    
+    // Caso: mejor tercero (mejor3_1, mejor3_2, ... mejor3_8)
+    if (posCode.startsWith('mejor3_')) {
+      const idx = parseInt(posCode.split('_')[1]) - 1;
+      const terceros = getBestThirdPlaces();
+      if (terceros.length > idx && terceros[idx]) {
+        const eq = terceros[idx].equipo;
+        const grupo = terceros[idx].grupo;
+        if (groupsStats[grupo] && groupsStats[grupo][eq] && groupsStats[grupo][eq].PJ >= 3) {
+          return traducirEquipo(eq);
+        }
+      }
+      return `3º[${posCode.split('_')[1]}]`;
+    }
+    
+    // Caso: código tipo "1A", "2B", "3C" (posición + letra de grupo)
+    const pos = parseInt(posCode[0]);
+    const groupLetter = posCode.substring(1);
+    const groupName = `Grupo ${groupLetter}`;
+    
+    if (!groupsStats[groupName]) {
+      if (pos === 1) return `1º ${groupLetter}`;
+      if (pos === 2) return `2º ${groupLetter}`;
+      if (pos === 3) return `3º ${groupLetter}`;
+      return posCode;
+    }
+    
+    const team = getTeamByPosition(groupName, pos);
+    if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ >= 3) {
+      return traducirEquipo(team);
+    }
+    
+    if (pos === 1) return `1º ${groupLetter}`;
+    if (pos === 2) return `2º ${groupLetter}`;
+    if (pos === 3) return `3º ${groupLetter}`;
+    return posCode;
+  }
 
   function getTeamByPosition(groupId, position) {
     if (!groupsStats[groupId]) return null;
@@ -483,161 +596,63 @@
     return thirds.slice(0,8);
   }
 
-  // Función mejorada que resuelve códigos como "1A", "2B", "3C", "mejor3_1", etc.
-  function displayTeam(posCode) {
-    if (!posCode) return 'Por definir';
-    
-    // Caso: mejor tercero (mejor3_1, mejor3_2, ... mejor3_8)
-    if (posCode.startsWith('mejor3_')) {
-      const idx = parseInt(posCode.split('_')[1]) - 1;
-      const terceros = getBestThirdPlaces();
-      if (terceros.length > idx && terceros[idx]) {
-        const eq = terceros[idx].equipo;
-        const grupo = terceros[idx].grupo;
-        if (groupsStats[grupo] && groupsStats[grupo][eq] && groupsStats[grupo][eq].PJ >= 3) {
-          return traducirEquipo(eq);
-        }
-      }
-      return `3º[${posCode.split('_')[1]}]`;
-    }
-    
-    // Caso: código tipo "1A", "2B", "3C" (posición + letra de grupo)
-    // El primer carácter es la posición (1, 2 o 3), el resto es la letra del grupo
-    const pos = parseInt(posCode[0]);
-    const groupLetter = posCode.substring(1);
-    const groupName = `Grupo ${groupLetter}`;
-    
-    if (!groupsStats[groupName]) {
-      // Si el grupo aún no existe en las estadísticas, mostrar el código formateado
-      if (pos === 1) return `1º ${groupLetter}`;
-      if (pos === 2) return `2º ${groupLetter}`;
-      if (pos === 3) return `3º ${groupLetter}`;
-      return posCode;
-    }
-    
-    const team = getTeamByPosition(groupName, pos);
-    if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ >= 3) {
-      return traducirEquipo(team);
-    }
-    
-    // Si el grupo existe pero no se han jugado 3 partidos, mostrar código
-    if (pos === 1) return `1º ${groupLetter}`;
-    if (pos === 2) return `2º ${groupLetter}`;
-    if (pos === 3) return `3º ${groupLetter}`;
-    return posCode;
-  }
-
-  // Cruces OFICIALES FIFA 2026 para Dieciseisavos de Final
-  // Formato: 12 grupos (A-L), pasan 1º, 2º y 8 mejores terceros = 32 equipos
   function buildRoundOf32() {
     return [
-      // Partido 1: 1º A vs mejor 3º (C/D/E/F)
       { id: 'R32_1', local: '1A', away: 'mejor3_CDEF' },
-      // Partido 2: 2º A vs 2º B
       { id: 'R32_2', local: '2A', away: '2B' },
-      // Partido 3: 1º B vs mejor 3º (A/C/D/E)
       { id: 'R32_3', local: '1B', away: 'mejor3_ACDE' },
-      // Partido 4: 1º C vs mejor 3º (D/E/F)
       { id: 'R32_4', local: '1C', away: 'mejor3_DEF' },
-      // Partido 5: 1º D vs mejor 3º (B/E/F)
       { id: 'R32_5', local: '1D', away: 'mejor3_BEF' },
-      // Partido 6: 1º E vs 2º F
       { id: 'R32_6', local: '1E', away: '2F' },
-      // Partido 7: 1º F vs 2º E
       { id: 'R32_7', local: '1F', away: '2E' },
-      // Partido 8: 1º G vs 2º H
       { id: 'R32_8', local: '1G', away: '2H' },
-      // Partido 9: 1º H vs 2º G
       { id: 'R32_9', local: '1H', away: '2G' },
-      // Partido 10: 1º I vs 2º J
       { id: 'R32_10', local: '1I', away: '2J' },
-      // Partido 11: 1º J vs 2º I
       { id: 'R32_11', local: '1J', away: '2I' },
-      // Partido 12: 1º K vs 2º L
       { id: 'R32_12', local: '1K', away: '2L' },
-      // Partido 13: 1º L vs 2º K
       { id: 'R32_13', local: '1L', away: '2K' },
-      // Partido 14: 2º C vs 2º D
       { id: 'R32_14', local: '2C', away: '2D' },
-      // Partido 15: mejor 3º (A/B/C/D) vs mejor 3º (E/F/G/H)
       { id: 'R32_15', local: 'mejor3_ABCD', away: 'mejor3_EFGH' },
-      // Partido 16: mejor 3º (A/B) vs mejor 3º (G/H)
       { id: 'R32_16', local: 'mejor3_AB', away: 'mejor3_GH' }
     ];
   }
 
-  // Función auxiliar para mostrar códigos de "mejor tercero" de forma legible
-  function displayTeamConMejorTerceros(posCode) {
-    // Manejar los códigos especiales de mejores terceros
-    const codigosEspeciales = {
-      'mejor3_CDEF': '3º (C/D/E/F)',
-      'mejor3_ACDE': '3º (A/C/D/E)',
-      'mejor3_DEF': '3º (D/E/F)',
-      'mejor3_BEF': '3º (B/E/F)',
-      'mejor3_ABCD': '3º (A/B/C/D)',
-      'mejor3_EFGH': '3º (E/F/G/H)',
-      'mejor3_AB': '3º (A/B)',
-      'mejor3_GH': '3º (G/H)'
-    };
-    
-    if (codigosEspeciales[posCode]) {
-      return codigosEspeciales[posCode];
-    }
-    
-    return displayTeam(posCode);
-  }
-
   function renderFaseFinal() {
     const r32 = buildRoundOf32();
-    let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL</h3><div class="cruces">`;
     
-    if (r32.length === 0) {
-        html += "<p>No hay cruces generados aún.</p>";
-    } else {
-        r32.forEach(m => {
-        const localDisplay = displayTeamConMejorTerceros(m.local);
-        const awayDisplay = displayTeamConMejorTerceros(m.away);
-        html += `
-            <div class="match-card">
-            <div class="match-header">Partido ${m.id}</div>
-            <div class="match-teams">
-                <span class="team">${localDisplay}</span>
-                <span class="vs">vs</span>
-                <span class="team">${awayDisplay}</span>
-            </div>
-            </div>
-        `;
-        });
-    }
-    
+    // Renderizar Dieciseisavos (32avos)
+    let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL (32avos)</h3><div class="cruces">`;
+    r32.forEach(m => {
+      html += renderPartidoR32(m, r32.indexOf(m));
+    });
     html += `</div></div>`;
     
-    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces">`;
-    for (let i = 0; i < 8; i++) {
-      html += `<div class="match-card">
-        <div class="match-header">Octavo ${i+1}</div>
-        <div class="match-teams">
-          <span class="team">Ganador R32_${i*2+1}</span>
-          <span class="vs">vs</span>
-          <span class="team">Ganador R32_${i*2+2}</span>
-        </div>
-      </div>`;
-    }
-    html += `</div></div>`;
+    // Renderizar Octavos de Final (16avos) - con ganadores reales de 32avos
+    html += renderRondaPosterior('Octavos de Final', 8, (i) => {
+      const ganador1 = getGanadorR32(`R32_${i*2+1}`);
+      const ganador2 = getGanadorR32(`R32_${i*2+2}`);
+      return {
+        header: `Octavo ${i+1}`,
+        local: ganador1 || `Ganador R32_${i*2+1}`,
+        away: ganador2 || `Ganador R32_${i*2+2}`,
+        ganador: null // En octavos aún no hay ganador
+      };
+    });
     
-    html += `<div class="ronda"><h3> CUARTOS DE FINAL</h3><div class="cruces">`;
-    for (let i = 0; i < 4; i++) {
-      html += `<div class="match-card">
-        <div class="match-header">Cuarto ${i+1}</div>
-        <div class="match-teams">
-          <span class="team">Ganador Oct. ${i*2+1}</span>
-          <span class="vs">vs</span>
-          <span class="team">Ganador Oct. ${i*2+2}</span>
-        </div>
-      </div>`;
-    }
-    html += `</div></div>`;
+    // Renderizar Cuartos de Final
+    html += renderRondaPosterior('Cuartos de Final', 4, (i) => {
+      const ganador1 = getGanadorR32(`R32_${i*4+1}`);
+      const ganador2 = getGanadorR32(`R32_${i*4+2}`);
+      // Nota: Esto es simplificado. En realidad necesitaríamos saber los ganadores de octavos
+      return {
+        header: `Cuarto ${i+1}`,
+        local: `Ganador Oct. ${i*2+1}`,
+        away: `Ganador Oct. ${i*2+2}`,
+        ganador: null
+      };
+    });
     
+    // Renderizar Semifinales
     html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces">
       <div class="match-card">
         <div class="match-header">Semifinal 1</div>
@@ -657,6 +672,7 @@
       </div>
     </div></div>`;
     
+    // Renderizar Tercer Puesto
     html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces">
       <div class="match-card">
         <div class="match-header">3er Puesto</div>
@@ -668,7 +684,8 @@
       </div>
     </div></div>`;
     
-    html += `<div class="ronda"><h3> FINAL</h3><div class="cruces">
+    // Renderizar Final
+    html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces">
       <div class="match-card">
         <div class="match-header">🏆 GRAN FINAL · 19 julio 2026</div>
         <div class="match-teams">
