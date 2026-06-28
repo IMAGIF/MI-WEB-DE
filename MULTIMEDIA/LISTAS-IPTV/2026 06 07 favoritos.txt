@@ -773,9 +773,7 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
-
 #EXTINF:0 type="stream" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
 https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
-
 #EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
 https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
