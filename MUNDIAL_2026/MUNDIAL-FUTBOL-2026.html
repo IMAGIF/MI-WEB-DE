@@ -94,7 +94,7 @@
       color: white; 
       padding: 4px 10px; 
       border-radius: 20px; 
-      font-size: 0.85rem; 
+      font-size: 0.75rem; 
       font-weight: bold;
     }
     .match-card.jugado .match-score {
@@ -199,10 +199,10 @@
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
-    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento FIFA 2026 (48 equipos → 32 en eliminatoria)</div>
+    <div class="subtitulo"> Cuadro eliminatorio según reglamento FIFA 2026 (48 equipos → 32 en eliminatoria)</div>
     <div class="info-cruce">
       ℹ️ <strong>Formato 2026:</strong> Los 12 primeros de grupo + 12 segundos + 8 mejores terceros = 32 equipos en Dieciseisavos. 
-      Los nombres de los equipos aparecerán cuando se completen los grupos.
+      Los nombres de los equipos aparecerán cuando se completen los grupos. Los ganadores de cada partido se muestran automáticamente.
     </div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
@@ -219,6 +219,7 @@
   let matchesAll = [];
   let groupsStructure = {};   
   let groupsStats = {};       
+  let knockoutMatches = {};   // NUEVO: partidos de eliminatoria organizados por ronda
 
   const gruposContainer = document.getElementById('gruposContainer');
   const fechasFiltro = document.getElementById('fechasFiltro');
@@ -322,6 +323,7 @@
       matchesAll = data.matches;
       buildGroupsStructure();
       updateStats();
+      buildKnockoutStructure(); // NUEVO: construir estructura de eliminatoria
       renderClasificacion();
       renderCalendario();
       renderFaseFinal();
@@ -349,6 +351,88 @@
     
     for (let grp in groupsStructure) {
       groupsStructure[grp].equipos = Array.from(groupsStructure[grp].equipos).sort();
+    }
+  }
+
+  // NUEVA FUNCIÓN: Identificar y organizar partidos de eliminatoria
+  function buildKnockoutStructure() {
+    knockoutMatches = {
+      'Round of 32': [],
+      'Round of 16': [],
+      'Quarter-finals': [],
+      'Semi-finals': [],
+      'Third place': [],
+      'Final': []
+    };
+
+    // Mapeo de nombres de ronda posibles en el JSON
+    const roundMap = {
+      'round of 32': 'Round of 32',
+      'round-of-32': 'Round of 32',
+      'r32': 'Round of 32',
+      '1/16': 'Round of 32',
+      'dieciseisavos': 'Round of 32',
+      'round of 16': 'Round of 16',
+      'round-of-16': 'Round of 16',
+      'r16': 'Round of 16',
+      '1/8': 'Round of 16',
+      'octavos': 'Round of 16',
+      'quarter-finals': 'Quarter-finals',
+      'quarterfinals': 'Quarter-finals',
+      'quarter finals': 'Quarter-finals',
+      'qf': 'Quarter-finals',
+      '1/4': 'Quarter-finals',
+      'cuartos': 'Quarter-finals',
+      'semi-finals': 'Semi-finals',
+      'semifinals': 'Semi-finals',
+      'semi finals': 'Semi-finals',
+      'sf': 'Semi-finals',
+      '1/2': 'Semi-finals',
+      'semifinal': 'Semi-finals',
+      'semis': 'Semi-finals',
+      'third place': 'Third place',
+      'third-place': 'Third place',
+      '3rd place': 'Third place',
+      'tercer puesto': 'Third place',
+      'final': 'Final'
+    };
+
+    matchesAll.forEach(match => {
+      // Un partido es de eliminatoria si NO tiene grupo definido
+      if (match.group) return;
+      
+      const roundRaw = (match.round || '').toLowerCase().trim();
+      let roundKey = null;
+      
+      // Buscar coincidencia en el mapeo
+      for (let key in roundMap) {
+        if (roundRaw.includes(key)) {
+          roundKey = roundMap[key];
+          break;
+        }
+      }
+      
+      // Si no se encuentra la ronda, intentar detectar por contexto
+      if (!roundKey) {
+        if (roundRaw.includes('32') || roundRaw.includes('dieciseisavos')) roundKey = 'Round of 32';
+        else if (roundRaw.includes('16') || roundRaw.includes('octavos')) roundKey = 'Round of 16';
+        else if (roundRaw.includes('quarter') || roundRaw.includes('cuartos')) roundKey = 'Quarter-finals';
+        else if (roundRaw.includes('semi') || roundRaw.includes('semifinal')) roundKey = 'Semi-finals';
+        else if (roundRaw.includes('third') || roundRaw.includes('tercer')) roundKey = 'Third place';
+        else if (roundRaw.includes('final')) roundKey = 'Final';
+      }
+      
+      if (roundKey) {
+        knockoutMatches[roundKey].push(match);
+      }
+    });
+
+    // Ordenar cada ronda por fecha
+    for (let round in knockoutMatches) {
+      knockoutMatches[round].sort((a, b) => {
+        if (a.date && b.date) return a.date.localeCompare(b.date);
+        return 0;
+      });
     }
   }
 
@@ -459,82 +543,52 @@
       let score = '-';
       if (m.score && m.score.ft) score = `${m.score.ft[0]} - ${m.score.ft[1]}`;
       let time = m.time ? convertToMadridTime(m.time) : '';
-      let round = m.round || (m.group ? `Grupo ${m.group}` : 'Amistoso/Otro');
+      let round = m.round || (m.group ? `Grupo ${m.group}` : 'Eliminatoria');
       
       html += `<div class="partido-item">
         <div class="partido-hora">📅 ${date} ${time ? `- ${time}h` : ''}</div>
         <div class="equipos"><strong>${traducirEquipo(m.team1)}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${traducirEquipo(m.team2)}</strong></div>
-        <div class="tv-channel">🏆 ${round}</div>
+        <div class="tv-channel"> ${round}</div>
       </div>`;
     });
     partidosContainer.innerHTML = html;
   }
 
-  // ========== NUEVAS FUNCIONES PARA FASE FINAL CON RESULTADOS REALES ==========
+  // ========== FUNCIONES PARA FASE FINAL CON RESULTADOS REALES ==========
 
-  // Obtener ganador de un partido de 32avos por su ID
-  function getGanadorR32(partidoId) {
-    const partido = matchesAll.find(m => m.round === partidoId || m.id === partidoId);
+  // Obtener ganador de un partido específico
+  function getGanador(partido) {
     if (!partido || !partido.score || !partido.score.ft) return null;
-    
     const g1 = partido.score.ft[0];
     const g2 = partido.score.ft[1];
-    
     if (g1 > g2) return traducirEquipo(partido.team1);
     if (g2 > g1) return traducirEquipo(partido.team2);
-    return null; // Empate (podría haber prórroga/penaltis)
+    return null; // Empate (podría haber prórroga/penaltis no reflejados)
   }
 
-  // Renderizar partido de 32avos con resultado si existe
-  function renderPartidoR32(matchData, index) {
-    const ganador = getGanadorR32(matchData.id);
-    const local = displayTeam(matchData.local);
-    const away = displayTeam(matchData.away);
+  // Renderizar un partido de eliminatoria con resultado si existe
+  function renderPartidoEliminatoria(partido, header, index) {
+    const ganador = getGanador(partido);
+    const local = traducirEquipo(partido.team1);
+    const away = traducirEquipo(partido.team2);
     const jugado = ganador !== null;
+    const score = partido.score && partido.score.ft ? `${partido.score.ft[0]}-${partido.score.ft[1]}` : '';
     
     return `
       <div class="match-card ${jugado ? 'jugado' : ''}">
-        <div class="match-header">Partido ${matchData.id}</div>
+        <div class="match-header">${header}</div>
         <div class="match-teams">
           <span class="team ${jugado && local === ganador ? 'ganador' : ''}">${local}</span>
-          ${jugado ? `<span class="match-score">${ganador}</span>` : '<span class="vs">vs</span>'}
+          ${jugado ? `<span class="match-score">${score} → ${ganador}</span>` : '<span class="vs">vs</span>'}
           <span class="team ${jugado && away === ganador ? 'ganador' : ''}">${away}</span>
         </div>
       </div>
     `;
   }
 
-  // Renderizar rondas posteriores (Octavos, Cuartos, etc.) con ganadores reales
-  function renderRondaPosterior(rondaNombre, numPartidos, getPartidoInfo) {
-    let html = `<div class="ronda"><h3>🏆 ${rondaNombre.toUpperCase()}</h3><div class="cruces">`;
-    
-    for (let i = 0; i < numPartidos; i++) {
-      const info = getPartidoInfo(i);
-      const ganador = info.ganador || null;
-      const local = info.local;
-      const away = info.away;
-      const jugado = ganador !== null;
-      
-      html += `
-        <div class="match-card ${jugado ? 'jugado' : ''}">
-          <div class="match-header">${info.header || `${rondaNombre} ${i+1}`}</div>
-          <div class="match-teams">
-            <span class="team ${jugado && local === ganador ? 'ganador' : ''}">${local}</span>
-            ${jugado ? `<span class="match-score">${ganador}</span>` : '<span class="vs">vs</span>'}
-            <span class="team ${jugado && away === ganador ? 'ganador' : ''}">${away}</span>
-          </div>
-        </div>
-      `;
-    }
-    
-    html += `</div></div>`;
-    return html;
-  }
-
   function displayTeam(posCode) {
     if (!posCode) return 'Por definir';
     
-    // Caso: mejor tercero (mejor3_1, mejor3_2, ... mejor3_8)
     if (posCode.startsWith('mejor3_')) {
       const idx = parseInt(posCode.split('_')[1]) - 1;
       const terceros = getBestThirdPlaces();
@@ -548,7 +602,6 @@
       return `3º[${posCode.split('_')[1]}]`;
     }
     
-    // Caso: código tipo "1A", "2B", "3C" (posición + letra de grupo)
     const pos = parseInt(posCode[0]);
     const groupLetter = posCode.substring(1);
     const groupName = `Grupo ${groupLetter}`;
@@ -618,83 +671,163 @@
   }
 
   function renderFaseFinal() {
-    const r32 = buildRoundOf32();
+    const r32Cruces = buildRoundOf32();
+    const partidosR32 = knockoutMatches['Round of 32'] || [];
     
-    // Renderizar Dieciseisavos (32avos)
-    let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL (32avos)</h3><div class="cruces">`;
-    r32.forEach(m => {
-      html += renderPartidoR32(m, r32.indexOf(m));
-    });
+    let html = '';
+    
+    // ===== DIECISEISAVOS (32avos) =====
+    html += `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL (32avos)</h3><div class="cruces">`;
+    
+    if (partidosR32.length > 0) {
+      // Si hay partidos reales de 32avos en el JSON, mostrarlos con resultados
+      partidosR32.forEach((partido, i) => {
+        html += renderPartidoEliminatoria(partido, `Partido ${i+1}`, i);
+      });
+    } else {
+      // Si no hay partidos reales aún, mostrar los cruces teóricos
+      r32Cruces.forEach(m => {
+        const local = displayTeam(m.local);
+        const away = displayTeam(m.away);
+        html += `
+          <div class="match-card">
+            <div class="match-header">Partido ${m.id}</div>
+            <div class="match-teams">
+              <span class="team">${local}</span>
+              <span class="vs">vs</span>
+              <span class="team">${away}</span>
+            </div>
+          </div>
+        `;
+      });
+    }
     html += `</div></div>`;
     
-    // Renderizar Octavos de Final (16avos) - con ganadores reales de 32avos
-    html += renderRondaPosterior('Octavos de Final', 8, (i) => {
-      const ganador1 = getGanadorR32(`R32_${i*2+1}`);
-      const ganador2 = getGanadorR32(`R32_${i*2+2}`);
-      return {
-        header: `Octavo ${i+1}`,
-        local: ganador1 || `Ganador R32_${i*2+1}`,
-        away: ganador2 || `Ganador R32_${i*2+2}`,
-        ganador: null // En octavos aún no hay ganador
-      };
-    });
+    // ===== OCTAVOS DE FINAL (16avos) =====
+    const partidosR16 = knockoutMatches['Round of 16'] || [];
+    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL (16avos)</h3><div class="cruces">`;
     
-    // Renderizar Cuartos de Final
-    html += renderRondaPosterior('Cuartos de Final', 4, (i) => {
-      const ganador1 = getGanadorR32(`R32_${i*4+1}`);
-      const ganador2 = getGanadorR32(`R32_${i*4+2}`);
-      // Nota: Esto es simplificado. En realidad necesitaríamos saber los ganadores de octavos
-      return {
-        header: `Cuarto ${i+1}`,
-        local: `Ganador Oct. ${i*2+1}`,
-        away: `Ganador Oct. ${i*2+2}`,
-        ganador: null
-      };
-    });
+    if (partidosR16.length > 0) {
+      partidosR16.forEach((partido, i) => {
+        html += renderPartidoEliminatoria(partido, `Octavo ${i+1}`, i);
+      });
+    } else {
+      for (let i = 0; i < 8; i++) {
+        // Intentar mostrar ganadores de 32avos si existen
+        const ganador1 = partidosR32[i*2] ? getGanador(partidosR32[i*2]) : null;
+        const ganador2 = partidosR32[i*2+1] ? getGanador(partidosR32[i*2+1]) : null;
+        
+        html += `
+          <div class="match-card">
+            <div class="match-header">Octavo ${i+1}</div>
+            <div class="match-teams">
+              <span class="team">${ganador1 || `Ganador 32avos ${i*2+1}`}</span>
+              <span class="vs">vs</span>
+              <span class="team">${ganador2 || `Ganador 32avos ${i*2+2}`}</span>
+            </div>
+          </div>
+        `;
+      }
+    }
+    html += `</div></div>`;
     
-    // Renderizar Semifinales
-    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces">
-      <div class="match-card">
-        <div class="match-header">Semifinal 1</div>
-        <div class="match-teams">
-          <span class="team">Ganador Cto. 1</span>
-          <span class="vs">vs</span>
-          <span class="team">Ganador Cto. 2</span>
-        </div>
-      </div>
-      <div class="match-card">
-        <div class="match-header">Semifinal 2</div>
-        <div class="match-teams">
-          <span class="team">Ganador Cto. 3</span>
-          <span class="vs">vs</span>
-          <span class="team">Ganador Cto. 4</span>
-        </div>
-      </div>
-    </div></div>`;
+    // ===== CUARTOS DE FINAL =====
+    const partidosQF = knockoutMatches['Quarter-finals'] || [];
+    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">`;
     
-    // Renderizar Tercer Puesto
-    html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces">
-      <div class="match-card">
-        <div class="match-header">3er Puesto</div>
-        <div class="match-teams">
-          <span class="team">Perdedor Semi 1</span>
-          <span class="vs">vs</span>
-          <span class="team">Perdedor Semi 2</span>
-        </div>
-      </div>
-    </div></div>`;
+    if (partidosQF.length > 0) {
+      partidosQF.forEach((partido, i) => {
+        html += renderPartidoEliminatoria(partido, `Cuarto ${i+1}`, i);
+      });
+    } else {
+      for (let i = 0; i < 4; i++) {
+        html += `
+          <div class="match-card">
+            <div class="match-header">Cuarto ${i+1}</div>
+            <div class="match-teams">
+              <span class="team">Ganador Oct. ${i*2+1}</span>
+              <span class="vs">vs</span>
+              <span class="team">Ganador Oct. ${i*2+2}</span>
+            </div>
+          </div>
+        `;
+      }
+    }
+    html += `</div></div>`;
     
-    // Renderizar Final
-    html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces">
-      <div class="match-card">
-        <div class="match-header">🏆 GRAN FINAL · 19 julio 2026</div>
-        <div class="match-teams">
-          <span class="team">Ganador Semi 1</span>
-          <span class="vs">vs</span>
-          <span class="team">Ganador Semi 2</span>
+    // ===== SEMIFINALES =====
+    const partidosSF = knockoutMatches['Semi-finals'] || [];
+    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces">`;
+    
+    if (partidosSF.length > 0) {
+      partidosSF.forEach((partido, i) => {
+        html += renderPartidoEliminatoria(partido, `Semifinal ${i+1}`, i);
+      });
+    } else {
+      html += `
+        <div class="match-card">
+          <div class="match-header">Semifinal 1</div>
+          <div class="match-teams">
+            <span class="team">Ganador Cto. 1</span>
+            <span class="vs">vs</span>
+            <span class="team">Ganador Cto. 2</span>
+          </div>
         </div>
-      </div>
-    </div></div>`;
+        <div class="match-card">
+          <div class="match-header">Semifinal 2</div>
+          <div class="match-teams">
+            <span class="team">Ganador Cto. 3</span>
+            <span class="vs">vs</span>
+            <span class="team">Ganador Cto. 4</span>
+          </div>
+        </div>
+      `;
+    }
+    html += `</div></div>`;
+    
+    // ===== TERCER PUESTO =====
+    const partidosTP = knockoutMatches['Third place'] || [];
+    html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces">`;
+    
+    if (partidosTP.length > 0) {
+      partidosTP.forEach((partido, i) => {
+        html += renderPartidoEliminatoria(partido, '3er Puesto', i);
+      });
+    } else {
+      html += `
+        <div class="match-card">
+          <div class="match-header">3er Puesto</div>
+          <div class="match-teams">
+            <span class="team">Perdedor Semi 1</span>
+            <span class="vs">vs</span>
+            <span class="team">Perdedor Semi 2</span>
+          </div>
+        </div>
+      `;
+    }
+    html += `</div></div>`;
+    
+    // ===== FINAL =====
+    const partidosFinal = knockoutMatches['Final'] || [];
+    html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces">`;
+    
+    if (partidosFinal.length > 0) {
+      partidosFinal.forEach((partido, i) => {
+        html += renderPartidoEliminatoria(partido, '🏆 GRAN FINAL · 19 julio 2026', i);
+      });
+    } else {
+      html += `
+        <div class="match-card">
+          <div class="match-header">🏆 GRAN FINAL · 19 julio 2026</div>
+          <div class="match-teams">
+            <span class="team">Ganador Semi 1</span>
+            <span class="vs">vs</span>
+            <span class="team">Ganador Semi 2</span>
+          </div>
+        </div>
+      `;
+    }
+    html += `</div></div>`;
     
     bracketsContainer.innerHTML = html;
   }
