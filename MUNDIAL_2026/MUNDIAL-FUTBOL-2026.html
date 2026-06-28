@@ -111,7 +111,7 @@
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
-    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento (notación de posiciones hasta que grupos se definan)</div>
+    <div class="subtitulo">🏆 Cuadro eliminatorio · se actualiza automáticamente según los resultados del calendario</div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
 </main>
@@ -142,7 +142,10 @@
     'Czech Republic': 'República Checa', 'Scotland': 'Escocia', 'Wales': 'Gales', 'Ireland': 'Irlanda', 'Iceland': 'Islandia', 'Norway': 'Noruega',
     'Finland': 'Finlandia', 'Greece': 'Grecia', 'Turkey': 'Turquía', 'Serbia': 'Serbia', 'Bosnia and Herzegovina': 'Bosnia y Herzegovina',
     'Ukraine': 'Ucrania', 'Russia': 'Rusia', 'China': 'China', 'India': 'India', 'New Zealand': 'Nueva Zelanda', 'South Africa': 'Sudáfrica',
-    'Tunisia': 'Túnez', 'Algeria': 'Argelia'
+    'Tunisia': 'Túnez', 'Algeria': 'Argelia', 'United States': 'Estados Unidos', 'USA': 'Estados Unidos',
+    'Bosnia and Herzegovina': 'Bosnia y Herzegovina', 'Bosnia & Herzegovina': 'Bosnia y Herzegovina',
+    'Ivory Coast': 'Costa de Marfil', 'DR Congo': 'RD Congo', 'Cape Verde': 'Cabo Verde',
+    'Curaçao': 'Curazao', 'Haiti': 'Haití', 'Iraq': 'Irak', 'Jordan': 'Jordania', 'Uzbekistan': 'Uzbekistán'
   };
 
   function traducirEquipo(nombre) {
@@ -336,75 +339,82 @@
     partidosContainer.innerHTML = html;
   }
 
-  function getTeamByPosition(groupId, position) {
-    if (!groupsStats[groupId]) return null;
-    const teams = Object.keys(groupsStats[groupId]);
-    return teams.length >= position ? teams[position-1] : null;
+  // El JSON de openfootball ya incluye los partidos reales de la fase final (con su número de
+  // partido "num") y usa códigos "W<num>" / "L<num>" (Winner/Loser del partido <num>) en los
+  // campos team1/team2 mientras ese cruce todavía no está resuelto. Por eso la fase final se
+  // construye leyendo directamente esos partidos en lugar de generar un cuadro ficticio.
+  const RONDAS_ELIMINATORIA = [
+    { key: 'Round of 32', titulo: 'DIECISEISAVOS DE FINAL' },
+    { key: 'Round of 16', titulo: 'OCTAVOS DE FINAL' },
+    { key: 'Quarter-final', titulo: 'CUARTOS DE FINAL' },
+    { key: 'Semi-final', titulo: 'SEMIFINALES' },
+    { key: 'Match for third place', titulo: 'TERCER PUESTO' },
+    { key: 'Final', titulo: 'FINAL' }
+  ];
+
+  function getMatchResult(match) {
+    // Devuelve {ganador, perdedor} si el partido ya tiene resultado (incluye penaltis si los hay), o null si no.
+    if (!match || !match.score || !match.score.ft) return null;
+    const [g1, g2] = match.score.ft;
+    if (g1 > g2) return { ganador: match.team1, perdedor: match.team2 };
+    if (g2 > g1) return { ganador: match.team2, perdedor: match.team1 };
+    const pens = match.score.p || match.score.pens || match.score.penalties;
+    if (pens && pens.length === 2) {
+      return pens[0] > pens[1]
+        ? { ganador: match.team1, perdedor: match.team2 }
+        : { ganador: match.team2, perdedor: match.team1 };
+    }
+    return null; // empate sin tanda de penaltis registrada aún
   }
 
-  function getBestThirdPlaces() {
-    let thirds = [];
-    for (let grp in groupsStats) {
-      const teams = Object.keys(groupsStats[grp]);
-      if (teams.length >= 3) {
-        const third = teams[2];
-        const stats = groupsStats[grp][third];
-        thirds.push({ grupo: grp, equipo: third, pts: stats.Pts, dg: stats.DG, gf: stats.GF });
-      }
+  function resolveTeamName(code, matchesByNum) {
+    if (!code) return '?';
+    const m = code.match(/^([WL])(\d+)$/);
+    if (!m) return traducirEquipo(code);
+    const [, tipo, numStr] = m;
+    const num = parseInt(numStr, 10);
+    const refMatch = matchesByNum[num];
+    const resultado = getMatchResult(refMatch);
+    if (resultado) {
+      const equipo = tipo === 'W' ? resultado.ganador : resultado.perdedor;
+      return traducirEquipo(equipo);
     }
-    thirds.sort((a,b) => b.pts - a.pts || b.dg - a.dg || b.gf - a.gf);
-    return thirds.slice(0,8);
-  }
-
-  function displayTeam(posCode) {
-    if (posCode.startsWith('mejor3_')) {
-      const idx = parseInt(posCode.split('_')[1]) - 1;
-      const terceros = getBestThirdPlaces();
-      if (terceros.length > idx && terceros[idx]) {
-        const eq = terceros[idx].equipo;
-        const grupo = terceros[idx].grupo;
-        if (groupsStats[grupo] && groupsStats[grupo][eq] && groupsStats[grupo][eq].PJ === 3) {
-          return traducirEquipo(eq);
-        }
-      }
-      return posCode;
-    }
-    const pos = parseInt(posCode[0]);
-    const groupLetter = posCode.substring(1);
-    const groupName = `Grupo ${groupLetter}`;
-    if (!groupsStats[groupName]) return posCode;
-    const team = getTeamByPosition(groupName, pos);
-    if (team && groupsStats[groupName][team] && groupsStats[groupName][team].PJ === 3) {
-      return traducirEquipo(team);
-    }
-    return posCode;
-  }
-
-  function buildRoundOf32() {
-    let matches = [];
-    for(let i=0; i<16; i++) matches.push({ id: `R32_${i+1}`, local: '1º?', away: '2º?' });
-    return matches;
+    return tipo === 'W' ? `Ganador (Partido ${num})` : `Perdedor (Partido ${num})`;
   }
 
   function renderFaseFinal() {
-    const r32 = buildRoundOf32();
-    let html = `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL</h3><div class="cruces">`;
-    if (r32.length === 0) html += "<p>No hay cruces generados aún.</p>";
-    else r32.forEach(m => {
-      const localDisplay = displayTeam(m.local);
-      const awayDisplay = displayTeam(m.away);
-      html += `<div class="match-card"><div class="match-header">Partido ${m.id}</div><div class="match-teams"><span class="team">${localDisplay}</span><span class="vs">vs</span><span class="team">${awayDisplay}</span></div></div>`;
+    if (!matchesAll.length) {
+      bracketsContainer.innerHTML = '<div class="loading">Cargando fase final...</div>';
+      return;
+    }
+    const matchesByNum = {};
+    matchesAll.forEach(m => { if (m.num != null) matchesByNum[m.num] = m; });
+
+    const rondasConPartidos = RONDAS_ELIMINATORIA
+      .map(r => ({ ...r, partidos: matchesAll.filter(m => m.round === r.key).sort((a, b) => (a.num || 0) - (b.num || 0)) }))
+      .filter(r => r.partidos.length > 0);
+
+    if (!rondasConPartidos.length) {
+      bracketsContainer.innerHTML = '<div class="loading">La fase final todavía no está disponible en los datos.</div>';
+      return;
+    }
+
+    let html = '';
+    rondasConPartidos.forEach(ronda => {
+      html += `<div class="ronda"><h3>🏆 ${ronda.titulo}</h3><div class="cruces">`;
+      ronda.partidos.forEach(m => {
+        const local = resolveTeamName(m.team1, matchesByNum);
+        const visitante = resolveTeamName(m.team2, matchesByNum);
+        let score = null;
+        if (m.score && m.score.ft) score = `${m.score.ft[0]} - ${m.score.ft[1]}`;
+        const fecha = (m.date && m.time) ? formatMadridDateTime(m.date, m.time) : '';
+        html += `<div class="match-card">
+          <div class="match-header">${fecha}</div>
+          <div class="match-teams"><span class="team">${local}</span><span class="vs">${score ? score : 'vs'}</span><span class="team">${visitante}</span></div>
+        </div>`;
+      });
+      html += `</div></div>`;
     });
-    html += `</div></div>`;
-    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL</h3><div class="cruces">`;
-    for (let i = 0; i < 8; i++) html += `<div class="match-card">Ganador R32_${i*2+1} vs Ganador R32_${i*2+2}</div>`;
-    html += `</div></div>`;
-    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">`;
-    for (let i = 0; i < 4; i++) html += `<div class="match-card">Ganador Octavos ${i+1} vs Ganador Octavos ${i+2}</div>`;
-    html += `</div></div>`;
-    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces"><div class="match-card">Ganador Cuartos 1 vs Ganador Cuartos 2</div><div class="match-card">Ganador Cuartos 3 vs Ganador Cuartos 4</div></div></div>`;
-    html += `<div class="ronda"><h3>🏆 TERCER PUESTO</h3><div class="cruces"><div class="match-card">Perdedor Semifinal 1 vs Perdedor Semifinal 2</div></div></div>`;
-    html += `<div class="ronda"><h3>🏆 FINAL</h3><div class="cruces"><div class="match-card">Ganador Semifinal 1 vs Ganador Semifinal 2</div></div></div>`;
     bracketsContainer.innerHTML = html;
   }
 
