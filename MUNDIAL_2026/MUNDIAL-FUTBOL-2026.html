@@ -130,7 +130,7 @@
 <header>
   <h1>🏆 MUNDIAL FIFA 2026 🏆</h1>
   <p>Canadá · México · Estados Unidos | 11 junio – 19 julio | Horarios en ESPAÑA (CEST, UTC+2)</p>
-  <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/"> INICIO</a>
+  <a class="home-btn" href="https://imagif.github.io/MI-WEB-DE/">🏠 INICIO</a>
 </header>
 
 <main>
@@ -165,7 +165,7 @@
     <ul>
       <li><strong>Clasificación de los 12 grupos</strong> del Mundial 2026, con puntos, goles a favor, goles en contra, diferencia de goles y estadísticas actualizadas automáticamente tras cada jornada.</li>
       <li><strong>Calendario completo de partidos</strong> filtrado por fecha, con horarios y resultados en vivo cuando los encuentros estén en juego.</li>
-      <li><strong>Cuadro eliminatorio de la fase final</strong>, desde los dieciseisavos de final hasta la gran final del 19 de julio, con el reglamento oficial de la FIFA para 48 equipos.</li>
+      <li><strong>Cuadro eliminatorio de la fase final</strong>, desde los 32avos de final hasta la gran final del 19 de julio, con el reglamento oficial de la FIFA para 48 equipos.</li>
     </ul>
     <p>
       Los datos se obtienen de fuentes abiertas y se <strong>actualizan de forma automática 
@@ -184,7 +184,7 @@
   <div class="tabs">
     <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
-    <button class="tab-btn" data-tab="eliminatoria"> FASE FINAL</button>
+    <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
@@ -199,10 +199,10 @@
   </div>
 
   <div id="eliminatoria" class="tab-contenido">
-    <div class="subtitulo">🏆 Cuadro eliminatorio según reglamento FIFA 2026 (48 equipos → 32 en eliminatoria)</div>
+    <div class="subtitulo"> Cuadro eliminatorio completo · 32avos → Octavos → Cuartos → Semis → Final</div>
     <div class="info-cruce">
-      ℹ️ <strong>Formato 2026:</strong> Los 12 primeros de grupo + 12 segundos + 8 mejores terceros = 32 equipos en Dieciseisavos. 
-      Los nombres de los equipos aparecerán cuando se completen los grupos. Los ganadores de cada partido se muestran automáticamente.
+      ℹ️ <strong>Formato 2026:</strong> 48 equipos en fase de grupos → 32 equipos en eliminatoria (12 primeros + 12 segundos + 8 mejores terceros). 
+      Los ganadores de cada partido avanzan automáticamente a la siguiente ronda.
     </div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
@@ -354,7 +354,6 @@
     }
   }
 
-  // FUNCIÓN CORREGIDA: Detecta partidos de eliminatoria por el campo 'round'
   function buildKnockoutStructure() {
     knockoutMatches = {
       'Round of 32': [],
@@ -397,8 +396,6 @@
     };
 
     matchesAll.forEach(match => {
-      // CAMBIO CLAVE: Ya NO filtramos por ausencia de group
-      // Identificamos por el campo 'round'
       const roundRaw = (match.round || '').toLowerCase().trim();
       let roundKey = null;
       
@@ -409,7 +406,6 @@
         }
       }
       
-      // Detección adicional por contexto
       if (!roundKey) {
         if (roundRaw.includes('32') || roundRaw.includes('dieciseisavos')) roundKey = 'Round of 32';
         else if (roundRaw.includes('16') || roundRaw.includes('octavos')) roundKey = 'Round of 16';
@@ -424,20 +420,10 @@
       }
     });
 
-    // Ordenar cada ronda por fecha
     for (let round in knockoutMatches) {
       knockoutMatches[round].sort((a, b) => {
         if (a.date && b.date) return a.date.localeCompare(b.date);
         return 0;
-      });
-    }
-    
-    // Debug en consola para verificar
-    console.log('Partidos de eliminatoria detectados:');
-    for (let round in knockoutMatches) {
-      console.log(`  ${round}: ${knockoutMatches[round].length} partidos`);
-      knockoutMatches[round].forEach((p, i) => {
-        console.log(`    [${i}] ${p.team1} vs ${p.team2} - ${p.date} - round: "${p.round}" - group: "${p.group}"`);
       });
     }
   }
@@ -590,6 +576,21 @@
     `;
   }
 
+  function renderPartidoTeorico(local, away, header, ganadorLocal, ganadorAway) {
+    const jugado = ganadorLocal !== null || ganadorAway !== null;
+    
+    return `
+      <div class="match-card ${jugado ? 'jugado' : ''}">
+        <div class="match-header">${header}</div>
+        <div class="match-teams">
+          <span class="team ${jugado && local === ganadorLocal ? 'ganador' : ''}">${local}</span>
+          ${jugado ? '<span class="match-score">✓</span>' : '<span class="vs">vs</span>'}
+          <span class="team ${jugado && away === ganadorAway ? 'ganador' : ''}">${away}</span>
+        </div>
+      </div>
+    `;
+  }
+
   function displayTeam(posCode) {
     if (!posCode) return 'Por definir';
     
@@ -685,8 +686,8 @@
     
     let html = '';
     
-    // ===== DIECISEISAVOS (32avos) =====
-    html += `<div class="ronda"><h3>🏆 DIECISEISAVOS DE FINAL (32avos)</h3><div class="cruces">`;
+    // ===== 32avos DE FINAL =====
+    html += `<div class="ronda"><h3>🏆 32avos DE FINAL (16 partidos)</h3><div class="cruces">`;
     
     if (partidosR32.length > 0) {
       partidosR32.forEach((partido, i) => {
@@ -711,33 +712,41 @@
     html += `</div></div>`;
     
     // ===== OCTAVOS DE FINAL (16avos) =====
-    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL (16avos)</h3><div class="cruces">`;
+    html += `<div class="ronda"><h3>🏆 OCTAVOS DE FINAL (8 partidos)</h3><div class="cruces">`;
     
     if (partidosR16.length > 0) {
       partidosR16.forEach((partido, i) => {
         html += renderPartidoEliminatoria(partido, `Octavo ${i+1}`, i);
       });
     } else {
+      // Mostrar cruces teóricos con ganadores de 32avos si existen
       for (let i = 0; i < 8; i++) {
-        const ganador1 = partidosR32[i*2] ? getGanador(partidosR32[i*2]) : null;
-        const ganador2 = partidosR32[i*2+1] ? getGanador(partidosR32[i*2+1]) : null;
+        let local, away;
+        let ganadorLocal = null, ganadorAway = null;
         
-        html += `
-          <div class="match-card">
-            <div class="match-header">Octavo ${i+1}</div>
-            <div class="match-teams">
-              <span class="team">${ganador1 || `Ganador 32avos ${i*2+1}`}</span>
-              <span class="vs">vs</span>
-              <span class="team">${ganador2 || `Ganador 32avos ${i*2+2}`}</span>
-            </div>
-          </div>
-        `;
+        if (partidosR32.length > 0) {
+          // Si hay partidos reales de 32avos, usar sus ganadores
+          const partido1 = partidosR32[i*2];
+          const partido2 = partidosR32[i*2+1];
+          local = partido1 ? `${traducirEquipo(partido1.team1)} vs ${traducirEquipo(partido1.team2)}` : `Ganador 32avos ${i*2+1}`;
+          away = partido2 ? `${traducirEquipo(partido2.team1)} vs ${traducirEquipo(partido2.team2)}` : `Ganador 32avos ${i*2+2}`;
+          ganadorLocal = partido1 ? getGanador(partido1) : null;
+          ganadorAway = partido2 ? getGanador(partido2) : null;
+        } else {
+          // Si no hay partidos reales, usar cruces teóricos
+          const cruce1 = r32Cruces[i*2];
+          const cruce2 = r32Cruces[i*2+1];
+          local = displayTeam(cruce1.local);
+          away = displayTeam(cruce2.local);
+        }
+        
+        html += renderPartidoTeorico(local, away, `Octavo ${i+1}`, ganadorLocal, ganadorAway);
       }
     }
     html += `</div></div>`;
     
     // ===== CUARTOS DE FINAL =====
-    html += `<div class="ronda"><h3>🏆 CUARTOS DE FINAL</h3><div class="cruces">`;
+    html += `<div class="ronda"><h3> CUARTOS DE FINAL (4 partidos)</h3><div class="cruces">`;
     
     if (partidosQF.length > 0) {
       partidosQF.forEach((partido, i) => {
@@ -760,7 +769,7 @@
     html += `</div></div>`;
     
     // ===== SEMIFINALES =====
-    html += `<div class="ronda"><h3>🏆 SEMIFINALES</h3><div class="cruces">`;
+    html += `<div class="ronda"><h3>🏆 SEMIFINALES (2 partidos)</h3><div class="cruces">`;
     
     if (partidosSF.length > 0) {
       partidosSF.forEach((partido, i) => {
@@ -819,7 +828,7 @@
     } else {
       html += `
         <div class="match-card">
-          <div class="match-header">🏆 GRAN FINAL · 19 julio 2026</div>
+          <div class="match-header"> GRAN FINAL · 19 julio 2026</div>
           <div class="match-teams">
             <span class="team">Ganador Semi 1</span>
             <span class="vs">vs</span>
