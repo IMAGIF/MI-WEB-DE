@@ -97,6 +97,7 @@
     <button class="tab-btn activo" data-tab="clasificacion">📊 CLASIFICACIÓN</button>
     <button class="tab-btn" data-tab="calendario">📅 CALENDARIO</button>
     <button class="tab-btn" data-tab="eliminatoria">🏆 FASE FINAL</button>
+    <button class="tab-btn" data-tab="goleadores">⚽ GOLEADORES</button>
   </div>
 
   <div id="clasificacion" class="tab-contenido activo">
@@ -114,6 +115,11 @@
     <div class="subtitulo">🏆 Cuadro eliminatorio · se actualiza automáticamente según los resultados del calendario</div>
     <div id="bracketsContainer" class="eliminatoria"><div class="loading">Generando fase final...</div></div>
   </div>
+
+  <div id="goleadores" class="tab-contenido">
+    <div class="subtitulo">⚽ Máximos goleadores · calculado a partir de los goles de cada partido</div>
+    <div id="goleadoresContainer"><div class="loading">Cargando goleadores...</div></div>
+  </div>
 </main>
 
 <footer>
@@ -130,6 +136,7 @@
   const fechasFiltro = document.getElementById('fechasFiltro');
   const partidosContainer = document.getElementById('partidosFechaContainer');
   const bracketsContainer = document.getElementById('bracketsContainer');
+  const goleadoresContainer = document.getElementById('goleadoresContainer');
 
   const traducciones = {
     'Argentina': 'Argentina', 'Brazil': 'Brasil', 'Germany': 'Alemania', 'England': 'Inglaterra', 'Spain': 'España', 'France': 'Francia',
@@ -215,12 +222,14 @@
       renderClasificacion();
       renderCalendario();
       renderFaseFinal();
+      renderGoleadores();
     } catch (err) {
       console.error("Error:", err);
       const errorMsg = `<div class="error">⚠️ No se pudieron cargar los datos.<br><small>${err.message}</small><br><br>Posible causa: El archivo JSON para 2026 aún no está disponible.</div>`;
       gruposContainer.innerHTML = errorMsg;
       partidosContainer.innerHTML = errorMsg;
       bracketsContainer.innerHTML = errorMsg;
+      goleadoresContainer.innerHTML = errorMsg;
     }
   }
 
@@ -418,6 +427,41 @@
     bracketsContainer.innerHTML = html;
   }
 
+  function renderGoleadores() {
+    if (!matchesAll.length) {
+      goleadoresContainer.innerHTML = '<div class="loading">Cargando goleadores...</div>';
+      return;
+    }
+    const goleadores = {}; // nombre -> { goles, equipo }
+    matchesAll.forEach(m => {
+      (m.goals1 || []).forEach(g => {
+        if (g.owngoal) return; // un gol en propia puerta no cuenta para el goleador
+        if (!goleadores[g.name]) goleadores[g.name] = { goles: 0, equipo: m.team1 };
+        goleadores[g.name].goles++;
+      });
+      (m.goals2 || []).forEach(g => {
+        if (g.owngoal) return;
+        if (!goleadores[g.name]) goleadores[g.name] = { goles: 0, equipo: m.team2 };
+        goleadores[g.name].goles++;
+      });
+    });
+    const ranking = Object.entries(goleadores)
+      .map(([nombre, datos]) => ({ nombre, ...datos }))
+      .sort((a, b) => b.goles - a.goles)
+      .slice(0, 5);
+    if (!ranking.length) {
+      goleadoresContainer.innerHTML = '<div class="loading">Todavía no se ha marcado ningún gol.</div>';
+      return;
+    }
+    const medallas = ['🥇', '🥈', '🥉', '4️⃣', '5️⃣'];
+    let html = `<div class="card-grupo" style="max-width:600px;margin:0 auto;"><div class="card-header">⚽ Top 5 goleadores del Mundial</div><table class="tabla-grupo"><thead><tr><th>#</th><th>Jugador</th><th>Selección</th><th>Goles</th></tr></thead><tbody>`;
+    ranking.forEach((j, idx) => {
+      html += `<tr><td>${medallas[idx] || (idx+1)}</td><td class="equipo-nombre">${j.nombre}</td><td>${traducirEquipo(j.equipo)}</td><td><strong>${j.goles}</strong></td></tr>`;
+    });
+    html += `</tbody></table></div>`;
+    goleadoresContainer.innerHTML = html;
+  }
+
   let interval;
   function startAutoRefresh() {
     if (interval) clearInterval(interval);
@@ -435,6 +479,7 @@
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('activo'));
       btn.classList.add('activo');
       if (tabId === 'eliminatoria') renderFaseFinal();
+      if (tabId === 'goleadores') renderGoleadores();
     });
   });
 </script>
