@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
 https://www.youtube.com/embed/lnGAjJK8Vqw?si=nrDDziKKnr1J3jRB
 
@@ -139,16 +138,7 @@ https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:0 type="favorites" channelId="-1" name="Radio Marca" group="Radio_Populares" logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200", Radio Marca
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
 
-#EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
-https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
-
-
 #EXTINF:0 type="favorites" channelId="-1" name="WeatherNation USA" group="Int. América" logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200", WeatherNation USA
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
-
-#EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
-https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
 
