@@ -1,18 +1,33 @@
 #EXTM3U
 
 
-#EXTINF:0 type="stream" channelId="-1" name="ESRADIO" group="YOUTUBE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/EsRadio_logo.svg/1280px-EsRadio_logo.svg.png", ESRADIO
-https://www.youtube.com/embed/giLnfariO-8?si=0yWKOZBpMZ8MbVfW
-
-#EXTINF:-1 tvg-name="Libertad Digital" tvg-logo="https://s.libertaddigital.com/logos/ld/256.png", Libertad Digital (Directo)
-https://www.youtube.com/watch?v=giLnfariO-8
+#EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
+https://www.youtube.com/embed/lnGAjJK8Vqw?si=nrDDziKKnr1J3jRB
 
 
-#EXTINF:-1 tvg-name="Libertad Digital" tvg-logo="https://s.libertaddigital.com/logos/ld/256.png", Libertad Digital (Directo Actual)
-https://www.youtube.com/embed/lnGAjJK8Vqw
+#EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
 
-#EXTINF:0 type="stream" channelId="-1" name="Negocios TV" group="NEWS" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" audio-track="ISO 639-1 ES", Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
+https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
+
+#EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
+https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
+
+
+#EXTINF:0 type="favorites" channelId="-1" name="Negocios TV" group="Informativos" logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", Negocios TV
+https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="El Confidencial" group="Informativos" logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200", El Confidencial
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8
+
+#EXTINF:0 type="favorites" channelId="217" name="Euronews" group="Informativos" logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="3Cat Info" group="Informativos" logo="https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg", 3Cat Info
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
+
 
 
 #EXTINF:0 type="favorites" channelId="-1" group="Spain" logo="https://i.imgur.com/AqGIoIt.png", Distrito TV (1080p)
