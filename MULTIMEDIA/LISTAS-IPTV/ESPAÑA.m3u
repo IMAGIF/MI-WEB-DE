@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" name="LIBERTAD DIGITAL" group="YOUTUBE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtUAu97dybwrA2HRLSVUcJmTJ-1KD-tIMKA&s", LIBERTAD DIGITAL
-https://www.youtube.com/embed/lnGAjJK8Vqw?si=nrDDziKKnr1J3jRB
+https://www.youtube.com/watch?v=lnGAjJK8Vqw
 
 
 #EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
