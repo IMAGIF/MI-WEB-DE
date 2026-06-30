@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-06-30T15:33:19.767396+00:00",
+  "actualizado": "2026-06-30T16:01:08.105028+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Rueda reclama que exista «vínculo» para nacionalizar y dar el voto a los nietos",
-        "enlace": "https://www.abc.es/espana/galicia/rueda-reclama-exista-vinculo-nacionalizar-dar-voto-20260630171444-nt.html",
-        "desc": "El presidente de la Xunta se suma al coro de voces que, dentro del PP, levanta la voz ante las consecuencias que puede tener en el censo electoral la concesión de la nacionalizació…",
-        "fecha": "2026-06-30T17:14:44+02:00",
+        "titulo": "El BBVA prevé que el PIB de Aragón siga con un fuerte dinamismo en 2026 y 2027",
+        "enlace": "https://www.abc.es/espana/aragon/bbva-preve-pib-aragon-siga-fuerte-dinamismo-20260630174757-nt.html",
+        "desc": "Según el informe 'Situación Aragón 2026' de BBVA Research, presentado este martes 30 de junio por Miguel Cardoso, economista jefe para España y Portugal de BBVA Research, y por Mar…",
+        "fecha": "2026-06-30T17:48:45+02:00",
         "fuente": "ABC"
       },
       {
@@ -24,24 +24,24 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "Marlaska defiende a la directora de la Guardia Civil y admite que sabía que se reunió con Leire",
-        "enlace": "https://theobjective.com/espana/2026-06-30/marlaska-directora-guardia-civil-reunion-leire/",
-        "desc": "El ministro del Interior, Fernando Grande-Marlaska, ha asegurado este martes en el Senado que la directora de la Guardia Civil, Mercedes González, no le ha dado [&#8230;]",
-        "fecha": "2026-06-30T15:25:09+00:00",
+        "titulo": "El Supremo de EEUU declara ilegal la orden de Trump que limita la ciudadanía por nacimiento",
+        "enlace": "https://theobjective.com/internacional/2026-06-30/supremo-eeuu-ilegal-trump-limita-ciudadania-nacimiento/",
+        "desc": "El Tribunal Supremo de Estados Unidos ha considerado este martes ilegal la orden ejecutiva del presidente, Donald Trump, para limitar la ciudadanía de personas nacidas en [&#8230;]",
+        "fecha": "2026-06-30T15:47:44+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Begoña Gómez solicita al juez Peinado viajar con Sánchez a la cumbre de la OTAN y a la graduación de su hija en Londres",
         "enlace": "https://www.elconfidencial.com/espana/2026-06-30/begona-gomez-solicita-al-juez-viajar-con-sanchez-a-la-cumbre-de-la-otan-y-a-la-graduacion-de-su-hija-en-londres_4380910/",
         "desc": "La investigada pide al instructor poder salir al extranjero entre los días 7 y 10 de julio para acudir junto a su marido al evento que se celebrará en Ankara",
-        "fecha": "2026-06-30T15:33:23.023077+00:00",
+        "fecha": "2026-06-30T16:01:10.091512+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "¿La burbuja de los festivales ha explotado? El dineral que cobran algunos artistas por actuar",
-        "enlace": "https://okdiario.com/happyfm/burbuja-festivales-explotado-dineral-que-cobran-algunos-artistas-actuar-18892766",
-        "desc": "El verano de 2026 ha destapado un problema que desde hace años se venía intuyendo en la industria musical española. Mientras los grandes macrofestivales agotan sus entradas, otros …",
-        "fecha": "2026-06-30T17:30:06+02:00",
+        "titulo": "Quién es quién en el documental ‘La más grande’ de Rocío Jurado: desde Daniela Vega hasta Juan Pardo",
+        "enlace": "https://okdiario.com/cool/television/quien-quien-documental-mas-grande-rocio-jurado-desde-daniela-vega-hasta-juan-pardo-18893453",
+        "desc": "Dos décadas después de su fallecimiento, el ruido mediático todavía asedia a la figura de Rocío Jurado. Porque más allá de su incuestionable trayectoria musical, la prensa rosa prá…",
+        "fecha": "2026-06-30T17:58:31+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -50,6 +50,27 @@
         "desc": "El pasado miércoles, el magistrado, quien la ha enviado a juicio, la obligó a entregar su pasaporte para evitar el riesgo de fuga. Más información: Peinado envía a juicio a Begoña,…",
         "fecha": "2026-06-30T11:47:01+02:00",
         "fuente": "El Español"
+      },
+      {
+        "titulo": "Acuerdo para la nacionalización de saharauis en plena polémica por la 'ley de nietos'",
+        "enlace": "https://www.abc.es/espana/acuerdo-nacionalizacion-saharauis-plena-polemica-ley-nietos-20260630174816-nt.html",
+        "desc": "La ponencia de la ley para nacionalizar a saharauis ha alcanzado un acuerdo este martes para aprobar su informe y enviar la norma a la Comisión de Justicia, donde deberá ser ratifi…",
+        "fecha": "2026-06-30T17:48:16+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "La Generalitat pide la suspensión cautelar de la regularización masiva de inmigrantes tras la advertencia del Supremo",
+        "enlace": "https://www.elmundo.es/comunidad-valenciana/2026/06/30/6a43e5ebfdddff987f8b4599.html",
+        "desc": "De no hacerlo, \"los efectos de la regularización podrían hacerse efectivos de forma inmediata\", según advierte en sus alegaciones&nbsp; Leer",
+        "fecha": "2026-06-30T17:56:18+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Muere 'el carnicero de Mondragón': el etarra autor de 17 asesinatos que &quot;se cagó&quot; al ser detenido",
+        "enlace": "https://www.libertaddigital.com/espana/2026-06-30/muere-el-carnicero-de-mondragon-el-etarra-autor-de-17-asesinatos-que-se-cago-de-miedo-al-ser-detenido-7428670/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Se benefició de la Amnistía de 1977, pero enseguida se reincorporó a la banda terrorista ETA para seguir haciendo lo que mejor sabía hacer: asesinar.",
+        "fecha": "2026-06-30T11:12:18+02:00",
+        "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
@@ -61,62 +82,118 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Fulton County, Georgia, jail leadership resigns after inmate's death and accusations of unsanitary conditions",
-        "enlace": "https://www.cnn.com/2023/04/18/us/fulton-county-jail-leadership-resignations-lashawn-thompson-death/index.html",
-        "desc": "Three officials at the Fulton County, Georgia, jail have stepped down amid an investigation into the death of an inmate whose family said was housed in a filthy, bug-infested cell …",
-        "fecha": "2023-04-18T15:08:03+00:00",
-        "fuente": "CNN"
-      },
-      {
-        "titulo": "Editor's note: NPR retracts story",
+        "titulo": "Editor's note: NPR retracts Justice Samuel Alito story",
         "enlace": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires",
         "desc": "",
         "fecha": "2026-06-30T10:51:23-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Heartbroken father blasts ‘broken’ system that let family massacre take his children before they could reunite",
+        "enlace": "https://www.foxnews.com/us/heartbroken-father-blasts-broken-system-family-massacre-took-children-reunite",
+        "desc": "A Mechanicville, New York, grandmother allegedly poisoned four children and their mother before taking her own life, police said after a welfare check.",
+        "fecha": "2026-06-30T08:00:13-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Supreme Court upholds birthright citizenship on constitutional grounds",
+        "enlace": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump",
+        "desc": "The decision firmly rejected the executive order that Trump issued on the first day of his second term.",
+        "fecha": "2026-06-30T10:38:49-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Así celebraron los famosos paraguayos el histórico triunfo ante Alemania: de Larissa Riquelme a Arnaldo André",
-        "enlace": "https://www.clarin.com/fama/celebraron-famosos-paraguayos-historico-triunfo-alemania-larissa-riquelme-arnaldo-andre_0_8ua3oVr7zA.html",
-        "desc": "Las figuras expresaron su emoción tras la clasificación de la Albirroja a octavos de final. Dallys Ferreira, Lali González y hasta Flor de la V publicaron videos de euforia y llant…",
-        "fecha": "2026-06-30T14:34:50+00:00",
+        "titulo": "\"No es fácil presentarse y jugar con todo lo que está sucediendo en Venezuela\": Wilson Contreras conectó un jonrón, rompió en llanto y fue expulsado en una noche emotiva en Fenway Park",
+        "enlace": "https://www.clarin.com/estados-unidos/facil-presentarse-jugar-sucediendo-venezuela-wilson-contreras-conecto-jonron-rompio-llanto-expulsado-noche-emotiva-fenway-park_0_zA9os10GL3.html",
+        "desc": "Con el corazón puesto en las más de 1,700 víctimas fatales de los sismos en su tierra natal, el toletero de Puerto Cabello desahogó la angustia colectiva en Fenway Park. El batazo …",
+        "fecha": "2026-06-30T15:44:56+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "De Andreis habló tras las críticas de Milei a Macri: “Difícilmente estaría en pie sin la banca de Pro”",
-        "enlace": "https://www.lanacion.com.ar/politica/de-andreis-hablo-tras-las-criticas-de-milei-a-macri-dificilmente-estaria-en-pie-sin-la-banca-de-pro-nid30062026/",
-        "desc": "El diputado, alfil del expresidente, también negó que el partido haya “volteado” al ahora exjefe de Gabinete Manuel Adorni",
-        "fecha": "2026-06-30T15:32:04+00:00",
+        "titulo": "Fiat Pulse vs. Toyota Yaris Cross: cuál es el mejor SUV compacto bajo los $45 millones",
+        "enlace": "https://www.lanacion.com.ar/autos/fiat-pulse-vs-toyota-yaris-cross-cual-es-el-mejor-suv-compacto-bajo-los-45-millones-nid29062026/",
+        "desc": "Se trata de dos de los modelos más competitivos de su segmento",
+        "fecha": "2026-06-30T15:56:25+00:00",
+        "fuente": "La Nación"
+      },
+      {
+        "titulo": "Quiniela de Santa Fe: resultado del sorteo de la Primera de hoy, martes 30 de junio",
+        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-primera-hoy-martes-30-junio_0_oFmVzl80Zu.html",
+        "desc": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+        "fecha": "2026-06-30T15:36:18+00:00",
+        "fuente": "Clarín"
+      },
+      {
+        "titulo": "BAIC BJ30: por qué es el auto chino más vendido de la Argentina y cuánto cuesta",
+        "enlace": "https://www.lanacion.com.ar/autos/baic-bj30-por-que-es-el-auto-chino-mas-vendido-de-la-argentina-y-cuanto-cuesta-nid30062026/",
+        "desc": "El SUV híbrido chino acumula 3306 unidades patentadas en lo que va del año y se ofrece en dos versiones",
+        "fecha": "2026-06-30T15:56:17+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Canicule : Lecornu défend l’action du gouvernement et dénonce le bilan « faux » et « scandaleux » de 10 000 morts avancé par les Ecologistes",
-        "enlace": "https://www.lemonde.fr/planete/article/2026/06/30/canicule-sebastien-lecornu-juge-scandaleux-le-chiffre-de-10-000-morts-avance-par-les-ecologistes-et-defend-l-action-du-gouvernement_6717283_3244.html",
-        "desc": "Le groupe Ecologiste et social à l’Assemblée entend déposer mardi une motion de censure contre le gouvernement de Sébastien Lecornu, pour dénoncer « son impréparation ».",
-        "fecha": "2026-06-30T16:27:56+02:00",
+        "titulo": "En Iran, les gardiens de la révolution ont les mains libres depuis la mort d’Ali Khamenei",
+        "enlace": "https://www.lemonde.fr/international/article/2026/06/30/en-iran-les-gardiens-de-la-revolution-ont-les-mains-libres-depuis-la-mort-d-ali-khamenei_6717261_3210.html",
+        "desc": "Hostile à tout compromis avec les Etats-Unis, le Guide suprême Ali Khamenei incarnait le principal frein à des négociations avec Washington. Son assassinat, le 28 février, a fait é…",
+        "fecha": "2026-06-30T14:05:07+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Âge de départ à la retraite, aides aux entreprises… Les propositions explosives de l’OCDE pour redresser la France",
-        "enlace": "https://www.lefigaro.fr/conjoncture/age-de-depart-a-la-retraite-aides-aux-entreprises-les-propositions-explosives-de-l-ocde-pour-redresser-la-france-20260630",
-        "desc": "DÉCRYPTAGE - L’Organisation pour la coopération et le développement économique présente des mesures drastiques, de toute nature, à moins d’un an de la prochaine élection présidenti…",
-        "fecha": "2026-06-30T17:12:40+02:00",
+        "titulo": "L’Assemblée adopte pour la troisième fois la loi légalisant l’euthanasie et le suicide assisté",
+        "enlace": "https://www.lefigaro.fr/politique/l-assemblee-adopte-pour-la-troisieme-fois-la-loi-legalisant-l-euthanasie-et-le-suicide-assiste-20260630",
+        "desc": "DÉCRYPTAGE - Après ce vote, le texte sur la fin de vie doit une dernière fois repartir au Sénat avant un vote définitif au Palais Bourbon le 15 juillet.",
+        "fecha": "2026-06-30T17:51:13+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "En Espagne, le plan de régularisation fait le plein de demandes",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260630-en-espagne-le-plan-de-r%C3%A9gularisation-fait-le-plein-de-demandes",
-        "desc": "Près d'un million de sans-papiers ont déposé depuis mi-avril leur dossier en Espagne pour profiter du plan de régularisation extraordinaire lancé par le gouvernement du socialiste …",
-        "fecha": "2026-06-30T15:06:39+00:00",
+        "titulo": "Les sportives américaines transgenres bannies de compétitions féminines",
+        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260630-cour-supr%C3%AAme-am%C3%A9ricaine-valide-exclusion-sportives-transgenres-comp%C3%A9titions-f%C3%A9minines-droits-universit%C3%A9-%C3%A9cole-trump-r%C3%A9publicains",
+        "desc": "La Cour suprême américaine a validé, mardi, les lois de plusieurs États interdisant aux sportives transgenres de participer aux compétitions féminines scolaires et universitaires. …",
+        "fecha": "2026-06-30T15:49:10+00:00",
+        "fuente": "France 24"
+      },
+      {
+        "titulo": "Des perquisitions sont en cours dans une nouvelle affaire de détournements financiers du RN et de ses alliés au Parlement européen",
+        "enlace": "https://www.lemonde.fr/societe/article/2026/06/30/des-perquisitions-sont-en-cours-dans-une-nouvelle-affaire-de-detournements-financiers-du-rn-et-de-ses-allies-au-parlement-europeen_6717301_3224.html",
+        "desc": "Cette enquête, ouverte en juillet 2025 sur la base d’un rapport de la direction des affaires financières du Parlement européen, porte sur 4,33 millions d’euros que le groupe Identi…",
+        "fecha": "2026-06-30T17:53:03+02:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "Fin de vie : votre député a-t-il voté le nouveau texte ?",
+        "enlace": "https://www.lefigaro.fr/politique/fin-de-vie-votre-depute-a-t-il-vote-le-nouveau-texte-20260630",
+        "desc": "AU CŒUR DES DÉBATS – Pour la troisième fois, l’Assemblée nationale a approuvé la proposition de loi instaurant un droit à l’aide à mourir, ouvrant ainsi la voie à la légalisation d…",
+        "fecha": "2026-06-30T17:46:35+02:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "🔴 En direct : en visite au Sud-Liban, Netanyahu exclut tout retrait israélien face au Hezbollah",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260630-en-direct-delegations-americaines-etats-unis-iran-qatar-liban-detroit-ormuz-guerre-moyen-orient-emissaires-hostilite-kushner-witkoff",
+        "desc": "",
+        "fecha": "2026-06-30T15:33:09+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
+      {
+        "titulo": "WM 2026 News heute: Keine Nagelsmann-Pressekonferenz mehr in den USA, Neuendorf-Kommentar erwartet",
+        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss",
+        "desc": "DFB-Boss Bernd Neuendorf setzt auf eine zeitnahe Aufarbeitung des WM-Debakels. Und: Kanzler Merz reagiert nach Kritik an seinem X-Beitrag zum DFB-Team. Alles Wichtige im Newsblog.",
+        "fecha": "2026-06-30T17:49:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Krise im deutschen Fußball: Woran hat et jelegen? Warum der deutsche Fußball in der Krise ist",
+        "enlace": "https://www.zeit.de/politik/2026-06/krise-deutscher-fussball-nationalmannschaft-dfb-nachrichtenpodcast",
+        "desc": "Dreimal in Folge ist die Fußballnationalmannschaft der Männer bei einer WM früh ausgeschieden. Was steckt hinter der Krise? Und: Rechtsextreme radikalisieren sich früher.",
+        "fecha": "2026-06-30T15:53:15",
+        "fuente": "Die Zeit"
+      },
       {
         "titulo": "Finnland: Telefonieren über analoges Festnetz ist hier nun Geschichte",
         "enlace": "https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss",
@@ -125,10 +202,10 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Betrug im Gesundheitssystem: Arzt erschleicht 1,6 Millionen von Krankenkassen",
-        "enlace": "https://www.zeit.de/gesellschaft/2026-06/betrug-gesundheitssystem-kassenaerztlicher-bereitschaftsdienst-verbrechen-videopodcast",
-        "desc": "Tausende Hausbesuche und Hunderte Telefonberatungen, die nie stattgefunden haben: Ein Arzt rechnet massenhaft Leistungen ab – und erschleicht sich so über 1,6 Millionen.",
-        "fecha": "2026-06-30T15:09:52",
+        "titulo": "Russia Today: Gericht bestätigt Sendeverbot für Russia Today",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-06/russia-today-verbot-verwaltungsgericht-berlin",
+        "desc": "Die Medienanstalt Berlin-Brandenburg hatte den deutschen TV-Ableger von Russia Today 2022 verboten, der ohne Lizenz sendete. Eine Klage gegen das Verbot bleibt erfolglos.",
+        "fecha": "2026-06-30T15:52:58",
         "fuente": "Die Zeit"
       }
     ],
@@ -139,6 +216,13 @@
         "desc": "Bonafoni: “I dati Istat sono impietosi ma la premier ha altre priorità”. Bonafè: “Vogliono premierato senza modificare la Carta”",
         "fecha": "2026-06-30T14:59:00+00:00",
         "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Nestlé elimina i coloranti artificiali da tutti i suoi prodotti: “La svolta entro la fine dell’anno”",
+        "enlace": "https://www.repubblica.it/economia/2026/06/30/news/nestle_elimina_coloranti_artificiali_prodotti_fine_anno-425442655/",
+        "desc": "La multinazionale aveva già provveduto a levarli dal mercato statunitense. Stessa via intrapresa anche da Mars con gli M&amp;m’s",
+        "fecha": "2026-06-30T14:54:09+00:00",
+        "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
@@ -147,6 +231,20 @@
         "enlace": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
         "desc": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
         "fecha": "2026-06-30T14:37:54+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "‘Doves and food and fun’: the fight to save a farming pioneer",
+        "enlace": "https://www.theguardian.com/environment/2026/jun/30/suffolk-agroforestry-farm-wakelyns-community-ownership-survive",
+        "desc": "Wakelyns needs £1.2m to save its diverse organic crops and ‘micro’ enterprises including a bakery and honeybee hives The aerial view of Wakelyns matches the experience of visiting …",
+        "fecha": "2026-06-30T10:00:05+00:00",
+        "fuente": "The Guardian"
+      },
+      {
+        "titulo": "Government promises to act on maternity care failings which 'shame our society'",
+        "enlace": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
+        "desc": "An independent inquiry has found \"unacceptable racism and discrimination\" is affecting patient safety.",
+        "fecha": "2026-06-30T14:25:42+00:00",
         "fuente": "BBC"
       },
       {
@@ -166,10 +264,24 @@
         "fuente": "Público"
       },
       {
-        "titulo": "IL quer eliminar restrições a privados na recolha de lixo",
-        "enlace": "https://observador.pt/2026/06/30/iniciativa-liberal-propoe-eliminar-restricoes-a-participacao-de-privados-na-recolha-e-tratamento-do-lixo/",
-        "desc": "A IL considera essa proibição \"uma limitação importante no desenvolvimento dos serviços públicos portugueses\"",
-        "fecha": "2026-06-30T16:28:10+01:00",
+        "titulo": "TAP: Bruxelas confirma conclusão do plano de reestruturação",
+        "enlace": "https://observador.pt/2026/06/30/bruxelas-confirma-conclusao-do-plano-de-reestruturacao-da-tap/",
+        "desc": "\"O plano permitiu à TAP tornar-se numa empresa mais robusta financeiramente\"",
+        "fecha": "2026-06-30T16:52:58+01:00",
+        "fuente": "Observador"
+      },
+      {
+        "titulo": "Quase um quarto das mulheres que trabalham alterou a vida profissional para conciliar com a familiar",
+        "enlace": "https://www.publico.pt/2026/06/30/sociedade/noticia/quase-quarto-mulheres-trabalham-alterou-vida-profissional-conciliar-familiar-2179982",
+        "desc": "A percentagem dos homens na mesma situação é de apenas 13,6%, segundo dados do INE revelados esta terça-feira.",
+        "fecha": "2026-06-30T13:58:26+00:00",
+        "fuente": "Público"
+      },
+      {
+        "titulo": "PSD suaviza lei das bandeiras, mas votação só em setembro",
+        "enlace": "https://observador.pt/especiais/psd-suaviza-lei-das-bandeiras-ideologicas-mas-nova-votacao-fica-para-setembro/",
+        "desc": "Sociais democratas propuseram ao CDS alterações que respeitam espírito inicial da lei, mas sem referências a bandeiras \"ideológicas\". E corrigem dois pontos jurídicos e legais ques…",
+        "fecha": "2026-06-30T16:48:27+01:00",
         "fuente": "Observador"
       }
     ],
@@ -182,10 +294,24 @@
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Filho mata pai dentro de casa no Grande Recife e foge após assassinato",
-        "enlace": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/30/filho-mata-pai-dentro-de-casa-no-grande-recife-e-foge-apos-assassinato.ghtml",
-        "desc": "Departamento de Homicídios e de Proteção à Pessoa (DHPP), no Cordeiro, na Zona Oeste do Recife Artur Ferraz/g1 Um homem de 53 anos foi assassinado pelo filho no município de Araçoi…",
-        "fecha": "2026-06-30T15:31:36",
+        "titulo": "Operação mira furtos de motocicletas e apreende veículo adulterado, drogas e peças no interior de SP",
+        "enlace": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/30/operacao-mira-furtos-de-motocicletas-e-apreende-veiculo-adulterado-drogas-e-pecas-no-interior-de-sp.ghtml",
+        "desc": "Operação mira furtos de motocicletas e apreende veículo adulterado, drogas e peças no noroeste paulista Polícia Civil/Divulgação Uma operação da Polícia Civil de São José do Rio Pr…",
+        "fecha": "2026-06-30T15:51:13",
+        "fuente": "G1 Globo"
+      },
+      {
+        "titulo": "Recuo da CazéTV mostra como pressão pública pode mudar incentivos",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/06/recuo-da-cazetv-mostra-como-pressao-publica-pode-mudar-incentivos.shtml",
+        "desc": "Depois de críticas nas redes e da abertura de uma investigação pelo Ministério da Justiça , a CazéTV mudou o protocolo das propagandas de bets exibidas durante a Copa : a publicida…",
+        "fecha": "2026-06-30T10:00:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Sete presos fogem de Cadeia Pública no Paraná e estão foragidos; veja quem são",
+        "enlace": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/06/30/presos-fogem-de-cadeia-publica.ghtml",
+        "desc": "Sete detentos fogem de Cadeia Pública no Paraná Polícia Penal do Paraná Sete presos seguem foragidos após uma fuga registrada na madrugada desta terça-feira (30) na Cadeia Pública …",
+        "fecha": "2026-06-30T15:50:52",
         "fuente": "G1 Globo"
       }
     ],
@@ -196,37 +322,16 @@
         "desc": "Ayano Sato begins her five-year term just two weeks after the BOJ raised its benchmark interest rate to the highest level in 31 years.",
         "fecha": "2026-06-30T21:34:00+09:00",
         "fuente": "Japan Times"
+      },
+      {
+        "titulo": "JAL fraudulently receives subsidies for state project",
+        "enlace": "https://www.japantimes.co.jp/business/2026/06/30/jal-subsidies-fraud/",
+        "desc": "The major Japanese airline plans to return the subsidies, totaling about ¥280 million. The misconduct may date back to 2022.",
+        "fecha": "2026-06-30T21:32:00+09:00",
+        "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
-      {
-        "titulo": "Palestinians Stream Back to Northern Gaza on Foot",
-        "enlace": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-        "desc": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-        "fecha": "2025-01-27T14:23:00-05:00",
-        "fuente": "Wall Street Journal"
-      },
-      {
-        "titulo": "WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages",
-        "enlace": "https://www.foxnews.com/world/watch-fights-break-out-russian-gas-stations-putin-admits-fuel-shortages",
-        "desc": "Putin admits Ukrainian drone strikes on Russian oil refineries are causing fuel shortages, as fights erupt at gas stations across multiple regions.",
-        "fecha": "2026-06-30T10:15:46-04:00",
-        "fuente": "Fox News Mundo"
-      },
-      {
-        "titulo": "Suben a 19 los españoles muertos en los terremotos de Venezuela y 131 siguen desaparecidos",
-        "enlace": "http://es.euronews.com/2026/06/30/exteriores-eleva-a-19-los-espanoles-muertos-en-los-terremotos-de-venezuela-131-siguen-desa",
-        "desc": "El ministro de Asuntos Exteriores actualiza el balance de víctimas y asegura que España mantendrá las labores de rescate \"mientras haya esperanza\" de encontrar supervivientes o rec…",
-        "fecha": "2026-06-30T16:04:03+02:00",
-        "fuente": "Euronews ES"
-      },
-      {
-        "titulo": "El rescate de un niño renueva la esperanza de encontrar sobrevivientes tras los terremotos en Venezuela que dejan más de 1.700 muertos",
-        "enlace": "https://www.bbc.co.uk/mundo/live/czxq45p430lt?at_medium=RSS&at_campaign=rss",
-        "desc": "Los equipos de búsqueda y rescate luchan contra el tiempo en las zonas afectadas por los dos terremotos consecutivos de magnitud 7,2 y 7,5 que afectaron a Venezuela y sus múltiples…",
-        "fecha": "2026-06-30T15:33:51.823434+00:00",
-        "fuente": "BBC Mundo"
-      },
       {
         "titulo": "Ucrania arranca el diálogo con Corea del Sur sobre el futuro de los presos de guerra norcoreanos",
         "enlace": "https://www.abc.es/internacional/ucrania-arranca-dialogo-corea-sur-sobre-futuro-20260630165904-nt.html",
@@ -242,48 +347,69 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Marlaska defiende a la directora de la Guardia Civil y admite que sabía que se reunió con Leire",
-        "enlace": "https://theobjective.com/espana/2026-06-30/marlaska-directora-guardia-civil-reunion-leire/",
-        "desc": "El ministro del Interior, Fernando Grande-Marlaska, ha asegurado este martes en el Senado que la directora de la Guardia Civil, Mercedes González, no le ha dado [&#8230;]",
-        "fecha": "2026-06-30T15:25:09+00:00",
-        "fuente": "The Objective Mundo"
-      },
-      {
-        "titulo": "La segunda parte de la catástrofe en Venezuela: alerta sanitaria ante el riesgo de epidemias",
-        "enlace": "https://www.libertaddigital.com/internacional/latinoamerica/2026-06-30/la-segunda-parte-de-la-catastrofe-en-venezuela-alerta-sanitaria-ante-el-riesgo-de-epidemias-7428685/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Internacional",
-        "desc": "El colapso de las infraestructuras de agua potable y saneamiento podrí­a provocar brotes de cólera y enfermedades endémicas.",
-        "fecha": "2026-06-30T11:46:51+02:00",
-        "fuente": "Libertad Digital I"
-      },
-      {
         "titulo": "Banda sonora de la ciudad maldita: el milagro a medias de Detroit",
         "enlace": "https://www.elconfidencial.com/mundo/2026-06-30/detroit-violencia-renacimiento-pobreza-musica-1hms_4375182/",
         "desc": "El Confidencial vuelve 13 años después a la ciudad, tras los cierres de las fábricas hace 50 años, a comprobar los efectos del declive social estadounidense",
-        "fecha": "2026-06-30T15:33:54.189045+00:00",
+        "fecha": "2026-06-30T16:01:39.235622+00:00",
+        "fuente": "El Confidencial Mundo"
+      },
+      {
+        "titulo": "El rescate de un niño renueva la esperanza de encontrar sobrevivientes tras los terremotos en Venezuela que dejan más de 1.700 muertos",
+        "enlace": "https://www.bbc.co.uk/mundo/live/czxq45p430lt?at_medium=RSS&at_campaign=rss",
+        "desc": "Los equipos de búsqueda y rescate luchan contra el tiempo en las zonas afectadas por los dos terremotos consecutivos de magnitud 7,2 y 7,5 que afectaron a Venezuela y sus múltiples…",
+        "fecha": "2026-06-30T16:01:40.113366+00:00",
+        "fuente": "BBC Mundo"
+      },
+      {
+        "titulo": "EURONEWS HOY | Las noticias del martes 30 de junio: Más de 1.700 fallecidos en Venezuela",
+        "enlace": "http://es.euronews.com/2026/06/30/euronews-hoy-las-noticias-del-martes-30-de-junio-mas-de-1700-fallecidos-en-venezuela",
+        "desc": "En Venezuela la cifra de fallecidos por los terremotos supera los 1.700, entre ellos 19 españoles; una bomba contra el oligarca ucraniano Vadim Ermolaev estalla en Mónaco, y el Tri…",
+        "fecha": "2026-06-30T18:00:04+02:00",
+        "fuente": "Euronews ES"
+      },
+      {
+        "titulo": "El fallo de la Corte Suprema sobre la primogenitura es un duro golpe para Trump",
+        "enlace": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+        "desc": "Gary O'Donoghue, de la BBC, explica lo que significa para el presidente de Estados Unidos el histórico fallo del tribunal.",
+        "fecha": "2026-06-30T14:37:54+00:00",
+        "fuente": "BBC World"
+      },
+      {
+        "titulo": "MIRAR: Estallan peleas en gasolineras rusas mientras Putin admite escasez de combustible",
+        "enlace": "https://www.foxnews.com/world/watch-fights-break-out-russian-gas-stations-putin-admits-fuel-shortages",
+        "desc": "Putin admite que los ataques con drones ucranianos contra refinerías de petróleo rusas están provocando escasez de combustible, mientras estallan peleas en gasolineras en múltiples regiones.",
+        "fecha": "2026-06-30T10:15:46-04:00",
+        "fuente": "Fox News Mundo"
+      },
+      {
+        "titulo": "El Supremo rechaza a Trump y mantiene que los nacidos de inmigrantes son también ciudadanos estadounidenses",
+        "enlace": "https://www.abc.es/internacional/supremo-estados-unidos-rechaza-peticion-trump-restringir-20260630164105-nt.html",
+        "desc": "El Tribunal Supremo de Estados Unidos ha rechazado este martes el intento de Donald Trump de acabar por decreto con la ciudadanía automática para todos los niños nacidos en territo…",
+        "fecha": "2026-06-30T16:41:06+02:00",
+        "fuente": "ABC Internacional"
+      },
+      {
+        "titulo": "Venezuela busca desesperadamente a 50.000 desaparecidos tras los terremotos",
+        "enlace": "https://www.elmundo.es/internacional/2026/06/30/6a42724321efa01a498b4571.html",
+        "desc": "Cinco días después, la esperanza se desvanece para las familias y los equipos que buscan señales de vida, mientras crecen las críticas al Gobierno de Delcy Rodríguez&nbsp; Leer",
+        "fecha": "2026-06-30T07:31:00+02:00",
+        "fuente": "El Mundo Internacional"
+      },
+      {
+        "titulo": "El Supremo de EEUU considera ilegal la orden de Donald Trump que limita ciudadanía por nacimiento",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-06-30/eeuu-prohibicion-competir-trans-en-equipos-femeninos_4381180/",
+        "desc": "Los magistrados del alto tribunal también han avalado las leyes estatales que prohíben a todos los atletas transgénero participar en equipos femeninos de competiciones escolares y …",
+        "fecha": "2026-06-30T16:01:39.235665+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
-      {
-        "titulo": "Palestinians Stream Back to Northern Gaza on Foot",
-        "enlace": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-        "desc": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
-        "fecha": "2025-01-27T14:23:00-05:00",
-        "fuente": "Wall Street Journal"
-      },
       {
         "titulo": "Supreme Court's birthright ruling is major blow to Trump",
         "enlace": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
         "desc": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
         "fecha": "2026-06-30T14:37:54+00:00",
         "fuente": "BBC World"
-      },
-      {
-        "titulo": "Markets digest bank earnings after recent turmoil",
-        "enlace": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
-        "desc": "",
-        "fecha": "2023-04-14T20:00:28+00:00",
-        "fuente": "CNN World"
       },
       {
         "titulo": "WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages",
@@ -293,31 +419,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "US Supreme Court rejects Trump's attempt to restrict birthright citizenship",
-        "enlace": "https://www.france24.com/en/americas/20260630-us-supreme-court-rejects-trump-s-attempt-to-restrict-birthright-citizenship",
+        "titulo": "Live: In south Lebanon, Netanyahu says Israel will stay as long as Hezbollah ‘threatens us’",
+        "enlace": "https://www.france24.com/en/middle-east/20260630-middle-east-live-us-and-iranian-delegations-in-qatar-no-bilateral-meeting-confirmed",
         "desc": "",
-        "fecha": "2026-06-30T14:58:06+00:00",
+        "fecha": "2026-06-30T15:34:07+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Trump: Oil companies must ‘DROP YOUR PRICE FOR OUR GREAT AMERICAN PEOPLE’ to ‘around $2.50’",
-        "enlace": "https://www.oann.com/newsroom/trump-oil-companies-must-drop-your-price-for-our-great-american-people-to-around-2-50/",
-        "desc": "President Donald Trump reiterated his demand for gasoline companies to lower their prices consistently with the dropping prices of oil amid the U.S.-Iran conflict.",
-        "fecha": "2026-06-30T14:40:25+00:00",
-        "fuente": "OAN"
-      },
-      {
-        "titulo": "USC superstar JuJu Watkins is back – and may be better than ever",
-        "enlace": "https://nypost.com/2026/06/30/sports/usc-superstar-juju-watkins-grateful-in-return-from-knee-injury/",
-        "desc": "As she sat down to speak with reporters for the first time in 15 months, JuJu Watkins smiled. It was great to be back. “It’s definitely been a whirlwind of emotions,” the USC women…",
-        "fecha": "2026-06-30T11:33:25-04:00",
+        "titulo": "7 Shows Like ‘Gilmore Girls’ You Can Watch on Netflix",
+        "enlace": "https://decider.com/2026/06/30/shows-like-gilmore-girls-on-netflix/",
+        "desc": "Just because 'Gilmore Girls' is leaving Netflix, that doesn't mean you can't still find a good comfort binge.",
+        "fecha": "2026-06-30T12:00:00-04:00",
         "fuente": "New York Post"
       },
       {
         "titulo": "US top court backs birthright citizenship in rebuke to Trump",
         "enlace": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-all-1573-rdf",
-        "desc": "US President Donald Trump had issued an executive order that would have changed constitutional guarantees that people born on US soil are citizens.",
-        "fecha": "2026-06-30T15:33:55.963473+00:00",
+        "desc": "US President Donald Trump had issued an executive order that would have changed constitutional guarantees that people born on US soil are citizens. The court also ruled on campaign…",
+        "fecha": "2026-06-30T16:01:44.607134+00:00",
         "fuente": "DW English"
       },
       {
@@ -326,6 +445,34 @@
         "desc": "Cypriot President Nikos Christodoulides lauded the signing of the \"declaration of marketability\" as a \"major step towards establishing the Eastern Mediterranean as a credible alter…",
         "fecha": "2026-06-30T16:34:28+02:00",
         "fuente": "Euronews EN"
+      },
+      {
+        "titulo": "SCOTUS upholds state laws banning biological males from competing in female sports",
+        "enlace": "https://www.oann.com/newsroom/scotus-upholds-state-laws-banning-biological-males-from-competing-in-female-sports/",
+        "desc": "The Supreme Court of the United States (SCOTUS) issued a decision upholding state laws that ban biological males from participating in female sports.",
+        "fecha": "2026-06-30T15:43:12+00:00",
+        "fuente": "OAN"
+      },
+      {
+        "titulo": "US Supreme Court upholds bans on transgender women in female school and college sports",
+        "enlace": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+        "desc": "It rules that states can ban transgender athletes from competing in women's and girls' sports.",
+        "fecha": "2026-06-30T15:15:09+00:00",
+        "fuente": "BBC World"
+      },
+      {
+        "titulo": "Trump's Turkey arms sale proposal sparks congressional questions before NATO summit",
+        "enlace": "https://www.foxnews.com/world/trumps-turkey-arms-sale-proposal-sparks-congressional-questions-before-nato-summit",
+        "desc": "The Trump administration bypasses Congress to send Turkey a $700 million arms sale including fighter jet engines, despite S-400 concerns from lawmakers.",
+        "fecha": "2026-06-30T09:32:00-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Photographer Daniel Malikyar: From LA subculture to remote Afghanistan",
+        "enlace": "https://www.france24.com/en/tv-shows/arts24/20260630-photographer-daniel-malikyar-from-la-subculture-to-remote-afghanistan",
+        "desc": "Afghan-American photographer Daniel Malikyar talks to arts24 about his new photography book, \"Afghanistan\". It is his most personal project yet. From his perspective as the son of …",
+        "fecha": "2026-06-30T15:15:45+00:00",
+        "fuente": "France 24 EN"
       }
     ],
     "internacional_fr": [
@@ -337,17 +484,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "En Espagne, le plan de régularisation fait le plein de demandes",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260630-en-espagne-le-plan-de-r%C3%A9gularisation-fait-le-plein-de-demandes",
-        "desc": "Près d'un million de sans-papiers ont déposé depuis mi-avril leur dossier en Espagne pour profiter du plan de régularisation extraordinaire lancé par le gouvernement du socialiste …",
-        "fecha": "2026-06-30T15:06:39+00:00",
+        "titulo": "Les sportives américaines transgenres bannies de compétitions féminines",
+        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260630-cour-supr%C3%AAme-am%C3%A9ricaine-valide-exclusion-sportives-transgenres-comp%C3%A9titions-f%C3%A9minines-droits-universit%C3%A9-%C3%A9cole-trump-r%C3%A9publicains",
+        "desc": "La Cour suprême américaine a validé, mardi, les lois de plusieurs États interdisant aux sportives transgenres de participer aux compétitions féminines scolaires et universitaires. …",
+        "fecha": "2026-06-30T15:49:10+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "États-Unis: la Cour suprême valide l’exclusion des sportives transgenres de compétitions féminines",
-        "enlace": "https://www.rfi.fr/fr/am%C3%A9riques/20260630-%C3%A9tats-unis-la-cour-supr%C3%AAme-valide-l-exclusion-des-sportives-transgenres-de-comp%C3%A9titions-f%C3%A9minines",
-        "desc": "La Cour suprême américaine a validé mardi 30 juin l'exclusion par des États de sportives transgenres des compétitions féminines scolaires ou universitaires. La plus haute juridicti…",
-        "fecha": "2026-06-30T15:20:20+00:00",
+        "titulo": "EN DIRECT - Coupe du monde 2026: suivez le 16e de finale entre la Côte d'Ivoire et la Norvège",
+        "enlace": "https://www.rfi.fr/fr/afrique-foot/20260630-en-direct-coupe-du-monde-2026-suivez-le-16e-de-finale-entre-la-c%C3%B4te-d-ivoire-et-la-norv%C3%A8ge",
+        "desc": "La Côte d'Ivoire, après un bon match contre l'Allemagne et de belles performances contre l'Équateur et Curaçao, attaque la phase à élimination directe avec un 16e de finale contre …",
+        "fecha": "2026-06-30T15:52:55+00:00",
         "fuente": "RFI"
       },
       {
@@ -356,21 +503,63 @@
         "desc": "Dans plusieurs communes, des restrictions d’eau ont dû être instaurées. Le gouvernement appelle à consommer l’eau de façon responsable, en évitant l’arrosage et le remplissage des …",
         "fecha": "2026-06-30T16:16:43+02:00",
         "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "La décision de la Cour suprême sur le droit de naissance est un coup dur pour Trump",
+        "enlace": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+        "desc": "Gary O'Donoghue, de la BBC, explique ce que la décision historique du tribunal signifie pour le président américain.",
+        "fecha": "2026-06-30T14:37:54+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Les États-Unis relancent la construction de brise-glaces sur fond de compétition dans l’Arctique",
+        "enlace": "https://www.lefigaro.fr/international/les-etats-unis-relancent-la-construction-de-brise-glaces-sur-fond-de-competition-dans-l-arctique-20260630",
+        "desc": "Deux bâtiments viennent d’être mis en chantier en Finlande afin de remédier à un demi-siècle d’attentisme américain alors que la Russie aligne près de quarante-cinq navires.",
+        "fecha": "2026-06-30T15:01:09+02:00",
+        "fuente": "Le Figaro Monde"
+      },
+      {
+        "titulo": "🔴 En direct : en visite au Sud-Liban, Netanyahu exclut tout retrait israélien face au Hezbollah",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260630-en-direct-delegations-americaines-etats-unis-iran-qatar-liban-detroit-ormuz-guerre-moyen-orient-emissaires-hostilite-kushner-witkoff",
+        "desc": "",
+        "fecha": "2026-06-30T15:33:09+00:00",
+        "fuente": "France 24 FR"
+      },
+      {
+        "titulo": "Maladie rénale: ce que vos reins font à votre cerveau (et qu'on ignore trop souvent)",
+        "enlace": "https://www.rfi.fr/fr/connaissances/20260630-maladie-r%C3%A9nale-ce-que-vos-reins-font-%C3%A0-votre-cerveau-et-qu-on-ignore-trop-souvent",
+        "desc": "On associe souvent la maladie rénale à la dialyse ou à la greffe. Mais elle peut aussi affecter la mémoire, l’attention et augmenter le risque d’accidents vasculaires cérébraux. Le…",
+        "fecha": "2026-06-30T15:45:45+00:00",
+        "fuente": "RFI"
+      },
+      {
+        "titulo": "Des manifestants sud-africains demandent le départ des migrants sans papiers",
+        "enlace": "http://fr.euronews.com/video/2026/06/30/des-manifestants-sud-africains-demandent-le-depart-des-migrants-sans-papiers",
+        "desc": "Durban : des manifestants anti-immigration défilent, le mouvement March and March réclame une action contre les migrants sans papiers",
+        "fecha": "2026-06-30T16:00:09+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "La Cour suprême des États-Unis confirme l'interdiction faite aux femmes transgenres de participer à des sports féminins à l'école et au collège",
+        "enlace": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+        "desc": "Elle autorise les États à interdire aux athlètes transgenres de participer à des compétitions sportives féminines et féminines.",
+        "fecha": "2026-06-30T15:15:09+00:00",
+        "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Finnland: Telefonieren über analoges Festnetz ist hier nun Geschichte",
-        "enlace": "https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss",
-        "desc": "Eben zum analogen Hörer greifen? Das geht vielerorts nicht mehr. In Finnland endet eine fast 150-jährige Geschichte: Der Betreiber des letzten großen aktiven Kupferleitungsnetzwerk…",
-        "fecha": "2026-06-30T17:17:00+02:00",
+        "titulo": "WM 2026 News heute: Keine Nagelsmann-Pressekonferenz mehr in den USA, Neuendorf-Kommentar erwartet",
+        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss",
+        "desc": "DFB-Boss Bernd Neuendorf setzt auf eine zeitnahe Aufarbeitung des WM-Debakels. Und: Kanzler Merz reagiert nach Kritik an seinem X-Beitrag zum DFB-Team. Alles Wichtige im Newsblog.",
+        "fecha": "2026-06-30T17:49:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Nach Rekordhitze: Regierung sieht Kommunen in der Pflicht",
         "enlace": "https://www.dw.com/de/nach-rekordhitze-regierung-sieht-kommunen-in-der-pflicht/a-77771388?maca=de-rss-de-all-1119-rdf",
         "desc": "Nach der Hitze: Umweltminister Schneider sieht kaum Möglichkeiten, aus Berlin mehr für die Klimaanpassung zu tun. Die Opposition wirft der Regierung Tatenlosigkeit vor.",
-        "fecha": "2026-06-30T15:33:57.759251+00:00",
+        "fecha": "2026-06-30T16:01:47.350979+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -379,6 +568,41 @@
         "desc": "Anti-Einwanderungsdemonstrierende ziehen durch Durban. Die March-and-March-Bewegung fordert härteres Vorgehen gegen illegale Migration, Polizei sichert.",
         "fecha": "2026-06-30T16:00:09+02:00",
         "fuente": "Euronews DE"
+      },
+      {
+        "titulo": "Das Erstgeburtsrechtsurteil des Obersten Gerichtshofs ist ein schwerer Schlag für Trump",
+        "enlace": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+        "desc": "Gary O’Donoghue von der BBC erklärt, was das bahnbrechende Urteil des Gerichts für den US-Präsidenten bedeutet.",
+        "fecha": "2026-06-30T14:37:54+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Finnland: Telefonieren über analoges Festnetz ist hier nun Geschichte",
+        "enlace": "https://www.spiegel.de/wirtschaft/finnland-telefonieren-ueber-analoges-festnetz-ist-hier-nun-geschichte-a-448c203d-c422-4f30-bca4-a1f9a09e1d36#ref=rss",
+        "desc": "Eben zum analogen Hörer greifen? Das geht vielerorts nicht mehr. In Finnland endet eine fast 150-jährige Geschichte: Der Betreiber des letzten großen aktiven Kupferleitungsnetzwerk…",
+        "fecha": "2026-06-30T17:17:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "DFB-Team: Das Scheitern des Julian Nagelsmann",
+        "enlace": "https://www.dw.com/de/dfb-team-das-scheitern-des-julian-nagelsmann/a-77773911?maca=de-rss-de-all-1119-rdf",
+        "desc": "Die deutsche Fußball-Nationalmannschaft ist mal wieder bei einem großen Turnier gescheitert. Der Fokus der Kritik liegt dabei besonders auf Bundestrainer Julian Nagelsmann, der vie…",
+        "fecha": "2026-06-30T16:01:47.351017+00:00",
+        "fuente": "DW Deutsch"
+      },
+      {
+        "titulo": "Weinschlacht in Spanien: Tausende baden im Rotwein",
+        "enlace": "http://de.euronews.com/video/2026/06/30/weinschlacht-in-spanien-tausende-baden-im-rotwein",
+        "desc": "Tausende Menschen kommen im spanischen Haro zur La-Rioja-Weinschlacht zusammen, bespritzen sich mit Wein, tanzen und steigen den Hügel zur Kirche hinauf.",
+        "fecha": "2026-06-30T15:02:25+02:00",
+        "fuente": "Euronews DE"
+      },
+      {
+        "titulo": "Der Oberste Gerichtshof der USA bestätigt das Verbot von Transgender-Frauen im weiblichen Schul- und Hochschulsport",
+        "enlace": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+        "desc": "Es sieht vor, dass Staaten Transgender-Athleten die Teilnahme an Frauen- und Mädchensportarten verbieten können.",
+        "fecha": "2026-06-30T15:15:09+00:00",
+        "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
@@ -388,21 +612,42 @@
         "desc": "Elke Kahr sarà alla guida delle seconda città del Paese. Il suo partito Kpo – che a livello nazionale è ridotto al 3% – ha ottenuto il 36% delle preferenze",
         "fecha": "2026-06-30T17:25:36+02:00",
         "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "La sentenza della Corte Suprema sul diritto di nascita è un duro colpo per Trump",
+        "enlace": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+        "desc": "Gary O’Donoghue della BBC spiega cosa significa la sentenza storica della corte per il presidente degli Stati Uniti.",
+        "fecha": "2026-06-30T14:37:54+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "La Corte suprema Usa boccia le limitazioni di Trump allo ius soli",
+        "enlace": "https://www.repubblica.it/esteri/2026/06/30/news/corte_suprema_usa_contro_decreto_trump_ius_soli-425442632/?rss",
+        "desc": "L’abolizione del diritto di cittadinanza per nascita è stato uno dei cavalli di battaglia della campagna del tycoon",
+        "fecha": "2026-06-30T17:00:33+02:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "La Corte Suprema degli Stati Uniti conferma i divieti per le donne transgender negli sport scolastici e universitari femminili",
+        "enlace": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+        "desc": "Stabilisce che gli stati possono vietare agli atleti transgender di competere negli sport femminili e femminili.",
+        "fecha": "2026-06-30T15:15:09+00:00",
+        "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "Gonçalo Ramos é reforço do AC Milan por cinco épocas",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/goncalo-ramos-e-reforco-do-ac-milan-por-cinco-epocas_d1750451",
-        "desc": "O avançado internacional português Gonçalo Ramos é reforço do AC Milan, com um contrato de cinco épocas, até 2031, informaram esta terça-feira os `rossoneri`, quintos classificados…",
-        "fecha": "2026-06-30T17:27:30+01:00",
+        "titulo": "INEM passa a pagar aos bombeiros 10.800 euros por cada ambulância",
+        "enlace": "https://www.rtp.pt/noticias/economia/inem-passa-a-pagar-aos-bombeiros-10800-euros-por-cada-ambulancia_n1750461",
+        "desc": "Cerca de 420 associações de bombeiros vão começar a receber, a partir de quarta-feira, 10.800 euros mensais por cada ambulância de socorro pré-hospitalar, o que representa um aumen…",
+        "fecha": "2026-06-30T17:51:17+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "IL quer eliminar restrições a privados na recolha de lixo",
-        "enlace": "https://observador.pt/2026/06/30/iniciativa-liberal-propoe-eliminar-restricoes-a-participacao-de-privados-na-recolha-e-tratamento-do-lixo/",
-        "desc": "A IL considera essa proibição \"uma limitação importante no desenvolvimento dos serviços públicos portugueses\"",
-        "fecha": "2026-06-30T16:28:10+01:00",
+        "titulo": "TAP: Bruxelas confirma conclusão do plano de reestruturação",
+        "enlace": "https://observador.pt/2026/06/30/bruxelas-confirma-conclusao-do-plano-de-reestruturacao-da-tap/",
+        "desc": "\"O plano permitiu à TAP tornar-se numa empresa mais robusta financeiramente\"",
+        "fecha": "2026-06-30T16:52:58+01:00",
         "fuente": "Observador"
       },
       {
@@ -410,6 +655,27 @@
         "enlace": "https://www.bbc.com/portuguese/articles/ckg01gg6yr5o?at_medium=RSS&at_campaign=rss",
         "desc": "Regiane Bressan, especialista em relações internacionais na América Latina, explica como a região tem mudado, ao longo dos últimos 20 anos, a maioria ideológica entre seus presiden…",
         "fecha": "2026-06-30T08:38:49+00:00",
+        "fuente": "BBC Brasil"
+      },
+      {
+        "titulo": "Último treino de Portugal em Palm Beach com todos disponíveis",
+        "enlace": "https://www.rtp.pt/noticias/selecao-nacional/ultimo-treino-de-portugal-em-palm-beach-com-todos-disponiveis_d1750463",
+        "desc": "A seleção portuguesa fez esta terça-feira o último treino no Gardens North County District Park, em Palm Beach, no Estados Unidos, numa sessão em que Roberto Martínez contou com os…",
+        "fecha": "2026-06-30T17:45:09+01:00",
+        "fuente": "RTP Notícias"
+      },
+      {
+        "titulo": "PSD suaviza lei das bandeiras, mas votação só em setembro",
+        "enlace": "https://observador.pt/especiais/psd-suaviza-lei-das-bandeiras-ideologicas-mas-nova-votacao-fica-para-setembro/",
+        "desc": "Sociais democratas propuseram ao CDS alterações que respeitam espírito inicial da lei, mas sem referências a bandeiras \"ideológicas\". E corrigem dois pontos jurídicos e legais ques…",
+        "fecha": "2026-06-30T16:48:27+01:00",
+        "fuente": "Observador"
+      },
+      {
+        "titulo": "Causa da morte de atriz de 'O Chamado' e 'Lilo & Stitch' foi Aids, aponta laudo",
+        "enlace": "https://www.bbc.com/portuguese/articles/c87250gxjx2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Daveigh Chase faleceu em Los Angeles este mês aos 35 anos; seu pai disse que ela estava morando na rua.",
+        "fecha": "2026-06-30T10:17:12+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -424,7 +690,7 @@
       {
         "titulo": "Oficial: El Barça anuncia el traspaso de Ansu Fati al Mónaco",
         "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260630/1004201220/oficial-barca-anuncia-traspaso-ansu-fati-monaco.html",
-        "desc": "Después de varias semanas de negociaciones, el FC Barcelona y el AS Monaco han llegado a un acuerdo para el traspaso de Ansu Fati (23 años), que firma por cuatro temporadadas por e…",
+        "desc": "Después de varias semanas de negociaciones, el FC Barcelona y el AS Monaco han llegado a un acuerdo para el traspaso de Ansu Fati (23 años), que firma por cuatro temporadas por el …",
         "fecha": "2026-06-30T17:00:54+02:00",
         "fuente": "Mundo Deportivo"
       },
@@ -436,11 +702,39 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Javier Aguirre prepara cambios ante Ecuador",
-        "enlace": "https://www.espn.com.mx/futbol/mundial/nota/_/id/16931759/mexico-javier-aguirre-prepara-cambios-ante-ecuador",
-        "desc": "Desde las entrañas de la Selección Mexicana se conocía que Javier Aguirre no iba a repetir 11 titular en ninguno de sus compromisos.",
-        "fecha": "2026-06-30T09:32:33-05:00",
-        "fuente": "ESPN Español"
+        "titulo": "Los fanáticos alemanes necesitan esperanza ante la perspectiva de Klopp",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Mientras Alemania nuevamente no logra avanzar en una Copa del Mundo, BBC Sport analiza las consecuencias de su derrota ante Paraguay y lo que sucede a continuación.",
+        "fecha": "2026-06-30T11:35:31+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Yamaha fulmina a su pareja de pilotos",
+        "enlace": "https://www.marca.com/motor/motogp/2026/06/30/fabio-quartararo-alex-rins-salen-yamaha-abre-hueco-jorge-martin.html",
+        "desc": "La fábrica japonesa anuncia la marcha de la pareja de pilotos titular y firmará una nueva dupla con el actual líder de MotoGP y el candidato Ai Ogura",
+        "fecha": "2026-06-30T11:25:34+02:00",
+        "fuente": "Marca"
+      },
+      {
+        "titulo": "Ansu intentará cumplir su sueño pero ya no será en el Barça",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260630/1004200447/ansu-intentara-cumplir-sueno-no-sera-barca.html",
+        "desc": "Ansu Fati deja atrás un sueño de manera definitiva, el de marcar una época con el FC Barcelona. A partir de ahora su sueño/desafío será construirse una carrera en el fútbol que pue…",
+        "fecha": "2026-06-30T17:36:32+02:00",
+        "fuente": "Mundo Deportivo"
+      },
+      {
+        "titulo": "Sigue la magia: Marcelinho Huertas renueva una temporada más a sus 43 años",
+        "enlace": "https://www.gigantes.com/liga-endesa/marcelinho-huertas-renovacion-la-laguna-tenerife-43-anos-2026-2027/",
+        "desc": "El base brasileño continuará un curso más en La Laguna Tenerife La entrada Sigue la magia: Marcelinho Huertas renueva una temporada más a sus 43 años se publicó primero en Gigantes…",
+        "fecha": "2026-06-30T13:38:55+00:00",
+        "fuente": "Gigantes Basket"
+      },
+      {
+        "titulo": "Las superestrellas francesas prosperan gracias a los audaces cambios de Deschamps",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+        "desc": "Por qué los cambios de Didier Deschamps en el personal y la formación podrían impulsar a Francia, subcampeona de 2022, a mejorar en esta Copa del Mundo.",
+        "fecha": "2026-06-30T11:18:24+00:00",
+        "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
@@ -452,27 +746,41 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "NBA free agency, trade buzz: Live updates on every...",
-        "enlace": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "desc": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Jalen Duren, Kawhi Leonard and more players.",
-        "fecha": "2026-06-30T10:24:04-05:00",
-        "fuente": "ESPN"
+        "titulo": "McLaren reveal VERY different British GP livery in 60-year tribute",
+        "enlace": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+        "desc": "",
+        "fecha": "2026-06-30T16:57:00",
+        "fuente": "Sky Sports"
       },
       {
-        "titulo": "Ivory Coast vs Norway team news LIVE!",
-        "enlace": "https://www.skysports.com/football/ivory-coast-vs-norway/live/549843",
-        "desc": "",
-        "fecha": "2026-06-29T11:47:00",
+        "titulo": "France superstars thriving thanks to Deschamps' bold changes",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+        "desc": "Why Didier Deschamps' changes to personnel and formation could propel 2022 runners-up France to go one better in this World Cup.",
+        "fecha": "2026-06-30T11:18:24+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "McLaren 'three months behind' rivals - Norris",
+        "enlace": "https://www.skysports.com/f1/news/12040/13559190/lando-norris-mclaren-driver-says-team-three-months-behind-f1-rivals-in-bid-to-get-back-to-winning-races",
+        "desc": "Lando Norris believes McLaren are \"three months behind\" in car development as they bid to get back to the front of Formula 1.",
+        "fecha": "2026-06-30T17:00:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "Première ligue féminine : tombeur du PSG, l'Olympique lyonnais sacré pour la 18e fois",
-        "enlace": "https://www.france24.com/fr/info-en-continu/20250516-premi%C3%A8re-ligue-f%C3%A9minine-vainqueur-du-psg-lyon-sacr%C3%A9-pour-la-18e-fois",
-        "desc": "Championnes ! L'Olympique lyonnais féminin a remporté, vendredi, son 18e titre de champion de France, le quatrième consécutif, en battant le PSG (3-0) en finale de l'Arkema Premièr…",
-        "fecha": "2025-05-16T21:21:14+00:00",
-        "fuente": "France 24 Sport"
+        "titulo": "Les supporters allemands ont besoin d'espoir alors que la perspective de Klopp se profile",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Alors que l'Allemagne ne parvient toujours pas à progresser lors d'une Coupe du monde, BBC Sport se penche sur les conséquences de sa défaite face au Paraguay et sur ce qui se passera ensuite.",
+        "fecha": "2026-06-30T11:35:31+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Les superstars françaises prospèrent grâce aux changements audacieux de Deschamps",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+        "desc": "Pourquoi les changements apportés par Didier Deschamps au personnel et à la formation pourraient propulser la France, finaliste de 2022, à faire mieux dans cette Coupe du monde.",
+        "fecha": "2026-06-30T11:18:24+00:00",
+        "fuente": "BBC Sport EN"
       }
     ],
     "deportes_de": [
@@ -480,17 +788,45 @@
         "titulo": "DFB-Team: Das Scheitern des Julian Nagelsmann",
         "enlace": "https://www.dw.com/de/dfb-team-das-scheitern-des-julian-nagelsmann/a-77773911?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die deutsche Fußball-Nationalmannschaft ist mal wieder bei einem großen Turnier gescheitert. Der Fokus der Kritik liegt dabei besonders auf Bundestrainer Julian Nagelsmann, der vie…",
-        "fecha": "2026-06-30T15:34:06.329633+00:00",
+        "fecha": "2026-06-30T16:02:15.129145+00:00",
         "fuente": "DW Sport"
+      },
+      {
+        "titulo": "Deutschlands Fans brauchen Hoffnung, da die Aussicht auf Klopp droht",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Da Deutschland bei einer Weltmeisterschaft erneut nicht weiterkommt, blickt BBC Sport auf die Folgen der Niederlage gegen Paraguay und darauf, was als nächstes passiert.",
+        "fecha": "2026-06-30T11:35:31+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Frühes WM-Aus für Deutschland: Was ist schief gelaufen?",
+        "enlace": "https://www.dw.com/de/frühes-wm-aus-für-deutschland-was-ist-schief-gelaufen/a-77766565?maca=de-rss-de-sport-4020-rdf",
+        "desc": "Das DFB-Team scheidet zum dritten Mal in Folge früh bei einer Fußball-WM aus. Die Pleite gegen Paraguay wirft Fragen auf: Warum scheiterte das Team erneut so früh? Wer ist schuld u…",
+        "fecha": "2026-06-30T16:02:15.129187+00:00",
+        "fuente": "DW Sport"
+      },
+      {
+        "titulo": "Frankreichs Superstars gedeihen dank der mutigen Veränderungen von Deschamps",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+        "desc": "Warum die personellen und formellen Veränderungen von Didier Deschamps Frankreich, den Vizemeister von 2022, dazu veranlassen könnten, bei dieser Weltmeisterschaft noch einen Schritt weiter zu gehen.",
+        "fecha": "2026-06-30T11:18:24+00:00",
+        "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "Maltempo e allagamenti in Toscana: segui la diretta",
-        "enlace": "https://video.gazzetta.it/video-maltempo-toscana-allagamenti-danni-segui-diretta/1a11e3ec-7a1c-11ee-9790-0f29f8a2d723",
-        "desc": "Maltempo Toscana, allagamenti e danni: segui la diretta La tempesta Ciaran è arrivata in Italia. È emergenza in Toscana, dove ci sono stati sei morti. Alcuni dispersi in diverse re…",
-        "fecha": "2023-11-03T08:57:25+01:00",
-        "fuente": "Gazzetta"
+        "titulo": "I tifosi tedeschi hanno bisogno di speranza mentre si profila la prospettiva di Klopp",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Mentre la Germania ancora una volta non riesce a progredire in una Coppa del Mondo, la BBC Sport esamina le conseguenze della sconfitta contro il Paraguay e cosa succederà dopo.",
+        "fecha": "2026-06-30T11:35:31+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Le superstar francesi prosperano grazie ai coraggiosi cambiamenti di Deschamps",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss",
+        "desc": "Perché i cambiamenti di Didier Deschamps nel personale e nella formazione potrebbero spingere la Francia, seconda classificata nel 2022, a fare meglio in questa Coppa del Mondo.",
+        "fecha": "2026-06-30T11:18:24+00:00",
+        "fuente": "BBC Sport EN"
       }
     ],
     "deportes_pt": [],
@@ -506,22 +842,57 @@
         "titulo": "Ciencia",
         "enlace": "http://www.elmundo.es/ciencia.html",
         "desc": "Ciencia",
-        "fecha": "2026-06-30T15:34:11.959230+00:00",
+        "fecha": "2026-06-30T16:02:25.656910+00:00",
         "fuente": "El Mundo Ciencia"
       },
       {
         "titulo": "El rescate de un niño renueva la esperanza de encontrar sobrevivientes tras los terremotos en Venezuela que dejan más de 1.700 muertos",
         "enlace": "https://www.bbc.co.uk/mundo/live/czxq45p430lt?at_medium=RSS&at_campaign=rss",
         "desc": "Los equipos de búsqueda y rescate luchan contra el tiempo en las zonas afectadas por los dos terremotos consecutivos de magnitud 7,2 y 7,5 que afectaron a Venezuela y sus múltiples…",
-        "fecha": "2026-06-30T15:34:12.850128+00:00",
+        "fecha": "2026-06-30T16:02:29.878381+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Starry Chandelier Cluster",
+        "titulo": "La vacunación provoca anticuerpos ampliamente neutralizantes del VIH en primates",
+        "enlace": "https://www.nature.com/articles/s41586-026-10837-5",
+        "desc": "Naturaleza, Publicado en línea: 30 de junio de 2026; doi:10.1038/s41586-026-10837-5 La vacunación provoca anticuerpos ampliamente neutralizantes del VIH en primates",
+        "fecha": "2026-06-30T16:02:30.120160+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "Racimo de araña estrellada",
         "enlace": "https://www.nasa.gov/image-article/starry-chandelier-cluster/",
-        "desc": "This image released on June 26, 2026, features the globular cluster NGC 6723, sometimes called the Chandelier Cluster. Like its namesake, it sparkles with countless lights. However…",
+        "desc": "Esta imagen publicada el 26 de junio de 2026 muestra el cúmulo globular NGC 6723, a veces llamado Cúmulo Araña. Al igual que su homónimo, brilla con innumerables luces. Sin embargo…",
         "fecha": "2026-06-30T15:02:59+00:00",
-        "fuente": "NASA ES"
+        "fuente": "NASA EN"
+      },
+      {
+        "titulo": "Los expertos auguran «miles de réplicas» de los terremotos de Venezuela en las próximas semanas",
+        "enlace": "https://www.abc.es/ciencia/expertos-auguran-miles-replicas-terremotos-venezuela-proximas-20260629154939-nt.html",
+        "desc": "Mientras aún se buscan supervivientes entre los escombros de las zonas afectadas de Venezuela por los dos terremotos de 7,2 y 7,5 que azotaron el país el pasado miércoles, la tierr…",
+        "fecha": "2026-06-29T15:49:39+02:00",
+        "fuente": "ABC Ciencia"
+      },
+      {
+        "titulo": "\"Me han dejado sola para encontrar a mis hijas\": la rabia de los venezolanos que acusan al gobierno de negligencia en la respuesta a la tragedia de los terremotos",
+        "enlace": "https://www.bbc.com/mundo/articles/cpv382ppvjvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Las personas que viven en las zonas devastadas por dos terremotos afirman que necesitan más apoyo del gobierno. \"Es como si te hubieran dejado sola para encontrar a tus seres queri…",
+        "fecha": "2026-06-30T14:33:06+00:00",
+        "fuente": "BBC Ciencia ES"
+      },
+      {
+        "titulo": "Nota de retractación: la focalización en NSD2 revierte la plasticidad y la resistencia a los medicamentos en el cáncer de próstata",
+        "enlace": "https://www.nature.com/articles/s41586-026-10816-w",
+        "desc": "Naturaleza, Publicado en línea: 30 de junio de 2026; doi:10.1038/s41586-026-10816-w Nota de retractación: la focalización en NSD2 revierte la plasticidad y la resistencia a los medicamentos en el cáncer de próstata",
+        "fecha": "2026-06-30T16:02:30.120199+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "Ames Estrellas científicas del mes de julio de 2026",
+        "enlace": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/",
+        "desc": "Estrellas científicas del mes de NASA Ames: julio de 2026 La Dirección Científica de Ames de la NASA reconoce las contribuciones destacadas de (en la foto de izquierda a derecha) Sungshin Choi, Yi-Chun Chen,...",
+        "fecha": "2026-06-30T09:12:44+00:00",
+        "fuente": "NASA EN"
       }
     ],
     "ciencia_en": [
@@ -529,7 +900,7 @@
         "titulo": "Vaccination elicits HIV broadly neutralizing antibodies in primates",
         "enlace": "https://www.nature.com/articles/s41586-026-10837-5",
         "desc": "Nature, Published online: 30 June 2026; doi:10.1038/s41586-026-10837-5 Vaccination elicits HIV broadly neutralizing antibodies in primates",
-        "fecha": "2026-06-30T15:34:13.084588+00:00",
+        "fecha": "2026-06-30T16:02:34.226040+00:00",
         "fuente": "Nature"
       },
       {
@@ -554,10 +925,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Could this be Australia's warmest winter ever?",
-        "enlace": "https://phys.org/news/2026-06-australia-warmest-winter.html",
-        "desc": "Many parts of Australia have already broken early winter maximum and minimum temperature records.",
-        "fecha": "2026-06-30T11:20:12-04:00",
+        "titulo": "Fireworks, heat and drought make this July 4th a recipe for wildfires",
+        "enlace": "https://phys.org/news/2026-06-fireworks-drought-july-4th-recipe.html",
+        "desc": "Across the United States, the sky will be erupting with fireworks on July 4, 2026, and the days around it as America celebrates the 250th anniversary of its independence. Many citi…",
+        "fecha": "2026-06-30T12:00:09-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -568,13 +939,6 @@
         "fuente": "NASA"
       },
       {
-        "titulo": "Solar eclipse: myth vs fact",
-        "enlace": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Solar_eclipse_myth_vs_fact",
-        "desc": "Video: 00:03:39 What really happens during a solar eclipse? ESA astronaut Pablo Álvarez Fernández separates myth from fact, answering common questions and misconceptions about one …",
-        "fecha": "2026-06-26T12:00:00+02:00",
-        "fuente": "ESA"
-      },
-      {
         "titulo": "Scientists may have finally found how Alzheimer's spreads through the brain",
         "enlace": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
         "desc": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful …",
@@ -582,11 +946,25 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-        "enlace": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-        "desc": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-        "fecha": "2026-06-30T11:20:44+00:00",
+        "titulo": "Potentially dangerous heatwave to sweep across the eastern United States",
+        "enlace": "https://www.bbc.co.uk/weather/videos/crel0wll091o?at_medium=RSS&at_campaign=rss",
+        "desc": "A heatwave developing across the eastern United States will bring daytime heat, high humidity and stifling overnight temperatures as Ben Rich explains.",
+        "fecha": "2026-06-30T15:42:00+00:00",
         "fuente": "BBC Science"
+      },
+      {
+        "titulo": "Solar eclipse: myth vs fact",
+        "enlace": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Solar_eclipse_myth_vs_fact",
+        "desc": "Video: 00:03:39 What really happens during a solar eclipse? ESA astronaut Pablo Álvarez Fernández separates myth from fact, answering common questions and misconceptions about one …",
+        "fecha": "2026-06-26T12:00:00+02:00",
+        "fuente": "ESA"
+      },
+      {
+        "titulo": "Retraction Note: NSD2 targeting reverses plasticity and drug resistance in prostate cancer",
+        "enlace": "https://www.nature.com/articles/s41586-026-10816-w",
+        "desc": "Nature, Published online: 30 June 2026; doi:10.1038/s41586-026-10816-w Retraction Note: NSD2 targeting reverses plasticity and drug resistance in prostate cancer",
+        "fecha": "2026-06-30T16:02:34.226079+00:00",
+        "fuente": "Nature"
       }
     ],
     "ciencia_fr": [
@@ -596,6 +974,27 @@
         "desc": "Google prépare le lancement en France des résumés par IA dans les résultats de recherche en ligne, une fonctionnalité déjà présente à l'étranger et qui fait craindre de nouvelles b…",
         "fecha": "2026-06-30T13:33:18+00:00",
         "fuente": "Sciences et Avenir"
+      },
+      {
+        "titulo": "La vaccination produit des anticorps neutralisant largement le VIH chez les primates",
+        "enlace": "https://www.nature.com/articles/s41586-026-10837-5",
+        "desc": "Nature, Mise en ligne : 30 juin 2026 ; est ce que je:10.1038/s41586-026-10837-5 La vaccination produit des anticorps largement neutralisants contre le VIH chez les primates",
+        "fecha": "2026-06-30T16:02:37.804146+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "\"Sans doute un nouvel épisode caniculaire à partir de ce week-end\"",
+        "enlace": "https://www.sciencesetavenir.fr/nature-environnement/meteo/sans-doute-un-nouvel-episode-caniculaire-a-partir-de-ce-week-end_193503?xtor=RSS-15",
+        "desc": "\"A partir de vendredi et du week-end prochain, on s'attend à nouveau à des températures plus élevées\",&nbsp;a indiqué le prévisionniste de Météo-France Patrick Galois.",
+        "fecha": "2026-06-30T13:10:42+00:00",
+        "fuente": "Sciences et Avenir"
+      },
+      {
+        "titulo": "Note de rétraction : le ciblage de NSD2 inverse la plasticité et la résistance aux médicaments dans le cancer de la prostate",
+        "enlace": "https://www.nature.com/articles/s41586-026-10816-w",
+        "desc": "Nature, Mise en ligne : 30 juin 2026 ; doi:10.1038/s41586-026-10816-w Remarque sur la rétraction : le ciblage de NSD2 inverse la plasticité et la résistance aux médicaments dans le cancer de la prostate",
+        "fecha": "2026-06-30T16:02:37.804187+00:00",
+        "fuente": "Nature EN"
       }
     ],
     "ciencia_de": [
@@ -603,17 +1002,53 @@
         "titulo": "Die Hitzewelle in Europa ist kein normales Sommerwetter",
         "enlace": "https://www.dw.com/de/die-hitzewelle-in-europa-ist-kein-normales-sommerwetter/a-77708037?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Der vom Menschen verursachte Klimawandel hat zu einem Anstieg der Temperaturen geführt - das macht die derzeitige Rekordhitze bis zu 4 Grad Celsius heißer als \"normale\" Hitzewellen…",
-        "fecha": "2026-06-30T15:34:16.843890+00:00",
+        "fecha": "2026-06-30T16:02:41.529352+00:00",
         "fuente": "DW Wissen"
+      },
+      {
+        "titulo": "Die Impfung löst bei Primaten die Bildung von weitgehend neutralisierenden HIV-Antikörpern aus",
+        "enlace": "https://www.nature.com/articles/s41586-026-10837-5",
+        "desc": "Natur, Online veröffentlicht: 30. Juni 2026; doi:10.1038/s41586-026-10837-5 Die Impfung löst bei Primaten weitgehend neutralisierende HIV-Antikörper aus",
+        "fecha": "2026-06-30T16:02:41.694920+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "Tote und Verletzte in Venezuela: Wie entstehen Erdbeben?",
+        "enlace": "https://www.dw.com/de/tote-und-verletzte-in-venezuela-wie-entstehen-erdbeben/a-66765542?maca=de-rss-de-wissenschaft-4019-rdf",
+        "desc": "Zwei Erdbeben haben kurz hintereinander Venezuela erschüttert. Wodurch entsteht das heftige Beben in dem Land oder in anderen Risiko-Gebieten? Die wichtigsten Fragen und Antworten …",
+        "fecha": "2026-06-30T16:02:41.529394+00:00",
+        "fuente": "DW Wissen"
+      },
+      {
+        "titulo": "Hinweis zum Rückzug: NSD2-Targeting kehrt Plastizität und Arzneimittelresistenz bei Prostatakrebs um",
+        "enlace": "https://www.nature.com/articles/s41586-026-10816-w",
+        "desc": "Natur, Online veröffentlicht: 30. Juni 2026; doi:10.1038/s41586-026-10816-w Rückzugshinweis: NSD2-Targeting kehrt Plastizität und Arzneimittelresistenz bei Prostatakrebs um",
+        "fecha": "2026-06-30T16:02:41.694959+00:00",
+        "fuente": "Nature EN"
       }
     ],
-    "ciencia_it": [],
+    "ciencia_it": [
+      {
+        "titulo": "La vaccinazione suscita anticorpi ampiamente neutralizzanti l’HIV nei primati",
+        "enlace": "https://www.nature.com/articles/s41586-026-10837-5",
+        "desc": "Natura, Pubblicato online: 30 giugno 2026; doi:10.1038/s41586-026-10837-5 La vaccinazione suscita anticorpi ampiamente neutralizzanti l'HIV nei primati",
+        "fecha": "2026-06-30T16:02:48.906131+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "Nota di ritrazione: il targeting NSD2 inverte la plasticità e la resistenza ai farmaci nel cancro alla prostata",
+        "enlace": "https://www.nature.com/articles/s41586-026-10816-w",
+        "desc": "Natura, Pubblicato online: 30 giugno 2026; doi:10.1038/s41586-026-10816-w Nota di ritrattazione: il targeting NSD2 inverte la plasticità e la resistenza ai farmaci nel cancro alla prostata",
+        "fecha": "2026-06-30T16:02:48.906172+00:00",
+        "fuente": "Nature EN"
+      }
+    ],
     "ciencia_pt": [
       {
-        "titulo": "IL quer eliminar restrições a privados na recolha de lixo",
-        "enlace": "https://observador.pt/2026/06/30/iniciativa-liberal-propoe-eliminar-restricoes-a-participacao-de-privados-na-recolha-e-tratamento-do-lixo/",
-        "desc": "A IL considera essa proibição \"uma limitação importante no desenvolvimento dos serviços públicos portugueses\"",
-        "fecha": "2026-06-30T16:28:10+01:00",
+        "titulo": "TAP: Bruxelas confirma conclusão do plano de reestruturação",
+        "enlace": "https://observador.pt/2026/06/30/bruxelas-confirma-conclusao-do-plano-de-reestruturacao-da-tap/",
+        "desc": "\"O plano permitiu à TAP tornar-se numa empresa mais robusta financeiramente\"",
+        "fecha": "2026-06-30T16:52:58+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -622,30 +1057,23 @@
         "desc": "Regiane Bressan, especialista em relações internacionais na América Latina, explica como a região tem mudado, ao longo dos últimos 20 anos, a maioria ideológica entre seus presiden…",
         "fecha": "2026-06-30T08:38:49+00:00",
         "fuente": "BBC Brasil Tec"
+      },
+      {
+        "titulo": "PSD suaviza lei das bandeiras, mas votação só em setembro",
+        "enlace": "https://observador.pt/especiais/psd-suaviza-lei-das-bandeiras-ideologicas-mas-nova-votacao-fica-para-setembro/",
+        "desc": "Sociais democratas propuseram ao CDS alterações que respeitam espírito inicial da lei, mas sem referências a bandeiras \"ideológicas\". E corrigem dois pontos jurídicos e legais ques…",
+        "fecha": "2026-06-30T16:48:27+01:00",
+        "fuente": "Observador Tech"
+      },
+      {
+        "titulo": "Causa da morte de atriz de 'O Chamado' e 'Lilo & Stitch' foi Aids, aponta laudo",
+        "enlace": "https://www.bbc.com/portuguese/articles/c87250gxjx2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Daveigh Chase faleceu em Los Angeles este mês aos 35 anos; seu pai disse que ela estava morando na rua.",
+        "fecha": "2026-06-30T10:17:12+00:00",
+        "fuente": "BBC Brasil Tec"
       }
     ],
     "economia_es": [
-      {
-        "titulo": "RBI Funding Curbs Deal ‘Body Blow’ to Indian Prop Trading Firms",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "desc": "India’s proprietary trading firms and stock brokers are bracing for a major overhaul of how they finance trading activity.",
-        "fecha": "2026-06-30T04:06:08+00:00",
-        "fuente": "Bloomberg"
-      },
-      {
-        "titulo": "US Supreme Court rejects Trump’s bid to end birthright citizenship",
-        "enlace": "https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa",
-        "desc": "Ruling is major blow to president’s immigration agenda",
-        "fecha": "2026-06-30T14:51:08+00:00",
-        "fuente": "Financial Times"
-      },
-      {
-        "titulo": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-        "enlace": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-        "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-        "fecha": "2025-01-27T14:26:00-05:00",
-        "fuente": "WSJ Economía"
-      },
       {
         "titulo": "Jubilación parcial de los empleados públicos: los interinos tendrán contrato un máximo de 5 años",
         "enlace": "https://www.expansion.com/economia/2026/06/30/6a439286e5fdea0a168b458e.html",
@@ -657,37 +1085,107 @@
         "titulo": "Bankinter mejora el 2,5% TAE de su cuenta digital al añadir un pago de 600€ al traer nómina o pensión",
         "enlace": "https://www.elconfidencial.com/mercados/2026-06-30/bankinter-rentabilidad-tae-cuenta-digital-pago-domiciliar_4380851/",
         "desc": "El incentivo se realizará mediante 12 abonos mensuales de 50 euros brutos (40,50 euros netos) al mes para clientes que domicilien al menos una nómina o pensión por, al menos, 850 e…",
-        "fecha": "2026-06-30T15:34:22.943229+00:00",
+        "fecha": "2026-06-30T16:02:59.692909+00:00",
         "fuente": "El Confidencial Eco"
+      },
+      {
+        "titulo": "Reino Unido busca impugnar la compra de Warner por perjuicio a la pluralidad mediática",
+        "enlace": "https://www.abc.es/economia/reino-unido-busca-impugnar-compra-warner-perjuicio-20260630160845-nt.html",
+        "desc": "La ministra británica de Cultura, Lisa Nandy, ha declarado este martes que tiene la intención de intervenir en la propuesta de adquisición de Warner Bros Discovery por parte de Par…",
+        "fecha": "2026-06-30T16:08:46+02:00",
+        "fuente": "ABC Economía"
+      },
+      {
+        "titulo": "S&amp;P 500 sube al final del mejor trimestre desde 2020: cierre de los mercados",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+        "desc": "El mejor trimestre en seis años para las acciones está terminando con una nota positiva: los fabricantes de chips extienden su repunte desde los mínimos provocados por la guerra y las señales de resiliencia económica alimentan el optimismo...",
+        "fecha": "2026-06-29T22:06:50+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "Nike está lista para informar sus ganancias después de la campana. Esto es lo que puede esperar",
+        "enlace": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+        "desc": "Se espera que Nike registre otra cuarta parte de ventas a la baja mientras el gigante de las zapatillas de deporte lucha por recuperar fuerza bajo su estrategia de recuperación.",
+        "fecha": "2026-06-30T16:00:01+00:00",
+        "fuente": "CNBC"
+      },
+      {
+        "titulo": "Madrid anuncia \"el desbloqueo\" definitivo de la Operación Campamento para construir 10.000 viviendas",
+        "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/06/30/6a43c8aee5fdeaf8178b45d2.html",
+        "desc": "El alcalde de Madrid, José Luis Martínez-Almeida, ha anunciado en el Pleno del Estado de la Ciudad el desbloqueo definitivo de la operación Campamento con la aprobación en la Junta…",
+        "fecha": "2026-06-30T15:46:34+02:00",
+        "fuente": "Expansión"
+      },
+      {
+        "titulo": "Banca March prorroga su depósito digital al 2,5% TAE durante otro mes más",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-06-30/banca-march-rentabilidad-deposito-digital-prorroga-mes_4380839/",
+        "desc": "Un ahorrador que depositara el máximo permitido de 300.000 euros obtendría un rendimiento de 7.500 euros brutos al finalizar el plazo",
+        "fecha": "2026-06-30T16:02:59.692954+00:00",
+        "fuente": "El Confidencial Eco"
+      },
+      {
+        "titulo": "Ángel Simón (presidente de Indra): «Las alianzas ya no son una opción estratégica, sino una necesidad»",
+        "enlace": "https://www.abc.es/economia/angel-simon-presidente-indra-alianzas-opcion-estrategica-20260630140326-nt.html",
+        "desc": "Comienza una nueva etapa en Indra. Ángel Simón, su presidente desde apenas hace dos meses, y su consejero delegado, Josep Maria Recasens, desde finales de mayo, han afrontado hoy e…",
+        "fecha": "2026-06-30T14:03:26+02:00",
+        "fuente": "ABC Economía"
+      },
+      {
+        "titulo": "El oro supera los 4.000 dólares mientras los operadores observan las perspectivas de la Fed y las conversaciones con Irán",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/gold-holds-drop-as-us-iran-tensions-weigh-on-inflation-outlook",
+        "desc": "El oro superó los 4.000 dólares la onza, mientras los operadores sopesaban las perspectivas de la política monetaria estadounidense tras una nueva serie de datos económicos.",
+        "fecha": "2026-06-29T23:44:48+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "Medicare comenzará a cubrir medicamentos para la obesidad por primera vez. Esto es lo que los pacientes deben saber",
+        "enlace": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
+        "desc": "La medida podría desbloquear millones de nuevos pacientes para Novo Nordisk y Eli Lilly y ampliar el acceso a medicamentos que antes estaban fuera del alcance de las personas mayores.",
+        "fecha": "2026-06-30T14:35:38+00:00",
+        "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "RBI Funding Curbs Deal ‘Body Blow’ to Indian Prop Trading Firms",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "desc": "India’s proprietary trading firms and stock brokers are bracing for a major overhaul of how they finance trading activity.",
-        "fecha": "2026-06-30T04:06:08+00:00",
+        "titulo": "S&amp;P 500 Climbs at End of Best Quarter Since 2020: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+        "desc": "The best quarter in six years for stocks is ending on a positive note, with chipmakers extending their surge from war-driven lows and signs of economic resilience fueling optimism …",
+        "fecha": "2026-06-29T22:06:50+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "US Supreme Court rejects Trump’s bid to end birthright citizenship",
-        "enlace": "https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa",
-        "desc": "Ruling is major blow to president’s immigration agenda",
-        "fecha": "2026-06-30T14:51:08+00:00",
-        "fuente": "Financial Times"
+        "titulo": "Bessent warns gas stations 'we're watching' as Trump demands immediate price cuts",
+        "enlace": "https://www.foxbusiness.com/media/bessent-warns-gas-stations-were-watching-threat-trump-demands-immediate-price-cuts",
+        "desc": "Scott Bessent warns gasoline retailers the Trump administration is watching pump prices and expects them to pass crude oil savings to consumers.",
+        "fecha": "2026-06-30T11:41:11-04:00",
+        "fuente": "Fox Business"
       },
       {
-        "titulo": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-        "enlace": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-        "desc": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
-        "fecha": "2025-01-27T14:26:00-05:00",
-        "fuente": "WSJ Markets"
+        "titulo": "Nike is set to report earnings after the bell. Here's what to expect",
+        "enlace": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+        "desc": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+        "fecha": "2026-06-30T16:00:01+00:00",
+        "fuente": "CNBC"
       },
       {
-        "titulo": "American Airlines delay strands GOP lawmaker, causes 3 House members to miss votes",
-        "enlace": "https://www.foxbusiness.com/politics/american-airlines-delay-strands-gop-lawmaker-causes-3-house-members-miss-votes",
-        "desc": "Rep. Max Miller blasted American Airlines over a prolonged flight delay that left three lawmakers unable to return to Washington in time for House votes.",
-        "fecha": "2026-06-30T08:52:16-04:00",
+        "titulo": "Turkey’s economic plan to win from the Iran war",
+        "enlace": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+        "desc": "The country is a case study in the spillovers of conflict—both positive and negative",
+        "fecha": "2026-06-29T20:52:26+00:00",
+        "fuente": "The Economist"
+      },
+      {
+        "titulo": "Gold Edges Above $4,000 as Traders Eye Fed Outlook, Iran Talks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/gold-holds-drop-as-us-iran-tensions-weigh-on-inflation-outlook",
+        "desc": "Gold edged above $4,000 an ounce, as traders weighed the outlook for US monetary policy following a fresh slew of economic data.",
+        "fecha": "2026-06-29T23:44:48+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "California food chains must post menu allergen warnings starting July 1",
+        "enlace": "https://www.foxbusiness.com/lifestyle/california-food-chains-must-post-menu-allergen-warnings-starting-july-1",
+        "desc": "Large restaurant chains in California must begin disclosing major food allergens across menus and ordering platforms under a first-in-the-nation law effective July 1.",
+        "fecha": "2026-06-30T11:26:39-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -698,75 +1196,103 @@
         "fuente": "CNBC"
       },
       {
-        "titulo": "Form 4 First US Bancshares Inc For: 30 June",
-        "enlace": "https://www.investing.com/news/filings/form-4-first-us-bancshares-inc-for-30-june-93CH-4768288",
-        "desc": "",
-        "fecha": "2026-06-30T15:34:24.788153+00:00",
-        "fuente": "Investing.com"
-      },
-      {
-        "titulo": "Elon Musk in a post on X says some of his Trump posts ‘went too far’ and that he regrets them",
-        "enlace": "https://www.marketwatch.com/story/elon-musk-in-a-post-on-x-says-some-of-his-trump-posts-went-too-far-and-that-he-regrets-them-90e73a6a?mod=mw_rss_realtimeheadlines",
-        "desc": "",
-        "fecha": "2025-06-11T07:09:00+00:00",
-        "fuente": "MarketWatch"
-      },
-      {
-        "titulo": "Turkey’s economic plan to win from the Iran war",
-        "enlace": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
-        "desc": "The country is a case study in the spillovers of conflict—both positive and negative",
-        "fecha": "2026-06-29T20:52:26+00:00",
+        "titulo": "China cracks down on rule-bending offshore investments",
+        "enlace": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+        "desc": "It wants mainland investors to bet on its own tech dreams not America’s",
+        "fecha": "2026-06-28T10:33:26+00:00",
         "fuente": "The Economist"
       }
     ],
     "economia_fr": [
       {
-        "titulo": "RBI Funding Curbs Deal ‘Body Blow’ to Indian Prop Trading Firms",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "desc": "India’s proprietary trading firms and stock brokers are bracing for a major overhaul of how they finance trading activity.",
-        "fecha": "2026-06-30T04:06:08+00:00",
-        "fuente": "Bloomberg FR"
+        "titulo": "Le S&P 500 grimpe à la fin du meilleur trimestre depuis 2020 : les marchés se replient",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+        "desc": "Le meilleur trimestre depuis six ans pour les actions se termine sur une note positive, avec des fabricants de puces qui prolongent leur progression depuis les plus bas de la guerre et des signes de résilience économique alimentant l'optimisme…",
+        "fecha": "2026-06-29T22:06:50+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
+        "titulo": "L'or dépasse les 4 000 $ alors que les traders scrutent les perspectives de la Fed et les pourparlers sur l'Iran",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/gold-holds-drop-as-us-iran-tensions-weigh-on-inflation-outlook",
+        "desc": "L'or a légèrement dépassé les 4 000 dollars l'once, alors que les traders évaluaient les perspectives de la politique monétaire américaine suite à une nouvelle série de données économiques.",
+        "fecha": "2026-06-29T23:44:48+00:00",
+        "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Wall Street: Die Nasdaq feiert ihr bestes Quartal in sechs Jahren",
-        "enlace": "https://www.handelsblatt.com/audio/wall-street/wall-street-die-nasdaq-feiert-ihr-bestes-quartal-in-sechs-jahren/100236947.html",
-        "desc": "Am Dienstag stehen neue Konjunkturdaten im Fokus der Wall Street. Künstliche Intelligenz bleibt der zentrale Markttreiber - dabei wird bei den Unternehmen in zwei Gruppen unterschi…",
-        "fecha": "2026-06-30T15:11:55+00:00",
+        "titulo": "Interview: Helmholtz-Chef: „Die Reputation des Forschungsstandortes steht auf dem Spiel“",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/cispa-institut-reputation-des-forschungsstandortes-steht-auf-dem-spiel/100236513.html",
+        "desc": "Helmholtz-Präsident Keller äußert sich erstmals zu den Vorgängen rund um das Forschungszentrum Cispa. Er benennt Versäumnisse und fordert neue Regeln im Umgang mit China.",
+        "fecha": "2026-06-30T15:38:27+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "RBI Funding Curbs Deal ‘Body Blow’ to Indian Prop Trading Firms",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "desc": "India’s proprietary trading firms and stock brokers are bracing for a major overhaul of how they finance trading activity.",
-        "fecha": "2026-06-30T04:06:08+00:00",
-        "fuente": "Bloomberg"
+        "titulo": "S&P 500 steigt am Ende des besten Quartals seit 2020: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+        "desc": "Das beste Quartal seit sechs Jahren für Aktien endet mit einer positiven Note: Die Chiphersteller setzen ihren Aufschwung von den kriegsbedingten Tiefstständen fort und Anzeichen wirtschaftlicher Widerstandsfähigkeit schüren den Optimismus …",
+        "fecha": "2026-06-29T22:06:50+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
+        "titulo": "Koalition: Ringen um die Steuerreform: Entlastungen könnten in zwei Stufen kommen",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/koalition-ringen-um-steuerreform-entlastung-koennte-in-zwei-stufen-kommen/100236775.html",
+        "desc": "Union und SPD wollen sich am Mittwoch auf eine Steuerreform einigen. Es geht um Entlastungen von bis zu 900 Euro im Jahr für einen Steuerzahler. Doch die Finanzierung ist umstritte…",
+        "fecha": "2026-06-30T15:37:28+00:00",
+        "fuente": "Handelsblatt"
+      },
+      {
+        "titulo": "Gold klettert über 4.000 US-Dollar, während Händler den Fed-Ausblick und die Iran-Gespräche im Auge behalten",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/gold-holds-drop-as-us-iran-tensions-weigh-on-inflation-outlook",
+        "desc": "Gold stieg leicht auf über 4.000 US-Dollar pro Unze, da Händler nach einer Reihe neuer Wirtschaftsdaten die Aussichten für die US-Geldpolitik abwägten.",
+        "fecha": "2026-06-29T23:44:48+00:00",
+        "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "RBI Funding Curbs Deal ‘Body Blow’ to Indian Prop Trading Firms",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "desc": "India’s proprietary trading firms and stock brokers are bracing for a major overhaul of how they finance trading activity.",
-        "fecha": "2026-06-30T04:06:08+00:00",
-        "fuente": "Bloomberg"
+        "titulo": "L'indice S&P 500 sale alla fine del miglior trimestre dal 2020: i mercati si riavvicinano",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+        "desc": "Il miglior trimestre in sei anni per le azioni si sta concludendo con una nota positiva, con i produttori di chip che estendono la loro impennata dai minimi causati dalla guerra e segnali di resilienza economica che alimentano l’ottimismo…",
+        "fecha": "2026-06-29T22:06:50+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
+        "titulo": "L'oro supera i 4.000 dollari secondo le previsioni della Fed di Traders Eye, colloqui con l'Iran",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/gold-holds-drop-as-us-iran-tensions-weigh-on-inflation-outlook",
+        "desc": "L'oro è salito sopra i 4.000 dollari l'oncia, mentre i trader valutavano le prospettive per la politica monetaria statunitense a seguito di una nuova serie di dati economici.",
+        "fecha": "2026-06-29T23:44:48+00:00",
+        "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "\"Só porque uma tarefa é substituível por IA, não quer dizer que o trabalho o seja\"",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/so-porque-uma-tarefa-e-substituivel-por-ia-nao-quer-dizer-que-o-trabalho-o-seja",
-        "desc": "O economista-chefe da OpenAI não vê a inteligência artificial a provocar um aumento desenfreado no desemprego e defende que o sucesso da tecnologia dentro de uma empresa é um desaf…",
-        "fecha": "2026-06-30T16:27:28+01:00",
+        "titulo": "Lisboa contraria ganhos europeus na última sessão do trimestre. JM afunda quase 4%",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-contraria-ganhos-europeus-na-ultima-sessao-do-trimestre-jm-afunda-quase-4",
+        "desc": "Numa sessão globalmene positiva a nível europeu, o PSI cedeu às perdas das retalhistas, com a energia a impedir um maior recuo para o índice.",
+        "fecha": "2026-06-30T16:48:28+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "RBI Funding Curbs Deal ‘Body Blow’ to Indian Prop Trading Firms",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/rbi-funding-curbs-deals-body-blow-to-indian-prop-trading-firms",
-        "desc": "India’s proprietary trading firms and stock brokers are bracing for a major overhaul of how they finance trading activity.",
-        "fecha": "2026-06-30T04:06:08+00:00",
-        "fuente": "Bloomberg"
+        "titulo": "S&P 500 sobe no final do melhor trimestre desde 2020: encerramento dos mercados",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+        "desc": "O melhor trimestre em seis anos para as ações está a terminar com uma nota positiva, com os fabricantes de chips a prolongarem a sua recuperação após os mínimos provocados pela guerra e os sinais de resiliência económica a alimentarem o otimismo…",
+        "fecha": "2026-06-29T22:06:50+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
+        "titulo": "Conselho Superior da Magistratura abriu 24 processos disciplinares a juizes em 2025",
+        "enlace": "https://www.jornaldenegocios.pt/economia/justica/detalhe/conselho-superior-da-magistratura-abriu-24-processos-disciplinares-a-juizes-em-2025",
+        "desc": "A nível de quadros de juízes, em 2025 a magistratura judicial tinha 1.939 juízes, menos três do que em 2024, e 1.814 estavam em efetividade de funções.",
+        "fecha": "2026-06-30T16:42:38+01:00",
+        "fuente": "Jornal de Negócios"
+      },
+      {
+        "titulo": "Ouro ultrapassa US$ 4.000 enquanto traders olham para perspectivas do Fed e negociações sobre Irã",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-29/gold-holds-drop-as-us-iran-tensions-weigh-on-inflation-outlook",
+        "desc": "O ouro ultrapassou os US$ 4.000 a onça, com os traders avaliando as perspectivas para a política monetária dos EUA após uma nova série de dados econômicos.",
+        "fecha": "2026-06-29T23:44:48+00:00",
+        "fuente": "Bloomberg EN"
       }
     ]
   }
