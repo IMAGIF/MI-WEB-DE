@@ -55,6 +55,10 @@
     .match-teams { display: flex; justify-content: space-between; align-items: center; font-weight: bold; gap: 8px; }
     .team { flex: 1; white-space: normal; word-break: break-word; text-align: center; }
     .vs { font-size: 0.7rem; color: #888; }
+    .equipo-pasa { color: #178a4c; background: #e3f8ec; border-radius: 6px; padding: 2px 8px; font-weight: 800; box-shadow: inset 0 0 0 1px #178a4c; }
+    .match-card.decidido { border-left-color: #178a4c; }
+    .nota-pasa { margin-top: 8px; font-size: 0.78rem; color: #178a4c; text-align: center; font-weight: 600; }
+    .nota-pasa strong { font-weight: 800; }
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
       .partido-item { flex-direction: column; align-items: stretch; }
@@ -339,10 +343,21 @@
       if (m.score && m.score.ft) score = `${m.score.ft[0]} - ${m.score.ft[1]}`;
       let madridDateTime = m.time ? formatMadridDateTime(m.date, m.time) : '';
       let round = m.round || (m.group ? `Grupo ${m.group}` : 'Amistoso/Otro');
+      let team1Class = '', team2Class = '', nota = '';
+      if (RONDAS_ELIMINATORIA_KEYS.has(m.round)) {
+        const resultado = getMatchResult(m);
+        if (resultado) {
+          team1Class = resultado.ganador === m.team1 ? 'equipo-pasa' : '';
+          team2Class = resultado.ganador === m.team2 ? 'equipo-pasa' : '';
+          const empate = m.score.ft[0] === m.score.ft[1];
+          nota = `<div class="nota-pasa">✅ Pasa a la siguiente ronda: <strong>${traducirEquipo(resultado.ganador)}</strong>${empate ? ' (tras penaltis)' : ''}</div>`;
+        }
+      }
       html += `<div class="partido-item">
         <div class="partido-hora">📅 ${madridDateTime}</div>
-        <div class="equipos"><strong>${traducirEquipo(m.team1)}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong>${traducirEquipo(m.team2)}</strong></div>
+        <div class="equipos"><strong class="${team1Class}">${traducirEquipo(m.team1)}</strong> <span style="min-width:50px;text-align:center">${score}</span> <strong class="${team2Class}">${traducirEquipo(m.team2)}</strong></div>
         <div class="tv-channel">🏆 ${round}</div>
+        ${nota}
       </div>`;
     });
     partidosContainer.innerHTML = html;
@@ -360,6 +375,7 @@
     { key: 'Match for third place', titulo: 'TERCER PUESTO' },
     { key: 'Final', titulo: 'FINAL' }
   ];
+  const RONDAS_ELIMINATORIA_KEYS = new Set(RONDAS_ELIMINATORIA.map(r => r.key));
 
   function getMatchResult(match) {
     // Devuelve {ganador, perdedor} si el partido ya tiene resultado (incluye penaltis si los hay), o null si no.
@@ -417,9 +433,18 @@
         let score = null;
         if (m.score && m.score.ft) score = `${m.score.ft[0]} - ${m.score.ft[1]}`;
         const fecha = (m.date && m.time) ? formatMadridDateTime(m.date, m.time) : '';
-        html += `<div class="match-card">
+        const resultado = getMatchResult(m);
+        let localClass = '', visitanteClass = '', nota = '';
+        if (resultado) {
+          localClass = resultado.ganador === m.team1 ? 'equipo-pasa' : '';
+          visitanteClass = resultado.ganador === m.team2 ? 'equipo-pasa' : '';
+          const empate = m.score.ft[0] === m.score.ft[1];
+          nota = `<div class="nota-pasa">✅ Pasa a la siguiente ronda: <strong>${traducirEquipo(resultado.ganador)}</strong>${empate ? ' (tras penaltis)' : ''}</div>`;
+        }
+        html += `<div class="match-card ${resultado ? 'decidido' : ''}">
           <div class="match-header">${fecha}</div>
-          <div class="match-teams"><span class="team">${local}</span><span class="vs">${score ? score : 'vs'}</span><span class="team">${visitante}</span></div>
+          <div class="match-teams"><span class="team ${localClass}">${local}</span><span class="vs">${score ? score : 'vs'}</span><span class="team ${visitanteClass}">${visitante}</span></div>
+          ${nota}
         </div>`;
       });
       html += `</div></div>`;
