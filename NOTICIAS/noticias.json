@@ -1,19 +1,68 @@
 {
-  "actualizado": "2026-07-01T12:40:53.041886+00:00",
+  "actualizado": "2026-07-01T15:46:16.551437+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Sadeco acometerá una limpieza integral de 61 colegios públicos durante el verano",
-        "enlace": "https://www.abc.es/espana/andalucia/cordoba/sadeco-acometera-limpieza-integral-colegios-publicos-verano-20260701142616-nts.html",
-        "desc": "Con motivo el período vacacional, Sadeco realizará una limpieza integral en hasta 61 colegios públicos de la capital. La Empresa Municipal de Saneamientos de Córdoba planteó su dis…",
-        "fecha": "2026-07-01T14:26:17+02:00",
+        "titulo": "Evitan la cárcel seis jóvenes que torturaron a un hombre con discapacidad en Manacor",
+        "enlace": "https://www.abc.es/espana/baleares/evitan-carcel-seis-jovenes-torturaron-hombre-discapacidad-20260701171708-nt.html",
+        "desc": "Cinco años después de uno de los casos que mayor conmoción social provocó en Mallorca, la Audiencia Provincial de Palma ha puesto fin al procedimiento judicial contra los seis jóve…",
+        "fecha": "2026-07-01T17:37:31+02:00",
         "fuente": "ABC"
       },
       {
-        "titulo": "El juez Pedraz cita a declarar como testigo a la mano derecha de Álvaro García Ortiz para que explique sus reuniones con la 'fontanera' Leire Díez en la sede de la Fiscalía General",
-        "enlace": "https://www.elmundo.es/espana/2026/07/01/6a44f08de85eceea578b4595.html",
-        "desc": "Además de a Diego Villafañe, el magistrado de la Audiencia Nacional llama a declarar a la otra fiscal asistente a los encuentros, Beatriz López Pesquera&nbsp; Leer",
-        "fecha": "2026-07-01T14:19:56+02:00",
+        "titulo": "La Agencia Tributaria ultima el relevo de su directora general por desavenencias con el Ministerio y el PP lo atribuye al 'caso Zapatero'",
+        "enlace": "https://www.elmundo.es/economia/macroeconomia/2026/07/01/6a45064dfc6c83ca018b45b0.html",
+        "desc": "Fuentes oficiales sostienen que ella pidió el relevo ya hace meses y que se acordó esperar a que terminara la campaña de la renta, que finalizó este martes.&nbsp; Leer",
+        "fecha": "2026-07-01T14:36:09+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "La directora general de la Agencia Tributaria pide marcharse asediada por los escándalos",
+        "enlace": "https://www.libertaddigital.com/libremercado/2026-07-01/soledad-fernandez-dimite-la-directora-general-de-la-agencia-tributaria-asediada-por-los-escandalos-7429484/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Fuentes de la AEAT aseguran que &quot;pidió hace ya meses un relevo y se consensuó posponer cualquier cambio&quot; al día de hoy.",
+        "fecha": "2026-07-01T14:48:28+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "El PP cita a Aagesen en el Senado por Tubos Reunidos y a Narbona por el ‘caso Leire’",
+        "enlace": "https://theobjective.com/espana/politica/2026-07-01/pp-aagesen-senado-tubos-reunidos-narbona-caso-leire/",
+        "desc": "La vicepresidenta tercera del Gobierno, Sara Aagesen, será citada para comparecer en la comisión SEPI del Senado el próximo lunes, 6 de julio, para que dé [&#8230;]",
+        "fecha": "2026-07-01T15:44:51+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "Una mujer de 32 años muere ahogada en una piscina en L'Aldea (Tarragona)",
+        "enlace": "https://www.elconfidencial.com/espana/cataluna/2026-07-01/mujer-ahogada-piscina-tarragona-1hms_4381862/",
+        "desc": "Los Mossos d'Esquadra han abierto una investigación para esclarecer lo sucedido en un verano en el que ya han muerto hasta cinco personas ahogadas en las piscinas de Cataluña",
+        "fecha": "2026-07-01T15:46:21.526776+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Detenidos cuatro policías en Venezuela por robar dinero entre los escombros de un edificio tras los terremotos",
+        "enlace": "https://okdiario.com/internacional/detenidos-cuatro-policias-venezuela-robar-dinero-escombros-edificio-terremotos-18903453",
+        "desc": "Cuatro policías han sido detenidos en Venezuela acusados de apropiarse de «bienes económicos» entre los escombros de edificaciones derrumbadas por los terremotos. El hecho se ha pr…",
+        "fecha": "2026-07-01T17:44:25+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "Renuncia la directora de la AEAT en plena crisis por el caso Zapatero y mientras se ultima el traspaso del IRPF a Cataluña",
+        "enlace": "https://www.elespanol.com/invertia/economia/macroeconomia/20260701/renuncia-directora-aeat-plena-crisis-caso-zapatero-ultima-traspaso-irpf-cataluna/1003744306588_0.html",
+        "desc": "Fuentes de Hacienda aseguran que se trata de un \"relevo\" que está pactado. La Agencia Tributaria todavía no se ha personado en el proceso judicial abierto contra el expresidente de…",
+        "fecha": "2026-07-01T14:40:35+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Núñez acusa a Page de dejar una Castilla-La Mancha «líder en pobreza y exclusión social»",
+        "enlace": "https://www.abc.es/espana/castilla-la-mancha/nunez-acusa-page-dejar-castillala-mancha-lider-20260701173628-nt.html",
+        "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha acusado al presidente regional, Emiliano García-Page, de dejar una comunidad autónoma «líder en pobreza y ex…",
+        "fecha": "2026-07-01T17:36:28+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "Trump acudirá a la cumbre de la OTAN doblemente \"decepcionado con España\" por no ceder sus bases en la guerra de Irán y por no avanzar en el gasto militar",
+        "enlace": "https://www.elmundo.es/internacional/2026/07/01/6a45280ce4d4d874558b4585.html",
+        "desc": "El embajador de EEUU ante la OTAN remarca justo antes de la próxima cumbre el malestar con el Gobierno de Sánchez, aunque descarta que la cita se centre en este asunto como sí ocur…",
+        "fecha": "2026-07-01T16:45:38+02:00",
         "fuente": "El Mundo"
       },
       {
@@ -22,215 +71,166 @@
         "desc": "La querella sostiene que la directora general de Seguridad Jurídica y Fe Pública del Ministerio de Justicia cambió la ley al publicarla en el BOE.",
         "fecha": "2026-07-01T09:31:31+02:00",
         "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "Sánchez da las gracias a los cooperantes de Aecid que viajan a Venezuela",
-        "enlace": "https://theobjective.com/espana/politica/2026-07-01/sanchez-gracias-cooperantes-aecid-venezuela/",
-        "desc": "El presidente del Gobierno, Pedro Sánchez, ha trasladado su reconocimiento al grupo de profesionales y cooperantes de la Agencia Española de Cooperación Internacional para el Desar…",
-        "fecha": "2026-07-01T12:23:30+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "En busca y captura un empleado de un geriátrico de Madrid por violar a una anciana con alzhéimer",
-        "enlace": "https://www.elconfidencial.com/espana/madrid/2026-07-01/violacion-anciana-residencia-madrid-1tna-1tps_4381757/",
-        "desc": "Un juzgado ordena detener a un trabajador de geriátrico en Sanchinarro tras ser sorprendido abusando de una interna; confesó ataques durante meses y se halla en paradero desconocid…",
-        "fecha": "2026-07-01T12:40:57.556506+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "No lleva conductor y sabe cuándo lo llamas: así es el autobús que circula en este gran mercado de Madrid",
-        "enlace": "https://okdiario.com/okgreen/no-lleva-conductor-sabe-cuando-lo-llamas-asi-autobus-que-circula-este-gran-mercado-madrid-18902740",
-        "desc": "Mercamadrid ya cuenta, desde este 1 de julio de 2026, con el primer autobús autónomo y a demanda de España. El vehículo, operado por la compañía Alsa, circula con viajeros de forma…",
-        "fecha": "2026-07-01T14:35:26+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "El juez Pedraz cita a los dos fiscales de García Ortiz que se reunieron con la 'fontanera' del PSOE en la Fiscalía General",
-        "enlace": "https://www.elespanol.com/espana/tribunales/20260701/juez-pedraz-cita-fiscales-garcia-ortiz-reunieron-fontanera-psoe-fiscalia-general/1003744306403_0.html",
-        "desc": "Diego Villafañe y Beatriz López Pesquera deberán declarar como testigos por las visitas de Leire Díez y el abogado Jacobo Teijelo, investigados por la operación de desestabilizació…",
-        "fecha": "2026-07-01T13:25:57+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "Carolina España: «Si queremos presupuestos en enero debe haber gobierno en Andalucía en julio»",
-        "enlace": "https://www.abc.es/espana/andalucia/queremos-presupuestos-enero-debe-haber-gobierno-andalucia-20260701142405-nts.html",
-        "desc": "Desde hace semanas la Junta de Andalucía ha insistido en que hace falta un gobierno para poner en marcha los mecanismos para elaborar los presupuestos del próximo año 2027. Por ell…",
-        "fecha": "2026-07-01T14:24:21+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "El Gobierno activa una regularización exprés de inmigrantes ante el riesgo de bloqueo por el Supremo",
-        "enlace": "https://www.elmundo.es/espana/2026/06/30/6a4402ff21efa0ca7a8b45d5.html",
-        "desc": "Moncloa admite que las 1,3 millones de peticiones sobrepasan todas sus previsiones iniciales&nbsp; Leer",
-        "fecha": "2026-06-30T22:33:45+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "Los vídeos de la vergüenza: militares y policías chavistas saquean propiedades en lugar de rescatar cadáveres",
-        "enlace": "https://www.libertaddigital.com/internacional/latinoamerica/2026-07-01/que-hacen-los-militares-y-policias-del-chavismo-mientras-los-rescatistas-internacionales-ayudan-al-pueblo-venezolano-7429146/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Los funcionarios del régimen no participan en las labores de búsqueda. Hostigan a rescatistas y voluntarios, desvalijan inmuebles y roban donaciones.",
-        "fecha": "2026-07-01T10:10:57+02:00",
-        "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "Socialist ousts 30-year Dem incumbent in House primary and more top headlines",
-        "enlace": "https://www.foxnews.com/us/socialist-ousts-dem-incumbent-primary-more-top-headlines",
-        "desc": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "fecha": "2026-07-01T07:35:10-04:00",
+        "titulo": "Taylor Swift's wedding secrecy went so far some guests still didn't know location days before ceremony: source",
+        "enlace": "https://www.foxnews.com/us/taylor-swift-wedding-secrecy-guests-didnt-know-location-days-before-ceremony",
+        "desc": "Taylor Swift and Travis Kelce&apos;s wedding at Madison Square Garden prompts massive NYPD security preparations amid World Cup and July 4 events.",
+        "fecha": "2026-07-01T11:07:36-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
-        "enlace": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
-        "desc": "The Supreme Court upheld birthright citizenship on constitutional grounds on the last day of its term. And, a Democratic socialist has won the Democratic primary for a U.S. House s…",
-        "fecha": "2026-07-01T07:29:24-04:00",
+        "titulo": "Americans are showing up for the World Cup in record-breaking numbers",
+        "enlace": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo",
+        "desc": "While the U.S. isn't a bona fide soccer nation yet, the past three weeks have perhaps shown what it would feel like if it were.",
+        "fecha": "2026-07-01T11:06:18-04:00",
         "fuente": "NPR"
       },
       {
-        "titulo": "Florida toddler dies after father realizes child was left in SUV during daycare pickup",
-        "enlace": "https://www.foxnews.com/us/florida-toddler-dies-left-suv-daycare",
-        "desc": "A 23-month-old boy was found dead in a hot car outside a Plantation, Florida, daycare after his father allegedly forgot to drop him off that morning.",
-        "fecha": "2026-07-01T03:58:45-04:00",
+        "titulo": "Smarter Systems, Safer Missions: AI, Autonomy and the Warfighter",
+        "enlace": "https://www.foxnews.com/us/smarter-systems-safer-missions-ai-autonomy-warfighter",
+        "desc": "The F-35 and Lockheed Martin Vectis™ show how autonomy can bring more information into the cockpit. The U-Hawk shows how unmanned systems can support logistics and resupply. Togeth…",
+        "fecha": "2026-07-01T09:51:51-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Greetings from London, where Banksy's flag man is a warning cry",
-        "enlace": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
-        "desc": "As he marches on, his flag blows back into his face, leaving him unaware he is only a step away from a perilous fall. As usual with Banksy's art, the statue presents a sharp critiq…",
-        "fecha": "2026-07-01T06:00:00-04:00",
+        "titulo": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
+        "enlace": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
+        "desc": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
+        "fecha": "2026-07-01T10:57:00-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno asegura que la inflación de junio estará abajo del 2%",
-        "enlace": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-asegura-inflacion-junio-abajo-2_0_yliWh4jV2P.html",
-        "desc": "Lo dijo el nuevo vocero presidencial Adrián Ravier en una entrevista. Seguí todas las novedades sobre las medidas del gobierno de Javier Milei en la cobertura minuto a minuto de Cl…",
-        "fecha": "2026-07-01T12:11:32+00:00",
-        "fuente": "Clarín"
-      },
-      {
-        "titulo": "Pese al pedido de “clemencia” de Keanu Reeves, el director Carl Rinsch fue condenado a prisión por estafar a Netflix",
-        "enlace": "https://www.lanacion.com.ar/espectaculos/personajes/pese-al-pedido-de-clemencia-de-keanu-reeves-el-director-carl-rinsch-fue-condenado-a-prision-por-nid30062026/",
-        "desc": "La sentencia al cineasta estadounidense incluye dos años y medio de cárcel, tres años de libertad condicional y el decomiso del dinero",
-        "fecha": "2026-07-01T12:38:18+00:00",
-        "fuente": "La Nación"
-      },
-      {
         "titulo": "Quiniela de Santa Fe: resultado del sorteo de la Primera de hoy, miércoles 01 de julio",
         "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-primera-hoy-miercoles-01-julio_0_wzDRUhzE1e.html",
         "desc": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-        "fecha": "2026-07-01T12:02:01+00:00",
+        "fecha": "2026-07-01T15:15:48+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Mundial 2026, en vivo: Inglaterra quiere mostrarse como serio candidato y la Argentina espera por Cabo Verde",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-inglaterra-quiere-mostrarse-como-serio-candidato-y-la-argentina-espera-por-cabo-nid01072026/",
-        "desc": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y reacciones sobre los partidos",
-        "fecha": "2026-07-01T12:38:14+00:00",
+        "titulo": "Un paso hacia la vida artificial: crean una célula sintética capaz de crecer y reproducirse",
+        "enlace": "https://www.lanacion.com.ar/sociedad/un-paso-hacia-la-vida-artificial-crean-una-celula-sintetica-capaz-de-crecer-y-reproducirse-nid01072026/",
+        "desc": "La estructura, llamada SpudCell, completa varias funciones asociadas a los seres vivos, aunque sus creadores advierten que todavía no puede considerarse una forma de vida",
+        "fecha": "2026-07-01T15:42:33+00:00",
+        "fuente": "La Nación"
+      },
+      {
+        "titulo": "Quiniela de la Provincia: resultado del sorteo de la Primera de hoy, miércoles 01 de julio",
+        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-primera-hoy-miercoles-01-julio_0_BRQcsaXmC8.html",
+        "desc": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+        "fecha": "2026-07-01T15:15:47+00:00",
+        "fuente": "Clarín"
+      },
+      {
+        "titulo": "Javier Milei y sus medidas, en vivo: Santilli asumió como jefe de Gabinete y el Presidente se reúne con legisladores libertarios",
+        "enlace": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-santilli-asumio-como-jefe-de-gabinete-y-el-presidente-se-reune-nid01072026/",
+        "desc": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+        "fecha": "2026-07-01T15:40:16+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "« C’est simple, c’est beau, c’est impressionnant… C’est la France » : la presse internationale encense les Bleus après leur victoire contre la Suède",
-        "enlace": "https://www.lemonde.fr/sport/article/2026/07/01/une-merveille-une-masterclass-la-presse-mondiale-encense-les-bleus-meilleure-equipe-du-tournoi-apres-leur-victoire-contre-la-suede_6717504_3242.html",
-        "desc": "Victorieuse mardi contre la Suède (3-0), l’équipe de France n’en finit plus d’impressionner. Les médias du monde entier érigent les Bleus en grands favoris de la Coupe du monde 202…",
-        "fecha": "2026-07-01T10:56:18+02:00",
+        "titulo": "Enterrer les victimes d’Ebola, un rite à haut risque dans l’est de la RDC",
+        "enlace": "https://www.lemonde.fr/afrique/article/2026/07/01/enterrer-les-victimes-d-ebola-un-rite-a-haut-risque-dans-l-est-de-la-rdc_6717561_3212.html",
+        "desc": "Afin d’éviter toute contamination, les corps des défunts sont aspergés d’une solution chlorée avant d’être placés dans des sacs mortuaires, eux-mêmes désinfectés. Puis les dépouill…",
+        "fecha": "2026-07-01T17:00:05+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Nouvelle vague de chaleur : Sébastien Lecornu présidera une cellule interministérielle de crise jeudi depuis Marseille",
-        "enlace": "https://www.lefigaro.fr/politique/nouvelle-vague-de-chaleur-sebastien-lecornu-presidera-une-cellule-interministerielle-de-crise-jeudi-depuis-marseille-20260701",
-        "desc": "Le chef de gouvernement est attendu à 15 heures dans la cité phocéenne où il sera informé sur les feux de forêts en cours dans la région.",
-        "fecha": "2026-07-01T14:22:33+02:00",
+        "titulo": "«On veut la troisième étoile» : après la large victoire des Bleus contre la Suède, ces Français qui se voient déjà champions du monde",
+        "enlace": "https://www.lefigaro.fr/sports/football/coupe-du-monde/on-veut-la-troisieme-etoile-apres-la-large-victoire-des-bleus-contre-la-suede-ces-francais-qui-se-voient-deja-champions-du-monde-20260701",
+        "desc": "TÉMOIGNAGES - Voilà déjà plusieurs mois que les mordus de football sont dans l’excitation du mondial. Avec la victoire autoritaire de la France contre la Suède (3-0), c’est tout le…",
+        "fecha": "2026-07-01T16:25:23+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Violences sexuelles sur les enfants : Lecornu réduit le délai d'enquête et confirme la perpétuité",
-        "enlace": "https://www.france24.com/fr/france/20260701-violences-sexuelles-enfants-lecornu-r%C3%A9duit-d%C3%A9lai-enqu%C3%AAte-et-confirme-perp%C3%A9tuit%C3%A9",
-        "desc": "Une \"lettre rectificative\" au projet de loi sur la protection des mineurs a été présentée mercredi en Conseil des ministres par le Premier ministre Sébastien Lecornu. Celle-ci vise…",
-        "fecha": "2026-07-01T12:06:44+00:00",
+        "titulo": "Mondial 2026 : la sape des Léopards, un message au-delà du style",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260701-mondial-2026-la-sape-des-l%C3%A9opards-un-message-au-del%C3%A0-du-style",
+        "desc": "🇨🇩 Alors que la RDC affronte l’Angleterre aujourd’hui, le styliste Alvin Junior Mak, à l’origine des tenues de la sélection congolaise pour la Coupe du monde, revient sur cette cré…",
+        "fecha": "2026-07-01T15:37:09+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Au Liban, la communauté chiite entre fierté et amertume face au Hezbollah, au deuil et à l’exil",
-        "enlace": "https://www.lemonde.fr/international/article/2026/07/01/au-liban-la-communaute-chiite-entre-fierte-et-amertume-face-au-hezbollah-au-deuil-et-a-l-exil_6717524_3210.html",
-        "desc": "Au sortir d’une guerre dévastatrice, relancée en mars par le Parti de Dieu contre Israël, sympathisants et opposants de l’organisation s’interrogent sur le sens des sacrifices cons…",
-        "fecha": "2026-07-01T12:00:02+02:00",
+        "titulo": "Stéphane François, politiste : « Le RN et ses électeurs prennent la réalité climatique en plein visage »",
+        "enlace": "https://www.lemonde.fr/idees/article/2026/07/01/stephane-francois-politiste-le-rn-et-ses-electeurs-prennent-la-realite-climatique-en-plein-visage_6717546_3232.html",
+        "desc": "Longtemps dédaigneux des alertes venues du monde scientifique sur le réchauffement climatique, voire hostile à celles-ci, le Rassemblement national multiplie les volte-face, alors …",
+        "fecha": "2026-07-01T15:38:30+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Faut-il vraiment craindre une nouvelle canicule dans les prochains jours ? La réponse d’un météorologue",
-        "enlace": "https://www.lefigaro.fr/actualite-france/faut-il-vraiment-craindre-une-nouvelle-canicule-dans-les-prochains-jours-la-reponse-d-un-meteorologue-20260701",
-        "desc": "ENTRETIEN - À peine la précédente canicule terminée, les modèles météo signalent déjà un nouvel épisode chaud pour les prochains jours. Cyrille Duchesne, chef du service prévisions…",
-        "fecha": "2026-07-01T12:55:00+02:00",
+        "titulo": "Bleus : la statistique folle qui place Didier Deschamps sur le toit du monde",
+        "enlace": "https://www.lefigaro.fr/sports/football/coupe-du-monde/bleus-la-statistique-folle-qui-place-didier-deschamps-sur-le-toit-du-monde-20260701",
+        "desc": "Le sélectionneur des Bleus est devenu mardi le technicien ayant remporté le plus de matches dans l’histoire des Coupes du monde. Colossal.",
+        "fecha": "2026-07-01T15:32:05+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Afrique du Sud: le rêve arc-en-ciel à l'épreuve? Avec T. Vircoulon, D. Delos, C. Dumay et M. Gbaffou",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260701-afrique-du-sud-le-r%C3%AAve-arc-en-ciel-%C3%A0-l-%C3%A9preuve-avec-t-vircoulon-d-delos-c-dumay-et-m-gbaffou",
-        "desc": "En Afrique du Sud, une vague de violences xénophobes tournée principalement vers les immigrés clandestins subsahariens déferle depuis plusieurs semaines. La journée d'hier a été le…",
-        "fecha": "2026-07-01T10:51:35+00:00",
+        "titulo": "Cinéma : \"In Waves\", des vagues d'amour malgré la douleur",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260701-cin%C3%A9ma-in-waves-des-vagues-d-amour-malgr%C3%A9-la-douleur",
+        "desc": "Après avoir conquis le public du Festival de Cannes en ouverture de la Semaine de la critique, \"In Waves\" arrive en salles. La réalisatrice Pheuong Maï Nguyen est l'invitée de ce n…",
+        "fecha": "2026-07-01T15:35:42+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Rafael Nadal: Schmerzen nach dem Spitzensport – wie der Tennis-Rentner Nadal Tief überwand",
-        "enlace": "https://www.spiegel.de/sport/tennis/rafael-nadal-schmerzen-nach-dem-spitzensport-wie-der-tennis-rentner-nadal-tief-ueberwand-a-624220f8-1335-4b14-95fc-f0476d18efde#ref=rss",
-        "desc": "Der Wechsel vom Profidasein ins Normalo-Leben ist für ehemalige Spitzensportler oft schwierig. Ex-Tennisstar Rafael Nadal berichtet nun über seinen neuen Alltag. Für ihn besonders …",
-        "fecha": "2026-07-01T14:36:00+02:00",
+        "titulo": "WM 2026 live: England gegen DR Kongo",
+        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-live-england-gegen-dr-kongo-a-c729445a-8b26-4ddc-9f56-3e09c1fb62be#ref=rss",
+        "desc": "Usbekistan geschlagen und Portugal geärgert: Die Mannschaft aus DR Kongo gehört zu den Überraschungen dieses Turniers. Gegner England begeisterte bisher nur im ersten Match, will a…",
+        "fecha": "2026-07-01T17:41:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Völkermord in Ruanda: Polizei nimmt Mann wegen mutmaßlichen Völkermords in Ruanda fest",
-        "enlace": "https://www.zeit.de/gesellschaft/2026-07/voelkermord-ruanda-1994-hessen-festnahme-tutsi",
-        "desc": "Ein Mann soll sich 1994 als Mittäter am Völkermord in Ruanda beteiligt und die Ermordung von fünfundzwanzig Tutsi angeordnet haben. Nun wurde er in Deutschland gefasst.",
-        "fecha": "2026-07-01T12:30:32",
+        "titulo": "Kryptowährung: Bitcoin fällt auf tiefsten Stand seit 21 Monaten",
+        "enlace": "https://www.zeit.de/wirtschaft/2026-07/bitcoin-kurs-absturz-dollar-inflation",
+        "desc": "Nach Wochen der Stabilität sinkt der Bitcoin auf ein 21-Monats-Tief. Gründe könnten die steigenden Energiepreise und Sorgen vor höheren Leitzinsen sein.",
+        "fecha": "2026-07-01T15:36:17",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "WM 2026 heute: Das sollten Sie vor den Spielen am Abend und in der Nacht wissen",
-        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-b489ec74-3b17-427b-8e2d-12c32bbfbd5e#ref=rss",
-        "desc": "England trifft auf einen Außenseiter, Belgien hofft auf die individuelle Klasse seiner Stars. Und: Die USA träumen von der nächsten Runde. Alles Wichtige zu den Sechzehntelfinalpar…",
-        "fecha": "2026-07-01T14:31:00+02:00",
+        "titulo": "Reinhold Messner: Sohn Simon Messner will »es einfach anders machen« als sein Vater",
+        "enlace": "https://www.spiegel.de/panorama/leute/reinhold-messner-sohn-simon-messner-will-es-einfach-anders-machen-als-sein-vater-a-9f5939a4-c8c3-4744-8da5-74bc2050287a#ref=rss",
+        "desc": "Das Verhältnis von Simon Messner zu seinem Vater gilt als schwierig. Nun hat sich der frühere Kletterer sogar vom Bergsteigen weitgehend abgewandt. Grund dafür: seine eigene Tochte…",
+        "fecha": "2026-07-01T17:41:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Erdbeben in Venezuela: WHO warnt vor Überlastung von Venezuelas Gesundheitssystem",
-        "enlace": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/erdbeben-venezuela-gesundheitssystem-us-militaer-gxe",
-        "desc": "Venezuelas Gesundheitswesen ist nach zwei Erdbeben laut WHO »unter extremem Druck«. Vertriebene seien anfällig für Masern und Malaria.",
-        "fecha": "2026-07-01T12:08:36",
+        "titulo": "Bundeswehr: Reservisten sollen wieder zu Übungen verpflichtet werden können",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-07/bundeswehr-bundeskabinett-gesetz-reserve-infrastruktur",
+        "desc": "Die Bundesregierung will den Umbau der Bundeswehr entbürokratisieren. Kasernen sollen schneller gebaut werden, Reservisten einfacher verfügbar sein.",
+        "fecha": "2026-07-01T15:27:21",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Belgio, incendio in un condominio di Anversa: 5 morti. Persone in fuga dai balconi",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/01/news/belgio_incendio_condominio_anversa_morti_feriti-425444481/",
-        "desc": "Nella struttura vivono in duecento. Vigili del fuoco in azione",
-        "fecha": "2026-07-01T11:34:02+00:00",
+        "titulo": "Alcaraz, capelli lunghi e ricci durante la vacanza a Procida. Altro cambio di look per lo spagnolo",
+        "enlace": "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/01/news/alcaraz_capelli_ricci_procida-425444842/",
+        "desc": "Il numero due del tennis mondiale prosegue il recupero dall’infortunio e si concede un po’ di relax nell’isola napoletana",
+        "fecha": "2026-07-01T14:43:12+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Belgio, incendio in un condominio di Anversa: 5 morti. Persone in fuga dai balconi",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/01/news/belgio_incendio_condominio_anversa_morti_feriti-425444481/",
-        "desc": "Nella struttura vivono in duecento. Vigili del fuoco in azione",
-        "fecha": "2026-07-01T11:34:02+00:00",
+        "titulo": "“Ci scomunicano? E per noi che cambia?”: il popolo di Écône alla prova di devozione lefebvriana",
+        "enlace": "https://www.repubblica.it/cronaca/2026/07/01/news/econe_scomunica_scisma_vescovi_lefebvriani-425444682/",
+        "desc": "Secondo gli organizzatori erano in 20mila alla consacrazione dei quattro nuovi vescovi senza il permesso del papa. Una macchina organizzativa impressionante e ipertecnologica",
+        "fecha": "2026-07-01T13:24:23+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
-        "enlace": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss",
-        "desc": "She described feeling fear and dread as she returned to her job, working for James Holder, after the attack.",
-        "fecha": "2026-07-01T05:00:08+00:00",
+        "titulo": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
+        "enlace": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Conservative leader Kemi Badenoch criticised what she called a missing £5bn in the defence investment plan.",
+        "fecha": "2026-07-01T14:55:58+00:00",
         "fuente": "BBC"
       },
       {
@@ -241,14 +241,14 @@
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Nowak case officers face gross misconduct investigation",
-        "enlace": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&at_campaign=rss",
-        "desc": "Henry Nowak, 18, was handcuffed as he lay dying after being stabbed by Vickrum Digwa in December 2025.",
-        "fecha": "2026-07-01T10:23:52+00:00",
+        "titulo": "Is Burnham facing a £5bn defence 'black hole'?",
+        "enlace": "https://www.bbc.co.uk/news/articles/c14ymy41v5go?at_medium=RSS&at_campaign=rss",
+        "desc": "BBC Verify investigates whether a shortfall in funding for the government's defence investment plan is a \"black hole\".",
+        "fecha": "2026-07-01T13:55:01+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "When the right promotes heat-stress denial, ask yourself this: whose children’s lives is it willing to risk? | George Monbiot",
+        "titulo": "When the right denies the true danger of heatwaves, ask yourself this: whose children’s lives is it willing to risk? | George Monbiot",
         "enlace": "https://www.theguardian.com/commentisfree/2026/jul/01/right-danger-heatwaves-children-class-politics-extreme-heat-billionaire-press",
         "desc": "The class politics of extreme heat are very real and very dangerous – but that doesn’t stop the billionaire press from peddling its agenda Every time you think the idiocy has hit r…",
         "fecha": "2026-07-01T06:00:27+00:00",
@@ -257,61 +257,61 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Piscinas com horário alargado, reforço de bebedouros e recalendarização de eventos: medidas da DGS para os municípios enfrentarem o calor",
-        "enlace": "https://www.publico.pt/2026/07/01/sociedade/noticia/piscinas-horario-alargado-reforco-bebedouros-recalendarizacao-eventos-medidas-dgs-municipios-enfrentarem-calor-2180106",
-        "desc": "Bairros com maior vulnerabilidade social e pobreza energética devem ser prioridade. Direcção-Geral da Saúde recomenda o transporte de pessoas vulneráveis para locais climatizados.",
-        "fecha": "2026-07-01T12:30:08+00:00",
+        "titulo": "Portugal e Espanha devem coordenar acções em defesa do lobo-ibérico, pedem ONG",
+        "enlace": "https://www.publico.pt/2026/07/01/azul/noticia/portugal-espanha-coordenar-accoes-defesa-loboiberico-pedem-ong-2180023",
+        "desc": "O modelo a seguir deve ser o mesmo que permitiu recuperar o lince ibérico, defendem organizações portuguesas e espanholas, para proteger uma espécie cujo estatuto de conservação fo…",
+        "fecha": "2026-07-01T14:06:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "\"O Canadá ganhou no momento em que o Stephen decidiu jogar\"",
-        "enlace": "https://observador.pt/especiais/o-canada-ganhou-no-momento-em-que-o-stephen-decidiu-jogar-por-aquela-camisola-mauro-eustaquio-irmao-do-fenomeno-com-origens-na-nazare/",
-        "desc": "Mauro Eustáquio, irmão de Stephen, lidera o Inter Toronto FC, da Canadian Premier League",
-        "fecha": "2026-07-01T13:29:46+01:00",
+        "titulo": "\"Israel tem um poder de chantagem decisivo\"",
+        "enlace": "https://observador.pt/programas/gabinete-de-guerra/israel-tem-um-poder-de-chantagem-decisivo/",
+        "desc": "Azeredo Lopes, antigo ministro da Defesa, detalha como o governo de Netanyahu, focado na sobrevivência política, atua para impedir a normalização de relações entre os Estados Unido…",
+        "fecha": "2026-07-01T16:38:38+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Incivilidade na AR mais do que duplicou desde a entrada do Chega no Parlamento",
-        "enlace": "https://www.publico.pt/2026/07/01/politica/noticia/incivilidade-ar-duplicou-desde-entrada-chega-parlamento-2180100",
-        "desc": "Para o especialista que investigou as intervenções, a Assembleia da República não tem conseguido dar uma resposta a este novo fenómeno.",
-        "fecha": "2026-07-01T12:29:24+00:00",
+        "titulo": "Três estações do metro de Lisboa abertas fora do horário para acolher sem-abrigo",
+        "enlace": "https://www.publico.pt/2026/07/01/local/noticia/tres-estacoes-metro-lisboa-abertas-horario-acolher-semabrigo-2180119",
+        "desc": "A medida foi decidida como resposta à previsão de tempo quente, em que o Instituto Português do Mar e da Atmosfera emitiu aviso vermelho para o distrito de Lisboa.",
+        "fecha": "2026-07-01T14:03:42+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Demissão de Duarte Gomes no MP: a polémica na arbitragem",
-        "enlace": "https://observador.pt/2026/07/01/duarte-gomes-demitiu-se-depois-de-denuncia-de-arbitro-fpf-enviou-tudo-para-o-ministerio-publico-a-polemica-que-rebentou-na-arbitragem/",
-        "desc": "Duarte Gomes e Luciano Gonçalves surgiram várias vezes em conjunto ao longo da temporada",
-        "fecha": "2026-07-01T13:23:04+01:00",
+        "titulo": "Governo está a trabalhar em financiamento para CoLAB e CTI",
+        "enlace": "https://observador.pt/2026/07/01/ciencia-ministerio-esta-a-trabalhar-em-instrumento-de-financiamento-para-laboratorios-colaborativos/",
+        "desc": "Resposta deverá chegar até ao final do ano, afirmou ministro da Educação no Parlamento. Governo insiste na competitividade.",
+        "fecha": "2026-07-01T16:36:12+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Mãe de Flávio pede exoneração do governo do RJ e diz que será suplente de pré-candidato ao Senado",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/mae-de-flavio-pede-exoneracao-do-governo-do-rj-e-diz-que-sera-suplente-de-pre-candidato-ao-senado.shtml",
-        "desc": "A mãe do senador e pré-candidato à Presidência Flávio Bolsonaro ( PL -RJ), Rogéria Nantes Bolsonaro, foi exonerada nesta quarta-feira (1º) do cargo que ocupava na secretaria de Ciê…",
-        "fecha": "2026-07-01T09:14:00-03:00",
+        "titulo": "Em reação a Flávio, deputado petista quer criminalizar traição à pátria",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/em-reacao-a-flavio-deputado-petista-quer-criminalizar-traicao-a-patria.shtml",
+        "desc": "Após a troca de cartas entre o senador Flávio Bolsonaro ( PL ) e o secretário de Estado dos Estados Unidos , Marco Rubio , vir a público, o deputado Rogério Correia ( PT -MG) proto…",
+        "fecha": "2026-07-01T12:19:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Mbappé marca duas vezes, empata com Messi na artilharia da Copa e se aproxima de recorde",
-        "enlace": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/01/mbappe-marca-duas-vezes-empata-com-messi-na-artilharia-da-copa-e-se-aproxima-de-recorde.ghtml",
-        "desc": "Mbappé marca duas vezes, empata com Messi na artilharia da Copa e se aproxima de recorde A disputa pela artilharia da Copa do Mundo continua acirrada. Kylian Mbappé marcou duas vez…",
-        "fecha": "2026-07-01T12:34:24",
+        "titulo": "Feriado do 2 de Julho será de céu nublado com possibilidade de chuva em Salvador e outras cidades baianas; confira previsão",
+        "enlace": "https://g1.globo.com/ba/bahia/noticia/2026/07/01/previsao-do-tempo-feriado-do-2-de-julho.ghtml",
+        "desc": "Salvador terá céu nublado no feriado de 2 de Julho Redes sociais O feriado da Independência do Brasil na Bahia, celebrado em 2 de Julho, na quinta-feira, será de céu nublado, com p…",
+        "fecha": "2026-07-01T15:36:29",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Procuradoria da Itália pede rejeição de pedido de extradição de Zambelli e volta a citar Moraes",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/procuradoria-da-italia-pede-rejeicao-de-pedido-de-extradicao-de-zambelli-e-volta-a-citar-moraes.shtml",
-        "desc": "Em audiência realizada nesta quarta (1), em Roma, a Procuradoria Geral italiana pediu que a Corte Suprema de Cassação rejeite um segundo pedido de extradição da ex-deputada Carla Z…",
-        "fecha": "2026-07-01T09:13:00-03:00",
+        "titulo": "Flávio Bolsonaro faz reunião com mulheres sem Michelle nem Damares após crise por vídeo",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-faz-reuniao-com-mulheres-sem-michelle-nem-damares-apos-crise-por-video.shtml",
+        "desc": "O senador Flávio Bolsonaro ( PL -RJ), pré-candidato à Presidência, reuniu um grupo de mulheres nesta quarta-feira (1°) para tentar construir uma agenda positiva com o eleitorado fe…",
+        "fecha": "2026-07-01T12:01:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Samu ultrapassa 2,2 mil atendimentos em um mês de operação em Uberlândia",
-        "enlace": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/01/samu-ultrapassa-22-mil-atendimentos-em-um-mes-de-operacao-em-uberlandia.ghtml",
-        "desc": "Samu completa 30 dias de operação em Uberlândia Em 30 dias de operação em Uberlândia, o Serviço de Atendimento Móvel de Urgência (Samu 192) realizou 2.227 atendimentos e registrou …",
-        "fecha": "2026-07-01T12:33:26",
+        "titulo": "O que acontece com as pessoas e empresas sancionadas pelo governo dos EUA? Entenda",
+        "enlace": "https://g1.globo.com/mundo/noticia/2026/07/01/o-que-acontece-com-as-pessoas-e-empresas-sancionadas-pelo-governo-dos-eua-entenda.ghtml",
+        "desc": "O governo Trump anunciou nesta quarta-feira (1º) sanções contra duas pessoas e três empresas brasileiras por suposta ligação com a facção criminosa Primeiro Comando da Capital (PCC…",
+        "fecha": "2026-07-01T15:36:05",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,45 +333,45 @@
     ],
     "internacional_es": [
       {
-        "titulo": "Francia alcanza los 89.000 presos, un nuevo récord en sus cárceles",
-        "enlace": "https://www.abc.es/internacional/francia-alcanza-89000-presos-nuevo-record-carceles-20260701141704-nt.html",
-        "desc": "La cifra de presos en Francia asciende a casi 89.000 para este mes de julio, alcanzando un número pionero para un sistema penitenciario altamente saturado, con una tasa de hacinami…",
-        "fecha": "2026-07-01T14:17:05+02:00",
+        "titulo": "Terremoto en Venezuela, en directo: muertos, desaparecidos, heridos y última hora de las víctimas españolas y las labores de rescate hoy",
+        "enlace": "https://www.abc.es/internacional/terremotos-venezuela-directo-muertos-desaparecidos-heridos-ultima-hora-labores-rescate-hoy-20260629151857-di.html",
+        "desc": "Dos fuertes terremotos han sacudido este miércoles varias regiones de Venezuela con apenas 39 segundos de diferencia, en una secuencia sísmica cuyo evento principal fue un sismo de…",
+        "fecha": "2026-07-01T16:53:36+02:00",
         "fuente": "ABC Internacional"
       },
       {
         "titulo": "Cisma en la Iglesia católica: los lefebvrianos consuman su desafío al Papa León XIV y ordenan a cuatro obispos ultramontanos pese a la advertencia de excomunión",
         "enlace": "https://www.elmundo.es/internacional/2026/07/01/6a44d86efc6c83026f8b459b.html",
         "desc": "La Sociedad de San Pío X, en la órbita de la extrema derecha, se opone al Concilio Vaticano II&nbsp; Leer",
-        "fecha": "2026-07-01T11:18:44+02:00",
+        "fecha": "2026-07-01T16:00:38+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Al menos seis muertos y varios heridos en el incendio de un edificio residencial en Amberes (Bélgica)",
         "enlace": "https://www.elconfidencial.com/mundo/2026-07-01/incendio-amberes-edificio-belgica-1tps_4381683/",
         "desc": "Los heridos más graves han sido trasladados a hospitales cercanos y los leves están recibiendo tratamiento 'in situ'",
-        "fecha": "2026-07-01T12:41:21.216194+00:00",
+        "fecha": "2026-07-01T15:46:49.616056+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "El Junquito y otros sitios golpeados por los terremotos en Venezuela que han quedado opacados por la magnitud de la tragedia en La Guaira",
+        "titulo": "Cómo están los otros sitios de Venezuela golpeados por los terremotos que han quedado opacados por la magnitud de la tragedia en La Guaira",
         "enlace": "https://www.bbc.com/mundo/articles/cn8qzd1jg0po?at_medium=RSS&at_campaign=rss",
         "desc": "A una semana de los poderosos sismos, los habitantes de otras regiones afectadas afirman sentirse olvidados y desasistidos por parte de las autoridades.",
-        "fecha": "2026-07-01T11:30:47+00:00",
+        "fecha": "2026-07-01T15:07:39+00:00",
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Unicef alerta de un déficit de hasta 5.000 millones para la infancia venezolana tras los terremotos",
-        "enlace": "http://es.euronews.com/2026/07/01/unicef-alerta-de-un-deficit-de-hasta-5000-millones-para-la-infancia-venezolana-tras-el-ter",
-        "desc": "Unicef cifra en 680.000 los menores afectados por el doble seísmo en Venezuela y advierte de que la crisis golpea a una infancia que ya sufría una situación de vulnerabilidad previ…",
-        "fecha": "2026-07-01T14:00:54+02:00",
+        "titulo": "Ascienden a 26 los españoles fallecidos por los terremotos de Venezuela",
+        "enlace": "http://es.euronews.com/2026/07/01/ascienden-a-26-los-espanoles-fallecidos-por-los-terremotos-de-venezuela",
+        "desc": "El ministro de Exteriores, José Manuel Albares, eleva a 26 el número de españoles fallecidos en los terremotos de Venezuela. Además, cifra en 150 los desaparecidos y en 12 las pers…",
+        "fecha": "2026-07-01T17:07:07+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Trump ganó más de mil millones de dólares con criptomonedas en su primer año en el cargo",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-        "desc": "Los ingresos criptográficos del presidente superan con creces sus ganancias en bienes raíces y artículos con temas de Trump, como relojes.",
-        "fecha": "2026-07-01T11:41:13+00:00",
+        "titulo": "Tres mueren en festejos del Mundial de Ciudad de México",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+        "desc": "Más de un millón de personas salieron a las calles de la Ciudad de México el martes para conmemorar la victoria del país sobre Ecuador.",
+        "fecha": "2026-07-01T11:01:12+00:00",
         "fuente": "BBC World"
       },
       {
@@ -382,10 +382,10 @@
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Un incendio en un bloque de pisos de Amberes deja varios muertos",
-        "enlace": "https://www.abc.es/internacional/incendio-bloque-pisos-amberes-deja-varios-muertos-20260701140821-nt.html",
-        "desc": "Varias personas han muerto en un incendio que se ha desatado este miércoles por la mañana en un bloque de apartamentos en la ciudad belga de Amberes, según ha informado la Policía …",
-        "fecha": "2026-07-01T14:08:22+02:00",
+        "titulo": "Tsunami, el héroe de cuatro patas que rescata supervivientes en Venezuela",
+        "enlace": "https://www.abc.es/internacional/tsunami-heroe-cuatro-patas-ojos-bicolores-20260701143753-nt.html",
+        "desc": "Mientras continúan las labores de rescate tras el doble terremoto que ha sacudido Venezuela, un perro de búsqueda y rescate se ha convertido en uno de los grandes protagonistas de …",
+        "fecha": "2026-07-01T15:54:14+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -399,16 +399,16 @@
         "titulo": "El Ejército venezolano está perdiendo una oportunidad de oro para reivindicarse tras el terremoto",
         "enlace": "https://www.elconfidencial.com/mundo/2026-07-01/ejercito-venezuela-pierde-oportunidad-terremoto_4381378/",
         "desc": "La fractura entre los militares y la población es visible y corre el riesgo de agrandarse aún más. Ya antes de la tragedia apenas el 30% de los venezolanos confiaban en sus Fuerzas…",
-        "fecha": "2026-07-01T12:41:21.216232+00:00",
+        "fecha": "2026-07-01T15:46:49.616088+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Trump made more than $1bn from crypto in first year back in office",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-        "desc": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
-        "fecha": "2026-07-01T11:41:13+00:00",
+        "titulo": "Three die in Mexico City World Cup celebrations",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+        "desc": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+        "fecha": "2026-07-01T11:01:12+00:00",
         "fuente": "BBC World"
       },
       {
@@ -419,45 +419,45 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "‘There will have to be a reckoning’: Venezuela’s natural disaster meets a collapsing infrastructure",
-        "enlace": "https://www.france24.com/en/video/20260701-there-will-have-to-be-a-reckoning-venezuela-s-natural-disaster-meets-a-collapsing-infrastructure",
-        "desc": "Delano D'Souza is pleased to welcome Christopher Sabatini, Senior Research Fellow for Latin America, the US and the Americas program at Chatham House. Sabatini argues that Venezuel…",
-        "fecha": "2026-07-01T11:37:51+00:00",
+        "titulo": "Village People singer and YMCA 'policeman' Victor Willis dies, aged 74",
+        "enlace": "https://www.france24.com/en/village-people-singer-and-ymca-policeman-victor-willis-dies-aged-74",
+        "desc": "The lead singer of The Village People, Victor Willis, has died at age 74. The band and his wife shared the news separately on social media saying that he passed away on the 30th of…",
+        "fecha": "2026-07-01T15:37:28+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Staggering six-figure cost of Taylor Swift and Travis Kelce’s MSG wedding police presence revealed",
-        "enlace": "https://pagesix.com/2026/07/01/entertainment/staggering-six-figure-cost-of-taylor-swift-and-travis-kelces-msg-wedding-police-presence-revealed/",
-        "desc": "The couple will reportedly have more than 120 cops, including 70-plus detectives, at Thursday's rehearsal dinner and Friday's wedding.",
-        "fecha": "2026-07-01T08:38:45-04:00",
+        "titulo": "Sony to stop releasing PlayStation games on discs as online sales dominate",
+        "enlace": "https://nypost.com/2026/07/01/business/sony-to-stop-releasing-playstation-games-on-discs-as-online-sales-dominate/",
+        "desc": "The change will not apply to games released, or already scheduled for disc release, before 2028.",
+        "fecha": "2026-07-01T08:38:42-07:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Canada to compete in 2027 Eurovision Song Contest",
-        "enlace": "https://www.dw.com/en/canada-to-compete-in-2027-eurovision-song-contest/a-77787878?maca=en-rss-en-all-1573-rdf",
-        "desc": "The Eurovision Song Contest is set to welcome another non-European participant: Canada. The country's finance minister said it offers \"a platform for Canada to shine\" at a time of …",
-        "fecha": "2026-07-01T12:41:23.816390+00:00",
+        "titulo": "How the cocoa price crash is crushing West African farmers",
+        "enlace": "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709?maca=en-rss-en-all-1573-rdf",
+        "desc": "Cocoa prices reached a peak in 2024 before plummeting by nearly 75%, dealing a financial blow to millions of farmers in Ghana and Cote d'Ivoire. Will the crisis mark a turning poin…",
+        "fecha": "2026-07-01T15:46:56.021684+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Water cannons cool tourists at Rome's Colosseum amid heatwave",
-        "enlace": "http://www.euronews.com/video/2026/07/01/water-cannons-cool-tourists-at-romes-colosseum-amid-heatwave",
-        "desc": "Tourists at Rome's Colosseum cool off with water spray and bottled water as civil protection teams respond to temperatures approaching 40C.",
-        "fecha": "2026-07-01T14:35:06+02:00",
+        "titulo": "Ukraine hits Russia's Ufa oil refinery for second time in a week, Zelenskyy says",
+        "enlace": "http://www.euronews.com/2026/07/01/ukraine-hits-russias-ufa-oil-refinery-for-second-time-in-a-week-zelenskyy-says",
+        "desc": "Ukraine’s domestically developed and manufactured drones and missiles have been hammering Russian oil facilities, including refineries, terminals, storage depots and pipeline pumpi…",
+        "fecha": "2026-07-01T15:32:30+02:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "14 House Republicans vote down procedural rule over ‘SAVE America Act,’ halting week’s legislative calendar",
-        "enlace": "https://www.oann.com/newsroom/14-house-republicans-vote-down-procedural-rule-over-save-america-act-halting-weeks-legislative-calendar/",
-        "desc": "A coalition of fourteen House Republicans paralyzed the legislative floor on Tuesday, tanking a procedural vote and forcing GOP leadership to abruptly scrap the week's legislative …",
-        "fecha": "2026-07-01T01:30:53+00:00",
+        "titulo": "Actor and activist Danny Glover says he has Alzheimer’s disease",
+        "enlace": "https://www.oann.com/entertainment/actor-and-activist-danny-glover-says-he-has-alzheimers-disease/",
+        "desc": "Actor and activist Danny Glover, best known for starring as an easygoing police officer in the “Lethal Weapon” franchise, has revealed he has Alzheimer’s disease.",
+        "fecha": "2026-07-01T15:46:49+00:00",
         "fuente": "OAN"
       },
       {
-        "titulo": "Three die in Mexico City World Cup celebrations",
-        "enlace": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-        "desc": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-        "fecha": "2026-07-01T11:01:12+00:00",
+        "titulo": "Trump made more than $1bn from crypto in first year back in office",
+        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "desc": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+        "fecha": "2026-07-01T13:52:20+00:00",
         "fuente": "BBC World"
       },
       {
@@ -468,75 +468,40 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Grammy-nominated singer Acantha Lang on using soul music as a means of connection",
-        "enlace": "https://www.france24.com/en/tv-shows/perspective/20260701-grammy-nominated-singer-acantha-lang-on-using-soul-music-as-a-means-of-connection",
-        "desc": "For Acantha Lang, soul music is \"honest\" and \"moving\". The Grammy-nominated singer-songwriter told FRANCE 24 that she believes \"when people really connect with soul music, there's …",
-        "fecha": "2026-07-01T11:29:20+00:00",
+        "titulo": "Amid war on Ukraine, 'over half of Russians expressing pessimism for the first time in 20 years'",
+        "enlace": "https://www.france24.com/en/amid-war-on-ukraine-over-half-of-russians-expressing-pessimism-for-the-first-time-in-20-years",
+        "desc": "Nadia Massih is pleased to welcome Benedict Vigers, Senior Global News Writer at Gallup. For much of the war in Ukraine, conventional wisdom suggested that Russians had largely ral…",
+        "fecha": "2026-07-01T15:26:30+00:00",
         "fuente": "France 24 EN"
       }
     ],
     "internacional_fr": [
       {
-        "titulo": "« Le communisme, c’est de la cochonnerie » : menacé d’intervention américaine, Cuba confronté à un risque d’implosion sociale",
-        "enlace": "https://www.lefigaro.fr/international/le-communisme-c-est-de-la-cochonnerie-menace-d-intervention-americaine-cuba-confronte-a-un-risque-d-implosion-sociale-20260701",
-        "desc": "REPORTAGE - Alors que le président cubain Miguel Diaz-Canel a évoqué trois scénarios concernant les dernières hostilités venant de l’administration Trump, les Havanais prédisent de…",
-        "fecha": "2026-07-01T13:26:31+02:00",
+        "titulo": "L’un des principaux violeurs pakistanais des «grooming gangs» pourrait être libéré de prison et ne sera pas expulsé",
+        "enlace": "https://www.lefigaro.fr/international/l-un-des-principaux-violeurs-pakistanais-des-grooming-gangs-pourrait-etre-libere-de-prison-et-ne-sera-pas-expulse-20260701",
+        "desc": "Condamné pour avoir violé plus de 30 fillettes et déchu de sa nationalité britannique, Shabir Ahmed ne peut être expulsé en vertu d’une loi sur l’immigration datant de 1971.",
+        "fecha": "2026-07-01T15:58:37+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Violences sexuelles sur les enfants : Lecornu réduit le délai d'enquête et confirme la perpétuité",
-        "enlace": "https://www.france24.com/fr/france/20260701-violences-sexuelles-enfants-lecornu-r%C3%A9duit-d%C3%A9lai-enqu%C3%AAte-et-confirme-perp%C3%A9tuit%C3%A9",
-        "desc": "Une \"lettre rectificative\" au projet de loi sur la protection des mineurs a été présentée mercredi en Conseil des ministres par le Premier ministre Sébastien Lecornu. Celle-ci vise…",
-        "fecha": "2026-07-01T12:06:44+00:00",
+        "titulo": "Mondial 2026 : la sape des Léopards, un message au-delà du style",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260701-mondial-2026-la-sape-des-l%C3%A9opards-un-message-au-del%C3%A0-du-style",
+        "desc": "🇨🇩 Alors que la RDC affronte l’Angleterre aujourd’hui, le styliste Alvin Junior Mak, à l’origine des tenues de la sélection congolaise pour la Coupe du monde, revient sur cette cré…",
+        "fecha": "2026-07-01T15:37:09+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Comment se remettre au sport quand on est en surpoids sans se mettre en danger?",
-        "enlace": "https://www.rfi.fr/fr/sports/20260701-comment-se-remettre-au-sport-quand-on-est-en-surpoids-sans-se-mettre-en-danger",
-        "desc": "Chaque semaine, le Dr Jean-Marc Sène, médecin du sport, présente sa chronique sport dans Priorité Santé. Aujourd'hui, il explique comment se remettre au sport lorsqu'on est en surp…",
-        "fecha": "2026-07-01T12:24:01+00:00",
+        "titulo": "Détournements de fonds européens: série de perquisitions dans une enquête impliquant le RN",
+        "enlace": "https://www.rfi.fr/fr/europe/20260701-d%C3%A9tournements-de-fonds-europ%C3%A9ens-s%C3%A9rie-de-perquisitions-dans-une-enqu%C3%AAte-impliquant-le-rassemblement-national-jordan-bardella-corruption",
+        "desc": "À moins d'une semaine de la décision de la cour d'appel de Paris dans l'affaire des assistants parlementaires européens impliquant Marine Le Pen, le 7 juillet 2026, le Rassemblemen…",
+        "fecha": "2026-07-01T15:00:07+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "États-Unis : une vague de chaleur extrême attendue pour le week-end du 4 juillet",
-        "enlace": "http://fr.euronews.com/2026/07/01/etats-unis-une-vague-de-chaleur-extreme-attendue-pour-le-week-end-du-4-juillet",
-        "desc": "Mondial 2026 : l'OMS s'allie à la FIFA pour protéger joueurs, staffs et supporters de la chaleur extrême qui va s'installer aux États-Unis dans les prochains jours.",
-        "fecha": "2026-07-01T13:34:52+02:00",
-        "fuente": "Euronews FR"
-      },
-      {
-        "titulo": "Trump a gagné plus d'un milliard de dollars grâce à la cryptographie au cours de sa première année de mandat",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-        "desc": "Les revenus cryptographiques du président dépassent de loin ses revenus provenant de l'immobilier et des articles sur le thème de Trump tels que les montres.",
-        "fecha": "2026-07-01T11:41:13+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "«L’armée retournera ses armes contre le Kremlin» : Alexandre Lounine, l’énigmatique vétéran qui prédit à Poutine une mutinerie",
-        "enlace": "https://www.lefigaro.fr/international/l-armee-retournera-ses-armes-contre-le-kremlin-alexandre-lounine-l-enigmatique-veteran-qui-predit-a-poutine-une-mutinerie-20260701",
-        "desc": "RÉCIT - Cet ancien combattant contre l’Ukraine a publié une vidéo virale dans laquelle il dénonce les maltraitances au sein de l’armée russe. Il assure que son rôle était simplemen…",
-        "fecha": "2026-07-01T12:06:20+02:00",
-        "fuente": "Le Figaro Monde"
-      },
-      {
-        "titulo": "Afrique du Sud: le rêve arc-en-ciel à l'épreuve? Avec T. Vircoulon, D. Delos, C. Dumay et M. Gbaffou",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260701-afrique-du-sud-le-r%C3%AAve-arc-en-ciel-%C3%A0-l-%C3%A9preuve-avec-t-vircoulon-d-delos-c-dumay-et-m-gbaffou",
-        "desc": "En Afrique du Sud, une vague de violences xénophobes tournée principalement vers les immigrés clandestins subsahariens déferle depuis plusieurs semaines. La journée d'hier a été le…",
-        "fecha": "2026-07-01T10:51:35+00:00",
-        "fuente": "France 24 FR"
-      },
-      {
-        "titulo": "Indignation et émotion en Centrafrique après l'assassinat d'un prêtre catholique à Zemio",
-        "enlace": "https://www.rfi.fr/fr/afrique/20260701-indignation-et-%C3%A9motion-en-centrafrique-apr%C3%A8s-l-assassinat-d-un-pr%C3%AAtre-catholique-%C3%A0-zemio",
-        "desc": "L’abbé Crépin Martial Monga a été tué par balle devant sa paroisse de Zemio, dans le sud-est du pays, par des hommes non identifiés, dans ce qui ressemble à un assassinat ciblé.",
-        "fecha": "2026-07-01T12:18:45+00:00",
-        "fuente": "RFI"
-      },
-      {
-        "titulo": "La transhumance fait son retour dans les Alpes françaises",
-        "enlace": "http://fr.euronews.com/video/2026/07/01/la-transhumance-fait-son-retour-dans-les-alpes-francaises",
-        "desc": "Moutons et chèvres gagnent les alpages du Collet d’Allevard alors que la transhumance fait son retour dans le massif de Belledonne",
-        "fecha": "2026-07-01T12:57:18+02:00",
+        "titulo": "Les patineurs russes et bélarusses autorisés aux tournois internationaux, Kyiv dénonce une \"honte\"",
+        "enlace": "http://fr.euronews.com/2026/07/01/les-patineurs-russes-et-belarusses-autorises-aux-tournois-internationaux-kyiv-denonce-une-",
+        "desc": "L’Union internationale de patinage (ISU) annonce que les sportifs russes et bélarusses ne pourront revenir qu’après un contrôle individuel. L’Ukraine dénonce une décision \"hypocrit…",
+        "fecha": "2026-07-01T17:00:39+02:00",
         "fuente": "Euronews FR"
       },
       {
@@ -545,21 +510,84 @@
         "desc": "Plus d'un million de personnes sont descendues dans les rues de Mexico mardi pour célébrer la victoire du pays contre l'Équateur.",
         "fecha": "2026-07-01T11:01:12+00:00",
         "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "« Le communisme, c’est de la cochonnerie » : menacé d’intervention américaine, Cuba confronté à un risque d’implosion sociale",
+        "enlace": "https://www.lefigaro.fr/international/le-communisme-c-est-de-la-cochonnerie-menace-d-intervention-americaine-cuba-confronte-a-un-risque-d-implosion-sociale-20260701",
+        "desc": "REPORTAGE - Alors que le président cubain Miguel Diaz-Canel a évoqué trois scénarios concernant les dernières hostilités venant de l’administration Trump, les Havanais prédisent de…",
+        "fecha": "2026-07-01T13:26:31+02:00",
+        "fuente": "Le Figaro Monde"
+      },
+      {
+        "titulo": "Cinéma : \"In Waves\", des vagues d'amour malgré la douleur",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260701-cin%C3%A9ma-in-waves-des-vagues-d-amour-malgr%C3%A9-la-douleur",
+        "desc": "Après avoir conquis le public du Festival de Cannes en ouverture de la Semaine de la critique, \"In Waves\" arrive en salles. La réalisatrice Pheuong Maï Nguyen est l'invitée de ce n…",
+        "fecha": "2026-07-01T15:35:42+00:00",
+        "fuente": "France 24 FR"
+      },
+      {
+        "titulo": "Est de la RDC: un rapport de l'ONU évalue les effectifs de l'AFC/M23 et ses liens croissants avec Joseph Kabila",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260701-est-de-la-rdc-un-rapport-de-l-onu-%C3%A9value-les-effectifs-de-l-afc-m23-et-ses-liens-croissants-avec-joseph-kabila",
+        "desc": "Le Groupe d'experts des Nations unies sur la RDC consacre une partie de son rapport à l'AFC/M23. Les enquêteurs y avancent une estimation de ses effectifs. Ils détaillent les objec…",
+        "fecha": "2026-07-01T14:23:17+00:00",
+        "fuente": "RFI"
+      },
+      {
+        "titulo": "Ukraine frappe pour la deuxième fois en une semaine la raffinerie russe d'Oufa",
+        "enlace": "http://fr.euronews.com/2026/07/01/ukraine-frappe-pour-la-deuxieme-fois-en-une-semaine-la-raffinerie-russe-doufa",
+        "desc": "Les drones et missiles conçus et fabriqués en Ukraine frappent depuis des mois les infrastructures pétrolières russes, raffineries, terminaux, dépôts et stations de pompage.",
+        "fecha": "2026-07-01T15:46:50+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "Trump a gagné plus d'un milliard de dollars grâce à la cryptographie au cours de sa première année de mandat",
+        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Les revenus cryptographiques du président dépassent de loin ses revenus provenant de l'immobilier et des articles sur le thème de Trump tels que les montres.",
+        "fecha": "2026-07-01T13:52:20+00:00",
+        "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Rafael Nadal: Schmerzen nach dem Spitzensport – wie der Tennis-Rentner Nadal Tief überwand",
-        "enlace": "https://www.spiegel.de/sport/tennis/rafael-nadal-schmerzen-nach-dem-spitzensport-wie-der-tennis-rentner-nadal-tief-ueberwand-a-624220f8-1335-4b14-95fc-f0476d18efde#ref=rss",
-        "desc": "Der Wechsel vom Profidasein ins Normalo-Leben ist für ehemalige Spitzensportler oft schwierig. Ex-Tennisstar Rafael Nadal berichtet nun über seinen neuen Alltag. Für ihn besonders …",
-        "fecha": "2026-07-01T14:36:00+02:00",
+        "titulo": "WM 2026 live: England gegen DR Kongo",
+        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-live-england-gegen-dr-kongo-a-c729445a-8b26-4ddc-9f56-3e09c1fb62be#ref=rss",
+        "desc": "Usbekistan geschlagen und Portugal geärgert: Die Mannschaft aus DR Kongo gehört zu den Überraschungen dieses Turniers. Gegner England begeisterte bisher nur im ersten Match, will a…",
+        "fecha": "2026-07-01T17:41:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Deutschland: Geburtenrate auf tiefstem Stand seit 20 Jahren",
-        "enlace": "https://www.dw.com/de/deutschland-geburtenrate-auf-tiefstem-stand-seit-20-jahren/a-77784630?maca=de-rss-de-all-1119-rdf",
-        "desc": "Insgesamt wurden im Jahr 2025 Deutschlandweit etwas mehr als 650.000 Geburten gezählt. Regional gibt es große Unterschiede.",
-        "fecha": "2026-07-01T12:41:26.036947+00:00",
+        "titulo": "Faktencheck: Keine Petition gegen migrantische Nationalspieler",
+        "enlace": "https://www.dw.com/de/faktencheck-keine-petition-gegen-migrantische-nationalspieler/a-77791062?maca=de-rss-de-all-1119-rdf",
+        "desc": "Angeblich sollen Fans nach dem WM-Aus Deutschlands eine rassistische Petition gestartet haben, die \"afrikanische\" und \"muslimische\" Spieler aus der DFB-Elf verbannen soll. Die DW h…",
+        "fecha": "2026-07-01T15:47:00.399787+00:00",
+        "fuente": "DW Deutsch"
+      },
+      {
+        "titulo": "Schiff läuft in Straße von Hormus auf Grund: Iran pocht auf Kontrollrecht",
+        "enlace": "http://de.euronews.com/2026/07/01/schiff-strasse-hormus-iran-eu",
+        "desc": "Die Revolutionsgarden erklärten, das Schiff sei vom genehmigten Korridor abgewichen und deshalb auf Grund gelaufen. Die Kontrolle über die Straße von Hormus und Israels Einsatz geg…",
+        "fecha": "2026-07-01T15:49:19+02:00",
+        "fuente": "Euronews DE"
+      },
+      {
+        "titulo": "Drei Menschen sterben bei den Feierlichkeiten zur Weltmeisterschaft in Mexiko-Stadt",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+        "desc": "Mehr als eine Million Menschen gingen am Dienstag in Mexiko-Stadt auf die Straße, um den Sieg des Landes über Ecuador zu feiern.",
+        "fecha": "2026-07-01T11:01:12+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Reinhold Messner: Sohn Simon Messner will »es einfach anders machen« als sein Vater",
+        "enlace": "https://www.spiegel.de/panorama/leute/reinhold-messner-sohn-simon-messner-will-es-einfach-anders-machen-als-sein-vater-a-9f5939a4-c8c3-4744-8da5-74bc2050287a#ref=rss",
+        "desc": "Das Verhältnis von Simon Messner zu seinem Vater gilt als schwierig. Nun hat sich der frühere Kletterer sogar vom Bergsteigen weitgehend abgewandt. Grund dafür: seine eigene Tochte…",
+        "fecha": "2026-07-01T17:41:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Parteitag der AfD: Ausnahmezustand in Erfurt erwartet",
+        "enlace": "https://www.dw.com/de/parteitag-der-afd-ausnahmezustand-in-erfurt-erwartet/a-77750962?maca=de-rss-de-all-1119-rdf",
+        "desc": "Die Polizei rechnet mit rund 50.000 Gegendemonstranten, wenn die AfD vom 4. bis 5. Juli in Erfurt tagt. Auf dem Parteitag selbst wird ein Machtkampf um Einfluss im Bundesvorstand e…",
+        "fecha": "2026-07-01T15:47:00.399823+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -573,72 +601,23 @@
         "titulo": "Trump hat im ersten Jahr seiner Amtszeit mehr als 1 Milliarde US-Dollar mit Krypto verdient",
         "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
         "desc": "Die Krypto-Einnahmen des Präsidenten übersteigen bei weitem seine Einnahmen aus Immobilien und Trump-Themenartikeln wie Uhren.",
-        "fecha": "2026-07-01T11:41:13+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "WM 2026 heute: Das sollten Sie vor den Spielen am Abend und in der Nacht wissen",
-        "enlace": "https://www.spiegel.de/sport/fussball/wm-2026-heute-das-sollten-sie-vor-den-spielen-am-abend-und-in-der-nacht-wissen-a-b489ec74-3b17-427b-8e2d-12c32bbfbd5e#ref=rss",
-        "desc": "England trifft auf einen Außenseiter, Belgien hofft auf die individuelle Klasse seiner Stars. Und: Die USA träumen von der nächsten Runde. Alles Wichtige zu den Sechzehntelfinalpar…",
-        "fecha": "2026-07-01T14:31:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Ozeane heizen sich auf - Meere so warm wie nie",
-        "enlace": "https://www.dw.com/de/ozeane-heizen-sich-auf-meere-so-warm-wie-nie/a-77782429?maca=de-rss-de-all-1119-rdf",
-        "desc": "Neuer Wärmerekord in den Ozeanen: Die Temperatur der Weltmeere war an der Wasseroberfläche im vergangenen Monat so hoch wie nie zuvor in einem Juni. Das belegen zwei aktuelle Messu…",
-        "fecha": "2026-07-01T12:41:26.036980+00:00",
-        "fuente": "DW Deutsch"
-      },
-      {
-        "titulo": "Drei Tote bei WM-Straßenfeiern in Mexiko-Stadt",
-        "enlace": "http://de.euronews.com/2026/07/01/tote-wm-strassenfeiern-mexiko-stadt-fussball",
-        "desc": "Nach dem Höhepunkt des Glücks die Tragödie: Rettungskräfte und Ärzteschaft konnten drei Menschen nicht mehr helfen, die bei den Siegesfeiern in der Hauptstadt in der Menge erstickt…",
-        "fecha": "2026-07-01T14:25:38+02:00",
-        "fuente": "Euronews DE"
-      },
-      {
-        "titulo": "Drei Menschen sterben bei den Feierlichkeiten zur Weltmeisterschaft in Mexiko-Stadt",
-        "enlace": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-        "desc": "Mehr als eine Million Menschen gingen am Dienstag in Mexiko-Stadt auf die Straße, um den Sieg des Landes über Ecuador zu feiern.",
-        "fecha": "2026-07-01T11:01:12+00:00",
+        "fecha": "2026-07-01T13:52:20+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
       {
-        "titulo": "Totoinvitati e look segreti: la vigilia del matrimonio dell’anno tra Taylor Swift e Travis Kelce",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/01/news/taylor_swift_travis_kelce_matrimonio-425444579/?rss",
-        "desc": "Domani hanno inizio i festeggiamenti della popolare coppia nel cuore di New York, ma nel riserbo più assoluto. Tanto che online già si scommette sulla lista degli ospiti",
-        "fecha": "2026-07-01T14:35:17+02:00",
+        "titulo": "Oggi il primo volo di Trump sul nuovo Air Force One regalato dal Qatar",
+        "enlace": "https://www.repubblica.it/esteri/2026/07/02/news/trump_nuovo_air_force_one_qatar_inaugurazione-425444415/?rss",
+        "desc": "Il presidente lo userà per recarsi nel North Dakota alla biblioteca presidenziale di Theodore Roosevelt. I lavori di ammodernamento sono costati 400 milioni di dollari",
+        "fecha": "2026-07-01T14:50:00+02:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Una batteria anti-missile italiana di Samp/t a difesa del vertice Nato ad Ankara",
-        "enlace": "http://it.euronews.com/my-europe/2026/07/01/una-batteria-anti-missile-italiana-di-sampt-a-difesa-del-vertice-nato-ad-ankara",
-        "desc": "Il Comandante operativo di vertice interforze (Covi) è intervenuto davanti alle Commissioni congiunte Esteri e Difesa di Senato e Camera nell’ambito dell’esame dei provvedimenti su…",
-        "fecha": "2026-07-01T13:20:25+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "Trump ha guadagnato più di 1 miliardo di dollari dalle criptovalute nel primo anno di ritorno al potere",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-        "desc": "Le entrate derivanti dalle criptovalute del presidente superano di gran lunga i suoi guadagni derivanti dal settore immobiliare e da articoli a tema Trump, come gli orologi.",
-        "fecha": "2026-07-01T11:41:13+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "Belgio, incendio in un condominio di Anversa: 5 morti. Persone in fuga dai balconi",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/01/news/belgio_incendio_condominio_anversa_morti_feriti-425444481/?rss",
-        "desc": "Nella struttura vivono in duecento. Vigili del fuoco in azione",
-        "fecha": "2026-07-01T14:03:18+02:00",
-        "fuente": "La Repubblica"
-      },
-      {
-        "titulo": "La transumanza torna nelle Alpi francesi",
-        "enlace": "http://it.euronews.com/video/2026/07/01/la-transumanza-torna-nelle-alpi-francesi",
-        "desc": "A Le Collet d’Allevard, nel massiccio della Belledonne, pecore e capre vengono condotte agli alpeggi per il ritorno della tradizionale festa della transumanza in Francia.",
-        "fecha": "2026-07-01T12:57:30+02:00",
+        "titulo": "Zelensky: colpita per la seconda volta in una settimana la raffineria russa di Ufa",
+        "enlace": "http://it.euronews.com/2026/07/01/zelensky-colpita-per-la-seconda-volta-in-una-settimana-la-raffineria-russa-di-ufa",
+        "desc": "Non ci sono conferme da parte di Mosca ma da mesi gli ucraini colpiscono le infrastrutture petrolifere russe: raffinerie, terminal, depositi di stoccaggio e stazioni di pompaggio d…",
+        "fecha": "2026-07-01T16:46:12+02:00",
         "fuente": "Euronews IT"
       },
       {
@@ -647,21 +626,42 @@
         "desc": "Martedì più di un milione di persone sono scese nelle strade di Città del Messico per celebrare la vittoria del Paese sull'Ecuador.",
         "fecha": "2026-07-01T11:01:12+00:00",
         "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Totoinvitati e look segreti: la vigilia del matrimonio dell’anno tra Taylor Swift e Travis Kelce",
+        "enlace": "https://www.repubblica.it/esteri/2026/07/01/news/taylor_swift_travis_kelce_matrimonio-425444579/?rss",
+        "desc": "Domani hanno inizio i festeggiamenti della popolare coppia nel cuore di New York, ma nel riserbo più assoluto. Tanto che online già si scommette sulla lista degli ospiti",
+        "fecha": "2026-07-01T14:35:17+02:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Pattinatori russi e bielorussi riammessi ai tornei internazionali, l'ira dell'Ucraina",
+        "enlace": "http://it.euronews.com/2026/07/01/pattinatori-russi-e-bielorussi-riammessi-ai-tornei-internazionali-lira-dellucraina",
+        "desc": "L'International Skating Union ha spiegato che il rientro di russi e bielorussi sarà possibile solo dopo verifiche individuali. L'Ucraina ha reagito duramente, definendo la decision…",
+        "fecha": "2026-07-01T16:40:05+02:00",
+        "fuente": "Euronews IT"
+      },
+      {
+        "titulo": "Trump ha guadagnato più di 1 miliardo di dollari dalle criptovalute nel primo anno di ritorno al potere",
+        "enlace": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Le entrate derivanti dalle criptovalute del presidente superano di gran lunga i suoi guadagni derivanti dal settore immobiliare e da articoli a tema Trump, come gli orologi.",
+        "fecha": "2026-07-01T13:52:20+00:00",
+        "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "13h Onda de calor pode ter um impacto significativo na mortalidade prevê Instituto Ricardo Jorge",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/13h-onda-de-calor-pode-ter-um-impacto-significativo-na-mortalidade-preve-instituto-ricardo-jorge_a1_1750637",
-        "desc": "",
-        "fecha": "2026-07-01T14:28:03+01:00",
+        "titulo": "Borges vende cara a derrota com Sinner",
+        "enlace": "https://www.rtp.pt/noticias/outras-modalidades/borges-vende-cara-a-derrota-com-sinner_d1750689",
+        "desc": "O português Nuno Borges foi eliminado na segunda ronda de Wimbledon, depois de perder em três sets com o italiano Jannik Sinner, líder do ranking mundial e detentor do título do te…",
+        "fecha": "2026-07-01T17:32:17+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "\"O Canadá ganhou no momento em que o Stephen decidiu jogar\"",
-        "enlace": "https://observador.pt/especiais/o-canada-ganhou-no-momento-em-que-o-stephen-decidiu-jogar-por-aquela-camisola-mauro-eustaquio-irmao-do-fenomeno-com-origens-na-nazare/",
-        "desc": "Mauro Eustáquio, irmão de Stephen, lidera o Inter Toronto FC, da Canadian Premier League",
-        "fecha": "2026-07-01T13:29:46+01:00",
+        "titulo": "\"Israel tem um poder de chantagem decisivo\"",
+        "enlace": "https://observador.pt/programas/gabinete-de-guerra/israel-tem-um-poder-de-chantagem-decisivo/",
+        "desc": "Azeredo Lopes, antigo ministro da Defesa, detalha como o governo de Netanyahu, focado na sobrevivência política, atua para impedir a normalização de relações entre os Estados Unido…",
+        "fecha": "2026-07-01T16:38:38+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,40 +672,75 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Rotinas para escapar ao calor",
-        "enlace": "https://www.rtp.pt/noticias/pais/rotinas-para-escapar-ao-calor_v1750630",
-        "desc": "Quase todo o território continental enfrenta hoje temperaturas acima dos 30 graus. Quatro distritos estão sob aviso laranja da meteorologia: Évora, Beja, Castelo Branco e Portalegr…",
-        "fecha": "2026-07-01T14:19:47+01:00",
+        "titulo": "Inglaterra - RD Congo",
+        "enlace": "https://www.rtp.pt/noticias/mundial-2026/inglaterra-rd-congo_e1750664",
+        "desc": "A Inglaterra parte como favorita para este jogo contra a Repúbica Democrática do Congo, dos 16 avos de final Campeonato do Mundo de futebol.",
+        "fecha": "2026-07-01T17:21:36+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Demissão de Duarte Gomes no MP: a polémica na arbitragem",
-        "enlace": "https://observador.pt/2026/07/01/duarte-gomes-demitiu-se-depois-de-denuncia-de-arbitro-fpf-enviou-tudo-para-o-ministerio-publico-a-polemica-que-rebentou-na-arbitragem/",
-        "desc": "Duarte Gomes e Luciano Gonçalves surgiram várias vezes em conjunto ao longo da temporada",
-        "fecha": "2026-07-01T13:23:04+01:00",
+        "titulo": "Governo está a trabalhar em financiamento para CoLAB e CTI",
+        "enlace": "https://observador.pt/2026/07/01/ciencia-ministerio-esta-a-trabalhar-em-instrumento-de-financiamento-para-laboratorios-colaborativos/",
+        "desc": "Resposta deverá chegar até ao final do ano, afirmou ministro da Educação no Parlamento. Governo insiste na competitividade.",
+        "fecha": "2026-07-01T16:36:12+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Após crise com Flávio, Michelle Bolsonaro deixa presidência do PL Mulher",
-        "enlace": "https://www.bbc.com/portuguese/articles/c0qy3782dnyo?at_medium=RSS&at_campaign=rss",
-        "desc": "Ex-primeira-dama afirma que vai se 'dedicar integralmente' aos cuidados com o ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar, e a filha.",
-        "fecha": "2026-07-01T00:17:29+00:00",
+        "titulo": "Como disputa por apoio no Ceará desencadeou guerra entre Michelle e Flávio Bolsonaro",
+        "enlace": "https://www.bbc.com/portuguese/articles/cj4gz00yzgro?at_medium=RSS&at_campaign=rss",
+        "desc": "Crise ganhou as redes sociais nas últimas semanas e levou a ex-primeira-dama a deixar a presidência do PL Mulher.",
+        "fecha": "2026-07-01T14:19:45+00:00",
         "fuente": "BBC Brasil"
       }
     ],
     "deportes_es": [
       {
-        "titulo": "México sigue de fiesta",
-        "enlace": "https://www.marca.com/futbol/mundial/cronica/2026/07/01/tri-luces-sombras.html",
-        "desc": "México demostró ser muy superior ante una Ecuador sin ideas con dos trallazos de Quiñones y Jiménez. El partido comenzó con una hora de retraso por tormenta eléctrica",
-        "fecha": "2026-07-01T06:02:10+02:00",
+        "titulo": "El Betis cierra a Facundo Bernal",
+        "enlace": "https://www.marca.com/futbol/betis/2026/07/01/betis-cierra-facundo-bernal.html",
+        "desc": "El club abonará 9,5 millones de euros, impuestos incluidos, por el 100% de sus derechos",
+        "fecha": "2026-07-01T17:25:33+02:00",
         "fuente": "Marca"
       },
       {
-        "titulo": "Las pullas de Laporta al Madrid y a Florentino: \"Veo algunos muy nerviosos\"",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260701/1004201605/pullas-laporta-madrid-florentino-veo-nerviosos.html",
-        "desc": "Joan Laporta quiso hacer referencia al Real Madrid en su acto de toma de posesión tras ser reelegido como presidente del FC Barcelona el pasado 15 de marzo. El mandatario azulgrana…",
-        "fecha": "2026-07-01T14:02:28+02:00",
+        "titulo": "\"El Atlético tiene nuestra oferta, pero no es ilimitada en el tiempo\"",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260701/1004201634/laporta-sobre-julian-alvarez-atletico-nuestra-oferta-no-ilimitada.html",
+        "desc": "Joan Laporta , presidente del Barça , &nbsp; se pronunció sobre el interés del club azulgrana en el delantero argentino Julián Álvarez (26 años). El presidente dijo que \"he hablado…",
+        "fecha": "2026-07-01T15:04:23+02:00",
+        "fuente": "Mundo Deportivo"
+      },
+      {
+        "titulo": "Las confesiones de Hugo González sobre cómo vivió su posible traspaso NBA",
+        "enlace": "https://www.gigantes.com/selecciones/hugo-gonzalez-chus-mateo-temporada-seleccion/",
+        "desc": "El jugador español recordó el final de temporada con los Celtics y los rumores sobre su posible traspaso por Giannis. La entrada Las confesiones de Hugo González sobre cómo vivió s…",
+        "fecha": "2026-07-01T14:02:49+00:00",
+        "fuente": "Gigantes Basket"
+      },
+      {
+        "titulo": "La lesión de Williams en la rodilla deja en duda el doblete de Wimbledon",
+        "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
+        "desc": "Las esperanzas de Serena Williams de jugar junto a su hermana mayor Venus en el torneo de dobles de Wimbledon parecen en duda debido a una lesión en la rodilla.",
+        "fecha": "2026-07-01T12:41:57+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "¡La agencia libre de la NBA ya está aquí! Actualizaciones en vivo sobre ofertas, tr...",
+        "enlace": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "desc": "Estamos rastreando acuerdos, intercambios, rumores y rumores en toda la NBA, incluido lo último sobre Norman Powell, Marcus Smart y LeBron James.",
+        "fecha": "2026-07-01T11:09:36-05:00",
+        "fuente": "ESPN EN"
+      },
+      {
+        "titulo": "Pelé, Maradona y Messi protagonizan la subasta más exclusiva del Mundial",
+        "enlace": "https://www.marca.com/futbol/mundial/2026/07/01/pele-maradona-messi-protagonizan-subasta-exclusiva-mundial-video.html",
+        "desc": "",
+        "fecha": "2026-07-01T17:19:41+02:00",
+        "fuente": "Marca"
+      },
+      {
+        "titulo": "Laporta: \"Me siento fuerte para seguir defendiendo al Barça\"",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260701/1004201584/presidente-laporta-arranca-cuarto-mandato-me-siento-fuerte-seguir-defendiendo-barca.html",
+        "desc": "Joan Laporta ya es de nuevo presidente del FC Barcelona después de tomar posesión en el cargo este miércoles 1 de julio en un acto celebrado en el Auditori 1899 del Spotify Camp No…",
+        "fecha": "2026-07-01T13:45:49+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -716,84 +751,77 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Es hora de que Tuchel muestre su mano mientras Inglaterra entra en la zona de peligro de la Copa del Mundo",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
-        "desc": "El entrenador de Inglaterra, Thomas Tuchel, ahora debe jugar su mano más fuerte al entrar en la zona de peligro en una Copa del Mundo llena de sorpresas, dice el redactor jefe de fútbol Phil McNulty.",
-        "fecha": "2026-07-01T09:10:35+00:00",
+        "titulo": "Hull vende dos jugadores horas antes de la fecha límite para evitar la deducción de puntos",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
+        "desc": "Hull City evitó la amenaza de una deducción de puntos en la Premier League al vender dos jugadores horas antes de la fecha límite del martes.",
+        "fecha": "2026-07-01T11:40:25+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Gilberto Mora deslumbra en el Azteca: el genio precoz de México al que sólo supera Pelé y que sueña con el Madrid",
-        "enlace": "https://www.marca.com/futbol/mundial/2026/07/01/gilberto-mora-genio-precoz-mexico-supera-pele-suena-jugar-madrid.html",
-        "desc": "Gilberto Mora&amp;nbsp;se convirtió a los 17 años y 259 días de edad en el segundo jugador más joven de la historia en iniciar un partido de la fase de eliminación directa de una C…",
-        "fecha": "2026-07-01T05:18:07+02:00",
-        "fuente": "Marca"
-      },
-      {
-        "titulo": "Así queda constituida la nueva junta del Barça al detalle",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260701/1004201568/asi-queda-constituida-nueva-junta-barca-detalle.html",
-        "desc": "La nueva junta directiva del FC Barcelona saliente de las últimas elecciones celebradas el pasado 15 de marzo quedó constituida hoy de forma oficial. El nuevo grupo comandado desde…",
-        "fecha": "2026-07-01T13:18:19+02:00",
-        "fuente": "Mundo Deportivo"
-      },
-      {
-        "titulo": "Gigantes lanza su apoyo a Venezuela a través de Misiones Salesianas",
-        "enlace": "https://www.gigantes.com/mas-basket/gigantes-lanza-apoyo-venezuela-misiones-salesianas/",
-        "desc": "Gigantes quiere mostrar su apoyo a Venezuela tras los terremotos que han golpeado al país y, para ello, ha habilitado en su web la posibilidad de realizar donaciones directas a... …",
-        "fecha": "2026-07-01T12:09:37+00:00",
-        "fuente": "Gigantes Basket"
-      },
-      {
-        "titulo": "La lesión de Williams en la rodilla deja en duda el doblete de Wimbledon",
-        "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Las esperanzas de Serena Williams de jugar junto a su hermana mayor Venus en el torneo de dobles de Wimbledon parecen en duda debido a una lesión en la rodilla.",
-        "fecha": "2026-07-01T12:17:30+00:00",
-        "fuente": "BBC Sport EN"
+        "titulo": "Fuentes: Conley a C's, 12° en llegar a 20 temporadas",
+        "enlace": "https://www.espn.com/nba/story/_/id/49236921/conley-celtics-becomes-12th-reach-20-nba-seasons",
+        "desc": "El guardia agente libre Mike Conley Jr. acordó un contrato de un año para firmar con los Boston Celtics, dijeron fuentes a ESPN, y Conley se convirtió en el jugador número 14 en llegar a 20 temporadas en la NBA.",
+        "fecha": "2026-07-01T11:26:05-05:00",
+        "fuente": "ESPN EN"
       }
     ],
     "deportes_en": [
       {
-        "titulo": "Time for Tuchel to show hand as England enter World Cup danger zone",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
-        "desc": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
-        "fecha": "2026-07-01T09:10:35+00:00",
-        "fuente": "BBC Sport"
-      },
-      {
-        "titulo": "What's next for unpredictable Serena?",
-        "enlace": "https://www.skysports.com/tennis/news/12040/13559478/serena-williams-comeback-whats-next-for-23-time-grand-slam-champion-after-wimbledon-singles-defeat-will-she-play-us-open",
-        "desc": "Serena Williams rolled back the years as she treated the lucky ticket holders on Centre Court and the millions more watching on TV to a night of pure drama at Wimbledon in her come…",
-        "fecha": "2026-07-01T11:21:00",
-        "fuente": "Sky Sports"
-      },
-      {
         "titulo": "Williams' knee injury leaves Wimbledon doubles in doubt",
         "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
         "desc": "Serena Williams' hopes of playing alongside her older sister Venus in the Wimbledon doubles look in doubt because of a knee injury.",
-        "fecha": "2026-07-01T12:17:30+00:00",
+        "fecha": "2026-07-01T12:41:57+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "'Verstappen leaving Red Bull would cause F1 driver market chaos'",
-        "enlace": "https://www.skysports.com/f1/news/12040/13559456/max-verstappen-red-bull-driver-switching-teams-for-2027-formula-1-season-would-cause-chaos-in-f1-driver-market",
-        "desc": "Max Verstappen leaving Red Bull would cause \"chaos\" in the Formula 1 driver market, according to Sky Sports F1's Simon Lazenby.",
-        "fecha": "2026-07-01T12:00:00",
+        "titulo": "NBA free agency is here! Live updates on deals, tr...",
+        "enlace": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "desc": "We're tracking deals, trades, rumors and buzz across the NBA, including the latest on Norman Powell, Marcus Smart and LeBron James.",
+        "fecha": "2026-07-01T11:09:36-05:00",
+        "fuente": "ESPN"
+      },
+      {
+        "titulo": "Sciver-Brunt confirms England return for South Africa semi-final",
+        "enlace": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
+        "desc": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
+        "fecha": "2026-07-01T14:15:00",
+        "fuente": "Sky Sports"
+      },
+      {
+        "titulo": "Hull sell two players hours before deadline to avoid points deduction",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
+        "desc": "Hull City avoided the threat of a points deduction in the Premier League by selling two players hours before Tuesday's deadline.",
+        "fecha": "2026-07-01T11:40:25+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "Sources: Conley to C's, 12th to reach 20 seasons",
+        "enlace": "https://www.espn.com/nba/story/_/id/49236921/conley-celtics-becomes-12th-reach-20-nba-seasons",
+        "desc": "Free agent guard Mike Conley Jr. has agreed to a one-year deal to sign with the Boston Celtics, sources told ESPN, with Conley becoming the 14th player to reach 20 NBA seasons.",
+        "fecha": "2026-07-01T11:26:05-05:00",
+        "fuente": "ESPN"
+      },
+      {
+        "titulo": "England latest: Don't expect glamorous performances, says Tuchel",
+        "enlace": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+        "desc": "",
+        "fecha": "2026-06-30T09:08:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "Il est temps pour Tuchel de montrer sa main alors que l’Angleterre entre dans la zone dangereuse de la Coupe du monde",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
-        "desc": "L'entraîneur anglais Thomas Tuchel doit désormais jouer son meilleur rôle alors qu'il entre dans la zone de danger dans une Coupe du monde de chocs, a déclaré le rédacteur en chef du football Phil McNulty.",
-        "fecha": "2026-07-01T09:10:35+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
         "titulo": "La blessure au genou de Williams laisse le doute sur le double de Wimbledon",
         "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
         "desc": "Les espoirs de Serena Williams de jouer aux côtés de sa sœur aînée Venus en double à Wimbledon semblent mis en doute en raison d'une blessure au genou.",
-        "fecha": "2026-07-01T12:17:30+00:00",
+        "fecha": "2026-07-01T12:41:57+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Hull vend deux joueurs quelques heures avant la date limite pour éviter la déduction de points",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
+        "desc": "Hull City a évité la menace d'une déduction de points en Premier League en vendant deux joueurs quelques heures avant la date limite de mardi.",
+        "fecha": "2026-07-01T11:40:25+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,44 +830,44 @@
         "titulo": "Hydration Break: Die heißeste Debatte der WM",
         "enlace": "https://www.dw.com/de/hydration-break-die-heißeste-debatte-der-wm/a-77763264?maca=de-rss-de-sport-4020-rdf",
         "desc": "Eigentlich sollen sie die Spieler vor der nordamerikanischen Sommerhitze schützen. Doch die verpflichtenden Trinkpausen sorgen bei der WM 2026 für Diskussionen auf den Rängen, auf …",
-        "fecha": "2026-07-01T12:41:42.060288+00:00",
-        "fuente": "DW Sport"
-      },
-      {
-        "titulo": "Zeit für Tuchel, seine Hand zu zeigen, als England in die Gefahrenzone der Weltmeisterschaft gerät",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
-        "desc": "Englands Trainer Thomas Tuchel muss jetzt sein stärkstes Blatt spielen, während er in einer Weltmeisterschaft voller Schocks in die Gefahrenzone gerät, sagt Chef-Fußballjournalist Phil McNulty.",
-        "fecha": "2026-07-01T09:10:35+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "DFB-Team: Das Scheitern des Julian Nagelsmann",
-        "enlace": "https://www.dw.com/de/dfb-team-das-scheitern-des-julian-nagelsmann/a-77773911?maca=de-rss-de-sport-4020-rdf",
-        "desc": "Die deutsche Fußball-Nationalmannschaft ist mal wieder bei einem großen Turnier gescheitert. Der Fokus der Kritik liegt dabei besonders auf Bundestrainer Julian Nagelsmann, der vie…",
-        "fecha": "2026-07-01T12:41:42.060327+00:00",
+        "fecha": "2026-07-01T15:47:20.760208+00:00",
         "fuente": "DW Sport"
       },
       {
         "titulo": "Williams' Knieverletzung lässt Zweifel am Wimbledon-Doppel aufkommen",
         "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
         "desc": "Serena Williams‘ Hoffnungen, an der Seite ihrer älteren Schwester Venus im Wimbledon-Doppel zu spielen, stehen aufgrund einer Knieverletzung in Frage.",
-        "fecha": "2026-07-01T12:17:30+00:00",
+        "fecha": "2026-07-01T12:41:57+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "DFB-Team: Das Scheitern des Julian Nagelsmann",
+        "enlace": "https://www.dw.com/de/dfb-team-das-scheitern-des-julian-nagelsmann/a-77773911?maca=de-rss-de-sport-4020-rdf",
+        "desc": "Die deutsche Fußball-Nationalmannschaft ist mal wieder bei einem großen Turnier gescheitert. Der Fokus der Kritik liegt dabei besonders auf Bundestrainer Julian Nagelsmann, der vie…",
+        "fecha": "2026-07-01T15:47:20.760244+00:00",
+        "fuente": "DW Sport"
+      },
+      {
+        "titulo": "Hull verkauft zwei Spieler Stunden vor Ablauf der Frist, um einen Punktabzug zu vermeiden",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
+        "desc": "Hull City vermied den drohenden Punktabzug in der Premier League, indem es zwei Spieler wenige Stunden vor Ablauf der Frist am Dienstag verkaufte.",
+        "fecha": "2026-07-01T11:40:25+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "È ora che Tuchel mostri la mano mentre l'Inghilterra entra nella zona pericolosa della Coppa del Mondo",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
-        "desc": "Il Ct dell'Inghilterra Thomas Tuchel deve ora giocare la sua mano migliore mentre entra nella zona di pericolo in una Coppa del Mondo sconvolgente, afferma il capo giornalista calcistico Phil McNulty.",
-        "fecha": "2026-07-01T09:10:35+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
         "titulo": "L'infortunio al ginocchio di Williams lascia in dubbio il doppio di Wimbledon",
         "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&at_campaign=rss",
         "desc": "Le speranze di Serena Williams di giocare insieme alla sorella maggiore Venus nel doppio di Wimbledon sembrano in dubbio a causa di un infortunio al ginocchio.",
-        "fecha": "2026-07-01T12:17:30+00:00",
+        "fecha": "2026-07-01T12:41:57+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Lo Hull vende due giocatori ore prima della scadenza per evitare la detrazione di punti",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
+        "desc": "L'Hull City ha evitato la minaccia di detrazione di punti in Premier League vendendo due giocatori poche ore prima della scadenza di martedì.",
+        "fecha": "2026-07-01T11:40:25+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -856,28 +884,28 @@
         "titulo": "Ciencia",
         "enlace": "http://www.elmundo.es/ciencia.html",
         "desc": "Ciencia",
-        "fecha": "2026-07-01T12:41:51.359049+00:00",
+        "fecha": "2026-07-01T15:47:31.421292+00:00",
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "El Junquito y otros sitios golpeados por los terremotos en Venezuela que han quedado opacados por la magnitud de la tragedia en La Guaira",
+        "titulo": "Cómo están los otros sitios de Venezuela golpeados por los terremotos que han quedado opacados por la magnitud de la tragedia en La Guaira",
         "enlace": "https://www.bbc.com/mundo/articles/cn8qzd1jg0po?at_medium=RSS&at_campaign=rss",
         "desc": "A una semana de los poderosos sismos, los habitantes de otras regiones afectadas afirman sentirse olvidados y desasistidos por parte de las autoridades.",
-        "fecha": "2026-07-01T11:30:47+00:00",
+        "fecha": "2026-07-01T15:07:39+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Los científicos deberían reconocer sus propios prejuicios políticos para generar confianza pública",
-        "enlace": "https://www.nature.com/articles/d41586-026-01975-x",
-        "desc": "Naturaleza, Publicado en línea: 01 de julio de 2026; doi:10.1038/d41586-026-01975-x La confianza pública en la ciencia no puede sostenerse con el apoyo de distritos electorales estrechos en un extremo de una ideología...",
-        "fecha": "2026-07-01T12:41:57.682187+00:00",
+        "titulo": "Unión: cómo la cooperación construyó el mundo",
+        "enlace": "https://www.nature.com/articles/d41586-026-02067-6",
+        "desc": "Naturaleza, Publicado en línea: 01 de julio de 2026; doi:10.1038/d41586-026-02067-6 El periodista científico Rowan Hooper se une a nosotros para hablar sobre la simbiosis y la importancia de que los organismos trabajen juntos...",
+        "fecha": "2026-07-01T15:47:35.606102+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Chandra de la NASA revela el universo 'rojo, blanco y azul' para el número 250 de EE. UU.",
-        "enlace": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/",
-        "desc": "En celebración del 250 cumpleaños de los Estados Unidos, la NASA ha presentado cuatro imágenes cósmicas de su Observatorio de rayos X Chandra representadas en rojo, blanco y azul que representan...",
-        "fecha": "2026-06-30T19:54:29+00:00",
+        "titulo": "Nave espacial LINK preparada para la misión de impulsar el Observatorio Swift de la NASA",
+        "enlace": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
+        "desc": "La primera misión de su tipo para elevar la órbita del Observatorio Swift Neil Gehrels de la NASA está lista para su lanzamiento no antes del jueves 2 de julio a las 5:09 a. m. EDT (9:09 p. m. UTC+12), de...",
+        "fecha": "2026-07-01T15:20:29+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -895,26 +923,26 @@
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Cómo los datos de FAIR están ayudando a generar confianza en la ciencia",
-        "enlace": "https://www.nature.com/articles/d41586-026-01982-y",
-        "desc": "Naturaleza, Publicado en línea: 01 de julio de 2026; doi:10.1038/d41586-026-01982-y Las directrices FAIR sentaron una base sólida para garantizar la accesibilidad y reproducibilidad de los datos. Una década después,…",
-        "fecha": "2026-07-01T12:41:57.682233+00:00",
+        "titulo": "Reacción inversa de la radiación de Hawking estimulada en un análogo óptico",
+        "enlace": "https://www.nature.com/articles/s41586-026-10720-3",
+        "desc": "Naturaleza, Publicado en línea: 01 de julio de 2026; doi:10.1038/s41586-026-10720-3 Mediante el uso de un análogo de fibra óptica de la física de los agujeros negros, se pre…",
+        "fecha": "2026-07-01T15:47:35.606140+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Un día de pruebas de vuelo en la NASA Armstrong",
-        "enlace": "https://www.nasa.gov/centers-and-facilities/armstrong/a-day-of-flight-testing-at-nasa-armstrong/",
-        "desc": "Las pruebas de vuelo son un deporte de equipo. Durante casi 80 años, los equipos del Centro de Investigación de Vuelo Armstrong de la NASA en Edwards, California, han utilizado pruebas de vuelo para superar los límites de la aerodinámica...",
-        "fecha": "2026-06-30T19:27:13+00:00",
+        "titulo": "Webb de la NASA estudia cómo el planeta sobrevivió a la muerte de su estrella",
+        "enlace": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
+        "desc": "El telescopio espacial James Webb de la NASA nos brinda nuevos conocimientos sobre el futuro lejano de sistemas solares como el nuestro, mientras la agencia continúa revelando los secretos del universo y nuestro...",
+        "fecha": "2026-07-01T15:00:00+00:00",
         "fuente": "NASA EN"
       }
     ],
     "ciencia_en": [
       {
-        "titulo": "Scientists should recognize their own political biases to build public trust",
-        "enlace": "https://www.nature.com/articles/d41586-026-01975-x",
-        "desc": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01975-x Public trust in science can’t be sustained by the support of narrow constituencies at one end of an ideologic…",
-        "fecha": "2026-07-01T12:42:03.188672+00:00",
+        "titulo": "Togetherness: How co-operation built the world",
+        "enlace": "https://www.nature.com/articles/d41586-026-02067-6",
+        "desc": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6 Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working toge…",
+        "fecha": "2026-07-01T15:47:39.913285+00:00",
         "fuente": "Nature"
       },
       {
@@ -925,31 +953,31 @@
         "fuente": "New Scientist"
       },
       {
-        "titulo": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "enlace": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-        "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s …",
-        "fecha": "2026-07-01T12:10:00+00:00",
+        "titulo": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "enlace": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "desc": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type …",
+        "fecha": "2026-07-01T14:35:16+00:00",
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Scientists find no link between Tylenol and autism, again, after Trump warning",
-        "enlace": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
-        "desc": "After Trump's claims, Tylenol usage dropped during pregnancies.",
-        "fecha": "2026-07-01T11:01:38+00:00",
+        "titulo": "UK likely to intervene in Paramount takeover of Warner Bros Discovery",
+        "enlace": "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
+        "desc": "The acquisition was approved without concessions by the Department of Justice in June.",
+        "fecha": "2026-07-01T13:24:39+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Helping children navigate the emotional aftershocks of an earthquake",
-        "enlace": "https://phys.org/news/2026-07-children-emotional-aftershocks-earthquake.html",
-        "desc": "The devastating earthquake in Venezuela has left countless families grieving, displaced and searching for loved ones. For many South Florida families with ties to the region, the t…",
-        "fecha": "2026-07-01T07:40:04-04:00",
+        "titulo": "Martian dust storms may generate atmospheric electrical conditions that could impact future missions",
+        "enlace": "https://phys.org/news/2026-07-martian-storms-generate-atmospheric-electrical.html",
+        "desc": "A new study by a doctoral researcher at The University of Alabama in Huntsville (UAH), part of The University of Alabama System, suggests global dust storms on Mars may organize th…",
+        "fecha": "2026-07-01T11:40:03-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
-        "enlace": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/",
-        "desc": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent t…",
-        "fecha": "2026-06-30T19:54:29+00:00",
+        "titulo": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
+        "enlace": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
+        "desc": "A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), fro…",
+        "fecha": "2026-07-01T15:20:29+00:00",
         "fuente": "NASA"
       },
       {
@@ -960,24 +988,24 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Dangerous heatwave to hit US ahead of holiday weekend",
-        "enlace": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
-        "desc": "North America will bake in extreme temperatures amid celebrations for the United States' 250th birthday.",
-        "fecha": "2026-07-01T10:45:49+00:00",
+        "titulo": "England's warmest June on record following historic heatwave",
+        "enlace": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss",
+        "desc": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Office.",
+        "fecha": "2026-07-01T13:49:42+00:00",
         "fuente": "BBC Science"
       },
       {
-        "titulo": "Thousands of planets are hidden in this photo",
-        "enlace": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo",
-        "desc": "Video: 00:10:45 Millions of stars. Thousands of hidden worlds. One unprecedented view of our galaxy. Three years since launch , ESA’s Euclid space telescope reveals the Milky Way g…",
-        "fecha": "2026-07-01T10:00:00+02:00",
+        "titulo": "Webb studies how a planet survived the death of its star",
+        "enlace": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star",
+        "desc": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet…",
+        "fecha": "2026-07-01T17:00:00+02:00",
         "fuente": "ESA"
       },
       {
-        "titulo": "How FAIR data are helping to build trust in science",
-        "enlace": "https://www.nature.com/articles/d41586-026-01982-y",
-        "desc": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01982-y The FAIR guidelines laid a solid foundation for ensuring data accessibility and reproducibility. A decade on,…",
-        "fecha": "2026-07-01T12:42:03.188716+00:00",
+        "titulo": "Backreaction of stimulated Hawking radiation in an optical analogue",
+        "enlace": "https://www.nature.com/articles/s41586-026-10720-3",
+        "desc": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10720-3 By using a fibre-optical analogue of the physics of black holes, theoretical and experimental evidence is pre…",
+        "fecha": "2026-07-01T15:47:39.913320+00:00",
         "fuente": "Nature"
       }
     ],
@@ -990,10 +1018,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Les scientifiques devraient reconnaître leurs propres préjugés politiques pour renforcer la confiance du public",
-        "enlace": "https://www.nature.com/articles/d41586-026-01975-x",
-        "desc": "Nature, Mise en ligne : 01 juillet 2026 ; est ce que je:10.1038/d41586-026-01975-x La confiance du public dans la science ne peut pas être maintenue par le soutien de groupes restreints à l'une des extrémités d'un système idéologique…",
-        "fecha": "2026-07-01T12:42:06.515569+00:00",
+        "titulo": "Ensemble : comment la coopération a construit le monde",
+        "enlace": "https://www.nature.com/articles/d41586-026-02067-6",
+        "desc": "Nature, Mise en ligne : 01 juillet 2026 ; doi:10.1038/d41586-026-02067-6 Le journaliste scientifique Rowan Hooper se joint à nous pour parler de la symbiose et de l'importance des organismes travaillant ensemble…",
+        "fecha": "2026-07-01T15:47:43.014405+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1004,10 +1032,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Comment les données FAIR contribuent à renforcer la confiance dans la science",
-        "enlace": "https://www.nature.com/articles/d41586-026-01982-y",
-        "desc": "Nature, Mise en ligne : 01 juillet 2026 ; doi:10.1038/d41586-026-01982-y Les lignes directrices FAIR ont établi une base solide pour garantir l'accessibilité et la reproductibilité des données. Une décennie plus tard,…",
-        "fecha": "2026-07-01T12:42:06.515634+00:00",
+        "titulo": "Réaction inverse du rayonnement de Hawking stimulé dans un analogue optique",
+        "enlace": "https://www.nature.com/articles/s41586-026-10720-3",
+        "desc": "Nature, Mise en ligne : 01 juillet 2026 ; est ce que je:10.1038/s41586-026-10720-3 En utilisant un analogue à fibre optique de la physique des trous noirs, des preuves théoriques et expérimentales sont pré…",
+        "fecha": "2026-07-01T15:47:43.014439+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1016,53 +1044,53 @@
         "titulo": "Die Hitzewelle in Europa ist kein normales Sommerwetter",
         "enlace": "https://www.dw.com/de/die-hitzewelle-in-europa-ist-kein-normales-sommerwetter/a-77708037?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Der vom Menschen verursachte Klimawandel hat zu einem Anstieg der Temperaturen geführt - das macht die derzeitige Rekordhitze bis zu 4 Grad Celsius heißer als \"normale\" Hitzewellen…",
-        "fecha": "2026-07-01T12:42:09.187728+00:00",
+        "fecha": "2026-07-01T15:47:46.197835+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Wissenschaftler sollten ihre eigenen politischen Vorurteile erkennen, um öffentliches Vertrauen aufzubauen",
-        "enlace": "https://www.nature.com/articles/d41586-026-01975-x",
-        "desc": "Natur, Online veröffentlicht: 01. Juli 2026; doi:10.1038/d41586-026-01975-x Das öffentliche Vertrauen in die Wissenschaft kann nicht durch die Unterstützung enger Wählergruppen am einen Ende einer ideologischen… aufrechterhalten werden.",
-        "fecha": "2026-07-01T12:42:09.324921+00:00",
+        "titulo": "Zusammengehörigkeit: Wie Zusammenarbeit die Welt aufgebaut hat",
+        "enlace": "https://www.nature.com/articles/d41586-026-02067-6",
+        "desc": "Natur, Online veröffentlicht: 01. Juli 2026; doi:10.1038/d41586-026-02067-6 Der Wissenschaftsjournalist Rowan Hooper spricht mit uns über Symbiose und die Bedeutung der Zusammenarbeit von Organismen …",
+        "fecha": "2026-07-01T15:47:46.273963+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Tote und Verletzte in Venezuela: Wie entstehen Erdbeben?",
         "enlace": "https://www.dw.com/de/tote-und-verletzte-in-venezuela-wie-entstehen-erdbeben/a-66765542?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Zwei Erdbeben haben kurz hintereinander Venezuela erschüttert. Wodurch entsteht das heftige Beben in dem Land oder in anderen Risiko-Gebieten? Die wichtigsten Fragen und Antworten …",
-        "fecha": "2026-07-01T12:42:09.187768+00:00",
+        "fecha": "2026-07-01T15:47:46.197870+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Wie FAIR-Daten dazu beitragen, Vertrauen in die Wissenschaft aufzubauen",
-        "enlace": "https://www.nature.com/articles/d41586-026-01982-y",
-        "desc": "Natur, Online veröffentlicht: 01. Juli 2026; doi:10.1038/d41586-026-01982-y Die FAIR-Richtlinien legten eine solide Grundlage für die Gewährleistung der Zugänglichkeit und Reproduzierbarkeit von Daten. Ein Jahrzehnt später…",
-        "fecha": "2026-07-01T12:42:09.324961+00:00",
+        "titulo": "Rückreaktion stimulierter Hawking-Strahlung in einem optischen Analogon",
+        "enlace": "https://www.nature.com/articles/s41586-026-10720-3",
+        "desc": "Natur, Online veröffentlicht: 01. Juli 2026; doi:10.1038/s41586-026-10720-3 Durch die Verwendung eines faseroptischen Analogons der Physik Schwarzer Löcher werden theoretische und experimentelle Beweise bereitgestellt…",
+        "fecha": "2026-07-01T15:47:46.273996+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "Gli scienziati dovrebbero riconoscere i propri pregiudizi politici per costruire la fiducia del pubblico",
-        "enlace": "https://www.nature.com/articles/d41586-026-01975-x",
-        "desc": "Natura, Pubblicato online: 01 luglio 2026; doi:10.1038/d41586-026-01975-x La fiducia del pubblico nella scienza non può essere sostenuta dal sostegno di collegi elettorali ristretti all'estremità di un sistema ideologico...",
-        "fecha": "2026-07-01T12:42:14.317526+00:00",
+        "titulo": "Insieme: come la cooperazione ha costruito il mondo",
+        "enlace": "https://www.nature.com/articles/d41586-026-02067-6",
+        "desc": "Natura, Pubblicato online: 01 luglio 2026; doi:10.1038/d41586-026-02067-6 Il giornalista scientifico Rowan Hooper si unisce a noi per parlare della simbiosi e dell'importanza che gli organismi lavorino insieme...",
+        "fecha": "2026-07-01T15:47:52.035739+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "In che modo i dati FAIR contribuiscono a creare fiducia nella scienza",
-        "enlace": "https://www.nature.com/articles/d41586-026-01982-y",
-        "desc": "Natura, Pubblicato online: 01 luglio 2026; doi:10.1038/d41586-026-01982-y Le linee guida FAIR hanno gettato solide basi per garantire l'accessibilità e la riproducibilità dei dati. Un decennio dopo,…",
-        "fecha": "2026-07-01T12:42:14.317569+00:00",
+        "titulo": "Retroreazione della radiazione di Hawking stimolata in un analogo ottico",
+        "enlace": "https://www.nature.com/articles/s41586-026-10720-3",
+        "desc": "Natura, Pubblicato online: 01 luglio 2026; doi:10.1038/s41586-026-10720-3 Utilizzando una fibra ottica analoga alla fisica dei buchi neri, le prove teoriche e sperimentali sono pre...",
+        "fecha": "2026-07-01T15:47:52.035774+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "\"O Canadá ganhou no momento em que o Stephen decidiu jogar\"",
-        "enlace": "https://observador.pt/especiais/o-canada-ganhou-no-momento-em-que-o-stephen-decidiu-jogar-por-aquela-camisola-mauro-eustaquio-irmao-do-fenomeno-com-origens-na-nazare/",
-        "desc": "Mauro Eustáquio, irmão de Stephen, lidera o Inter Toronto FC, da Canadian Premier League",
-        "fecha": "2026-07-01T13:29:46+01:00",
+        "titulo": "Jovem de 19 anos desaparecido no rio Douro",
+        "enlace": "https://observador.pt/2026/07/01/jovem-de-19-anos-desapareceu-no-rio-douro-apos-saltar-para-a-agua-junto-ao-palacio-do-freixo/",
+        "desc": "Um jovem de 19 anos desapareceu esta quarta-feira no rio Douro, mobilizando nova operacionais ao local",
+        "fecha": "2026-07-01T16:44:25+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1073,17 +1101,17 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Demissão de Duarte Gomes no MP: a polémica na arbitragem",
-        "enlace": "https://observador.pt/2026/07/01/duarte-gomes-demitiu-se-depois-de-denuncia-de-arbitro-fpf-enviou-tudo-para-o-ministerio-publico-a-polemica-que-rebentou-na-arbitragem/",
-        "desc": "Duarte Gomes e Luciano Gonçalves surgiram várias vezes em conjunto ao longo da temporada",
-        "fecha": "2026-07-01T13:23:04+01:00",
+        "titulo": "\"Israel tem um poder de chantagem decisivo\"",
+        "enlace": "https://observador.pt/programas/gabinete-de-guerra/israel-tem-um-poder-de-chantagem-decisivo/",
+        "desc": "Azeredo Lopes, antigo ministro da Defesa, detalha como o governo de Netanyahu, focado na sobrevivência política, atua para impedir a normalização de relações entre os Estados Unido…",
+        "fecha": "2026-07-01T16:38:38+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Após crise com Flávio, Michelle Bolsonaro deixa presidência do PL Mulher",
-        "enlace": "https://www.bbc.com/portuguese/articles/c0qy3782dnyo?at_medium=RSS&at_campaign=rss",
-        "desc": "Ex-primeira-dama afirma que vai se 'dedicar integralmente' aos cuidados com o ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar, e a filha.",
-        "fecha": "2026-07-01T00:17:29+00:00",
+        "titulo": "Como disputa por apoio no Ceará desencadeou guerra entre Michelle e Flávio Bolsonaro",
+        "enlace": "https://www.bbc.com/portuguese/articles/cj4gz00yzgro?at_medium=RSS&at_campaign=rss",
+        "desc": "Crise ganhou as redes sociais nas últimas semanas e levou a ex-primeira-dama a deixar a presidência do PL Mulher.",
+        "fecha": "2026-07-01T14:19:45+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1099,28 +1127,28 @@
         "titulo": "BBVA lanza un servicio de multi family office con una filial para ultrarricos con más de 30M",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-01/bbva-multi-family-office-ultrarricos-30m-inversion_4381612/",
         "desc": "El banco se une a la tendencia que inició CaixaBank de tener un segmento de multi custodia con César Solera al frente",
-        "fecha": "2026-07-01T12:42:21.501576+00:00",
+        "fecha": "2026-07-01T15:48:00.084525+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "El Gobierno obligará a las empresas a revelar todos los sueldos y «corregir» las diferencias entre trabajadores",
-        "enlace": "https://www.abc.es/economia/cuentas-corrientes/gobierno-obligara-empresas-revelar-sueldos-corregir-diferencias-20260701141325-nt.html",
-        "desc": "El Ministerio de Trabajo quiere que las empresas hagan una revelación de todos los sueldos de sus plantillas a instancias precisamente de los trabajadores que exijan ese listado pa…",
-        "fecha": "2026-07-01T14:13:25+02:00",
+        "titulo": "La UE pone fin a la 'ley de la jungla' en las criptomonedas y deja a cientos de miles de usuarios en el limbo",
+        "enlace": "https://www.abc.es/economia/ue-pone-fin-ley-jungla-criptomonedas-deja-20260701171454-nt.html",
+        "desc": "Desde este lunes, centenares de miles de usuarios españoles de la plataforma de intercambio de criptomonedas Binance , que es la primera de nuestro país -y del mundo- en volumen de…",
+        "fecha": "2026-07-01T17:14:55+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El oro sube por encima de los 4.000 dólares mientras los operadores sopesan las perspectivas de inflación",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
-        "desc": "El oro subió por encima de los 4.000 dólares la onza, mientras los operadores evalúan si la Reserva Federal puede tomar medidas para endurecer su política y el estado de las conversaciones entre Estados Unidos e Irán.",
-        "fecha": "2026-06-30T23:57:42+00:00",
+        "titulo": "El petróleo cae a medida que avanzan las conversaciones entre Estados Unidos e Irán y los suministros superan las expectativas",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+        "desc": "El petróleo extendió su racha de caídas mientras los operadores monitoreaban las conversaciones de paz entre Estados Unidos e Irán, y los datos semanales de almacenamiento mostraron que las reservas estadounidenses cayeron menos de lo previsto.",
+        "fecha": "2026-06-30T22:04:24+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "La industria automotriz estadounidense enfrenta más incertidumbre sin la extensión del acuerdo comercial USMCA",
+        "titulo": "La industria automotriz estadounidense enfrenta una mayor incertidumbre sin la extensión del acuerdo comercial USMCA",
         "enlace": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
         "desc": "Una cuestión importante para los fabricantes de automóviles son las reglas de origen del acuerdo, que determinan de dónde proviene un producto y qué bienes son elegibles para un trato preferencial.",
-        "fecha": "2026-07-01T12:30:01+00:00",
+        "fecha": "2026-07-01T14:52:33+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1134,21 +1162,21 @@
         "titulo": "Lars Conrad: \"No consideramos las inversiones en bonos como renta fija, sino como renta activa\"",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-01/renta-fija-renta-activa-mercados-inversiones-bra_4379377/",
         "desc": "Tipos al alza, inflación que no se estabiliza y un endeudamiento global en máximos: así está el mercado de bonos. El director de Cartera Renta Fija de Flossbach von Storch explica …",
-        "fecha": "2026-07-01T12:42:21.501631+00:00",
+        "fecha": "2026-07-01T15:48:00.084558+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "La inflación de junio baja en todos los grandes países del euro a excepción de España",
-        "enlace": "https://www.abc.es/economia/inflacion-junio-baja-grandes-paises-euro-excepcion-20260701141248-nt.html",
-        "desc": "Tras el estallido de la guerra en Oriente Próximo el pasado 28 de febrero y la posterior escalada en los precios de la energía por el cierre del estrecho de Ormuz, prácticamente to…",
-        "fecha": "2026-07-01T14:12:49+02:00",
+        "titulo": "BBVA crea una filial exclusiva para clientes ultrarricos a partir de 30 millones",
+        "enlace": "https://www.abc.es/economia/bbva-crea-filial-exclusiva-clientes-ultrarricos-partir-20260701164835-nt.html",
+        "desc": "BBVA pone en marcha una nueva filial dedicada exclusivamente a clientes ultrarricos, un segmento en el que los últimos tiempos están haciendo fuerza todos los bancos por la rentabi…",
+        "fecha": "2026-07-01T16:48:35+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Eni y Mercuria acuerdan unir fuerzas en el comercio de materias primas",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/eni-mercuria-to-form-global-energy-commodities-trading-venture",
-        "desc": "La petrolera italiana Eni SpA y el comerciante de materias primas Mercuria Energy Group Ltd. firmaron un acuerdo para unir fuerzas en el comercio, buscando crecimiento en un área que ha experimentado una enorme caída de precios...",
-        "fecha": "2026-07-01T07:50:53+00:00",
+        "titulo": "Warsh contrata al exjefe del BOE, King, para el nuevo grupo de trabajo de comunicaciones de la Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-taps-ex-boe-chief-king-for-new-communications-task-force",
+        "desc": "El presidente de la Reserva Federal, Kevin Warsh, nombró al ex gobernador del Banco de Inglaterra, Mervyn King, para copresidir el nuevo grupo de trabajo sobre comunicaciones del banco central de Estados Unidos.",
+        "fecha": "2026-07-01T15:15:15+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1161,24 +1189,24 @@
     ],
     "economia_en": [
       {
-        "titulo": "Gold Rises Above $4,000 as Traders Weigh Inflation Outlook",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
-        "desc": "Gold rose above $4,000 an ounce, as traders assess whether the Federal Reserve may move to tighten policy and the state of US-Iran talks.",
-        "fecha": "2026-06-30T23:57:42+00:00",
+        "titulo": "Oil Falls as US-Iran Talks Progress, Supplies Beat Expectations",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+        "desc": "Oil extended its run of declines as traders monitored US-Iran peace talks, and weekly storage data showed American stockpiles fell by less than anticipated.",
+        "fecha": "2026-06-30T22:04:24+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Silicon Valley elite shift record wealth to build Florida's new 'tech capital'",
-        "enlace": "https://www.foxbusiness.com/real-estate/silicon-valley-elite-shift-record-wealth-build-floridas-new-tech-capital",
-        "desc": "Billionaire Peter Thiel&apos;s historic Miami office lease highlights how tax savings and quality of life drive corporate relocations to Florida.",
-        "fecha": "2026-07-01T08:27:39-04:00",
+        "titulo": "BofA CEO Brian Moynihan dismisses recession fears despite Wall Street's most hawkish Fed forecast",
+        "enlace": "https://www.foxbusiness.com/markets/bofa-ceo-brian-moynihan-dismisses-recession-fears-despite-wall-streets-most-hawkish-fed-forecast",
+        "desc": "Bank of America CEO Brian Moynihan says a recession is not coming despite his firm predicting three Federal Reserve rate hikes and inflation through 2028.",
+        "fecha": "2026-07-01T10:20:24-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "U.S. auto industry faces more uncertainty without extension of USMCA trade deal",
+        "titulo": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
         "enlace": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
         "desc": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.",
-        "fecha": "2026-07-01T12:30:01+00:00",
+        "fecha": "2026-07-01T14:52:33+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1189,17 +1217,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Eni and Mercuria Agree to Join Forces in Commodity Trading",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/eni-mercuria-to-form-global-energy-commodities-trading-venture",
-        "desc": "Italian oil company Eni SpA and commodity merchant Mercuria Energy Group Ltd. signed an agreement to join forces in trading, seeking growth in an area that has seen huge price swin…",
-        "fecha": "2026-07-01T07:50:53+00:00",
+        "titulo": "Warsh Taps Ex-BOE Chief King for New Fed Communications Task Force",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-taps-ex-boe-chief-king-for-new-communications-task-force",
+        "desc": "Federal Reserve Chairman Kevin Warsh has tapped former Bank of England Governor Mervyn King to co-chair the US central bank’s new task force on communications.",
+        "fecha": "2026-07-01T15:15:15+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Private sector added 98,000 jobs in June, below expectations, ADP says",
-        "enlace": "https://www.foxbusiness.com/economy/private-sector-added-98000-jobs-june-below-expectations-adp-says",
-        "desc": "The figure reported on Wednesday is below economists’ estimates of an increase of 118,000 jobs. The prior month&apos;s reading was unrevised at 122,000.",
-        "fecha": "2026-07-01T08:25:57-04:00",
+        "titulo": "Trump says Taiwan is doubling the size of chipmaking plant in Arizona",
+        "enlace": "https://www.foxbusiness.com/economy/trump-says-taiwan-doubling-size-chipmaking-plant-arizona",
+        "desc": "President Donald Trump said that the world&apos;s largest chipmaker is doubling the size of its chipmaking facilities under construction in Arizona.",
+        "fecha": "2026-07-01T09:48:53-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1219,93 +1247,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "L'or dépasse les 4 000 dollars alors que les traders évaluent les perspectives d'inflation",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
-        "desc": "L'or a dépassé les 4 000 dollars l'once, alors que les traders évaluent si la Réserve fédérale pourrait décider de resserrer sa politique et l'état des négociations entre les États-Unis et l'Iran.",
-        "fecha": "2026-06-30T23:57:42+00:00",
+        "titulo": "Le pétrole chute alors que les négociations américano-iraniennes progressent et que les approvisionnements dépassent les attentes",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+        "desc": "Le pétrole a prolongé sa tendance à la baisse alors que les négociants surveillaient les pourparlers de paix entre les États-Unis et l'Iran, et les données hebdomadaires sur les stocks ont montré que les stocks américains avaient diminué moins que prévu.",
+        "fecha": "2026-06-30T22:04:24+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Eni et Mercuria conviennent d'unir leurs forces dans le commerce des matières premières",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/eni-mercuria-to-form-global-energy-commodities-trading-venture",
-        "desc": "La compagnie pétrolière italienne Eni SpA et le négociant en matières premières Mercuria Energy Group Ltd. ont signé un accord pour unir leurs forces dans le commerce, en quête de croissance dans un domaine qui a connu d'énormes fluctuations de prix…",
-        "fecha": "2026-07-01T07:50:53+00:00",
+        "titulo": "Warsh fait appel à l'ancien chef de la BOE, King, pour créer un nouveau groupe de travail sur les communications de la Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-taps-ex-boe-chief-king-for-new-communications-task-force",
+        "desc": "Le président de la Réserve fédérale, Kevin Warsh, a fait appel à l'ancien gouverneur de la Banque d'Angleterre, Mervyn King, pour co-présider le nouveau groupe de travail de la banque centrale américaine sur les communications.",
+        "fecha": "2026-07-01T15:15:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Bahn: „Wir haben in Deutschland großes Talent, einfache Dinge maximal komplex zu betrachten“",
-        "enlace": "https://www.handelsblatt.com/unternehmen/dienstleister/bahn-wie-die-hvv-chefin-mit-ki-den-nahverkehr-veraendern-will/100218384.html",
-        "desc": "Der deutsche Nahverkehr ist ein Moloch aus Zuständigkeiten und analogen Prozessen. KI könnte einiges verbessern, findet Anna-Theresa Korbutt – und lässt ein einmaliges Agentensyste…",
-        "fecha": "2026-07-01T12:33:00+00:00",
+        "titulo": "Forschungsstandort: „Viele Erfindungen, aber nicht unbedingt Innovation\" – Bayer-Manager fordert neuen Deal für Biotech",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/innovation-bayer-manager-fordert-neuen-deal-fuer-biotech/100237087.html",
+        "desc": "Deutschland gefährdet nach Ansicht von Bayer-Vorstand Stefan Oelrich seine Innovationskraft mit niedrigen Arzneimittelpreisen, zu wenig Wagniskapital – und Trägheit.",
+        "fecha": "2026-07-01T15:35:59+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Gold steigt über 4.000 US-Dollar, da Händler die Inflationsaussichten abwägen",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
-        "desc": "Der Goldpreis stieg auf über 4.000 US-Dollar pro Unze, während Händler abschätzen, ob die Federal Reserve möglicherweise eine Straffung ihrer Politik vornimmt, und über den Stand der Gespräche zwischen den USA und dem Iran.",
-        "fecha": "2026-06-30T23:57:42+00:00",
+        "titulo": "Der Ölpreis sinkt, während die Gespräche zwischen den USA und Iran voranschreiten, die Lieferungen übertreffen die Erwartungen",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+        "desc": "Der Ölpreis setzte seinen Rückgang fort, während Händler die Friedensgespräche zwischen den USA und dem Iran beobachteten, und wöchentliche Lagerdaten zeigten, dass die amerikanischen Lagerbestände weniger stark zurückgingen als erwartet.",
+        "fecha": "2026-06-30T22:04:24+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Kommentar: Behördentrick lässt Bahnfahrer hoffen",
-        "enlace": "https://www.handelsblatt.com/meinung/kommentare/kommentar-behoerdentrick-laesst-bahnfahrer-hoffen/100237082.html",
-        "desc": "Die Bundesnetzagentur umgeht rechtliche Hürden und setzt die DB geschickt unter Druck. Wer sich die Zahlen der neuen Langstreckenanbieter ansieht, kommt aus dem Staunen nicht herau…",
-        "fecha": "2026-07-01T12:31:37+00:00",
+        "titulo": "Erdgas-Pipeline: Nord-Stream-Verdächtiger in Hamburg angeklagt",
+        "enlace": "https://www.handelsblatt.com/politik/international/erdgas-pipeline-nord-stream-verdaechtiger-in-hamburg-angeklagt/100237271.html",
+        "desc": "Im Sabotagefall um die Nord-Stream-Pipeline hat die Bundesanwaltschaft Anklage erhoben. Der mutmaßliche Drahtzieher steht nun vor Gericht.",
+        "fecha": "2026-07-01T15:35:21+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Eni und Mercuria vereinbaren, ihre Kräfte im Rohstoffhandel zu bündeln",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/eni-mercuria-to-form-global-energy-commodities-trading-venture",
-        "desc": "Das italienische Ölunternehmen Eni SpA und der Rohstoffhändler Mercuria Energy Group Ltd. haben eine Vereinbarung unterzeichnet, um ihre Kräfte im Handel zu bündeln und Wachstum in einem Bereich anzustreben, in dem es zu enormen Preisschwankungen gekommen ist.",
-        "fecha": "2026-07-01T07:50:53+00:00",
+        "titulo": "Warsh ernennt den ehemaligen BOE-Chef King für die neue Task Force für Kommunikation der Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-taps-ex-boe-chief-king-for-new-communications-task-force",
+        "desc": "Der Vorsitzende der Federal Reserve, Kevin Warsh, hat den ehemaligen Gouverneur der Bank of England, Mervyn King, zum Co-Vorsitzenden der neuen Task Force der US-Notenbank für Kommunikation ernannt.",
+        "fecha": "2026-07-01T15:15:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "L'oro sale sopra i 4.000 dollari mentre i trader valutano le prospettive sull'inflazione",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
-        "desc": "L'oro è salito sopra i 4.000 dollari l'oncia, mentre i trader valutano se la Federal Reserve potrebbe muoversi per inasprire la politica e lo stato dei colloqui USA-Iran.",
-        "fecha": "2026-06-30T23:57:42+00:00",
+        "titulo": "Il petrolio crolla mentre i colloqui tra Stati Uniti e Iran vanno avanti, le forniture superano le aspettative",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+        "desc": "Il petrolio ha continuato la sua serie di ribassi mentre i trader monitoravano i colloqui di pace tra Stati Uniti e Iran, e i dati settimanali di stoccaggio hanno mostrato che le scorte americane sono diminuite meno del previsto.",
+        "fecha": "2026-06-30T22:04:24+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Eni e Mercuria si uniscono per unire le forze nel commercio di materie prime",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/eni-mercuria-to-form-global-energy-commodities-trading-venture",
-        "desc": "La compagnia petrolifera italiana Eni SpA e il commerciante di materie prime Mercuria Energy Group Ltd. hanno firmato un accordo per unire le forze nel commercio, cercando di crescere in un'area che ha visto enormi oscillazioni dei prezzi...",
-        "fecha": "2026-07-01T07:50:53+00:00",
+        "titulo": "Warsh sceglie l'ex re capo della BOE per la nuova task force sulle comunicazioni della Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-taps-ex-boe-chief-king-for-new-communications-task-force",
+        "desc": "Il presidente della Federal Reserve Kevin Warsh ha incaricato l’ex governatore della Banca d’Inghilterra Mervyn King di co-presiedere la nuova task force sulle comunicazioni della banca centrale americana.",
+        "fecha": "2026-07-01T15:15:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Com o comércio global mais fechado, Europa quer redefinir as regras do jogo",
-        "enlace": "https://www.jornaldenegocios.pt/economia/europa/detalhe/com-o-comercio-global-mais-fechado-europa-quer-redefinir-as-regras-do-jogo",
-        "desc": "O cenário do comércio global está a mudar, dependendo mais da China e com os Estados Unidos a ditarem uma maior volatilidade. Economistas no Fórum BCE apontam para a necessidade de…",
-        "fecha": "2026-07-01T13:15:00+01:00",
+        "titulo": "Lagarde e Warsh concordam. Inflação é para bater e juros para deixar em segredo",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/lagarde-e-warsh-concordam-inflacao-e-para-bater-e-juros-para-deixar-em-segredo",
+        "desc": "Os bancos centrais da Zona Euro e dos Estados Unidos querem recuperar as taxas de juro como principal instrumento de política monetária. Não dizem o que vão fazer nos próximos enco…",
+        "fecha": "2026-07-01T16:21:49+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ouro sobe acima de US$ 4.000 enquanto traders avaliam perspectiva de inflação",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
-        "desc": "O ouro subiu acima de US$ 4.000 a onça, à medida que os traders avaliam se o Federal Reserve pode tomar medidas para apertar a política e o estado das negociações EUA-Irã.",
-        "fecha": "2026-06-30T23:57:42+00:00",
+        "titulo": "Petróleo cai à medida que negociações EUA-Irã progridem e suprimentos superam expectativas",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+        "desc": "O petróleo prolongou a sua série de quedas à medida que os traders monitorizavam as negociações de paz entre os EUA e o Irão, e os dados semanais de armazenamento mostraram que os stocks norte-americanos caíram menos do que o previsto.",
+        "fecha": "2026-06-30T22:04:24+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Seguro e Macron falam sobre relações bilaterais e crises internacionais em almoço",
-        "enlace": "https://www.jornaldenegocios.pt/economia/politica/detalhe/seguro-e-macron-falam-sobre-relacoes-bilaterais-e-crises-internacionais-em-almoco",
-        "desc": "O Presidente português vai depois reunir-se à tarde com cerca de 20 empresário portugueses.",
-        "fecha": "2026-07-01T13:06:08+01:00",
+        "titulo": "Vendas automóveis aceleram 15% em junho para mais de 30 mil veículos",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/vendas-automoveis-aceleram-15-em-junho-para-mais-de-30-mil-veiculos",
+        "desc": "As matrículas de veículos novos no primeiro semestre ascenderam a 157.943 unidades, mais 10,4% do que em igual período do ano passado.",
+        "fecha": "2026-07-01T16:17:21+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Eni e Mercuria concordam em unir forças no comércio de commodities",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/eni-mercuria-to-form-global-energy-commodities-trading-venture",
-        "desc": "A petrolífera italiana Eni SpA e a comerciante de commodities Mercuria Energy Group Ltd. assinaram um acordo para unir forças no comércio, buscando crescimento em uma área que tem visto uma enorme queda de preços…",
-        "fecha": "2026-07-01T07:50:53+00:00",
+        "titulo": "Warsh contrata King, ex-chefe do BOE, para a nova força-tarefa de comunicações do Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-01/warsh-taps-ex-boe-chief-king-for-new-communications-task-force",
+        "desc": "O presidente do Federal Reserve, Kevin Warsh, convocou o ex-governador do Banco da Inglaterra, Mervyn King, para co-presidir a nova força-tarefa do banco central dos EUA sobre comunicações.",
+        "fecha": "2026-07-01T15:15:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
