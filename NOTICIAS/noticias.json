@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-07-06T14:29:40.261611+00:00",
+  "actualizado": "2026-07-06T17:46:58.523067+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "La Generalitat establece restricciones hasta el jueves por la ola de calor en la Comunidad Valenciana",
-        "enlace": "https://www.abc.es/espana/comunidad-valenciana/generalitat-establece-restricciones-jueves-ola-calor-comunidad-20260706161234-nt.html",
-        "desc": "La Generalitat ha establecido el nivel de preemergencia 3 (riesgo máximo) del Plan Especial frente al riesgo de Incendios Forestales (PEIF) en todo el territorio de la Comunidad Va…",
-        "fecha": "2026-07-06T16:12:34+02:00",
+        "titulo": "La enfermedad de Newcastle ha obligado ya a sacrificar más de un millón de gallinas y pollos en Valladolid",
+        "enlace": "https://www.abc.es/espana/castilla-leon/enfermedad-newcastle-obligado-sacrificar-millon-gallinas-pollos-20260706192315-nt.html",
+        "desc": "El goteo de positivos no cesa y la confirmación de otros dos nuevos focos de la enfermedad de Newcastle en sendas granjas también de la provincia de Valladolid eleva a 13 los brote…",
+        "fecha": "2026-07-06T19:40:22+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "El juez no autoriza a Begoña Gómez a acompañar a Pedro Sánchez a la cumbre de la OTAN en Ankara, pero sí a viajar a Londres a la graduación de su hija",
+        "enlace": "https://www.elmundo.es/espana/2026/07/06/6a4bd739e85ece9b0f8b4573.html",
+        "desc": "La decisión la ha adoptado el magistrado Antonio Viejo en sustitución de Juan Carlos Peinado, que este lunes había iniciado una semana de vacaciones&nbsp; Leer",
+        "fecha": "2026-07-06T18:55:20+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "El juez autoriza a Begoña Gómez a viajar a Londres pero no a Turquía",
+        "enlace": "https://www.libertaddigital.com/espana/2026-07-06/begona-gomez-podra-viajar-a-londres-pero-no-a-turquia-al-no-pertenecer-al-espacio-de-cooperacion-judicial-de-la-ue-7431747/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "De esta manera, el magistrado estima parcialmente la solicitud de la defensa de Gómez.",
+        "fecha": "2026-07-06T18:32:07+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "VÍDEO | Los chanchullos de María Jesús Montero | OBJETIVO DIRECTO",
+        "enlace": "https://theobjective.com/videos/espana/2026-07-06/chanchullos-maria-jesus-montero-objetivo-directo/",
+        "desc": "",
+        "fecha": "2026-07-06T17:43:19+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "El juez deniega a Begoña Gómez ir a la cumbre de la OTAN pero le permite ver a su hija en Londres",
+        "enlace": "https://www.elconfidencial.com/espana/2026-07-06/el-juez-deniega-a-begona-gomez-asistir-a-la-cumbre_4384377/",
+        "desc": "El juez sustituto de Peinado, Antonio Viejo, respalda la existencia de riesgo de fuga de la mujer de Pedro Sánchez y rechaza que se desplace a Ankara por su menor \"cooperación poli…",
+        "fecha": "2026-07-06T17:47:07.165628+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Qué camiseta lleva España hoy en el partido del Mundial 2026 contra Portugal: así es la equipación",
+        "enlace": "https://okdiario.com/mundial/que-camiseta-lleva-espana-hoy-partido-del-mundial-2026-contra-portugal-asi-equipacion-18939889",
+        "desc": "España se mide ante Portugal en octavos del Mundial 2026 y lo hace con una camiseta diferente a la habitual, la equipación blanca que ya vistió la Selección Española en el duelo an…",
+        "fecha": "2026-07-06T19:45:30+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "El juez que sustituye a Peinado permite a Begoña ir a Londres a la graduación de su hija, pero no a la cumbre de la OTAN",
+        "enlace": "https://www.elespanol.com/espana/tribunales/20260706/juez-sustituye-peinado-permite-begona-gomez-asistir-londres-graduacion-hija-no-cumbre-otan/1003744311648_0.html",
+        "desc": "El magistrado Antonio Viejo ordena que, a la vuelta, deposite de nuevo el pasaporte en el Juzgado. Más información: Peinado se va de vacaciones y será otro juez quien decida si Beg…",
+        "fecha": "2026-07-06T18:16:52+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "El enfoque que Vox dará al turismo andaluz, más proteccionismo y menos promoción: «Andalucía se vende sola»",
+        "enlace": "https://www.abc.es/espana/andalucia/vox-marca-hoja-ruta-consejerias-turismo-justicia-20260706192642-nts.html",
+        "desc": "El nuevo Gobierno de coalición de la Junta de Andalucía abre nuevos escenarios en esta recién estrenada legislatura. Partido Popular y Vox rubricaron por escrito el pacto programát…",
+        "fecha": "2026-07-06T19:26:42+02:00",
         "fuente": "ABC"
       },
       {
@@ -17,68 +66,33 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "La UCO interviene el 'plan' de la cloaca del PSOE para apartar a la juez Biedma mientras investigaba a David Sánchez",
-        "enlace": "https://www.libertaddigital.com/espana/2026-07-06/la-uco-interviene-el-plan-de-la-cloaca-del-psoe-para-apartar-a-la-juez-biedma-mientras-investigaba-a-david-sanchez-7430597/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El documento de texto denominado &quot;Estado de situación&quot;, al que ha tenido acceso LD, forma parte del sumario de las cloacas del PSOE.",
-        "fecha": "2026-07-06T00:14:48+02:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "El nieto de Raúl Castro se muestra dispuesto a «negociar» con Trump el futuro de Cuba",
-        "enlace": "https://theobjective.com/internacional/2026-07-06/nieto-raul-castro-negociar-eeuu-cuba/",
-        "desc": "Raúl Guillermo Rodríguez Castro, nieto del expresidente cubano Raúl Castro, ha dicho estar dispuesto a «negociar» con el Gobierno de Estados Unidos el futuro de Cuba, [&#8230;]",
-        "fecha": "2026-07-06T14:11:21+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "La escisión de Bildu que boicoteó la Vuelta asalta el 'txupinazo' con pancartas de \"Destruye Israel\"",
-        "enlace": "https://www.elconfidencial.com/espana/2026-07-06/escision-bildu-boicot-vuelta-txupinazo-san-fermin_4384099/",
-        "desc": "La señal de televisión captó las pancartas extendidas por EHKS en la plaza del Ayuntamiento de Pamplona durante el acto de apertura de las fiestas",
-        "fecha": "2026-07-06T14:29:41.753686+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "España – Portugal en directo online hoy | A qué hora es, dónde ver el partido, alineaciones, predicciones y quién va a pasar a cuartos",
-        "enlace": "https://okdiario.com/mundial/espana-portugal-directo-ultima-hora-del-partido-octavos-final-del-mundial-2026-vivo-online-18938066",
-        "desc": "España y Portugal se miden hoy, lunes 6 de julio, en el partido de octavos de final del Mundial 2026. En este encuentro, la Roja buscará el pase a los cuartos de final afrontando e…",
-        "fecha": "2026-07-06T16:25:46+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "Peinado se va de vacaciones y será otro juez quien decida si Begoña Gómez puede ir a la cumbre de la OTAN en Turquía",
-        "enlace": "https://www.elespanol.com/espana/tribunales/20260706/peinado-va-vacaciones-juez-decida-begona-gomez-puede-ir-cumbre-otan-turquia/1003744311590_0.html",
-        "desc": "El juez que habitualmente sustituye a Peinado, Carlos Valle, también está de vacaciones, por lo que será un tercero el que responda a la petición de la mujer de Sánchez de ir al ex…",
-        "fecha": "2026-07-06T13:44:16+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "Expertos avisan de que la amenaza terrorista en España está «más cerca que nunca» y «africanizada»",
-        "enlace": "https://www.abc.es/espana/expertos-avisan-amenaza-terrorista-espana-cerca-nunca-20260706160850-nt.html",
-        "desc": "El exdirector del Departamento de Seguridad Nacional, general de brigada Miguel Ángel Ballesteros, y el jefe del Centro de Inteligencia contra el Terrorismo y el Crimen Organizado …",
-        "fecha": "2026-07-06T16:08:51+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "Peinado se marcha de vacaciones y deja en manos del juez sustituto la decisión de autorizar el viaje de Begoña Gómez a la cumbre de la OTAN",
-        "enlace": "https://www.elmundo.es/espana/2026/07/06/6a4b9146fdddff4d368b45a5.html",
-        "desc": "Las acusaciones populares se han opuesto a la devolución provisional del pasaporte a la mujer de Pedro Sánchez y la Fiscalía de Madrid ha comunicado que no se opone al desplazamien…",
-        "fecha": "2026-07-06T15:17:22+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "El peor dato de la izquierda en medio siglo aúpa a la derecha a una mayoría absolutísima, según encuestas",
-        "enlace": "https://www.libertaddigital.com/espana/politica/2026-07-06/el-peor-dato-de-la-izquierda-en-medio-siglo-aupa-a-feijoo-a-una-mayoria-absolutisima-segun-encuestas-7431363/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El PP de Feijóo ganaría con holgura y Vox casi duplicaría sus escaños actuales, permitiendo una mayoría absolutísima de hasta 206 diputados.",
-        "fecha": "2026-07-06T08:06:00+02:00",
+        "titulo": "Sánchez presume de drones agrícolas mientras bloquea su uso para fumigar",
+        "enlace": "https://www.libertaddigital.com/libremercado/2026-07-06/sanchez-presume-de-drones-agricolas-mientras-bloquea-su-uso-para-fumigar-7431663/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "El presidente presenta la nueva estrategia de ayudas en una finca de maíz junto a un dron agrícola.",
+        "fecha": "2026-07-06T16:49:40+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "New York Harbor whale strike sinks fire rescue boat after July 4 celebrations",
-        "enlace": "https://www.foxnews.com/us/new-york-harbor-whale-strike-sinks-fire-rescue-boat-july-4-celebrations",
-        "desc": "A whale breaching beneath the stern caused catastrophic damage to the Carteret Fire Department boat, forcing firefighters to abandon ship in seconds.",
-        "fecha": "2026-07-06T07:51:23-04:00",
+        "titulo": "ICE makes nationwide arrests of illegal immigrants, murderers, pedophiles in holiday blitz",
+        "enlace": "https://www.foxnews.com/us/ice-makes-nationwide-arrests-illegal-immigrants-murderers-pedophiles-holiday-blitz",
+        "desc": "ICE arrested illegal immigrants convicted of murder, child sex crimes, and drug trafficking over the Independence Day weekend as deportation ramps up.",
+        "fecha": "2026-07-06T13:23:26-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Man sues DHS after agents tracked him down for sending a scathing email to ICE",
+        "enlace": "https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech",
+        "desc": "Federal agents tried to track David Streever to his home and hotel, and left him a warning notice that a critical email he sent the former head of ICE may have been illegal. Now he…",
+        "fecha": "2026-07-06T11:50:18-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Firefighters, police pull young woman from sewage-filled ravine after days trapped in 104-degree heat",
+        "enlace": "https://www.foxnews.com/us/firefighters-police-pull-young-woman-sewage-filled-ravine-days-trapped-104-degree-heat",
+        "desc": "First responders braved 104-degree heat and treacherous terrain to reach the young woman stuck in a mud-filled ravine behind a Dallas high school.",
+        "fecha": "2026-07-06T12:57:00-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,231 +101,217 @@
         "desc": "\"Reverend Ray\" Broshears founded the queer vigilante group the Lavender Panthers in 1973. The group's impact is still felt today.",
         "fecha": "2026-07-06T10:25:41-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Accused Charlie Kirk assassin Tyler Robinson fights back against state's evidence and more top headlines",
-        "enlace": "https://www.foxnews.com/us/accused-charlie-kirk-assassin-tyler-robinson-fights-back-against-states-evidence-more-top-headlines",
-        "desc": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "fecha": "2026-07-06T07:25:36-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Historic World Cup furor at 'incomprehensible' FIFA decision to let U.S. forward Balogun play",
-        "enlace": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump",
-        "desc": "The Belgian soccer federation is challenging FIFA's ruling to let Balogun play despite getting a red card in his previous game. Belgium's statement came just 11 hours before kickof…",
-        "fecha": "2026-07-06T10:11:39-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Atentados rusos mortales sacuden Kiev en vísperas de la cumbre de la OTAN",
-        "enlace": "https://www.clarin.com/new-york-times-international-weekly/atentados-rusos-mortales-sacuden-kiev-visperas-cumbre-otan_0_hUHlJ8QsbI.html",
-        "desc": "Se lanzaron misiles balísticos contra la capital de Ucrania, en lo que supuso el segundo gran ataque de Rusia en menos de una semana. Según las autoridades, al menos 12 personas mu…",
-        "fecha": "2026-07-06T13:32:22+00:00",
+        "titulo": "Terremoto en Venezuela: alertan por el riesgo sanitario y aseguran que la vacunación es clave para evitar un brote de enfermedades",
+        "enlace": "https://www.clarin.com/sociedad/terremoto-venezuela-alertan-riesgo-sanitario-aseguran-vacunacion-clave-evitar-brote-enfermedades_0_Mb7ZVeiPRW.html",
+        "desc": "La Sociedad Latinoamericana de Vacunología advirtió que el hacimiento y la interrupción de los servicios de salud. Tras el doble terremoto en Venezuela elevan el riesgo de brotes d…",
+        "fecha": "2026-07-06T17:34:38+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Continúan los cruces por octavos de final con Portugal vs. España y Estados Unidos vs. Bélgica",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/continuan-los-cruces-por-octavos-de-final-con-portugal-vs-espana-y-estados-unidos-vs-belgica-nid06072026/",
-        "desc": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
-        "fecha": "2026-07-06T14:20:12+00:00",
+        "titulo": "Atención venezolanos: el gobierno de EE.UU. anuncia un nuevo vuelo directo para llegar a Miami desde Venezuela",
+        "enlace": "https://www.lanacion.com.ar/estados-unidos/florida/atencion-venezolanos-el-gobierno-de-eeuu-anuncia-un-nuevo-vuelo-directo-para-llegar-a-miami-desde-nid06072026/",
+        "desc": "Consulta el nuevo vuelo entre Venezuela y Miami difundido por EE.UU. y las rutas alternativas disponibles tras el cierre de Maiquetía.",
+        "fecha": "2026-07-06T17:42:07+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "¿El viernes 10 de julio es feriado o día no laborable en Argentina?",
-        "enlace": "https://www.clarin.com/informacion-general/viernes-10-julio-feriado-dia-laborable-argentina_0_38eY9sDDpF.html",
-        "desc": "Este jueves 9 de julio se celebra el Día de la Independencia. ¿Habrá fin de semana largo?",
-        "fecha": "2026-07-06T13:27:29+00:00",
+        "titulo": "Franco Deambrosi confirmó que tuvo un romance con La China Suárez: \"Sí, es verdad\"",
+        "enlace": "https://www.clarin.com/fama/franco-deambrosi-confirmo-romance-china-suarez-verdad_0_H1hf0QO8Mw.html",
+        "desc": "El piloto de Turismo Carretera rompió el silencio luego de quedar involucrado en la supuesta crisis con Mauro Icardi. Además, respondió a los rumores que circularon sobre su vida p…",
+        "fecha": "2026-07-06T17:34:27+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "189 muertos: la mayor tragedia aérea de la República Dominicana, ¿causada por una avispa?",
-        "enlace": "https://www.lanacion.com.ar/lifestyle/189-muertos-la-mayor-tragedia-aerea-de-la-republica-dominicana-originada-por-una-avispa-nid06072026/",
-        "desc": "El vuelo 301 de la compañía Birgenair se precipitó al mar a poco de despegar en un aeropuerto de República Dominicana el 6 de febrero de 1996 y las hipótesis apuntan como causa de …",
-        "fecha": "2026-07-06T14:19:47+00:00",
+        "titulo": "España vs. Portugal, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-portugal-en-vivo-por-el-mundial-2026-nid06072026/",
+        "desc": "El partido se disputará a las 16 horas en el Dallas Stadium; todos los detalles del encuentro",
+        "fecha": "2026-07-06T17:41:32+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "EN DIRECT, incendies : dans les Pyrénées-Orientales, le feu a parcouru plus de 4 600 hectares, près de 750 pompiers sont mobilisés, selon la préfecture",
-        "enlace": "https://www.lemonde.fr/planete/live/2026/07/06/en-direct-incendies-dans-les-pyrenees-orientales-le-feu-a-parcouru-plus-de-4-600-hectares-pres-de-750-pompiers-sont-mobilises-selon-la-prefecture_6720911_3244.html",
-        "desc": "L’étape du Tour de France d’aujourd’hui se tiendra sans public côté français. Le ministre de l’intérieur, Laurent Nuñez, est attendu dans les Pyrénées-Orientales cet après-midi. De…",
-        "fecha": "2026-07-06T15:27:53+02:00",
+        "titulo": "La France bascule dans une nouvelle vague de chaleur caniculaire, avec des pics à 40 °C",
+        "enlace": "https://www.lemonde.fr/planete/article/2026/07/06/la-france-bascule-dans-une-nouvelle-vague-de-chaleur-caniculaire-avec-des-pics-a-40-c_6721222_3244.html",
+        "desc": "Provoquée par un anticyclone au large du Portugal et des îles britanniques, la chaleur s’est installée lundi dans une large partie du territoire, avec des valeurs allant jusqu’à 38…",
+        "fecha": "2026-07-06T18:21:17+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "EN DIRECT - Tour de France : les coureurs sont de retour en France, suivez le final avec (finalement) un peu de public",
-        "enlace": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/en-direct-tour-de-france-les-coureurs-a-l-assaut-des-pyrenees-orientales-suivez-la-3e-etape-20260706",
-        "desc": "La 3e étape du Tour de France reliant Granollers, en Espagne, aux Angles, de l’autre côté de la frontière, a lieu ce lundi. Jonas Vingegaard conservera-t-il son maillot jaune ?",
-        "fecha": "2026-07-06T16:29:02+02:00",
+        "titulo": "Jusqu’à 42 °C mardi : découvrez la progression de la nouvelle vague de chaleur en cartes",
+        "enlace": "https://www.lefigaro.fr/meteo/jusqu-a-420c-lundi-decouvrez-l-ampleur-de-la-nouvelle-vague-de-chaleur-en-cartes-20260703",
+        "desc": "EN CARTE – Grâce à nos cartes actualisées, suivez heure par heure la progression de la nouvelle vague de chaleur près de chez vous et l’évolution de la situation sur l’ensemble du …",
+        "fecha": "2026-07-06T09:38:55+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Législatives en Algérie : une abstention historique, le FLN en tête",
-        "enlace": "https://www.france24.com/fr/afrique/20260706-l%C3%A9gislatives-alg%C3%A9rie-abstention-historique-fln-en-t%C3%AAte",
-        "desc": "Le taux de participation des législatives du 2 juillet en Algérie s'est établi à 21,24 %, selon des résultats provisoires rendus publics lundi. Le Front de libération nationale arr…",
-        "fecha": "2026-07-06T14:13:26+00:00",
+        "titulo": "Iran : marée humaine à Téhéran en hommage à Ali Khamenei",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260706-iran-mar%C3%A9e-humaine-%C3%A0-t%C3%A9h%C3%A9ran-en-hommage-%C3%A0-ali-khamenei",
+        "desc": "⁠Une foule d'Iraniens a défilé ⁠dans les rues de ​Téhéran lundi lors d'un cortège funèbre en l'honneur de l'ayatollah Ali Khamenei, le dirigeant assassiné fin février par les Etats…",
+        "fecha": "2026-07-06T16:39:28+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Affaire des assistants parlementaires européens du FN : les différents scénarios judiciaires pour Marine Le Pen après la décision en appel",
-        "enlace": "https://www.lemonde.fr/societe/article/2026/07/06/affaire-des-assistants-parlementaires-europeens-du-fn-les-differents-scenarios-judiciaires-pour-marine-le-pen-apres-la-decision-en-appel_6721182_3224.html",
-        "desc": "Mardi 7 juillet, la cour d’appel de Paris rendra sa décision dans le dossier des assistants parlementaires européens du Front national (FN). Relaxe, prison ferme, bracelet électron…",
-        "fecha": "2026-07-06T15:00:12+02:00",
+        "titulo": "Tir de missile balistique par la Chine : une démonstration de force qui inquiète ses voisins du Pacifique",
+        "enlace": "https://www.lemonde.fr/international/article/2026/07/06/tir-de-missile-balistique-par-la-chine-une-demonstration-de-force-qui-inquiete-ses-voisins-du-pacifique_6721234_3210.html",
+        "desc": "Lundi 6 juillet, un sous-marin nucléaire chinois a tiré un missile stratégique équipé d’une tête inerte vers le Pacifique. Un geste dénoncé par l’Australie, le Japon et la Nouvelle…",
+        "fecha": "2026-07-06T19:01:45+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Tour de France 2026 : profil, horaire, favoris et le moment de vérité de la troisième étape",
-        "enlace": "https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-2026-profil-horaire-favoris-et-le-moment-de-verite-de-la-troisieme-etape-20260706",
-        "desc": "Tout ce qu’il faut savoir sur l’étape du jour du Tour de France qui s’élance de Granollers avec une arrivée dans l’Hexagone, aux Angles sans public.",
-        "fecha": "2026-07-06T11:30:01+02:00",
+        "titulo": "EN DIRECT - Canicule : le feu dans les Pyrénées-Orientales «stabilisé mais pas complètement fixé», 61 départements en vigilance orange mardi",
+        "enlace": "https://www.lefigaro.fr/actualite-france/en-direct-incendies-canicule-un-feu-gigantesque-a-parcouru-4500-hectares-dans-les-pyrenees-orientales-la-troisieme-etape-du-tour-de-france-bousculee-20260706",
+        "desc": "La vague de chaleur s’intensifie et prend un caractère caniculaire sur une grande partie du Sud-Ouest. Elle s’étendra entre lundi et mardi jusqu’à la vallée de la Loire, à l’ouest …",
+        "fecha": "2026-07-06T19:08:30+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Emmanuel Macron attendu en Syrie pour une visite historique affirme Damas",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260706-emmanuel-macron-attendu-en-syrie-pour-une-visite-historique-affirme-damas",
-        "desc": "Ziad Majed, professeur d'études sur le Moyen et Proche-Orient à l'Université Américaine à Paris, est notre invité.",
-        "fecha": "2026-07-06T13:41:43+00:00",
+        "titulo": "Le bilan de l'épidémie d'Ebola en RD Congo dépasse les 500 morts",
+        "enlace": "https://www.france24.com/fr/afrique/20260706-bilan-%C3%A9pid%C3%A9mie-ebola-en-rd-congo-d%C3%A9passe-500-morts",
+        "desc": "L'épidémie d'Ebola en République démocratique du Congo a fait plus de 500 morts, a annoncé lundi l'Organisation mondiale de la santé, citant des sources officielles congolaises. La…",
+        "fecha": "2026-07-06T16:05:26+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Nina Chuba fragt sich, warum die Fans in Stuttgart so langweilig sind",
-        "enlace": "https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss",
-        "desc": "Süddeutsche Trägheit? Popstar Nina Chuba hat laut darüber nachgedacht, warum die Stimmung in Stuttgart nicht besonders gut ist. Ihre Fans reagieren teils erbost, teils mit Selbstir…",
-        "fecha": "2026-07-06T16:17:00+02:00",
+        "titulo": "Gaza: Hamas will Verwaltung an Technokraten übergeben",
+        "enlace": "https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss",
+        "desc": "Der Schritt ist Teil des von US-Präsident Donald Trump vorgeschlagenen Nachkriegsplans für den Gazastreifen: Die Hamas kündigt an, die Verwaltung des Gebiets an ein Gremium palästi…",
+        "fecha": "2026-07-06T19:45:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Krieg gegen die Ukraine: Ukraine greift in Sibirien die größte russische Ölraffinerie an",
-        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-        "desc": "Ukrainische Drohnen haben die 2.700 Kilometer entfernt liegende Ölraffinerie in Omsk angegriffen. Besatzungsbehörden melden Stromausfälle auf der Krim. Das Liveblog",
-        "fecha": "2026-07-06T14:24:46",
+        "titulo": "Tour de France 2026: Tadej Pogačar gewinnt 3. Etappe und übernimmt Führung in Gesamtwertung",
+        "enlace": "https://www.zeit.de/sport/2026-07/tour-de-france-tadej-pogacar-pyrenaen-etappe-jonas-vingegaard-gelbes-trikot",
+        "desc": "Durch dem Sieg nimmt Titelverteidiger Pogačar dem Zweitplatzierten Jonas Vingegaard das Gelbe Trikot ab. Die Strecke musste wegen eines Waldbrands angepasst werden.",
+        "fecha": "2026-07-06T17:37:01",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Supertaifun »Bavi«: Sturm fegt über Pazifikinsel Rota",
-        "enlace": "https://www.spiegel.de/panorama/supertaifun-bavi-sturm-fegt-ueber-pazifikinsel-rota-a-fa35b647-4125-4e9f-bcdd-9f552b2d437b#ref=rss",
-        "desc": "Die Inselgruppe Marianen im Pazifik wurde erneut von einem massiven Sturm getroffen. Mit enormen Windgeschwindigkeiten hat Supertaifun »Bavi« das US-Außengebiet erreicht.",
-        "fecha": "2026-07-06T16:06:00+02:00",
+        "titulo": "Haushalt 2027: Wo Lars Klingbeil die Milliarden herholt",
+        "enlace": "https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss",
+        "desc": "»Wir schaffen das, woran die letzte Regierung gescheitert ist«, verspricht Lars Klingbeil. Doch um den neuen Haushalt zusammenzubekommen, braucht der Finanzminister riskante Manöve…",
+        "fecha": "2026-07-06T19:28:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Waldbrände in Südfrankreich: Großwaldbrand in den Pyrenäen breitet sich weiter aus",
-        "enlace": "https://www.zeit.de/gesellschaft/2026-07/waldbrand-frankreich-pyrenees-orientales-hitzewelle-evakuierung",
-        "desc": "Ein Feuer in den Pyrenäen nahe der spanischen Grenze hat 10.000 Menschen zur Flucht gezwungen. 26 Ortschaften mussten wegen des Waldbrands evakuiert werden.",
-        "fecha": "2026-07-06T14:23:41",
+        "titulo": "Karibik: Auf Kuba fällt erneut landesweit der Strom aus",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-07/stromausfall-kuba-energiekrise-stromnetz-usa",
+        "desc": "Das Stromnetz auf der Karibikinsel Kuba ist erneut zusammengebrochen. Die Ursache ist unbekannt. In den vergangenen Monaten kam es häufig zu Ausfällen, teils tagelang.",
+        "fecha": "2026-07-06T17:31:50",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Wimbledon, gli ottavi in diretta: Cobolli vince il primo set contro de Minaur. Paolini sfida Eala",
-        "enlace": "https://www.repubblica.it/sport/tennis/2026/07/06/diretta/wimbledon_2026_cobolli_paolini_oggi_diretta-425454462/",
-        "desc": "Due gli azzurri in campo oggi nella seconda giornata degli ottavi del torneo londinese",
-        "fecha": "2026-07-06T11:41:26+00:00",
+        "titulo": "Cobolli, Paolini e la ricerca dei padri",
+        "enlace": "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/07/06/news/cobolli_paolini_padri-425455197/",
+        "desc": "La rubrica Monday’s Net",
+        "fecha": "2026-07-06T17:13:47+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Hussam Abu Safieh, il medico simbolo di Gaza in carcere in Israele: “Rischia la vita”",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/06/news/hussam_abu_safieh_medico_simbolo_gaza_carcere_in_israele_rischia_vita-425454407/",
-        "desc": "Pediatra e poi direttore dell’ospedale Kamal Adwan si era rifiutato di abbandonare la struttura sanitaria come ordinato dall’Idf. Il suo legale lo ha trovato in condizioni gravissi…",
-        "fecha": "2026-07-06T11:09:49+00:00",
+        "titulo": "Pochettino ha paura delle spie: alzati muri intorno al ritiro Usa",
+        "enlace": "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/06/news/pochettino_spie_muro_ritiro_usa-425455108/",
+        "desc": "Il ct degli Stati Uniti blinda gli allenamenti a Seattle prima dell’ottavo col Belgio. Già in passato aveva lamentato il passaggio di droni sui campi",
+        "fecha": "2026-07-06T16:41:13+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-        "desc": "European football's governing body criticises Fifa's decision to suspend Folarin Balogun's automatic one-match ban following an intervention by US president Donald Trump.",
-        "fecha": "2026-07-06T13:58:37+00:00",
+        "titulo": "Trump confirms he asked Fifa boss for review of US striker's ban",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "The US president says Fifa \"made the right decision\" to suspend Folarin Balogun's one-match ban, adding that otherwise, it would have left a \"big stain\" on the World Cup.",
+        "fecha": "2026-07-06T15:27:59+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "‘I was there!’ Writers remember legendary gigs by Beyoncé, Brian Wilson, Britney, Oasis, Daft Punk and more",
-        "enlace": "https://www.theguardian.com/music/2026/jul/06/legendary-gigs-beyonce-brian-wilson-britney-oasis-daft-punk-amy-winehouse-kanye-west",
-        "desc": "What’s it like to catch a gig so great it goes down in history? Our writers relive incredible performances by everyone from Amy Winehouse at the North Sea jazz festival to Kanye We…",
-        "fecha": "2026-07-06T04:00:03+00:00",
+        "titulo": "Farage is on the brink but if he goes, Labour can’t rest easy: people still need something worth voting for | Gaby Hinsliff",
+        "enlace": "https://www.theguardian.com/commentisfree/2026/jul/06/farage-on-brink-labour-cant-rest-easy-reform-funding-andy-burnham",
+        "desc": "The Reform funding scandals could yet bring down its leader – and give Andy Burnham a head start. The biggest pitfall would be complacency No politician is greater than their party…",
+        "fecha": "2026-07-06T16:59:59+00:00",
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
-        "enlace": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss",
-        "desc": "Royal sources say the Duke of Sussex had not responded to the offer of accommodation at a Royal residence by the deadline last week.",
-        "fecha": "2026-07-06T12:52:38+00:00",
+        "titulo": "Henderson expected to have surgery on injured wrist",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss",
+        "desc": "Jordan Henderson is expected to have surgery on the wrist injury he sustained while celebrating England's win over Mexico on Monday.",
+        "fecha": "2026-07-06T15:22:38+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "‘I’ve got to get some sleep’: fans brave delays, a red card and a tense finish to cheer England into the final eight",
-        "enlace": "https://www.theguardian.com/football/2026/jul/06/world-cup-england-beats-mexico-final-eight",
-        "desc": "From the World Cup fan park in Manchester, supporters cheer through the night as England beat Mexico to advance to the quarter-finals Manchester is up there with the greatest footb…",
-        "fecha": "2026-07-06T04:41:19+00:00",
+        "titulo": "The happy hangover: how England fans are coping after late night watching Mexico game",
+        "enlace": "https://www.theguardian.com/football/2026/jul/06/how-england-fans-coping-late-night-mexico-game",
+        "desc": "After five goals, two penalties and a 4am finish, it was a bleary-eyed start to Monday for pupils and workers So we survived. We made it out the other side. After all the strategis…",
+        "fecha": "2026-07-06T17:17:46+00:00",
         "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Dez caras novas, dez repetentes e quatro deputados derrotados: as distritais do Chega",
-        "enlace": "https://www.publico.pt/2026/07/06/politica/noticia/dez-caras-novas-dez-repetentes-quatro-deputados-derrotados-distritais-chega-2180692",
-        "desc": "Partido teve eleições internas neste domingo e na semana passada. Dez estruturas reconduziram respectivos líderes e há dez novos presidentes, incluindo em Lisboa, no Porto, em Faro…",
-        "fecha": "2026-07-06T13:42:47+00:00",
+        "titulo": "Sony esclarece que jogos lançados antes de 2028 podem continuar a ser produzidos em disco",
+        "enlace": "https://www.publico.pt/2026/07/06/enter/noticia/sony-esclarece-jogos-lancados-2028-podem-continuar-produzidos-disco-2180722",
+        "desc": "As editoras poderão continuar a encomendar novas cópias de jogos em disco após Janeiro de 2028, desde que os títulos tenham sido lançados antes da data limite para a transição para…",
+        "fecha": "2026-07-06T17:06:16+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Sobe para 96 número de portugueses e lusodescendentes mortos",
-        "enlace": "https://observador.pt/2026/07/06/sismos-sobe-para-96-numero-de-portugueses-e-lusodescendentes-mortos/",
-        "desc": "Os sismos registados na Venezuela em 24 de junho causaram pelo menos 3.342 mortos e 16.740 feridos",
-        "fecha": "2026-07-06T15:21:11+01:00",
+        "titulo": "Autoridades procuram homem desaparecido em Viana do Castelo",
+        "enlace": "https://observador.pt/2026/07/06/autoridades-procuram-homem-desaparecido-em-viana-do-castelo/",
+        "desc": "Foram mobilizadas equipas cinotécnicas da Autoridade Nacional de Proteção Civil para ajudar nas buscas",
+        "fecha": "2026-07-06T18:39:46+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Clara Ferreira Alves: “A Europa vai armar-se até aos dentes para quê? Para passar fome?”",
-        "enlace": "https://www.publico.pt/2026/07/06/politica/noticia/clara-ferreira-alves-europa-vai-armarse-ate-dentes-passar-fome-2180681",
-        "desc": "A escritora e cronista alerta para os riscos do rearmamento europeu e duvida que as democracias consigam suportar os seus custos.",
-        "fecha": "2026-07-06T13:30:21+00:00",
+        "titulo": "Bubista: “Os jogadores cabo-verdianos vão ficar mais valorizados” depois do Mundial",
+        "enlace": "https://www.publico.pt/2026/07/06/desporto/entrevista/bubista-jogadores-caboverdianos-vao-ficar-valorizados-mundial-2180747",
+        "desc": "O seleccionador nacional de Cabo Verde diz que foram a crença e a união o segredo da boa prestação da equipa nos Estados Unidos. “Provámos que podemos defrontar equipas de nível mu…",
+        "fecha": "2026-07-06T17:00:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Microsoft vai despedir 4.800 trabalhadores",
-        "enlace": "https://observador.pt/2026/07/06/microsoft-vai-despedir-4-800-trabalhadores-cortes-vao-afetar-principalmente-trabalhadores-da-xbox/",
-        "desc": "A Microsoft anunciou que vai despedir 4.800 pessoas",
-        "fecha": "2026-07-06T15:16:33+01:00",
+        "titulo": "BE acusa Governo de colapso na avaliação digital de exames",
+        "enlace": "https://observador.pt/programas/explicador/be-acusa-governo-de-colapso-na-avaliacao-digital-de-exames/",
+        "desc": "O deputado Fabian Figueiredo criticou a perda de confiança no modelo. Já o PS espera que o executivo assuma os erros, enquanto o PSD defende que a classificação digital não está em…",
+        "fecha": "2026-07-06T18:34:52+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Milton Leite tenta convencer Marçal a se candidatar a deputado estadual em SP",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/milton-leite-tenta-convencer-marcal-a-se-candidatar-a-deputado-estadual-em-sp.shtml",
-        "desc": "Escanteado nas gestões Ricardo Nunes ( MDB ) e Tarcísio de Freitas (Republicanos), o presidente do União em São Paulo , Milton Leite, tenta convencer o influencer Pablo Marçal (Uni…",
-        "fecha": "2026-07-06T06:00:00-03:00",
+        "titulo": "Briga de família que derrubou presidente agora ameaça candidato",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/07/briga-de-familia-que-derrubou-presidente-agora-ameaca-candidato.shtml",
+        "desc": "O fator família não é novo nem raro na política brasileira em boa parte composta por filhos que sucedem os pais e netos que se fazem a partir do legado dos avós. Quem está nessa li…",
+        "fecha": "2026-07-06T14:41:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Campinas sanciona reajuste salarial de 4,39% para servidores municipais; vale-refeição passa para R$ 2.150",
-        "enlace": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/06/campinas-sanciona-reajuste-salarial-de-439percent-para-servidores-municipais-vale-refeicao-passa-para-r-2150.ghtml",
-        "desc": "O prédio da Prefeitura de Campinas Carlos Bassan/PMC A Prefeitura de Campinas (SP) sancionou a lei que reajusta em 4,39% os salários dos servidores municipais e aumenta o valor do …",
-        "fecha": "2026-07-06T14:28:06",
+        "titulo": "Mulher assassinada a facadas tinha medida protetiva contra o ex no AC, diz polícia",
+        "enlace": "https://g1.globo.com/ac/acre/noticia/2026/07/06/mulher-assassinada-a-facadas-tinha-medida-protetiva-contra-o-ex-no-ac-diz-policia.ghtml",
+        "desc": "Juliana Barbosa Cerqueira, de 44 anos, foi morta nesse domingo (5), em Cruzeiro do Sul, pelo ex-marido, Aldemir Abreu de Oliveira, de 46 anos Reprodução Juliana Barbosa Cerqueira, …",
+        "fecha": "2026-07-06T17:38:33",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Mensagens nas redes mostram brasileiro à procura de um culpado pela eliminação na Copa",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/07/mensagens-nas-redes-mostram-brasileiro-a-procura-de-um-culpado-pela-eliminacao-na-copa.shtml",
-        "desc": "O apito final que encerrou a pior campanha do Brasil em Copas do Mundo desde 1990 empurrou o país para o maior jejum de sua história, 28 anos sem um título quando chegar em 2030. P…",
-        "fecha": "2026-07-06T04:00:00-03:00",
+        "titulo": "Frente a Frente, programa da Folha e do UOL, entrevista Michel Temer",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/frente-a-frente-programa-da-folha-e-do-uol-entrevista-michel-temer.shtml",
+        "desc": "O ex-presidente Michel Temer ( MDB ) participa nesta segunda-feira (6) do programa Frente a Frente . A atração semanal é uma parceria entre UOL e Folha e vai ao ar às 19h. Leia mai…",
+        "fecha": "2026-07-06T14:41:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Homem em moto roubada atropela e mata pedestre em Vila Isabel; piloto não tinha habilitação, diz polícia",
-        "enlace": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/07/06/atropelamento-em-vila-isabel.ghtml",
-        "desc": "Um pedestre morreu após ser atropelado por uma motocicleta na madrugada desta segunda-feira (6), na Rua Visconde de Santa Isabel, em Vila Isabel, na Zona Norte do Rio. A vítima foi…",
-        "fecha": "2026-07-06T14:27:02",
+        "titulo": "Carro furtado é recuperado pela Guarda Municipal em Volta Redonda",
+        "enlace": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/06/carro-furtado-e-recuperado-pela-guarda-municipal-em-volta-redonda.ghtml",
+        "desc": "Carro furtado é recuperado em Volta Redonda. Divulgação/GMVR. Um carro com registro de furto foi recuperado na manhã de segunda-feira (6), em Volta Redonda (RJ). Segundo a Prefeitu…",
+        "fecha": "2026-07-06T17:38:18",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,24 +333,24 @@
     ],
     "internacional_es": [
       {
-        "titulo": "Susto en Chicago durante las fiestas del Día de la Independencia: un fuego artificial alcanza un vuelo Delta durante su aterrizaje",
-        "enlace": "https://www.abc.es/internacional/susto-chicago-fiestas-dia-independencia-fuego-artificial-20260706152257-nt.html",
-        "desc": "El vuelo 1076 de Delta Air Lines , procedente de Atlanta, se aproximaba a la zona de aterrizaje en el Aeropuerto Internacional Midway de Chicago cuando un petardo de las celebracio…",
-        "fecha": "2026-07-06T15:22:57+02:00",
+        "titulo": "Una marea humana desfila en el cortejo fúnebre de Jamenei: «Los iraníes amamos al líder, incluso los críticos»",
+        "enlace": "https://www.abc.es/internacional/funeral-ayatola-jamenei-calles-teheran-20260706191605-nt.html",
+        "desc": "Teherán despidió este lunes a Alí Jamenei con un cortejo fúnebre que recorrió las calles de la capital durante 12 horas acompañado de una multitud de fieles. Un camión con los rest…",
+        "fecha": "2026-07-06T19:16:05+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "En la frontera entre Israel y Líbano: \"Mi principal preocupación no son los misiles sino la infiltración de terroristas\"",
-        "enlace": "https://www.elmundo.es/internacional/2026/07/06/6a43dbd7e85ece98218b45aa.html",
-        "desc": "Judíos y árabes israelíes que viven en la línea limítrofe hablan de la guerra y el frágil alto el fuego con el grupo armado libanés&nbsp; Leer",
-        "fecha": "2026-07-06T01:44:53+02:00",
+        "titulo": "El líder opositor Ekrem Imamoglu comparece en tres juicios en la víspera de la cumbre de la OTAN",
+        "enlace": "https://www.elmundo.es/internacional/2026/07/06/6a4baee721efa017328b458a.html",
+        "desc": "El proceso judicial dio un último giro hace unos días, cuando el tribunal impuso un plazo inexplicable, este jueves, para que la defensa concluya todos los procedimientos&nbsp; Lee…",
+        "fecha": "2026-07-06T16:09:31+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "China eleva la presión en el Pacífico con un nuevo ensayo de un misil balístico",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-07-06/china-pacifico-nuevo-ensayo-de-un-misil-balistico_4383876/",
-        "desc": "El ensayo llega también después de que Pekín anunciara en junio nuevas restricciones a la exportación de productos de doble uso a 40 entidades japonesas, una medida que China justi…",
-        "fecha": "2026-07-06T14:30:05.790893+00:00",
+        "titulo": "Rutte: los europeos están cubriendo 'los agujeros' del material que EEUU retirará de la OTAN",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-07-06/rutte-europeos-estan-cubriendo-agujeros-del-material-eeuu-retirara-otan_4384369/",
+        "desc": "El secretario general de la OTAN defiende que los aliados europeos están “cubriendo” el inventario de material militar que EEUU ha comunicado que pretende retirar",
+        "fecha": "2026-07-06T17:47:32.447234+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -361,17 +361,17 @@
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Un incendio arrasa el este de España y obliga a cientos de personas a huir",
-        "enlace": "http://es.euronews.com/video/2026/07/06/un-incendio-arrasa-el-este-de-espana-y-obliga-a-cientos-de-personas-a-huir",
-        "desc": "Un incendio forestal en Castellón obliga a evacuar a 500 personas mientras Bomberos y medios aéreos combaten las llamas en la región de Valencia",
-        "fecha": "2026-07-06T13:37:00+02:00",
+        "titulo": "El festival de San Fermín de Pamplona comienza con fuegos artificiales y celebraciones",
+        "enlace": "http://es.euronews.com/video/2026/07/06/el-festival-de-san-fermin-de-pamplona-comienza-con-fuegos-artificiales-y-celebraciones",
+        "desc": "Miles de personas se concentran ante el Ayuntamiento de Pamplona mientras los fuegos artificiales, la música y el baile marcan la apertura oficial de las fiestas de San Fermín en E…",
+        "fecha": "2026-07-06T19:03:27+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Ucrania advierte sobre escasez de misiles interceptores tras 21 muertos en la región de Kyiv",
-        "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-        "desc": "El presidente Zelensky dice que el \"ataque masivo ruso\" del domingo contra Kiev consistió en 68 misiles y 351 drones de ataque.",
-        "fecha": "2026-07-06T13:41:57+00:00",
+        "titulo": "Trump confirma que pidió a la FIFA que revisara la prohibición de Balogun",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "El presidente Donald Trump confirma que pidió a la FIFA que revise la suspensión de un partido del delantero estadounidense Folarin Balogun en el Mundial.",
+        "fecha": "2026-07-06T15:27:59+00:00",
         "fuente": "BBC World"
       },
       {
@@ -382,10 +382,10 @@
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Trump calienta la cumbre de la OTAN burlándose de los ojitos que le pone Meloni: «Hace falta una orden de alejamiento»",
-        "enlace": "https://www.abc.es/internacional/trump-insulta-meloni-visperas-cumbre-otan-ankara-20260706122948-nt.html",
-        "desc": "Giorgia Meloni ha evitado responder este lunes a un nuevo insulto público de Donald Trump , con el que el presidente de EE.UU. adelanta el tono que mantendrá en la cumbre de la OTA…",
-        "fecha": "2026-07-06T13:01:50+02:00",
+        "titulo": "Netanyahu busca vetar la venta de cazas F-35 de EE.UU. a Turquía para no modificar la «balanza de poder» en Oriente Próximo",
+        "enlace": "https://www.abc.es/internacional/netanyahu-busca-vetar-venta-cazas-f35-eeuu-20260706185003-nt.html",
+        "desc": "El primer ministro israelí, Benjamín Netanyahu, ha querido marcar territorio con una nueva petición al gobierno estadounidense liderado por Donald Trump: no vender cazas F-35 ni mo…",
+        "fecha": "2026-07-06T18:50:54+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -396,19 +396,19 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Rusia lanza un ataque masivo contra Ucrania en vísperas de la cumbre de la OTAN",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-07-06/rusia-lanza-mayores-bombardeos-de-la-guerra-antes-de-la-cumbre-de-la-otan_4383844/",
-        "desc": "En respuesta, Ucrania ha lanzado una oleada de drones ucranianos que ha alcanzado la refinería Yaroslavnefteorgsintez, en la región de Yaroslavl, situada a unos 250 kilómetros al n…",
-        "fecha": "2026-07-06T14:30:05.790940+00:00",
+        "titulo": "China eleva la presión en el Pacífico con un nuevo ensayo de un misil balístico",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-07-06/china-pacifico-nuevo-ensayo-de-un-misil-balistico_4383876/",
+        "desc": "El ensayo llega también después de que Pekín anunciara en junio nuevas restricciones a la exportación de productos de doble uso a 40 entidades japonesas, una medida que China justi…",
+        "fecha": "2026-07-06T17:47:32.447281+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
-        "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-        "desc": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-        "fecha": "2026-07-06T13:41:57+00:00",
+        "titulo": "Trump confirms he asked Fifa to review Balogun ban",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "fecha": "2026-07-06T15:27:59+00:00",
         "fuente": "BBC World"
       },
       {
@@ -419,45 +419,45 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Does the French right have a chance of defeating the far right in the election?",
-        "enlace": "https://www.france24.com/en/does-the-french-right-have-a-chance-of-defeating-the-far-right-in-the-election",
-        "desc": "Right-wing Edouard Philippe has officially launched his presidential campaign less than a year ahead of the 2027 election in France. Philippe was the first one to say explicitly he…",
-        "fecha": "2026-07-06T13:48:45+00:00",
+        "titulo": "Frenchman convicted in missing body case confesses to killing his wife, lawyer says",
+        "enlace": "https://www.france24.com/en/france/20260706-frenchman-convicted-in-missing-body-case-confesses-to-killing-his-wife-lawyer-says",
+        "desc": "Cédric Jubillar, a painter and plasterer who was sentenced last October for killing his wife Delphine, has finally confessed to the murder from his prison cell, his lawyer said Mon…",
+        "fecha": "2026-07-06T16:33:20+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "EasyJet shares soar 10% on Castlelake’s $7.3B takeover bid for budget airline",
-        "enlace": "https://nypost.com/2026/07/06/business/easyjet-shares-soar-10-on-castlelakes-7-3b-takeover-bid-for-budget-airline/",
-        "desc": "EasyJet shares soared 10% Monday morning after the UK budget airline agreed to a $7.3 billion takeover proposal from US private-equity firm Castlelake, as low-cost carriers face a …",
-        "fecha": "2026-07-06T10:29:33-04:00",
+        "titulo": "Who Killed Rob-Will On ‘Dutton Ranch’?",
+        "enlace": "https://decider.com/2026/07/06/who-killed-rob-will-dutton-ranch/",
+        "desc": "We didn't see who pulled the trigger, but we have a pretty good idea.",
+        "fecha": "2026-07-06T13:45:00-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Why many immigrants leave Germany again",
-        "enlace": "https://www.dw.com/en/why-many-immigrants-leave-germany-again/a-77853162?maca=en-rss-en-all-1573-rdf",
-        "desc": "Germany been attracting many skilled workers to its labor market. The challenge, however, is that many of them do not stay. So what is going wrong?",
-        "fecha": "2026-07-06T14:30:11.391793+00:00",
+        "titulo": "Senegal's power struggle: Referendum to decide on constitutional reform",
+        "enlace": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-all-1573-rdf",
+        "desc": "Senegal's constitional reform has caused considerable political uproar. The public will now be asked to vote on the proposed amendments. Under a new constitution, the powers of Pre…",
+        "fecha": "2026-07-06T17:47:35.636379+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Wildfire rages in eastern Spain, forcing hundreds to flee",
-        "enlace": "http://www.euronews.com/video/2026/07/06/wildfire-rages-in-eastern-spain-forcing-hundreds-to-flee",
-        "desc": "A wildfire in Castellon, eastern Spain, forces 500 evacuations as firefighters and aircraft battle flames spreading across the Valencia region.",
-        "fecha": "2026-07-06T13:35:13+02:00",
+        "titulo": "Pamplona's San Fermín festival begins with fireworks and celebrations",
+        "enlace": "http://www.euronews.com/video/2026/07/06/pamplonas-san-fermin-festival-begins-with-fireworks-and-celebrations",
+        "desc": "Thousands gather outside Pamplona City Hall as fireworks, music and dancing mark the official opening of Spain's San Fermin Festival.",
+        "fecha": "2026-07-06T19:01:35+02:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Colo.: Massive Aspen Acres Fire nears 90,000 acres",
-        "enlace": "https://www.oann.com/newsroom/colo-massive-aspen-acres-fire-nears-90000-acres/",
-        "desc": "Fire personnel continue to fight the Aspen Acres Fire in Southern Colorado, which has spread to tens of thousands of acres.",
-        "fecha": "2026-07-06T14:06:11+00:00",
+        "titulo": "‘That wasn’t a foul’: Trump confirms request to FIFA president that spared U.S. star From World Cup ban",
+        "enlace": "https://www.oann.com/newsroom/that-wasnt-a-foul-trump-confirms-request-to-fifa-president-that-spared-u-s-star-from-world-cup-ban/",
+        "desc": "President Donald Trump has confirmed that he was the one to ask FIFA President Gianni Infantino to review the red card given to United States men's national team (USMNT) striker Fo…",
+        "fecha": "2026-07-06T17:00:31+00:00",
         "fuente": "OAN"
       },
       {
-        "titulo": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-        "enlace": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-        "desc": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-        "fecha": "2026-07-06T12:07:44+00:00",
+        "titulo": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+        "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "desc": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+        "fecha": "2026-07-06T15:09:57+00:00",
         "fuente": "BBC World"
       },
       {
@@ -468,33 +468,68 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Iranians struggle as ongoing economic crisis shows no sign of abatting",
-        "enlace": "https://www.france24.com/en/iranians-struggle-as-ongoing-economic-crisis-shows-no-sign-of-abatting",
-        "desc": "Across Iran, families are grappling with soaring living costs, as the combined weight of war, subsidy reforms and sanctions pushes basic necessities beyond the reach of many. Some …",
-        "fecha": "2026-07-06T13:43:08+00:00",
+        "titulo": "Death toll from DR Congo Ebola outbreak passes 500 as healthcare workers threaten strike",
+        "enlace": "https://www.france24.com/en/africa/20260706-death-toll-from-dr-congo-ebola-outbreak-passes-500-as-healthcare-workers-threaten-strike",
+        "desc": "The deadly Ebola outbreak in the Democratic Republic of Congo has killed more than 500 people, the UN health agency's figures showed Monday. Healthcare workers in Ituri province, t…",
+        "fecha": "2026-07-06T16:20:06+00:00",
         "fuente": "France 24 EN"
       }
     ],
     "internacional_fr": [
       {
-        "titulo": "Contre Donald Trump et face au coût de la vie, l’Islande tentée d’adhérer à l’Union européenne",
-        "enlace": "https://www.lefigaro.fr/international/contre-donald-trump-et-face-au-cout-de-la-vie-l-islande-tentee-d-adherer-a-l-union-europeenne-20260706",
-        "desc": "VU D’AILLEURS - L’île se prononcera par référendum le 29 août prochain. Elle n’a jamais été aussi proche de l’adhésion à l’Union européenne, même si le chemin reste encore long.",
-        "fecha": "2026-07-06T11:35:02+02:00",
+        "titulo": "« Nous voulons rester libanais » : les villages chrétiens du Sud-Liban démentent Benyamin Netanyahou",
+        "enlace": "https://www.lefigaro.fr/international/nous-voulons-rester-libanais-les-villages-chretiens-du-sud-liban-dementent-benyamin-netanyahou-20260706",
+        "desc": "DÉCRYPTAGE - Contrairement à ce qu’a prétendu le premier ministre israélien, dimanche, les habitants de ces localités n’ont pas réclamé leur annexion à Israël.",
+        "fecha": "2026-07-06T17:55:00+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Législatives en Algérie : une abstention historique, le FLN en tête",
-        "enlace": "https://www.france24.com/fr/afrique/20260706-l%C3%A9gislatives-alg%C3%A9rie-abstention-historique-fln-en-t%C3%AAte",
-        "desc": "Le taux de participation des législatives du 2 juillet en Algérie s'est établi à 21,24 %, selon des résultats provisoires rendus publics lundi. Le Front de libération nationale arr…",
-        "fecha": "2026-07-06T14:13:26+00:00",
+        "titulo": "Iran : marée humaine à Téhéran en hommage à Ali Khamenei",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260706-iran-mar%C3%A9e-humaine-%C3%A0-t%C3%A9h%C3%A9ran-en-hommage-%C3%A0-ali-khamenei",
+        "desc": "⁠Une foule d'Iraniens a défilé ⁠dans les rues de ​Téhéran lundi lors d'un cortège funèbre en l'honneur de l'ayatollah Ali Khamenei, le dirigeant assassiné fin février par les Etats…",
+        "fecha": "2026-07-06T16:39:28+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Turquie: interdiction d'accoster à Istanbul pour un navire de croisière LGBT",
-        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260706-turquie-interdiction-d-accoster-%C3%A0-istanbul-pour-un-navire-de-croisi%C3%A8re-lgbt",
-        "desc": "En Turquie, un bateau de croisière destiné à des passagers LGBT s'est vu interdire d'accoster. Les autorités locales avancent explicitement des raisons homophobes puisqu'elles repr…",
-        "fecha": "2026-07-06T13:21:37+00:00",
+        "titulo": "Comores: le président Azali Assoumani revient sur le dossier de Mayotte lors de la fête nationale",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260706-comores-le-pr%C3%A9sident-azali-assoumani-revient-sur-le-dossier-de-mayotte-lors-de-la-f%C3%AAte-nationale",
+        "desc": "Les Comores ont célébré, ce lundi 6 juillet, le 51ᵉ anniversaire de leur indépendance, proclamée le 6 juillet 1975. Dans son discours, le président Azali Assoumani a fixé les prior…",
+        "fecha": "2026-07-06T17:23:23+00:00",
+        "fuente": "RFI"
+      },
+      {
+        "titulo": "Le festival de San Fermín à Pampelune commence par des feux d'artifice et des célébrations",
+        "enlace": "http://fr.euronews.com/video/2026/07/06/le-festival-de-san-fermin-a-pampelune-commence-par-des-feux-dartifice-et-des-celebrations",
+        "desc": "Des milliers de personnes se rassemblent devant l’hôtel de ville de Pampelune pour l’ouverture officielle des fêtes de San Fermín.",
+        "fecha": "2026-07-06T19:03:13+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "Trump confirme avoir demandé à la Fifa de revoir l'interdiction de Balogun",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Le président Donald Trump confirme avoir demandé à la Fifa de revoir la suspension d'un match de l'attaquant américain Folarin Balogun lors de la Coupe du monde.",
+        "fecha": "2026-07-06T15:27:59+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Sommet de l’Otan : les Européens veulent conjurer le danger de l’abandon américain",
+        "enlace": "https://www.lefigaro.fr/international/sommet-de-l-otan-les-europeens-veulent-conjurer-le-danger-de-l-abandon-americain-20260706",
+        "desc": "DÉCRYPTAGE - Alors que les Européens se montrent prêts à assumer une responsabilité croissante dans leur défense, au sommet qui s’ouvre ce mardi à Ankara, Donald Trump continue de …",
+        "fecha": "2026-07-06T17:51:02+02:00",
+        "fuente": "Le Figaro Monde"
+      },
+      {
+        "titulo": "Le bilan de l'épidémie d'Ebola en RD Congo dépasse les 500 morts",
+        "enlace": "https://www.france24.com/fr/afrique/20260706-bilan-%C3%A9pid%C3%A9mie-ebola-en-rd-congo-d%C3%A9passe-500-morts",
+        "desc": "L'épidémie d'Ebola en République démocratique du Congo a fait plus de 500 morts, a annoncé lundi l'Organisation mondiale de la santé, citant des sources officielles congolaises. La…",
+        "fecha": "2026-07-06T16:05:26+00:00",
+        "fuente": "France 24 FR"
+      },
+      {
+        "titulo": "«Tout est de la propagande»: témoignage d'une Iranienne pour qui la répression n'a fait qu'empirer",
+        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260706-tout-est-de-la-propagande-t%C3%A9moignage-d-une-iranienne-pour-qui-la-r%C3%A9pression-n-a-fait-qu-empirer",
+        "desc": "La République islamique d'Iran mène un important exercice de propagande depuis trois jours autour des funérailles d'État du guide suprême. Ali Khamenei a été tué au début de la gue…",
+        "fecha": "2026-07-06T17:09:04+00:00",
         "fuente": "RFI"
       },
       {
@@ -505,61 +540,54 @@
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "L'Ukraine met en garde contre une pénurie de missiles intercepteurs : 21 morts dans la région de Kyiv",
+        "titulo": "L'Ukraine met en garde contre une pénurie de missiles intercepteurs : 23 morts dans la région de Kyiv",
         "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
         "desc": "Le président Zelensky a déclaré que \"l'attaque russe massive\" de dimanche contre Kiev consistait en 68 missiles et 351 drones de frappe.",
-        "fecha": "2026-07-06T13:41:57+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "250 ans de l’indépendance des États-Unis : sous une chaleur écrasante, Donald Trump célèbre une Amérique que « personne ne peut égaler »",
-        "enlace": "https://www.lefigaro.fr/international/250-ans-de-l-independance-des-etats-unis-sous-une-chaleur-ecrasante-donald-trump-celebre-une-amerique-que-personne-ne-peut-egaler-20260705",
-        "desc": "RÉCIT - Malgré la météo qui est venue perturber les cérémonies, Donald Trump a pu prononcer un discours triomphant à Washington et tirer un feu d’artifice géant.",
-        "fecha": "2026-07-05T16:51:08+02:00",
-        "fuente": "Le Figaro Monde"
-      },
-      {
-        "titulo": "Emmanuel Macron attendu en Syrie pour une visite historique affirme Damas",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260706-emmanuel-macron-attendu-en-syrie-pour-une-visite-historique-affirme-damas",
-        "desc": "Ziad Majed, professeur d'études sur le Moyen et Proche-Orient à l'Université Américaine à Paris, est notre invité.",
-        "fecha": "2026-07-06T13:41:43+00:00",
-        "fuente": "France 24 FR"
-      },
-      {
-        "titulo": "Cameroun: neuf civils tués dans une attaque attribuée à Boko Haram dans l’Extrême-Nord",
-        "enlace": "https://www.rfi.fr/fr/afrique/20260706-cameroun-neuf-civils-tu%C3%A9s-dans-une-attaque-attribu%C3%A9e-%C3%A0-boko-haram-dans-l-extr%C3%AAme-nord",
-        "desc": "Neuf civils ont été tués dans une attaque attribuée à Boko Haram, dans la localité de Milari, à environ 7 kilomètres de la ville de Kousseri, dans l'Extrême-Nord. Cette attaque, me…",
-        "fecha": "2026-07-06T12:35:54+00:00",
-        "fuente": "RFI"
-      },
-      {
-        "titulo": "Un incendie ravage l'est de l'Espagne, des centaines de personnes fuient",
-        "enlace": "http://fr.euronews.com/video/2026/07/06/un-incendie-ravage-lest-de-lespagne-des-centaines-de-personnes-fuient",
-        "desc": "Incendie de forêt à Castellón, dans l’est de l’Espagne : 500 évacuations, pompiers et aéronefs combattent les flammes dans la région de Valence",
-        "fecha": "2026-07-06T13:36:54+02:00",
-        "fuente": "Euronews FR"
-      },
-      {
-        "titulo": "Des foules immenses remplissent les rues de Téhéran pour le cortège funèbre de Khamenei",
-        "enlace": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-        "desc": "De nombreuses personnes brandissaient des drapeaux iraniens et des banderoles rouges symbolisant la vengeance pour la mort de guerre de l'ancien guide suprême.",
-        "fecha": "2026-07-06T12:07:44+00:00",
+        "fecha": "2026-07-06T15:09:57+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Nina Chuba fragt sich, warum die Fans in Stuttgart so langweilig sind",
-        "enlace": "https://www.spiegel.de/kultur/musik/nina-chuba-fragt-sich-warum-die-fans-in-stuttgart-so-langweilig-sind-a-692b37eb-cb04-488b-a830-fcd5a1cc7179#ref=rss",
-        "desc": "Süddeutsche Trägheit? Popstar Nina Chuba hat laut darüber nachgedacht, warum die Stimmung in Stuttgart nicht besonders gut ist. Ihre Fans reagieren teils erbost, teils mit Selbstir…",
-        "fecha": "2026-07-06T16:17:00+02:00",
+        "titulo": "Gaza: Hamas will Verwaltung an Technokraten übergeben",
+        "enlace": "https://www.spiegel.de/ausland/gaza-hamas-will-verwaltung-an-technokraten-uebergeben-a-8827e5be-ecd1-4235-8a67-02484c2bee74#ref=rss",
+        "desc": "Der Schritt ist Teil des von US-Präsident Donald Trump vorgeschlagenen Nachkriegsplans für den Gazastreifen: Die Hamas kündigt an, die Verwaltung des Gebiets an ein Gremium palästi…",
+        "fecha": "2026-07-06T19:45:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Digitaler Euro: Europas Waffe gegen Trump?",
-        "enlace": "https://www.dw.com/de/digitaler-euro-europas-waffe-gegen-trump/a-77818974?maca=de-rss-de-all-1119-rdf",
-        "desc": "Die Europäische Zentralbank will den digitalen Euro einführen. Dadurch soll Europa unabhängiger von Visa, Mastercard und Apple Pay werden. Doch wie überzeugt man Verbraucher und Ba…",
-        "fecha": "2026-07-06T14:30:13.778647+00:00",
+        "titulo": "Noch mehr Schulden: Bundeskabinett beschließt Haushalt 2027",
+        "enlace": "https://www.dw.com/de/noch-mehr-schulden-bundeskabinett-beschließt-haushalt-2027/a-77853258?maca=de-rss-de-all-1119-rdf",
+        "desc": "Mehr Geld für Militärisches, weniger für alles andere und massiv wachsende Schulden: Das ist der Haushaltsentwurf für 2027. Das Kabinett hat ihn beschlossen, jetzt ist der Bundesta…",
+        "fecha": "2026-07-06T17:47:39.543853+00:00",
+        "fuente": "DW Deutsch"
+      },
+      {
+        "titulo": "San-Fermín-Fest in Pamplona startet mit Feuerwerk und Feiern",
+        "enlace": "http://de.euronews.com/video/2026/07/06/san-fermin-fest-in-pamplona-startet-mit-feuerwerk-und-feiern",
+        "desc": "Spanisches San-Fermín-Fest startet in Pamplona: Tausende vor dem Rathaus, Feuerwerk, Musik und Tanz zum offiziellen Auftakt.",
+        "fecha": "2026-07-06T19:03:08+02:00",
+        "fuente": "Euronews DE"
+      },
+      {
+        "titulo": "Trump bestätigt, dass er die FIFA gebeten hat, das Balogun-Verbot zu überprüfen",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Präsident Donald Trump bestätigt, dass er die FIFA gebeten hat, die Sperre des US-amerikanischen Stürmers Folarin Balogun für ein Spiel bei der Weltmeisterschaft zu überprüfen.",
+        "fecha": "2026-07-06T15:27:59+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Haushalt 2027: Wo Lars Klingbeil die Milliarden herholt",
+        "enlace": "https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss",
+        "desc": "»Wir schaffen das, woran die letzte Regierung gescheitert ist«, verspricht Lars Klingbeil. Doch um den neuen Haushalt zusammenzubekommen, braucht der Finanzminister riskante Manöve…",
+        "fecha": "2026-07-06T19:28:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Gigantischer Rüstungsdeal: Deutsche U-Boote für Kanada",
+        "enlace": "https://www.dw.com/de/gigantischer-rüstungsdeal-deutsche-u-boote-für-kanada/a-77854403?maca=de-rss-de-all-1119-rdf",
+        "desc": "Kanada bestellt Berichten zufolge zwölf U-Boote beim deutschen Rüstungskonzern TKMS. Der Großauftrag wurde kurz vor Beginn des NATO-Gipfels im türkischen Ankara bekannt - nicht ohn…",
+        "fecha": "2026-07-06T17:47:39.543894+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -570,38 +598,10 @@
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Die Ukraine warnt vor einem Mangel an Abfangraketen, da in der Region Kiew 21 Menschen getötet wurden",
+        "titulo": "Die Ukraine warnt vor einem Mangel an Abfangraketen, da in der Region Kiew 23 Menschen getötet wurden",
         "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
         "desc": "Präsident Selenskyj sagte, der „massive russische Angriff“ auf Kiew am Sonntag habe aus 68 Raketen und 351 Angriffsdrohnen bestanden.",
-        "fecha": "2026-07-06T13:41:57+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "Supertaifun »Bavi«: Sturm fegt über Pazifikinsel Rota",
-        "enlace": "https://www.spiegel.de/panorama/supertaifun-bavi-sturm-fegt-ueber-pazifikinsel-rota-a-fa35b647-4125-4e9f-bcdd-9f552b2d437b#ref=rss",
-        "desc": "Die Inselgruppe Marianen im Pazifik wurde erneut von einem massiven Sturm getroffen. Mit enormen Windgeschwindigkeiten hat Supertaifun »Bavi« das US-Außengebiet erreicht.",
-        "fecha": "2026-07-06T16:06:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Guterres fordert internationale KI-Regulierung",
-        "enlace": "https://www.dw.com/de/guterres-fordert-internationale-ki-regulierung/a-77850890?maca=de-rss-de-all-1119-rdf",
-        "desc": "Künstliche Intelligenz birgt viele Risiken und Gefahren. UN-Generalsekretär Guterres hat deshalb auf einer internationalen Konferenz klare Regeln verlangt. Dabei müsse es vor allem…",
-        "fecha": "2026-07-06T14:30:13.778690+00:00",
-        "fuente": "DW Deutsch"
-      },
-      {
-        "titulo": "Hamas löst ihre Regierung in Gaza auf - Machtvakuum befürchtet",
-        "enlace": "http://de.euronews.com/2026/07/06/hamas-gaza-machtvakuum",
-        "desc": "Das Medienbüro der Hamas in Gaza hat die endgültige Auflösung der Notfall-Arbeitskommission und den Rücktritt ihres Chefs Mohammed Farra bekanntgegeben. Hamas spricht von einer Ges…",
-        "fecha": "2026-07-06T13:31:56+02:00",
-        "fuente": "Euronews DE"
-      },
-      {
-        "titulo": "Riesige Menschenmengen füllen die Straßen Teherans zum Trauerzug Khameneis",
-        "enlace": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-        "desc": "Viele Menschen schwenkten iranische Flaggen und rote Banner, um Rache für den Kriegstod des ehemaligen Obersten Führers zu symbolisieren.",
-        "fecha": "2026-07-06T12:07:44+00:00",
+        "fecha": "2026-07-06T15:09:57+00:00",
         "fuente": "BBC World EN"
       }
     ],
@@ -614,17 +614,10 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Incendio boschivo nell'est della Spagna: evacuate centinaia di persone",
-        "enlace": "http://it.euronews.com/video/2026/07/06/incendio-boschivo-nellest-della-spagna-evacuate-centinaia-di-persone",
-        "desc": "Un incendio boschivo a Castellón, nell'est della Spagna, costringe all'evacuazione 500 persone mentre vigili del fuoco e aerei combattono le fiamme nella regione di Valencia.",
-        "fecha": "2026-07-06T13:36:39+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "L'Ucraina avverte della carenza di missili intercettori: 21 morti nella regione di Kiev",
-        "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-        "desc": "Il presidente Zelenskyj afferma che il “massiccio attacco russo” di domenica a Kiev consisteva in 68 missili e 351 droni d’attacco.",
-        "fecha": "2026-07-06T13:41:57+00:00",
+        "titulo": "Trump conferma di aver chiesto alla FIFA di rivedere il divieto di Balogun",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Il presidente Donald Trump conferma di aver chiesto alla Fifa di rivedere la squalifica per una partita dell'attaccante statunitense Folarin Balogun ai Mondiali.",
+        "fecha": "2026-07-06T15:27:59+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -635,33 +628,47 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Mondiali, vittoria dell'Inghilterra: tifosi in festa",
-        "enlace": "http://it.euronews.com/video/2026/07/06/mondiali-vittoria-dellinghilterra-tifosi-in-festa",
-        "desc": "I tifosi dell'Inghilterra hanno festeggiato la vittoria spettacolare per 3-2 contro il Messico, che ha portato i Three Lions ai quarti del Mondiale.",
-        "fecha": "2026-07-06T12:09:01+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "Enormi folle riempiono le strade di Teheran per il corteo funebre di Khamenei",
-        "enlace": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-        "desc": "Molte persone sventolavano bandiere iraniane e stendardi rossi a simboleggiare la vendetta per la morte in guerra dell'ex leader supremo.",
-        "fecha": "2026-07-06T12:07:44+00:00",
+        "titulo": "L'Ucraina avverte della carenza di missili intercettori: 23 morti nella regione di Kiev",
+        "enlace": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "desc": "Il presidente Zelenskyj afferma che il “massiccio attacco russo” di domenica a Kiev consisteva in 68 missili e 351 droni d’attacco.",
+        "fecha": "2026-07-06T15:09:57+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "15h Plataforma para correção dos exames em manutenção desde manhã",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/15h-plataforma-para-correcao-dos-exames-em-manutencao-desde-manha_a1_1751713",
-        "desc": "",
-        "fecha": "2026-07-06T16:27:02+01:00",
+        "titulo": "Chega propõe debate de urgência sobre \"falhas brutais\" nos exames nacionais",
+        "enlace": "https://www.rtp.pt/noticias/lusa/chega-propoe-debate-de-urgencia-sobre-falhas-brutais-nos-exames-nacionais_d1751743",
+        "desc": "O Chega vai propor um debate de urgência no Parlamento para que o ministro da Educação dê explicações sobre as &quot;falhas brutais&quot; nos exames nacionais e afasta para já a re…",
+        "fecha": "2026-07-06T19:31:01+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Sobe para 96 número de portugueses e lusodescendentes mortos",
-        "enlace": "https://observador.pt/2026/07/06/sismos-sobe-para-96-numero-de-portugueses-e-lusodescendentes-mortos/",
-        "desc": "Os sismos registados na Venezuela em 24 de junho causaram pelo menos 3.342 mortos e 16.740 feridos",
-        "fecha": "2026-07-06T15:21:11+01:00",
+        "titulo": "Autoridades procuram homem desaparecido em Viana do Castelo",
+        "enlace": "https://observador.pt/2026/07/06/autoridades-procuram-homem-desaparecido-em-viana-do-castelo/",
+        "desc": "Foram mobilizadas equipas cinotécnicas da Autoridade Nacional de Proteção Civil para ajudar nas buscas",
+        "fecha": "2026-07-06T18:39:46+01:00",
+        "fuente": "Observador"
+      },
+      {
+        "titulo": "Trump confirma que pediu à Fifa para rever cartão vermelho de Balogun: como isso coloca arbitragem da Copa em xeque",
+        "enlace": "https://www.bbc.com/portuguese/articles/cy4991m8jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Presidente americano também criticou o árbitro brasileiro Raphael Claus, que responsável pela expulsão do artilheiro americano que levou à sua suspensão. Decisão da Fifa cria um no…",
+        "fecha": "2026-07-06T16:06:10+00:00",
+        "fuente": "BBC Brasil"
+      },
+      {
+        "titulo": "Consumo de eletricidade registou máximos na semana passada - REN",
+        "enlace": "https://www.rtp.pt/noticias/lusa/consumo-de-eletricidade-registou-maximos-na-semana-passada-ren_n1751741",
+        "desc": "O consumo de eletricidade registou novos máximos na semana passada, em meses de verão, na sequência da onda de calor que se tem feito sentir em Portugal, de acordo com dados hoje d…",
+        "fecha": "2026-07-06T19:24:41+01:00",
+        "fuente": "RTP Notícias"
+      },
+      {
+        "titulo": "BE acusa Governo de colapso na avaliação digital de exames",
+        "enlace": "https://observador.pt/programas/explicador/be-acusa-governo-de-colapso-na-avaliacao-digital-de-exames/",
+        "desc": "O deputado Fabian Figueiredo criticou a perda de confiança no modelo. Já o PS espera que o executivo assuma os erros, enquanto o PSD defende que a classificação digital não está em…",
+        "fecha": "2026-07-06T18:34:52+01:00",
         "fuente": "Observador"
       },
       {
@@ -669,27 +676,6 @@
         "enlace": "https://www.bbc.com/portuguese/articles/cjdgzzj25nro?at_medium=RSS&at_campaign=rss",
         "desc": "Para Laura Carvalho, mudança das aspirações de consumo e frustração de uma geração escolarizada que não encontra empregos compatíveis são chave para entender descontentamento da po…",
         "fecha": "2026-07-06T08:02:12+00:00",
-        "fuente": "BBC Brasil"
-      },
-      {
-        "titulo": "Ministro da Educação diz que exames em atraso deverão chegar aos professores até ao final do dia",
-        "enlace": "https://www.rtp.pt/noticias/lusa/ministro-da-educacao-diz-que-exames-em-atraso-deverao-chegar-aos-professores-ate-ao-final-do-dia_n1751709",
-        "desc": "Cerca de 70% dos exames do secundário estão nas mãos dos professores e os restantes deverão ser distribuídos até ao final do dia, antecipou hoje o ministro da Educação, garantindo …",
-        "fecha": "2026-07-06T16:24:29+01:00",
-        "fuente": "RTP Notícias"
-      },
-      {
-        "titulo": "Microsoft vai despedir 4.800 trabalhadores",
-        "enlace": "https://observador.pt/2026/07/06/microsoft-vai-despedir-4-800-trabalhadores-cortes-vao-afetar-principalmente-trabalhadores-da-xbox/",
-        "desc": "A Microsoft anunciou que vai despedir 4.800 pessoas",
-        "fecha": "2026-07-06T15:16:33+01:00",
-        "fuente": "Observador"
-      },
-      {
-        "titulo": "'Seleção brasileira virou uma marca em vez de um time?', questiona jornal britânico",
-        "enlace": "https://www.bbc.com/portuguese/articles/cly77z54vvno?at_medium=RSS&at_campaign=rss",
-        "desc": "'A seleção continua sendo a referência máxima no futebol...no entanto, já faz bastante tempo que a equipe não faz jus aos seus próprios padrões elevados', diz artigo do The Guardia…",
-        "fecha": "2026-07-06T10:46:50+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,24 +688,24 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "El Cuti Romero se pone a tiro del Barça",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260706/1004203399/cuti-romero-pone-tiro-barca.html",
-        "desc": "El FC Barcelona anda atento a cualquier oportunidad de mercado que pueda plantearse y en las últimas horas ha surgido un nombre al que han vinculado con el club azulgrana. Se trata…",
-        "fecha": "2026-07-06T13:01:20+02:00",
+        "titulo": "Oficial: Ya hay once de España para enfrentarse a Portugal",
+        "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260706/1004203573/oficial-hay-once-espana-enfrentarse-portugal.html",
+        "desc": "Luis de la Fuente ya ha hecho oficial el equipo que empezará ante Portugal (21.00 horas/La1 y Dazn) en los octavos de final del Mundial de Estados Unidos, México y Canadá. El selec…",
+        "fecha": "2026-07-06T19:08:25+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Tabla de mercado de la Liga Endesa: Fichajes, bajas y rumores para la temporada 2026-27",
-        "enlace": "https://www.gigantes.com/liga-endesa/tabla-de-mercado-de-la-liga-endesa-fichajes-bajas-y-rumores-para-la-temporada-2026-27/",
-        "desc": "Fechas de fin de contrato, fichajes, bajas y todos los rumores del mercado de la Liga Endesa 2026/27 La entrada Tabla de mercado de la Liga Endesa: Fichajes, bajas y rumores para l…",
-        "fecha": "2026-07-06T13:18:51+00:00",
+        "titulo": "Los equipos clasificados para la 2ª ronda que pelearán por las plazas para el Mundial 2027",
+        "enlace": "https://www.gigantes.com/selecciones/lista-selecciones-segunda-fase-clasificacion-mundial/",
+        "desc": "La lista de equipos clasificados para la 2ª fase de ventanas FIBA La entrada Los equipos clasificados para la 2ª ronda que pelearán por las plazas para el Mundial 2027 se publicó p…",
+        "fecha": "2026-07-06T16:48:36+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Cómo Inglaterra usó cinco minijuegos para vencer a México",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
-        "desc": "El desglose táctico de cómo la Inglaterra de 10 hombres de Thomas Tuchel logró una notable victoria en la Copa del Mundo en una Ciudad de México hostil.",
-        "fecha": "2026-07-06T11:57:53+00:00",
+        "titulo": "Trump confirma que pidió a la FIFA que revisara la prohibición de Balogun",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "El presidente Donald Trump confirma que pidió a la FIFA que revise la suspensión de un partido del delantero estadounidense Folarin Balogun en el Mundial.",
+        "fecha": "2026-07-06T15:27:59+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -730,28 +716,42 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Sigue la Etapa 3 del Tour en directo",
-        "enlace": "https://www.mundodeportivo.com/ciclismo/tour-francia/20260706/1004203372/tour-de-francia-2026-ciclismo-hoy-en-directo-etapa-3-ext-pau.html",
-        "desc": "",
-        "fecha": "2026-07-06T11:45:13+02:00",
+        "titulo": "Pogacar destroza a sus rivales en el final de Les Angles y ya lidera el Tour de Francia",
+        "enlace": "https://www.mundodeportivo.com/ciclismo/tour-francia/20260706/1004203544/pogacar-destroza-rivales-final-les-angles-lidera-tour-francia.html",
+        "desc": "Favor con favor se paga, decía el clásico. Si ayer en Montjuïc era Tadej Pogacar (27 años) el que se dejaba hasta la última gota de sudor para que su compañero en el UAE Team Emira…",
+        "fecha": "2026-07-06T17:35:59+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Tabla de mercado Euroliga: Fichajes, bajas y rumores para la temporada 2026-27",
-        "enlace": "https://www.gigantes.com/euroliga/tabla-mercado-euroliga-fichajes-bajas-rumores-temporada-2026-27/",
-        "desc": "El mercado de la Euroliga 2026/2027 ya está en marcha y en Gigantes del Basket os presentamos, un verano más, toda la información que necesitáis saber de cada uno de... La entrada …",
-        "fecha": "2026-07-06T13:17:02+00:00",
+        "titulo": "La lista de participantes para la EuroCup Women 26-27: Los equipos españoles y sus rivales",
+        "enlace": "https://www.gigantes.com/eurocup-women/lista-participantes-eurocup-women-26-27/",
+        "desc": "Así queda la competición para la nueva temporada 2026-2027. Habrá al menos tres equipos españoles. La entrada La lista de participantes para la EuroCup Women 26-27: Los equipos esp…",
+        "fecha": "2026-07-06T16:43:11+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "La integridad del juego está en juego por la decisión de la FIFA sobre Balogun: UEFA",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-        "desc": "La UEFA dice que la decisión de la FIFA de no mantener la suspensión inmediata de Folarin Balogun en el Mundial es \"sin precedentes, incomprensible e injustificable\".",
-        "fecha": "2026-07-06T13:58:37+00:00",
+        "titulo": "Cómo Inglaterra usó cinco minijuegos para vencer a México",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
+        "desc": "El desglose táctico de cómo la Inglaterra de 10 hombres de Thomas Tuchel logró una notable victoria en la Copa del Mundo en una Ciudad de México hostil.",
+        "fecha": "2026-07-06T11:57:53+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
+      {
+        "titulo": "Trump confirms he asked Fifa to review Balogun ban",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "fecha": "2026-07-06T15:27:59+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "Joyce misses out on heavyweight title shot as Gassiev opponent confirmed",
+        "enlace": "https://www.skysports.com/boxing/news/12040/13561073/joe-joyce-misses-out-on-wba-heavyweight-title-shot-as-murat-gassiev-gets-new-opponent-for-first-defence",
+        "desc": "Murat Gassiev's first defence of his WBA heavyweight title will go ahead on Saturday after a replacement opponent was found for the Russian.",
+        "fecha": "2026-07-06T18:00:00",
+        "fuente": "Sky Sports"
+      },
       {
         "titulo": "How England used five mini games to beat Mexico",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
@@ -760,40 +760,26 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Lingfield, Wolverhampton and Ripon feature today",
-        "enlace": "https://www.skysports.com/racing/news/12040/13560958/today-on-sky-sports-racing-lingfield-wolverhampton-and-ripon-feature",
-        "desc": "Lingfield, Wolverhampton and Ripon are the venues for today's Flat action - live on Sky Sports Racing.",
-        "fecha": "2026-07-06T12:21:00",
-        "fuente": "Sky Sports"
-      },
-      {
-        "titulo": "Integrity of game at stake over Fifa Balogun decision - Uefa",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-        "desc": "Uefa says Fifa's decision not to uphold Folarin Balogun's immediate ban at the World Cup is \"unprecedented, incomprehensible and unjustifiable\".",
-        "fecha": "2026-07-06T13:58:37+00:00",
-        "fuente": "BBC Sport"
-      },
-      {
-        "titulo": "Wimbledon Day Eight LIVE! Swiatek conqueror Eala in action before GB's Fery",
-        "enlace": "https://www.skysports.com/tennis/live-blog/12040/13560664/wimbledon-day-eight-live-scores-updates-news-results-with-arthur-fery-facing-grigor-dimitrov-second-on-centre-court-as-part-of-the-last-16",
-        "desc": "",
-        "fecha": "2026-07-06T11:45:00",
+        "titulo": "Wimbledon order of play: Gauff, Djokovic, Sinner and Osaka all in action Tuesday",
+        "enlace": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+        "desc": "Take a look at Tuesday's singles Order of Play in the Wimbledon Championships at the All England Club.",
+        "fecha": "2026-07-06T17:00:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
+        "titulo": "Trump confirme avoir demandé à la Fifa de revoir l'interdiction de Balogun",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Le président Donald Trump confirme avoir demandé à la Fifa de revoir la suspension d'un match de l'attaquant américain Folarin Balogun lors de la Coupe du monde.",
+        "fecha": "2026-07-06T15:27:59+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
         "titulo": "Comment l'Angleterre a utilisé cinq mini-jeux pour battre le Mexique",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
         "desc": "La répartition tactique de la façon dont l'Angleterre à 10 de Thomas Tuchel a remporté une remarquable victoire en Coupe du monde dans une ville hostile de Mexico.",
         "fecha": "2026-07-06T11:57:53+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "L'intégrité du jeu en jeu suite à la décision de la Fifa Balogun - UEFA",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-        "desc": "L'UEFA estime que la décision de la Fifa de ne pas maintenir l'interdiction immédiate de Folarin Balogun lors de la Coupe du monde est \"sans précédent, incompréhensible et injustifiable\".",
-        "fecha": "2026-07-06T13:58:37+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,7 +788,21 @@
         "titulo": "Fußball-WM: Anruf von Trump bei FIFA löst WM-Skandal aus",
         "enlace": "https://www.dw.com/de/fußball-wm-anruf-von-trump-bei-fifa-löst-wm-skandal-aus/a-77845404?maca=de-rss-de-sport-4020-rdf",
         "desc": "Hat der US-Präsident seine Kontakte zu FIFA-Präsident Infantino genutzt und eine Rot-Sperre gegen einen US-Spieler aufheben lassen? Das US-Team feiert die Entscheidung im \"Fall Bal…",
-        "fecha": "2026-07-06T14:30:22.113821+00:00",
+        "fecha": "2026-07-06T17:47:52.885200+00:00",
+        "fuente": "DW Sport"
+      },
+      {
+        "titulo": "Trump bestätigt, dass er die FIFA gebeten hat, das Balogun-Verbot zu überprüfen",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Präsident Donald Trump bestätigt, dass er die FIFA gebeten hat, die Sperre des US-amerikanischen Stürmers Folarin Balogun für ein Spiel bei der Weltmeisterschaft zu überprüfen.",
+        "fecha": "2026-07-06T15:27:59+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "Jürgen Klopp: Wunsch-Bundestrainer und \"Heilsbringer\"?",
+        "enlace": "https://www.dw.com/de/jürgen-klopp-wunsch-bundestrainer-und-heilsbringer/a-77819993?maca=de-rss-de-sport-4020-rdf",
+        "desc": "Nach dem Fiasko bei der Fußball-WM ist der Ex-Trainer des FC Liverpool und von Borussia Dortmund Wunschkandidat des DFB für die Nachfolge von Julian Nagelsmann. Er war überall erfo…",
+        "fecha": "2026-07-06T17:47:52.885244+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -811,35 +811,21 @@
         "desc": "Die taktische Aufschlüsselung, wie Thomas Tuchels 10-Mann-England im feindlichen Mexiko-Stadt einen bemerkenswerten Weltmeisterschaftssieg errang.",
         "fecha": "2026-07-06T11:57:53+00:00",
         "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "Jürgen Klopp: Wunsch-Bundestrainer und \"Heilsbringer\"?",
-        "enlace": "https://www.dw.com/de/jürgen-klopp-wunsch-bundestrainer-und-heilsbringer/a-77819993?maca=de-rss-de-sport-4020-rdf",
-        "desc": "Nach dem Fiasko bei der Fußball-WM ist der Ex-Trainer des FC Liverpool und von Borussia Dortmund Wunschkandidat des DFB für die Nachfolge von Julian Nagelsmann. Er war überall erfo…",
-        "fecha": "2026-07-06T14:30:22.113876+00:00",
-        "fuente": "DW Sport"
-      },
-      {
-        "titulo": "Die Integrität des Spiels steht wegen der Balogun-Entscheidung der Fifa auf dem Spiel – Uefa",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-        "desc": "Die Uefa bezeichnet die Entscheidung der FIFA, Folarin Baloguns sofortige Sperre für die Weltmeisterschaft nicht aufrechtzuerhalten, als „beispiellos, unverständlich und nicht zu rechtfertigen“.",
-        "fecha": "2026-07-06T13:58:37+00:00",
-        "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
+      {
+        "titulo": "Trump conferma di aver chiesto alla FIFA di rivedere il divieto di Balogun",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Il presidente Donald Trump conferma di aver chiesto alla Fifa di rivedere la squalifica per una partita dell'attaccante statunitense Folarin Balogun ai Mondiali.",
+        "fecha": "2026-07-06T15:27:59+00:00",
+        "fuente": "BBC Sport EN"
+      },
       {
         "titulo": "Come l'Inghilterra ha sfruttato cinque minipartite per battere il Messico",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss",
         "desc": "Il resoconto tattico di come l'Inghilterra composta da 10 uomini di Thomas Tuchel ha ottenuto una straordinaria vittoria in Coppa del Mondo in un'ostile Città del Messico.",
         "fecha": "2026-07-06T11:57:53+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "In gioco l'integrità del gioco per la decisione Fifa Balogun - Uefa",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss",
-        "desc": "La Uefa afferma che la decisione della FIFA di non mantenere l'immediata squalifica di Folarin Balogun ai Mondiali è \"senza precedenti, incomprensibile e ingiustificabile\".",
-        "fecha": "2026-07-06T13:58:37+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -856,7 +842,7 @@
         "titulo": "Ciencia",
         "enlace": "http://www.elmundo.es/ciencia.html",
         "desc": "Ciencia",
-        "fecha": "2026-07-06T14:30:25.970887+00:00",
+        "fecha": "2026-07-06T17:47:56.520186+00:00",
         "fuente": "El Mundo Ciencia"
       },
       {
@@ -867,17 +853,17 @@
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Las universidades confían en software de detección de inteligencia artificial para detectar trampas. ¿Qué tan bien funcionan los programas?",
-        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
-        "desc": "Naturaleza, Publicado en línea: 6 de julio de 2026; doi:10.1038/d41586-026-01358-2 Las empresas de tecnología dicen que sus servicios pueden detectar escritura generada por IA, pero sus herramientas varían en tecnología...",
-        "fecha": "2026-07-06T14:30:29.036437+00:00",
+        "titulo": "De la clonación a la edición genética: el legado perdurable de la oveja Dolly",
+        "enlace": "https://www.nature.com/articles/d41586-026-02096-1",
+        "desc": "Naturaleza, Publicado en línea: 6 de julio de 2026; doi:10.1038/d41586-026-02096-1 El roce de Dolly con la celebridad podría ofrecer lecciones para los debates actuales sobre tecnologías reproductivas.",
+        "fecha": "2026-07-06T17:48:00.046627+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Webb de la NASA descubre una galaxia inusual formada por una colisión cósmica",
-        "enlace": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
-        "desc": "En nuevas imágenes tomadas por el Telescopio Espacial James Webb de la NASA para celebrar su cuarto aniversario científico, una galaxia familiar se transforma en algo mucho más rico y complejo que...",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "La NASA busca aportes de la industria para la segunda fase de estaciones espaciales comerciales",
+        "enlace": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
+        "desc": "El lunes, la NASA publicó un borrador de Solicitud de Propuestas (RFP) en busca de comentarios de las empresas estadounidenses sobre la siguiente fase de su estrategia de estaciones espaciales comerciales, destinada a garantizar…",
+        "fecha": "2026-07-06T15:33:00+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -888,47 +874,47 @@
         "fuente": "ABC Ciencia"
       },
       {
-        "titulo": "\"Nunca había visto a mi país sufrir así\": cómo me impactó regresar a La Guaira, el lugar en el que nací que ahora está devastado y con cadáveres apilados",
-        "enlace": "https://www.bbc.com/mundo/articles/ceqdvrejn1vo?at_medium=RSS&at_campaign=rss",
-        "desc": "Desde La Guaira, el reportero de BBC Mundo Norberto Paredes describe la magnitud de la destrucción tras dos terremotos que transformaron su ciudad natal en cuestión de segundos.",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "Cómo el nuevo régimen de Irán es totalmente diferente del anterior",
+        "enlace": "https://www.bbc.com/mundo/articles/c4gyy2gezzeo?at_medium=RSS&at_campaign=rss",
+        "desc": "El funeral de Alí Jamenei es otro recordatorio del cambio que ha experimentado Irán, pero ¿qué quiere su nuevo liderazgo?",
+        "fecha": "2026-07-06T03:35:34+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Rarezas de las profundidades marinas y barcos llenos de otras especies nuevas: las mejores imágenes científicas de junio",
-        "enlace": "https://www.nature.com/articles/d41586-026-02087-2",
-        "desc": "Naturaleza, Publicado en línea: 6 de julio de 2026; doi:10.1038/d41586-026-02087-2 Las fotografías científicas más nítidas del mes, seleccionadas por el equipo fotográfico de Nature.",
-        "fecha": "2026-07-06T14:30:29.036486+00:00",
+        "titulo": "Las universidades confían en software de detección de inteligencia artificial para detectar trampas. ¿Qué tan bien funcionan los programas?",
+        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
+        "desc": "Naturaleza, Publicado en línea: 6 de julio de 2026; doi:10.1038/d41586-026-01358-2 Las empresas de tecnología dicen que sus servicios pueden detectar escritura generada por IA, pero sus herramientas varían en tecnología...",
+        "fecha": "2026-07-06T17:48:00.046674+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Examinando las floraciones de algas en Blue Mesa",
-        "enlace": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-        "desc": "Utilizando datos satelitales, los investigadores conectaron la proliferación de algas nocivas con el agua cálida y los bajos niveles de agua en uno de los embalses más grandes de Colorado.",
-        "fecha": "2026-07-06T04:01:00+00:00",
+        "titulo": "CAPSTONE de la NASA completa una misión extendida que prueba tecnologías lunares",
+        "enlace": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
+        "desc": "Mientras la NASA se prepara para una presencia humana sostenida en la Luna, las misiones requerirán cada vez más naves espaciales que puedan navegar y comunicarse sin una conexión directa con la Tierra. NORTE…",
+        "fecha": "2026-07-06T15:00:54+00:00",
         "fuente": "NASA EN"
       }
     ],
     "ciencia_en": [
       {
-        "titulo": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
-        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
-        "desc": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2 Technology companies say that their services can sniff out AI-generated writing, but their tools vary in tech…",
-        "fecha": "2026-07-06T14:30:33.510684+00:00",
+        "titulo": "From cloning to gene-editing: the enduring legacy of Dolly the sheep",
+        "enlace": "https://www.nature.com/articles/d41586-026-02096-1",
+        "desc": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02096-1 Dolly’s brush with celebrity could hold lessons for current discussions about reproductive technologies.",
+        "fecha": "2026-07-06T17:48:03.269607+00:00",
         "fuente": "Nature"
       },
       {
         "titulo": "Being a taller tree doesn’t doom you to drought after all",
         "enlace": "https://www.science.org/content/article/being-taller-tree-doesn-t-doom-you-drought-after-all",
         "desc": "New study challenges idea that tall trees’ hydraulics make them more vulnerable to dry conditions",
-        "fecha": "2026-07-06T14:30:33.584865+00:00",
+        "fecha": "2026-07-06T17:48:03.368765+00:00",
         "fuente": "Science"
       },
       {
-        "titulo": "Human brains may have got bigger for no particular reason",
-        "enlace": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "desc": "Our brains are large compared with other animals, so it is tempting to assume there was an evolutionary advantage to them – but that may not be true at all",
-        "fecha": "2026-07-06T11:00:37+01:00",
+        "titulo": "How healthy is your brain? We now know how to find out",
+        "enlace": "https://www.newscientist.com/article/2531178-how-healthy-is-your-brain-we-now-know-how-to-find-out/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "desc": "In our efforts to keep our brains healthy, how do we know what is working? Helen Thomson explores a new generation of tests that can reveal whether our efforts are paying off",
+        "fecha": "2026-07-06T17:00:36+01:00",
         "fuente": "New Scientist"
       },
       {
@@ -939,24 +925,24 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Bentley teases its first EV, the Torcal",
-        "enlace": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
-        "desc": "The new model will be officially unveiled in late September.",
-        "fecha": "2026-07-06T11:30:38+00:00",
+        "titulo": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+        "enlace": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+        "desc": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+        "fecha": "2026-07-06T17:14:09+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Upside‑down whales aren't sick or hurt—they're just resting",
-        "enlace": "https://phys.org/news/2026-07-upsidedown-whales-sick-theyre-resting.html",
-        "desc": "If you stand on one of Australia's southern shorelines at this time of year, you might be lucky enough to spot a southern right whale (Eubalaena australis) swimming in the shallow …",
-        "fecha": "2026-07-06T10:20:03-04:00",
+        "titulo": "Unexpected discovery yields new graphene oxide production method",
+        "enlace": "https://phys.org/news/2026-07-unexpected-discovery-yields-graphene-oxide.html",
+        "desc": "Researchers in the Texas A&amp;M University J. Mike Walker '66 Department of Mechanical Engineering have developed a new method for producing graphene oxide, a high-value carbon na…",
+        "fecha": "2026-07-06T13:40:07-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
-        "enlace": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
-        "desc": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than…",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
+        "enlace": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
+        "desc": "On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring…",
+        "fecha": "2026-07-06T15:33:00+00:00",
         "fuente": "NASA"
       },
       {
@@ -967,47 +953,47 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Wildfire in southern France forces evacuation of 10,000 people",
-        "enlace": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-        "desc": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
-        "fecha": "2026-07-06T13:08:23+00:00",
+        "titulo": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
+        "enlace": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "desc": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
+        "fecha": "2026-07-06T16:44:54+00:00",
         "fuente": "BBC Science"
       },
       {
-        "titulo": "Euclid discovers the most ancient quasar in the Universe",
-        "enlace": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_the_most_ancient_quasar_in_the_Universe",
-        "desc": "",
-        "fecha": "2026-07-06T08:30:00+02:00",
+        "titulo": "Webb reveals millions of stars in nearby galaxy",
+        "enlace": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
+        "desc": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more com…",
+        "fecha": "2026-07-06T18:00:00+02:00",
         "fuente": "ESA"
       }
     ],
     "ciencia_fr": [
       {
-        "titulo": "Sur fond d'IA, la tension monte chez Meta",
-        "enlace": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/meta-mark-zuckerberg-veut-creer-son-clone-ia-pendant-que-8-000-emplois-sont-supprimes_193592?xtor=RSS-12",
-        "desc": "Alors que Mark Zuckerberg aurait demandé la création d'un clone numérique capable de penser et de parler comme lui, Meta traverse une période de fortes tensions internes. Licenciem…",
-        "fecha": "2026-07-06T12:55:10+00:00",
+        "titulo": "Pollution : une ONG recense les élevages en infraction, en plein examen de la loi agricole",
+        "enlace": "https://www.sciencesetavenir.fr/nature-environnement/pollution-une-ong-recense-les-elevages-en-infraction-en-plein-examen-de-la-loi-agricole_193525?xtor=RSS-15",
+        "desc": "Plus d'un tiers des élevages intensifs contrôlés ces dernières années en France ont présenté une non-conformité en matière de pollution environnementale, révèle l'ONG Aria, au mome…",
+        "fecha": "2026-07-06T17:26:49+00:00",
+        "fuente": "Sciences et Avenir"
+      },
+      {
+        "titulo": "Du clonage à l’édition génétique : l’héritage durable de Dolly la brebis",
+        "enlace": "https://www.nature.com/articles/d41586-026-02096-1",
+        "desc": "Nature, Mise en ligne : 06 juillet 2026 ; est ce que je:10.1038/d41586-026-02096-1 Le contact de Dolly avec la célébrité pourrait servir de leçon aux discussions actuelles sur les technologies de reproduction.",
+        "fecha": "2026-07-06T17:48:05.663934+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "Canicule : des scientifiques réclament une \"loi d'urgence climatique\" dans une tribune",
+        "enlace": "https://www.sciencesetavenir.fr/nature-environnement/canicule-des-scientifiques-reclament-une-loi-d-urgence-climatique-dans-une-tribune_193595?xtor=RSS-15",
+        "desc": "Plusieurs dizaines de scientifiques français, rejoints par des économistes et des personnalités, réclament \"une loi d'urgence climatique\" dans une tribune, face à \"l'emprise de l'i…",
+        "fecha": "2026-07-06T17:00:00+00:00",
         "fuente": "Sciences et Avenir"
       },
       {
         "titulo": "Les universités s’appuient sur un logiciel de détection d’IA pour détecter les tricheurs. Dans quelle mesure les programmes fonctionnent-ils ?",
         "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
         "desc": "Nature, Mise en ligne : 06 juillet 2026 ; est ce que je:10.1038/d41586-026-01358-2 Les entreprises technologiques affirment que leurs services peuvent détecter l'écriture générée par l'IA, mais leurs outils varient en termes de technologie…",
-        "fecha": "2026-07-06T14:30:35.392781+00:00",
-        "fuente": "Nature EN"
-      },
-      {
-        "titulo": "Le corps des mammifères peut se régénérer",
-        "enlace": "https://www.sciencesetavenir.fr/sante/regeneration-des-tissus-une-decouverte-ouvre-une-nouvelle-piste-chez-les-mammiferes_193575?xtor=RSS-16",
-        "desc": "Lors d’une blessure, le corps des mammifères active un processus de cicatrisation, mais deux molécules suffiraient pour le forcer à régénérer les tissus, comme c’est le cas de cert…",
-        "fecha": "2026-07-06T09:33:40+00:00",
-        "fuente": "Sciences et Avenir"
-      },
-      {
-        "titulo": "Bizarreries des grands fonds et bateaux chargés d’autres nouvelles espèces – les meilleures images scientifiques de juin",
-        "enlace": "https://www.nature.com/articles/d41586-026-02087-2",
-        "desc": "Nature, Mise en ligne : 06 juillet 2026 ; est ce que je:10.1038/d41586-026-02087-2 Les photos scientifiques les plus nettes du mois — sélectionnées par l'équipe photo de Nature.",
-        "fecha": "2026-07-06T14:30:35.392948+00:00",
+        "fecha": "2026-07-06T17:48:05.663990+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1016,53 +1002,67 @@
         "titulo": "Wohnen bei Hitze: So müssen wir Häuser (um)bauen",
         "enlace": "https://www.dw.com/de/wohnen-bei-hitze-so-müssen-wir-häuser-um-bauen/a-77812472?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Viele Wohnungen in Deutschland sind nicht für lange Hitzeperioden gebaut. Doch es ist an der Zeit, umzudenken und umzubauen. Möglichkeiten gibt es einige - und die Klimaanlage ist …",
-        "fecha": "2026-07-06T14:30:39.155655+00:00",
+        "fecha": "2026-07-06T17:48:08.806591+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Universitäten verlassen sich auf KI-Erkennungssoftware, um Betrug zu erkennen. Wie gut funktionieren die Programme?",
-        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
-        "desc": "Natur, Online veröffentlicht: 06. Juli 2026; doi:10.1038/d41586-026-01358-2 Technologieunternehmen sagen, dass ihre Dienste KI-generiertes Schreiben aufspüren können, ihre Tools unterscheiden sich jedoch in der Technologie…",
-        "fecha": "2026-07-06T14:30:39.260144+00:00",
+        "titulo": "Vom Klonen bis zur Genbearbeitung: das bleibende Erbe von Dolly, dem Schaf",
+        "enlace": "https://www.nature.com/articles/d41586-026-02096-1",
+        "desc": "Natur, Online veröffentlicht: 06. Juli 2026; doi:10.1038/d41586-026-02096-1 Dollys Begegnung mit Prominenten könnte Lehren für aktuelle Diskussionen über Reproduktionstechnologien liefern.",
+        "fecha": "2026-07-06T17:48:08.926256+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "In Deutschland mehr Waldschutz, in den USA mehr Ölbohrungen",
         "enlace": "https://www.dw.com/de/in-deutschland-mehr-waldschutz-in-den-usa-mehr-ölbohrungen/a-77802898?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Der deutsche Hambacher Wald wird vor Kohleabbau geschützt. Gleichzeitig zerstören die USA unter Donald Trump immer mehr Naturschutzgebiete für Öl, Gas und private Interessen.",
-        "fecha": "2026-07-06T14:30:39.155698+00:00",
+        "fecha": "2026-07-06T17:48:08.806632+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Kuriositäten aus der Tiefsee und jede Menge anderer neuer Arten – die besten Wissenschaftsbilder im Juni",
-        "enlace": "https://www.nature.com/articles/d41586-026-02087-2",
-        "desc": "Natur, Online veröffentlicht: 06. Juli 2026; doi:10.1038/d41586-026-02087-2 Die schärfsten Wissenschaftsaufnahmen des Monats – ausgewählt vom Fototeam von Nature.",
-        "fecha": "2026-07-06T14:30:39.260190+00:00",
+        "titulo": "Universitäten verlassen sich auf KI-Erkennungssoftware, um Betrug zu erkennen. Wie gut funktionieren die Programme?",
+        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
+        "desc": "Natur, Online veröffentlicht: 06. Juli 2026; doi:10.1038/d41586-026-01358-2 Technologieunternehmen sagen, dass ihre Dienste KI-generiertes Schreiben aufspüren können, ihre Tools unterscheiden sich jedoch in der Technologie…",
+        "fecha": "2026-07-06T17:48:08.926303+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "Le università si affidano a software di rilevamento dell’intelligenza artificiale per individuare gli imbrogli. Quanto funzionano i programmi?",
-        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
-        "desc": "Natura, Pubblicato online: 06 luglio 2026; doi:10.1038/d41586-026-01358-2 Le aziende tecnologiche affermano che i loro servizi possono fiutare la scrittura generata dall'intelligenza artificiale, ma i loro strumenti variano in termini tecnologici...",
-        "fecha": "2026-07-06T14:30:43.638482+00:00",
+        "titulo": "Dalla clonazione all'editing genetico: l'eredità duratura della pecora Dolly",
+        "enlace": "https://www.nature.com/articles/d41586-026-02096-1",
+        "desc": "Natura, Pubblicato online: 06 luglio 2026; doi:10.1038/d41586-026-02096-1 Il contatto di Dolly con le celebrità potrebbe fornire lezioni per le attuali discussioni sulle tecnologie riproduttive.",
+        "fecha": "2026-07-06T17:48:12.423953+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Stranezze delle profondità marine e navi cariche di altre nuove specie: le migliori immagini scientifiche di giugno",
-        "enlace": "https://www.nature.com/articles/d41586-026-02087-2",
-        "desc": "Natura, Pubblicato online: 06 luglio 2026; doi:10.1038/d41586-026-02087-2 Gli scatti scientifici più nitidi del mese, selezionati dal team fotografico di Nature.",
-        "fecha": "2026-07-06T14:30:43.638530+00:00",
+        "titulo": "Le università si affidano a software di rilevamento dell’intelligenza artificiale per individuare gli imbrogli. Quanto funzionano i programmi?",
+        "enlace": "https://www.nature.com/articles/d41586-026-01358-2",
+        "desc": "Natura, Pubblicato online: 06 luglio 2026; doi:10.1038/d41586-026-01358-2 Le aziende tecnologiche affermano che i loro servizi possono fiutare la scrittura generata dall'intelligenza artificiale, ma i loro strumenti variano in termini tecnologici...",
+        "fecha": "2026-07-06T17:48:12.424000+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Sobe para 96 número de portugueses e lusodescendentes mortos",
-        "enlace": "https://observador.pt/2026/07/06/sismos-sobe-para-96-numero-de-portugueses-e-lusodescendentes-mortos/",
-        "desc": "Os sismos registados na Venezuela em 24 de junho causaram pelo menos 3.342 mortos e 16.740 feridos",
-        "fecha": "2026-07-06T15:21:11+01:00",
+        "titulo": "Autoridades procuram homem desaparecido em Viana do Castelo",
+        "enlace": "https://observador.pt/2026/07/06/autoridades-procuram-homem-desaparecido-em-viana-do-castelo/",
+        "desc": "Foram mobilizadas equipas cinotécnicas da Autoridade Nacional de Proteção Civil para ajudar nas buscas",
+        "fecha": "2026-07-06T18:39:46+01:00",
+        "fuente": "Observador Tech"
+      },
+      {
+        "titulo": "Trump confirma que pediu à Fifa para rever cartão vermelho de Balogun: como isso coloca arbitragem da Copa em xeque",
+        "enlace": "https://www.bbc.com/portuguese/articles/cy4991m8jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Presidente americano também criticou o árbitro brasileiro Raphael Claus, que responsável pela expulsão do artilheiro americano que levou à sua suspensão. Decisão da Fifa cria um no…",
+        "fecha": "2026-07-06T16:06:10+00:00",
+        "fuente": "BBC Brasil Tec"
+      },
+      {
+        "titulo": "BE acusa Governo de colapso na avaliação digital de exames",
+        "enlace": "https://observador.pt/programas/explicador/be-acusa-governo-de-colapso-na-avaliacao-digital-de-exames/",
+        "desc": "O deputado Fabian Figueiredo criticou a perda de confiança no modelo. Já o PS espera que o executivo assuma os erros, enquanto o PSD defende que a classificação digital não está em…",
+        "fecha": "2026-07-06T18:34:52+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1070,20 +1070,6 @@
         "enlace": "https://www.bbc.com/portuguese/articles/cjdgzzj25nro?at_medium=RSS&at_campaign=rss",
         "desc": "Para Laura Carvalho, mudança das aspirações de consumo e frustração de uma geração escolarizada que não encontra empregos compatíveis são chave para entender descontentamento da po…",
         "fecha": "2026-07-06T08:02:12+00:00",
-        "fuente": "BBC Brasil Tec"
-      },
-      {
-        "titulo": "Microsoft vai despedir 4.800 trabalhadores",
-        "enlace": "https://observador.pt/2026/07/06/microsoft-vai-despedir-4-800-trabalhadores-cortes-vao-afetar-principalmente-trabalhadores-da-xbox/",
-        "desc": "A Microsoft anunciou que vai despedir 4.800 pessoas",
-        "fecha": "2026-07-06T15:16:33+01:00",
-        "fuente": "Observador Tech"
-      },
-      {
-        "titulo": "'Seleção brasileira virou uma marca em vez de um time?', questiona jornal britânico",
-        "enlace": "https://www.bbc.com/portuguese/articles/cly77z54vvno?at_medium=RSS&at_campaign=rss",
-        "desc": "'A seleção continua sendo a referência máxima no futebol...no entanto, já faz bastante tempo que a equipe não faz jus aos seus próprios padrões elevados', diz artigo do The Guardia…",
-        "fecha": "2026-07-06T10:46:50+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1099,28 +1085,28 @@
         "titulo": "Mutua Madrileña lanza un seguro de ahorro con una rentabilidad neta del 3% el primer año",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-06/mutuactivos-seguro-vida-ahorro-mutua-madrilena-1hms_4383885/",
         "desc": "Debe contratarse con dinero nuevo y la misma cantidad que se aporte en el seguro de ahorro deberá invertirse en la cartera o el fondo de inversión con un mínimo de 10.000 euros",
-        "fecha": "2026-07-06T14:30:50.687406+00:00",
+        "fecha": "2026-07-06T17:48:17.622170+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
         "titulo": "España afronta un verano récord con 43 millones de turistas que se gastarán 64.000 millones de euros",
         "enlace": "https://www.abc.es/economia/espana-afronta-verano-record-millones-turistas-gastaran-20260706140851-nt.html",
-        "desc": "A inicios de este año, las previsiones para la campaña turística de verano, en la que nuestro país se juega alrededor de un 4% de su PIB, no parecían demasiado halagüeñas. El estal…",
+        "desc": "A inicios de este año, las previsiones para la campaña turística de verano, en la que España se juega alrededor de un 4% de su PIB , no parecían demasiado halagüeñas. El estallido …",
         "fecha": "2026-07-06T14:08:51+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El sector de servicios de EE. UU. se expande a un ritmo más lento y aumenta la contratación",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up",
-        "desc": "El sector de servicios estadounidense se expandió en junio a un ritmo ligeramente más lento, pero las empresas aumentaron las nóminas a medida que disminuyeron las presiones de costos.",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "Ondas comprará el fabricante de drones militares DZYNE por 875,8 millones de dólares",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+        "desc": "Ondas Inc. acordó comprar el fabricante de aviones autónomos DZYNE Technologies en un acuerdo de 875,8 millones de dólares en efectivo y acciones que posiciona a Ondas como una tecnología de defensa autónoma de servicio completo...",
+        "fecha": "2026-07-06T11:00:00+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Versant acuerda comprar la empresa de simuladores de golf Full Swing por 530 millones de dólares",
-        "enlace": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
-        "desc": "El acuerdo por Full Swing ampliará los activos de medios no tradicionales de Versant en un esfuerzo por diversificar los ingresos de la televisión por cable.",
-        "fecha": "2026-07-06T12:53:00+00:00",
+        "titulo": "Klarna busca la autorización bancaria de EE. UU. en su último intento de ir más allá de comprar ahora y pagar después",
+        "enlace": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+        "desc": "Klarna se une a una ola de empresas de tecnología financiera y criptomonedas que buscan ingresar al sistema bancario tradicional.",
+        "fecha": "2026-07-06T15:36:23+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1134,51 +1120,51 @@
         "titulo": "CVC recauda 3.000 M con su fondo de 'private equity' centrado en el mercado medio europeo",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-06/cvc-capital-private-equity-europa-1hms_4383874/",
         "desc": "La cifra lograda casi duplica el objetivo inicial de 1.750 millones y permitirá a la gestora realizar inversiones inferiores a 250 millones de euros por operación y ubicadas princi…",
-        "fecha": "2026-07-06T14:30:50.687452+00:00",
+        "fecha": "2026-07-06T17:48:17.622213+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Hacienda estudiará fijar déficits distintos por CC.AA con Cataluña a la cabeza",
+        "titulo": "Hacienda propone fijar déficits distintos por CC.AA con Cataluña a la cabeza",
         "enlace": "https://www.abc.es/economia/hacienda-fija-deficit-comunidades-financiacion-20260706135030-nt.html",
         "desc": "El ministro de Hacienda , Arcadi España , ha planteado a las comunidades autónomas este lunes que podrán tener un déficit público del 0,1% del PIB para los ejercicios 2027, 2028 y …",
         "fecha": "2026-07-06T13:50:31+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El sector de servicios de EE. UU. se expande a un ritmo más lento",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/us-service-sector-expands-at-a-slower-pace-video",
-        "desc": "El sector de servicios de EE. UU. se expandió en junio a un ritmo ligeramente más lento, y el índice de servicios del Institute for Supply Management disminuyó 0,5 puntos hasta 54. Mike McKee informa sobre \"Bloom...",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "El fabricante de chips de memoria SK Hynix inicia su cotización en bolsa por valor de 28.000 millones de dólares en EE. UU.",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
+        "desc": "SK Hynix inició el lunes el proceso de comercialización formal para su cotización en EE. UU., mientras el fabricante de chips de Corea del Sur busca capitalizar la creciente demanda de los inversores por el memorando de alto vuelo...",
+        "fecha": "2026-07-06T17:12:06+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "El calor récord y las multitudes impulsan el auge de los viajes internacionales fuera de temporada",
-        "enlace": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-        "desc": "Las aerolíneas están ampliando los horarios de vuelos para maximizar los lucrativos viajes internacionales.",
-        "fecha": "2026-07-06T14:11:45+00:00",
+        "titulo": "Versant acuerda comprar la empresa de simuladores de golf Full Swing por 530 millones de dólares",
+        "enlace": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
+        "desc": "El acuerdo por Full Swing ampliará los activos de medios no tradicionales de Versant en un esfuerzo por diversificar los ingresos de la televisión por cable.",
+        "fecha": "2026-07-06T12:53:00+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "US Service Sector Expands at a Slower Pace, Hiring Picks Up",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up",
-        "desc": "The US service sector expanded in June at a slightly slower pace, but firms boosted payrolls as cost pressures eased.",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "Ondas to Buy Military Drone Maker DZYNE for $875.8 Million",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+        "desc": "Ondas Inc. agreed to buy autonomous aircraft maker DZYNE Technologies in an $875.8 million cash-and stock-deal that positions Ondas as a full-service autonomous defense technology …",
+        "fecha": "2026-07-06T11:00:00+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Trump rings NYSE, Nasdaq opening bells from White House to celebrate launch of Trump Accounts",
-        "enlace": "https://www.foxbusiness.com/politics/trump-rings-nyse-nasdaq-opening-bells-celebrate-launch-trump-accounts",
-        "desc": "President Donald Trump marked the launch of Trump Accounts by ringing the opening bell for the New York Stock Exchange and Nasdaq from the White House.",
-        "fecha": "2026-07-06T09:27:37-04:00",
+        "titulo": "Former acting ICE director reveals 'biggest issue' with Biden policy that made Americans 'losers' in housing",
+        "enlace": "https://www.foxbusiness.com/media/former-acting-ice-director-reveals-biggest-issue-biden-policy-made-americans-losers-housing",
+        "desc": "A Federal Reserve Bank of Dallas working paper links the 2021-2024 illegal immigration surge to a 2.2% rise in home prices and 1.4% jump in rents.",
+        "fecha": "2026-07-06T13:40:56-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Versant agrees to buy golf simulator company Full Swing for $530 million",
-        "enlace": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
-        "desc": "The deal for Full Swing will expand Versant's nontraditional media assets in an effort to diversify revenue from cable television.",
-        "fecha": "2026-07-06T12:53:00+00:00",
+        "titulo": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+        "enlace": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+        "desc": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
+        "fecha": "2026-07-06T15:36:23+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1189,24 +1175,24 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "US Service Sector Expands at a Slower Pace",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/us-service-sector-expands-at-a-slower-pace-video",
-        "desc": "The US service sector expanded in June at a slightly slower pace, with the Institute for Supply Management’s services index decreasing 0.5 point to 54. Mike McKee reports on \"Bloom…",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
+        "desc": "SK Hynix kicked off the formal marketing process for its US listing on Monday, as the South Korean chipmaker looks to capitalize on surging investor demand for the high-flying memo…",
+        "fecha": "2026-07-06T17:12:06+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "DOGE website deactivates after reaching self-termination deadline: 'Come to an end'",
-        "enlace": "https://www.foxbusiness.com/politics/doge-website-deactivates-after-reaching-self-termination-deadline-come-end",
-        "desc": "DOGE claims it saved $215 billion before reaching its July 4 self-termination date, but the cost-cutting agency fell far short of its original goals.",
-        "fecha": "2026-07-06T00:49:55-04:00",
+        "titulo": "Hyundai Motor brings Boston Dynamics' Atlas humanoid robot to FIFA World Cup in groundbreaking activation",
+        "enlace": "https://www.foxbusiness.com/sports/hyundai-motor-brings-boston-dynamics-atlas-humanoid-robot-fifa-world-cup-groundbreaking-activation",
+        "desc": "Hyundai Motor Company integrated Atlas, Boston Dynamics&apos; advanced humanoid robot, at halftime during the Round of 16 match between Brazil and Norway at the FIFA World Cup on S…",
+        "fecha": "2026-07-06T11:16:56-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Record heat, crowds drive offseason boom in international travel",
-        "enlace": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-        "desc": "Airlines are extending flight schedules to maximize on lucrative international travel.",
-        "fecha": "2026-07-06T14:11:45+00:00",
+        "titulo": "Versant agrees to buy golf simulator company Full Swing for $530 million",
+        "enlace": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
+        "desc": "The deal for Full Swing will expand Versant's nontraditional media assets in an effort to diversify revenue from cable television.",
+        "fecha": "2026-07-06T12:53:00+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1219,93 +1205,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Le secteur des services américain se développe à un rythme plus lent et les embauches augmentent",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up",
-        "desc": "Le secteur des services américain s'est développé à un rythme légèrement plus lent en juin, mais les entreprises ont augmenté leurs effectifs à mesure que les pressions sur les coûts s'atténuaient.",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "Ondas va acheter le fabricant de drones militaires DZYNE pour 875,8 millions de dollars",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+        "desc": "Ondas Inc. a accepté d'acheter le constructeur d'avions autonomes DZYNE Technologies dans le cadre d'une transaction en espèces et en actions de 875,8 millions de dollars qui positionne Ondas comme une technologie de défense autonome à service complet…",
+        "fecha": "2026-07-06T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Le secteur des services américain se développe à un rythme plus lent",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/us-service-sector-expands-at-a-slower-pace-video",
-        "desc": "Le secteur des services américain a progressé en juin à un rythme légèrement plus lent, l'indice des services de l'Institute for Supply Management ayant diminué de 0,5 point à 54. Mike McKee rapporte sur « Bloom…",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "Le fabricant de puces mémoire SK Hynix lance une cotation de 28 milliards de dollars aux États-Unis",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
+        "desc": "SK Hynix a lancé lundi le processus de commercialisation formel de sa cotation aux États-Unis, alors que le fabricant de puces sud-coréen cherche à capitaliser sur la demande croissante des investisseurs pour le mémo de haut vol…",
+        "fecha": "2026-07-06T17:12:06+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Dax aktuell: Dax knackt wieder Rekord – Chipaktien im Minus",
-        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-knackt-wieder-rekord-chipaktien-im-minus/100238093.html",
-        "desc": "Nach zuletzt starken Handelstagen bleibt die Stimmung am deutschen Aktienmarkt gut. Konjunkturzahlen könnten sich positiv auswirken. Die Rekordjagd geht weiter.",
-        "fecha": "2026-07-06T14:24:57+00:00",
+        "titulo": "WM 2026: Sportrechtler über Trumps Anruf – „Es droht nun der offene, bewusste Eingriff in den Wettbewerb“",
+        "enlace": "https://www.handelsblatt.com/politik/international/wm-2026-es-droht-nun-der-offene-bewusste-eingriff-in-den-wettbewerb/100238214.html",
+        "desc": "Es ist ein beispielloser Vorgang: Der Präsident hat bei Gianni Infantino erwirkt, dass der beste US-Stürmer gegen Belgien auflaufen darf. Experten fürchten um die Folgen für den We…",
+        "fecha": "2026-07-06T17:32:59+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Der US-Dienstleistungssektor wächst langsamer, die Einstellung nimmt zu",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up",
-        "desc": "Der US-Dienstleistungssektor wuchs im Juni etwas langsamer, aber die Unternehmen steigerten ihre Beschäftigungszahlen, da der Kostendruck nachließ.",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "Ondas kauft den Militärdrohnenhersteller DZYNE für 875,8 Millionen US-Dollar",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+        "desc": "Ondas Inc. stimmte dem Kauf des autonomen Flugzeugherstellers DZYNE Technologies im Rahmen eines Bar- und Aktiengeschäfts in Höhe von 875,8 Millionen US-Dollar zu, der Ondas als autonomen Verteidigungstechnologieanbieter mit umfassendem Service positioniert …",
+        "fecha": "2026-07-06T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Videospiele: Microsoft streicht tausende Jobs im Xbox-Spielegeschäft",
-        "enlace": "https://www.handelsblatt.com/technik/it-internet/videospiele-microsoft-streicht-tausende-jobs-im-xbox-spielegeschaeft/100238257.html",
-        "desc": "Microsoft wollte sein Xbox-Geschäft mit dem 69 Milliarden Dollar teuren Kauf des Konzerns Activision Blizzard stärken - doch die Sparte kämpft trotzdem mit Problemen. Jetzt soll ei…",
-        "fecha": "2026-07-06T14:21:02+00:00",
+        "titulo": "Wall Street: Trump läutet die Börsenglocke – und der Dow Jones erreicht den nächsten Meilenstein",
+        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/wall-street-trump-laeutet-boersenglocke-dow-jones-erreicht-meilenstein/100238238.html",
+        "desc": "Aus dem Oval Office eröffnet der US-Präsident den Börsenhandel am Montag. Daraufhin steigt der Leitindex Dow Jones erstmals in seiner Historie über die Marke von 53.000 Punkte.",
+        "fecha": "2026-07-06T17:28:31+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Der US-Dienstleistungssektor wächst langsamer",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/us-service-sector-expands-at-a-slower-pace-video",
-        "desc": "Der US-Dienstleistungssektor wuchs im Juni etwas langsamer, wobei der Dienstleistungsindex des Institute for Supply Management um 0,5 Punkte auf 54 sank. Mike McKee berichtet über „Bloom…“",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "Speicherchip-Hersteller SK Hynix startet US-Börsengang im Wert von 28 Milliarden US-Dollar",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
+        "desc": "SK Hynix hat am Montag den formellen Marketingprozess für seine US-Notierung eingeleitet, da der südkoreanische Chiphersteller versucht, von der steigenden Investorennachfrage nach dem hochfliegenden Memo zu profitieren …",
+        "fecha": "2026-07-06T17:12:06+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Il settore dei servizi negli Stati Uniti si espande a un ritmo più lento, le assunzioni aumentano",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up",
-        "desc": "Il settore dei servizi statunitense è cresciuto a giugno a un ritmo leggermente più lento, ma le aziende hanno incrementato gli occupati con l’attenuarsi della pressione sui costi.",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "Ondas acquisterà il produttore di droni militari DZYNE per 875,8 milioni di dollari",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+        "desc": "Ondas Inc. ha accettato di acquistare il produttore di aerei autonomi DZYNE Technologies in un accordo da 875,8 milioni di dollari in contanti e azioni che posiziona Ondas come una tecnologia di difesa autonoma a servizio completo...",
+        "fecha": "2026-07-06T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Il settore dei servizi statunitense si espande a un ritmo più lento",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/us-service-sector-expands-at-a-slower-pace-video",
-        "desc": "Il settore dei servizi statunitense è cresciuto a giugno a un ritmo leggermente più lento, con l'indice dei servizi dell'Institute for Supply Management in calo di 0,5 punti a 54. Mike McKee riferisce su \"Bloom...",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "Il produttore di chip di memoria SK Hynix lancia la quotazione negli Stati Uniti da 28 miliardi di dollari",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
+        "desc": "Lunedì SK Hynix ha dato il via al processo di marketing formale per la sua quotazione negli Stati Uniti, mentre il produttore di chip sudcoreano cerca di trarre vantaggio dalla crescente domanda degli investitori per il memo ad alta quota...",
+        "fecha": "2026-07-06T17:12:06+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Fisco aplica IRS sobre mais-valias reinvestidas na compra de imóvel em ruínas",
-        "enlace": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/fisco-aplica-irs-sobre-mais-valias-reinvestidas-na-compra-de-imovel-em-ruinas",
-        "desc": "Informação vinculativa publicada no Portal das Finanças.",
-        "fecha": "2026-07-06T15:03:46+01:00",
+        "titulo": "Portugal 2 – Espanha 2",
+        "enlace": "https://www.jornaldenegocios.pt/opiniao/detalhe/portugal-2-espanha-2",
+        "desc": "Portugal marca golos nas contas públicas e no mercado de obrigações, enquanto Espanha leva a melhor no crescimento da economia e valorização das ações.",
+        "fecha": "2026-07-06T18:09:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Setor de serviços dos EUA se expande em ritmo mais lento, contratações aumentam",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/us-service-sector-expands-at-a-slower-pace-hiring-picks-up",
-        "desc": "O sector dos serviços dos EUA expandiu-se em Junho a um ritmo ligeiramente mais lento, mas as empresas aumentaram as folhas de pagamento à medida que as pressões sobre os custos diminuíram.",
-        "fecha": "2026-07-06T14:00:00+00:00",
+        "titulo": "Ondas comprará fabricante de drones militares DZYNE por US$ 875,8 milhões",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-06/ondas-to-buy-autonomous-aircraft-maker-dzyne-for-875-8-million",
+        "desc": "concordou em comprar a fabricante de aeronaves autônomas DZYNE Technologies em um acordo de US$ 875,8 milhões em dinheiro e ações que posiciona a Ondas como uma tecnologia de defesa autônoma de serviço completo…",
+        "fecha": "2026-07-06T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Lockheed Martin chega a acordo para comprar Ultra Maritime por 3,45 mil milhões de dólares",
-        "enlace": "https://www.jornaldenegocios.pt/economia/defesa/detalhe/lockheed-martin-chega-a-acordo-para-comprar-ultra-maritime-por-3-45-mil-milhoes-de-dolares",
-        "desc": "A empresa detida pela capital de risco Advent conta com clientes que vão desde a marinha norte-americana, à do Canadá, Reino Unido e ainda Austrália. Dedica-se ao desenvolvimento d…",
-        "fecha": "2026-07-06T15:00:00+01:00",
+        "titulo": "Portugal vai estudar interligação elétrica com Marrocos",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/portugal-vai-estudar-interligacao-eletrica-com-marrocos",
+        "desc": "Maria da Graça Carvalho vai receber \"dentro de dias\" a ministra da Energia de Marrocos para avaliar a viabilidade de uma interligação elétrica entre os dois países. Anúncio foi fei…",
+        "fecha": "2026-07-06T17:50:42+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Setor de serviços dos EUA se expande em ritmo mais lento",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/us-service-sector-expands-at-a-slower-pace-video",
-        "desc": "O setor de serviços dos EUA expandiu-se em junho a um ritmo ligeiramente mais lento, com o índice de serviços do Institute for Supply Management a diminuir 0,5 pontos, para 54. Mike McKee relata em \"Bloom…",
-        "fecha": "2026-07-06T14:21:06+00:00",
+        "titulo": "Fabricante de chips de memória SK Hynix inicia listagem de US$ 28 bilhões nos EUA",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
+        "desc": "A SK Hynix iniciou o processo formal de marketing para sua listagem nos EUA na segunda-feira, enquanto a fabricante de chips sul-coreana busca capitalizar a crescente demanda dos investidores pelo memorando de alto nível…",
+        "fecha": "2026-07-06T17:12:06+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
