@@ -1,79 +1,93 @@
 {
-  "actualizado": "2026-07-10T20:27:04.952324+00:00",
+  "actualizado": "2026-07-10T22:09:29.515236+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Ya son más de 1.400 los desalojados del incendio de Los Gallardos",
-        "enlace": "https://www.abc.es/espana/andalucia/almeria/1400-desalojados-incendio-gallardos-20260710220008-nts.html",
-        "desc": "Ya son más de 1. 400 los desalojados por el incendio de Los Gallardos. La Dirección de la Emergencia ha ordenado en la tarde este viernes nuevos desalojos preventivos en La Alameda…",
-        "fecha": "2026-07-10T22:00:09+02:00",
+        "titulo": "Fallece un joven de 16 años por las graves quemaduras sufridas en un incendio en Jaén",
+        "enlace": "https://www.abc.es/espana/andalucia/jaen/fallece-joven-anos-graves-quemaduras-sufridas-incendio-20260710190702-nts.html",
+        "desc": "El joven de 16 años que sufrió ayer graves quemaduras en un incendio en el municipio jiennense de Andújar ha fallecido esta mañana. Pese a ser evacuado en un helicóptero desde el H…",
+        "fecha": "2026-07-10T23:50:47+02:00",
         "fuente": "ABC"
       },
       {
-        "titulo": "Al menos doce personas mueren en el incendio forestal de Los Gallardos (Almería) al tratar de huir de las llamas",
-        "enlace": "https://www.elmundo.es/andalucia/2026/07/10/6a50257afdddffc3588b45c9.html",
-        "desc": "Algunas de las víctimas han sido halladas en el interior de vehículos que fueron alcanzados por el fuego, según confirma la Junta&nbsp; Leer",
-        "fecha": "2026-07-10T15:00:44+02:00",
+        "titulo": "Simplemente Mikel: otro gol de Merino en el último suspiro manda a España a semifinales del Mundial por segunda vez en su historia",
+        "enlace": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/10/6a513e27fdddffa3518b4578.html",
+        "desc": "Empuja un rechace del portero en el minuto 88 y lleva a España al penúltimo escalón tras otro ejercicio de competitividad contra Bélgica. El próximo martes, en Dallas, espera Franc…",
+        "fecha": "2026-07-10T23:19:55+02:00",
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Al menos doce muertos y 23 desaparecidos por el incendio de Los Gallardos (Almería)",
-        "enlace": "https://www.libertaddigital.com/andalucia/2026-07-10/al-menos-once-personas-muertas-por-el-incendio-de-los-gallardos-almeria-7433523/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El consejero andaluz de Presidencia, Antonio Sanz, ha calificado la situación de &quot;tragedia sin precedentes&quot;.",
-        "fecha": "2026-07-10T06:15:17+02:00",
+        "titulo": "Pedraz imputa al exjefe de Gabinete de Sánchez, Juanma Serrano, en el caso de las cloacas del PSOE",
+        "enlace": "https://www.libertaddigital.com/espana/2026-07-10/pedraz-imputacion-exjefe-gabinete-sanchez-juanma-serrano-caso-cloacas-psoe-7433630/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Fuentes fiscales consultadas por Libertad Digital afirman que &quot;la imputación de Juanma Serrano sería por un delito de organización criminal&quot;.",
+        "fecha": "2026-07-10T11:15:38+02:00",
         "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "Cómo va el España vs Bélgica, en directo: quién ha metido de la selección en el Mundial",
-        "enlace": "https://theobjective.com/deportes/futbol/mundial/2026-07-10/espana-belgica-directo-mundial-2026/directo/",
-        "desc": "",
-        "fecha": "2026-07-10T20:25:53+00:00",
-        "fuente": "The Objective"
       },
       {
         "titulo": "Los trenes de alta velocidad entre Andalucía y Madrid registran retrasos por un robo de cable en Toledo",
         "enlace": "https://www.elconfidencial.com/espana/2026-07-10/trenes-alta-velocidad-andalucia-madrid-retrasos-robo-cable-toledo_4388178/",
         "desc": "Adif ha detallado que están trabajando para solucionar \"a la mayor brevedad\" esta incidencia, que también se vivió este pasado martes y el miércoles, en otras dos situaciones disti…",
-        "fecha": "2026-07-10T20:27:08.426547+00:00",
+        "fecha": "2026-07-10T22:09:42.926162+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "650 minutos después: Bélgica acaba con el récord de Unai Simón",
-        "enlace": "https://okdiario.com/mundial/650-minutos-despues-belgica-acaba-record-unai-simon-18973728",
-        "desc": "La imbatibilidad de Unai Simón llegó a su fin, pero no sin antes entrar para siempre en la historia de los Mundiales. El guardameta de la selección española encajó su primer gol de…",
-        "fecha": "2026-07-10T22:02:46+02:00",
+        "titulo": "Colón volvió a ser una fiesta: así se festejó el gol de Mikel Merino para ganar a Bélgica",
+        "enlace": "https://okdiario.com/mundial/colon-volvio-ser-fiesta-asi-festejo-gol-mikel-merino-ganar-belgica-18974420",
+        "desc": "La plaza de Colón, el lugar en el que se han colocado las principales pantallas gigantes en Madrid, vibró con el gol de Mikel Merino a Bélgica, otro tanto épico del futbolista nava…",
+        "fecha": "2026-07-11T00:04:11+02:00",
         "fuente": "OKDiario"
       },
       {
-        "titulo": "Siete horas sin viento, la esperanza de frenar el fuego de Los Gallardos: 12 muertos y al menos siete desaparecidos",
-        "enlace": "https://www.elespanol.com/espana/andalucia/20260710/confiamos-frene-viento-avanzar-lucha-fuego-arrasado-vidas-sigue-gallardos/1003744317480_0.html",
-        "desc": "Un poste eléctrico de un \"particular\" sería el origen de las llamas, que se propagaron a velocidad vertiginosa en un entorno quebrado. La mayoría de los fallecidos son extranjeros,…",
-        "fecha": "2026-07-10T21:37:36+02:00",
+        "titulo": "España se mete en semifinales del Mundial por segunda vez en la historia con otra heroicidad de Mikel Merino",
+        "enlace": "https://www.elespanol.com/deportes/futbol/mundial/20260710/espana-mete-semifinales-mundial-segunda-vez-historia-heroicidad-mikel-merino/1003744318017_0.html",
+        "desc": "Un gol del jugador navarro en el minuto 88 volvió a ser clave y le dio el triunfo a la Selección ante una combativa Bélgica.",
+        "fecha": "2026-07-10T22:59:20+02:00",
         "fuente": "El Español"
       },
       {
-        "titulo": "Renuncia al cargo el director general de Andalucía Global, salpicado por una operación de blanqueo en Cádiz",
-        "enlace": "https://www.abc.es/espana/andalucia/cadiz/renuncia-cargo-director-general-andalucia-global-salpicado-20260710212859-nts.html",
-        "desc": "Jorge Vázquez, director general de Andalucía Global, ha anunciado su renuncia al cargo tras ser nombrado en uno de los grupos de redes sociales intervenidos al grupo de empresarios…",
-        "fecha": "2026-07-10T21:33:10+02:00",
+        "titulo": "García Page ofrece su ayuda y dice que hoy «se siente Andalucía»",
+        "enlace": "https://www.abc.es/espana/andalucia/almeria/garcia-page-ofrece-ayuda-dice-hoy-siente-20260710223444-nts.html",
+        "desc": "Las muestras de apoyo por el incendio de Los Gallardos en Almería se siguen sucediendo. El presidente de Castilla-La Mancha, Emiliano García-Page, ha ofrecido este viernes la ayuda…",
+        "fecha": "2026-07-10T22:34:44+02:00",
         "fuente": "ABC"
       },
       {
-        "titulo": "Las víctimas del incendio de Los Gallardos trataron de escapar por una rambla que se convirtió en una \"verdadera trampa\": seis coches quemados y un camino de tierra sin salida",
-        "enlace": "https://www.elmundo.es/andalucia/2026/07/10/6a50964ae9cf4a98178b4574.html",
-        "desc": "Hay cuatro coches y una moto calcinados y otros dos aún enteros, aunque con algunos restos derretidos. Uno tiene el volante al lado derecho, es un Honda Accord y su matrícula es es…",
-        "fecha": "2026-07-10T17:38:50+02:00",
+        "titulo": "Un cambio talismán y los goles de los padres: \"Las casualidades no existen, si estás preparado, te caen\"",
+        "enlace": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/10/6a51629fe85ece63638b4582.html",
+        "desc": "Merino, que dio suerte a De la Fuente desde adolescente, rescata a España con otro gol para sumar al de Fabián, que dedicó a su hijo.&nbsp; Leer",
+        "fecha": "2026-07-10T23:29:00+02:00",
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Juanma Moreno, en esRadio: &quot;Todo parece indicar que ha sido un cable eléctrico&quot;",
-        "enlace": "https://www.libertaddigital.com/espana/2026-07-10/el-presidente-de-andalucia-juan-manuel-moreno-7433621/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "En este sentido, el presidente de la Junta de Andalucía, Juan Manuel Moreno, ha intervenido en el programa Es La Mañana de Federico.",
-        "fecha": "2026-07-10T11:05:35+02:00",
+        "titulo": "España, a semifinales por segunda vez en la historia (2-1)",
+        "enlace": "https://www.libertaddigital.com/deportes/futbol/2026-07-10/espana-a-semifinales-por-segunda-vez-en-la-historia-2-1-7434181/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Mikel Merino, una vez más, dio el triunfo a España en el 88 .",
+        "fecha": "2026-07-10T23:32:15+02:00",
         "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "El Supremo reclama al partido de Alvise sus cuentas por la presunta financiación ilegal para las elecciones europeas",
+        "enlace": "https://www.elconfidencial.com/espana/2026-07-10/supremo-reclama-salf-alvise-cuentas-financiacion-ilegal-europeas_4388084/",
+        "desc": "El magistrado instructor, accede a diligencias solicitadas por la acusación que ejerce el PSOE y relacionadas con los 100.000 euros que dio a Alvise el empresario de criptomonedas …",
+        "fecha": "2026-07-10T22:09:42.926209+00:00",
+        "fuente": "El Confidencial"
       }
     ],
     "nacional_us": [
+      {
+        "titulo": "Yale student charged after alleged sex assault on packed Manhattan subway train, attorney pushes back",
+        "enlace": "https://www.foxnews.com/us/yale-student-charged-alleged-sex-assault-packed-manhattan-subway-train-attorney-pushes-back",
+        "desc": "Ari Shtein, 18, faces sexual abuse and forcible touching charges after an alleged assault on a Manhattan subway train, but his attorney calls it false.",
+        "fecha": "2026-07-10T17:21:43-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
+        "enlace": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
+        "desc": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace h…",
+        "fecha": "2026-07-10T17:22:01-04:00",
+        "fuente": "NPR"
+      },
       {
         "titulo": "Cause of death revealed for American mother murdered in Ireland: report",
         "enlace": "https://www.foxnews.com/us/cause-death-revealed-american-mother-murdered-ireland-report",
@@ -87,50 +101,36 @@
         "desc": "Patriotic art and music is taking center stage this year under the Trump Administration, as funds shift away from DEI. For some orgs, like the Reagan Presidential Library, this is …",
         "fecha": "2026-07-10T16:00:00-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "NJ husband begs for CPR help in 911 call after wife found dead with stab wounds: audio",
-        "enlace": "https://www.foxnews.com/us/nj-husband-begs-cpr-help-911-call-after-wife-found-dead-stab-wounds-audio",
-        "desc": "Conor Hanlon&apos;s 911 call captures him frantically requesting CPR instructions after finding wife Brooke Hanlon unconscious and bloodied on their floor.",
-        "fecha": "2026-07-10T15:23:36-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
-        "enlace": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
-        "desc": "Lorenzo Salgado Araujo was a 52-year-old Mexican national who worked in construction for more than three decades. The father of three was shot by Immigration and Customs Enforcemen…",
-        "fecha": "2026-07-10T15:08:57-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Una travesía a la Quebrada de Humahuaca, un choque frontal y dos motociclistas de enduro muertos",
-        "enlace": "https://www.clarin.com/sociedad/travesia-quebrada-humahuaca-choque-frontal-motociclistas-enduro-muertos_0_tWZrsNDplD.html",
-        "desc": "Martín Blasco y Raúl Becker participaban de una expedición a Jujuy cuando impactaron contra un auto en la Ruta Nacional 9, en Jujuy. Dos acompañantes resultaron ilesas. La despedid…",
-        "fecha": "2026-07-10T19:15:18+00:00",
+        "titulo": "Así está la llave de semifinales del Mundial 2026: Francia y España, la primera llave confirmada",
+        "enlace": "https://www.clarin.com/deportes/llave-semifinales-mundial-2026-francia-espana-primera-llave-confirmada_0_FUu9zx1EJA.html",
+        "desc": "La Roja venció a Bélgica sobre el final y se metió entre los cuatro mejores del torneo, donde se enfrentará a la Francia de Kylian Mbappé. Del otro lado del cuadro, Noruega se enfr…",
+        "fecha": "2026-07-10T21:16:41+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "España vs. Bélgica, EN VIVO por el Mundial 2026: el minuto a minuto del partido",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-belgica-en-vivo-por-el-mundial-2026-nid10072026/",
-        "desc": "El partido se juega en Los Angeles Stadium; Francia espera en semifinales",
-        "fecha": "2026-07-10T20:24:59+00:00",
+        "titulo": "Florida cancela la primaria especial en este distrito: quiénes votarán directamente el 3 de noviembre",
+        "enlace": "https://www.lanacion.com.ar/estados-unidos/florida/florida-cancela-la-primaria-especial-en-este-distrito-quienes-votaran-directamente-el-3-de-noviembre-nid10072026/",
+        "desc": "¿Por qué Florida cancela la primaria especial en el Distrito 21? Descubre el impacto de esta medida y quiénes votarán directo el 3 de noviembre.",
+        "fecha": "2026-07-10T22:07:26+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "El exabrupto de Luca Martín contra Eduardo Feinmann por sus polémicos dichos sobre los mexicanos",
-        "enlace": "https://www.clarin.com/fama/exabrupto-luca-martin-eduardo-feinmann-polemicos-dichos-mexicanos_0_Tw9RSwjGH5.html",
-        "desc": "Cruzó al periodista por criticar a los mexicanos tras la derrota ante Inglaterra en el Mundial. El panelista de Bendita TV también cuestionó sus controversiales dichos al comparar …",
-        "fecha": "2026-07-10T19:10:49+00:00",
+        "titulo": "Confirman que la Justicia de EE.UU. investiga giros sospechosos de la AFA que podrían ser encuadrados como lavado, evasión o fraude bancario",
+        "enlace": "https://www.clarin.com/politica/confirman-justicia-eeuu-investiga-giros-sospechosos-afa-podrian-encuadrados-lavado-evasion-fraude-bancario_0_ZW1BH5atni.html",
+        "desc": "Por primera vez, el empresario Guillermo Tofoni confirmó que existe una investigación preliminar del FBI y de tres fiscales de Estados Unidos. Pero se negó a confirmar si ya declar…",
+        "fecha": "2026-07-10T21:09:38+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Un nene se salió del libreto y alentó a la selección argentina en pleno acto por el Día de la Independencia: “Vamos por la cuarta”",
-        "enlace": "https://www.lanacion.com.ar/sociedad/un-nene-se-salio-del-libreto-y-alento-a-la-seleccion-argentina-en-pleno-acto-por-el-dia-de-la-nid10072026/",
-        "desc": "Ocurrió en un colegio de Flores; el alumno cerró el discurso con un mensaje de apoyo al equipo dirigido por Lionel Scaloni; el video se volvió viral y fue celebrado por la propia i…",
-        "fecha": "2026-07-10T20:19:51+00:00",
+        "titulo": "Noticias sobre el pasaporte americano 2026: el cambio en la foto que hará más rápido el trámite",
+        "enlace": "https://www.lanacion.com.ar/estados-unidos/noticias-sobre-el-pasaporte-americano-2026-el-cambio-en-la-foto-que-hara-mas-rapido-el-tramite-nid10072026/",
+        "desc": "Evita las oficinas: conoce las noticias sobre el pasaporte americano 2026 y el cambio en la foto que agilizará el trámite mediante una carga virtual.",
+        "fecha": "2026-07-10T22:05:00+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -144,17 +144,17 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "ChatGPT 5.6 retardé, Mythos interdit en Europe... Qu’est-ce qui est si dangereux dans le déploiement des nouveaux modèles d’IA ?",
-        "enlace": "https://www.lefigaro.fr/secteur/high-tech/chatgpt-5-6-retarde-mythos-interdit-en-europe-qu-est-ce-qui-est-si-dangereux-dans-le-deploiement-des-nouveaux-modeles-d-ia-20260710",
-        "desc": "DÉCRYPTAGE - Modèle brutalement coupé, utilisateurs sélectionnés... Washington a décidé de prendre davantage le contrôle de cette nouvelle technologie. Mais pour quelle raison ?",
-        "fecha": "2026-07-10T18:45:00+02:00",
+        "titulo": "Le bruit, la fureur et le culte du chef : la campagne tambour battant de LFI pour conquérir l’Élysée",
+        "enlace": "https://www.lefigaro.fr/politique/melenchon-a-reussi-a-faire-monter-une-generation-cette-campagne-orchestre-sur-laquelle-mise-lfi-pour-conquerir-l-elysee-20260710",
+        "desc": "Autour de Jean-Luc Mélenchon, l’ensemble du mouvement Insoumis se déploie dans une campagne sous haute tension.",
+        "fecha": "2026-07-10T23:41:31+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Le prince Harry, Meghan et leurs enfants reçus par Charles III pour la première fois en quatre ans",
-        "enlace": "https://www.france24.com/fr/europe/20260710-prince-harry-meghan-enfants-re%C3%A7us-charles-iii-premi%C3%A8re-fois-quatre-ansarchie-lilibet",
-        "desc": "Charles III et son épouse Camilla ont reçu vendredi le prince Harry, Meghan et leurs deux enfants, selon plusieurs médias britanniques. Installé en Californie depuis sa rupture fra…",
-        "fecha": "2026-07-10T20:02:58+00:00",
+        "titulo": "Présidentielle 2027 : IA, fake news et ingérences, une bataille perdue d'avance?",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20260710-pr%C3%A9sidentielle-2027-ia-fake-news-et-ing%C3%A9rences-une-bataille-perdue-d-avance",
+        "desc": "Alors que la liste des candidats pour la présidentielle de 2027 se précise chaque semaine un peu plus, les coups bas devraient commencer à se multiplier sur la toile tout comme les…",
+        "fecha": "2026-07-10T21:53:30+00:00",
         "fuente": "France 24"
       },
       {
@@ -165,63 +165,63 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "EN DIRECT - Espagne-Belgique : tout reste à faire entre la Roja et les Diables Rouges, qui rejoindra la France en demi-finale ?",
-        "enlace": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608356/espagne-belgique",
-        "desc": "L’Espagne, championne d’Europe en titre, affronte la surprenante Belgique en quarts de finale de la Coupe du monde 2026 ce vendredi. À la clé : un billet pour défier les Bleus en d…",
-        "fecha": "2026-07-10T22:25:03+02:00",
+        "titulo": "Présidentielle 2027 : que disent les derniers sondages ?",
+        "enlace": "https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20260710",
+        "desc": "INFOGRAPHIE – Le Figaro vous propose un outil qui agrège l’ensemble des sondages publiés, les différents scénarios testés et un classement des candidats fondé sur ces tendances.",
+        "fecha": "2026-07-10T18:30:18+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Reprise des hostilités Iran/USA, Sommet de l'OTAN, Marine Le Pen condamnée",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260710-reprise-des-hostilit%C3%A9s-iran-usa-sommet-de-l-otan-marine-le-pen-condamn%C3%A9e",
-        "desc": "Au sommaire de l'émission: la reprise des hostilités entre l'Iran et les Etats-Unis, moins de 3 semaines après la signature du protocole d'accord; le 36ème sommet de l'OTAN en Turq…",
-        "fecha": "2026-07-10T19:05:01+00:00",
+        "titulo": "Mondial 2026 : l'Espagne rejoint la France en demi-finale malgré la résistance belge",
+        "enlace": "https://www.france24.com/fr/sports/20260710-mondial-2026-l-espagne-rejoint-la-france-en-demi-finale-malgr%C3%A9-la-r%C3%A9sistance-belge",
+        "desc": "",
+        "fecha": "2026-07-10T20:59:45+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Fußball-WM 2026 im Liveticker: Belgien vs Spanien",
-        "enlace": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-belgien-vs-spanien-a-a5b5db2e-1f2d-4614-a3cd-3239a9777543#ref=rss",
-        "desc": "Bedrohlicher als ein Star Wars-Bösewicht: Belgiens Jérémy Doku macht im Viertelfinale ein starkes Spiel und leitet jetzt auch noch Großchancen ein. Wie lange geht das für Spanien g…",
-        "fecha": "2026-07-10T22:20:00+02:00",
+        "titulo": "Fußball-WM 2026: Belgien unterliegt Spanien: Ein belgischer Nackenschlag zu viel",
+        "enlace": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-belgien-unterliegt-spanien-ein-belgischer-nackenschlag-zu-viel-a-ecc88f1f-89a3-4e9b-884c-c448033ca1e4#ref=rss",
+        "desc": "Vor dem Anpfiff musste der Kapitän passen, dann verließ die Torwartlegende verletzt den Platz – und sein Vertreter patzte. Belgien unterliegt nach großem Kampf Spanien und seinem S…",
+        "fecha": "2026-07-10T23:37:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Fußball-WM 2026: Erstes WM-Gegentor für Spanien seit 649 Minuten",
-        "enlace": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
-        "desc": "De Ketelaere schießt das erste Tor gegen Spanien bei dieser WM. Tielemans verletzt sich beim Aufwärmen. 50 Millionen Amerikaner sahen ihr Team ausscheiden. Das Liveblog",
-        "fecha": "2026-07-10T20:00:48",
+        "titulo": "WM 2026: Spanien schlägt Belgien und steht im WM-Halbfinale",
+        "enlace": "https://www.zeit.de/sport/2026-07/spanien-belgien-wm-viertelfinale-fussball",
+        "desc": "Lange hält Belgien gegen Spanien ein Unentschieden. Dann wird Belgiens Torwart Thibaut Courtois verletzt ausgewechselt – und sein Nachfolger patzt. Der Spielbericht",
+        "fecha": "2026-07-10T21:52:09",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Royals: König Charles empfängt Prinz Harry und seine Familie in privatem Rahmen",
-        "enlace": "https://www.spiegel.de/panorama/leute/royals-koenig-charles-empfaengt-prinz-harry-und-seine-familie-in-privatem-rahmen-a-45911913-2ad1-4cd6-b70a-8dad4d637dbb#ref=rss",
-        "desc": "König Charles III. hat seinen Sohn Prinz Harry und dessen Familie nach Jahren erstmals wieder getroffen. Ob das private Wiedersehen den Beginn einer Annäherung markiert, ist jedoch…",
-        "fecha": "2026-07-10T21:44:00+02:00",
+        "titulo": "Fußball-WM 2026 im Liveticker: Drei Erkenntnisse aus Spanien - Belgien",
+        "enlace": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-drei-erkenntnisse-aus-spanien-belgien-a-a5b5db2e-1f2d-4614-a3cd-3239a9777543#ref=rss",
+        "desc": "Spanien hat das beste Mittelfeld der Welt. Belgien hatte einfach zu viele Verletzungsfälle. Und Lamine Yamal muss sich steigern. Alles zum WM-Viertelfinale zum Nachlesen.",
+        "fecha": "2026-07-10T23:15:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "CDU-Berlin: Berliner Finanzsenator Evers soll CDU-Spitzenkandidat in Berlin werden",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-07/stefan-evers-cdu-berlin-abgeordnetenhauswahl",
-        "desc": "Nach dem Kandidaturverzicht Kai Wegners als CDU-Spitzenkandidat für die Wahl im September gibt es einen neuen Kandidaten. Stefan Evers soll die CDU in die Wahl führen.",
-        "fecha": "2026-07-10T19:40:35",
+        "titulo": "Migrationspolitik der USA: Zeugen widersprechen ICE nach tödlichen Schüssen auf Mexikaner",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-07/ice-schuesse-houston-lorenzo-salgado-notwehr",
+        "desc": "Ein Mexikaner kam in Houston durch Schüsse eines ICE-Agenten ums Leben. US-Zeugen widersprechen nun der Darstellung, es habe sich um »Notwehr« gehandelt.",
+        "fecha": "2026-07-10T21:26:58",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Il cardinale di Napoli Battaglia: “Quella pistola al vertice Nato è lo scandalo che si fa souvenir”",
-        "enlace": "https://www.repubblica.it/politica/2026/07/10/news/domenico_battaglia_cardinale_napoli_regalo_pistola_vertice_nato_ankara-425463951/",
-        "desc": "Lettera contro la violenza normalizzata del summit di Ankara, contro l’arma-cadeau donata ai padroni del mondo, l’immagine straniante su cui si sono chiusi i lavori del vertice Nat…",
-        "fecha": "2026-07-10T19:19:01+00:00",
+        "titulo": "Merino sul filo di lana: la Spagna batte 2-1 il Belgio e trova la Francia in semifinale",
+        "enlace": "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/10/news/spagna_belgio_gol-425464140/",
+        "desc": "Impresa della Roja, che passa con un gol negli ultimi minuti dell’attaccante dell’Arsenal: sarà grande sfida a Mbappé",
+        "fecha": "2026-07-10T21:29:29+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Carlo III riceve Harry, Meghan e i nipoti: riconciliazione in casa Windsor",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/10/news/gran_bretagna_re_carlo_iii_riceve_harry_meghan_e_i_nipoti_rinconciliazione_in_casa_windsor-425463944/",
-        "desc": "Èil primo incontro del sovrano inglese con la nuora e i principini Archie e Lilibet dal 2022, quando parteciparono ai funerali di Elisabetta II",
-        "fecha": "2026-07-10T19:17:50+00:00",
+        "titulo": "Courtois esce tra le lacrime per infortunio. Il suo sostituto Lammens fa la papera decisiva",
+        "enlace": "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/10/news/courtois_piange_belgio_infortunio-425464080/",
+        "desc": "Un guaio muscolare costringe il giocatore del Real Madrid al cambio: in panchina viene consolato dal ct Rudi Garcia e da tutti i suoi compagni. Il subentrato causa il raddoppio spa…",
+        "fecha": "2026-07-10T20:47:53+00:00",
         "fuente": "La Repubblica"
       }
     ],
@@ -230,21 +230,7 @@
         "titulo": "Man arrested on suspicion of murder after death of Ann Widdecombe",
         "enlace": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
         "desc": "There was initially no suggestion of suspicious circumstances when her death was announced on Friday morning.",
-        "fecha": "2026-07-10T19:39:00+00:00",
-        "fuente": "BBC"
-      },
-      {
-        "titulo": "Spain v Belgium: World Cup 2026 quarter-final – live",
-        "enlace": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
-        "desc": "⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽ Player guide | Bracketology | Golden Boot | Email Billy “I did my year abroad in Belgium and Germany in 2015/16, and my unive…",
-        "fecha": "2026-07-10T20:10:23+00:00",
-        "fuente": "The Guardian"
-      },
-      {
-        "titulo": "Anton du Beke 'devastated' at death of Strictly co-star Ann Widdecombe",
-        "enlace": "https://www.bbc.co.uk/news/articles/cm2d370npe4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Kemi Badenoch said the Conservative Party was \"reeling\" as the former minister's death is investigated as murder.",
-        "fecha": "2026-07-10T20:11:44+00:00",
+        "fecha": "2026-07-10T21:38:20+00:00",
         "fuente": "BBC"
       },
       {
@@ -253,65 +239,79 @@
         "desc": "Do you keep your headphones on at the checkout? Or chat people up then never follow through? You need our expert guide to the new social faux pas – and how to avoid them *** Contin…",
         "fecha": "2026-07-10T14:00:22+00:00",
         "fuente": "The Guardian"
+      },
+      {
+        "titulo": "Pugnacious, charismatic and she always answered the question - Chris Mason on Widdecombe",
+        "enlace": "https://www.bbc.co.uk/news/articles/czrxdnmlk5no?at_medium=RSS&at_campaign=rss",
+        "desc": "Plenty in Westminster who knew her, whether they agreed with her or not, found her immensely likeable.",
+        "fecha": "2026-07-10T21:27:28+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "One thought on the Clacton contenders: the ‘establishment’ looks a bit different these days, doesn’t it? | Marina Hyde",
+        "enlace": "https://www.theguardian.com/commentisfree/2026/jul/10/clacton-byelection-nigel-farage-establishment-laurence-fox-reform",
+        "desc": "Nigel Farage has billed his byelection as a clash with the powers that be. To wit: Laurence Fox, a naked celebrity and a man with a bin on his head Quick look at the Clacton byelec…",
+        "fecha": "2026-07-10T13:08:08+00:00",
+        "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Governo abre a porta à revogação de contratos de arrendamento ao fim de um ano",
-        "enlace": "https://www.publico.pt/2026/07/10/economia/noticia/governo-abre-porta-revogacao-contratos-arrendamento-fim-ano-2181276",
-        "desc": "Maioria das propostas anunciadas pelo executivo, a levar à Assembleia da República, assentam nos novos contratos.",
-        "fecha": "2026-07-10T20:01:29+00:00",
+        "titulo": "NOS Alive 2026: da Maré ao funk, o Brasil marca presença no festival de Lisboa",
+        "enlace": "https://www.publico.pt/2026/07/10/publico-brasil/noticia/alive-2026-mare-funk-brasil-marca-presenca-festival-lisboa-2181284",
+        "desc": "Orquestra Maré do Amanhã e Deize Tigrona apresentam o Rio de Janeiro ao Passeio Marítimo de Algés, onde a maior comunidade estrangeira de Portugal também marca presença na plateia …",
+        "fecha": "2026-07-10T21:20:12+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Futebol e festivais são a prioridade em plena crise?",
-        "enlace": "https://observador.pt/programas/e-o-vencedor-e/futebol-e-festivais-sao-a-prioridade-em-plena-crise/",
-        "desc": "Entre riscos de incêndio e ondas de calor, a chefia do governo decidiu viajar para jogos no estrangeiro. As falhas na correção e o atraso nas notas das provas nacionais preocupam a…",
-        "fecha": "2026-07-10T21:20:54+01:00",
+        "titulo": "Pescadores com projeto de 80 mil euros para edifício Onda",
+        "enlace": "https://observador.pt/2026/07/10/pescadores-de-vila-praia-de-ancora-com-projeto-de-80-mil-euros-para-edificio-onda/",
+        "desc": "Vila Praia de Âncora é uma freguesia costeira no concelho de Caminha",
+        "fecha": "2026-07-10T23:06:29+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Quando os enólogos também metem o nariz no lúpulo",
-        "enlace": "https://www.publico.pt/2026/07/10/fugas/noticia/enologos-tambem-metem-nariz-lupulo-2180889",
-        "desc": "Da fresca e saborosa Cerveja de Encruzado by Praxis & Carlos Lucas, à Letra de Loureiro de Anselmo Mendes ou à Stout Vintage da Quinta de La Rosa: cerveja e vinho testam caminhos d…",
-        "fecha": "2026-07-10T20:01:00+00:00",
+        "titulo": "Meias-finais garantidas: Espanha poderá sempre contar com Mikel Merino",
+        "enlace": "https://www.publico.pt/2026/07/10/desporto/cronica_de_jogo/meiasfinais-garantidas-espanha-podera-contar-mikel-merino-2181301",
+        "desc": "Selecção espanhola venceu a Bélgica por 2-1, nos quartos-de-final do Mundial 2026, e vai medir forças com a França na próxima fase. A solução saiu novamente do banco.",
+        "fecha": "2026-07-10T21:15:15+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "STF congela bens do presidente do partido de Bolsonaro",
-        "enlace": "https://observador.pt/2026/07/10/supremo-brasileiro-bloqueia-34-milhoes-de-euros-em-bens-do-presidente-do-partido-de-bolsonaro/",
-        "desc": "Valdemar Costa Neto comanda a principal agremiação da extrema-direita no Brasil",
-        "fecha": "2026-07-10T21:17:09+01:00",
+        "titulo": "Diretores sem respostas sobre acesso aos exames",
+        "enlace": "https://observador.pt/2026/07/10/diretores-escolares-exigem-explicacoes-sobre-acesso-dos-alunos-aos-exames-corrigidos-a-uma-semana-das-pautas/",
+        "desc": "O ministro da Educação revelou na quinta-feira que já estavam corrigidas mais de 75% das provas",
+        "fecha": "2026-07-10T23:02:46+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Patrus Ananias diz 'sim' ao PT, mas condiciona candidatura em MG a encontro com Lula",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/patrus-ananias-diz-sim-ao-pt-mas-condiciona-candidatura-em-mg-a-encontro-com-lula.shtml",
-        "desc": "O deputado federal e ex-prefeito de Belo Horizonte Patrus Ananias ( PT -MG) disse ao PT que topa sair candidato ao Governo de Minas Gerais, mas condicionou a decisão final a uma co…",
-        "fecha": "2026-07-10T17:22:00-03:00",
+        "titulo": "Partido Novo pagou R$ 385 mil à empresa de Deltan Dallagnol via fundo partidário",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/partido-novo-pagou-r-385-mil-a-empresa-de-deltan-dallagnol-via-fundo-partidario.shtml",
+        "desc": "A empresa que tem o ex-procurador e ex-deputado federal Deltan Dallagnol (Novo-PR), sua mulher e filhos como sócios recebeu R$ 382 mil via fundo partidário do Novo em 2025, segundo…",
+        "fecha": "2026-07-10T18:23:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "PM apreende mais de 3 mil porções de cocaína com suspeito de tráfico em Bauru",
-        "enlace": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/10/pm-apreende-mais-de-3-mil-porcoes-de-cocaina-com-suspeito-de-trafico-em-bauru.ghtml",
-        "desc": "3 mil microtubos de cocaína foram apreendidos na ocorrência em Bauru Polícia Militar/ Divulgação A Polícia Militar apreendeu mais de 3 mil porções de cocaína e prendeu um homem sus…",
-        "fecha": "2026-07-10T20:21:43",
+        "titulo": "Polícia investiga guarda civil municipal que levou celular recolhido em abordagem para casa em Sorocaba",
+        "enlace": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/10/gcm-investigado-peculato-sorocaba.ghtml",
+        "desc": "Plantão policial - delegacia da zona sul de Sorocaba (SP) Google Street View A Polícia Civil investiga um guarda civil municipal de Sorocaba por suspeita de peculato após levar par…",
+        "fecha": "2026-07-10T22:04:54",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "'Prefeito tiktoker' de Socorocaba admite que pode ser expulso de seu partido",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/prefeito-tiktoker-de-socorocaba-admite-que-pode-ser-expulso-de-seu-partido.shtml",
-        "desc": "O prefeito de Sorocaba, Rodrigo Manga ( Republicanos ), admitiu que pode ser expulso de seu partido na crise que envolve ele e sua mulher, pré-candidata a deputada federal, com dir…",
-        "fecha": "2026-07-10T17:02:00-03:00",
+        "titulo": "Quem é Mariângela Fialek, a Tuca, suspeita de operar esquema envolvendo emendas",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/quem-e-mariangela-fialek-a-tuca-suspeita-de-operar-esquema-envolvendo-emendas.shtml",
+        "desc": "Mariângela Fialek, conhecida como Tuca, é servidora da Câmara dos Deputados e foi, durante anos, assessora de confiança do então presidente da Casa, Arthur Lira (PP-AL). Atualmente…",
+        "fecha": "2026-07-10T18:16:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "STF suspende regra que mantinha Adjuto Afonso na presidência da Aleam e determina nova eleição",
-        "enlace": "https://g1.globo.com/am/amazonas/noticia/2026/07/10/stf-suspende-regra-que-mantinha-adjuto-afonso-na-presidencia-da-aleam-e-determina-nova-eleicao.ghtml",
-        "desc": "A fachada da Asssembleia Legislativa do Amazonas. Foto: Divulgação/Aleam O ministro Flávio Dino, do Supremo Tribunal Federal (STF), suspendeu nesta sexta-feira (10) a regra que per…",
-        "fecha": "2026-07-10T20:19:27",
+        "titulo": "Documento enviado por deputado usou 'código oculto' para induzir distribuição de processo no Tribunal de Contas do Paraná",
+        "enlace": "https://g1.globo.com/pr/parana/noticia/2026/07/10/deputado-codigo-oculto-tribunal-de-contas-do-parana.ghtml",
+        "desc": "Deputado Arilson Chiorato (PT) Antônio More/Alep O Tribunal de Contas do Paraná (TCE-PR) identificou a inserção de comandos ocultos, prática conhecida como \"prompt injection\", em u…",
+        "fecha": "2026-07-10T22:04:00",
         "fuente": "G1 Globo"
       }
     ],
@@ -350,14 +350,14 @@
         "titulo": "La Policía británica detiene a un sospechoso de la muerte de la destacada política conservadora Ann Widdecombe",
         "enlace": "https://www.elconfidencial.com/mundo/europa/2026-07-10/detenido-sospechoso-muerte-destacada-politica-conservadora-ann-widdecombe_4388302/",
         "desc": "Starmer afirma estar \"impactado\" y destaca los \"numerosos logros\" de Widdecombe, quien hace unos años se pasó al partido de Farage",
-        "fecha": "2026-07-10T20:27:42.471958+00:00",
+        "fecha": "2026-07-10T22:10:10.612248+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "\"Ya no quiero ser pediatra. La mirada de esos niños se queda con uno para siempre\": el dolor de los médicos que asisten a los heridos del terremoto en Venezuela",
-        "enlace": "https://www.bbc.com/mundo/articles/clywmp92zv3o?at_medium=RSS&at_campaign=rss",
-        "desc": "Agotados por el volumen de pacientes y conmovidos por la severidad de los casos, los médicos venezolanos luchan por sobreponerse al desgaste de trabajar sin insumos ni equipos adec…",
-        "fecha": "2026-07-10T15:42:38+00:00",
+        "titulo": "España alcanza las segundas semifinales del Mundial de su historia y habrá choque estelar con Francia",
+        "enlace": "https://www.bbc.co.uk/mundo/live/ce37x1ynx92t?at_medium=RSS&at_campaign=rss",
+        "desc": "Fabián Ruiz abrió el tanteador, Charles De Ketelaere lo empató y Mikel Merino sentenció el partido para España. \"No me lo creo, otra vez lo he hecho\", dijo luego Merino, quien tamb…",
+        "fecha": "2026-07-10T22:10:11.759973+00:00",
         "fuente": "BBC Mundo"
       },
       {
@@ -375,10 +375,10 @@
         "fuente": "BBC World"
       },
       {
-        "titulo": "Ann Widdecombe, exdiputada británica y estrella de reality shows, encontrada muerta; hombre arrestado por asesinato",
-        "enlace": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
-        "desc": "Un hombre de 26 años fue arrestado bajo sospecha de asesinato después de que Ann Widdecombe fuera encontrada muerta en su casa de Dartmoor con heridas graves el jueves.",
-        "fecha": "2026-07-10T14:59:07-04:00",
+        "titulo": "Israel da señales de estar preparado para otro ataque a Irán mientras Trump declara el fin del alto el fuego",
+        "enlace": "https://www.foxnews.com/world/israel-signals-readiness-another-iran-strike-trump-declares-ceasefire-over",
+        "desc": "Los líderes de Israel están señalando públicamente que su país está preparado para atacar a Irán por tercera vez, mientras que un funcionario estadounidense le dice a Fox News Digital que Washington sigue de cerca...",
+        "fecha": "2026-07-10T16:48:04-04:00",
         "fuente": "Fox News Mundo"
       },
       {
@@ -399,7 +399,7 @@
         "titulo": "Exteriores eleva a 41 los españoles muertos en el doble terremoto de Venezuela",
         "enlace": "https://www.elconfidencial.com/mundo/2026-07-10/terremoto-venezuela-espanoles-fallecidos-1tps_4387768/",
         "desc": "Exteriores confirma otra víctima española en los seísmos de Venezuela; continúan 138 personas sin localizar y 11 compatriotas entre los rescatados, con despliegue de ayuda operativ…",
-        "fecha": "2026-07-10T20:27:42.471993+00:00",
+        "fecha": "2026-07-10T22:10:10.612288+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -412,31 +412,31 @@
         "fuente": "BBC World"
       },
       {
-        "titulo": "Former British MP and reality TV star Ann Widdecombe found dead; man arrested for murder",
-        "enlace": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
-        "desc": "A 26-year-old man was arrested on suspicion of murder after Ann Widdecombe was found dead at her Dartmoor home with serious injuries Thursday.",
-        "fecha": "2026-07-10T14:59:07-04:00",
+        "titulo": "Israel signals readiness for another Iran strike as Trump declares ceasefire over",
+        "enlace": "https://www.foxnews.com/world/israel-signals-readiness-another-iran-strike-trump-declares-ceasefire-over",
+        "desc": "Israel’s leaders are publicly signaling that their country is prepared to strike Iran for a third time, while a U.S. official tells Fox News Digital that Washington remains closely…",
+        "fecha": "2026-07-10T16:48:04-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Police arrest suspect in killing of former UK minister Ann Widdecombe",
-        "enlace": "https://www.france24.com/en/europe/20260710-police-arrest-suspect-in-killing-of-former-uk-minister-ann-widdecombe",
-        "desc": "Police on Friday arrested a 26-year-old, White British man on suspicion of killing former Conservative minister and Reform UK member Ann Widdecombe. Police so far say they have no …",
-        "fecha": "2026-07-10T20:25:29+00:00",
+        "titulo": "Iran: Forewarnings and a Funeral, NATO, Le Pen",
+        "enlace": "https://www.france24.com/en/tv-shows/the-world-this-week/20260710-iran-forewarnings-and-a-funeral-nato-le-pen",
+        "desc": "It’s been a week of shifting alliances, escalating tensions and political drama. NATO leaders gathered in Turkey for another pivotal summit, where President Trump arrived questioni…",
+        "fecha": "2026-07-10T21:13:38+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Oil giants to gain ‘billions’ from Iran war — but won’t ramp up drilling despite Trump’s insistence",
-        "enlace": "https://nypost.com/2026/07/10/business/oil-giants-to-gain-billions-from-iran-war-but-wont-ramp-up-drilling-despite-trumps-insistence/",
-        "desc": "US oil majors are reluctant to build out more rigs and wells, resisting White House pressure as they claim their bumper profits are just a temporary boost.",
-        "fecha": "2026-07-10T16:27:02-04:00",
+        "titulo": "Mamdani tries to downplay top official’s attempted meeting with Iran ambassador – as GOP pols demand answers",
+        "enlace": "https://nypost.com/2026/07/10/us-news/mamdani-tries-to-downplay-top-officials-attempted-meeting-with-iran-ambassador/",
+        "desc": "Iran out of patience? A defensive Mayor Zohran Mamdani tried to downplay his international affairs commissioner&#8217;s boneheaded attempted meeting with the anti-US Iranian ambass…",
+        "fecha": "2026-07-10T15:09:59-07:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "EU threatens Meta with hefty fine over 'addictive design'",
-        "enlace": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-all-1573-rdf",
-        "desc": "A preliminary investigation by the bloc has found the social media giant is not doing enough to protect children using its platforms. Meta rejects the accusations, which could cost…",
-        "fecha": "2026-07-10T20:27:47.365027+00:00",
+        "titulo": "Apple sues OpenAI over stealing 'trade secrets'",
+        "enlace": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf",
+        "desc": "Apple has accused the company behind ChatGPT and two of its former employees of misappropriating its trade secrets to benefit OpenAI's foray into consumer hardware.",
+        "fecha": "2026-07-10T22:10:15.004497+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,10 +447,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Missouri: DHS rescues 8 children from child predators during World Cup operation",
-        "enlace": "https://www.oann.com/newsroom/missouri-dhs-rescues-8-children-from-child-predators-during-world-cup-operation/",
-        "desc": "The Department of Homeland Security (DHS) has revealed a multiagency human trafficking operation that rescued eight missing children in Kansas City, Missouri, during the 2026 World…",
-        "fecha": "2026-07-10T20:20:28+00:00",
+        "titulo": "Platner files official paperwork to withdraw Senate bid",
+        "enlace": "https://www.oann.com/newsroom/platner-files-official-paperwork-to-withdraw-senate-bid/",
+        "desc": "Embattled Senate candidate Graham Platner has formally withdrawn from the race to be the next U.S. Senator for the state of Maine. His exit from the race comes just days after an e…",
+        "fecha": "2026-07-10T22:04:05+00:00",
         "fuente": "OAN"
       },
       {
@@ -461,17 +461,17 @@
         "fuente": "BBC World"
       },
       {
-        "titulo": "Argentinian flight instructor jumps to death from plane, 22-year-old student forced to land alone",
-        "enlace": "https://www.foxnews.com/world/argentinian-flight-instructor-jumps-death-from-plane-22-year-old-student-forced-land-alone",
-        "desc": "A 22-year-old student pilot was forced to land a Cessna 150 alone after her flight instructor jumped from the aircraft mid-flight over Córdoba, Argentina.",
-        "fecha": "2026-07-09T12:29:59-04:00",
+        "titulo": "Former British MP and reality TV star Ann Widdecombe found dead; man arrested for murder",
+        "enlace": "https://www.foxnews.com/world/former-british-mp-reality-tv-star-ann-widdecombe-found-dead-man-arrested-murder",
+        "desc": "A 26-year-old man was arrested on suspicion of murder after Ann Widdecombe was found dead at her Dartmoor home with serious injuries Thursday.",
+        "fecha": "2026-07-10T14:59:07-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
-        "enlace": "https://www.france24.com/en/tv-shows/eye-on-africa/20260710-european-parliament-calls-for-terrorist-listing-of-rapid-support-forces-in-sudan",
-        "desc": "First, the European Parliament calls on EU member states to officially designate the Rapid Support Forces in Sudan a terrorist organisation. Then, Kenya's Rastafarian community wai…",
-        "fecha": "2026-07-10T20:16:31+00:00",
+        "titulo": "World Cup 2026: Merino strikes late again as Spain beat Belgium to set up France semi-final",
+        "enlace": "https://www.france24.com/en/sport/20260710-world-cup-2026-merino-s-late-winner-sends-spain-past-belgium-and-into-semi-finals",
+        "desc": "",
+        "fecha": "2026-07-10T21:02:26+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,17 +484,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Le prince Harry, Meghan et leurs enfants reçus par Charles III pour la première fois en quatre ans",
-        "enlace": "https://www.france24.com/fr/europe/20260710-prince-harry-meghan-enfants-re%C3%A7us-charles-iii-premi%C3%A8re-fois-quatre-ansarchie-lilibet",
-        "desc": "Charles III et son épouse Camilla ont reçu vendredi le prince Harry, Meghan et leurs deux enfants, selon plusieurs médias britanniques. Installé en Californie depuis sa rupture fra…",
-        "fecha": "2026-07-10T20:02:58+00:00",
+        "titulo": "Présidentielle 2027 : IA, fake news et ingérences, une bataille perdue d'avance?",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20260710-pr%C3%A9sidentielle-2027-ia-fake-news-et-ing%C3%A9rences-une-bataille-perdue-d-avance",
+        "desc": "Alors que la liste des candidats pour la présidentielle de 2027 se précise chaque semaine un peu plus, les coups bas devraient commencer à se multiplier sur la toile tout comme les…",
+        "fecha": "2026-07-10T21:53:30+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "La Corée du Nord entend développer ses capacités militaires et nucléaires",
-        "enlace": "https://www.rfi.fr/fr/asie-pacifique/20260710-la-cor%C3%A9e-du-nord-entend-d%C3%A9velopper-ses-capacit%C3%A9s-militaires-et-nucl%C3%A9aires",
-        "desc": "La Corée du Nord affiche ses ambitions et la Commission militaire centrale du parti se réunissait jeudi 9 juillet. L'agence officielle KCNA rapporte les principaux enseignements et…",
-        "fecha": "2026-07-10T19:42:56+00:00",
+        "titulo": "Les montants du plan national de développement 2026-2030 «montrent bien l'attractivité de la Côte d'Ivoire»",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260710-les-montants-du-plan-national-de-d%C3%A9veloppement-2026-2030-montrent-bien-l-attractivit%C3%A9-de-la-c%C3%B4te-d-ivoire",
+        "desc": "Réunis les 8 et 9 juillet à Abidjan, partenaires techniques, bailleurs de fonds et investisseurs ont déjà annoncé des investissements à hauteur de 80 milliards d'euros dans le pays…",
+        "fecha": "2026-07-10T21:42:05+00:00",
         "fuente": "RFI"
       },
       {
@@ -519,17 +519,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Reprise des hostilités Iran/USA, Sommet de l'OTAN, Marine Le Pen condamnée",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260710-reprise-des-hostilit%C3%A9s-iran-usa-sommet-de-l-otan-marine-le-pen-condamn%C3%A9e",
-        "desc": "Au sommaire de l'émission: la reprise des hostilités entre l'Iran et les Etats-Unis, moins de 3 semaines après la signature du protocole d'accord; le 36ème sommet de l'OTAN en Turq…",
-        "fecha": "2026-07-10T19:05:01+00:00",
+        "titulo": "Mondial 2026 : l'Espagne rejoint la France en demi-finale malgré la résistance belge",
+        "enlace": "https://www.france24.com/fr/sports/20260710-mondial-2026-l-espagne-rejoint-la-france-en-demi-finale-malgr%C3%A9-la-r%C3%A9sistance-belge",
+        "desc": "",
+        "fecha": "2026-07-10T20:59:45+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "À Cuba, coupures d'électricité records et colère grandissante contre le régime",
-        "enlace": "https://www.rfi.fr/fr/am%C3%A9riques/20260710-%C3%A0-cuba-coupures-d-%C3%A9lectricit%C3%A9-records-et-col%C3%A8re-grandissante-contre-le-r%C3%A9gime",
-        "desc": "La crise énergétique atteint un niveau sans précédent à Cuba. En début de semaine, l'île a été frappée par un nouvel effondrement de son réseau électrique national, provoquant un b…",
-        "fecha": "2026-07-10T19:15:19+00:00",
+        "titulo": "Mauritanie: grâce présidentielle pour deux députées abolitionnistes condamnées pour des critiques du président",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260710-mauritanie-gr%C3%A2ce-pr%C3%A9sidentielle-pour-deux-d%C3%A9put%C3%A9es-abolitionnistes-condamn%C3%A9es-pour-des-critiques-du-pr%C3%A9sident",
+        "desc": "Elles avaient été condamnées en mai dernier à quatre ans de prison. En Mauritanie, deux députées abolitionnistes ont été graciées jeudi 9 juillet par le président Mohamed Ould Chei…",
+        "fecha": "2026-07-10T21:35:50+00:00",
         "fuente": "RFI"
       },
       {
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Fußball-WM 2026 im Liveticker: Belgien vs Spanien",
-        "enlace": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-belgien-vs-spanien-a-a5b5db2e-1f2d-4614-a3cd-3239a9777543#ref=rss",
-        "desc": "Bedrohlicher als ein Star Wars-Bösewicht: Belgiens Jérémy Doku macht im Viertelfinale ein starkes Spiel und leitet jetzt auch noch Großchancen ein. Wie lange geht das für Spanien g…",
-        "fecha": "2026-07-10T22:20:00+02:00",
+        "titulo": "Fußball-WM 2026: Belgien unterliegt Spanien: Ein belgischer Nackenschlag zu viel",
+        "enlace": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-belgien-unterliegt-spanien-ein-belgischer-nackenschlag-zu-viel-a-ecc88f1f-89a3-4e9b-884c-c448033ca1e4#ref=rss",
+        "desc": "Vor dem Anpfiff musste der Kapitän passen, dann verließ die Torwartlegende verletzt den Platz – und sein Vertreter patzte. Belgien unterliegt nach großem Kampf Spanien und seinem S…",
+        "fecha": "2026-07-10T23:37:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Ukraine empört über Aufhebung von Russlands Olympia-Bann",
         "enlace": "https://www.dw.com/de/ukraine-empört-über-aufhebung-von-russlands-olympia-bann/a-77905468?maca=de-rss-de-all-1119-rdf",
         "desc": "Das Internationale Olympische Komitee lässt für die Olympischen Spiele 2028 Mannschaften aus Russland wieder zu. Der ukrainische Sportminister Matwij Bidnyj erhebt Vorwürfe gegen d…",
-        "fecha": "2026-07-10T20:27:51.814032+00:00",
+        "fecha": "2026-07-10T22:10:16.886207+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -577,17 +577,17 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Royals: König Charles empfängt Prinz Harry und seine Familie in privatem Rahmen",
-        "enlace": "https://www.spiegel.de/panorama/leute/royals-koenig-charles-empfaengt-prinz-harry-und-seine-familie-in-privatem-rahmen-a-45911913-2ad1-4cd6-b70a-8dad4d637dbb#ref=rss",
-        "desc": "König Charles III. hat seinen Sohn Prinz Harry und dessen Familie nach Jahren erstmals wieder getroffen. Ob das private Wiedersehen den Beginn einer Annäherung markiert, ist jedoch…",
-        "fecha": "2026-07-10T21:44:00+02:00",
+        "titulo": "Fußball-WM 2026 im Liveticker: Drei Erkenntnisse aus Spanien - Belgien",
+        "enlace": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-drei-erkenntnisse-aus-spanien-belgien-a-a5b5db2e-1f2d-4614-a3cd-3239a9777543#ref=rss",
+        "desc": "Spanien hat das beste Mittelfeld der Welt. Belgien hatte einfach zu viele Verletzungsfälle. Und Lamine Yamal muss sich steigern. Alles zum WM-Viertelfinale zum Nachlesen.",
+        "fecha": "2026-07-10T23:15:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Wegen Unwahrheiten: Berlins Regierungschef Wegner gibt auf",
         "enlace": "https://www.dw.com/de/wegen-unwahrheiten-berlins-regierungschef-wegner-gibt-auf/a-77909693?maca=de-rss-de-all-1119-rdf",
         "desc": "Kai Wegner, der Regierende Bürgermeister von Berlin, will im Herbst nicht wieder für das Amt kandidieren. Seine dubiose Rolle beim Stromausfall im Januar hat ihm schwer geschadet",
-        "fecha": "2026-07-10T20:27:51.814068+00:00",
+        "fecha": "2026-07-10T22:10:16.886251+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -607,10 +607,10 @@
     ],
     "internacional_it": [
       {
-        "titulo": "Carlo III riceve Harry, Meghan e i nipoti: riconciliazione in casa Windsor",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/10/news/gran_bretagna_re_carlo_iii_riceve_harry_meghan_e_i_nipoti_rinconciliazione_in_casa_windsor-425463944/?rss",
-        "desc": "È il primo incontro del sovrano inglese con la nuora e i principini Archie e Lilibet dal 2022, quando parteciparono ai funerali di Elisabetta II",
-        "fecha": "2026-07-10T21:32:11+02:00",
+        "titulo": "La vignetta di Ellekappa",
+        "enlace": "https://www.repubblica.it/esteri/2026/07/11/news/la_vignetta_di_ellekappa-425464042/?rss",
+        "desc": "",
+        "fecha": "2026-07-11T00:01:00+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -628,10 +628,10 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Uccisa a 78 anni ‘Lady Brexit’ Ann Widdecombe: arrestato un cittadino britannico bianco di 26 anni",
-        "enlace": "https://www.repubblica.it/esteri/2026/07/10/news/uccisa_a_78_anni__lady_brexit__ann_widdecombe_arrestato_un_cittadino_britannico_bianco_di_26_anni-425463774/?rss",
-        "desc": "La politica euroscettica, passata dalla Thatcher a Farage, è stato trovata morta nella sua casa nella campagna inglese. Il corpo, martoriato di ferite, è stato scoperto dalla famig…",
-        "fecha": "2026-07-10T20:37:39+02:00",
+        "titulo": "Carlo III riceve Harry, Meghan e i nipoti: riconciliazione in casa Windsor",
+        "enlace": "https://www.repubblica.it/esteri/2026/07/10/news/gran_bretagna_re_carlo_iii_riceve_harry_meghan_e_i_nipoti_rinconciliazione_in_casa_windsor-425463944/?rss",
+        "desc": "Massimo riserbo sull’incontro con il padre del principe ribelle assieme alla moglie e ai piccoli Archie e Lilibet",
+        "fecha": "2026-07-10T22:49:12+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -651,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "Prova dos Factos. Imóveis abandonados são perigo para a saúde",
-        "enlace": "https://www.rtp.pt/noticias/pais/prova-dos-factos-imoveis-abandonados-sao-perigo-para-a-saude_v1752638",
-        "desc": "Em Lisboa, estima-se que existam 44 mil casas vagas ou devolutas. Ou seja, mais de 20 por cento do parque habitacional da capital está inacessível.",
-        "fecha": "2026-07-10T22:20:47+01:00",
+        "titulo": "Banco Mundial atribui 2,93 mil ME para \"estabilização económica\" da Ucrânia",
+        "enlace": "https://www.rtp.pt/noticias/guerra-na-ucrania/banco-mundial-atribui-293-mil-me-para-estabilizacao-economica-da-ucrania_n1752649",
+        "desc": "Kiev, 10 jul 2026 (Lusa) -- A Ucrânia recebeu hoje 2,93 mil milhões de euros do Banco Mundial, na sequência de um acordo entre Kiev e a instituição financeira sediada em Washington…",
+        "fecha": "2026-07-10T23:57:41+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Futebol e festivais são a prioridade em plena crise?",
-        "enlace": "https://observador.pt/programas/e-o-vencedor-e/futebol-e-festivais-sao-a-prioridade-em-plena-crise/",
-        "desc": "Entre riscos de incêndio e ondas de calor, a chefia do governo decidiu viajar para jogos no estrangeiro. As falhas na correção e o atraso nas notas das provas nacionais preocupam a…",
-        "fecha": "2026-07-10T21:20:54+01:00",
+        "titulo": "Espanha volta às meias-finais do Mundial 16 anos depois",
+        "enlace": "https://observador.pt/2026/07/10/acredito-em-coincidencias-mas-isto-nao-e-coincidencia-se-acontece-e-porque-me-preparo-espanha-volta-as-meias-finais-16-anos-depois/",
+        "desc": "Espanha vai defrontar França pela segunda vez em Mundiais na terça-feira, na primeira meia-final",
+        "fecha": "2026-07-10T23:08:21+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,17 +672,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Guerra com o Irão. Trump aceita negociar mas diz que a trégua acabou",
-        "enlace": "https://www.rtp.pt/noticias/mundo/guerra-com-o-irao-trump-aceita-negociar-mas-diz-que-a-tregua-acabou_v1752637",
-        "desc": "Donald Trump diz que aceitou negociar com o Irão mas adianta ter deixado claro que o cessar-fogo acabou.",
-        "fecha": "2026-07-10T21:58:47+01:00",
+        "titulo": "22H Espanha nas meias finais do mundial de futebol",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/22h-espanha-nas-meias-finais-do-mundial-de-futebol_a1_1752648",
+        "desc": "",
+        "fecha": "2026-07-10T23:28:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "STF congela bens do presidente do partido de Bolsonaro",
-        "enlace": "https://observador.pt/2026/07/10/supremo-brasileiro-bloqueia-34-milhoes-de-euros-em-bens-do-presidente-do-partido-de-bolsonaro/",
-        "desc": "Valdemar Costa Neto comanda a principal agremiação da extrema-direita no Brasil",
-        "fecha": "2026-07-10T21:17:09+01:00",
+        "titulo": "Pescadores com projeto de 80 mil euros para edifício Onda",
+        "enlace": "https://observador.pt/2026/07/10/pescadores-de-vila-praia-de-ancora-com-projeto-de-80-mil-euros-para-edificio-onda/",
+        "desc": "Vila Praia de Âncora é uma freguesia costeira no concelho de Caminha",
+        "fecha": "2026-07-10T23:06:29+01:00",
         "fuente": "Observador"
       },
       {
@@ -695,17 +695,17 @@
     ],
     "deportes_es": [
       {
-        "titulo": "&quot;Es mano dudosa, pero no es penalti&quot;&lt;br&gt;",
-        "enlace": "https://www.marca.com/radio/2026/07/10/burrull-sobre-mano-pitada-ngoy-dudosa-penalti.html",
-        "desc": "El analista arbitral de MARCADOR analizó la polémica durante el España - Bélgica",
-        "fecha": "2026-07-10T21:23:07+02:00",
+        "titulo": "Courtois se lesiona... y se derrumba&lt;br&gt;",
+        "enlace": "https://www.marca.com/futbol/mundial/2026/07/10/courtois-marcha-lagrimas-sufrir-lesion-espana.html",
+        "desc": "El portero del Real Madrid se fue al suelo en el minuto 67&#039; y tras haber recibido atención médica y continuar unos minutos, finalmente fue sustituido por Lemmens",
+        "fecha": "2026-07-10T22:44:27+02:00",
         "fuente": "Marca"
       },
       {
-        "titulo": "Empate al descanso",
-        "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260710/1004204396/espana-belgica-directo-cuartos-final-mundial-2026-futbol.html",
-        "desc": "Sigue la cobertura del encuentro del Mundial de fútbol que España disputa contra el combinado belga.",
-        "fecha": "2026-07-10T21:40:06+02:00",
+        "titulo": "A España se le vuelve a aparecer San Merino para estar en semifinales",
+        "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260710/1004205216/san-merino-vuelve-aparecer-meter-espana-semifinales.html",
+        "desc": "No era un tópico. Luis de la Fuente avisó que Bélgica sería el rival más duro. Y España volvió a sufrir para lograr el pase a semifinales, donde espera Francia . Otra vez con Mikel…",
+        "fecha": "2026-07-10T23:09:40+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -723,17 +723,17 @@
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Wanyonyi bate el récord del mundo de los 1.000... que tenía ya 27 años",
-        "enlace": "https://www.marca.com/atletismo/2026/07/10/wanyonyi-bate-record-mundo-1-000-m-tenia-27-anos.html",
-        "desc": "El campeón olímpico de los 800 metros supera en Mónaco la marca que estableció Ngeny en Rieti en 1999 al correr en 2:11.83 en una carrera en la que el español&amp;nbsp;Attaoui fue …",
-        "fecha": "2026-07-10T20:32:58+02:00",
+        "titulo": "Lo que no estás viendo: Javier Bardem cumple su promesa&lt;br&gt;",
+        "enlace": "https://www.marca.com/futbol/mundial/album/2026/07/10/impresionante-ambiente-angeles-javier-bardem-camiseta-le-regalo-borja-iglesias.html",
+        "desc": "El actor español, que recibió un regalo muy especial de parte de Borja Iglesias, no ha dudado en lucirlo en el palco del SoFi Stadium. De nuevo, las gradas del estadio el día del p…",
+        "fecha": "2026-07-10T21:55:26+02:00",
         "fuente": "Marca"
       },
       {
-        "titulo": "Las cifras del fichaje de Adeyemi",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260710/1004205193/cifras-fichaje-adeyemi.html",
-        "desc": "A falta de que se redacten y se firmen los contratos, el fichaje de Karim Adeyemi (24 años) ya está pactado a nivel verbal entre FC Barcelona y Borussia Dortmund . El acuerdo se ha…",
-        "fecha": "2026-07-10T20:02:32+02:00",
+        "titulo": "El cambio mágico",
+        "enlace": "https://www.mundodeportivo.com/opinion/20260710/1004205241/cambio-magico.html",
+        "desc": "D ani Olmo volvió a ser el mejor jugador de la selección española ante Bélgica y en el minuto 85 fue sustituido por Merino que, dos minutos después, marcó el gol que llevó al equip…",
+        "fecha": "2026-07-10T23:50:37+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -760,10 +760,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Clinical Sinner outclasses Djokovic as he books Wimbledon final place",
-        "enlace": "https://www.skysports.com/tennis/news/12040/13562360/wimbledon-2026-clinical-jannik-sinner-outclasses-novak-djokovic-to-set-up-final-against-alexander-zverev",
-        "desc": "Novak Djokovic's dreams of a record-equalling eighth Wimbledon title at the age of 39 were firmly snuffed out by defending champion Jannik Sinner at the semi-final stage on Friday,…",
-        "fecha": "2026-07-10T17:18:00",
+        "titulo": "Wigan youngsters beat Warrington to keep pressure on Leeds at top",
+        "enlace": "https://www.skysports.com/rugby-league/news/12040/13562383/wigan-warriors-30-18-warrington-wolves-hosts-keep-pressure-on-leeds-rhinos-as-youngsters-shine-in-win",
+        "desc": "Wigan's young stars rose to the occasion to clinch a Betfred Super League slugfest against Warrington on a memorable night for Matt Peet's next generation at the Brick Community St…",
+        "fecha": "2026-07-10T17:59:00",
         "fuente": "Sky Sports"
       },
       {
@@ -774,10 +774,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "'Hugely impressive' Villiers enjoys dream Test debut for England at Lord's",
-        "enlace": "https://www.skysports.com/cricket/news/12040/13562397/england-vs-india-mady-villiers-hugely-impressive-on-dream-test-debut-at-lords-but-is-hard-slog-ahead-for-hosts",
-        "desc": "On the day which saw Sophie Ecclestone become England Women's leading wicket-taker across all formats , there was another standout spinner on day one of the women's Test at Lord's …",
-        "fecha": "2026-07-10T19:27:00",
+        "titulo": "Clinical Sinner outclasses Djokovic as he books Wimbledon final place",
+        "enlace": "https://www.skysports.com/tennis/news/12040/13562360/wimbledon-2026-clinical-jannik-sinner-outclasses-novak-djokovic-to-set-up-final-against-alexander-zverev",
+        "desc": "Novak Djokovic's dreams of a record-equalling eighth Wimbledon title at the age of 39 were firmly snuffed out by defending champion Jannik Sinner at the semi-final stage on Friday,…",
+        "fecha": "2026-07-10T17:18:00",
         "fuente": "Sky Sports"
       }
     ],
@@ -802,7 +802,7 @@
         "titulo": "Warum die Fußball-WM der Psyche guttun kann",
         "enlace": "https://www.dw.com/de/warum-die-fußball-wm-der-psyche-guttun-kann/a-77889154?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die Fußball-Weltmeisterschaft bietet mehr als spannende Spiele. Laut der klinischen Psychologin Katie Wood fördern gemeinsame Fußballerlebnisse das Wohlbefinden und stärken das Gef…",
-        "fecha": "2026-07-10T20:28:09.817606+00:00",
+        "fecha": "2026-07-10T22:10:28.400863+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,7 +816,7 @@
         "titulo": "\"Messi-Verschwörung\"? - Ägypten wirft FIFA Manipulation vor",
         "enlace": "https://www.dw.com/de/messi-verschwörung-ägypten-wirft-fifa-manipulation-vor/a-77874613?maca=de-rss-de-sport-4020-rdf",
         "desc": "Ägypten schäumt nach dem knappen Aus im Achtelfinale der Fußball-WM gegen Weltmeister Argentinien vor Wut. Trainer Hossam Hassan erhebt schwere Vorwürfe und bekommt auch aus Deutsc…",
-        "fecha": "2026-07-10T20:28:09.817640+00:00",
+        "fecha": "2026-07-10T22:10:28.400905+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -856,21 +856,21 @@
         "titulo": "Ciencia",
         "enlace": "http://www.elmundo.es/ciencia.html",
         "desc": "Ciencia",
-        "fecha": "2026-07-10T20:28:18.342523+00:00",
+        "fecha": "2026-07-10T22:10:33.118645+00:00",
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "\"Ya no quiero ser pediatra. La mirada de esos niños se queda con uno para siempre\": el dolor de los médicos que asisten a los heridos del terremoto en Venezuela",
-        "enlace": "https://www.bbc.com/mundo/articles/clywmp92zv3o?at_medium=RSS&at_campaign=rss",
-        "desc": "Agotados por el volumen de pacientes y conmovidos por la severidad de los casos, los médicos venezolanos luchan por sobreponerse al desgaste de trabajar sin insumos ni equipos adec…",
-        "fecha": "2026-07-10T15:42:38+00:00",
+        "titulo": "España alcanza las segundas semifinales del Mundial de su historia y habrá choque estelar con Francia",
+        "enlace": "https://www.bbc.co.uk/mundo/live/ce37x1ynx92t?at_medium=RSS&at_campaign=rss",
+        "desc": "Fabián Ruiz abrió el tanteador, Charles De Ketelaere lo empató y Mikel Merino sentenció el partido para España. \"No me lo creo, otra vez lo he hecho\", dijo luego Merino, quien tamb…",
+        "fecha": "2026-07-10T22:10:36.967507+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Corrección del autor: fases minerales autigénicas como impulsoras del ciclo del hierro en la parte superior del océano",
         "enlace": "https://www.nature.com/articles/s41586-026-10853-5",
         "desc": "Naturaleza, Publicado en línea: 10 de julio de 2026; doi:10.1038/s41586-026-10853-5 Corrección del autor: fases minerales autigénicas como impulsoras del ciclo del hierro en la parte superior del océano",
-        "fecha": "2026-07-10T20:28:24.231645+00:00",
+        "fecha": "2026-07-10T22:10:37.107124+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -888,17 +888,17 @@
         "fuente": "ABC Ciencia"
       },
       {
-        "titulo": "Al menos 12 muertos y 23 desaparecidos en el incendio más letal de las últimas décadas en España en medio de la ola de calor",
-        "enlace": "https://www.bbc.com/mundo/articles/c15y8edd483o?at_medium=RSS&at_campaign=rss",
-        "desc": "Varias brigadas de bomberos intentan contener el incendio alrededor de Los Gallardos, Almería, en el sur de España. Cientos de residentes han sido evacuados.",
-        "fecha": "2026-07-10T15:01:04+00:00",
+        "titulo": "\"Ya no quiero ser pediatra. La mirada de esos niños se queda con uno para siempre\": el dolor de los médicos que asisten a los heridos del terremoto en Venezuela",
+        "enlace": "https://www.bbc.com/mundo/articles/clywmp92zv3o?at_medium=RSS&at_campaign=rss",
+        "desc": "Agotados por el volumen de pacientes y conmovidos por la severidad de los casos, los médicos venezolanos luchan por sobreponerse al desgaste de trabajar sin insumos ni equipos adec…",
+        "fecha": "2026-07-10T15:42:38+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "El cruce alpino cobró un alto precio entre los elefantes y las tropas de Aníbal",
         "enlace": "https://www.nature.com/articles/d41586-026-02113-3",
         "desc": "Naturaleza, Publicado en línea: 10 de julio de 2026; doi:10.1038/d41586-026-02113-3 Los paquidermos habrían perdido cantidades sustanciales de peso al atravesar las montañas, al igual que los caballos y los s...",
-        "fecha": "2026-07-10T20:28:24.231697+00:00",
+        "fecha": "2026-07-10T22:10:37.107166+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -914,7 +914,7 @@
         "titulo": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
         "enlace": "https://www.nature.com/articles/s41586-026-10853-5",
         "desc": "Nature, Published online: 10 July 2026; doi:10.1038/s41586-026-10853-5 Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
-        "fecha": "2026-07-10T20:28:30.512928+00:00",
+        "fecha": "2026-07-10T22:10:38.366913+00:00",
         "fuente": "Nature"
       },
       {
@@ -932,17 +932,17 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Valve's new Steam Machine verification system is silent on these Steam Deck-busters",
-        "enlace": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-        "desc": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
-        "fecha": "2026-07-10T16:53:31+00:00",
+        "titulo": "China recovered its first reusable rocket and showed a new way to do it",
+        "enlace": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+        "desc": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+        "fecha": "2026-07-10T21:41:43+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Children back group claims over evidence, but privacy reduces bias, experiments reveal",
-        "enlace": "https://phys.org/news/2026-07-children-group-evidence-privacy-bias.html",
-        "desc": "As we move closer to Election Day 2026, voting preferences are moving back into focus—and with them, analyses of what drives partisanship at the polls. However, less frequently ask…",
-        "fecha": "2026-07-10T16:20:02-04:00",
+        "titulo": "Dark energy flips its sign, but the Hubble tension refuses to budge",
+        "enlace": "https://phys.org/news/2026-07-dark-energy-flips-hubble-tension.html",
+        "desc": "For nearly a century, astronomers have known that the universe is expanding. In the late 1990s, two independent teams, the Supernova Cosmology Project, led by Saul Perlmutter, and …",
+        "fecha": "2026-07-10T17:40:01-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -960,10 +960,10 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Helping one of Britain's rarest butterflies",
-        "enlace": "https://www.bbc.co.uk/news/videos/cwyezwg89n3o?at_medium=RSS&at_campaign=rss",
-        "desc": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary.",
-        "fecha": "2026-07-10T20:14:46+00:00",
+        "titulo": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+        "enlace": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+        "desc": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+        "fecha": "2026-07-10T21:30:57+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -977,7 +977,7 @@
         "titulo": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
         "enlace": "https://www.nature.com/articles/d41586-026-02113-3",
         "desc": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02113-3 Pachyderms would have lost substantial amounts of weight traversing the mountains, as would have horses and s…",
-        "fecha": "2026-07-10T20:28:30.512997+00:00",
+        "fecha": "2026-07-10T22:10:38.366978+00:00",
         "fuente": "Nature"
       }
     ],
@@ -993,7 +993,7 @@
         "titulo": "Correction de l'auteur : Les phases minérales authigènes en tant que moteur du cycle du fer dans les couches supérieures de l'océan",
         "enlace": "https://www.nature.com/articles/s41586-026-10853-5",
         "desc": "Nature, Mise en ligne : 10 juillet 2026 ; doi:10.1038/s41586-026-10853-5 Correction de l'auteur : Les phases minérales authigènes en tant que moteur du cycle du fer dans les couches supérieures de l'océan",
-        "fecha": "2026-07-10T20:28:35.034357+00:00",
+        "fecha": "2026-07-10T22:10:41.252335+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1007,7 +1007,7 @@
         "titulo": "La traversée alpine a coûté un lourd tribut aux éléphants et aux troupes d'Hannibal",
         "enlace": "https://www.nature.com/articles/d41586-026-02113-3",
         "desc": "Nature, Mise en ligne : 10 juillet 2026 ; est ce que je:10.1038/d41586-026-02113-3 Les pachydermes auraient perdu une quantité substantielle de poids en traversant les montagnes, tout comme les chevaux et les animaux…",
-        "fecha": "2026-07-10T20:28:35.034396+00:00",
+        "fecha": "2026-07-10T22:10:41.252376+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1016,28 +1016,28 @@
         "titulo": "Antidepressiva im Sommer: Warum Hitze zur Gefahr wird",
         "enlace": "https://www.dw.com/de/antidepressiva-im-sommer-warum-hitze-zur-gefahr-wird/a-77879716?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Menschen, die Antidepressiva nehmen, müssen bei Hitze oft besonders leiden. Es kommt schneller zu Schwindel, Erschöpfung und Dehydrierung. Das kann gefährliche Folgen haben.",
-        "fecha": "2026-07-10T20:28:38.634933+00:00",
+        "fecha": "2026-07-10T22:10:42.257189+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Authigene Mineralphasen als Treiber des Eisenkreislaufs im oberen Ozean",
         "enlace": "https://www.nature.com/articles/s41586-026-10853-5",
         "desc": "Natur, Online veröffentlicht: 10. Juli 2026; doi:10.1038/s41586-026-10853-5 Autorenkorrektur: Authigene Mineralphasen als Treiber des Eisenkreislaufs im oberen Ozean",
-        "fecha": "2026-07-10T20:28:38.759609+00:00",
+        "fecha": "2026-07-10T22:10:42.378886+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Hirntumoren: Neuer Impfstoff weckt Hoffnung auf mehr Zeit",
         "enlace": "https://www.dw.com/de/hirntumoren-neuer-impfstoff-weckt-hoffnung-auf-mehr-zeit/a-77817203?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Eine neue Therapie lässt Menschen mit praktisch unheilbaren Hirntumoren hoffen: Sie könnte den Krankheitsverlauf verlangsamen und das Leben der Betroffenen verlängern.",
-        "fecha": "2026-07-10T20:28:38.634977+00:00",
+        "fecha": "2026-07-10T22:10:42.257228+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Die Alpenüberquerung forderte für Hannibals Elefanten und Truppen einen hohen Tribut",
         "enlace": "https://www.nature.com/articles/d41586-026-02113-3",
         "desc": "Natur, Online veröffentlicht: 10. Juli 2026; doi:10.1038/d41586-026-02113-3 Dickhäuter hätten beim Überqueren der Berge erhebliche Mengen an Gewicht verloren, ebenso wie Pferde und Tiere.",
-        "fecha": "2026-07-10T20:28:38.759646+00:00",
+        "fecha": "2026-07-10T22:10:42.378950+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1046,23 +1046,23 @@
         "titulo": "Correzione dell'autore: fasi minerali autigeniche come motore del ciclo del ferro negli oceani superiori",
         "enlace": "https://www.nature.com/articles/s41586-026-10853-5",
         "desc": "Natura, Pubblicato online: 10 luglio 2026; doi:10.1038/s41586-026-10853-5 Correzione dell'autore: fasi minerali autigeniche come motore del ciclo del ferro negli oceani superiori",
-        "fecha": "2026-07-10T20:28:44.056217+00:00",
+        "fecha": "2026-07-10T22:10:44.603883+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "La traversata alpina ha messo a dura prova gli elefanti e le truppe di Annibale",
         "enlace": "https://www.nature.com/articles/d41586-026-02113-3",
         "desc": "Natura, Pubblicato online: 10 luglio 2026; doi:10.1038/d41586-026-02113-3 I pachidermi avrebbero perso notevoli quantità di peso attraversando le montagne, così come i cavalli e gli animali...",
-        "fecha": "2026-07-10T20:28:44.056253+00:00",
+        "fecha": "2026-07-10T22:10:44.603945+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Futebol e festivais são a prioridade em plena crise?",
-        "enlace": "https://observador.pt/programas/e-o-vencedor-e/futebol-e-festivais-sao-a-prioridade-em-plena-crise/",
-        "desc": "Entre riscos de incêndio e ondas de calor, a chefia do governo decidiu viajar para jogos no estrangeiro. As falhas na correção e o atraso nas notas das provas nacionais preocupam a…",
-        "fecha": "2026-07-10T21:20:54+01:00",
+        "titulo": "Espanha volta às meias-finais do Mundial 16 anos depois",
+        "enlace": "https://observador.pt/2026/07/10/acredito-em-coincidencias-mas-isto-nao-e-coincidencia-se-acontece-e-porque-me-preparo-espanha-volta-as-meias-finais-16-anos-depois/",
+        "desc": "Espanha vai defrontar França pela segunda vez em Mundiais na terça-feira, na primeira meia-final",
+        "fecha": "2026-07-10T23:08:21+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1073,10 +1073,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "STF congela bens do presidente do partido de Bolsonaro",
-        "enlace": "https://observador.pt/2026/07/10/supremo-brasileiro-bloqueia-34-milhoes-de-euros-em-bens-do-presidente-do-partido-de-bolsonaro/",
-        "desc": "Valdemar Costa Neto comanda a principal agremiação da extrema-direita no Brasil",
-        "fecha": "2026-07-10T21:17:09+01:00",
+        "titulo": "Pescadores com projeto de 80 mil euros para edifício Onda",
+        "enlace": "https://observador.pt/2026/07/10/pescadores-de-vila-praia-de-ancora-com-projeto-de-80-mil-euros-para-edificio-onda/",
+        "desc": "Vila Praia de Âncora é uma freguesia costeira no concelho de Caminha",
+        "fecha": "2026-07-10T23:06:29+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1099,21 +1099,21 @@
         "titulo": "JP Morgan desarrolla un agente de IA de inversión que mejora los resultados de la cartera 60/40",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-10/jpmorgan-desarrolla-un-agente-de-ia-de-inversion_4387904/",
         "desc": "En pruebas retrospectivas durante las últimas dos décadas, el agente de IA con mejor desempeño logró un rendimiento anualizado 0,7 puntos porcentuales superior al tradicional porta…",
-        "fecha": "2026-07-10T20:28:51.762806+00:00",
+        "fecha": "2026-07-10T22:10:48.572530+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Renfe repetirá parte de las oposiciones a operador comercial tras el escándalo con el psicotécnico",
-        "enlace": "https://www.abc.es/economia/renfe-repetira-parte-oposiciones-operador-comercial-tras-20260710162355-nt.html",
-        "desc": "Renfe ha optado por repetir parte de las oposiciones a operador comercial tras detectar irregularidades en la prueba psicotécnica verbal celebrada el pasado 6 de junio. El examen s…",
-        "fecha": "2026-07-10T16:26:07+02:00",
+        "titulo": "Apple demanda a OpenAI y dos exempleados por robar información confidencial",
+        "enlace": "https://www.abc.es/economia/apple-demanda-openai-dos-exempleados-robar-informacion-20260710231605-nt.html",
+        "desc": "Apple ha demandado este viernes a la empresa OpenAI , creadora de ChatGPT , a la que ha acusado de orquestar una campaña para robar los secretos empresariales del fabricante del iP…",
+        "fecha": "2026-07-10T23:16:06+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "'Moana', Rolling Stones, gasto minorista: mirar hacia el futuro",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-        "desc": "Lisa Mateo de Bloomberg se une a Scarlet Fu y Tom Keene en \"Bloomberg Money\". Hablan sobre la nueva película de acción en vivo de Moana, el nuevo álbum de los Rolling Stones \"Foreign Tongues\", J…",
-        "fecha": "2026-07-10T20:18:48+00:00",
+        "titulo": "El debut de SK Hynix es una apuesta a que la IA rompa el ciclo de auge y caída de los chips",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+        "desc": "El fabricante surcoreano de chips de memoria SK Hynix Inc. acaba de realizar la mayor cotización pública de una empresa extranjera en la historia del mercado estadounidense. Las acciones se dispararon un 13% en su primer día de cotización.",
+        "fecha": "2026-07-10T21:52:56+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1134,21 +1134,21 @@
         "titulo": "El BEI amplía a 80.000 M su fondo para tecnológicas y se suman Santander, BBVA y Altamar",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-10/banco-europeo-inversiones-nadia-calvino-fondo-tecnologicas-santander-bbva-altamar_4387899/",
         "desc": "El Banco Europeo de Inversiones aportará hasta 1.250 millones de euros, mientras que el resto procederá de los países participantes y de inversores institucionales",
-        "fecha": "2026-07-10T20:28:51.762842+00:00",
+        "fecha": "2026-07-10T22:10:48.572574+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "El Supremo reitera que los interinos no pueden ser fijos sin oposición y abre la puerta a indemnizaciones",
-        "enlace": "https://www.abc.es/economia/supremo-reitera-interinos-pueden-fijos-oposicion-abre-20260710141334-nt.html",
-        "desc": "El millón de interinos que trabajan en las Administraciones públicas españolas han recibido hoy un varapalo judicial con la publicación de una sentencia por parte del Tribunal Supr…",
-        "fecha": "2026-07-10T14:13:36+02:00",
+        "titulo": "Renfe repetirá parte de las oposiciones a operador comercial tras el escándalo con el psicotécnico",
+        "enlace": "https://www.abc.es/economia/renfe-repetira-parte-oposiciones-operador-comercial-tras-20260710162355-nt.html",
+        "desc": "Renfe ha optado por repetir parte de las oposiciones a operador comercial tras detectar irregularidades en la prueba psicotécnica verbal celebrada el pasado 6 de junio. El examen s…",
+        "fecha": "2026-07-10T16:26:07+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El S&P 500 sube antes de las ganancias cuando debuta SK Hynix: cierre de los mercados",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-        "desc": "Los operadores de Wall Street impulsaron las acciones al alza en la cuenta atrás para la temporada de resultados, con SK Hynix Inc. saltando en su debut y el mercado analizando los últimos acontecimientos geopolíticos...",
-        "fecha": "2026-07-09T22:08:45+00:00",
+        "titulo": "La empresa de servicios de energía nuclear Holtec se une a la fiebre de salida a bolsa del sector",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+        "desc": "Holtec Nuclear Corp. solicitó una oferta pública inicial en Estados Unidos, convirtiéndose en la última del sector en intentar capitalizar las crecientes demandas de energía de los centros de datos.",
+        "fecha": "2026-07-10T21:40:08+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1161,17 +1161,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "'Moana,' Rolling Stones, Retail Spending: Look Ahead",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-        "desc": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the new released live action Moana movie, the new Rolling Stones album \"Foreign Tongues,\" J…",
-        "fecha": "2026-07-10T20:18:48+00:00",
+        "titulo": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+        "desc": "South Korean memory chipmaker SK Hynix Inc. just pulled off the largest public listing by a foreign company in US market history. Shares soared 13% on their first day of trading.",
+        "fecha": "2026-07-10T21:52:56+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "More than 550,000 Kobalt yard tools recalled over battery fire hazard",
-        "enlace": "https://www.foxbusiness.com/lifestyle/over-550000-kobalt-yard-tools-recalled-over-battery-fire-hazard",
-        "desc": "Greenworks is recalling more than 550,000 Kobalt yard power tools and USB-C batteries sold at Lowe&apos;s because the batteries can short-circuit while charging, posing a fire haza…",
-        "fecha": "2026-07-10T16:11:38-04:00",
+        "titulo": "Cuisinart stainless steel propane grill sold at Lowe's and Walmart recalled over shattering glass risk",
+        "enlace": "https://www.foxbusiness.com/lifestyle/cuisinart-stainless-steel-propane-grill-sold-lowes-walmart-recalled-over-shattering-glass-risk",
+        "desc": "About 12,660 Cuisinart propane grills are recalled due to tempered glass shattering risks, with affected owners eligible for up to a $500 refund.",
+        "fecha": "2026-07-10T17:43:27-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1189,17 +1189,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "S&amp;P 500 Rises Before Earnings as SK Hynix Debuts: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-        "desc": "Wall Street traders drove stocks higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments…",
-        "fecha": "2026-07-09T22:08:45+00:00",
+        "titulo": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+        "desc": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
+        "fecha": "2026-07-10T21:40:08+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Delta CEO Ed Bastian says airline fares will stay elevated even if jet fuel prices fall",
-        "enlace": "https://www.foxbusiness.com/economy/delta-ceo-ed-bastian-says-airline-fares-stay-elevated-even-jet-fuel-prices-fall",
-        "desc": "Delta CEO Ed Bastian says airline fares will stay elevated even if jet fuel prices moderate, as labor costs and inflation reshape the industry.",
-        "fecha": "2026-07-10T14:10:56-04:00",
+        "titulo": "Apple accuses OpenAI of telling recruits to bring Apple prototypes to interviews",
+        "enlace": "https://www.foxbusiness.com/technology/apple-accuses-openai-telling-recruits-bring-apple-prototypes-interviews",
+        "desc": "Apple accuses OpenAI of telling recruits to bring confidential prototypes and hardware to job interviews in a new trade secrets lawsuit",
+        "fecha": "2026-07-10T17:36:16-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1219,93 +1219,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "« Moana », les Rolling Stones, les dépenses de détail : regardez vers l'avenir",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-        "desc": "Lisa Mateo de Bloomberg rejoint Scarlet Fu et Tom Keene sur « Bloomberg Money ». Ils discutent du nouveau film d'action live Moana, du nouvel album des Rolling Stones \"Foreign Tongues\", de J…",
-        "fecha": "2026-07-10T20:18:48+00:00",
+        "titulo": "Les débuts de SK Hynix sont un pari que l'IA brise le cycle des puces en plein essor et en récession",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+        "desc": "Le fabricant sud-coréen de puces mémoire SK Hynix Inc. vient de réaliser la plus grande cotation publique d'une société étrangère dans l'histoire du marché américain. Les actions ont grimpé de 13 % dès leur premier jour de cotation.",
+        "fecha": "2026-07-10T21:52:56+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Le S&P 500 augmente avant les bénéfices alors que SK Hynix fait ses débuts : les marchés se replient",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-        "desc": "Les traders de Wall Street ont fait grimper les actions à l'approche de la saison des résultats, avec SK Hynix Inc. qui a bondi à ses débuts et le marché analysant les derniers développements géopolitiques…",
-        "fecha": "2026-07-09T22:08:45+00:00",
+        "titulo": "La société de services d’énergie nucléaire Holtec se joint à la ruée vers les introductions en bourse du secteur",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+        "desc": "Holtec Nuclear Corp. a déposé une demande d’introduction en bourse aux États-Unis, devenant ainsi la dernière entreprise du secteur à tenter de tirer parti de la demande croissante en énergie des centres de données.",
+        "fecha": "2026-07-10T21:40:08+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Abgeordnetenhauswahl in Berlin: Berlins CDU bekommt einen neuen Spitzenkandidaten",
-        "enlace": "https://www.handelsblatt.com/politik/deutschland/abgeordnetenhauswahl-in-berlin-berlins-cdu-bekommt-einen-neuen-spitzenkandidaten/100239361.html",
-        "desc": "Nach dem Rückzug von Kai Wegner braucht die Berliner CDU einen neuen Spitzenkandidaten für die Abgeordnetenhauswahl. Die Kreisvorsitzenden der Hauptstadt haben sich auf einen Namen…",
-        "fecha": "2026-07-10T19:46:15+00:00",
+        "titulo": "KI: Apple reicht Klage gegen ChatGPT-Macher OpenAI ein",
+        "enlace": "https://www.handelsblatt.com/technik/it-internet/ki-apple-reicht-klage-gegen-chatgpt-macher-openai-ein/100239473.html",
+        "desc": "Der iPhone-Konzern wirft OpenAI den Diebstahl von Geschäftsgeheimnissen vor. Mit einer Klage in Kalifornien will der Konzern das mutmaßliche Fehlverhalten stoppen.",
+        "fecha": "2026-07-10T21:52:11+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "„Moana“, Rolling Stones, Einzelhandelsausgaben: Blick nach vorne",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-        "desc": "Lisa Mateo von Bloomberg begleitet Scarlet Fu und Tom Keene bei „Bloomberg Money“. Sie diskutieren über den neu veröffentlichten Live-Action-Film „Moana“, das neue Rolling-Stones-Album „Foreign Tongues“, J…",
-        "fecha": "2026-07-10T20:18:48+00:00",
+        "titulo": "Das Debüt von SK Hynix ist eine Wette darauf, dass KI den Boom-and-Bust-Chip-Zyklus durchbricht",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+        "desc": "Der südkoreanische Speicherchiphersteller SK Hynix Inc. hat gerade den größten Börsengang eines ausländischen Unternehmens in der Geschichte des US-Marktes geschafft. Die Aktien stiegen am ersten Handelstag um 13 %.",
+        "fecha": "2026-07-10T21:52:56+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Volkswagen: Nahostkonflikt erreicht VW – Katar stellt sich gegen Deal mit Israel",
-        "enlace": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-katar-stellt-sich-gegen-deal-mit-israel/100239467.html",
-        "desc": "Eine Rüstungskooperation mit dem israelischen Konzern Rafael sollte das VW-Werk in Osnabrück retten. Doch ein Großaktionär sperrt sich gegen den Plan. Es geht um Hunderte Jobs.",
-        "fecha": "2026-07-10T19:32:00+00:00",
+        "titulo": "Streit um Geheimnisse: Apple verklagt ChatGPT-Firma OpenAI",
+        "enlace": "https://www.handelsblatt.com/technik/it-internet/streit-um-geheimnisse-apple-verklagt-chatgpt-firma-openai/100239475.html",
+        "desc": "Die ChatGPT-Firma OpenAI entwickelt ein Gerät speziell für die Nutzung mit Künstlicher Intelligenz. Dabei wurden auch Apple-Mitarbeiter verpflichtet. Jetzt gibt es eine Klage.",
+        "fecha": "2026-07-10T21:43:23+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "S&P 500 steigt vor Gewinn, da SK Hynix debütiert: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-        "desc": "Wall-Street-Händler trieben die Aktien im Countdown zur Gewinnsaison in die Höhe, wobei SK Hynix Inc. bei seinem Debüt einen Sprung machte und der Markt die neuesten geopolitischen Entwicklungen analysierte …",
-        "fecha": "2026-07-09T22:08:45+00:00",
+        "titulo": "Das Kernenergie-Dienstleistungsunternehmen Holtec schließt sich dem IPO Rush des Sektors an",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+        "desc": "Holtec Nuclear Corp. hat einen Börsengang in den USA beantragt und ist damit das jüngste Unternehmen der Branche, das versucht, vom wachsenden Strombedarf der Rechenzentren zu profitieren.",
+        "fecha": "2026-07-10T21:40:08+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "\"Moana\", Rolling Stones, Spesa al dettaglio: guardare avanti",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-        "desc": "Lisa Mateo di Bloomberg si unisce a Scarlet Fu e Tom Keene in \"Bloomberg Money\". Discutono del nuovo film live action di Moana, del nuovo album dei Rolling Stones \"Foreign Tongues\", di J...",
-        "fecha": "2026-07-10T20:18:48+00:00",
+        "titulo": "Il debutto di SK Hynix è una scommessa sul fatto che l'intelligenza artificiale interrompe il ciclo di boom e fallimento dei chip",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+        "desc": "Il produttore sudcoreano di chip di memoria SK Hynix Inc. ha appena lanciato la più grande quotazione pubblica di una società straniera nella storia del mercato statunitense. Le azioni sono aumentate del 13% nel primo giorno di negoziazione.",
+        "fecha": "2026-07-10T21:52:56+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "L'indice S&P 500 sale prima degli utili con il debutto di SK Hynix: chiusura dei mercati",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-        "desc": "I trader di Wall Street hanno spinto le azioni al rialzo nel conto alla rovescia per la stagione degli utili, con SK Hynix Inc. al debutto e il mercato che analizza gli ultimi sviluppi geopolitici...",
-        "fecha": "2026-07-09T22:08:45+00:00",
+        "titulo": "La società di servizi per l’energia nucleare Holtec si unisce alla corsa all’IPO del settore",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+        "desc": "Holtec Nuclear Corp. ha presentato istanza di offerta pubblica iniziale negli Stati Uniti, diventando l’ultima nel settore a cercare di sfruttare la crescente domanda di energia dei data center.",
+        "fecha": "2026-07-10T21:40:08+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Wall Street avança com otimismo sobre negociações EUA-Irão. SK Hynix dispara quase 13%",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-avanca-com-otimismo-sobre-negociacoes-eua-irao-sk-hynix-dispara-quase-13",
-        "desc": "Os investidores estão a apostar que, apesar da mais recente troca de ataques, Washington e Teerão vão conseguir chegar a um entendimento que mantenha o estreito de Ormuz aberto. Es…",
-        "fecha": "2026-07-10T21:19:04+01:00",
+        "titulo": "Apple processa OpenAI por roubo de informação confidencial",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-processa-openai-por-roubo-de-informacao-confidencial",
+        "desc": "A empresa do iPhone alega que a criadora do ChatGPT e o seu responsável de hardware se apropriaram indevidamente de dados empresariais sigilosos para lançar a sua própria linha de …",
+        "fecha": "2026-07-10T22:45:05+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "'Moana', Rolling Stones, gastos no varejo: olhar para o futuro",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-        "desc": "Lisa Mateo, da Bloomberg, junta-se a Scarlet Fu e Tom Keene em “Bloomberg Money”. Eles discutem o novo filme de ação ao vivo da Moana, o novo álbum dos Rolling Stones \"Foreign Tongues\", J…",
-        "fecha": "2026-07-10T20:18:48+00:00",
+        "titulo": "A estreia do SK Hynix é uma aposta de que a IA quebra o ciclo de expansão e queda dos chips",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+        "desc": "A fabricante sul-coreana de chips de memória SK Hynix Inc. acaba de realizar a maior listagem pública de uma empresa estrangeira na história do mercado dos EUA. As ações subiram 13% no primeiro dia de negociação.",
+        "fecha": "2026-07-10T21:52:56+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Ministro da Economia inaugura variante rodoviária de mais de 21 milhões em Torres Vedras",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/detalhe/ministro-da-economia-inaugura-variante-rodoviaria-de-mais-de-21-milhoes-em-torres-vedras",
-        "desc": "Castro Almeida defendeu que a nova variante rodoviária constitui um \"elemento de valorização da área empresarial\", num concelho onde o setor agroalimentar tem um peso significativo…",
-        "fecha": "2026-07-10T20:56:32+01:00",
+        "titulo": "Lucro da Delta Air Lines cai para 898 milhões penalizado por subida do jet fuel",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/detalhe/lucro-da-delta-air-lines-cai-para-898-milhoes-penalizado-por-subida-do-jet-fuel",
+        "desc": "O CEO da companhia aérea, Ed Bastian, afirmou que a empresa registou lucro, apesar de ter suportado a maior despesa trimestral com combustível da história.",
+        "fecha": "2026-07-10T22:10:55+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "S&P 500 sobe antes dos lucros com a estreia da SK Hynix: encerramento dos mercados",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-        "desc": "Os traders de Wall Street impulsionaram as ações em alta na contagem regressiva para a temporada de lucros, com a SK Hynix Inc. saltando em sua estreia e o mercado analisando os últimos desenvolvimentos geopolíticos…",
-        "fecha": "2026-07-09T22:08:45+00:00",
+        "titulo": "Empresa de serviços de energia nuclear Holtec junta-se à corrida de IPO do setor",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+        "desc": "A Holtec Nuclear Corp. entrou com pedido de oferta pública inicial nos EUA, tornando-se a mais recente no setor a tentar capitalizar as crescentes demandas de energia dos data centers.",
+        "fecha": "2026-07-10T21:40:08+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
