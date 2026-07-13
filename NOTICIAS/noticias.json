@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-07-13T19:41:10.402933+00:00",
+  "actualizado": "2026-07-13T21:00:39.040698+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía en Venezuela",
-        "enlace": "https://www.abc.es/espana/comunidad-valenciana/edmundo-gonzalez-recibe-premio-convivencia-senado-clama-20260713211104-nt.html",
-        "desc": "Los líderes opositores venezolanos Edmundo González y María Corina Machado defendieron este lunes la «convivencia» en Venezuela frente al «régimen tiránico y criminal» del Gobierno…",
-        "fecha": "2026-07-13T21:11:05+02:00",
+        "titulo": "Hospitalizada una mujer tras sufrir una agresión de su pareja",
+        "enlace": "https://www.abc.es/espana/galicia/hospitalizada-mujer-tras-sufrir-agresion-pareja-20260713220932-nt.html",
+        "desc": "Una mujer permanece hospitalizada en Pontevedra debido a las lesiones sufridas en un supuesto episodios de violencia de género ocurrido este fin de semana en Cerdedo-Cotobade. El s…",
+        "fecha": "2026-07-13T22:09:32+02:00",
         "fuente": "ABC"
       },
       {
@@ -24,24 +24,24 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "ONCE: comprueba el Cupón Diario del lunes, 13 de julio de 2026",
-        "enlace": "https://theobjective.com/loterias/2026-07-13/resultados-once-lunes-13-julio-2026/",
-        "desc": "No olvides revisar tu décimo para confirmar si eres uno de los ganadores",
-        "fecha": "2026-07-13T19:20:34+00:00",
+        "titulo": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
+        "enlace": "https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/",
+        "desc": "El presidente de Estados Unidos, Donald Trump, aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», [&#8230;]",
+        "fecha": "2026-07-13T21:00:08+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Peinado pide a Begoña Gómez pruebas que acrediten que solo usó el pasaporte para viajar a la graduación de su hija",
         "enlace": "https://www.elconfidencial.com/espana/2026-07-13/peinado-pide-a-begona-gomez-pruebas-viaje_4389306/",
         "desc": "El instructor advierte a la mujer del presidente de que puede enfrentarse a un delito de quebrantamiento de medida cautelar y le da un plazo de cinco días para justificar su viaje …",
-        "fecha": "2026-07-13T19:41:13.316568+00:00",
+        "fecha": "2026-07-13T21:00:43.496113+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Cuándo es el España – Francia: horario del partido de la Selección y dónde ver en directo gratis y en vivo online la semifinal del Mundial 2026",
-        "enlace": "https://okdiario.com/mundial/cuando-espana-francia-horario-del-partido-seleccion-donde-ver-directo-gratis-vivo-online-semifinal-del-mundial-2026-video-18983383",
-        "desc": "Llegó el momento que todos esperaban. España y Francia se ven las caras en las semifinales del Mundial 2026 en lo que será un choque apasionante y que se disputará en el Estadio de…",
-        "fecha": "2026-07-13T21:00:20+02:00",
+        "titulo": "Alineación de Francia contra España: Tchouaméni regresa a la titularidad",
+        "enlace": "https://okdiario.com/mundial/alineacion-francia-contra-espana-tchouameni-regresa-titularidad-18982191",
+        "desc": "Didier Deschamps tampoco parece dispuesto a inventar en el partido más importante del Mundial. El seleccionador francés habría encontrado su equipo ideal durante las eliminatorias …",
+        "fecha": "2026-07-13T22:30:10+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -52,10 +52,10 @@
         "fuente": "El Español"
       },
       {
-        "titulo": "Sumar se ufana de hoja de servicios en un final de legislatura «crítico»",
-        "enlace": "https://www.abc.es/espana/sumar-ufana-hoja-servicios-final-legislatura-critico-20260713205136-nt.html",
-        "desc": "Día uno sin Yolanda Díaz. A las puertas del parón vacacional estival, Sumar vuelve a tratar de exhibir músculo frente a un PSOE cercado por los escándalos de corrupción con una reu…",
-        "fecha": "2026-07-13T20:51:37+02:00",
+        "titulo": "El Córdoba Patrimonio de la Humanidad suma su sexta incorporación con el fichaje del pívot Pablo Ibarra",
+        "enlace": "https://www.abc.es/espana/andalucia/cordoba/cordoba-patrimonio-suma-sexta-incorporacion-fichaje-pivot-20260713220405-nts.html",
+        "desc": "El Córdoba Patrimonio de la Humanidad continúa dando forma a su plantilla para la próxima temporada, curso que ya comenzará el próximo lunes a rodar en materia social con la presen…",
+        "fecha": "2026-07-13T22:06:32+02:00",
         "fuente": "ABC"
       },
       {
@@ -75,6 +75,20 @@
     ],
     "nacional_us": [
       {
+        "titulo": "Driver accused of DUI survives astonishing 600-foot plunge down California cliff",
+        "enlace": "https://www.foxnews.com/us/driver-accused-dui-survives-astonishing-600-foot-plunge-california-cliff",
+        "desc": "A suspected impaired driver survived after a pickup truck plunged roughly 600 feet down a Northern California cliff before being arrested on suspicion of DUI.",
+        "fecha": "2026-07-13T15:46:33-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
+        "enlace": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
+        "desc": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally.",
+        "fecha": "2026-07-13T16:22:49-04:00",
+        "fuente": "NPR"
+      },
+      {
         "titulo": "Menlo College student accused of raping 12-year-old as prosecutors probe second victim",
         "enlace": "https://www.foxnews.com/us/menlo-college-student-accused-raping-12-year-old-prosecutors-probe-second-victim",
         "desc": "Andres Manuel Aguilar&apos;s preliminary hearing delayed as San Mateo County prosecutors investigate a potential additional victim in the assault case.",
@@ -82,55 +96,41 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
-        "enlace": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
-        "desc": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
-        "fecha": "2026-07-13T12:53:40-04:00",
-        "fuente": "NPR"
-      },
-      {
-        "titulo": "Migrant who fled Ireland after American mother's murder is arrested in Jordan",
-        "enlace": "https://www.foxnews.com/us/migrant-fled-ireland-american-mothers-murder-arrested-jordan",
-        "desc": "The migrant who fled Ireland after the murder of American mother Jamey Carney has been arrested in Jordan, marking a major breakthrough in the investigation.",
-        "fecha": "2026-07-13T14:38:19-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "States sue to stop Paramount-Warner Bros blockbuster merger",
-        "enlace": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit",
-        "desc": "California is among the states suing to block Paramount from buying Warner Bros. Discovery in a Hollywood mega-merger that would unite some of the nation's largest movie studios an…",
-        "fecha": "2026-07-13T12:30:12-04:00",
+        "titulo": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
+        "enlace": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
+        "desc": "South Carolina's governor says he is appointing Darline Graham Nordone to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the…",
+        "fecha": "2026-07-13T16:17:53-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "La increíble historia de amor de Harry Kane y su esposa: \"Tengo suerte de tener a mi novia de la infancia”",
-        "enlace": "https://www.clarin.com/internacional/increible-historia-amor-harry-kane-esposa-suerte-tener-novia-infancia_0_PLYwVbZaeV.html",
-        "desc": "El futbolista inglés conoció a su actual pareja cuando iba al colegio. Cómo llegaron a casarse y la familia que formaron.",
-        "fecha": "2026-07-13T16:48:17+00:00",
+        "titulo": "La playa de Brasil donde el invierno casi no existe: sol y temperaturas cálidas incluso en julio",
+        "enlace": "https://www.clarin.com/informacion-general/playa-brasil-invierno-existe-sol-temperaturas-calidas-incluso-julio_0_rYsILC0lR9.html",
+        "desc": "Sus condiciones climáticas la distinguen de otros destinos de la región durante el invierno. Es considerada una de las playas más bellas del mundo.",
+        "fecha": "2026-07-13T20:05:35+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Quién es Paz Cardoso, la esposa de Diego Forlán que llegó tras el escándalo con Zaira Nara",
-        "enlace": "https://www.lanacion.com.ar/deportes/quien-es-paz-cardoso-la-esposa-de-diego-forlan-que-llego-tras-el-escandalo-con-zaira-nara-nid13072026/",
-        "desc": "El exfutbolista asume el desafío de dirigir a la selección uruguaya en un momento clave de su carrera, mientras su vida privada se consolida junto a su compañera de hace más de una…",
-        "fecha": "2026-07-13T19:39:23+00:00",
+        "titulo": "Haaland aterrizó en Noruega y bajó del avión con un mapache disecado entre manos",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/haaland-aterrizo-en-noruega-con-un-insolito-souvenir-nid13072026/",
+        "desc": "El delantero adquirió su “nueva mascota” en la tienda Wild Bill’s Western Store de Dallas, donde disputó los dieciseisavos de final de la Copa del Mundo; el artículo tiene un valor…",
+        "fecha": "2026-07-13T20:58:01+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Murió la querida abuela de Nicolás Occhiato: las emotivas palabras que le dedicó",
-        "enlace": "https://www.clarin.com/fama/murio-querida-abuela-nicolas-occhiato-emotivas-palabras-dedico_0_7O43pko85J.html",
-        "desc": "El conductor informó la triste noticia al aire de su programa de streaming. Concepción supo ser una figura conocida para los fanáticos de Luzu TV.",
-        "fecha": "2026-07-13T16:35:14+00:00",
+        "titulo": "Crean un inodoro con ruedas que puede trasladarse por toda la casa",
+        "enlace": "https://www.clarin.com/internacional/crean-inodoro-ruedas-puede-trasladarse-toda-casa_0_5uLaneWum3.html",
+        "desc": "Se mueve con sensores y puede llegar hasta la habitación del usuario. Fue pensado para mayores, pacientes y personas con movilidad reducida.",
+        "fecha": "2026-07-13T20:00:02+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Imponen una demanda para bloquear la multimillonaria fusión de Paramount-Warner",
-        "enlace": "https://www.lanacion.com.ar/espectaculos/television/imponen-una-demanda-para-bloquear-la-multimillonaria-fusion-de-paramount-warner-nid13072026/",
-        "desc": "Con California a la cabeza, doce estados de los Estados Unidos quieren impedir el acuerdo de 111 mil millones de dólares",
-        "fecha": "2026-07-13T19:37:27+00:00",
+        "titulo": "Colesterol: los seis alimentos que ayudan a prevenirlo y en qué cantidades hay que consumirlos",
+        "enlace": "https://www.lanacion.com.ar/sociedad/colesterol-los-seis-alimentos-que-ayudan-a-prevenirlo-y-en-que-cantidades-hay-que-consumirlos-nid12072026/",
+        "desc": "El cardiólogo Jorge Tartaglione visitó los estudios de LN+, donde además recomendó la ingesta de estatinas; cómo controlar los niveles y qué riesgos pueden reducirse con una dieta …",
+        "fecha": "2026-07-13T20:58:00+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -144,17 +144,17 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "«On n’en voyait plus le bout» : de Marseille à Paris, le long cauchemar des voyageurs bloqués sur la LGV Sud-Est à cause des feux",
-        "enlace": "https://www.lefigaro.fr/conjoncture/on-n-en-voyait-plus-le-bout-de-marseille-a-paris-le-long-cauchemar-des-voyageurs-bloques-sur-la-lgv-sud-est-a-cause-des-feux-20260713",
-        "desc": "RÉCIT - Un feu en forêt de Fontainebleau et un départ d’incendie près de Sens ont suffi à paralyser l’un des axes ferroviaires les plus fréquentés de France. Récit d’un début de se…",
-        "fecha": "2026-07-13T21:12:17+02:00",
+        "titulo": "Dans la forêt de Fontainebleau, les secours luttent contre des incendies exceptionnels",
+        "enlace": "https://www.lefigaro.fr/actualite-france/dans-la-foret-de-fontainebleau-les-secours-luttent-contre-des-incendies-exceptionnels-20260713",
+        "desc": "REPORTAGE - 1 300 hectares de la forêt domaniale située en Seine-et-Marne ont été ravagés par les flammes, contre lesquelles se battent plus de 500 sapeurs-pompiers. Ce lundi soir,…",
+        "fecha": "2026-07-13T22:32:51+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "La transformation locale des minerais critiques africains au cœur d'un sommet à Abidjan",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260713-la-transformation-locale-des-minerais-critiques-africains-au-c%C5%93ur-d-un-sommet-%C3%A0-abidjan",
-        "desc": "L'Afrique veut transformer davantage de ses minerais sur son sol, plutôt que de les exporter à l'état brut. À Abidjan, décideurs et industriels réfléchissent au développement de ch…",
-        "fecha": "2026-07-13T18:41:37+00:00",
+        "titulo": "Ukraine à l’honneur et sécurité renforcée : ce qu’il faut savoir du défilé du 14-Juillet",
+        "enlace": "https://www.france24.com/fr/france/20260713-ukraine-honneur-s%C3%A9curit%C3%A9-renforc%C3%A9e-d%C3%A9fil%C3%A9-14-juillet-canicule",
+        "desc": "Un important dispositif policier sera déployé mardi à Paris et en région parisienne pour sécuriser le défilé militaire du 14-Juillet, le dernier sous la présidence d'Emmanuel Macro…",
+        "fecha": "2026-07-13T20:17:26+00:00",
         "fuente": "France 24"
       },
       {
@@ -165,47 +165,47 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "«Les pompiers ont quitté les lieux» : fin des feux et reprise de la circulation le long de la ligne de TGV sud-est, indique SNCF Réseau",
-        "enlace": "https://www.lefigaro.fr/conjoncture/les-pompiers-ont-quitte-les-lieux-fin-des-feux-et-reprise-de-la-circulation-le-long-de-la-ligne-de-tgv-sud-est-indique-sncf-reseau-20260713",
-        "desc": "Au total en France, dix incendies se sont déclarés à proximité de voies ferrées lundi, a précisé à l’AFP par téléphone un porte-parole de SNCF Réseau.",
-        "fecha": "2026-07-13T21:28:54+02:00",
+        "titulo": "«Un incendie d’une ampleur exceptionnelle» : visualisez en carte les feux en cours dans la forêt de Fontainebleau",
+        "enlace": "https://www.lefigaro.fr/actualite-france/visualisez-en-carte-les-feux-en-cours-dans-la-foret-de-fontainebleau-20260713",
+        "desc": "CARTE - La forêt de Fontainebleau fait face à un incendie d’une ampleur exceptionnelle. Visualisez les zones touchées et l’évolution de la situation grâce à nos cartes en direct.",
+        "fecha": "2026-07-13T21:44:06+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Réunion de la coalition des volontaires à Paris : unis face à la menace russe ?",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260713-r%C3%A9union-de-la-coalition-des-volontaires-%C3%A0-paris-unis-face-%C3%A0-la-menace-russe",
-        "desc": "Ce lundi se tient à Paris une réunion de la coalition des volontaires. E. Macron a réuni les représentants de 37 pays, en présence de Volodymyr Zelensky. Cette rencontre vise à mar…",
-        "fecha": "2026-07-13T18:08:37+00:00",
+        "titulo": "Bombardements en Iran : Attention à ces photos publiées par Donald Trump",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260713-bombardements-en-iran-attention-%C3%A0-ces-photos-publi%C3%A9es-par-donald-trump",
+        "desc": "Ces derniers jours sur les réseaux sociaux, Donald Trump n’a pas arrêté de commenter les nouvelles frappes américaines sur l’Iran allant même jusqu’à diffuser plusieurs photos. Pro…",
+        "fecha": "2026-07-13T19:44:04+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Berlin: IT-Ausfall legt Gerichte und Justizverwaltung lahm",
-        "enlace": "https://www.spiegel.de/panorama/justiz/berlin-it-ausfall-legt-gerichte-und-justizverwaltung-lahm-a-41e32927-792f-4c97-bf00-b2859b32aeab#ref=rss",
-        "desc": "Eine technische Störung sorgt an Berliner Gerichten für massive Einschränkungen. Beschäftigte wurden nach Hause geschickt. Richter warnen: Im schlimmsten Fall müssten mutmaßliche S…",
-        "fecha": "2026-07-13T21:27:00+02:00",
+        "titulo": "Andalusien: Waldbrand überlebt – Brite verliert Frau und Freunde",
+        "enlace": "https://www.spiegel.de/panorama/leute/andalusien-waldbrand-ueberlebt-brite-verliert-frau-und-freunde-a-54c36de0-0bf1-425a-88af-173391aab264#ref=rss",
+        "desc": "Der Brite Malcolm Timbrell entkam den verheerenden Waldbränden in Andalusien nur knapp. Seine Frau und zwölf seiner Freunde und Nachbarn kamen bei dem Feuer vermutlich ums Leben. G…",
+        "fecha": "2026-07-13T22:44:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Kriegsdienstverweigerung: Zahl der Anträge auf Kriegsdienstverweigerung ist stark gestiegen",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-07/kriegsdienstverweigerung-antraege-wehrdienstgesetz-musterung",
-        "desc": "Seit der Wehrpflicht-Reform gibt es immer mehr Kriegsdienstverweigerer. 2026 wurden bereits mehr Anträge gezählt als im ganzen Jahr der Aussetzung der Wehrpflicht 2011.",
-        "fecha": "2026-07-13T19:11:45",
+        "titulo": "US-Justiz: Richterin kritisiert Klage von Donald Trump gegen Steuerbehörde",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-07/donald-trump-irs-vergleich-steuern-kathleen-williams",
+        "desc": "Ein US-Gericht rügt die per umstrittenem Vergleich beigelegte Klage des US-Präsidenten gegen die US-Steuerbehörde. Sie sei mit »unangemessenem Ziel« eingereicht worden.",
+        "fecha": "2026-07-13T20:50:26",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Millie Bobby Brown bekam Probleme wegen einer Ofenkartoffel am Set von »Stranger Things«",
-        "enlace": "https://www.spiegel.de/kultur/musik/millie-bobby-brown-bekam-probleme-wegen-einer-ofenkartoffel-am-set-von-stranger-things-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss",
-        "desc": "Englisches Essen muss man lieben. Die Erfahrung hat auch Millie Bobby Brown gemacht: Die britische Schauspielerin begriff in den USA schnell, dass ihre Essgewohnheiten andere Mensc…",
-        "fecha": "2026-07-13T20:44:00+02:00",
+        "titulo": "Warner und Paramount: US-Bundesstaaten wollen Übernahme stoppen",
+        "enlace": "https://www.spiegel.de/kultur/kino/warner-und-paramount-us-bundesstaaten-wollen-uebernahme-stoppen-a-ae433872-cc75-40e8-aee3-3be07f060ea3#ref=rss",
+        "desc": "Das Medienunternehmen Paramount will das Hollywood-Urgestein Warner für 111 Millionen Dollar übernehmen. Mehrere US-Bundesstaaten gehen nun dagegen vor. Eine Befürchtung: wachsende…",
+        "fecha": "2026-07-13T21:56:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "USA: 26-Jähriger stirbt bei Einsatz der US-Migrationsbehörde ICE",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-07/maine-ice-biddeford-polizei-janet-mills",
-        "desc": "Im Bundesstaat Maine ist ein Mann bei einem ICE-Einsatz erschossen worden. Es ist der zweite Todesfall im Zusammenhang mit der Migrationsbehörde innerhalb einer Woche.",
-        "fecha": "2026-07-13T18:49:41",
+        "titulo": "Irankrieg: Trump kündigt »harte« Angriffe auf Iran in den kommenden zwei Tagen an",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+        "desc": "Die angekündigten Angriffe werden den Iran »hart treffen«, sagte US-Präsident Donald Trump. Am Dienstagabend soll eine Seeblockade gegen den Iran beginnen. Das Liveblog",
+        "fecha": "2026-07-13T20:40:54",
         "fuente": "Die Zeit"
       }
     ],
@@ -241,10 +241,10 @@
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Home Secretary Shabana Mahmood says the police's response \"undoubtedly saved lives\".",
-        "fecha": "2026-07-13T16:18:16+00:00",
+        "titulo": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+        "enlace": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+        "desc": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+        "fecha": "2026-07-13T20:57:08+00:00",
         "fuente": "BBC"
       },
       {
@@ -257,61 +257,61 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Ameaça a Montenegro: deputados consideram que há falhas de coordenação na segurança interna",
-        "enlace": "https://www.publico.pt/2026/07/13/politica/noticia/ameaca-montenegro-deputados-consideram-ha-falhas-coordenacao-seguranca-interna-2181518",
-        "desc": "Secretária-geral do Sistema de Segurança Interna foi ouvida no Parlamento sobre a partilha de informação para a prevenção de ataques terroristas. Partidos ponderam voltar ao tema e…",
-        "fecha": "2026-07-13T17:57:43+00:00",
+        "titulo": "Andy Burnham vai mesmo ser o próximo líder do Labour e primeiro-ministro do Reino Unido",
+        "enlace": "https://www.publico.pt/2026/07/13/mundo/noticia/andy-burnham-vai-proximo-lider-labour-primeiroministro-reino-unido-2181453",
+        "desc": "Ex-presidente da Câmara de Manchester garante o apoio de deputados suficientes para tornar matematicamente impossível a apresentação de uma candidatura alternativa à sucessão de St…",
+        "fecha": "2026-07-13T19:49:04+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "CEO da Naftogaz pode ser próximo primeiro-ministro ucraniano",
-        "enlace": "https://observador.pt/programas/a-guerra-traduzida/ceo-da-naftogaz-pode-ser-proximo-primeiro-ministro-ucraniano/",
-        "desc": "A nomeação de Serhii Koretskyi surge depois da reformulação de Governo anunciada pelo presidente Volodymyr Zelensky, que levou à demissão da primeira-ministra.",
-        "fecha": "2026-07-13T20:20:47+01:00",
+        "titulo": "Força para a Ucrânia treina em países vizinhos em breve",
+        "enlace": "https://observador.pt/2026/07/13/forca-multinacional-para-a-ucrania-vai-treinar-nos-paises-vizinhos-nos-proximos-meses-anuncia-macron-apos-reuniao-da-coligacao-dos-voluntarios/",
+        "desc": "O Presidente francês convocou uma reunião dos líderes da Coligação dos Voluntários sobre a Ucrânia",
+        "fecha": "2026-07-13T21:44:21+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Incidente com agentes do ICE nos EUA resulta numa pessoa morta no Maine",
-        "enlace": "https://www.publico.pt/2026/07/13/mundo/noticia/incidente-agentes-ice-eua-resulta-pessoa-morta-maine-2181520",
-        "desc": "Incidente desta segunda-feira ocorre seis dias depois de um agente do ICE ter morto a tiro Lorenzo Salgado Araujo, em Houston, durante uma operação de fiscalização de trânsito.",
-        "fecha": "2026-07-13T17:56:10+00:00",
+        "titulo": "Luís Neves recusa, por agora, prestar mais informação sobre obras em casa no Alentejo",
+        "enlace": "https://www.publico.pt/2026/07/13/sociedade/noticia/luis-neves-recusa-prestar-informacao-obras-casa-alentejo-2181536",
+        "desc": "Gabinete do ministro diz que obra decorre e que só após conclusão “será reunida e disponibilizada toda a documentação final que se revele pertinente”. Câmara de Odemira diz que não…",
+        "fecha": "2026-07-13T19:42:08+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Putin promete vencer guerra em campanha para eleições russas",
-        "enlace": "https://observador.pt/programas/a-guerra-traduzida/putin-promete-vencer-guerra-em-campanha-para-eleicoes-russas/",
-        "desc": "Promessa deixada no primeiro ato de campanha para as eleições legislativas de setembro, em que o partido presidencial, Rússia Unida, pretende revalidar a maioria.",
-        "fecha": "2026-07-13T20:20:20+01:00",
+        "titulo": "Luís Neves construiu piscina e não pediu licença à Câmara",
+        "enlace": "https://observador.pt/2026/07/13/luis-neves-construiu-piscina-e-nao-tanque-no-alojamento-local-em-odemira-camara-nao-recebeu-pedido-de-licenca-nem-comunicacao-previa/",
+        "desc": "Imagens da propriedade em Odemira, reveladas pela TVI/CNN, mostram que foi construída uma piscina na propriedade de Luís Neves. A Câmara garante que não recebeu pedido de licença n…",
+        "fecha": "2026-07-13T21:40:09+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Indiciados no caso 'Abin paralela' seguem em postos de comando do órgão",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/indiciados-no-caso-abin-paralela-seguem-em-postos-de-comando-do-orgao.shtml",
-        "desc": "Indiciados no caso \"Abin paralela\" há mais de um ano, dezenas de servidores da Abin (Agência Brasileira de Inteligência) seguem em postos de comando e com acesso a informações sens…",
-        "fecha": "2026-07-13T15:45:00-03:00",
+        "titulo": "Chefe da campanha de Flávio diz que proibir visitas a Bolsonaro é 'interferência no jogo político'",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/chefe-da-campanha-de-flavio-diz-que-proibir-visitas-a-bolsonaro-e-interferencia-no-jogo-politico.shtml",
+        "desc": "O coordenador da pré-campanha de Flávio Bolsonaro à Presidência, senador Rogério Marinho ( PL -RN), afirmou nesta segunda-feira (13) que a proibição de visitas de Flávio a Jair Bol…",
+        "fecha": "2026-07-13T16:56:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Motorista preso por morte de menino de 4 anos estava com a CNH suspensa por dirigir embriagado há 3 meses em MT",
-        "enlace": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/13/motorista-preso-por-morte-de-menino-de-4-anos-estava-com-a-cnh-suspensa-por-dirigir-embriagado-ha-3-meses-em-mt.ghtml",
-        "desc": "Gabriel Dombski Welter, 21 anos, preso em acidente em Sorriso (MT) Reprodução A prisão preventiva de Gabriel Dombski Welter, de 21 anos, preso após o acidente que provocou a morte …",
-        "fecha": "2026-07-13T19:32:00",
+        "titulo": "Homem é preso após tentar fugir e se jogar no Rio Paraíba do Sul durante ação policial, em Barra Mansa",
+        "enlace": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/13/homem-e-preso-apos-tentar-fugir-e-se-jogar-no-rio-paraiba-do-sul-durante-acao-policial-em-barra-mansa.ghtml",
+        "desc": "Homem é preso após fugir e se jogar no Rio Paraíba do Sul durante ação policial, em Barra Mansa Divulgação Um homem, de 29 anos, foi preso nesta segunda-feira (13) suspeito de gere…",
+        "fecha": "2026-07-13T20:53:15",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Moraes proíbe visitas de Flávio a Bolsonaro por 90 dias",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/moraes-proibe-visitas-de-flavio-a-bolsonaro-por-90-dias.shtml",
-        "desc": "O ministro Alexandre de Moraes , do STF (Supremo Tribunal Federal), proibiu nesta segunda-feira (13) Jair Bolsonaro ( PL ) de receber visitas do senador Flávio Bolsonaro (PL), filh…",
-        "fecha": "2026-07-13T15:16:00-03:00",
+        "titulo": "Servidores criticam mudanças internas no INSS e alertam para riscos de incidentes de segurança",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/servidores-criticam-mudancas-internas-no-inss-e-alertam-para-riscos-de-incidentes-de-seguranca.shtml",
+        "desc": "Servidores do INSS criticam a reorganização estrutural feita pela presidência do órgão no início desde mês, que criou e transformou coordenações de Segurança da Informação e Inteli…",
+        "fecha": "2026-07-13T16:55:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Sesc Santos tem programação de férias com atrações gratuitas; confira",
-        "enlace": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/13/sesc-santos-programacao-ferias-atracoes-gratuitas.ghtml",
-        "desc": "Unidade Sesc Santos. Divulgação/Sesc O Sesc Santos, no litoral paulista, preparou uma agenda especial para as férias escolares de julho. Ao longo do mês, o público de diferentes id…",
-        "fecha": "2026-07-13T19:30:29",
+        "titulo": "Piloto e homem morrem em queda de helicóptero em Roraima",
+        "enlace": "https://g1.globo.com/rr/roraima/noticia/2026/07/13/piloto-e-homem-morrem-em-queda-de-helicoptero-em-roraima.ghtml",
+        "desc": "Queda de uma aeronave que matou duas pessoas Polícia Civil de Roraima/Divulgação O piloto Danilo Pinto de Oliveira e Silva, de 45 anos, e o jovem Ygor Rodrigues da Silva Souza, de …",
+        "fecha": "2026-07-13T20:52:19",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,10 +333,10 @@
     ],
     "internacional_es": [
       {
-        "titulo": "La Policía rectifica: investiga como terrorismo el asesinato de la portavoz de Reform UK y vuelven a detener al sospechoso",
-        "enlace": "https://www.abc.es/internacional/policia-rectifica-investiga-terrorismo-asesinato-portavoz-reform-20260713212304-nt.html",
-        "desc": "La Policía Antiterrorista de Reino Unido se ha hecho cargo de la investigación sobre el asesinato de la veterana política británica de derechas Ann Widdecombe tras la aparición de …",
-        "fecha": "2026-07-13T21:23:04+02:00",
+        "titulo": "Israel armó un plan para reclutar a Ahmadinejad para que liderase un cambio de régimen en Irán",
+        "enlace": "https://www.abc.es/internacional/israel-armo-plan-reclutar-ahmadinejad-liderase-cambio-20260713213136-nt.html",
+        "desc": "El periódico estadounidense 'The New York Times' ha revelado en un reportaje publicado este lunes que Israel trazó un plan para convertir a Mahmoud Ahmadinejad, presidente iraní en…",
+        "fecha": "2026-07-13T21:31:36+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -350,7 +350,7 @@
         "titulo": "Marruecos arresta al periodista Ali Lmrabet y abre un incómodo frente a los gobiernos de España y Francia",
         "enlace": "https://www.elconfidencial.com/mundo/2026-07-13/ali-lmrabet-detenido-marruecos-1hms_4389263/",
         "desc": "Exiliado desde hace más de 20 años en Barcelona, el youtuber marroquí, crítico con las autoridades de su país, fue detenido el domingo tras aterrizar en el aeropuerto de Tánger y t…",
-        "fecha": "2026-07-13T19:41:40.619930+00:00",
+        "fecha": "2026-07-13T21:01:06.672077+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -361,17 +361,17 @@
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Trump ordena un nuevo bloqueo naval a Irán y exige una tasa del 20% en el estrecho de Ormuz",
-        "enlace": "http://es.euronews.com/2026/07/13/trump-restablece-el-bloqueo-de-eeuu-y-exige-una-tasa-del-20-al-trafico-por-hormuz",
-        "desc": "Estados Unidos impone una tasa del 20% a los buques que naveguen por el estrecho de Ormuz, mientras se desata el mayor intercambio de ataques con Irán desde la tregua de abril.",
-        "fecha": "2026-07-13T18:38:09+02:00",
+        "titulo": "EE.UU. estrecha el cerco sobre Cuba con sanciones al Ministerio de Turismo y a 9 empresas estatales",
+        "enlace": "http://es.euronews.com/2026/07/13/eeuu-estrecha-el-cerco-sobre-cuba-con-sanciones-al-turismo-y-a-9-empresas-estatales",
+        "desc": "El Departamento de Estado incluye en su lista de sanciones al Ministerio de Turismo y a 9 entidades estatales vinculadas al comercio exterior, el combustible, los servicios y los m…",
+        "fecha": "2026-07-13T22:14:31+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Trump restablece el bloqueo naval a los puertos iraníes",
+        "titulo": "Trump restablece el bloqueo portuario de Irán y promete un cargo del 20% sobre la carga que pasa por Ormuz",
         "enlace": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "desc": "El presidente estadounidense también dice que Washington impondrá un cargo del 20% a toda la carga que pase por el Estrecho de Ormuz.",
-        "fecha": "2026-07-13T19:20:40+00:00",
+        "desc": "El presidente de Estados Unidos también dice que Washington impondrá un cargo del 20% a toda la carga enviada a través del Estrecho de Ormuz.",
+        "fecha": "2026-07-13T20:57:08+00:00",
         "fuente": "BBC World"
       },
       {
@@ -382,10 +382,10 @@
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Los países europeos da un paso hacia su propio escudo antimisiles mientras refuerza el respaldo militar a Ucrania",
-        "enlace": "https://www.abc.es/internacional/macron-acoge-reunion-coalicion-voluntarios-centrada-antimisiles-20260713211335-nt.html",
-        "desc": "«El tiempo ya no juega a favor de Rusia». El presidente francés, Emmanuel Macron, destacó este lunes con estas palabras la «nueva etapa», según él, en la que se encuentra la guerra…",
-        "fecha": "2026-07-13T21:13:35+02:00",
+        "titulo": "La Policía rectifica: investiga como terrorismo el asesinato de la portavoz de Reform UK y vuelven a detener al sospechoso",
+        "enlace": "https://www.abc.es/internacional/policia-rectifica-investiga-terrorismo-asesinato-portavoz-reform-20260713212304-nt.html",
+        "desc": "La Policía Antiterrorista de Reino Unido se ha hecho cargo de la investigación sobre el asesinato de la veterana política británica de derechas Ann Widdecombe tras la aparición de …",
+        "fecha": "2026-07-13T21:23:04+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -399,16 +399,16 @@
         "titulo": "La UE vuelve a quedarse corta en la propuesta de prohibir el comercio de los asentamientos israelíes",
         "enlace": "https://www.elconfidencial.com/mundo/2026-07-13/arrastre-pies-cisma-juridico-ue-se-divide-asentamientos-ilegales-israel_4389302/",
         "desc": "Los Veintisiete se vuelven a dividir respecto a las medidas contra los asentamientos ilegales israelíes en Cisjordania. Los países más críticos acusan a Bruselas de arrastrar los p…",
-        "fecha": "2026-07-13T19:41:40.619978+00:00",
+        "fecha": "2026-07-13T21:01:06.672120+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Trump reinstating naval blockade of Iranian ports",
+        "titulo": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
         "enlace": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The US president also says Washington will impose a 20% charge on all cargo passing through the Strait of Hormuz.",
-        "fecha": "2026-07-13T19:20:40+00:00",
+        "desc": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
+        "fecha": "2026-07-13T20:57:08+00:00",
         "fuente": "BBC World"
       },
       {
@@ -419,24 +419,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Replay: Macron speaks as Ukraine’s ‘Coalition of the Willing’ meeting ends in Paris",
-        "enlace": "https://www.france24.com/en/video/20260713-replay-macron-speaks-as-ukraine-s-coalition-of-the-willing-meeting-ends-in-paris",
-        "desc": "Ukraine has ​ordered 16 Rafale fighter jets, an initial batch of new-generation SAMP/T surface-to-air defence batteries, and licences for the production of ‌several capabilities, i…",
-        "fecha": "2026-07-13T19:13:07+00:00",
+        "titulo": "Ebola spreads to more provinces",
+        "enlace": "https://www.france24.com/en/ebola-spreads-to-more-provinces",
+        "desc": "In tonight's show, the Ebola outbreak spreads to two more provinces. A Sudanese court sentences paramilitary leader Mohamed Hamdan Daglo and 15 others to death in absentia. Residen…",
+        "fecha": "2026-07-13T20:35:58+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Sen. Lindsey Graham’s passing: Letters to the Editor — July 14, 2026",
-        "enlace": "https://nypost.com/2026/07/13/opinion/sen-lindsey-grahams-passing-letters/",
-        "desc": "The Issue: The death of Sen. Lindsey Graham, a prominent voice for freedom and US strength. Sen. Lindsey Graham was hated by the left because he loved America unreservedly, saw the…",
-        "fecha": "2026-07-13T15:37:05-04:00",
+        "titulo": "Gavin Newsom doubles down on electric vehicles as new EV rebate program launches",
+        "enlace": "https://nypost.com/2026/07/13/us-news/electric-vehicle-rebate-initiative-launches-in-california/",
+        "desc": "With federal incentives gone, California is opening its own wallet to keep electric car buyers interested.&nbsp; Gov. Gavin Newsom signed legislation Monday creating a $270 million…",
+        "fecha": "2026-07-13T17:00:28-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Person killed in ICE-involved shooting in Maine",
-        "enlace": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-rdf",
-        "desc": "US Immigration and Customs Enforcement agents were involved in a fatal shooting in Biddeford, according to Maine's House speaker. It comes days after ICE allegedly shot a man in Te…",
-        "fecha": "2026-07-13T19:41:45.099906+00:00",
+        "titulo": "Hungary: Lawmakers pass law to oust Orban ally president",
+        "enlace": "https://www.dw.com/en/hungary-lawmakers-pass-law-to-oust-orban-ally-president/a-77941734?maca=en-rss-en-all-1573-rdf",
+        "desc": "The Hungarian parliament continued its attempts to leave the Viktor Orban era behind the country by moving to oust President Tamas Sulyok.",
+        "fecha": "2026-07-13T21:01:09.568698+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,10 +447,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "‘The govt. is baffled’: New WH UFO chief rejects alien cover-up claims",
-        "enlace": "https://www.oann.com/newsroom/the-govt-is-baffled-new-wh-ufo-chief-rejects-alien-cover-up-claims/",
-        "desc": "In a major step reflecting the executive branch's intensifying focus on unexplained aerial sightings, the White House has appointed Harvard astronomer Avi Loeb to a newly formed sc…",
-        "fecha": "2026-07-13T19:20:19+00:00",
+        "titulo": "Legal battle on Paramount escalates as 12 states led by Calif. AG Bonta sue to block $110B Warner Bros. merger",
+        "enlace": "https://www.oann.com/newsroom/legal-battle-on-paramount-escalates-as-12-states-led-by-calif-ag-bonta-sue-to-block-110b-warner-bros-merger/",
+        "desc": "California Democrat Attorney General Rob Bonta is reportedly leading a coalition of 12 states in challenging the proposed merger between Warner Bros. Discovery, Inc. (Warner Bros.)…",
+        "fecha": "2026-07-13T20:59:37+00:00",
         "fuente": "OAN"
       },
       {
@@ -468,10 +468,10 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "🔴 Ukraine orders 16 Rafale jets, announces new anti-ballistic missile coalition in Paris",
-        "enlace": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
-        "desc": "",
-        "fecha": "2026-07-13T18:50:07+00:00",
+        "titulo": "Ukraine and allies set up coalition to tackle Russia ballistic missile threat",
+        "enlace": "https://www.france24.com/en/ukraine-and-allies-set-up-coalition-to-tackle-russia-ballistic-missile-threat",
+        "desc": "Ukraine and key Western allies on Monday announced an ​air-defence coalition that would include jointly developing a new anti-ballistic missile system as an alternative and cheaper…",
+        "fecha": "2026-07-13T20:01:37+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,17 +484,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "La transformation locale des minerais critiques africains au cœur d'un sommet à Abidjan",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260713-la-transformation-locale-des-minerais-critiques-africains-au-c%C5%93ur-d-un-sommet-%C3%A0-abidjan",
-        "desc": "L'Afrique veut transformer davantage de ses minerais sur son sol, plutôt que de les exporter à l'état brut. À Abidjan, décideurs et industriels réfléchissent au développement de ch…",
-        "fecha": "2026-07-13T18:41:37+00:00",
+        "titulo": "Ukraine à l’honneur et sécurité renforcée : ce qu’il faut savoir du défilé du 14-Juillet",
+        "enlace": "https://www.france24.com/fr/france/20260713-ukraine-honneur-s%C3%A9curit%C3%A9-renforc%C3%A9e-d%C3%A9fil%C3%A9-14-juillet-canicule",
+        "desc": "Un important dispositif policier sera déployé mardi à Paris et en région parisienne pour sécuriser le défilé militaire du 14-Juillet, le dernier sous la présidence d'Emmanuel Macro…",
+        "fecha": "2026-07-13T20:17:26+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Mali: Le Comité des disparitions forcées de l'ONU demande à Bamako de «localiser et protéger» Mountaga Tall",
-        "enlace": "https://www.rfi.fr/fr/afrique/20260713-l-afrique-du-sud-pr%C3%A9voit-de-stocker-deux-mois-de-r%C3%A9serves-strat%C3%A9giques-de-carburant-1",
-        "desc": "Au Mali, près de deux mois et demi après l'enlèvement, par la Sécurité d'État, de Maître Mountaga Tall, le Comité des disparitions forcées des Nations unies demande aux autorités m…",
-        "fecha": "2026-07-13T17:35:23+00:00",
+        "titulo": "Éthiopiens condamnés à mort en Arabie saoudite: l'Éthiopie assure mener des négociations",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260713-%C3%A9thiopiens-condamn%C3%A9s-%C3%A0-mort-en-arabie-saoudite-l-%C3%A9thiopie-assure-mener-des-n%C3%A9gociations",
+        "desc": "Alors que Human Rights Watch affirme qu'au moins 58 migrants éthiopiens, condamnés à mort en Arabie saoudite, risquent une exécution imminente, le ministère éthiopien des Affaires …",
+        "fecha": "2026-07-13T20:19:14+00:00",
         "fuente": "RFI"
       },
       {
@@ -505,10 +505,10 @@
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Trump rétablit le blocus naval des ports iraniens",
+        "titulo": "Trump rétablit le blocus du port iranien et promet une taxe de 20 % sur les marchandises transitant par Ormuz",
         "enlace": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "desc": "Le président américain a également déclaré que Washington imposerait une taxe de 20 % sur toutes les marchandises transitant par le détroit d'Ormuz.",
-        "fecha": "2026-07-13T19:20:40+00:00",
+        "desc": "Le président américain a également déclaré que Washington imposerait une taxe de 20 % sur toutes les marchandises expédiées via le détroit d'Ormuz.",
+        "fecha": "2026-07-13T20:57:08+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -519,17 +519,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Réunion de la coalition des volontaires à Paris : unis face à la menace russe ?",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260713-r%C3%A9union-de-la-coalition-des-volontaires-%C3%A0-paris-unis-face-%C3%A0-la-menace-russe",
-        "desc": "Ce lundi se tient à Paris une réunion de la coalition des volontaires. E. Macron a réuni les représentants de 37 pays, en présence de Volodymyr Zelensky. Cette rencontre vise à mar…",
-        "fecha": "2026-07-13T18:08:37+00:00",
+        "titulo": "Bombardements en Iran : Attention à ces photos publiées par Donald Trump",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260713-bombardements-en-iran-attention-%C3%A0-ces-photos-publi%C3%A9es-par-donald-trump",
+        "desc": "Ces derniers jours sur les réseaux sociaux, Donald Trump n’a pas arrêté de commenter les nouvelles frappes américaines sur l’Iran allant même jusqu’à diffuser plusieurs photos. Pro…",
+        "fecha": "2026-07-13T19:44:04+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "En Haïti, le difficile pari des élections dans un pays en proie de violences des gangs",
-        "enlace": "https://www.rfi.fr/fr/am%C3%A9riques/20260713-en-ha%C3%AFti-le-difficile-pari-des-%C3%A9lections-dans-un-pays-en-proie-de-violences-des-gangs",
-        "desc": "Alors que les violences continuent de ravager Haïti, les autorités de transition ont décidé de lancer le processus électoral. Première étape : l'enregistrement des partis politique…",
-        "fecha": "2026-07-13T17:27:20+00:00",
+        "titulo": "Incendies: 59 interpellations en France, dont deux pour la forêt de Fontainebleau",
+        "enlace": "https://www.rfi.fr/fr/france/20260713-incendies-59-interpellations-en-france-dont-deux-pour-la-for%C3%AAt-de-fontainebleau",
+        "desc": "Un total de 59 personnes ont été interpellées sur l'ensemble du territoire, dont deux pour la forêt de Fontainebleau, près de Paris, pour « des mises à feu volontaires ou accidente…",
+        "fecha": "2026-07-13T19:51:08+00:00",
         "fuente": "RFI"
       },
       {
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Berlin: IT-Ausfall legt Gerichte und Justizverwaltung lahm",
-        "enlace": "https://www.spiegel.de/panorama/justiz/berlin-it-ausfall-legt-gerichte-und-justizverwaltung-lahm-a-41e32927-792f-4c97-bf00-b2859b32aeab#ref=rss",
-        "desc": "Eine technische Störung sorgt an Berliner Gerichten für massive Einschränkungen. Beschäftigte wurden nach Hause geschickt. Richter warnen: Im schlimmsten Fall müssten mutmaßliche S…",
-        "fecha": "2026-07-13T21:27:00+02:00",
+        "titulo": "Andalusien: Waldbrand überlebt – Brite verliert Frau und Freunde",
+        "enlace": "https://www.spiegel.de/panorama/leute/andalusien-waldbrand-ueberlebt-brite-verliert-frau-und-freunde-a-54c36de0-0bf1-425a-88af-173391aab264#ref=rss",
+        "desc": "Der Brite Malcolm Timbrell entkam den verheerenden Waldbränden in Andalusien nur knapp. Seine Frau und zwölf seiner Freunde und Nachbarn kamen bei dem Feuer vermutlich ums Leben. G…",
+        "fecha": "2026-07-13T22:44:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Wird die Leugnung des Existenzrechts Israels bald strafbar?",
         "enlace": "https://www.dw.com/de/wird-die-leugnung-des-existenzrechts-israels-bald-strafbar/a-77937685?maca=de-rss-de-all-1119-rdf",
         "desc": "Ein ungewöhnliches Verfahren: Der deutsche Bundesrat bringt einen Gesetzentwurf für ein Verbot zum Schutz Israels vor Antisemitismus ein. Nun muss der Bundestag entscheiden.",
-        "fecha": "2026-07-13T19:41:48.333295+00:00",
+        "fecha": "2026-07-13T21:01:13.205715+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -570,24 +570,24 @@
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Trump führt die Seeblockade iranischer Häfen wieder ein",
+        "titulo": "Trump führt die Blockade des iranischen Hafens wieder ein und verspricht eine Gebühr von 20 % auf Fracht, die durch Hormuz transportiert wird",
         "enlace": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "desc": "Der US-Präsident sagte außerdem, Washington werde eine Gebühr von 20 % auf alle Fracht erheben, die durch die Straße von Hormus transportiert wird.",
-        "fecha": "2026-07-13T19:20:40+00:00",
+        "desc": "Der US-Präsident sagte außerdem, Washington werde eine Gebühr von 20 % auf alle durch die Straße von Hormus verschifften Fracht erheben.",
+        "fecha": "2026-07-13T20:57:08+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Millie Bobby Brown bekam Probleme wegen einer Ofenkartoffel am Set von »Stranger Things«",
-        "enlace": "https://www.spiegel.de/kultur/musik/millie-bobby-brown-bekam-probleme-wegen-einer-ofenkartoffel-am-set-von-stranger-things-a-5b8350e2-9b34-4280-a7ba-50bc146c9a0c#ref=rss",
-        "desc": "Englisches Essen muss man lieben. Die Erfahrung hat auch Millie Bobby Brown gemacht: Die britische Schauspielerin begriff in den USA schnell, dass ihre Essgewohnheiten andere Mensc…",
-        "fecha": "2026-07-13T20:44:00+02:00",
+        "titulo": "Warner und Paramount: US-Bundesstaaten wollen Übernahme stoppen",
+        "enlace": "https://www.spiegel.de/kultur/kino/warner-und-paramount-us-bundesstaaten-wollen-uebernahme-stoppen-a-ae433872-cc75-40e8-aee3-3be07f060ea3#ref=rss",
+        "desc": "Das Medienunternehmen Paramount will das Hollywood-Urgestein Warner für 111 Millionen Dollar übernehmen. Mehrere US-Bundesstaaten gehen nun dagegen vor. Eine Befürchtung: wachsende…",
+        "fecha": "2026-07-13T21:56:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Iran: Belastende Kriegsangst",
         "enlace": "https://www.dw.com/de/iran-belastende-kriegsangst/a-77938142?maca=de-rss-de-all-1119-rdf",
         "desc": "Trotz Waffenstillstands werden immer neue Angriffe zwischen den USA und dem Iran gemeldet. Die Menschen sind müde. Die junge Generation muss erst lernen, mit dauernden Kriegsängste…",
-        "fecha": "2026-07-13T19:41:48.333335+00:00",
+        "fecha": "2026-07-13T21:01:13.205747+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -600,7 +600,7 @@
       {
         "titulo": "Brite erzählt, wie er in einem Auto einen Waldbrand in Spanien überlebte, als seine Frau und Freunde starben, als sie versuchten, sich in Sicherheit zu bringen",
         "enlace": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-        "desc": "Es wird angenommen, dass Malcolm Timbrells Frau und ihre Freunde ums Leben kamen, als ein verheerender Waldbrand ihr Dorf in Spanien verwüstete.",
+        "desc": "Man geht davon aus, dass Malcolm Timbrells Frau und ihre Freunde ums Leben kamen, als ein verheerender Waldbrand ihr Dorf in Spanien verwüstete.",
         "fecha": "2026-07-13T17:31:54+00:00",
         "fuente": "BBC World EN"
       }
@@ -614,10 +614,17 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Trump ripristina il blocco navale dei porti iraniani",
+        "titulo": "Trump ripristina blocco Usa e chiede tassa su Hormuz, Houthi attaccano l'Arabia Saudita",
+        "enlace": "http://it.euronews.com/2026/07/13/trump-ripristina-il-blocco-usa-e-chiede-tassa-del-20-sul-traffico-a-hormuz",
+        "desc": "Trump ha annunciato che gli USA applicheranno una tassa del 20% sulle navi in transito a Hormuz, ribaltando i pedaggi iraniani. Intanto gli Houthi dello Yemen hanno lanciato missil…",
+        "fecha": "2026-07-13T18:35:48+02:00",
+        "fuente": "Euronews IT"
+      },
+      {
+        "titulo": "Trump ripristina il blocco dei porti iraniani e promette una tassa del 20% sulle merci che passano attraverso Hormuz",
         "enlace": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "desc": "Il presidente degli Stati Uniti ha inoltre affermato che Washington imporrà una tariffa del 20% su tutte le merci che transiteranno attraverso lo Stretto di Hormuz.",
-        "fecha": "2026-07-13T19:20:40+00:00",
+        "desc": "Il presidente degli Stati Uniti ha inoltre affermato che Washington imporrà una tassa del 20% su tutte le merci spedite attraverso lo Stretto di Hormuz.",
+        "fecha": "2026-07-13T20:57:08+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -626,6 +633,13 @@
         "desc": "La vittima aveva solo 26 anni. Meno di una settimana fa a Houston i federali avevano aperto il fuoco contro l’operaio messicano Salgado",
         "fecha": "2026-07-13T21:31:47+02:00",
         "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Le notizie del giorno | 13 luglio 2026 - Serale",
+        "enlace": "http://it.euronews.com/video/2026/07/13/le-notizie-del-giorno-13-luglio-2026-serale",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 13 luglio 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-07-13T18:00:43+02:00",
+        "fuente": "Euronews IT"
       },
       {
         "titulo": "Il britannico racconta di essere sopravvissuto all'incendio in Spagna in macchina mentre moglie e amici sono morti mentre cercavano di scappare",
@@ -637,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "Donald Trump vai falar ao país na quinta-feira",
-        "enlace": "https://www.rtp.pt/noticias/mundo/donald-trump-vai-falar-ao-pais-na-quinta-feira_n1753107",
-        "desc": "O presidente norte-americano anunciou, esta segunda-feira, que vai fazer um discurso à nação na próxima quinta-feira, sem revelar o assunto.",
-        "fecha": "2026-07-13T21:24:02+01:00",
+        "titulo": "Número de mortos ultrapassa os 4.500",
+        "enlace": "https://www.rtp.pt/noticias/mundo/numero-de-mortos-ultrapassa-os-4500_n1753127",
+        "desc": "O número de mortos pelo duplo sismo que atingiu a Venezuela em 24 de junho ultrapassou os 4.500, segundo os mais recentes dados oficiais divulgados hoje pelas autoridades venezuela…",
+        "fecha": "2026-07-13T22:53:01+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "CEO da Naftogaz pode ser próximo primeiro-ministro ucraniano",
-        "enlace": "https://observador.pt/programas/a-guerra-traduzida/ceo-da-naftogaz-pode-ser-proximo-primeiro-ministro-ucraniano/",
-        "desc": "A nomeação de Serhii Koretskyi surge depois da reformulação de Governo anunciada pelo presidente Volodymyr Zelensky, que levou à demissão da primeira-ministra.",
-        "fecha": "2026-07-13T20:20:47+01:00",
+        "titulo": "Força para a Ucrânia treina em países vizinhos em breve",
+        "enlace": "https://observador.pt/2026/07/13/forca-multinacional-para-a-ucrania-vai-treinar-nos-paises-vizinhos-nos-proximos-meses-anuncia-macron-apos-reuniao-da-coligacao-dos-voluntarios/",
+        "desc": "O Presidente francês convocou uma reunião dos líderes da Coligação dos Voluntários sobre a Ucrânia",
+        "fecha": "2026-07-13T21:44:21+01:00",
         "fuente": "Observador"
       },
       {
@@ -658,24 +672,24 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "20h Professores convocados hoje para corrigir exames até terça-feira",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/20h-professores-convocados-hoje-para-corrigir-exames-ate-terca-feira_a1_1753105",
-        "desc": "",
-        "fecha": "2026-07-13T21:22:02+01:00",
+        "titulo": "Jon Fosse entre os convidados do FOLIO que lança órgão consultivo para a literatura",
+        "enlace": "https://www.rtp.pt/noticias/cultura/jon-fosse-entre-os-convidados-do-folio-que-lanca-orgao-consultivo-para-a-literatura_n1753106",
+        "desc": "O Festival Literário de Óbidos, que decorre entre 08 e 18 de outubro sob o lema &quot;Para além da pele&quot;, terá entre os convidados o Nobel da Literatura Jon Fosse e marcará o …",
+        "fecha": "2026-07-13T22:44:14+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Putin promete vencer guerra em campanha para eleições russas",
-        "enlace": "https://observador.pt/programas/a-guerra-traduzida/putin-promete-vencer-guerra-em-campanha-para-eleicoes-russas/",
-        "desc": "Promessa deixada no primeiro ato de campanha para as eleições legislativas de setembro, em que o partido presidencial, Rússia Unida, pretende revalidar a maioria.",
-        "fecha": "2026-07-13T20:20:20+01:00",
+        "titulo": "Luís Neves construiu piscina e não pediu licença à Câmara",
+        "enlace": "https://observador.pt/2026/07/13/luis-neves-construiu-piscina-e-nao-tanque-no-alojamento-local-em-odemira-camara-nao-recebeu-pedido-de-licenca-nem-comunicacao-previa/",
+        "desc": "Imagens da propriedade em Odemira, reveladas pela TVI/CNN, mostram que foi construída uma piscina na propriedade de Luís Neves. A Câmara garante que não recebeu pedido de licença n…",
+        "fecha": "2026-07-13T21:40:09+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "A explosão de processos de brasileiros contra bets para receber prêmio: 'dinheiro não sai'",
-        "enlace": "https://www.bbc.com/portuguese/articles/clyxxl2wldro?at_medium=RSS&at_campaign=rss",
-        "desc": "Levantamento feito a pedido da BBC News Brasil nas bases de dados dos tribunais do país desenham um quadro mais nítido de alguns dos conflitos entre apostadores e empresas que nos …",
-        "fecha": "2026-07-13T12:26:18+00:00",
+        "titulo": "Os argumentos de Alexandre de Moraes para suspender visitas de Flávio a Bolsonaro por 90 dias",
+        "enlace": "https://www.bbc.com/portuguese/articles/czde995vdm9o?at_medium=RSS&at_campaign=rss",
+        "desc": "Decisão ocorre após senador e candidato à Presidência ler carta escrita pelo pai nas redes sociais no sábado. Ministro avalia que ação viola proibição de Bolsonaro utilizar as rede…",
+        "fecha": "2026-07-13T19:43:10+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,10 +716,10 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Man Utd ficha al Santos por 48 millones de libras y se acerca a Tielemans",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
-        "desc": "El Manchester United ficha a Andrey Santos procedente del Chelsea y está en conversaciones avanzadas con el Aston Villa por Youri Tielemans.",
-        "fecha": "2026-07-13T14:09:00+00:00",
+        "titulo": "Oportunidad de enfrentarse a Messi una vez en la vida - O'Reilly",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss",
+        "desc": "El lateral izquierdo de Inglaterra Nico O'Reilly disfruta de la oportunidad de enfrentarse a Lionel Messi en la semifinal del Mundial del miércoles contra Argentina.",
+        "fecha": "2026-07-13T20:33:07+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -730,14 +744,28 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "¿Más clínico? ¿Menos creativo? ¿Mejor en el aire? Comparando los últimos cuatro",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport compara las estadísticas de Francia, España, Argentina e Inglaterra en el Mundial hasta el momento en que los semifinalistas se preparan para enfrentarse.",
-        "fecha": "2026-07-13T11:05:25+00:00",
+        "titulo": "Man Utd ficha al Santos por 48 millones de libras y se acerca a Tielemans",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
+        "desc": "El Manchester United ficha a Andrey Santos procedente del Chelsea y está en conversaciones avanzadas con el Aston Villa por Youri Tielemans.",
+        "fecha": "2026-07-13T14:09:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
+      {
+        "titulo": "Chance to face Messi once in a lifetime - O'Reilly",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss",
+        "desc": "England left-back Nico O'Reilly is relishing the opportunity to face Lionel Messi in Wednesday's World Cup semi-final against Argentina.",
+        "fecha": "2026-07-13T20:33:07+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "England vs India ratings: Ecclestone makes history as Beaumont, Knight exit",
+        "enlace": "https://www.skysports.com/cricket/news/12040/13563053/england-vs-india-lords-test-player-ratings-sophie-ecclestone-makes-history-as-tammy-beaumont-and-heather-knight-retire-from-international-cricket",
+        "desc": "England suffered a 270-run defeat to India in the first women's Test match to be played at Lord's - here's how the players rated...",
+        "fecha": "2026-07-13T21:00:00",
+        "fuente": "Sky Sports"
+      },
       {
         "titulo": "Man Utd sign £48m Santos and close in on Tielemans",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
@@ -751,35 +779,21 @@
         "desc": "",
         "fecha": "2026-07-13T18:26:00",
         "fuente": "Sky Sports"
-      },
-      {
-        "titulo": "Most clinical? Least creative? Best in the air? Comparing the last four",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet.",
-        "fecha": "2026-07-13T11:05:25+00:00",
-        "fuente": "BBC Sport"
-      },
-      {
-        "titulo": "Aston Villa latest: Digne agrees to join PSG as Estupinan targeted - reports",
-        "enlace": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-        "desc": "",
-        "fecha": "2026-07-13T18:13:00",
-        "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
+      {
+        "titulo": "Chance d'affronter Messi une fois dans sa vie – O'Reilly",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss",
+        "desc": "L'arrière gauche anglais Nico O'Reilly savoure l'opportunité d'affronter Lionel Messi en demi-finale de la Coupe du monde mercredi contre l'Argentine.",
+        "fecha": "2026-07-13T20:33:07+00:00",
+        "fuente": "BBC Sport EN"
+      },
       {
         "titulo": "Man Utd signe Santos pour 48 millions de livres sterling et se rapproche de Tielemans",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
         "desc": "Manchester United recrute Andrey Santos de Chelsea et est en pourparlers avancés avec Aston Villa pour Youri Tielemans.",
         "fecha": "2026-07-13T14:09:00+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "Le plus clinique ? Le moins créatif ? Le meilleur dans les airs ? En comparant les quatre derniers",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport compare les statistiques de la France, de l'Espagne, de l'Argentine et de l'Angleterre en Coupe du Monde jusqu'à ce que les demi-finalistes se préparent à se rencontrer.",
-        "fecha": "2026-07-13T11:05:25+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -788,44 +802,44 @@
         "titulo": "Warum die Fußball-WM der Psyche guttun kann",
         "enlace": "https://www.dw.com/de/warum-die-fußball-wm-der-psyche-guttun-kann/a-77889154?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die Fußball-Weltmeisterschaft bietet mehr als spannende Spiele. Laut der klinischen Psychologin Katie Wood fördern gemeinsame Fußballerlebnisse das Wohlbefinden und stärken das Gef…",
-        "fecha": "2026-07-13T19:42:02.233191+00:00",
+        "fecha": "2026-07-13T21:01:31.939019+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Man Utd verpflichtet Santos für 48 Millionen Pfund und nähert sich Tielemans",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
-        "desc": "Manchester United verpflichtet Andrey Santos von Chelsea und befindet sich in fortgeschrittenen Gesprächen mit Aston Villa für Youri Tielemans.",
-        "fecha": "2026-07-13T14:09:00+00:00",
+        "titulo": "Chance, einmal im Leben gegen Messi anzutreten – O'Reilly",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss",
+        "desc": "Der englische Linksverteidiger Nico O'Reilly freut sich über die Gelegenheit, am Mittwoch im WM-Halbfinale gegen Argentinien gegen Lionel Messi anzutreten.",
+        "fecha": "2026-07-13T20:33:07+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "\"Messi-Verschwörung\"? - Ägypten wirft FIFA Manipulation vor",
         "enlace": "https://www.dw.com/de/messi-verschwörung-ägypten-wirft-fifa-manipulation-vor/a-77874613?maca=de-rss-de-sport-4020-rdf",
         "desc": "Ägypten schäumt nach dem knappen Aus im Achtelfinale der Fußball-WM gegen Weltmeister Argentinien vor Wut. Trainer Hossam Hassan erhebt schwere Vorwürfe und bekommt auch aus Deutsc…",
-        "fecha": "2026-07-13T19:42:02.233232+00:00",
+        "fecha": "2026-07-13T21:01:31.939056+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Am klinischsten? Am wenigsten kreativ? Am besten in der Luft? Vergleich der letzten vier",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport vergleicht Statistiken für Frankreich, Spanien, Argentinien und England bei der Weltmeisterschaft, soweit sich die Halbfinalisten auf das Aufeinandertreffen vorbereiten.",
-        "fecha": "2026-07-13T11:05:25+00:00",
+        "titulo": "Man Utd verpflichtet Santos für 48 Millionen Pfund und schließt sich Tielemans an",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
+        "desc": "Manchester United verpflichtet Andrey Santos von Chelsea und befindet sich in fortgeschrittenen Gesprächen mit Aston Villa für Youri Tielemans.",
+        "fecha": "2026-07-13T14:09:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
+        "titulo": "Possibilità di affrontare Messi una volta nella vita - O'Reilly",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss",
+        "desc": "Il terzino sinistro dell'Inghilterra Nico O'Reilly sta godendo dell'opportunità di affrontare Lionel Messi nella semifinale di Coppa del Mondo di mercoledì contro l'Argentina.",
+        "fecha": "2026-07-13T20:33:07+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
         "titulo": "Il Man Utd firma il Santos da 48 milioni di sterline e si avvicina a Tielemans",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
         "desc": "Il Manchester United ingaggia Andrey Santos dal Chelsea e è in trattative avanzate con l'Aston Villa per Youri Tielemans.",
         "fecha": "2026-07-13T14:09:00+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "Il più clinico? Meno creativo? Il migliore in volo? Confrontando gli ultimi quattro",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport confronta le statistiche di Francia, Spagna, Argentina e Inghilterra ai Mondiali mentre le semifinaliste si preparano ad incontrarsi.",
-        "fecha": "2026-07-13T11:05:25+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -842,7 +856,7 @@
         "titulo": "Ciencia",
         "enlace": "http://www.elmundo.es/ciencia.html",
         "desc": "Ciencia",
-        "fecha": "2026-07-13T19:42:06.928785+00:00",
+        "fecha": "2026-07-13T21:01:44.251578+00:00",
         "fuente": "El Mundo Ciencia"
       },
       {
@@ -856,7 +870,7 @@
         "titulo": "Células solares en tándem orgánicas de perovskita con un estabilizador fototransformable",
         "enlace": "https://www.nature.com/articles/s41586-026-10869-x",
         "desc": "Naturaleza, Publicado en línea: 13 de julio de 2026; doi:10.1038/s41586-026-10869-x Perovskita: células solares en tándem orgánicas con un estabilizador fototransformable",
-        "fecha": "2026-07-13T19:42:11.131265+00:00",
+        "fecha": "2026-07-13T21:01:46.903783+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -874,17 +888,17 @@
         "fuente": "ABC Ciencia"
       },
       {
-        "titulo": "Las personas que se mudan de Occidente a Rusia en busca de valores tradicionales (y la realidad que encuentran)",
-        "enlace": "https://www.bbc.com/mundo/articles/cwykjylv1xdo?at_medium=RSS&at_campaign=rss",
-        "desc": "La BBC preguntó a los occidentales que se mudaron a Rusia si la vida allí cumple con sus expectativas.",
-        "fecha": "2026-07-13T03:37:44+00:00",
+        "titulo": "Trump restablece el bloqueo a los puertos iraníes e impone un recargo del 20% a la carga que transita por el estrecho Ormuz",
+        "enlace": "https://www.bbc.com/mundo/articles/c9q28zz403no?at_medium=RSS&at_campaign=rss",
+        "desc": "Menos de un mes después de la firma del cese el fuego, Irán y EE.UU. han vuelto a intercambiar ataques y Trump restableció el bloqueo naval al comercio iraní.",
+        "fecha": "2026-07-13T18:37:40+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Corrección del autor: La ingeniería OR7A10 GPCR impulsa la terapia CAR-NK contra tumores sólidos",
         "enlace": "https://www.nature.com/articles/s41586-026-10855-3",
         "desc": "Naturaleza, Publicado en línea: 13 de julio de 2026; doi:10.1038/s41586-026-10855-3 Corrección del autor: La ingeniería OR7A10 GPCR impulsa la terapia CAR-NK contra tumores sólidos",
-        "fecha": "2026-07-13T19:42:11.131308+00:00",
+        "fecha": "2026-07-13T21:01:46.903819+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -900,7 +914,7 @@
         "titulo": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
         "enlace": "https://www.nature.com/articles/s41586-026-10869-x",
         "desc": "Nature, Published online: 13 July 2026; doi:10.1038/s41586-026-10869-x Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
-        "fecha": "2026-07-13T19:42:12.505125+00:00",
+        "fecha": "2026-07-13T21:01:50.461602+00:00",
         "fuente": "Nature"
       },
       {
@@ -918,17 +932,17 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-        "enlace": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-        "desc": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-        "fecha": "2026-07-13T17:18:25+00:00",
+        "titulo": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+        "enlace": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+        "desc": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+        "fecha": "2026-07-13T20:41:26+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Hundreds of economists say 'we must act now' on AI's economic impact and job displacement risks",
-        "enlace": "https://phys.org/news/2026-07-hundreds-economists-ai-economic-impact.html",
-        "desc": "Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transform the economy and could put many people out of wo…",
-        "fecha": "2026-07-13T15:40:06-04:00",
+        "titulo": "Floating-electron catalyst withstands week in air while making ammonia under milder conditions",
+        "enlace": "https://phys.org/news/2026-07-electron-catalyst-week-air-ammonia.html",
+        "desc": "A surface electrene, BaSiN2:O, developed by researchers at Science Tokyo enables efficient ammonia synthesis under mild conditions while overcoming the long-standing air instabilit…",
+        "fecha": "2026-07-13T16:40:03-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -948,8 +962,8 @@
       {
         "titulo": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "enlace": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-        "desc": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
-        "fecha": "2026-07-13T10:29:17+00:00",
+        "desc": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+        "fecha": "2026-07-13T20:15:00+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -963,7 +977,7 @@
         "titulo": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
         "enlace": "https://www.nature.com/articles/s41586-026-10855-3",
         "desc": "Nature, Published online: 13 July 2026; doi:10.1038/s41586-026-10855-3 Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
-        "fecha": "2026-07-13T19:42:12.505169+00:00",
+        "fecha": "2026-07-13T21:01:50.461641+00:00",
         "fuente": "Nature"
       }
     ],
@@ -979,7 +993,7 @@
         "titulo": "Cellules solaires tandem pérovskite-organiques avec un stabilisateur photo-transformable",
         "enlace": "https://www.nature.com/articles/s41586-026-10869-x",
         "desc": "Nature, Mise en ligne : 13 juillet 2026 ; est ce que je:10.1038/s41586-026-10869-x Cellules solaires tandem pérovskite-organiques avec un stabilisateur photo-transformable",
-        "fecha": "2026-07-13T19:42:16.497916+00:00",
+        "fecha": "2026-07-13T21:01:54.132802+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -993,7 +1007,7 @@
         "titulo": "Correction de l'auteur : l'ingénierie OR7A10 GPCR renforce la thérapie CAR-NK contre les tumeurs solides",
         "enlace": "https://www.nature.com/articles/s41586-026-10855-3",
         "desc": "Nature, Mise en ligne : 13 juillet 2026 ; doi:10.1038/s41586-026-10855-3 Correction de l'auteur : L'ingénierie OR7A10 GPCR renforce la thérapie CAR-NK contre les tumeurs solides",
-        "fecha": "2026-07-13T19:42:16.497961+00:00",
+        "fecha": "2026-07-13T21:01:54.132841+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1002,28 +1016,28 @@
         "titulo": "Ebola: Aus der DR Kongo evakuiert, in Deutschland behandelt",
         "enlace": "https://www.dw.com/de/ebola-aus-der-dr-kongo-evakuiert-in-deutschland-behandelt/a-77224821?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Nachdem im Mai ein US-Ebola-Patient in Berlin erfolgreich versorgt wurde, wird nun ein weiterer Erkrankter in Frankfurt behandelt. Deutschlands sieben Sonderisolierstationen zählen…",
-        "fecha": "2026-07-13T19:42:17.386512+00:00",
+        "fecha": "2026-07-13T21:01:57.870263+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Perowskit-organische Tandemsolarzellen mit einem phototransformierbaren Stabilisator",
         "enlace": "https://www.nature.com/articles/s41586-026-10869-x",
         "desc": "Natur, Online veröffentlicht: 13. Juli 2026; doi:10.1038/s41586-026-10869-x Perowskit-organische Tandemsolarzellen mit einem fototransformierbaren Stabilisator",
-        "fecha": "2026-07-13T19:42:17.508297+00:00",
+        "fecha": "2026-07-13T21:01:57.988278+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Die Pest – heute genauso gefährlich wie im Mittelalter",
         "enlace": "https://www.dw.com/de/die-pest-heute-genauso-gefährlich-wie-im-mittelalter/a-77859115?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Die Pest ist uns vor allem aus der Geschichte bekannt. Doch es gibt sie immer noch, in Madagaskar oder den USA. Und sie ist nicht ungefährlicher geworden. Warum wir uns trotzdem ni…",
-        "fecha": "2026-07-13T19:42:17.386557+00:00",
+        "fecha": "2026-07-13T21:01:57.870304+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: OR7A10-GPCR-Technik verstärkt die CAR-NK-Therapie gegen solide Tumoren",
         "enlace": "https://www.nature.com/articles/s41586-026-10855-3",
         "desc": "Natur, Online veröffentlicht: 13. Juli 2026; doi:10.1038/s41586-026-10855-3 Autorenkorrektur: OR7A10 GPCR-Technik verstärkt CAR-NK-Therapie gegen solide Tumoren",
-        "fecha": "2026-07-13T19:42:17.508341+00:00",
+        "fecha": "2026-07-13T21:01:57.988316+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1032,23 +1046,23 @@
         "titulo": "Celle solari tandem organiche a base di perovskite con uno stabilizzatore fototrasformabile",
         "enlace": "https://www.nature.com/articles/s41586-026-10869-x",
         "desc": "Natura, Pubblicato online: 13 luglio 2026; doi:10.1038/s41586-026-10869-x Celle solari tandem organiche a base di perovskite con stabilizzatore fototrasformabile",
-        "fecha": "2026-07-13T19:42:19.159806+00:00",
+        "fecha": "2026-07-13T21:02:02.748214+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Correzione dell'autore: L'ingegneria GPCR OR7A10 potenzia la terapia CAR-NK contro i tumori solidi",
         "enlace": "https://www.nature.com/articles/s41586-026-10855-3",
         "desc": "Natura, Pubblicato online: 13 luglio 2026; doi:10.1038/s41586-026-10855-3 Correzione dell'autore: L'ingegneria GPCR OR7A10 potenzia la terapia CAR-NK contro i tumori solidi",
-        "fecha": "2026-07-13T19:42:19.159851+00:00",
+        "fecha": "2026-07-13T21:02:02.748253+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "CEO da Naftogaz pode ser próximo primeiro-ministro ucraniano",
-        "enlace": "https://observador.pt/programas/a-guerra-traduzida/ceo-da-naftogaz-pode-ser-proximo-primeiro-ministro-ucraniano/",
-        "desc": "A nomeação de Serhii Koretskyi surge depois da reformulação de Governo anunciada pelo presidente Volodymyr Zelensky, que levou à demissão da primeira-ministra.",
-        "fecha": "2026-07-13T20:20:47+01:00",
+        "titulo": "Sismos: número de mortos ultrapassa os 4.500",
+        "enlace": "https://observador.pt/2026/07/13/sismo-na-venezuela-mortos-sobem-para-4-561-incluindo-114-portugueses-e-lusodescendentes/",
+        "desc": "Mais de 20.200 pessoas estão sem casa e a viver em abrigos improvisados",
+        "fecha": "2026-07-13T22:01:30+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1059,17 +1073,17 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Putin promete vencer guerra em campanha para eleições russas",
-        "enlace": "https://observador.pt/programas/a-guerra-traduzida/putin-promete-vencer-guerra-em-campanha-para-eleicoes-russas/",
-        "desc": "Promessa deixada no primeiro ato de campanha para as eleições legislativas de setembro, em que o partido presidencial, Rússia Unida, pretende revalidar a maioria.",
-        "fecha": "2026-07-13T20:20:20+01:00",
+        "titulo": "Força para a Ucrânia treina em países vizinhos em breve",
+        "enlace": "https://observador.pt/2026/07/13/forca-multinacional-para-a-ucrania-vai-treinar-nos-paises-vizinhos-nos-proximos-meses-anuncia-macron-apos-reuniao-da-coligacao-dos-voluntarios/",
+        "desc": "O Presidente francês convocou uma reunião dos líderes da Coligação dos Voluntários sobre a Ucrânia",
+        "fecha": "2026-07-13T21:44:21+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "A explosão de processos de brasileiros contra bets para receber prêmio: 'dinheiro não sai'",
-        "enlace": "https://www.bbc.com/portuguese/articles/clyxxl2wldro?at_medium=RSS&at_campaign=rss",
-        "desc": "Levantamento feito a pedido da BBC News Brasil nas bases de dados dos tribunais do país desenham um quadro mais nítido de alguns dos conflitos entre apostadores e empresas que nos …",
-        "fecha": "2026-07-13T12:26:18+00:00",
+        "titulo": "Os argumentos de Alexandre de Moraes para suspender visitas de Flávio a Bolsonaro por 90 dias",
+        "enlace": "https://www.bbc.com/portuguese/articles/czde995vdm9o?at_medium=RSS&at_campaign=rss",
+        "desc": "Decisão ocorre após senador e candidato à Presidência ler carta escrita pelo pai nas redes sociais no sábado. Ministro avalia que ação viola proibição de Bolsonaro utilizar as rede…",
+        "fecha": "2026-07-13T19:43:10+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1085,7 +1099,7 @@
         "titulo": "SK Hynix se hunde un 15% en la peor jornada de su historia en bolsa tras su debut en Wall Street",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-13/sk-hynix-se-hunde-un-15-en-la-peor-jornada_4388997/",
         "desc": "Las acciones de la compañía se han hundido en Corea hasta alcanzar así su nivel más bajo en más de dos meses, y han arrastrado a otros rivales como Samsung Electronics",
-        "fecha": "2026-07-13T19:42:25.667746+00:00",
+        "fecha": "2026-07-13T21:02:09.507746+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1096,21 +1110,21 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El petróleo sube mientras Trump dice que Estados Unidos quiere un cargo del 20% por los flujos de Ormuz",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-        "desc": "El petróleo registró su mayor aumento desde abril después de que el presidente de Estados Unidos, Donald Trump, dijera que volvería a imponer un bloqueo a los barcos iraníes que transitan por el Estrecho de Ormuz y exigiría el pago por todos los demás...",
-        "fecha": "2026-07-12T22:02:12+00:00",
+        "titulo": "CEO de Chipotle sobre expansión global, precios y brote de cyclospora",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-13/chipotle-ceo-on-global-expansion-pricing-and-cyclospora-video",
+        "desc": "Scott Boatwright, director ejecutivo de Chipotle Mexican Grill, analiza los planes de expansión de la compañía, la estrategia de precios y lo último sobre el brote de ciclosporiasis en \"Bloomberg The Close\". (Fuente…",
+        "fecha": "2026-07-13T20:10:12+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Paramount y WBD enfrentan una demanda de 12 estados, incluido California, para bloquear la fusión",
-        "enlace": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
-        "desc": "Un grupo de estados, incluido California, presentó una demanda para bloquear la fusión entre Paramount y Warner Bros. Discovery.",
-        "fecha": "2026-07-13T18:58:47+00:00",
+        "titulo": "Chipotle abre su primer restaurante en México",
+        "enlace": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+        "desc": "La cadena de comida rápida Chipotle anunció el lunes que abrirá su primer local en México en el área de Monterrey.",
+        "fecha": "2026-07-13T20:10:01+00:00",
         "fuente": "CNBC"
       },
       {
-        "titulo": "Trump anuncia un peaje del 20% por cruzar Ormuz y dispara el petróleo sobre los 82 dólares",
+        "titulo": "Trump anuncia un peaje del 20% por cruzar Ormuz y dispara el petróleo sobre los 83 dólares",
         "enlace": "https://www.expansion.com/economia/2026/07/13/6a54f773468aeb0b788b4577.html",
         "desc": "El presidente de Estados Unidos asevera que el paso \"permanecerá abierto\" pese a la nueva escalada escalada de ataques cruzados con Irán.&nbsp; Leer",
         "fecha": "2026-07-13T16:35:19+02:00",
@@ -1120,7 +1134,7 @@
         "titulo": "Seis claves que marcarán el rumbo del mercado durante un verano con mucha volatilidad",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-11/seis-claves-mercado-verano-volatilidad_4387948/",
         "desc": "La asesora Diaphanum expone una serie de factores que serán fundamentales para definir el rumbo de los mercados durante el periodo estival",
-        "fecha": "2026-07-13T19:42:25.667793+00:00",
+        "fecha": "2026-07-13T21:02:09.507784+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1131,26 +1145,54 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El oro se desploma a medida que Estados Unidos e Irán atacan, las apuestas de la subida de tipos de combustible de Waller de la Fed",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
-        "desc": "El oro cayó más en más de dos semanas debido a que las renovadas hostilidades entre Estados Unidos e Irán en el Medio Oriente y los comentarios de un responsable de la política monetaria alimentaron las expectativas de que la Reserva Federal...",
-        "fecha": "2026-07-12T23:13:35+00:00",
+        "titulo": "Acciones y bonos caen a medida que el salto del petróleo alimenta las apuestas de alza de la Reserva Federal: los mercados cierran",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "desc": "Un enfrentamiento entre Estados Unidos e Irán elevó los precios del petróleo, y las acciones y los bonos cayeron después de que los enfrentamientos en el Estrecho de Ormuz generaron preocupaciones sobre una interrupción en el suministro de energía...",
+        "fecha": "2026-07-12T22:10:28+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Los grandes bancos se preparan para reportar un auge de ingresos impulsado por la IPO de SpaceX y la volatilidad de la guerra de Irán",
-        "enlace": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-        "desc": "Los grandes bancos se preparan para reportar un auge en los ingresos del segundo trimestre a medida que la oferta pública inicial de SpaceX, la volatilidad de la guerra de Irán y un repunte en los préstamos comerciales alimentan el \"punto óptimo\" de Wall Street.",
-        "fecha": "2026-07-13T13:19:24+00:00",
+        "titulo": "Paramount y WBD enfrentan una demanda de 12 estados, incluido California, para bloquear la fusión",
+        "enlace": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+        "desc": "Un grupo de estados, incluido California, presentó una demanda para bloquear la fusión entre Paramount y Warner Bros. Discovery.",
+        "fecha": "2026-07-13T18:58:47+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Oil Surges as Trump Says US Wants 20% Charge for Hormuz Flows",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-        "desc": "Oil surged by the most since April after US President Donald Trump said he would reimpose a blockade on Iranian ships transiting the Strait of Hormuz and demand payment for all oth…",
-        "fecha": "2026-07-12T22:02:12+00:00",
+        "titulo": "Chipotle CEO on Global Expansion, Pricing and Cyclospora Outbreak",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-13/chipotle-ceo-on-global-expansion-pricing-and-cyclospora-video",
+        "desc": "Chipotle Mexican Grill CEO Scott Boatwright discusses the company's expansion plans, pricing strategy and the latest on the cyclosporiasis outbreak on \"Bloomberg The Close.\" (Sourc…",
+        "fecha": "2026-07-13T20:10:12+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "Why homebuyers are racing to this Pennsylvania port city",
+        "enlace": "https://www.foxbusiness.com/lifestyle/why-homebuyers-racing-pennsylvania-port-city",
+        "desc": "Bargain hunters have made Erie, Pennsylvania, one of the nation&apos;s hottest housing markets. Homes in Pennsylvania&apos;s only Great Lakes port city sell in just 29 days on aver…",
+        "fecha": "2026-07-13T16:50:44-04:00",
+        "fuente": "Fox Business"
+      },
+      {
+        "titulo": "Chipotle is opening its first restaurant in Mexico",
+        "enlace": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+        "desc": "Fast casual chain Chipotle announced Monday that it is opening its first location in Mexico in the Monterrey area.",
+        "fecha": "2026-07-13T20:10:01+00:00",
+        "fuente": "CNBC"
+      },
+      {
+        "titulo": "The stubborn scarcity of female breadwinners",
+        "enlace": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
+        "desc": "Wives who outearn their husbands remain rare in America",
+        "fecha": "2026-07-13T19:12:11+00:00",
+        "fuente": "The Economist"
+      },
+      {
+        "titulo": "Stocks, Bonds Fall as Oil Jump Fuels Fed-Hike Bets: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "desc": "A standoff between the US and Iran lifted oil prices, with stocks joining bonds lower after clashes over the Strait of Hormuz raised concerns about a disruption in energy supplies …",
+        "fecha": "2026-07-12T22:10:28+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1168,34 +1210,6 @@
         "fuente": "CNBC"
       },
       {
-        "titulo": "The stubborn scarcity of female breadwinners",
-        "enlace": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
-        "desc": "Wives who outearn their husbands remain rare in America",
-        "fecha": "2026-07-13T19:12:11+00:00",
-        "fuente": "The Economist"
-      },
-      {
-        "titulo": "Gold Slumps as US-Iran Strikes, Fed’s Waller Fuel Rate Hike Bets",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
-        "desc": "Gold dropped the most in more than two weeks as renewed US-Iran hostilities in the Middle East and remarks from a monetary policymaker fueled expectations that the Federal Reserve …",
-        "fecha": "2026-07-12T23:13:35+00:00",
-        "fuente": "Bloomberg"
-      },
-      {
-        "titulo": "Paramount advisers push for California exit as state sues to block Warner Bros Discovery merger: report",
-        "enlace": "https://www.foxbusiness.com/media/paramount-advisers-push-california-exit-state-sues-block-warner-bros-discovery-merger-report",
-        "desc": "Advisers are reportedly pushing David Ellison to move Paramount out of California as AG Rob Bonta sues to block the Warner Bros. Discovery merger.",
-        "fecha": "2026-07-13T12:54:29-04:00",
-        "fuente": "Fox Business"
-      },
-      {
-        "titulo": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-        "enlace": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-        "desc": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
-        "fecha": "2026-07-13T13:19:24+00:00",
-        "fuente": "CNBC"
-      },
-      {
         "titulo": "Storm clouds gather over America’s financial supremacy",
         "enlace": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
         "desc": "Its payments firms may be the first casualties",
@@ -1205,93 +1219,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Le pétrole augmente alors que Trump déclare que les États-Unis veulent une taxe de 20 % sur les flux d'Ormuz",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-        "desc": "Le pétrole a connu sa plus forte hausse depuis avril après que le président américain Donald Trump a déclaré qu'il réimposerait un blocus aux navires iraniens transitant par le détroit d'Ormuz et exigerait le paiement de tous les autres.",
-        "fecha": "2026-07-12T22:02:12+00:00",
+        "titulo": "PDG de Chipotle sur l'expansion mondiale, les prix et l'épidémie de Cyclospora",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-13/chipotle-ceo-on-global-expansion-pricing-and-cyclospora-video",
+        "desc": "Le PDG de Chipotle Mexican Grill, Scott Boatwright, discute des plans d'expansion de l'entreprise, de la stratégie de prix et des dernières nouvelles sur l'épidémie de cyclosporose sur « Bloomberg The Close ». (Source…",
+        "fecha": "2026-07-13T20:10:12+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "L’or s’effondre alors que les États-Unis et l’Iran frappent, et la Fed Waller parie sur une hausse des taux de carburant",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
-        "desc": "L’or a chuté le plus en plus de deux semaines alors que la reprise des hostilités entre les États-Unis et l’Iran au Moyen-Orient et les remarques d’un responsable de la politique monétaire ont alimenté les attentes selon lesquelles la Réserve fédérale…",
-        "fecha": "2026-07-12T23:13:35+00:00",
+        "titulo": "Les actions et les obligations chutent alors que la hausse du pétrole alimente les paris sur une hausse de la Fed : les marchés se replient",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "desc": "Une impasse entre les États-Unis et l’Iran a fait monter les prix du pétrole, les actions rejoignant les obligations à la baisse après les affrontements autour du détroit d’Ormuz qui ont suscité des inquiétudes quant à une perturbation de l’approvisionnement énergétique…",
+        "fecha": "2026-07-12T22:10:28+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Naher Osten: Was hat Trump mit dem Iran-Rahmenabkommen überhaupt erreicht?",
-        "enlace": "https://www.handelsblatt.com/politik/international/naher-osten-was-hat-trump-mit-dem-iran-rahmenabkommen-ueberhaupt-erreicht/100239927.html",
-        "desc": "Groß ist der Optimismus des US-Präsidenten im Juni gewesen, als er mit der Führung im Iran ein Abkommen erzielt hatte. Knapp einen Monat später scheint es hinfällig zu sein. Was al…",
-        "fecha": "2026-07-13T19:06:40+00:00",
+        "titulo": "Zentralbank: Fed-Direktor Waller bringt baldige Zinserhöhung ins Spiel",
+        "enlace": "https://www.handelsblatt.com/finanzen/geldpolitik/zentralbank-fed-direktor-waller-bringt-baldige-zinserhoehung-ins-spiel/100239936.html",
+        "desc": "Kommt es doch wieder zu einer Zinswende? Die Worte von Fed-Direktoriumsmitglied Waller deuten an, dass in der Notenbank der Ruf nach höheren Zinsen wächst.",
+        "fecha": "2026-07-13T20:32:37+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Öl steigt stark an, da Trump sagt, dass die USA eine Gebühr von 20 % für Hormuz-Flüsse fordern wollen",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-        "desc": "Der Ölpreis stieg so stark wie seit April nicht mehr, nachdem US-Präsident Donald Trump angekündigt hatte, er werde eine Blockade gegen iranische Schiffe verhängen, die die Straße von Hormus durchqueren, und Zahlungen für alle anderen fordern.",
-        "fecha": "2026-07-12T22:02:12+00:00",
+        "titulo": "CEO von Chipotle über globale Expansion, Preisgestaltung und Cyclospora-Ausbruch",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-13/chipotle-ceo-on-global-expansion-pricing-and-cyclospora-video",
+        "desc": "Scott Boatwright, CEO von Chipotle Mexican Grill, bespricht in „Bloomberg The Close“ die Expansionspläne des Unternehmens, die Preisstrategie und das Neueste zum Cyclosporiasis-Ausbruch. (Quelle…",
+        "fecha": "2026-07-13T20:10:12+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Iran-Krieg: US-Iran-Rahmenabkommen: Was hat Trump überhaupt erreicht?",
-        "enlace": "https://www.handelsblatt.com/politik/international/iran-krieg-us-iran-rahmenabkommen-was-hat-trump-ueberhaupt-erreicht/100239924.html",
-        "desc": "Groß war der Jubel von US-Präsident Trump, als er mit der Führung im Iran ein vages Rahmenabkommen erzielte. Knapp einen Monat später stellt sich jedoch die Frage: Was ist davon no…",
-        "fecha": "2026-07-13T18:58:53+00:00",
+        "titulo": "Koalition der Willigen: Macron überrascht mit Ankündigung von Manövern für Ukraine",
+        "enlace": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-macron-ueberrascht-mit-ankuendigung-von-manoevern-fuer-ukraine/100239937.html",
+        "desc": "Bei einem Waffenstillstand wollen Unterstützer der Ukraine mit einer Schutztruppe beistehen. Soweit ist es längst noch nicht, Macron aber will die Truppe bereits zu Manövern mobili…",
+        "fecha": "2026-07-13T20:15:36+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Gold bricht ein, während die USA und der Iran zuschlagen, Waller setzt auf eine Erhöhung der Treibstoffpreise durch die US-Notenbank",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
-        "desc": "Der Goldpreis fiel so stark wie seit mehr als zwei Wochen nicht mehr, da die erneuten Feindseligkeiten zwischen den USA und dem Iran im Nahen Osten und Äußerungen eines geldpolitischen Entscheidungsträgers die Erwartungen nährten, dass die Federal Reserve …",
-        "fecha": "2026-07-12T23:13:35+00:00",
+        "titulo": "Aktien und Anleihen fallen, da der Ölanstieg die Zinserhöhungswetten der Fed befeuert: Marktschluss",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "desc": "Eine Pattsituation zwischen den USA und dem Iran ließ die Ölpreise steigen, wobei Aktien und Anleihen nachgaben, nachdem Zusammenstöße in der Straße von Hormus Bedenken hinsichtlich einer Unterbrechung der Energieversorgung aufkommen ließen …",
+        "fecha": "2026-07-12T22:10:28+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Il petrolio aumenta mentre Trump afferma che gli Stati Uniti vogliono una tariffa del 20% per i flussi Hormuz",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-        "desc": "Il petrolio è aumentato al massimo da aprile, dopo che il presidente degli Stati Uniti Donald Trump ha dichiarato che reimporrà il blocco sulle navi iraniane che transitano nello Stretto di Hormuz e chiederà il pagamento per tutte le altre...",
-        "fecha": "2026-07-12T22:02:12+00:00",
+        "titulo": "CEO di Chipotle su espansione globale, prezzi e epidemia di ciclospora",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-13/chipotle-ceo-on-global-expansion-pricing-and-cyclospora-video",
+        "desc": "Scott Boatwright, CEO di Chipotle Mexican Grill, parla dei piani di espansione dell'azienda, della strategia dei prezzi e delle ultime novità sull'epidemia di ciclosporiasi su \"Bloomberg The Close\". (Fonte…",
+        "fecha": "2026-07-13T20:10:12+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "L’oro crolla mentre USA-Iran colpiscono, le scommesse della Fed sull’aumento del tasso del carburante Waller",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
-        "desc": "L'oro è crollato di più in più di due settimane, poiché le rinnovate ostilità tra Stati Uniti e Iran in Medio Oriente e le osservazioni di un politico monetario hanno alimentato le aspettative che la Federal Reserve...",
-        "fecha": "2026-07-12T23:13:35+00:00",
+        "titulo": "Azioni e obbligazioni crollano mentre il balzo del petrolio alimenta le scommesse sull'aumento della Fed: chiusura dei mercati",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "desc": "Una situazione di stallo tra Stati Uniti e Iran ha fatto salire i prezzi del petrolio, con le azioni che si sono unite alle obbligazioni al ribasso dopo che gli scontri sullo Stretto di Hormuz hanno sollevato preoccupazioni per un’interruzione delle forniture energetiche…",
+        "fecha": "2026-07-12T22:10:28+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Sem linhas de crédito, chegaram ao terreno apenas 18% dos apoios às tempestades, diz ministro",
-        "enlace": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/sem-linhas-de-credito-chegaram-ao-terreno-apenas-18-dos-apoios-as-tempestades-diz-ministro",
-        "desc": "Ministro das Finanças diz que foram executados 208,4 milhões de euros em apoios diretos do Estado, com impacto orçamental. Banco de Fomento deu 'luz verde' a 1,6 mil milhões em lin…",
-        "fecha": "2026-07-13T20:28:51+01:00",
+        "titulo": "Processo da Apple contra OpenAI ameaça adiar lançamento do concorrente do iPhone",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/processo-da-apple-contra-openai-ameaca-adiar-lancamento-do-concorrente-do-iphone",
+        "desc": "A Apple acusa a empresa de Sam Altman de roubo de informação confidencial ao nível dos dispositivos. O \"hardware\" que a criadora do ChatGPT quer apresentar ainda este ano pode vir …",
+        "fecha": "2026-07-13T21:48:51+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Petróleo sobe enquanto Trump diz que EUA querem cobrança de 20% pelos fluxos de Hormuz",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-        "desc": "O petróleo subiu mais desde abril, depois que o presidente dos EUA, Donald Trump, disse que iria reimpor um bloqueio aos navios iranianos que transitam pelo Estreito de Ormuz e exigir o pagamento de todos os outros…",
-        "fecha": "2026-07-12T22:02:12+00:00",
+        "titulo": "CEO da Chipotle sobre expansão global, preços e surto de Cyclospora",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-07-13/chipotle-ceo-on-global-expansion-pricing-and-cyclospora-video",
+        "desc": "O CEO da Chipotle Mexican Grill, Scott Boatwright, discute os planos de expansão da empresa, estratégia de preços e as últimas novidades sobre o surto de ciclosporíase no \"Bloomberg The Close\". (Fonte…",
+        "fecha": "2026-07-13T20:10:12+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Bloqueio aos portos iranianos começa terça-feira. Petróleo dispara quase 9%",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/bloqueio-aos-portos-iranianos-comeca-terca-feira-petroleo-dispara-quase-9",
-        "desc": "Os preços do crude começaram a acelerar depois Trump ter anunciado a reposição as restrições à navegação sobre o Irão e a intenção de cobrar uma taxa de 20% sobre o tráfego no estr…",
-        "fecha": "2026-07-13T20:20:00+01:00",
+        "titulo": "Parabéns PS e Chega",
+        "enlace": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/parabens-ps-e-chega",
+        "desc": "Os contribuintes portugueses subsidiaram cidadãos e empresas estrangeiras no valor de 12 milhões de euros. Isto é, foram os seus impostos a pagar o benefício dado a quem não vive e…",
+        "fecha": "2026-07-13T21:30:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ouro cai com greves EUA-Irã, apostas de aumento da taxa de combustível do Fed em Waller",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
-        "desc": "O ouro caiu mais em mais de duas semanas, à medida que as novas hostilidades entre os EUA e o Irão no Médio Oriente e as observações de um decisor de política monetária alimentaram as expectativas de que a Reserva Federal…",
-        "fecha": "2026-07-12T23:13:35+00:00",
+        "titulo": "Ações e títulos caem à medida que salto do petróleo alimenta apostas de aumento do Fed: mercado encerrado",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+        "desc": "Um impasse entre os EUA e o Irão elevou os preços do petróleo, com as ações a juntarem-se aos títulos em baixa depois dos confrontos no Estreito de Ormuz terem levantado preocupações sobre uma interrupção no fornecimento de energia…",
+        "fecha": "2026-07-12T22:10:28+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
