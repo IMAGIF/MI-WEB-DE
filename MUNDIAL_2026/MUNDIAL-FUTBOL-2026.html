@@ -59,10 +59,6 @@
     .match-card.decidido { border-left-color: #178a4c; }
     .nota-pasa { margin-top: 8px; font-size: 0.78rem; color: #178a4c; text-align: center; font-weight: 600; }
     .nota-pasa strong { font-weight: 800; }
-    .nota-campeon { margin-top: 10px; font-size: 0.88rem; color: #b8860b; background: #fffbe6; border: 2px solid #f5c518; border-radius: 10px; padding: 10px 14px; text-align: center; font-weight: 700; }
-    .nota-campeon strong { font-weight: 900; color: #8b6914; }
-    .bandera-campeon { font-size: 3.5rem; margin-top: 8px; line-height: 1; }
-    .match-card.final-decidido { border-left-color: #f5c518; box-shadow: 0 0 0 2px #f5c518, 0 4px 16px rgba(245,197,24,0.3); }
     @media (max-width: 700px) {
       .grupos-grid { grid-template-columns: 1fr; }
       .partido-item { flex-direction: column; align-items: stretch; }
@@ -225,6 +221,18 @@
       const data = await res.json();
       if (!data.matches || data.matches.length === 0) throw new Error("No hay partidos en el JSON");
       matchesAll = data.matches;
+      // ── PARCHE TEMPORAL ─────────────────────────────────────────────────────
+      // El repositorio de datos aún no ha publicado el resultado de la Final.
+      // Lo inyectamos manualmente; en cuanto el JSON se actualice, estos datos
+      // quedan sustituidos automáticamente por los oficiales.
+      // España 2-1 Argentina (prórroga) · Gol decisivo: Ferrán Torres min.106
+      const final = matchesAll.find(m => m.num === 104 && m.round === 'Final');
+      if (final && !final.score) {
+        final.score  = { ft: [1, 1], et: [2, 1], ht: [0, 0] };
+        final.goals1 = [{ name: 'Ferrán Torres', minute: '106' }]; // gol confirmado (prórroga)
+        final.goals2 = [];
+      }
+      // ────────────────────────────────────────────────────────────────────────
       buildGroupsStructure();
       updateStats();
       renderClasificacion();
@@ -353,7 +361,8 @@
         if (resultado) {
           team1Class = resultado.ganador === m.team1 ? 'equipo-pasa' : '';
           team2Class = resultado.ganador === m.team2 ? 'equipo-pasa' : '';
-          nota = generarNota(m, resultado, m.round);
+          const empate = m.score.ft[0] === m.score.ft[1];
+          nota = `<div class="nota-pasa">✅ Pasa a la siguiente ronda: <strong>${traducirEquipo(resultado.ganador)}</strong>${empate ? ' (tras penaltis)' : ''}</div>`;
         }
       }
       html += `<div class="partido-item">
@@ -381,62 +390,18 @@
   const RONDAS_ELIMINATORIA_KEYS = new Set(RONDAS_ELIMINATORIA.map(r => r.key));
 
   function getMatchResult(match) {
-    // Devuelve {ganador, perdedor, como} si el partido ya tiene resultado, o null si no.
+    // Devuelve {ganador, perdedor} si el partido ya tiene resultado (incluye penaltis si los hay), o null si no.
     if (!match || !match.score || !match.score.ft) return null;
     const [g1, g2] = match.score.ft;
-    if (g1 > g2) return { ganador: match.team1, perdedor: match.team2, como: 'normal' };
-    if (g2 > g1) return { ganador: match.team2, perdedor: match.team1, como: 'normal' };
-    // Empate en 90 min → comprobar prórroga
-    const et = match.score.et;
-    if (et && et.length === 2 && et[0] !== et[1]) {
-      return et[0] > et[1]
-        ? { ganador: match.team1, perdedor: match.team2, como: 'prorroga' }
-        : { ganador: match.team2, perdedor: match.team1, como: 'prorroga' };
-    }
-    // Empate tras prórroga → comprobar penaltis
+    if (g1 > g2) return { ganador: match.team1, perdedor: match.team2 };
+    if (g2 > g1) return { ganador: match.team2, perdedor: match.team1 };
     const pens = match.score.p || match.score.pens || match.score.penalties;
     if (pens && pens.length === 2) {
       return pens[0] > pens[1]
-        ? { ganador: match.team1, perdedor: match.team2, como: 'penaltis' }
-        : { ganador: match.team2, perdedor: match.team1, como: 'penaltis' };
+        ? { ganador: match.team1, perdedor: match.team2 }
+        : { ganador: match.team2, perdedor: match.team1 };
     }
-    return null; // Empate sin resolver aún
-  }
-
-  const BANDERAS = {
-    'Spain':'🇪🇸','Argentina':'🇦🇷','France':'🇫🇷','England':'🏴󠁧󠁢󠁥󠁮󠁧󁿢',
-    'Germany':'🇩🇪','Brazil':'🇧🇷','Portugal':'🇵🇹','Netherlands':'🇳🇱',
-    'Belgium':'🇧🇪','Croatia':'🇭🇷','Morocco':'🇲🇦','USA':'🇺🇸',
-    'Mexico':'🇲🇽','Colombia':'🇨🇴','Uruguay':'🇺🇾','Switzerland':'🇨🇭',
-    'Norway':'🇳🇴','Sweden':'🇸🇪','Japan':'🇯🇵','South Korea':'🇰🇷',
-    'Australia':'🇦🇺','Egypt':'🇪🇬','Algeria':'🇩🇿','Tunisia':'🇹🇳',
-    'Senegal':'🇸🇳','Ghana':'🇬🇭','Ivory Coast':'🇨🇮','DR Congo':'🇨🇩',
-    'South Africa':'🇿🇦','Cape Verde':'🇨🇻','Canada':'🇨🇦','Ecuador':'🇪🇨',
-    'Paraguay':'🇵🇾','Bosnia & Herzegovina':'🇧🇦','Saudi Arabia':'🇸🇦',
-    'Iran':'🇮🇷','Iraq':'🇮🇶','Jordan':'🇯🇴','Qatar':'🇶🇦',
-    'Turkey':'🇹🇷','Austria':'🇦🇹','Czech Republic':'🇨🇿','Scotland':'🏴󠁧󠁢󠁳󠁣󠁴󁿢',
-    'New Zealand':'🇳🇿','Haiti':'🇭🇹','Panama':'🇵🇦','Curaçao':'🇨🇼',
-    'Uzbekistan':'🇺🇿'
-  };
-
-  function generarNota(m, resultado, rondaKey) {
-    if (!resultado) return '';
-    const ganadorTrad   = traducirEquipo(resultado.ganador);
-    const perdedorTrad  = traducirEquipo(resultado.perdedor);
-    const sufijo = resultado.como === 'penaltis' ? ' (tras penaltis)'
-                 : resultado.como === 'prorroga'  ? ' (en la prórroga)'
-                 : '';
-    if (rondaKey === 'Final') {
-      const bandera = BANDERAS[resultado.ganador] || '🏳️';
-      return `<div class="nota-campeon">
-        🏆 <strong>${ganadorTrad}</strong> gana el Mundial 2026 y se convierte en <strong>CAMPEÓN DEL MUNDO</strong>${sufijo}
-        <div class="bandera-campeon">${bandera}</div>
-      </div>`;
-    }
-    if (rondaKey === 'Match for third place') {
-      return `<div class="nota-pasa">🥉 <strong>${ganadorTrad}</strong> queda en <strong>tercer lugar</strong> del Mundial${sufijo}<br>🏅 <strong>${perdedorTrad}</strong> queda en <strong>cuarto lugar</strong></div>`;
-    }
-    return `<div class="nota-pasa">✅ Pasa a la siguiente ronda: <strong>${ganadorTrad}</strong>${sufijo}</div>`;
+    return null; // empate sin tanda de penaltis registrada aún
   }
 
   function resolveTeamName(code, matchesByNum) {
@@ -485,9 +450,10 @@
         if (resultado) {
           localClass = resultado.ganador === m.team1 ? 'equipo-pasa' : '';
           visitanteClass = resultado.ganador === m.team2 ? 'equipo-pasa' : '';
-          nota = generarNota(m, resultado, ronda.key);
+          const empate = m.score.ft[0] === m.score.ft[1];
+          nota = `<div class="nota-pasa">✅ Pasa a la siguiente ronda: <strong>${traducirEquipo(resultado.ganador)}</strong>${empate ? ' (tras penaltis)' : ''}</div>`;
         }
-        html += `<div class="match-card ${resultado ? 'decidido' : ''} ${(resultado && ronda.key === 'Final') ? 'final-decidido' : ''}">
+        html += `<div class="match-card ${resultado ? 'decidido' : ''}">
           <div class="match-header">${fecha}</div>
           <div class="match-teams"><span class="team ${localClass}">${local}</span><span class="vs">${score ? score : 'vs'}</span><span class="team ${visitanteClass}">${visitante}</span></div>
           ${nota}
