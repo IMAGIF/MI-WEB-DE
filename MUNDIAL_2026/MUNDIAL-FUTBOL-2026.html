@@ -221,18 +221,6 @@
       const data = await res.json();
       if (!data.matches || data.matches.length === 0) throw new Error("No hay partidos en el JSON");
       matchesAll = data.matches;
-      // ── PARCHE TEMPORAL ─────────────────────────────────────────────────────
-      // El repositorio de datos aún no ha publicado el resultado de la Final.
-      // Lo inyectamos manualmente; en cuanto el JSON se actualice, estos datos
-      // quedan sustituidos automáticamente por los oficiales.
-      // España 2-1 Argentina (prórroga) · Gol decisivo: Ferrán Torres min.106
-      const final = matchesAll.find(m => m.num === 104 && m.round === 'Final');
-      if (final && !final.score) {
-        final.score  = { ft: [0, 0], et: [1, 0], ht: [0, 0] };
-        final.goals1 = [{ name: 'Ferrán Torres', minute: '106' }]; // único gol del partido (prórroga)
-        final.goals2 = [];
-      }
-      // ────────────────────────────────────────────────────────────────────────
       buildGroupsStructure();
       updateStats();
       renderClasificacion();
@@ -439,23 +427,47 @@
     let html = '';
     rondasConPartidos.forEach(ronda => {
       html += `<div class="ronda"><h3>🏆 ${ronda.titulo}</h3><div class="cruces">`;
+
+      // ── FINAL: resultado hardcodeado (España 1-0 Argentina, gol Ferrán Torres min.106) ──
+      if (ronda.key === 'Final') {
+        html += `<div class="match-card decidido final-decidido">
+          <div class="match-header">19/07/2026 · Nueva York/Nueva Jersey</div>
+          <div class="match-teams">
+            <span class="team equipo-pasa">🇪🇸 España</span>
+            <span class="vs">1 - 0</span>
+            <span class="team">Argentina 🇦🇷</span>
+          </div>
+          <div style="font-size:0.75rem;color:#666;text-align:center;margin-top:4px;">⏱️ Gol: Ferrán Torres (min. 106 · prórroga) · 0-0 tras 90 min.</div>
+          <div class="nota-campeon">
+            🏆 <strong>España</strong> gana el Mundial 2026 y se convierte en <strong>CAMPEÓN DEL MUNDO</strong> (en la prórroga)
+            <div class="bandera-campeon">🇪🇸</div>
+          </div>
+        </div>`;
+        html += `</div></div>`;
+        return;
+      }
+      // ────────────────────────────────────────────────────────────────────────
+
       ronda.partidos.forEach(m => {
         const local = resolveTeamName(m.team1, matchesByNum);
         const visitante = resolveTeamName(m.team2, matchesByNum);
-        let score = null;
-        if (m.score && m.score.ft) score = `${m.score.ft[0]} - ${m.score.ft[1]}`;
-        const fecha = (m.date && m.time) ? formatMadridDateTime(m.date, m.time) : '';
         const resultado = getMatchResult(m);
+        // Mostrar marcador ET si lo hay, si no FT
+        let score = null;
+        if (m.score) {
+          const s = m.score.et || m.score.ft;
+          if (s) score = `${s[0]} - ${s[1]}`;
+        }
+        const fecha = (m.date && m.time) ? formatMadridDateTime(m.date, m.time) : '';
         let localClass = '', visitanteClass = '', nota = '';
         if (resultado) {
-          localClass = resultado.ganador === m.team1 ? 'equipo-pasa' : '';
+          localClass    = resultado.ganador === m.team1 ? 'equipo-pasa' : '';
           visitanteClass = resultado.ganador === m.team2 ? 'equipo-pasa' : '';
-          const empate = m.score.ft[0] === m.score.ft[1];
-          nota = `<div class="nota-pasa">✅ Pasa a la siguiente ronda: <strong>${traducirEquipo(resultado.ganador)}</strong>${empate ? ' (tras penaltis)' : ''}</div>`;
+          nota = generarNota(m, resultado, ronda.key);
         }
         html += `<div class="match-card ${resultado ? 'decidido' : ''}">
           <div class="match-header">${fecha}</div>
-          <div class="match-teams"><span class="team ${localClass}">${local}</span><span class="vs">${score ? score : 'vs'}</span><span class="team ${visitanteClass}">${visitante}</span></div>
+          <div class="match-teams"><span class="team ${localClass}">${local}</span><span class="vs">${score ?? 'vs'}</span><span class="team ${visitanteClass}">${visitante}</span></div>
           ${nota}
         </div>`;
       });
@@ -471,8 +483,10 @@
     }
     const goleadores = {}; // nombre -> { goles, equipo }
     matchesAll.forEach(m => {
+      // Saltamos el partido de la Final (num 104) ya que su gol va hardcodeado abajo
+      if (m.num === 104) return;
       (m.goals1 || []).forEach(g => {
-        if (g.owngoal) return; // un gol en propia puerta no cuenta para el goleador
+        if (g.owngoal) return;
         if (!goleadores[g.name]) goleadores[g.name] = { goles: 0, equipo: m.team1 };
         goleadores[g.name].goles++;
       });
@@ -482,6 +496,9 @@
         goleadores[g.name].goles++;
       });
     });
+    // Gol de la Final hardcodeado: Ferrán Torres (España) min.106
+    if (!goleadores['Ferrán Torres']) goleadores['Ferrán Torres'] = { goles: 0, equipo: 'Spain' };
+    goleadores['Ferrán Torres'].goles++;
     const ranking = Object.entries(goleadores)
       .map(([nombre, datos]) => ({ nombre, ...datos }))
       .sort((a, b) => b.goles - a.goles)
