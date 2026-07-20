@@ -228,8 +228,8 @@
       // España 2-1 Argentina (prórroga) · Gol decisivo: Ferrán Torres min.106
       const final = matchesAll.find(m => m.num === 104 && m.round === 'Final');
       if (final && !final.score) {
-        final.score  = { ft: [1, 1], et: [2, 1], ht: [0, 0] };
-        final.goals1 = [{ name: 'Ferrán Torres', minute: '106' }]; // gol confirmado (prórroga)
+        final.score  = { ft: [0, 0], et: [1, 0], ht: [0, 0] };
+        final.goals1 = [{ name: 'Ferrán Torres', minute: '106' }]; // único gol del partido (prórroga)
         final.goals2 = [];
       }
       // ────────────────────────────────────────────────────────────────────────
