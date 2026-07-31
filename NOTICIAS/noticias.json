@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-07-31T17:43:17.050957+00:00",
+  "actualizado": "2026-07-31T19:40:30.638057+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Emilio Palomo, nuevo párroco de Santa Beatriz de Silva en Toledo tras 23 años en Yepes",
-        "enlace": "https://www.abc.es/espana/castilla-la-mancha/toledo/emilio-palomo-nuevo-parroco-santa-beatriz-silva-20260731191943-nt.html",
-        "desc": "Los nombramientos realizados el pasado miércoles por el arzobispo de Toledo, Francisco Cerro, para el próximo curso supondrán una renovación completa del equipo sacerdotal de la pa…",
-        "fecha": "2026-07-31T19:19:43+02:00",
+        "titulo": "Vox ordena suspender en sus gobiernos las ayudas a las ONG que «colaboren o financien la invasión migratoria de Ceuta»",
+        "enlace": "https://www.abc.es/espana/vox-ordena-suspender-gobiernos-ayudas-ong-colaboren-20260731213039-nt.html",
+        "desc": "Los vicepresidentes de Vox en Andalucía, Aragón, Castilla y León y Extremadura ha ordenado este viernes revisar todos los convenios en vigor y los procedimientos en curso para impe…",
+        "fecha": "2026-07-31T21:30:39+02:00",
         "fuente": "ABC"
       },
       {
@@ -24,61 +24,75 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "Estabilizado el incendio de la Vall de Uxó tras dejar 9.568 hectáreas quemadas",
-        "enlace": "https://theobjective.com/sociedad/2026-07-31/estabilizado-incendio-vall-uxo-9568-hectareas-quemadas/",
-        "desc": "El incendio de la Vall de Uxó (Castellón) ha quedado estabilizado la tarde de este viernes tras siete días activo, en los que ha quemado 9.568 [&#8230;]",
-        "fecha": "2026-07-31T17:20:22+00:00",
+        "titulo": "La NASA inaugura un túnel de viento que probará naves que irán a la Luna y Marte",
+        "enlace": "https://theobjective.com/sociedad/ciencia/2026-07-31/nasa-tunel-viento-naves-luna-marte/",
+        "desc": "La NASA ha inaugurado este viernes su nuevo túnel de viento, el primero en 40 años, que mejorará el rendimiento y la seguridad de las futuras [&#8230;]",
+        "fecha": "2026-07-31T19:36:42+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Los datos de Interior desmienten a Sánchez: las llegadas de inmigrantes irregulares a Ceuta ya habían subido un 149%",
         "enlace": "https://www.elconfidencial.com/espana/2026-07-31/los-datos-de-interior-desmienten-a-sanchez-las-llegadas-a-ceuta-subieron-un-140-antes-de-la-gran-crisis_4399229/",
         "desc": "El presidente del Gobierno subrayó desde la ciudad autónoma que el episodio de esta semana había roto una dinámica descendente de los flujos migratorios en la comparación de 2025 y…",
-        "fecha": "2026-07-31T17:43:19.125378+00:00",
+        "fecha": "2026-07-31T19:40:36.601093+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Inda: «No se engañen, Ceuta terminará siendo Marruecos»",
-        "enlace": "https://okdiario.com/opinion/inda-no-enganen-ceuta-terminara-siendo-marruecos-19108351",
-        "desc": "Eduardo Inda subraya que este jueves, cuando «se cifraba en 39.000 el número de marroquíes que habían entrado en Ceuta», ya indicó que eso era el ensayo de la plaza por parte del r…",
-        "fecha": "2026-07-31T19:41:27+02:00",
+        "titulo": "Birmingham City – Barcelona, en directo: debut de Adeyemi, resultado, goles y última hora del amistoso de pretemporada",
+        "enlace": "https://okdiario.com/deportes/birmingham-barcelona-directo-debut-adeyemi-resultado-goles-ultima-hora-amistoso-pretemporada-19107571",
+        "desc": "El Barcelona se enfrenta a su segundo duelo de pretemporada tras imponerse al CE Europa 4-1 a puerta cerrada, pero será la primera oportunidad para que los aficionados puedan ver a…",
+        "fecha": "2026-07-31T21:30:28+02:00",
         "fuente": "OKDiario"
       },
       {
-        "titulo": "Sánchez denuncia un \"ataque a la integridad de España\", culpa a las \"mafias\" y agradece a Marruecos su \"cooperación\"",
-        "enlace": "https://www.elespanol.com/espana/politica/20260731/sanchez-denuncia-ataque-integridad-espana-culpa-mafias-agradece-marruecos-cooperacion/1003744340350_0.html",
-        "desc": "Anuncia la instalación de boyas en la playa del Tarajal, para poder llevar a cabo en el futuro la expulsión de los inmigrantes que lleguen por mar a Ceuta. Más información: Sánchez…",
-        "fecha": "2026-07-31T13:16:26+02:00",
+        "titulo": "Miles de migrantes siguen en las calles de Ceuta con la población en 'shock': Interior dice que ya han vuelto 48.300",
+        "enlace": "https://www.elespanol.com/reportajes/20260731/miles-migrantes-siguen-calles-ceuta-poblacion-shock-interior-dice-vuelto/1003744340860_0.html",
+        "desc": "El Ejército vacía el centro y conduce a los recién llegados hacia el Tarajal, mientras quienes tienen familiares o conocen la ciudad buscan refugio en los barrios para evitar el re…",
+        "fecha": "2026-07-31T20:53:25+02:00",
         "fuente": "El Español"
       },
       {
-        "titulo": "El hombre que asesinó a su mujer en Barcelona delante de sus hijos le asestó once puñaladas con una daga",
-        "enlace": "https://www.abc.es/espana/cataluna/hombre-asesino-mujer-barcelona-delante-hijos-asesto-20260731191914-nt.html",
-        "desc": "Le asestó, al menos, 11 puñaladas con una daga de 20 centímetros, en un brazo, el tórax y la cabeza. El ataque afectó al corazón y a los pulmones, matándola. Lo hizo delante de sus…",
-        "fecha": "2026-07-31T19:19:14+02:00",
+        "titulo": "Los incendios conceden una pequeña tregua pero siguen muy activos",
+        "enlace": "https://www.abc.es/espana/castilla-leon/incendios-conceden-pequena-tregua-siguen-activos-20260731205125-nt.html",
+        "desc": "No ha pasado el peligro y mucho menos el miedo a que las llamas se vuelvan a avivar y amenacen con destruir todo lo que encuentran a su paso, naves, paisajes, viviendas y, en defin…",
+        "fecha": "2026-07-31T20:51:25+02:00",
         "fuente": "ABC"
       },
       {
         "titulo": "Estados Unidos considera lo de Ceuta un \"incidente inaceptable\" y una \"flagrante violación de soberanía\", pero culpa a las políticas de Sánchez",
         "enlace": "https://www.elmundo.es/internacional/2026/07/31/6a6cc5cee85eceda108b4599.html",
         "desc": "El Departamento de Estado muestra solidaridad \"con la gente de España y Europa\", pero avisa de forma críptica: \"Estamos listos para ayudar a otros aliados que consideren opciones s…",
-        "fecha": "2026-07-31T18:04:13+02:00",
+        "fecha": "2026-07-31T20:32:00+02:00",
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Sánchez ve &quot;muy, muy razonable&quot; el contacto con Marruecos y promete boyas en Ceuta",
-        "enlace": "https://www.libertaddigital.com/espana/politica/2026-07-31/sanchez-ve-muy-muy-razonable-el-contacto-con-marruecos-y-promete-boyas-en-ceuta-7444119/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El presidente califica la entrada masiva de miles de inmigrantes como una violación de la integridad de España y promete expulsiones rápidas.",
-        "fecha": "2026-07-31T13:29:42+02:00",
+        "titulo": "Italia suspende el espacio Schengen con España y cierra las fronteras marítimas y aéreas por la crisis en Ceuta",
+        "enlace": "https://www.libertaddigital.com/espana/2026-07-31/italia-suspende-el-espacio-schengen-con-espana-y-cierra-las-fronteras-maritimas-y-aereas-por-la-crisis-en-ceuta-7444323/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Bruselas ha respondido recordando que el cierre de fronteras interiores en Schengen debe notificarse y justificarse ante la UE.",
+        "fecha": "2026-07-31T18:35:13+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "Bryan Kohberger claims family joined plea talks as he seeks to withdraw guilty plea: court docs",
-        "enlace": "https://www.foxnews.com/us/bryan-kohberger-claims-family-joined-plea-talks-seeks-withdraw-guilty-plea-court-docs",
-        "desc": "Bryan Kohberger claims his family was present during attorney-client discussions as he seeks to undo his guilty plea in the Idaho murders case.",
-        "fecha": "2026-07-31T12:32:22-04:00",
+        "titulo": "Nancy Guthrie ransom demands released by Pima County Sheriff's Department in bid to identify sender",
+        "enlace": "https://www.foxnews.com/us/nancy-guthrie-ransom-demands-released-pima-county-sheriffs-department-bid-identify-sender",
+        "desc": "Pima County Sheriff&apos;s Department released two ransom notes with a unique linguistic style, hoping someone can identify the author.",
+        "fecha": "2026-07-31T15:28:28-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+        "enlace": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+        "desc": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one…",
+        "fecha": "2026-07-31T13:48:26-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Pilot ejects as F-35 crashes at MCAS Miramar, sparking fire",
+        "enlace": "https://www.foxnews.com/us/pilot-ejects-f-35-crashes-mcas-miramar-sparking-fire",
+        "desc": "An F-35 assigned to the 3rd Marine Aircraft Wing crashed Friday morning at MCAS Miramar in San Diego, sparking a brush fire, officials told Fox News.",
+        "fecha": "2026-07-31T14:30:28-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,50 +101,36 @@
         "desc": "We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.",
         "fecha": "2026-07-31T10:44:47-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Nancy Guthrie case: Sheriff says no one is permanently ruled out as detained man prepares lawsuit",
-        "enlace": "https://www.foxnews.com/us/nancy-guthrie-case-sheriff-says-no-one-permanently-ruled-out-detained-man-prepares-lawsuit",
-        "desc": "Pima County Sheriff Chris Nanos says a judge approved the probable cause warrant before Carlos Palazuelos was detained in the Nancy Guthrie case.",
-        "fecha": "2026-07-31T11:35:35-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
-        "enlace": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
-        "desc": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
-        "fecha": "2026-07-31T09:22:40-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Los interioristas y albañiles coinciden sobre las duchas al ras del suelo: el plato convencional dejará de instalarse en 2026 por esta tendencia italiana",
-        "enlace": "https://www.clarin.com/estados-unidos/interioristas-albaniles-coinciden-duchas-ras-suelo-plato-convencional-dejara-instalarse-2026-tendencia-italiana_0_IR1FTCXgXI.html",
-        "desc": "Una nueva organización de la ducha gana terreno en los proyectos de remodelación gracias a su diseño integrado. Qué indican los expertos sobre sus ventajas y desventajas.",
-        "fecha": "2026-07-31T15:25:33+00:00",
+        "titulo": "El Gobierno aprobó otros dos RIGI para industrializar el gas de Vaca Muerta, bajar los costos del campo y exportar a Brasil",
+        "enlace": "https://www.clarin.com/economia/gobierno-aprobo-rigi-industrializar-gas-vaca-muerta-bajar-costos-campo-exportar-brasil_0_IFwljyPR9P.html",
+        "desc": "Son US$ 2.700 millones de Pampa Energía para una nueva planta de urea y US$ 360 millones de Mega para procesar líquidos del gas. Ambos proyectos están en Bahía Blanca y usarán el c…",
+        "fecha": "2026-07-31T19:12:25+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Premios Nobel y referentes de la ciencia mundial denuncian el “colapso” del sistema argentino en una carta dirigida a Milei",
-        "enlace": "https://www.lanacion.com.ar/sociedad/premios-nobel-y-referentes-de-la-ciencia-mundial-denuncian-el-colapso-del-sistema-argentino-en-una-nid31072026/",
-        "desc": "El documento afirma que la situación se agravó desde la advertencia de 2024, cuestiona los recortes en organismos científicos y reclama preservar una estructura que demandó décadas…",
-        "fecha": "2026-07-31T17:36:11+00:00",
+        "titulo": "La exdirectora del Coro Nacional de Niños cruzó al Gobierno tras la disolución del organismo: “¿Por qué destruir algo que funcionaba bien?\"",
+        "enlace": "https://www.lanacion.com.ar/sociedad/la-exdirectora-del-coro-nacional-de-ninos-cruzo-al-gobierno-tras-la-disolucion-del-organismo-por-que-nid31072026/",
+        "desc": "María Isabel Sanz sostuvo que no había motivos “musicales” para el cierre y se preguntó por qué se busca “crear otra cosa” que no se sabe “cómo va a funcionar”",
+        "fecha": "2026-07-31T19:35:21+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Falsas denuncias: cuando el remedio puede agravar el problema",
-        "enlace": "https://www.clarin.com/opinion/falsas-denuncias-remedio-puede-agravar-problema_0_K8uHX8MMm5.html",
-        "desc": "Las reformas al Código Penal no pueden fundarse en la repercusión pública de determinados hechos ni en percepciones sobre su magnitud.",
-        "fecha": "2026-07-31T15:19:27+00:00",
+        "titulo": "¿Por qué el 31 de julio es el cumpleaños de Harry Potter? La actualidad del personaje",
+        "enlace": "https://www.clarin.com/espectaculos/31-julio-cumpleanos-harry-potter-actualidad-personaje_0_7Yfp3EO4ub.html",
+        "desc": "El mago cumple 46 años: de una infancia infeliz a un presente lleno de magia. Y en breve reestrenan en cine su primera película, a 25 años de su estreno.",
+        "fecha": "2026-07-31T19:06:51+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Crisis migratoria en Ceuta, EN VIVO: la reacción de España en respuesta al cruce masivo desde Marruecos",
-        "enlace": "https://www.lanacion.com.ar/el-mundo/crisis-migratoria-en-ceuta-en-vivo-la-reaccion-de-espana-en-respuesta-al-cruce-masivo-desde-nid31072026/",
-        "desc": "Una avalancha de personas nadó desde Marruecos hasta la playa de la ciudad española, en el extremo norte de África, e ingresó de forma ilegal",
-        "fecha": "2026-07-31T17:35:00+00:00",
+        "titulo": "Jennie Garth rompió el silencio acerca de la intempestiva salida de Tori Spelling del podcast que compartían: “Me da mucha pena”",
+        "enlace": "https://www.lanacion.com.ar/espectaculos/personajes/jennie-garth-rompio-el-silencio-acerca-de-la-intempestiva-salida-de-tori-spelling-del-podcast-que-nid31072026/",
+        "desc": "Las actrices conducían juntas, desde hace cinco años, el ciclo en el que repasaban, programa por programa, todo lo sucedido ante y detrás de cámara de la serie que las lanzó a la f…",
+        "fecha": "2026-07-31T19:33:37+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -144,84 +144,84 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "EN DIRECT - Vague migratoire à Ceuta : l’Italie suspend l’ouverture de l’espace Schengen à l’Espagne",
-        "enlace": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
-        "desc": "Le premier ministre espagnol a demandé vendredi aux dirigeants européens de «ne pas se diviser» dans le contexte de la crise migratoire à Ceuta, en réponse aux vives critiques de c…",
-        "fecha": "2026-07-31T19:33:06+02:00",
+        "titulo": "35 milliards de dollars envolés en quelques jours : la chute vertigineuse du «Nostradamus de l’IA», emporté par son pari fou à Wall Street",
+        "enlace": "https://www.lefigaro.fr/conjoncture/35-milliards-de-dollars-envoles-en-quelques-jours-la-chute-vertigineuse-du-nostradamus-de-l-ia-emporte-par-son-pari-fou-a-wall-street-20260731",
+        "desc": "RÉCIT - Âgé de 25 ans, il dirigeait il y a quelques semaines l’un des fonds les plus performants de la planète. Son pari ultra-agressif sur les infrastructures IA s’est brutalement…",
+        "fecha": "2026-07-31T21:34:38+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Ceuta : Trump dénonce une \"invasion\" au moment où la majorité des migrants rentrent au Maroc",
-        "enlace": "https://www.france24.com/fr/europe/20260731-trump-extr%C3%AAme-droite-instrumentalisent-ceuta-alors-que-les-migrants-rentrent-au-maroc",
-        "desc": "Donald Trump et l'extrême droite européenne ont utilisé les images de Ceuta, jeudi et vendredi, pour défendre leur politique anti-immigration et attaquer leurs adversaires de gauch…",
-        "fecha": "2026-07-31T16:47:30+00:00",
+        "titulo": "Somalie : quel avenir pour l'AUSSOM à la fin du soutien américain ?",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260731-somalie-quel-avenir-pour-l-aussom-%C3%A0-la-fin-du-soutien-am%C3%A9ricain",
+        "desc": "En Somalie, l’avenir de la mission de l'Union africaine pour la stabilisation du pays est incertain. Les États-Unis mettront fin à leur financement de l’AUSSOM d’ici fin 2026, alor…",
+        "fecha": "2026-07-31T18:23:10+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Incendie en Gironde : Sophie Brocas, préfète, et Marc Vermeulen, patron des pompiers du département, racontent dix jours de lutte contre le feu et expliquent leurs choix",
-        "enlace": "https://www.lemonde.fr/planete/article/2026/07/31/incendie-en-gironde-sophie-brocas-prefete-et-marc-vermeulen-patron-des-pompiers-du-departement-racontent-dix-jours-de-lutte-contre-le-feu-et-expliquent-leurs-choix_6737157_3244.html",
-        "desc": "Dans un entretien au « Monde », la préfète de Gironde et le directeur du Service départemental d’incendie et de secours reviennent sur leur gestion du mégafeu qui sévit dans le dép…",
-        "fecha": "2026-07-31T18:21:45+02:00",
+        "titulo": "EN DIRECT, incendies : 1 000 hectares parcourus depuis le début de l’après-midi dans le Var, où 2 500 personnes ont été évacuées",
+        "enlace": "https://www.lemonde.fr/planete/live/2026/07/31/en-direct-incendies-2-000-personnes-evacuees-dans-le-var-apres-une-reprise-de-feu-en-gironde-la-crise-n-est-pas-finie-le-feu-n-est-pas-fixe-mais-on-progresse-declare-la-prefete_6737097_3244.html",
+        "desc": "Les flammes, attisées par un fort mistral, ont repris vers 13 h 30 au sud de l’incendie du massif du Gros Bessillon, qui avait été fixé mardi. En Gironde, « la crise n’est pas fini…",
+        "fecha": "2026-07-31T20:19:09+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "L’accord de Schengen peut-il vraiment être suspendu avec l’Espagne, comme le demande l’Italie ?",
-        "enlace": "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
-        "desc": "DÉCRYPTAGE - Face à l’afflux d’environ 60.000 migrants en provenance du Maroc dans l’enclave espagnole de Ceuta en 48 heures, la première ministre italienne a annoncé vouloir «susp…",
-        "fecha": "2026-07-31T17:22:03+02:00",
+        "titulo": "EN DIRECT - Vague migratoire à Ceuta : l’Italie suspend l’ouverture de l’espace Schengen à l’Espagne",
+        "enlace": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
+        "desc": "Rome a fermé la porte aux visas Schengen délivrés par l’Espagne. Plus tôt, Pedro Sánchez, le premier ministre espagnol, avait demandé aux dirigeants européens de «ne pas se diviser…",
+        "fecha": "2026-07-31T20:51:02+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "En RDC, la validation de la loi référendaire ravive les tensions politiques",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260731-en-rdc-la-validation-de-la-loi-r%C3%A9f%C3%A9rendaire-ravive-les-tensions-politiques",
-        "desc": "En République démocratique du Congo, la validation d'une loi référendaire qui relance le débat sur un possible 3e mandat de Félix Tshisekedi ravive les tensions politiques. L'oppos…",
-        "fecha": "2026-07-31T16:33:53+00:00",
+        "titulo": "Rumeurs, appel d'air, passivité du Maroc... comment expliquer l'afflux inédit de migrants à Ceuta ?",
+        "enlace": "https://www.france24.com/fr/europe/20260731-rumeurs-appel-d-air-passivit%C3%A9-maroc-comment-expliquer-afflux-in%C3%A9dit-migrants-ceuta-espagne-sanchez",
+        "desc": "Plusieurs hypothèses sont évoquées pour expliquer l'afflux soudain de 60 000 migrants à la frontière de l'enclave espagnole de Ceuta au Maroc. Si l'extrême droite européenne estime…",
+        "fecha": "2026-07-31T18:04:28+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Donald Trump verkündet wieder den Durchbruch im Gaza-Konflikt zwischen Israel und der Hamas – doch alle Hindernisse bleiben",
-        "enlace": "https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben-a-7498f033-4aa0-4a9e-b8d6-5a5ea1a08224#ref=rss",
-        "desc": "Die Hamas gibt die Waffen ab, Israels Armee zieht sich zurück, dann beginnt der Wiederaufbau – soweit der Plan des US-Präsidenten. Für Israels Premier Benjamin Netanyahu kommt die …",
-        "fecha": "2026-07-31T19:37:00+02:00",
+        "titulo": "CSD in Hamburg: Viertelmillion Besucher – mehr Polizei nach Berlin-Anschlag",
+        "enlace": "https://www.spiegel.de/panorama/gesellschaft/csd-in-hamburg-viertelmillion-besucher-mehr-polizei-nach-berlin-anschlag-a-d6229f49-7aeb-4669-a2fd-934c8632f192#ref=rss",
+        "desc": "Mit einer Viertelmillion Besucher rechnen die Veranstalter des CSD in Hamburg. Nach dem Anschlag auf die Pride-Parade in Berlin will die Hamburger Polizei ihre Einsatzkräfte im Ver…",
+        "fecha": "2026-07-31T21:16:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Irankrieg: Trump droht dem Iran mit neuen Angriffen",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-        "desc": "Der US-Präsident will den Iran so lange angreifen, bis dieser »es nicht mehr aushält«. Kuwait meldet erneut iranische Attacken auf wichtige Einrichtungen. Das Liveblog",
-        "fecha": "2026-07-31T17:40:23",
+        "titulo": "Fußballweltmeisterschaft: Fifa will Vergrößerung von WM binnen weniger Wochen prüfen",
+        "enlace": "https://www.zeit.de/sport/2026-07/fifa-fussball-wm-aufstockung-64-teams-untersuchung",
+        "desc": "Das vergangene Turnier war die bislang größte WM der Geschichte. Mitten im Streit um den Einstieg von Investoren will die Fifa nun eine weitere Vergrößerung prüfen.",
+        "fecha": "2026-07-31T18:47:19",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Ceuta: Darum wollen so viele Menschen aus Marokko nach Spanien",
-        "enlace": "https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss",
-        "desc": "Zehntausende sind aus Marokko in die spanische Exklave Ceuta gelangt – innerhalb weniger Tage. Was sind die Gründe für die Massenflucht? Marokkos König preist seine Erfolge, junge …",
-        "fecha": "2026-07-31T19:36:00+02:00",
+        "titulo": "Wim Wenders und Nastassja Kinski: Regisseur will Nacktszene aus »Falsche Bewegung« schneiden",
+        "enlace": "https://www.spiegel.de/kultur/wim-wenders-und-nastassja-kinski-regisseur-will-nacktszene-aus-falsche-bewegung-schneiden-a-dc2650b2-dc72-4b9c-8007-87e7b494b376#ref=rss",
+        "desc": "Schauspielerin Nastassja Kinski und Regisseur Wim Wenders haben sich im Streit über den Film »Falsche Bewegung« von 1975 geeinigt. Der Filmemacher will die Szene, in dem die damals…",
+        "fecha": "2026-07-31T20:52:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Gaza: Israel knüpft Rückzug aus Gaza an Bedingungen",
-        "enlace": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
-        "desc": "Israel reagiert verhalten auf Trumps Ankündigung zu einer Einigung mit der Hamas. Ein Rückzug aus Gaza hänge von deren vollständiger Entwaffnung ab. Das Liveblog",
-        "fecha": "2026-07-31T17:36:46",
+        "titulo": "Migranten in Ceuta: Mehr als 48.000 Menschen zurück in Marokko",
+        "enlace": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/migration-ceuta-melilla-spanien-marokko-grenze-liveblog",
+        "desc": "Laut der spanischen Regierung sind die meisten der Menschen, die Ceuta erreicht hatten, zurück in Marokko. Italien setzt das Schengenabkommen teilweise aus. Das Liveblog",
+        "fecha": "2026-07-31T18:34:53",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Morto don Antonio Mazzi, il prete di strada che amava “i ragazzi cattivi” e sapeva accoglierli",
-        "enlace": "https://milano.repubblica.it/cronaca/2026/07/31/news/morte_don_mazzi_comunita_exodus-425505227/",
-        "desc": "La vita nella comunità nel parco Lambro e le ospitate in tv. Dei suoi giovani diceva: “Mi hanno obbligato a rovesciare le mie teorie, le mie convinzioni e le mie manie di salvatore…",
-        "fecha": "2026-07-31T17:18:21+00:00",
+        "titulo": "Record di domande per fare il medico di famiglia: seimila per poco più di 2.600 posti",
+        "enlace": "https://www.repubblica.it/cronaca/2026/07/31/news/medico_di_famiglia_record_domande_corso_formazione-425505417/",
+        "desc": "Dopo il calo di candidature del 2025, il concorso per l’ammissione al corso triennale ha registrato un’impennata di richieste. La Fimmg: “Senza riforme su burocrazia, riconosciment…",
+        "fecha": "2026-07-31T18:33:36+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Don Mazzi: “Assassini e corrotti, ho sempre accolto tutti, mi piace stare tra i peggiori”",
-        "enlace": "https://www.repubblica.it/breakingnews/cronache-locali/milano/2026/07/31/news/morto_don_antonio_mazzi_intervista_exodus_assassini_corrotti-425505184/",
-        "desc": "A 95 anni il fondatore delle comunità Exodus parla della sua eredità spirituale. E di quello che vorrebbe ancora fare",
-        "fecha": "2026-07-31T16:56:30+00:00",
+        "titulo": "Bpm, stop alle consultazioni per l’aggregazione con Mps: “Non ci sono le condizioni”",
+        "enlace": "https://www.repubblica.it/economia/2026/07/31/news/bpm_stop_consultazioni_aggregazione_mps_agricole-425505349/",
+        "desc": "La decisione del cda di Bpm dopo la bocciatura dell’operazione da parte di Crédit Agricole",
+        "fecha": "2026-07-31T18:07:01+00:00",
         "fuente": "La Repubblica"
       }
     ],
@@ -229,7 +229,7 @@
       {
         "titulo": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+        "desc": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
         "fecha": "2026-07-31T17:03:47+00:00",
         "fuente": "BBC"
       },
@@ -257,61 +257,61 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Das luvas de Madonna e BTS às peças de Shakira: lembranças do Mundial leiloadas por meio milhão",
-        "enlace": "https://www.publico.pt/2026/07/31/impar/noticia/luvas-madonna-bts-pecas-shakira-lembrancas-mundial-leiloadas-meio-milhao-2183695",
-        "desc": "As luvas com cristais Swarovski usadas por Madonna renderam mais de 36 mil euros, mas o recorde foi para a camisa de Jimin, quase 100 mil. No total, as 27 peças ultrapassam os 560 …",
-        "fecha": "2026-07-31T16:23:25+00:00",
+        "titulo": "O que levou milhares a lançarem-se à água para chegar a Ceuta?",
+        "enlace": "https://www.publico.pt/2026/07/31/mundo/noticia/levou-milhares-lancaremse-agua-chegar-ceuta-2183685",
+        "desc": "O Supremo espanhol decidiu que quem chegar a nado a Espanha não pode ser repatriado rapidamente. As “máfias de traficantes de seres humanos” terão convencido os migrantes disso. Ma…",
+        "fecha": "2026-07-31T19:10:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Eclipse total: Rio de Onor cancelado, aeródromo avança",
-        "enlace": "https://observador.pt/2026/07/31/eclipse-solar-de-12-de-agosto-risco-de-incendio-cancela-evento-em-rio-de-onor-e-muda-tudo-para-o-aerodromo-de-braganca/",
-        "desc": "A alteração do local já se colocava em cima da mesa, face às condições meteorológicas e ao risco de incêndio nos últimos dias",
-        "fecha": "2026-07-31T18:39:29+01:00",
+        "titulo": "Ceuta. Montenegro promete reforçar fronteiras a sul",
+        "enlace": "https://observador.pt/2026/07/31/ceuta-montenegro-promete-que-portugal-vai-reforcar-controlo-nas-fronteiras-a-sul-do-pais-mas-rejeita-suspender-espaco-schengen/",
+        "desc": "Primeiro-ministro não vai tomar nenhuma \"nenhuma medida de suspensão\" das regras do espaço Schengen. Montenegro vai reforçar \"fronteira marítima e terrestre no sul de Portugal: \"É …",
+        "fecha": "2026-07-31T20:37:49+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Franco Baresi (1960-2026), o capitão que viu o futebol antes dos outros",
-        "enlace": "https://www.publico.pt/2026/07/31/desporto/noticia/franco-baresi-19602026-capitao-viu-futebol-2183645",
-        "desc": "Campeão do mundo pela Itália, lenda do AC Milan e um dos melhores defesas da história do futebol, Franco Baresi morreu aos 66 anos. Recordamos a vida e o legado do eterno capitão i…",
-        "fecha": "2026-07-31T16:07:53+00:00",
+        "titulo": "“Preocupado com a poltítica nacional”, Seguro pede rapidez nas investigações sobre Neves e gabinete de Ventura",
+        "enlace": "https://www.publico.pt/2026/07/31/politica/noticia/preocupado-poltitica-nacional-seguro-pede-rapidez-investigacoes-neves-gabinete-ventura-2183721",
+        "desc": "Presidente da República garante que o primeiro-ministro sabe aquilo que Seguro pensa sobre a alegada vandalização e furto no gabinete de Ventura no Parlamento e as polémicas em tor…",
+        "fecha": "2026-07-31T19:08:04+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Pai de atirador em escola condenado a 15 anos de prisão",
-        "enlace": "https://observador.pt/2026/07/31/os-seus-crimes-estao-ligados-aos-crimes-cometidos-pelo-seu-filho-pai-de-atirador-em-escola-na-georgia-condenado-a-15-anos-de-prisao/",
-        "desc": "Colin Gray, pai de Colt Gray, autor do tiroteio na Apalachee High School, comparece pela primeira vez perante o Tribunal do Condado de Barrow, a 6 de setembro de 2024, em Winder, n…",
-        "fecha": "2026-07-31T18:34:22+01:00",
+        "titulo": "Guerra na Ucrânia: que cedências são necessárias para a paz?",
+        "enlace": "https://observador.pt/programas/gabinete-de-guerra/guerra-na-ucrania-que-cedencias-sao-necessarias-para-a-paz/",
+        "desc": "Bernardo Valente antevê cedências mútuas devido às crescentes dificuldades de mobilização. Afirma também que o plano para Gaza prevê 300 dias para o desarmamento e a divisão em 50 …",
+        "fecha": "2026-07-31T20:34:41+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Ex-prefeito de Embu das Artes e pré-candidato a deputado responde por porte de arma desde 2019",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/ex-prefeito-de-embu-das-artes-e-pre-candidato-a-deputado-responde-por-porte-de-arma-desde-2019.shtml",
-        "desc": "O pré-candidato a deputado federal e ex-prefeito de Embu das Artes Ney Santos (Republicanos) responde a processo pelo crime de transporte e posse de arma de fogo, após uma abordage…",
-        "fecha": "2026-07-31T13:59:00-03:00",
+        "titulo": "Novo pede abertura de processo contra Jaques Wagner no Conselho de Ética",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/07/novo-pede-abertura-de-processo-contra-jaques-wagner-no-conselho-de-etica.shtml",
+        "desc": "O Novo protocolou uma representação no Conselho de Ética do Senado pedindo a abertura de processo contra o senador Jaques Wagner ( PT -BA). O objetivo é apurar a quebra de decoro d…",
+        "fecha": "2026-07-31T16:24:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Vítima de feminicídio em Araguaína tinha medida protetiva contra ex-marido, diz polícia",
-        "enlace": "https://g1.globo.com/to/tocantins/noticia/2026/07/31/vitima-de-feminicidio-em-araguaina-tinha-medida-protetiva-contra-ex-marido-diz-policia.ghtml",
-        "desc": "Homem suspeito de matar ex-companheira é preso em Araguaína Tatiana Barbosa dos Santos, de 44 anos, foi assassinada a facadas e degolada na noite desta quinta-feira (30), em Aragua…",
-        "fecha": "2026-07-31T17:39:24",
+        "titulo": "Suspeito de participar da morte de casal em ponte na Grande São Luís é preso no Pará",
+        "enlace": "https://g1.globo.com/ma/maranhao/noticia/2026/07/31/suspeito-de-participar-da-morte-de-casal-em-ponte-na-grande-sao-luis-e-preso-no-para.ghtml",
+        "desc": "Suspeito de participar da morte de casal em ponte na Grande São Luís é preso no Pará Divulgação A Polícia Civil do Maranhão (PC-MA) prendeu, nesta quinta-feira (30), George Washing…",
+        "fecha": "2026-07-31T19:36:04",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Republicanos marca convenção para terça e deve rejeitar aliança com Flávio Bolsonaro",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/republicanos-marca-convencao-para-terca-e-deve-rejeitar-alianca-com-flavio-bolsonaro.shtml",
-        "desc": "O Republicanos marcou sua convenção para terça-feira (4) e deve rejeitar uma aliança com o senador Flávio Bolsonaro ( PL ), de acordo com três parlamentares da cúpula do partido e …",
-        "fecha": "2026-07-31T13:45:00-03:00",
+        "titulo": "PT e governo preveem artilharia, mas se dividem sobre dano eleitoral de inquérito contra Lulinha",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/07/pt-e-governo-preveem-artilharia-mas-se-dividem-sobre-dano-eleitoral-de-inquerito-contra-lulinha.shtml",
+        "desc": "Aliados do presidente Lula ( PT ) se dividem sobre os possíveis impactos eleitorais da investigação da Polícia Federal contra Fábio Luís Lula da Silva, o Lulinha , e monitoram muda…",
+        "fecha": "2026-07-31T16:11:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Festival Sabores do Gerais reúne gastronomia, cultura e produtos típicos do Norte de MG em Montes Claros",
-        "enlace": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/31/festival-sabores-do-gerais-reune-gastronomia-cultura-e-produtos-tipicos-do-norte-de-mg-em-montes-claros.ghtml",
-        "desc": "Festival está sendo realizado pela primeira vez na cidade Mari Senário e Nereu Jr. A partir desta sexta-feira (31), será realizada em Montes Claros a 1ª edição do Festival Gastronô…",
-        "fecha": "2026-07-31T17:35:47",
+        "titulo": "FAB intercepta avião suspeito de fazer voos clandestinos entre Brasil e Bolívia",
+        "enlace": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/31/fab-intercepta-e-derruba-aviao-suspeito-de-fazer-voos-clandestinos-entre-brasil-e-bolivia.ghtml",
+        "desc": "O Batalhão de Operações Especiais (Bope), com apoio da Força Aérea Brasileira (FAB), interceptou, nesta sexta-feira (31), um avião suspeito de realizar voos clandestinos em baixa a…",
+        "fecha": "2026-07-31T19:33:22",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,10 +333,10 @@
     ],
     "internacional_es": [
       {
-        "titulo": "Francia ordena la expulsión de una periodista pro-Kremlin, y ella denuncia la medida como «censura»",
-        "enlace": "https://www.abc.es/internacional/francia-ordena-expulsion-periodista-prokremlin-denuncia-medida-20260731190900-nt.html",
-        "desc": "Una nueva polémica se cierne sobre el Gobierno de Emmanuel Macron . La controversia surge después de que el Ejecutivo francés ordenara este miércoles la expulsión de la periodista …",
-        "fecha": "2026-07-31T19:09:00+02:00",
+        "titulo": "El expresidente Humala saldrá de la cárcel al anular el Constitucional de Perú su proceso penal",
+        "enlace": "https://www.abc.es/internacional/constitucional-peru-anula-proceso-expresidente-humala-saldra-20260731212040-nt.html",
+        "desc": "El Tribunal Constitucional de Perú ordenó que se anule el proceso a Ollanta Humala, quien fue presidente entre 2011 y 2016, por recibir fondos irregulares en el 2006 y en el 2011. …",
+        "fecha": "2026-07-31T21:20:40+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -347,17 +347,17 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "EEUU, muy duro con Sánchez por Ceuta: \"Es el resultado de sus esfuerzos para permitir la migración ilegal a Europa\"",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-07-31/crisis-migratoria-ceuta-trump-elecciones-1tps_4399214/",
-        "desc": "Trump alerta en TV de que su país podría afrontar un escenario similar al de la frontera norteafricana, tras una entrada masiva desde Marruecos con víctimas y miles de devoluciones",
-        "fecha": "2026-07-31T17:43:52.571596+00:00",
+        "titulo": "Disparan al ministro del Interior de Ecuador en una operación antidrogas en el norte del país",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-07-31/disparan-ministro-interior-ecuador-operacion-antidrogas_4399383/",
+        "desc": "\"Nos recibió a balazos. Al ver la presencia importante de los policías que nos acompañaron, decidió lanzar el arma y esconderse\", ha relatado Reimberg a los medios",
+        "fecha": "2026-07-31T19:41:08.419866+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
         "titulo": "4 claves para entender la nueva crisis migratoria en Ceuta, uno de los enclaves españoles en África",
         "enlace": "https://www.bbc.com/mundo/articles/cm2gv1r9zyno?at_medium=RSS&at_campaign=rss",
-        "desc": "Miles de migrantes han llegado a Ceuta en los últimos días, provocando una nueva crisis en el enclave español del norte de África. Estas son las cuatro claves para entender qué est…",
-        "fecha": "2026-07-31T15:56:51+00:00",
+        "desc": "Miles de migrantes llegaron a Ceuta en los últimos días, provocando una nueva crisis en el enclave español del norte de África. Estas son las cuatro claves para entender qué está o…",
+        "fecha": "2026-07-31T18:03:01+00:00",
         "fuente": "BBC Mundo"
       },
       {
@@ -370,7 +370,7 @@
       {
         "titulo": "El primer ministro español culpa a los traficantes después de que 60.000 inmigrantes llegaran a Ceuta desde Marruecos",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "desc": "España dijo que la mayoría de los inmigrantes habían regresado a Marruecos el viernes por la noche, cuando Italia suspendió su acuerdo Schengen de libre circulación con España.",
+        "desc": "España dijo que la mayoría había regresado a Marruecos el viernes por la noche, cuando Italia suspendió su acuerdo Schengen de libre circulación con Madrid.",
         "fecha": "2026-07-31T17:03:47+00:00",
         "fuente": "BBC World"
       },
@@ -382,10 +382,10 @@
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Lituania descubre túneles por los que Bielorrusia envía a inmigrantes ilegales",
-        "enlace": "https://www.abc.es/internacional/lituania-descubre-tuneles-bielorrusia-pasar-inmigrantes-ilegales-20260731161032-nt.html",
-        "desc": "Con las rutas terrestres fortificadas sobre la superficie , las autoridades bielorrusas han decidido seguir impulsando la inmigración clandestina bajo tierra, para dar continuidad …",
-        "fecha": "2026-07-31T16:10:32+02:00",
+        "titulo": "Francia ordena la expulsión de una periodista pro-Kremlin, y ella denuncia la medida como «censura»",
+        "enlace": "https://www.abc.es/internacional/francia-ordena-expulsion-periodista-prokremlin-denuncia-medida-20260731190900-nt.html",
+        "desc": "Una nueva polémica se cierne sobre el Gobierno de Emmanuel Macron . La controversia surge después de que el Ejecutivo francés ordenara este miércoles la expulsión de la periodista …",
+        "fecha": "2026-07-31T19:09:00+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -396,10 +396,10 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Von der Leyen califica de \"inaceptable\" la situación en Ceuta y confía todo a la \"estrecha asociación\" con Marruecos",
-        "enlace": "https://www.elconfidencial.com/mundo/europa/2026-07-31/ceuta-marruecos-inmigracion-devoluciones-frontera-1tps_4399137/",
-        "desc": "Bruselas tacha de inaceptable la situación en Ceuta y urge frenar travesías, desmantelar redes y acelerar retornos, ofreciendo apoyo operativo a España y coordinación con Marruecos",
-        "fecha": "2026-07-31T17:43:52.571637+00:00",
+        "titulo": "EEUU, muy duro con Sánchez por Ceuta: \"Es el resultado de sus esfuerzos para permitir la migración ilegal a Europa\"",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-07-31/crisis-migratoria-ceuta-trump-elecciones-1tps_4399214/",
+        "desc": "Trump alerta en TV de que su país podría afrontar un escenario similar al de la frontera norteafricana, tras una entrada masiva desde Marruecos con víctimas y miles de devoluciones",
+        "fecha": "2026-07-31T19:41:08.419915+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -407,7 +407,7 @@
       {
         "titulo": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+        "desc": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
         "fecha": "2026-07-31T17:03:47+00:00",
         "fuente": "BBC World"
       },
@@ -419,24 +419,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Trump blames Spain for migrant chaos despite return of tens of thousands to Morocco",
-        "enlace": "https://www.france24.com/en/europe/20260731-trump-blames-spain-for-migrant-chaos-despite-return-of-tens-of-thousands-to-morocco",
-        "desc": "US President Donald Trump and other far-right leaders on Friday seized on Spain's migration crisis to bolster their political messaging on immigration, while over half of the migra…",
-        "fecha": "2026-07-31T16:27:28+00:00",
+        "titulo": "George Clooney's family evacuates their home in France amid wildfires",
+        "enlace": "https://www.france24.com/en/europe/20260731-george-clooney-s-family-evacuates-their-home-in-france-amid-wildfires",
+        "desc": "George Clooney and his family have evacuated their home in southeastern France after a nearby wildfire threatened the area, his agent said Thursday. Blazes continued to scorch part…",
+        "fecha": "2026-07-31T17:47:35+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Luke Weaver, Huascar Brazoban draw interest from Pirates as Mets open door to MLB trade deadline sell off",
-        "enlace": "https://nypost.com/2026/07/31/sports/luke-weaver-huascar-brazoban-draw-interest-from-pirates-as-mets-open-door-to-mlb-trade-deadline-sell-off/",
-        "desc": "One Mets reliever is gone. Will two more be jettisoned soon?",
-        "fecha": "2026-07-31T13:43:11-04:00",
+        "titulo": "Teen boy vanishes after alleged rape by California therapist — as mom fears he’s made a shocking decision",
+        "enlace": "https://nypost.com/2026/07/31/us-news/teen-boy-allegedly-raped-by-california-therapist-goes-missing/",
+        "desc": "“He just left,” the worried mother said. “I hope he's not with her.\"",
+        "fecha": "2026-07-31T12:36:08-07:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "UK court allows plans for Chinese 'super' embassy to advance",
-        "enlace": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-all-1573-rdf",
-        "desc": "A court dismissed a legal challenge against Beijing's new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the e…",
-        "fecha": "2026-07-31T17:43:56.753981+00:00",
+        "titulo": "DR Congo Ebola outbreak becomes world's second-largest ever",
+        "enlace": "https://www.dw.com/en/dr-congo-ebola-outbreak-becomes-world-s-second-largest-ever/a-78196627?maca=en-rss-en-all-1573-rdf",
+        "desc": "DR Congo’s fast-spreading Ebola outbreak has exceeded 3,500 cases, overtaking the country’s deadliest epidemic and becoming the world’s second-largest ever. The Bundibugyo strain h…",
+        "fecha": "2026-07-31T19:41:13.761372+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,10 +447,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Trump blasts Senator Cornyn amid holdup of Blanche’s confirmation process",
-        "enlace": "https://www.oann.com/newsroom/trump-blasts-senator-cornyn-amid-holdup-of-blanches-confirmation-process/",
-        "desc": "President Donald Trump has criticized Texas Senator John Cornyn, accusing the lawmaker of switching positions after losing his primary.",
-        "fecha": "2026-07-31T17:12:17+00:00",
+        "titulo": "First Lady Melania facilitates fifth round of family reunifications for children displaced by Russia-Ukraine conflict, securing return of 5 kids",
+        "enlace": "https://www.oann.com/newsroom/first-lady-melania-facilitates-fifth-round-of-family-reunifications-for-children-displaced-by-russia-ukraine-conflict-securing-return-of-5-kids/",
+        "desc": "First Lady Melania Trump has facilitated a fifth round of family reunifications for children displaced by the ongoing war between Russia and Ukraine, securing the return of five ch…",
+        "fecha": "2026-07-31T18:48:08+00:00",
         "fuente": "OAN"
       },
       {
@@ -468,26 +468,26 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Replay: US President Donald Trump addresses Cabinet meeting",
-        "enlace": "https://www.france24.com/en/replay-us-president-donald-trump-addresses-cabinet-meeting",
-        "desc": "Rewatch US President Donald Trump's address during a cabinet meeting at the Camp David retreat following the announcement that Hamas had agreed to disarm in Gaza as part of a US-br…",
-        "fecha": "2026-07-31T16:22:04+00:00",
+        "titulo": "Strong El Nino 'adding fuel to a planet already on fire', warns UN chief",
+        "enlace": "https://www.france24.com/en/americas/20260731-strong-el-nino-adding-fuel-to-a-planet-already-on-fire-warns-un-chief",
+        "desc": "UN Secretary-General António Guterres warned on Friday that a strengthening El Niño is intensifying an already worsening climate crisis, saying the weather phenomenon is \"adding fu…",
+        "fecha": "2026-07-31T16:41:11+00:00",
         "fuente": "France 24 EN"
       }
     ],
     "internacional_fr": [
       {
-        "titulo": "« Un chaos absolu » : à Ceuta, le symbole d’une Espagne débordée face à l’afflux de migrants illégaux",
-        "enlace": "https://www.lefigaro.fr/international/un-chaos-absolu-a-ceuta-le-symbole-d-une-espagne-debordee-face-a-l-afflux-de-migrants-illegaux-20260731",
-        "desc": "RÉCIT - Près de 60 000 illégaux sont entrés depuis le Maroc dans l’enclave espagnole en trois jours d’une crise sans précédent même si plus de moitié d’entre eux était déjà reparti…",
-        "fecha": "2026-07-31T18:42:19+02:00",
+        "titulo": "Contrariée par un tweet, l’administration Trump veut bloquer la nomination du futur ambassadeur français à Washington",
+        "enlace": "https://www.lefigaro.fr/international/contrariee-par-un-tweet-l-administration-trump-veut-bloquer-la-nomination-du-futur-ambassadeur-francais-a-washington-20260731",
+        "desc": "L’administration Trump a été irritée par un tweet de la mission française à l’ONU qui accusait les États-Unis ne plus être «un phare des droits de l’homme» dans le monde et veut bl…",
+        "fecha": "2026-07-31T21:06:35+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Ceuta : Trump dénonce une \"invasion\" au moment où la majorité des migrants rentrent au Maroc",
-        "enlace": "https://www.france24.com/fr/europe/20260731-trump-extr%C3%AAme-droite-instrumentalisent-ceuta-alors-que-les-migrants-rentrent-au-maroc",
-        "desc": "Donald Trump et l'extrême droite européenne ont utilisé les images de Ceuta, jeudi et vendredi, pour défendre leur politique anti-immigration et attaquer leurs adversaires de gauch…",
-        "fecha": "2026-07-31T16:47:30+00:00",
+        "titulo": "Somalie : quel avenir pour l'AUSSOM à la fin du soutien américain ?",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260731-somalie-quel-avenir-pour-l-aussom-%C3%A0-la-fin-du-soutien-am%C3%A9ricain",
+        "desc": "En Somalie, l’avenir de la mission de l'Union africaine pour la stabilisation du pays est incertain. Les États-Unis mettront fin à leur financement de l’AUSSOM d’ici fin 2026, alor…",
+        "fecha": "2026-07-31T18:23:10+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -507,29 +507,29 @@
       {
         "titulo": "Le Premier ministre espagnol accuse les trafiquants après que 60 000 migrants ont atteint Ceuta en provenance du Maroc",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "desc": "L'Espagne a déclaré que la plupart des migrants étaient rentrés au Maroc vendredi soir, l'Italie ayant suspendu son accord de Schengen sur la libre circulation avec l'Espagne.",
+        "desc": "L'Espagne a déclaré que la plupart étaient rentrés au Maroc vendredi soir, l'Italie ayant suspendu son accord de Schengen sur la libre circulation avec Madrid.",
         "fecha": "2026-07-31T17:03:47+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Ceuta, l’une des deux portes terrestres de l’Afrique vers l’UE, au cœur des tensions migratoires",
-        "enlace": "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731",
-        "desc": "Coincée entre la mer Méditerranée et le Maroc, la ville autonome espagnole de Ceuta est l’une des deux seules frontières terrestres entre l’UE et l’Afrique. Immigration, tensions a…",
-        "fecha": "2026-07-31T18:23:38+02:00",
+        "titulo": "À moins de trois mois des élections législatives, Israël reste sceptique après l’accord sur le désarmement du Hamas à Gaza",
+        "enlace": "https://www.lefigaro.fr/international/a-moins-de-trois-mois-des-elections-legislatives-israel-reste-sceptique-apres-l-accord-sur-le-desarmement-du-hamas-a-gaza-20260731",
+        "desc": "DÉCRYPTAGE - Donald Trump a annoncé un « deal historique », qui doit être accompagné en parallèle par un retrait militaire progressif de l’armée israélienne.",
+        "fecha": "2026-07-31T20:30:00+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "En RDC, la validation de la loi référendaire ravive les tensions politiques",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260731-en-rdc-la-validation-de-la-loi-r%C3%A9f%C3%A9rendaire-ravive-les-tensions-politiques",
-        "desc": "En République démocratique du Congo, la validation d'une loi référendaire qui relance le débat sur un possible 3e mandat de Félix Tshisekedi ravive les tensions politiques. L'oppos…",
-        "fecha": "2026-07-31T16:33:53+00:00",
+        "titulo": "Rumeurs, appel d'air, passivité du Maroc... comment expliquer l'afflux inédit de migrants à Ceuta ?",
+        "enlace": "https://www.france24.com/fr/europe/20260731-rumeurs-appel-d-air-passivit%C3%A9-maroc-comment-expliquer-afflux-in%C3%A9dit-migrants-ceuta-espagne-sanchez",
+        "desc": "Plusieurs hypothèses sont évoquées pour expliquer l'afflux soudain de 60 000 migrants à la frontière de l'enclave espagnole de Ceuta au Maroc. Si l'extrême droite européenne estime…",
+        "fecha": "2026-07-31T18:04:28+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "DIRECT- Le ministre Itamar Ben Gvir juge «inacceptable pour Israël» l'accord sur le désarmement du Hamas à Gaza",
-        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260731-en-direct-le-hamas-confirme-un-accord-sur-son-d%C3%A9sarmement-et-le-retrait-graduel-d-isra%C3%ABl-de-gaza",
-        "desc": "Le Hamas a consenti vendredi 31 juillet à un accord de désarmement dans la bande de Gaza. Il porte sur la deuxième phase de la trêve entre Israël et le Hamas et lie un désarmement …",
-        "fecha": "2026-07-31T04:25:55+00:00",
+        "titulo": "L'afflux de migrants à Ceuta s'est transformé en crise diplomatique intra-européenne",
+        "enlace": "https://www.rfi.fr/fr/europe/20260731-l-afflux-de-migrants-%C3%A0-ceuta-s-est-transform%C3%A9-en-crise-diplomatique-intra-europ%C3%A9enne",
+        "desc": "Les migrants arrivés par dizaines de milliers à Ceuta en cette fin de semaine ont largement repris le chemin du Maroc selon les autorités espagnoles, ce qui dessine une issue à la …",
+        "fecha": "2026-07-31T19:08:56+00:00",
         "fuente": "RFI"
       },
       {
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Donald Trump verkündet wieder den Durchbruch im Gaza-Konflikt zwischen Israel und der Hamas – doch alle Hindernisse bleiben",
-        "enlace": "https://www.spiegel.de/ausland/donald-trump-verkuendet-wieder-den-durchbruch-im-gaza-konflikt-zwischen-israel-und-der-hamas-doch-alle-hindernisse-bleiben-a-7498f033-4aa0-4a9e-b8d6-5a5ea1a08224#ref=rss",
-        "desc": "Die Hamas gibt die Waffen ab, Israels Armee zieht sich zurück, dann beginnt der Wiederaufbau – soweit der Plan des US-Präsidenten. Für Israels Premier Benjamin Netanyahu kommt die …",
-        "fecha": "2026-07-31T19:37:00+02:00",
+        "titulo": "CSD in Hamburg: Viertelmillion Besucher – mehr Polizei nach Berlin-Anschlag",
+        "enlace": "https://www.spiegel.de/panorama/gesellschaft/csd-in-hamburg-viertelmillion-besucher-mehr-polizei-nach-berlin-anschlag-a-d6229f49-7aeb-4669-a2fd-934c8632f192#ref=rss",
+        "desc": "Mit einer Viertelmillion Besucher rechnen die Veranstalter des CSD in Hamburg. Nach dem Anschlag auf die Pride-Parade in Berlin will die Hamburger Polizei ihre Einsatzkräfte im Ver…",
+        "fecha": "2026-07-31T21:16:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Kriege, Brände, El Niño und der Welthunger",
-        "enlace": "https://www.dw.com/de/kriege-brände-el-niño-und-der-welthunger/a-78187464?maca=de-rss-de-all-1119-rdf",
-        "desc": "Die Kriege in der Ukraine und im Nahen Osten haben die weltweite Lebensmittelversorgung bislang nicht lahmgelegt. Kommt jedoch ein starkes Wetterphänomen wie El Niño hinzu, verviel…",
-        "fecha": "2026-07-31T17:44:00.170055+00:00",
+        "titulo": "25 Jahre Lebenspartnerschaftsgesetz",
+        "enlace": "https://www.dw.com/de/25-jahre-lebenspartnerschaftsgesetz/a-78185560?maca=de-rss-de-all-1119-rdf",
+        "desc": "2001 konnten gleichgeschlechtliche Paare in Deutschland erstmals eine Lebenspartnerschaft eintragen lassen. Das Lebenspartnerschaftsgesetz war ein wichtiger Schritt zur Ehe für all…",
+        "fecha": "2026-07-31T19:41:16.314959+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -572,22 +572,22 @@
       {
         "titulo": "Spaniens Premierminister macht Menschenhändler verantwortlich, nachdem 60.000 Migranten aus Marokko Ceuta erreicht haben",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Spanien sagte, die meisten Migranten seien am Freitagabend nach Marokko zurückgekehrt, da Italien sein Schengen-Abkommen über Freizügigkeit mit Spanien ausgesetzt habe.",
+        "desc": "Spanien sagte, die meisten seien am Freitagabend nach Marokko zurückgekehrt, da Italien sein Schengen-Abkommen über Freizügigkeit mit Madrid ausgesetzt habe.",
         "fecha": "2026-07-31T17:03:47+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Ceuta: Darum wollen so viele Menschen aus Marokko nach Spanien",
-        "enlace": "https://www.spiegel.de/ausland/ceuta-darum-wollen-so-viele-menschen-aus-marokko-nach-spanien-a-53148290-3c2d-4901-b744-62d13c1c8879#ref=rss",
-        "desc": "Zehntausende sind aus Marokko in die spanische Exklave Ceuta gelangt – innerhalb weniger Tage. Was sind die Gründe für die Massenflucht? Marokkos König preist seine Erfolge, junge …",
-        "fecha": "2026-07-31T19:36:00+02:00",
+        "titulo": "Wim Wenders und Nastassja Kinski: Regisseur will Nacktszene aus »Falsche Bewegung« schneiden",
+        "enlace": "https://www.spiegel.de/kultur/wim-wenders-und-nastassja-kinski-regisseur-will-nacktszene-aus-falsche-bewegung-schneiden-a-dc2650b2-dc72-4b9c-8007-87e7b494b376#ref=rss",
+        "desc": "Schauspielerin Nastassja Kinski und Regisseur Wim Wenders haben sich im Streit über den Film »Falsche Bewegung« von 1975 geeinigt. Der Filmemacher will die Szene, in dem die damals…",
+        "fecha": "2026-07-31T20:52:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Studie: Social-Media-Verbot in Australien fast wirkungslos",
-        "enlace": "https://www.dw.com/de/studie-social-media-verbot-in-australien-fast-wirkungslos/a-78193719?maca=de-rss-de-all-1119-rdf",
-        "desc": "Was von manchen als Schutz für die Jugend gefeiert wurde, entpuppt sich als Papiertiger: Minderjährige können über die neuen Regeln nur lachen - und umgehen sie spielend.",
-        "fecha": "2026-07-31T17:44:00.170106+00:00",
+        "titulo": "Kriege, Brände, El Niño und der Welthunger",
+        "enlace": "https://www.dw.com/de/kriege-brände-el-niño-und-der-welthunger/a-78187464?maca=de-rss-de-all-1119-rdf",
+        "desc": "Die Kriege in der Ukraine und im Nahen Osten haben die weltweite Lebensmittelversorgung bislang nicht lahmgelegt. Kommt jedoch ein starkes Wetterphänomen wie El Niño hinzu, verviel…",
+        "fecha": "2026-07-31T19:41:16.315007+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -614,16 +614,16 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Le notizie del giorno | 31 luglio 2026 - Serale",
-        "enlace": "http://it.euronews.com/video/2026/07/31/le-notizie-del-giorno-31-luglio-2026-serale",
-        "desc": "Segui l'attualità dall'Europa e dal mondo del 31 luglio 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
-        "fecha": "2026-07-31T18:00:43+02:00",
+        "titulo": "Gli Houthi minacciano \"piena escalation\", mentre l'Arabia Saudita crea coalizione nel mar Rosso",
+        "enlace": "http://it.euronews.com/2026/07/31/gli-houthi-minacciano-piena-escalation-mentre-larabia-saudita-crea-coalizione-nel-mar-ross",
+        "desc": "Il leader houthi Abdul-Malik al-Houthi ha minacciato l’Arabia Saudita di una \"escalation totale\", poche ore prima dell’annuncio di Riad sulla creazione di una coalizione navale com…",
+        "fecha": "2026-07-31T20:24:34+02:00",
         "fuente": "Euronews IT"
       },
       {
         "titulo": "Il Primo Ministro spagnolo accusa i trafficanti dopo che 60.000 migranti hanno raggiunto Ceuta dal Marocco",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "desc": "La Spagna ha affermato che la maggior parte dei migranti è tornata in Marocco venerdì sera, poiché l’Italia ha sospeso l’accordo di Schengen sulla libera circolazione con la Spagna.",
+        "desc": "La Spagna ha affermato che la maggior parte è tornata in Marocco venerdì sera, poiché l’Italia ha sospeso l’accordo di Schengen sulla libera circolazione con Madrid.",
         "fecha": "2026-07-31T17:03:47+00:00",
         "fuente": "BBC World EN"
       },
@@ -635,10 +635,10 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Sovranità, sarcasmo, accuse: come il Nordafrica reagisce alla crisi di Ceuta",
-        "enlace": "http://it.euronews.com/2026/07/31/sovranita-sarcasmo-accuse-come-il-nordafrica-reagisce-alla-crisi-di-ceuta",
-        "desc": "La stampa marocchina ha presentato Ceuta come una questione di sovranità, i media algerini hanno accusato Rabat di \"strumentalizzare\" la migrazione e i social tunisini hanno reagit…",
-        "fecha": "2026-07-31T16:47:30+02:00",
+        "titulo": "Le notizie del giorno | 31 luglio 2026 - Serale",
+        "enlace": "http://it.euronews.com/video/2026/07/31/le-notizie-del-giorno-31-luglio-2026-serale",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 31 luglio 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-07-31T18:00:43+02:00",
         "fuente": "Euronews IT"
       },
       {
@@ -651,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "\"Sophia Setembro de 1963\" recria viagem de Sophia de Mello Breyner Andresen à Grécia",
-        "enlace": "https://www.rtp.pt/noticias/mundo/sophia-setembro-de-1963-recria-viagem-de-sophia-de-mello-breyner-andresen-a-grecia_a1757066",
-        "desc": "60 ano depois, os cineastas Hugo Pereira e Vanessa Duarte seguiram os passos de Sophia de Mello Breyner Andresen e repetiram a viagem que a poetisa fez à Grécia.",
-        "fecha": "2026-07-31T19:40:22+01:00",
+        "titulo": "20h Seguro preocupado com MAI e assalto ao gabinete de Ventura",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/20h-seguro-preocupado-com-mai-e-assalto-ao-gabinete-de-ventura_a1_1757087",
+        "desc": "",
+        "fecha": "2026-07-31T21:23:06+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Eclipse total: Rio de Onor cancelado, aeródromo avança",
-        "enlace": "https://observador.pt/2026/07/31/eclipse-solar-de-12-de-agosto-risco-de-incendio-cancela-evento-em-rio-de-onor-e-muda-tudo-para-o-aerodromo-de-braganca/",
-        "desc": "A alteração do local já se colocava em cima da mesa, face às condições meteorológicas e ao risco de incêndio nos últimos dias",
-        "fecha": "2026-07-31T18:39:29+01:00",
+        "titulo": "Ceuta. Montenegro promete reforçar fronteiras a sul",
+        "enlace": "https://observador.pt/2026/07/31/ceuta-montenegro-promete-que-portugal-vai-reforcar-controlo-nas-fronteiras-a-sul-do-pais-mas-rejeita-suspender-espaco-schengen/",
+        "desc": "Primeiro-ministro não vai tomar nenhuma \"nenhuma medida de suspensão\" das regras do espaço Schengen. Montenegro vai reforçar \"fronteira marítima e terrestre no sul de Portugal: \"É …",
+        "fecha": "2026-07-31T20:37:49+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,24 +672,24 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Trump hesita em autorizar a Ucrânia a produzir mísseis Patriot",
-        "enlace": "https://www.rtp.pt/noticias/guerra-na-ucrania/trump-hesita-em-autorizar-a-ucrania-a-produzir-misseis-patriot_n1757061",
-        "desc": "Terça-feira, o presidente ucraniano, Volodymyr Zelensky, declarou ter &quot;discutido licenças para a produção de intercetores Patriot&quot; com Donald Trump, durante uma reunião à…",
-        "fecha": "2026-07-31T19:20:40+01:00",
+        "titulo": "Infantino acusado de enganar administração da FIFA",
+        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/infantino-acusado-de-enganar-administracao-da-fifa_d1757086",
+        "desc": "O diretor de operações da FIFA, Kevin Lamour, acusou Gianni Infantino de enganar a administração do organismo com o plano de abertura ao investimento privado, classificando-o como …",
+        "fecha": "2026-07-31T21:22:35+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Pai de atirador em escola condenado a 15 anos de prisão",
-        "enlace": "https://observador.pt/2026/07/31/os-seus-crimes-estao-ligados-aos-crimes-cometidos-pelo-seu-filho-pai-de-atirador-em-escola-na-georgia-condenado-a-15-anos-de-prisao/",
-        "desc": "Colin Gray, pai de Colt Gray, autor do tiroteio na Apalachee High School, comparece pela primeira vez perante o Tribunal do Condado de Barrow, a 6 de setembro de 2024, em Winder, n…",
-        "fecha": "2026-07-31T18:34:22+01:00",
+        "titulo": "Guerra na Ucrânia: que cedências são necessárias para a paz?",
+        "enlace": "https://observador.pt/programas/gabinete-de-guerra/guerra-na-ucrania-que-cedencias-sao-necessarias-para-a-paz/",
+        "desc": "Bernardo Valente antevê cedências mútuas devido às crescentes dificuldades de mobilização. Afirma também que o plano para Gaza prevê 300 dias para o desarmamento e a divisão em 50 …",
+        "fecha": "2026-07-31T20:34:41+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Por que Brasil é 2º país com maior incidência de tornados — e registros estão aumentando",
-        "enlace": "https://www.bbc.com/portuguese/articles/cy8eg60yewzo?at_medium=RSS&at_campaign=rss",
-        "desc": "País registrou 81 tornados até julho deste ano e pode superar nos próximos meses o recorde de 92 em 2025. Entenda por que os registros estão aumentando.",
-        "fecha": "2026-07-31T08:24:02+00:00",
+        "titulo": "4 perguntas para entender a nova crise migratória em Ceuta, enclave espanhol na África",
+        "enlace": "https://www.bbc.com/portuguese/articles/c39edxdldxyo?at_medium=RSS&at_campaign=rss",
+        "desc": "Milhares de migrantes chegaram do Marrocos a Ceuta nos últimos dias, gerando uma nova crise no enclave espanhol no norte da África.",
+        "fecha": "2026-07-31T18:44:04+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,24 +702,24 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Jesse Bisiwu ya ha firmado por el Barça",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004211893/jesse-bisiwu-firma-hoy-barca.html",
-        "desc": "El acuerdo entre el FC Barcelona y e l Club Brujas por Jesse Bisiwu (18 años) es un hecho desde hace días pero sólo faltaban por pulir ciertos detalles contractuales que ya están r…",
-        "fecha": "2026-07-31T11:19:26+02:00",
+        "titulo": "¡Abdelkarim pone el empate de penati!",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004210804/birmingham-barcelona-directo-amistoso-pretemporada-resultado-marcador.html",
+        "desc": "Sigue todo lo que ocurre en el&nbsp; Birmingham City - FC Barcelona, correspondiente al segundo partido de la pretemporada del Barça.",
+        "fecha": "2026-07-31T21:29:08+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "El mensaje de Mario Hezonja tras hacerse oficial su llegada a los Cavaliers",
+        "titulo": "El Real Madrid hace oficial la marcha de Mario Hezonja a los Cleveland Cavaliers",
         "enlace": "https://www.gigantes.com/nba/hezonja-mensaje-cavaliers-madrid/",
-        "desc": "Esto dijo el jugador croata en sus redes sociales La entrada El mensaje de Mario Hezonja tras hacerse oficial su llegada a los Cavaliers se publicó primero en Gigantes del Basket .",
+        "desc": "Esto dijo el jugador croata en sus redes sociales La entrada El Real Madrid hace oficial la marcha de Mario Hezonja a los Cleveland Cavaliers se publicó primero en Gigantes del Bas…",
         "fecha": "2026-07-31T17:34:09+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "\"Al menos dormiré bien esta noche\": ejecutivo de la FIFA se une a Burnham para interrogar a Infantino",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "desc": "El director de operaciones de la FIFA critica duramente el plan de Gianni Infantino de vender participaciones en competiciones a inversores privados.",
-        "fecha": "2026-07-31T16:30:42+00:00",
+        "titulo": "¿Infantino al borde del abismo? ¿Quién podría reemplazarlo si se va?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+        "desc": "El presidente de la FIFA, Gianni Infantino, está en el ojo de la tormenta tras su intento de vender participaciones en la Copa del Mundo. Si él va, ¿quién entra?",
+        "fecha": "2026-07-31T19:22:15+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -730,10 +730,10 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "El Barça desvela el nuevo cargo de Juan Carlos Navarro",
-        "enlace": "https://www.mundodeportivo.com/baloncesto/20260731/1004212024/barca-desvela-nuevo-cargo-juan-carlos-navarro.html",
-        "desc": "El Barça ha anunciado esta tarde que ha llegado a un acuerdo con Juan Carlos Navarro para una adecuación contractual de la leyenda azulgrana hasta 2029 , difiriendo el año de contr…",
-        "fecha": "2026-07-31T17:17:57+02:00",
+        "titulo": "Adeyemi, titular con el 14 ante el Birmingham City",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260731/1004212064/adeyemi-titular-14-birmingham-city.html",
+        "desc": "El Barça afronta hoy, a partir de las 20.45 h., el primer amistoso del 'stage' de Inglaterra, el segundo de la pretemporada tras la victoria ante el CE Europa (4-1) en la Ciutat Es…",
+        "fecha": "2026-07-31T19:46:59+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -744,56 +744,56 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Mudryk, del Chelsea, libre para jugar tras apelar su sanción por dopaje",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-        "desc": "El extremo del Chelsea y Ucrania Mykhailo Mudryk no juega desde noviembre de 2024 y no ha podido acceder al campo de entrenamiento del Club.",
-        "fecha": "2026-07-31T15:59:06+00:00",
+        "titulo": "Ver: Lo más destacado de la segunda ronda del Abierto Femenino",
+        "enlace": "https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss",
+        "desc": "Día 2: Lo más destacado de Royal Lytham. ¿Quién está en camino de quitarle el título a Miyu Yamashita?",
+        "fecha": "2026-07-31T20:30:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
-        "titulo": "'At least I'll sleep well tonight' - Fifa executive joins Burnham in questioning Infantino",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "desc": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
-        "fecha": "2026-07-31T16:30:42+00:00",
+        "titulo": "Infantino on the brink? Who could replace him if he goes?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa president Gianni Infantino is in the eye of a storm after his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+        "fecha": "2026-07-31T19:22:15+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Scottish Premiership season begins as Rangers face Dundee Utd LIVE!",
-        "enlace": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333",
+        "titulo": "Hunter-Bell storms to 800m gold at Commonwealth Games",
+        "enlace": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
         "desc": "",
-        "fecha": "2026-07-30T11:02:00",
+        "fecha": "2026-07-31T16:00:00",
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "Chelsea's Mudryk free to play after appeal against doping ban",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-        "desc": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.",
-        "fecha": "2026-07-31T15:59:06+00:00",
+        "titulo": "Watch: Women's Open second-round highlights",
+        "enlace": "https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss",
+        "desc": "Day 2 Highlights from Royal Lytham. Who’s on course to take Miyu Yamashita’s title?",
+        "fecha": "2026-07-31T20:30:00+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "American Affair flies the flag for Goldie at Goodwood",
-        "enlace": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood",
-        "desc": "Scottish speedball American Affair bounced back to form to claim top honours in the King George Qatar Stakes at Goodwood.",
-        "fecha": "2026-07-31T17:02:00",
+        "titulo": "Shankland denied early Rangers opener at Dundee Utd LIVE!",
+        "enlace": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333",
+        "desc": "",
+        "fecha": "2026-07-30T11:02:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "\"Au moins, je dormirai bien ce soir\" - Un dirigeant de la Fifa se joint à Burnham pour interroger Infantino",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "desc": "Le directeur des opérations de la Fifa critique vivement le projet de Gianni Infantino de vendre des participations dans des compétitions à des investisseurs privés.",
-        "fecha": "2026-07-31T16:30:42+00:00",
+        "titulo": "Infantino au bord du gouffre ? Qui pourrait le remplacer s’il s’en va ?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Le président de la Fifa, Gianni Infantino, est dans l'œil du cyclone après sa tentative de vendre ses participations dans la Coupe du monde. S'il y va, qui entre ?",
+        "fecha": "2026-07-31T19:22:15+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Mudryk de Chelsea libre de jouer après son appel contre l'interdiction de dopage",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-        "desc": "L'ailier de Chelsea et de l'Ukraine Mykhailo Mudryk n'a plus joué depuis novembre 2024 et n'a pas pu accéder au terrain d'entraînement du club.",
-        "fecha": "2026-07-31T15:59:06+00:00",
+        "titulo": "À regarder : faits saillants du deuxième tour de l’Open féminin",
+        "enlace": "https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss",
+        "desc": "Faits saillants du jour 2 de Royal Lytham. Qui est en passe de remporter le titre de Miyu Yamashita ?",
+        "fecha": "2026-07-31T20:30:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,44 +802,44 @@
         "titulo": "Aleksander Ceferin: Europas Gegenspieler der FIFA",
         "enlace": "https://www.dw.com/de/aleksander-ceferin-europas-gegenspieler-der-fifa/a-78189625?maca=de-rss-de-sport-4020-rdf",
         "desc": "Aleksander Ceferin gilt als wichtigster Gegenspieler von FIFA-Präsident Gianni Infantino. Im Streit um die Investorenpläne der FIFA hat der UEFA-Präsident Europas Fußballverbände g…",
-        "fecha": "2026-07-31T17:44:20.608786+00:00",
+        "fecha": "2026-07-31T19:41:31.415551+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "„Wenigstens werde ich heute Nacht gut schlafen“ – Fifa-Manager schließt sich Burnhams Befragung von Infantino an",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "desc": "Der Chief Operating Officer der Fifa kritisiert scharf den Plan von Gianni Infantino, Anteile an Wettbewerben an Privatinvestoren zu verkaufen.",
-        "fecha": "2026-07-31T16:30:42+00:00",
+        "titulo": "Infantino am Abgrund? Wer könnte ihn ersetzen, wenn er geht?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa-Präsident Gianni Infantino befindet sich nach seinem Versuch, Anteile an der Weltmeisterschaft zu verkaufen, in Aufruhr. Wenn er geht, wer kommt dann rein?",
+        "fecha": "2026-07-31T19:22:15+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Private Investoren für die WM: Geht die FIFA zu weit?",
         "enlace": "https://www.dw.com/de/private-investoren-für-die-wm-geht-die-fifa-zu-weit/a-78172197?maca=de-rss-de-sport-4020-rdf",
         "desc": "Mit dem Plan, Anteile am WM-Geschäft an private Investoren zu verkaufen, hat die FIFA heftige Kritik auf sich gezogen. Unter Gianni Infantino setzt sie immer stärker auf Einnahmen.…",
-        "fecha": "2026-07-31T17:44:20.608826+00:00",
+        "fecha": "2026-07-31T19:41:31.415599+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Chelseas Mudryk darf nach Berufung gegen die Dopingsperre spielen",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-        "desc": "Der Flügelspieler von Chelsea und der Ukraine, Mykhailo Mudryk, hat seit November 2024 nicht mehr gespielt und konnte das Trainingsgelände des Vereins nicht betreten.",
-        "fecha": "2026-07-31T15:59:06+00:00",
+        "titulo": "Sehen Sie: Höhepunkte der zweiten Runde der Women's Open",
+        "enlace": "https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss",
+        "desc": "Höhepunkte von Tag 2 von Royal Lytham. Wer ist auf dem Weg, Miyu Yamashitas Titel zu holen?",
+        "fecha": "2026-07-31T20:30:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "\"Almeno dormirò bene stanotte\" - Il dirigente della FIFA si unisce a Burnham nell'interrogare Infantino",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "desc": "Il direttore operativo della Fifa critica fortemente il progetto di Gianni Infantino di vendere le partecipazioni nelle competizioni a investitori privati.",
-        "fecha": "2026-07-31T16:30:42+00:00",
+        "titulo": "Infantino sull'orlo del baratro? Se dovesse andarsene, chi potrebbe sostituirlo?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Il presidente della Fifa Gianni Infantino è nell'occhio del ciclone dopo il suo tentativo di vendere le quote ai Mondiali. Se va lui, chi entra?",
+        "fecha": "2026-07-31T19:22:15+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Mudryk del Chelsea libero di giocare dopo il ricorso contro il divieto di doping",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-        "desc": "L'esterno del Chelsea e dell'Ucraina Mykhailo Mudryk non gioca da novembre 2024 e non ha potuto accedere al campo di allenamento del club.",
-        "fecha": "2026-07-31T15:59:06+00:00",
+        "titulo": "Guarda: highlights del secondo turno del Women's Open",
+        "enlace": "https://www.bbc.co.uk/iplayer/episode/m002zm93?at_medium=RSS&at_campaign=rss",
+        "desc": "Momenti salienti del secondo giorno da Royal Lytham. Chi è in corsa per conquistare il titolo di Miyu Yamashita?",
+        "fecha": "2026-07-31T20:30:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -862,22 +862,22 @@
       {
         "titulo": "4 claves para entender la nueva crisis migratoria en Ceuta, uno de los enclaves españoles en África",
         "enlace": "https://www.bbc.com/mundo/articles/cm2gv1r9zyno?at_medium=RSS&at_campaign=rss",
-        "desc": "Miles de migrantes han llegado a Ceuta en los últimos días, provocando una nueva crisis en el enclave español del norte de África. Estas son las cuatro claves para entender qué est…",
-        "fecha": "2026-07-31T15:56:51+00:00",
+        "desc": "Miles de migrantes llegaron a Ceuta en los últimos días, provocando una nueva crisis en el enclave español del norte de África. Estas son las cuatro claves para entender qué está o…",
+        "fecha": "2026-07-31T18:03:01+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Corrección del autor: Membranas conductoras de aniones a base de cucurbituril con nanoporos supramoleculares",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Naturaleza, Publicado en línea: 31 de julio de 2026; doi:10.1038/s41586-026-10921-w Corrección del autor: Membranas conductoras de aniones a base de cucurbituril con nanoporos supramoleculares",
-        "fecha": "2026-07-31T17:44:37.512435+00:00",
+        "fecha": "2026-07-31T19:41:51.871029+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "La NASA abre un nuevo centro de investigación de dinámica de vuelo en Virginia",
-        "enlace": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-        "desc": "La NASA inauguró el viernes su túnel de viento más nuevo, el Centro de Investigación de Dinámica de Vuelo, proporcionando un recurso fundamental para que la agencia y sus socios prueben la seguridad y el rendimiento...",
-        "fecha": "2026-07-31T17:11:14+00:00",
+        "titulo": "Correas TB 26-04 para uso en entornos con oxígeno elevado",
+        "enlace": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+        "desc": "Se informan los resultados de las pruebas de inflamabilidad para correas comerciales listas para usar que cumplen con los requisitos de inflamabilidad de la NASA para su uso en ambientes con elevado oxígeno que se anticipan para el futuro...",
+        "fecha": "2026-07-31T19:05:25+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -895,24 +895,24 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "España intenta contener la crisis migratoria en Ceuta: 37.500 personas ya han regresado a Marruecos y aumenta a 57 el número de muertos",
-        "enlace": "https://www.bbc.com/mundo/articles/cvg0n0p4xg4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Las autoridades españolas han intentado normalizar la situación en la ciudad autónoma de Ceuta, ubicada en el norte de África.",
-        "fecha": "2026-07-31T15:41:07+00:00",
+        "titulo": "En gráficos: cómo son los 8 km de frontera entre España y Marruecos en Ceuta, foco de tensión migratoria de la Unión Europea",
+        "enlace": "https://www.bbc.com/mundo/articles/cre4vq73j24o?at_medium=RSS&at_campaign=rss",
+        "desc": "Cerca de 50.000 migrantes intentaron cruzar desde Marruecos hacia Ceuta esta semana con el fin de llegar a la zona europea en los últimos días. Según el gobierno español, la mayorí…",
+        "fecha": "2026-07-31T18:05:37+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Charla informativa: las orcas destrozaron un pez luna; los investigadores no están seguros de por qué",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Naturaleza, Publicado en línea: 31 de julio de 2026; doi:10.1038/d41586-026-02419-2 El personal de Nature analiza un estudio masivo de insectos en el Amazonas y el comportamiento inusual de las orcas captado en video.",
-        "fecha": "2026-07-31T17:44:37.512476+00:00",
+        "fecha": "2026-07-31T19:41:51.871074+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Blog de curiosidades, Sols 4961-4967: ¿Se acerca una ruptura en el récord del rock?",
-        "enlace": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
-        "desc": "Escrito por Abigail Fraeman, científica adjunta del proyecto, Laboratorio de Propulsión a Chorro, Instituto de Tecnología de California Fecha de planificación de la Tierra: viernes 24 de julio de 2026 Curiosity pasó el w…",
-        "fecha": "2026-07-31T14:41:02+00:00",
+        "titulo": "La NASA y SpaceX avanzan en las pruebas del túnel de viento para el cohete Starship",
+        "enlace": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+        "desc": "La NASA y sus socios industriales se están preparando para la misión de demostración Artemis III del próximo año completando nuevas pruebas en el túnel de viento del cohete propulsor Super Heavy Version 3 de SpaceX.…",
+        "fecha": "2026-07-31T18:39:47+00:00",
         "fuente": "NASA EN"
       }
     ],
@@ -921,7 +921,7 @@
         "titulo": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-w Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-        "fecha": "2026-07-31T17:44:40.243980+00:00",
+        "fecha": "2026-07-31T19:41:55.979309+00:00",
         "fuente": "Nature"
       },
       {
@@ -939,24 +939,24 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "AI scammers outperform humans when it comes to building trust",
-        "enlace": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-        "desc": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-        "fecha": "2026-07-31T14:01:40+00:00",
+        "titulo": "High school defends staying silent while boys made AI nudes of 59 classmates",
+        "enlace": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+        "desc": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
+        "fecha": "2026-07-31T18:11:55+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Diego Rivera claimed his mural Creation was half wax, but chemical forensics says otherwise",
-        "enlace": "https://phys.org/news/2026-07-diego-rivera-mural-creation-wax.html",
-        "desc": "Adorning the walls of San Ildefonso College in Mexico City is artist Diego Rivera's masterpiece, rendered in fresco and gold leaf, The Creation, or La Creacioń. It depicts a man st…",
-        "fecha": "2026-07-31T13:40:07-04:00",
+        "titulo": "Lichen-like life 600 million years ago may push back origins of fungal-algal partnerships",
+        "enlace": "https://phys.org/news/2026-07-lichen-life-million-years-fungal.html",
+        "desc": "Two organisms inhabiting a common environment can sometimes mutually influence each other, either benefiting or, in some cases, damaging one another. This mutually beneficial or am…",
+        "fecha": "2026-07-31T15:40:05-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-        "enlace": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-        "desc": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance …",
-        "fecha": "2026-07-31T17:11:14+00:00",
+        "titulo": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+        "enlace": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+        "desc": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future…",
+        "fecha": "2026-07-31T19:05:25+00:00",
         "fuente": "NASA"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02419-2 Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video.",
-        "fecha": "2026-07-31T17:44:40.244021+00:00",
+        "fecha": "2026-07-31T19:41:55.979382+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "Correction de l'auteur : Membranes conductrices d'anions à base de cucurbituril avec nanopores supramoléculaires",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Nature, Mise en ligne : 31 juillet 2026 ; doi:10.1038/s41586-026-10921-w Correction de l'auteur : Membranes conductrices d'anions à base de cucurbituril avec nanopores supramoléculaires",
-        "fecha": "2026-07-31T17:44:45.313516+00:00",
+        "fecha": "2026-07-31T19:42:00.595363+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Discussion d'information : des orques ont brisé un crapet en morceaux – les chercheurs ne savent pas pourquoi",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Nature, Mise en ligne : 31 juillet 2026 ; est ce que je:10.1038/d41586-026-02419-2 Le personnel de Nature discute d'une étude massive des insectes en Amazonie et du comportement inhabituel des orques filmé.",
-        "fecha": "2026-07-31T17:44:45.313557+00:00",
+        "fecha": "2026-07-31T19:42:00.595412+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "Übergewicht erhöht Krebsrisiko stärker als gedacht",
         "enlace": "https://www.dw.com/de/übergewicht-erhöht-krebsrisiko-stärker-als-gedacht/a-78146995?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Eine neue Studie zeigt: Übergewicht könnte für deutlich mehr Krebsfälle verantwortlich sein als bisher angenommen. Besonders Bauchfett erhöht das Krebsrisiko - vor allem bei Frauen…",
-        "fecha": "2026-07-31T17:44:47.680971+00:00",
+        "fecha": "2026-07-31T19:42:01.929205+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Anionenleitende Membranen auf Cucurbituril-Basis mit supramolekularen Nanoporen",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Natur, Online veröffentlicht: 31. Juli 2026; doi:10.1038/s41586-026-10921-w Autorenkorrektur: Anionenleitende Membranen auf Cucurbituril-Basis mit supramolekularen Nanoporen",
-        "fecha": "2026-07-31T17:44:47.824384+00:00",
+        "fecha": "2026-07-31T19:42:02.135239+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Deutschland: Mehr Hitze und mehr Klimawandelskepsis?",
         "enlace": "https://www.dw.com/de/deutschland-mehr-hitze-und-mehr-klimawandelskepsis/a-78100214?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "98 Prozent der aktiven Klimaforschenden sagen: Der Klimawandel passiert und er ist menschengemacht. Laut einer neuen Studie ist die Zahl der Klimawandelskeptiker in Deutschland all…",
-        "fecha": "2026-07-31T17:44:47.681016+00:00",
+        "fecha": "2026-07-31T19:42:01.929246+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Briefing-Chat: Orcas haben einen Mondfisch in Stücke gerissen – Forscher sind sich nicht sicher, warum",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Natur, Online veröffentlicht: 31. Juli 2026; doi:10.1038/d41586-026-02419-2 Nature-Mitarbeiter diskutieren über eine umfangreiche Untersuchung von Insekten im Amazonasgebiet und ungewöhnliches Verhalten von Orcas, das auf Video festgehalten wurde.",
-        "fecha": "2026-07-31T17:44:47.824425+00:00",
+        "fecha": "2026-07-31T19:42:02.135284+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,23 +1053,23 @@
         "titulo": "Correzione dell'autore: membrane conduttrici di anioni a base di cucurbiturile con nanopori supramolecolari",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Natura, Pubblicato online: 31 luglio 2026; doi:10.1038/s41586-026-10921-w Correzione dell'autore: membrane conduttrici di anioni a base di cucurbiturile con nanopori supramolecolari",
-        "fecha": "2026-07-31T17:44:52.103419+00:00",
+        "fecha": "2026-07-31T19:42:03.992418+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Briefing Chat: le orche hanno fatto a pezzi un pesce luna: i ricercatori non sono sicuri del perché",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Natura, Pubblicato online: 31 luglio 2026; doi:10.1038/d41586-026-02419-2 Lo staff di Nature discute di una massiccia indagine sugli insetti in Amazzonia e del comportamento insolito delle orche ripreso in video.",
-        "fecha": "2026-07-31T17:44:52.103460+00:00",
+        "fecha": "2026-07-31T19:42:03.992465+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Eclipse total: Rio de Onor cancelado, aeródromo avança",
-        "enlace": "https://observador.pt/2026/07/31/eclipse-solar-de-12-de-agosto-risco-de-incendio-cancela-evento-em-rio-de-onor-e-muda-tudo-para-o-aerodromo-de-braganca/",
-        "desc": "A alteração do local já se colocava em cima da mesa, face às condições meteorológicas e ao risco de incêndio nos últimos dias",
-        "fecha": "2026-07-31T18:39:29+01:00",
+        "titulo": "Ceuta. Montenegro promete reforçar fronteiras a sul",
+        "enlace": "https://observador.pt/2026/07/31/ceuta-montenegro-promete-que-portugal-vai-reforcar-controlo-nas-fronteiras-a-sul-do-pais-mas-rejeita-suspender-espaco-schengen/",
+        "desc": "Primeiro-ministro não vai tomar nenhuma \"nenhuma medida de suspensão\" das regras do espaço Schengen. Montenegro vai reforçar \"fronteira marítima e terrestre no sul de Portugal: \"É …",
+        "fecha": "2026-07-31T20:37:49+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1080,17 +1080,17 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Pai de atirador em escola condenado a 15 anos de prisão",
-        "enlace": "https://observador.pt/2026/07/31/os-seus-crimes-estao-ligados-aos-crimes-cometidos-pelo-seu-filho-pai-de-atirador-em-escola-na-georgia-condenado-a-15-anos-de-prisao/",
-        "desc": "Colin Gray, pai de Colt Gray, autor do tiroteio na Apalachee High School, comparece pela primeira vez perante o Tribunal do Condado de Barrow, a 6 de setembro de 2024, em Winder, n…",
-        "fecha": "2026-07-31T18:34:22+01:00",
+        "titulo": "Guerra na Ucrânia: que cedências são necessárias para a paz?",
+        "enlace": "https://observador.pt/programas/gabinete-de-guerra/guerra-na-ucrania-que-cedencias-sao-necessarias-para-a-paz/",
+        "desc": "Bernardo Valente antevê cedências mútuas devido às crescentes dificuldades de mobilização. Afirma também que o plano para Gaza prevê 300 dias para o desarmamento e a divisão em 50 …",
+        "fecha": "2026-07-31T20:34:41+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Por que Brasil é 2º país com maior incidência de tornados — e registros estão aumentando",
-        "enlace": "https://www.bbc.com/portuguese/articles/cy8eg60yewzo?at_medium=RSS&at_campaign=rss",
-        "desc": "País registrou 81 tornados até julho deste ano e pode superar nos próximos meses o recorde de 92 em 2025. Entenda por que os registros estão aumentando.",
-        "fecha": "2026-07-31T08:24:02+00:00",
+        "titulo": "4 perguntas para entender a nova crise migratória em Ceuta, enclave espanhol na África",
+        "enlace": "https://www.bbc.com/portuguese/articles/c39edxdldxyo?at_medium=RSS&at_campaign=rss",
+        "desc": "Milhares de migrantes chegaram do Marrocos a Ceuta nos últimos dias, gerando uma nova crise no enclave espanhol no norte da África.",
+        "fecha": "2026-07-31T18:44:04+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1106,28 +1106,28 @@
         "titulo": "Universal Music firma su mayor caída (-24%) desde que salió a bolsa (y todo por sus bajas suscripciones)",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-31/universal-music-se-desloma-y-registra-su-mayor-caida_4399012/",
         "desc": "La empresa continúa siendo la discográfica con más ingresos en el mundo, pero los ingresos por suscripción no han cumplido expectativas de los inversores",
-        "fecha": "2026-07-31T17:45:01.310555+00:00",
+        "fecha": "2026-07-31T19:42:07.565790+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Iván Redondo, exasesor de Sánchez, simultaneará su relación con Santa Bárbara con su propia empresa de Defensa",
+        "titulo": "Iván Redondo, exasesor de Sánchez, simultaneará sus trabajos para Santa Bárbara con su propia empresa de defensa",
         "enlace": "https://www.abc.es/economia/ivan-redondo-exasesor-sanchez-simultaneara-relacion-santa-20260731193153-nt.html",
-        "desc": "El que fuera jefe de gabinete del presidente del Gobierno, Pedro Sánchez, entre 2018 y 2021, Ivan Redondo, vuelve a estar de plena actualidad tras el último de sus movimientos empr…",
+        "desc": "El que fuera jefe de gabinete del presidente del Gobierno, Pedro Sánchez, entre 2018 y 2021, Iván Redondo, vuelve a estar de plena actualidad tras el último de sus movimientos empr…",
         "fecha": "2026-07-31T19:31:53+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Exxon y Chevron canalizan ganancias extraordinarias para pagar deudas",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
-        "desc": "ExxonMobil Holdings Corp. y Chevron Corp. invirtieron sus enormes ganancias en la reducción de la deuda en lugar de enormes aumentos de recompras, en una señal de la cautela de las grandes petroleras sobre cuánto tiempo durará la guerra impulsada por la guerra.",
-        "fecha": "2026-07-31T13:39:51+00:00",
+        "titulo": "El director ejecutivo de Couche-Tard espera que la presión de los inversores de Żabka aumente la oferta",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+        "desc": "El director de Alimentation Couche-Tard Inc. dijo que espera que algunos accionistas de Żabka Group SA se opongan a la oferta pública de adquisición de la compañía canadiense por 8.700 millones de dólares, pero todavía confía...",
+        "fecha": "2026-07-31T18:28:05+00:00",
         "fuente": "Bloomberg"
       },
       {
         "titulo": "Cómo Leopold Aschenbrenner construyó un fondo de cobertura de inteligencia artificial de 45 mil millones de dólares y perdió la mayor parte en cuestión de días",
         "enlace": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
         "desc": "Leopold Aschenbrenner, ex investigador de OpenAI convertido en administrador de fondos de cobertura, vio una caída dramática esta semana en su fondo centrado en IA, Situational Awareness.",
-        "fecha": "2026-07-31T14:44:44+00:00",
+        "fecha": "2026-07-31T19:07:44+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1141,7 +1141,7 @@
         "titulo": "Récord histórico en la Bolsa de Seúl: el Kospi surcoreano se dispara un 18% en un solo día",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-31/el-kospi-surcoreano-se-dispara-un-18_4398832/",
         "desc": "El indicador principal de la Bolsa de Seúl ha firmado esta espectacular subida impulsado por las tecnológicas y el sector de los semiconductores, que siguieron la tendencia de Wall…",
-        "fecha": "2026-07-31T17:45:01.310596+00:00",
+        "fecha": "2026-07-31T19:42:07.565836+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,40 +1152,40 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El oro cae mientras los operadores esperan la recuperación del dólar frente al yen y la trayectoria de la Reserva Federal",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-        "desc": "El oro cayó cuando se estancó el repunte del yen impulsado por la intervención, lo que ayudó al dólar a poner fin a una racha de pérdidas de cinco días.",
-        "fecha": "2026-07-30T23:56:55+00:00",
+        "titulo": "Las acciones tecnológicas impulsan las ganancias de Wall Street a finales de julio: cierre de los mercados",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "desc": "Un repunte en varios pesos pesados ​​de la tecnología impulsó las acciones en la recta final de un julio vertiginoso, ya que las sólidas ganancias eclipsaron las preocupaciones sobre la inflación que han sacudido el mercado de bonos...",
+        "fecha": "2026-07-30T22:15:33+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "La FIFA pone a prueba los límites del capital privado en el deporte con la venta de una filial del Mundial",
-        "enlace": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-        "desc": "El rechazo de la UEFA y la Concacaf al plan de la FIFA de vender una participación del 20% en las operaciones comerciales de la Copa del Mundo pone de relieve el malestar con el capital privado en el deporte.",
-        "fecha": "2026-07-31T16:19:16+00:00",
+        "titulo": "El corredor de tecnología financiera Clear Street ofrece a los inversores acceso previo a la OPI al gigante de la inteligencia artificial Databricks por valor de 188 mil millones de dólares",
+        "enlace": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+        "desc": "La correduría de tecnología financiera Clear Street está lanzando una plataforma de mercados privados, comenzando con participaciones en Databricks, para brindar a los inversores más acceso a nuevas empresas en etapa avanzada.",
+        "fecha": "2026-07-31T18:20:01+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Exxon, Chevron Steer Windfall Profits Into Paying Down Debt",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
-        "desc": "ExxonMobil Holdings Corp. and Chevron Corp. plowed blowout profits into debt reduction rather than huge buyback increases in a sign of Big Oil’s caution about how long war-driven p…",
-        "fecha": "2026-07-31T13:39:51+00:00",
+        "titulo": "Couche-Tard CEO Expects Żabka Investor Pressure to Raise Bid",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+        "desc": "The head of Alimentation Couche-Tard Inc. said he expects pushback from some Żabka Group SA shareholders on the Canadian company’s $8.7 billion takeover offer, but is still confide…",
+        "fecha": "2026-07-31T18:28:05+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Bessent highlights Trump economy, warns China has 'done a lot of kicking lately'",
-        "enlace": "https://www.foxbusiness.com/economy/bessent-highlights-trump-economy-warns-china-has-done-lot-kicking-lately",
-        "desc": "Scott Bessent warns China has been &quot;kicking&quot; the U.S. on rare earth minerals and AI IP theft, comparing the rivalry to an underwater water polo match.",
-        "fecha": "2026-07-31T12:51:01-04:00",
+        "titulo": "Cruise ship passengers rescued after vessel runs aground",
+        "enlace": "https://www.foxbusiness.com/fox-news-travel/cruise-ship-passengers-rescued-after-vessel-runs-aground",
+        "desc": "The Viking Ullur cruise ship became stranded in the Danube River near Vidin, Bulgaria, forcing police to evacuate 186 passengers on board, reports said.",
+        "fecha": "2026-07-31T14:14:24-04:00",
         "fuente": "Fox Business"
       },
       {
         "titulo": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
         "enlace": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
         "desc": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-        "fecha": "2026-07-31T14:44:44+00:00",
+        "fecha": "2026-07-31T19:07:44+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1196,24 +1196,24 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Gold Dips as Traders Eye Dollar Recovery Against Yen, Fed Path",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-        "desc": "Gold fell as an intervention-driven rally in the yen stalled, helping the dollar snap a five-day run of losses.",
-        "fecha": "2026-07-30T23:56:55+00:00",
+        "titulo": "Tech Stocks Power Wall Street Gains at End of July: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "desc": "A rally in several technology heavyweights lifted stocks in the final stretch of a dizzying July as strong earnings overshadowed inflation worries that have rattled the bond market…",
+        "fecha": "2026-07-30T22:15:33+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Commerce Dept to demand equity from 7 tech companies as a condition to tap into millions in federal funding",
-        "enlace": "https://www.foxbusiness.com/politics/commerce-dept-demand-equity-from-tech-companies-condition-tap-millions-federal-funding",
-        "desc": "The Department of Commerce plans to require seven companies to fork over equity in order to obtain federal funding to develop technology.",
-        "fecha": "2026-07-31T08:00:01-04:00",
+        "titulo": "Y'all Street launches: Texas Stock Exchange goes live in Dallas",
+        "enlace": "https://www.foxbusiness.com/markets/yall-street-launches-texas-stock-exchange-goes-live-dallas",
+        "desc": "The TXSE debuted as the first major U.S. stock exchange to launch in decades, challenging the NYSE and Nasdaq for corporate listings and future IPOs.",
+        "fecha": "2026-07-31T14:14:04-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
-        "enlace": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
-        "desc": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
-        "fecha": "2026-07-31T16:19:16+00:00",
+        "titulo": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+        "enlace": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+        "desc": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+        "fecha": "2026-07-31T18:20:01+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Exxon et Chevron orientent leurs bénéfices exceptionnels vers le remboursement de leur dette",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
-        "desc": "ExxonMobil Holdings Corp. et Chevron Corp. ont consacré leurs bénéfices fulgurants à la réduction de la dette plutôt qu'à d'énormes augmentations de rachats, signe de la prudence des grandes sociétés pétrolières quant à la durée des p…",
-        "fecha": "2026-07-31T13:39:51+00:00",
+        "titulo": "Le PDG de Couche-Tard s'attend à ce que les investisseurs de Żabka fassent pression pour augmenter l'offre",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+        "desc": "Le chef d’Alimentation Couche-Tard Inc. a déclaré qu’il s’attend à une réaction de la part de certains actionnaires de Żabka Group SA concernant l’offre publique d’achat de 8,7 milliards de dollars de l’entreprise canadienne, mais il reste confiant…",
+        "fecha": "2026-07-31T18:28:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "L'or baisse alors que les traders envisagent une reprise du dollar par rapport au yen et à la trajectoire de la Fed",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-        "desc": "L'or a chuté alors que la reprise du yen provoquée par l'intervention s'est arrêtée, aidant le dollar à mettre fin à une série de pertes de cinq jours.",
-        "fecha": "2026-07-30T23:56:55+00:00",
+        "titulo": "Les valeurs technologiques alimentent les gains de Wall Street fin juillet : les marchés se replient",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "desc": "Un rallye de plusieurs poids lourds de la technologie a fait grimper les actions dans la dernière partie d’un mois de juillet vertigineux, alors que les solides bénéfices ont éclipsé les inquiétudes inflationnistes qui ont ébranlé le marché obligataire…",
+        "fecha": "2026-07-30T22:15:33+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Dow, S&P 500, Nasdaq: Wall Street dreht ins Plus – Spieleplattform-Aktie verliert über 29 Prozent",
-        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-wall-street-dreht-ins-plus-spieleplattform-aktie-stuerzt-ab/100244298.html",
-        "desc": "Zum Wochenausklang stehen starke Tech-Aktien im Fokus. Nur Apple enttäuscht. Der Irankrieg beschert indes den Ölkonzernen Rekordgewinne. Deren Aktien hilft das aber nicht.",
-        "fecha": "2026-07-31T17:37:30+00:00",
+        "titulo": "EU-Migrationspolitik: Krise in Ceuta - Kann Spanien aus dem Schengenraum fliegen?",
+        "enlace": "https://www.handelsblatt.com/politik/international/eu-migrationspolitik-krise-in-ceuta-kann-spanien-aus-dem-schengenraum-fliegen/100244345.html",
+        "desc": "Bewährungsprobe für die neue EU-Migrationspolitik: Erstmals seit Inkrafttreten der Asylreform erlebt ein Mitgliedsland eine Krisensituation. Spanien gerät unter Druck - auch durch …",
+        "fecha": "2026-07-31T19:28:19+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Exxon und Chevron lenken unerwartete Gewinne in die Schuldentilgung",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
-        "desc": "ExxonMobil Holdings Corp. und Chevron Corp. investierten enorme Gewinne in den Schuldenabbau statt in enorme Rückkauferhöhungen – ein Zeichen dafür, dass Big Oil vorsichtig damit umgeht, wie lange kriegsbedingte P…",
-        "fecha": "2026-07-31T13:39:51+00:00",
+        "titulo": "Der CEO von Couche-Tard erwartet den Druck der Żabka-Investoren, das Angebot zu erhöhen",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+        "desc": "Der Chef von Alimentation Couche-Tard Inc. sagte, er erwarte von einigen Aktionären der Żabka Group SA Widerstand gegen das 8,7-Milliarden-Dollar-Übernahmeangebot des kanadischen Unternehmens, sei aber dennoch zuversichtlich …",
+        "fecha": "2026-07-31T18:28:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Exklave in Nordafrika: Sánchez: Migrantenandrang in Ceuta ist „Angriff“ auf Spanien",
-        "enlace": "https://www.handelsblatt.com/politik/international/exklave-in-nordafrika-sanchez-migrantenandrang-in-ceuta-ist-angriff-auf-spanien/100244204.html",
-        "desc": "Kaum hat Spanien die schwersten Waldbrände der vergangenen Jahre überstanden, da erschüttert bereits die nächste Krise das Land. Doch warum strömen plötzlich Zehntausende Migranten…",
-        "fecha": "2026-07-31T17:28:01+00:00",
+        "titulo": "Ceuta: Italien führt gezielte Kontrollen an See- und Luftgrenze zu Spanien ein",
+        "enlace": "https://www.handelsblatt.com/politik/international/ceuta-italien-fuehrt-gezielte-kontrollen-an-see-und-luftgrenze-zu-spanien-ein/100244355.html",
+        "desc": "Die Regierung unter Giorgia Meloni begründet die Aussetzung des Schengen-Abkommens mit Spanien mit Sicherheitsbedenken. Zunächst war sogar die Rede von einer Grenzschließung.",
+        "fecha": "2026-07-31T19:19:17+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Gold fällt, da Händler eine Erholung des Dollars gegenüber dem Yen im Auge haben, Fed-Pfad",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-        "desc": "Der Goldpreis fiel, als die interventionsbedingte Erholung des Yen ins Stocken geriet, was dem Dollar half, eine fünftägige Verlustserie zu überwinden.",
-        "fecha": "2026-07-30T23:56:55+00:00",
+        "titulo": "Tech-Aktien treiben Ende Juli Kursgewinne an der Wall Street an: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "desc": "Eine Rallye bei mehreren Technologie-Schwergewichten ließ die Aktien in der letzten Phase eines schwindelerregenden Juli steigen, da starke Gewinne die Inflationssorgen überschatteten, die den Anleihemarkt erschüttert haben …",
+        "fecha": "2026-07-30T22:15:33+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Exxon e Chevron indirizzano i profitti inattesi nel ripagare il debito",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
-        "desc": "ExxonMobil Holdings Corp. e Chevron Corp. hanno investito enormi profitti nella riduzione del debito piuttosto che in enormi aumenti di riacquisti, in segno di cautela da parte di Big Oil sulla durata della guerra.",
-        "fecha": "2026-07-31T13:39:51+00:00",
+        "titulo": "Il CEO di Couche-Tard si aspetta che la pressione degli investitori di Żabka aumenti l'offerta",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+        "desc": "Il capo di Alimentation Couche-Tard Inc. ha detto di aspettarsi una reazione da parte di alcuni azionisti di Żabka Group SA sull'offerta di acquisizione da 8,7 miliardi di dollari della società canadese, ma è ancora fiducioso...",
+        "fecha": "2026-07-31T18:28:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "L'oro crolla mentre i trader puntano alla ripresa del dollaro contro lo yen, percorso della Fed",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-        "desc": "L'oro è crollato in seguito allo stallo del rally dello yen determinato dall'intervento, aiutando il dollaro a interrompere una serie di perdite di cinque giorni.",
-        "fecha": "2026-07-30T23:56:55+00:00",
+        "titulo": "I titoli tecnologici alimentano i guadagni di Wall Street alla fine di luglio: i mercati si chiudono",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "desc": "Il rally di diversi colossi della tecnologia ha fatto risorgere i titoli azionari nella parte finale di un luglio vertiginoso, mentre i forti utili hanno messo in ombra le preoccupazioni sull’inflazione che hanno scosso il mercato obbligazionario…",
+        "fecha": "2026-07-30T22:15:33+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Itália avança com suspensão do acordo Schengen com Espanha",
-        "enlace": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/italia-avanca-com-suspensao-do-acordo-schengen-com-espanha",
-        "desc": "A decisão surge no seguimento da crise migratória em Ceuta e da crise diplomática entre os dois países.",
-        "fecha": "2026-07-31T18:28:13+01:00",
+        "titulo": "Montenegro rejeita suspensão do espaço Schengen, mas promete mais controlo",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/detalhe/montenegro-rejeita-suspensao-do-espaco-schengen-mas-promete-mais-controlo",
+        "desc": "As declarações do governante surgem numa altura em que Itália anunciou a reposição temporária de controlos sobre passageiros provenientes de Espanha, em portos e aeroportos, na seq…",
+        "fecha": "2026-07-31T20:25:51+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Exxon e Chevron direcionam lucros inesperados para pagar dívidas",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
-        "desc": "investiram grandes lucros na redução da dívida, em vez de enormes aumentos de recompras, em um sinal da cautela das grandes petrolíferas sobre por quanto tempo as ações impulsionadas pela guerra…",
-        "fecha": "2026-07-31T13:39:51+00:00",
+        "titulo": "CEO da Couche-Tard espera pressão dos investidores de Żabka para aumentar a oferta",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+        "desc": "O chefe da Alimentation Couche-Tard Inc. disse que espera resistência de alguns acionistas do Żabka Group SA na oferta de aquisição de US$ 8,7 bilhões da empresa canadense, mas ainda está confiante…",
+        "fecha": "2026-07-31T18:28:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Europa termina última sessão de julho sem rumo mas com ganho mensal. Universal afunda 25%",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/indice-da-coreia-do-sul-arrasa-em-sessao-mista-na-asia-europa-aponta-para-abertura-em-alta",
-        "desc": "Acompanhe, ao minuto, a evolução dos mercados desta sexta-feira.",
-        "fecha": "2026-07-31T18:00:00+01:00",
+        "titulo": "Seguro quer rápido \"apuramento de responsabilidades\" no caso de Luís Neves",
+        "enlace": "https://www.jornaldenegocios.pt/economia/detalhe/seguro-quer-rapido-apuramento-de-responsabilidades-no-caso-de-luis-neves",
+        "desc": "O Presidente da República pede a preservação da dignidade das instituições no inquérito do Ministério Público às polémicas com o ministro da Administração Interna.",
+        "fecha": "2026-07-31T20:19:17+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ouro cai enquanto traders buscam recuperação do dólar em relação ao iene e trajetória do Fed",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
-        "desc": "O ouro caiu quando uma recuperação do iene impulsionada pela intervenção estagnou, ajudando o dólar a superar uma série de perdas de cinco dias.",
-        "fecha": "2026-07-30T23:56:55+00:00",
+        "titulo": "Ações de tecnologia impulsionam ganhos de Wall Street no final de julho: queda dos mercados",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
+        "desc": "Uma recuperação de vários pesos pesados ​​da tecnologia elevou as ações na reta final de um vertiginoso julho, à medida que os fortes lucros ofuscaram as preocupações com a inflação que abalaram o mercado obrigacionista…",
+        "fecha": "2026-07-30T22:15:33+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
