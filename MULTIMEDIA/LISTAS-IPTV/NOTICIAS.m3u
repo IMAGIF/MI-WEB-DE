@@ -107,8 +107,17 @@ https://livevideo01.wgrz.com/hls/live/2016286/elvs/live.m3u8
 https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
 
 
+
+
 #EXTINF:-1 type="audio" channelId="-1" name="Onda Cero" group="Radio" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/330px-Onda_Cero_logo.svg.png", Onda Cero Nacional
 https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+
+#EXTINF:-1 type="audio" channelId="-1" name="Onda Cero" group="Radio" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/330px-Onda_Cero_logo.svg.png", Onda Cero Nacional
+https://ondacero.es
+
+
+#EXTINF:-1 type="audio" channelId="-1" name="Onda Cero" group="Radio" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/330px-Onda_Cero_logo.svg.png", Onda Cero Nacional
+https://ondacero.es
 
 #EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
