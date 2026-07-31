@@ -107,7 +107,8 @@ https://livevideo01.wgrz.com/hls/live/2016286/elvs/live.m3u8
 https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
 
 
-
+#EXTINF:-1 type="audio" channelId="-1" name="Onda Cero" group="Radio" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Onda_Cero_logo.svg/330px-Onda_Cero_logo.svg.png", Onda Cero Nacional
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" name="esRadio" group="NEWS" logo="https://graph.facebook.com/esradio/picture?width=200&height=200", esRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
@@ -117,8 +118,6 @@ https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
 
 #EXTINF:-1 type="audio" channelId="-1" name="Radio Intereconomía" group="Radio" logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200", Radio Intereconomía
 https://streaming.intereconomia.com/siliconorg
-
-
 
 
 #EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
