@@ -118,16 +118,18 @@ https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
 #EXTINF:-1 type="favorites" channelId="-1" name="Radio Intereconomía" group="Radio" logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200", Radio Intereconomía
 https://streaming.intereconomia.com/siliconorg
 
-#EXTINF:-1,Radio Intereconomía 1
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200" group-title="Radio",Radio Intereconomía (1)
+https://streaming.intereconomia.com/siliconorg
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200" group-title="Radio",Radio Intereconomía (2)
 https://streaming.intereconomia.com/siliconorg/
 
-#EXTINF:-1,Radio Intereconomía 2
-https://streaming.intereconomia.com/siliconorg.mp3
-
-#EXTINF:-1,Radio Intereconomía 3
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200" group-title="Radio",Radio Intereconomía (3)
 http://streaming.intereconomia.com/siliconorg
-
 #EXTINF:-1,Radio Intereconomía 4
+http://streaming.intereconomia.com/siliconorg/
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200" group-title="Radio",Radio Intereconomía (4)
 http://streaming.intereconomia.com/siliconorg/
 
 #EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
