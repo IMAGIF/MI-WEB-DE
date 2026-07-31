@@ -115,8 +115,9 @@ https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.m
 #EXTINF:0 type="favorites" channelId="-1" name="COPE A Coruña" group="Radio_Galicia" logo="https://graph.facebook.com/COPE/picture?width=200&height=200", COPE A Coruña
 https://wecast19-h-cloud.flumotion.com/copesedes/lacoruna.mp3
 
-#EXTINF:0 type="favorites" group="Noticias" logo="https://tse1.mm.bing.net/th/id/OIP.3rq8_5ns2fOS0JGbdTEdDQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3", Radio Intereconomía
-https://intereconomia.com
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200" group-title="Radio", Radio Intereconomía
+#EXTVLCOPT:demux=rawaud
+https://streaming.intereconomia.com/siliconorg
 
 #EXTINF:0 type="stream" channelId="-1" name="Vaughan Radio" group="NEWS" logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200", Vaughan Radio
 https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
