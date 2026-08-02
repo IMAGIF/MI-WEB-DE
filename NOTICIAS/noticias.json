@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-02T21:58:56.481235+00:00",
+  "actualizado": "2026-08-02T23:02:57.018610+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -34,14 +34,14 @@
         "titulo": "Marruecos se presenta como un socio \"fiable\" y culpa a mafias y redes sociales de lo ocurrido en Ceuta",
         "enlace": "https://www.elconfidencial.com/espana/2026-08-02/crisis-migratoria-ceuta-melilla-frontera-1hms_4399860/",
         "desc": "Rabat indica que la fiscalía competente ha abierto investigaciones judiciales sobre todos los hechos relacionados con estos sucesos para determinar las circunstancias",
-        "fecha": "2026-08-02T21:58:59.061880+00:00",
+        "fecha": "2026-08-02T23:02:58.589360+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Desvelan cinco posibles candidatos a sustituir a Infantino como presidente de la FIFA",
-        "enlace": "https://okdiario.com/deportes/desvelan-cinco-posibles-candidatos-sustituir-infantino-como-presidente-fifa-19114158",
-        "desc": "Gianni Infantino está viviendo sus días más complicados como presidente de la FIFA. El dirigente suizo se ha visto obligado a dar marcha atrás en su proyecto de privatización del M…",
-        "fecha": "2026-08-02T23:42:22+02:00",
+        "titulo": "Protestas en Valencia y Alicante contra la gestión de Sánchez en Marruecos: «¡España cristiana y no musulmana!»",
+        "enlace": "https://okdiario.com/comunidad-valenciana/protestas-valencia-alicante-contra-gestion-sanchez-marruecos-espana-cristiana-no-musulmana-19107844",
+        "desc": "La indignación por la crisis migratoria y la entrada masiva de miles de ilegales a Ceuta ha generado este domingo movilizaciones en la Comunidad Valenciana. En concreto, en las dos…",
+        "fecha": "2026-08-03T00:53:45+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -75,10 +75,10 @@
     ],
     "nacional_us": [
       {
-        "titulo": "Off-duty trooper and armed citizen hailed as heroes after returning fire on In-N-Out gunman",
-        "enlace": "https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound",
-        "desc": "Police identified Chad Williams as the suspect in the Twin Falls, Idaho, In-N-Out Burger shooting that left three people dead and seven others injured.",
-        "fecha": "2026-08-02T16:34:34-04:00",
+        "titulo": "Spencer Pratt reacts to Spokane devastation with blunt wildfire warning and message of faith",
+        "enlace": "https://www.foxnews.com/us/spencer-pratt-reacts-spokane-devastation-blunt-wildfire-warning-message-faith",
+        "desc": "Spencer Pratt urges families not to wait for disaster after Spokane wildfire evacuation displaces thousands, drawing on his Palisades Fire experience.",
+        "fecha": "2026-08-02T18:08:12-04:00",
         "fuente": "Fox News"
       },
       {
@@ -89,10 +89,10 @@
         "fuente": "NPR"
       },
       {
-        "titulo": "Hero sheepdog becomes unlikely rescue partner after unexpected move aids first responders",
-        "enlace": "https://www.foxnews.com/us/hero-sheepdog-becomes-unlikely-rescue-partner-unexpected-move-aids-first-responders",
-        "desc": "Drone video captures a sheepdog herding goats away from an emergency helicopter landing zone in Laguna Beach, earning praise as an honorary responder.",
-        "fecha": "2026-08-02T15:12:07-04:00",
+        "titulo": "Off-duty trooper and armed citizen hailed as heroes after returning fire on In-N-Out gunman",
+        "enlace": "https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound",
+        "desc": "Police identified Chad Williams as the suspect in the Twin Falls, Idaho, In-N-Out Burger shooting that left three people dead and seven others injured.",
+        "fecha": "2026-08-02T16:34:34-04:00",
         "fuente": "Fox News"
       },
       {
@@ -106,6 +106,20 @@
     "nacional_mx": [],
     "nacional_ar": [
       {
+        "titulo": "Iban a un encuentro de motos y chocaron contra un camión bitren: dos muertos y dos heridos",
+        "enlace": "https://www.clarin.com/sociedad/iban-encuentro-motos-chocaron-camion-bitren-muertos-heridos_0_2ZrDOf310y.html",
+        "desc": "Ocurrió en el kilómetro 722 de la ruta nacional 14, cerca de Gobernador Virasoro, en Corrientes. Las víctimas impactaron contra el acoplado, que se habría desprendido. Otra hipótes…",
+        "fecha": "2026-08-02T21:54:41+00:00",
+        "fuente": "Clarín"
+      },
+      {
+        "titulo": "River vs. Rosario Central, en vivo por el torneo Clausura: minuto a minuto del partido",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/river-vs-rosario-central-en-vivo-nid02082026/",
+        "desc": "Se enfrentan en el Monumental por la tercera fecha; el Millonario busca salir del fondo",
+        "fecha": "2026-08-02T22:57:12+00:00",
+        "fuente": "La Nación"
+      },
+      {
         "titulo": "Femicidio en Mar del Plata: la familia de Mailén sospecha que el remisero que la llevó a la entrevista pudo haber sido el entregador",
         "enlace": "https://www.clarin.com/sociedad/femicidio-mar-plata-familia-mailen-sospecha-remisero-llevo-entrevista-pudo-entregador_0_Or7e2tj9KD.html",
         "desc": "El tío de la víctima reveló que su sobrina mantenía una relación sentimental con el hombre que la trasladó a la supuesta entrevista de trabajo. El hombre mostró los mensajes que in…",
@@ -113,24 +127,10 @@
         "fuente": "Clarín"
       },
       {
-        "titulo": "River vs. Rosario Central, en vivo por el torneo Clausura: horario, TV y formaciones",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/river-vs-rosario-central-en-vivo-nid02082026/",
-        "desc": "Se enfrentan en el Monumental por la tercera fecha; el Millonario busca salir del fondo",
-        "fecha": "2026-08-02T21:49:09+00:00",
-        "fuente": "La Nación"
-      },
-      {
-        "titulo": "Polémica en Rosario: la mano de Di Lollo que hizo estallar al Coloso y desató el reclamo de todo Newell's vs Boca",
-        "enlace": "https://www.clarin.com/deportes/polemica-rosario-mano-di-lollo-hizo-estallar-coloso-desato-reclamo-newells-vs-boca_0_pWOeNrvaRi.html",
-        "desc": "La Lepra pidió penal sobre el cierre del primer tiempo, pero el árbitro Merlos y el VAR no intervinieron. En el complemento, Newell's reaccionó, lo empató con Cóccaro y terminó dán…",
-        "fecha": "2026-08-02T21:34:40+00:00",
-        "fuente": "Clarín"
-      },
-      {
-        "titulo": "Una bomba explotó en un exclusivo restaurante de Moscú: se reportaron cinco muertos y más de 20 heridos",
-        "enlace": "https://www.lanacion.com.ar/el-mundo/una-bomba-exploto-en-un-exclusivo-restaurante-de-moscu-se-reportaron-al-menos-tres-muertos-y-21-nid01082026/",
-        "desc": "El artefacto explosivo casero fue detonado en el local italiano de lujo en el centro de la ciudad rusa; está situado en uno de los siete rascacielos de la época de Stalin",
-        "fecha": "2026-08-02T21:39:10+00:00",
+        "titulo": "Boca no escapa de su ciclotimia: le hicieron otro gol de lateral y, por eso, no pudo ganarle a Newell’s",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/boca-no-escapa-de-su-ciclotimia-le-hicieron-otro-gol-de-lateral-y-por-eso-no-pudo-ganarle-a-newells-nid02082026/",
+        "desc": "El equipo de Arruabarrena empató 2-2, rescató cosas positivas en los niveles de Flores y Gorosito y en los goles de Ascacibar y Velasco, pero no logra encontrar solidez",
+        "fecha": "2026-08-02T22:55:29+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -188,10 +188,10 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Krieg gegen die Ukraine: Russland und Ukraine melden 14 Tote binnen eines Tages",
-        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-        "desc": "Am Sonntag sind fünf Menschen in der Ukraine bei Angriffen gestorben, in Russland neun. EU-Inspekteure haben einen sanktionierten Tanker geentert. Das Liveblog",
-        "fecha": "2026-08-02T21:18:19",
+        "titulo": "Cyberkriminalität: Hacker stehlen Zehntausende Daten von Regierung in Liechtenstein",
+        "enlace": "https://www.zeit.de/digital/datenschutz/2026-08/hackerangriff-liechtenstein-daten-klau-verzeichnis-geldwaesche-terrorfinanzierung",
+        "desc": "Das Fürstentum Liechtenstein ist Opfer eines Cyberangriffs geworden. Unbekannte haben die Daten von 31.000 Personen aus einem Verzeichnis gegen Geldwäsche geraubt.",
+        "fecha": "2026-08-02T22:31:57",
         "fuente": "Die Zeit"
       },
       {
@@ -202,10 +202,10 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Irankrieg: Iran widerspricht Trumps Darstellung einer Bitte um Waffenruhe",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-        "desc": "Laut dem iranischen Militär hat die Regierung Donald Trump nicht um ein Aussetzen weiterer Angriffe gebeten. Man befinde sich weiter in Alarmbereitschaft. Das Liveblog",
-        "fecha": "2026-08-02T20:09:35",
+        "titulo": "Krieg gegen die Ukraine: Russland und Ukraine melden 14 Tote binnen eines Tages",
+        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "desc": "Am Sonntag sind fünf Menschen in der Ukraine bei Angriffen gestorben, in Russland neun. EU-Inspekteure haben einen sanktionierten Tanker geentert. Das Liveblog",
+        "fecha": "2026-08-02T22:28:26",
         "fuente": "Die Zeit"
       }
     ],
@@ -264,10 +264,10 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Mais de 27 mil bombeiros combatem as chamas nos EUA",
-        "enlace": "https://observador.pt/2026/08/02/mais-de-27-mil-bombeiros-combatem-as-chamas-nos-eua-estado-de-washington-declara-emergencia/",
-        "desc": "Centro Nacional Interagências de Combate a Incêndios calcula que existem 99 incêndios de grande escala ativos. Operacionais no terreno mobilizam 1.715 veículos terrestres e 212 hel…",
-        "fecha": "2026-08-02T22:22:01+01:00",
+        "titulo": "Portugal precisa de pensar grande, para executar!",
+        "enlace": "https://observador.pt/opiniao/portugal-precisa-de-pensar-grande-para-executar/",
+        "desc": "Pensar grande não significa construir tudo, a qualquer preço! Significa definir um rumo, escolher prioridades e executar aquilo que apresenta maior benefício econ´mico, social e de…",
+        "fecha": "2026-08-03T00:01:40+01:00",
         "fuente": "Observador"
       },
       {
@@ -278,56 +278,56 @@
         "fuente": "Público"
       },
       {
-        "titulo": "22h. Marrocos atribui crise migratória às redes sociais",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1840/",
-        "desc": "Em comunicado, Ministério do Interior Marroquino reconhece que 40.000 pessoas atravessaram a fronteira em direção a Ceuta. Ainda, pelo menos 14 pessoas morreram num ataque suicida …",
-        "fecha": "2026-08-02T22:14:48+01:00",
+        "titulo": "Lucros da BMW caem 35% o que provoca o despedimento de 8000",
+        "enlace": "https://observador.pt/2026/08/02/lucros-da-bmw-caem-35-o-que-provoca-o-despedimento-de-8000/",
+        "desc": "O futuro não está risonho para a BMW que, prejudicada pela quebra das vendas, viu os lucros cair mais de um terço no segundo trimestre. A solução anunciada passa por cortar 8000 po…",
+        "fecha": "2026-08-02T23:58:32+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Vermelho divide espaço com estampa de onça, broches e chapéu Panamá em convenção de Lula",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/vermelho-divide-espaco-com-estampa-de-onca-broches-e-chapeu-panama-em-convencao-de-lula.shtml",
-        "desc": "Apoiadores do presidente Lula ( PT ) apelaram para a criatividade no uso de diferentes tons de vermelho no lançamento da candidatura do petista à reeleição , neste domingo (2), na …",
-        "fecha": "2026-08-02T18:03:00-03:00",
+        "titulo": "Flávio Bolsonaro acena ao Nordeste e defende Bolsa Família em dia de convenção de Lula",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-acena-ao-nordeste-e-defende-bolsa-familia-em-dia-de-convencao-de-lula.shtml",
+        "desc": "O candidato à Presidência da República Flávio Bolsonaro (PL) afirmou que \"o Nordeste é a solução do Brasil\" ao participar, neste domingo (2), de convenção do Partido Liberal em Joã…",
+        "fecha": "2026-08-02T19:24:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Duas pessoas morrem em acidente de trânsito no Sul de Minas neste domingo",
-        "enlace": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/02/ocorrencias-de-transito-agosto-sul-de-minas.ghtml",
-        "desc": "Fernão Dias deve receber mais de 4 milhões de veículos no fim do ano Reprodução EPTV Duas pessoas morreram em acidentes de trânsito neste domingo (2), no Sul de Minas. Os casos aco…",
-        "fecha": "2026-08-02T21:51:01",
+        "titulo": "Amazônia Agro de domingo, 02 de agosto de 2026",
+        "enlace": "https://g1.globo.com/am/amazonas/amazonia-agro/playlist/amazonia-agro-de-domingo-02-de-agosto-de-2026.ghtml",
+        "desc": "Veja a íntegra.",
+        "fecha": "2026-08-02T22:51:35",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Paulinho da Força reage a crítica de Lula e diz que ele 'está gagá'",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/paulinho-da-forca-reage-a-critica-de-lula-e-diz-que-ele-esta-gaga.shtml",
-        "desc": "O deputado federal e presidente do Solidariedade , Paulinho da Força , reagiu à fala do presidente Lula ( PT ) que o acusou de ter apoiado a Reforma Trabalhista aprovada no governo…",
-        "fecha": "2026-08-02T18:00:00-03:00",
+        "titulo": "Michelle é anunciada pelo PL para disputar Senado, mas frustra expectativa de ato público com Flávio",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/pl-oficializa-michelle-bolsonaro-como-candidata-ao-senado-pelo-df.shtml",
+        "desc": "A ex-primeira-dama Michelle Bolsonaro ( PL ) foi oficializada pré-candidata ao Senado pelo Distrito Federal em convenção em Brasília neste domingo (2). Ela, contudo, não participou…",
+        "fecha": "2026-08-02T19:13:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Corpo é encontrado com sinais de violência em estrada de terra de Mogi Mirim",
-        "enlace": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/02/corpo-e-encontrado-com-sinais-de-violencia-em-estrada-de-terra-de-mogi-mirim.ghtml",
-        "desc": "Corpo é encontrado com sinais de violência em estrada de terra de Mogi Mirim Guarda Municipal Um corpo foi encontrado na manhã deste domingo (2) em uma estrada de terra no Distrito…",
-        "fecha": "2026-08-02T21:47:37",
+        "titulo": "Podemos oficializa 149 candidatos em convenção em SP e sinaliza lançar nome para disputar Senado",
+        "enlace": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/02/podemos-oficializa-149-candidatos-em-convencao-em-sp-e-sinaliza-lancar-nome-para-disputar-senado.ghtml",
+        "desc": "Convenção estadual do Podemos em SP Divulgação O Podemos realizou na manhã deste domingo (2), na capital paulista, sua convenção estadual e mais um nome surgiu para disputar as ele…",
+        "fecha": "2026-08-02T22:39:43",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Japan Times 2001: Koizumi visits Yasukuni early",
-        "enlace": "https://www.japantimes.co.jp/news/2026/08/03/japan/history/august-japan-history-1926-1976/",
-        "desc": "Additionally, our archives feature more coverage on the Lockheed scandal and the creation of NHK.",
-        "fecha": "2026-08-03T04:51:00+09:00",
+        "titulo": "Trump holds off Iran strikes on pledge Hormuz deal is close",
+        "enlace": "https://www.japantimes.co.jp/news/2026/08/03/world/politics/trump-iran-strikes-hormuz-deal/",
+        "desc": "The announcement marks a moment of potential respite after days of escalating tensions.",
+        "fecha": "2026-08-03T07:18:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "Japan Lower House to install security cameras in Diet building",
-        "enlace": "https://www.japantimes.co.jp/news/2026/08/02/japan/politics/lower-house-security-cameras/",
-        "desc": "The plan has been considered partly in response to an incident in which a government employee secretly filmed a woman in a Diet building restroom in 2021.",
-        "fecha": "2026-08-02T21:45:00+09:00",
+        "titulo": "For Japan’s aging homeless people, brutal summers are dangerously inescapable",
+        "enlace": "https://www.japantimes.co.jp/environment/2026/08/03/climate-change/homeless-people-japan-heat/",
+        "desc": "At a time when temperatures are regularly reaching dangerous levels, people without homes are increasingly vulnerable to heatstroke.",
+        "fecha": "2026-08-03T07:00:00+09:00",
         "fuente": "Japan Times"
       }
     ],
@@ -340,17 +340,17 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Arranca el diálogo teledirigido entre el chavismo y parte de la oposición venezolana",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/01/6a6e449afdddffca358b4580.html",
-        "desc": "La primera conversación telefónica entre Jorge Rodríguez y Dinorah Figuera da comienzo a las negociaciones tuteladas por EEUU&nbsp; Leer",
-        "fecha": "2026-08-02T00:23:14+02:00",
+        "titulo": "Los tiempos, el factor clave para el proceso negociador tutelado por Washington para Venezuela",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/03/6a6f6d00e85ece3a5d8b4590.html",
+        "desc": "La complejidad forzó a que el primer encuentro fuera telemático, pero sigue el camino con \"una agenda aprobada, prioridades y reglas del juego claras\", confirman fuentes opositoras…",
+        "fecha": "2026-08-03T00:12:43+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Seis muertos y 30 heridos en una colisión entre un autobús y una autocaravana en Italia",
         "enlace": "https://www.elconfidencial.com/mundo/europa/2026-08-02/accidente-autobus-autocaravana-rieti-italia-1tps_4399836/",
         "desc": "El accidente se produjo en el límite con Umbría cuando el autobús, que se dirigía hacia Terni, impactó frontalmente con una autocaravana que circulaba en sentido contrario, desenca…",
-        "fecha": "2026-08-02T21:59:31.390084+00:00",
+        "fecha": "2026-08-02T23:03:26.201287+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -368,7 +368,7 @@
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Dos tripulantes mueren al chocar helicópteros de extinción de incendios en Grecia, mientras el piloto británico sobrevive",
+        "titulo": "Dos tripulantes mueren tras chocar helicópteros de extinción de incendios en Grecia, mientras el piloto británico sobrevive",
         "enlace": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "desc": "Un danés y un griego murieron en el incidente, mientras que un piloto británico y otro miembro de la tripulación griego sobrevivieron.",
         "fecha": "2026-08-02T20:36:37+00:00",
@@ -389,17 +389,17 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "La odisea de María Corina Machado",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/02/6a6e0109e4d4d8f52a8b45ab.html",
-        "desc": "&nbsp; Leer",
-        "fecha": "2026-08-02T02:37:07+02:00",
+        "titulo": "Cinco muertos en un atentado dirigido contra un general vinculado a la matanza de Bucha",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/02/6a6f3715fdddff83028b458e.html",
+        "desc": "La hija del mando militar ruso Alexander Chayko, a quien iba dirigido el paquete, está entre los heridos graves. En la lista de víctimas figura el marido de ésta&nbsp; Leer",
+        "fecha": "2026-08-02T20:29:41+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Muerte a las puertas de Ceuta: una joven promesa del fútbol marroquí, entre las víctimas ahogadas en Tarajal",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-02/muerte-a-las-puertas-de-ceuta-una-joven-promesa-del-futbol-marroqui_4399733/",
         "desc": "La joven Faten Ben Omar el Azizi, de 20 años, murió mientras intentaba cruzar a nado a España. Su cuerpo es uno de los once recuperados por Marruecos. España ha recuperado 72",
-        "fecha": "2026-08-02T21:59:31.390128+00:00",
+        "fecha": "2026-08-02T23:03:26.201338+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -419,24 +419,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Brazil's Lula, 80, says he is 'in great shape' as he launches fourth term bid",
-        "enlace": "https://www.france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid",
-        "desc": "Brazil's Workers' Party on Sunday formally endorsed President Luiz Inácio Lula da Silva for what is expected to be his final reelection bid, setting up an October election increasi…",
-        "fecha": "2026-08-02T17:26:01+00:00",
+        "titulo": "Live: Trump says new talks with Iran to begin Monday after calling off strikes",
+        "enlace": "https://www.france24.com/en/middle-east/20260802-live-trump-says-new-talks-with-iran-to-begin-monday-after-calling-off-strikes",
+        "desc": "US President Donald Trump said that negotiations with Iran will begin Monday after he decided to hold off on new strikes against the Islamic republic to pursue a deal. Read our liv…",
+        "fecha": "2026-08-02T22:11:19+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Michael Thorbjornsen’s new girlfriend Charley steals spotlight during Rocket Classic surge",
-        "enlace": "https://nypost.com/2026/08/02/sports/michael-thorbjornsens-girlfriend-turns-heads-during-rocket-classic/",
-        "desc": "American golfer Michael Thorbjornsen is producing a stellar final round at the Rocket Classic, which is putting his new girlfriend, Charley, in the spotlight.",
-        "fecha": "2026-08-02T17:55:54-04:00",
+        "titulo": "Pat Ricard knows every last aspect of what John Harbaugh brings to Giants: ‘Have to be on your toes’",
+        "enlace": "https://nypost.com/2026/08/02/sports/pat-ricard-knows-better-than-anyone-what-john-harbaugh-brings-giants/",
+        "desc": "For the best insight into the John Harbaugh Way, you turn to the Giant who knows him best.",
+        "fecha": "2026-08-02T18:59:47-04:00",
         "fuente": "New York Post"
       },
       {
         "titulo": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
         "enlace": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-all-1573-rdf",
         "desc": "A suicide bomber has killed over a dozen people including police in an attack during a demonstration of citizens against militancy. More than 18 people were injured in the attack.",
-        "fecha": "2026-08-02T21:59:36.441364+00:00",
+        "fecha": "2026-08-02T23:03:29.703633+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,10 +447,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Mich. says water systems targeted in cyberattacks, FBI receives reports from multiple states",
-        "enlace": "https://www.oann.com/newsroom/mich-says-water-systems-targeted-in-cyberattacks-fbi-receives-reports-from-multiple-states/",
-        "desc": "Michigan reported cyberattacks targeting nine of the state's water systems following Minnesota's earlier report that more than 30 water systems had been targeted, while the Federal…",
-        "fecha": "2026-08-02T19:59:23+00:00",
+        "titulo": "S.C.: Darline Graham touts Trump’s agenda in political speech ahead of special Senate primary",
+        "enlace": "https://www.oann.com/newsroom/s-c-darline-graham-touts-trumps-agenda-in-political-speech-ahead-of-special-senate-primary/",
+        "desc": "Facing a tight one-week deadline to win over South Carolina Republicans, United States Senator Darline Graham made her first campaign speech, sharing with hundreds of voters that e…",
+        "fecha": "2026-08-02T22:42:23+00:00",
         "fuente": "OAN"
       },
       {
@@ -468,10 +468,10 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Wiebes wins second consecutive Tour de France Femmes stage",
-        "enlace": "https://www.france24.com/en/sport/20260802-wiebes-wins-second-consecutive-tour-de-france-femmes-stage",
-        "desc": "Lorena Wiebes underlined her dominance at the Tour de France Femmes on Sunday, powering to a second straight sprint victory in Geneva to tighten her grip on the race leader's yello…",
-        "fecha": "2026-08-02T16:34:20+00:00",
+        "titulo": "Brazil's Lula, 80, says he is 'in great shape' as he launches fourth term bid",
+        "enlace": "https://www.france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid",
+        "desc": "Brazil's Workers' Party on Sunday formally endorsed President Luiz Inácio Lula da Silva for what is expected to be his final reelection bid, setting up an October election increasi…",
+        "fecha": "2026-08-02T17:26:01+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -491,10 +491,10 @@
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "René Sadi, ministre de la Communication du Cameroun: «Le président est en vie... Il n'y a aucune vacance du pouvoir !»",
-        "enlace": "https://www.rfi.fr/fr/afrique/20260802-ren%C3%A9-sadi-ministre-de-la-communication-du-cameroun-le-pr%C3%A9sident-est-en-vie-il-n-y-a-aucune-vacance-du-pouvoir",
-        "desc": "C'est une absence qui fait grand bruit au Cameroun : celle de Paul Biya. Le chef de l'État a quitté le pays depuis près de deux mois. Une absence prolongée du président qui suscite…",
-        "fecha": "2026-08-02T18:30:37+00:00",
+        "titulo": "Treize morts dans des frappes israéliennes sur Gaza au cours des dernières 24 heures",
+        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260802-treize-morts-dans-des-frappes-isra%C3%A9liennes-sur-gaza-au-cours-des-derni%C3%A8res-24-heures",
+        "desc": "De nouvelles frappes israéliennes à travers la bande de Gaza ont fait au moins 13 morts, a indiqué dimanche 2 août la Défense civile, quelques jours après l'annonce d'un accord sur…",
+        "fecha": "2026-08-02T16:10:11+00:00",
         "fuente": "RFI"
       },
       {
@@ -505,7 +505,7 @@
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Deux membres d'équipage tués après la collision d'hélicoptères de lutte contre les incendies en Grèce, alors qu'un pilote britannique survit",
+        "titulo": "Deux membres d'équipage tués après la collision d'hélicoptères de lutte contre les incendies en Grèce, tandis qu'un pilote britannique survit",
         "enlace": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "desc": "Un Danois et un Grec sont morts dans l'incident, tandis qu'un pilote britannique et un autre membre d'équipage grec ont survécu.",
         "fecha": "2026-08-02T20:36:37+00:00",
@@ -526,10 +526,10 @@
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Treize morts dans des frappes israéliennes sur Gaza au cours des dernières 24 heures",
-        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260802-treize-morts-dans-des-frappes-isra%C3%A9liennes-sur-gaza-au-cours-des-derni%C3%A8res-24-heures",
-        "desc": "De nouvelles frappes israéliennes à travers la bande de Gaza ont fait au moins 13 morts, a indiqué dimanche 2 août la Défense civile, quelques jours après l'annonce d'un accord sur…",
-        "fecha": "2026-08-02T16:10:11+00:00",
+        "titulo": "René Sadi, ministre de la Communication du Cameroun: «Le président est en vie... Il n'y a aucune vacance du pouvoir !»",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260802-ren%C3%A9-sadi-ministre-de-la-communication-du-cameroun-le-pr%C3%A9sident-est-en-vie-il-n-y-a-aucune-vacance-du-pouvoir",
+        "desc": "C'est une absence qui fait grand bruit au Cameroun : celle de Paul Biya. Le chef de l'État a quitté le pays depuis près de deux mois. Une absence prolongée du président qui suscite…",
+        "fecha": "2026-08-02T18:30:37+00:00",
         "fuente": "RFI"
       },
       {
@@ -559,7 +559,7 @@
         "titulo": "Von Petitionen zu Memes: Protest früher und heute",
         "enlace": "https://www.dw.com/de/von-petitionen-zu-memes-protest-früher-und-heute/a-78196191?maca=de-rss-de-all-1119-rdf",
         "desc": "Vom kaiserlichen China bis zum modernen Indien: Wie Protestbewegungen die Möglichkeiten und Symbole ihrer Zeit nutzen, um ihrem Widerstand Ausdruck zu verleihen.",
-        "fecha": "2026-08-02T21:59:39.924443+00:00",
+        "fecha": "2026-08-02T23:03:32.306575+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -587,7 +587,7 @@
         "titulo": "Tote bei Bombenanschlag auf Moskauer Edelrestaurant",
         "enlace": "https://www.dw.com/de/tote-bei-bombenanschlag-auf-moskauer-edelrestaurant/a-78207576?maca=de-rss-de-all-1119-rdf",
         "desc": "Berichten zufolge könnte die Attacke einer privaten Feier mit ranghohen Militärs gegolten haben. Unklar ist, ob die Frau, die den Sprengsatz trug, von der Bombe wusste. Die Ermittl…",
-        "fecha": "2026-08-02T21:59:39.924480+00:00",
+        "fecha": "2026-08-02T23:03:32.306617+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -644,24 +644,24 @@
       {
         "titulo": "Trump cancella gli attacchi contro l’Iran a condizione che l’accordo venga raggiunto “rapidamente”",
         "enlace": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "desc": "Il presidente degli Stati Uniti sostiene che l’Iran e altri paesi del Medio Oriente hanno chiesto a Washington di rinviare qualsiasi attacco poiché i “perimetri” di un accordo erano stati concordati.",
+        "desc": "Il presidente degli Stati Uniti sostiene che l’Iran e altri paesi del Medio Oriente hanno chiesto a Washington di rinviare qualsiasi attacco poiché i “perimetri” dell’accordo erano stati concordati.",
         "fecha": "2026-08-02T11:12:00+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "Chelsea anuncia Valentin Barco",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/chelsea-anuncia-valentin-barco_d1757348",
-        "desc": "O internacional argentino Valentin Barco é reforço do Chelsea, assinando pelos londrinos por sete temporadas, e passa a ser o segundo futebolista do Estrasburgo, depois de Emmanuel…",
-        "fecha": "2026-08-02T23:26:39+01:00",
+        "titulo": "23h Está em vigor Regulamento Europeu da Inteligência Artificial",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/23h-esta-em-vigor-regulamento-europeu-da-inteligencia-artificial_a1_1757349",
+        "desc": "",
+        "fecha": "2026-08-03T00:17:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Mais de 27 mil bombeiros combatem as chamas nos EUA",
-        "enlace": "https://observador.pt/2026/08/02/mais-de-27-mil-bombeiros-combatem-as-chamas-nos-eua-estado-de-washington-declara-emergencia/",
-        "desc": "Centro Nacional Interagências de Combate a Incêndios calcula que existem 99 incêndios de grande escala ativos. Operacionais no terreno mobilizam 1.715 veículos terrestres e 212 hel…",
-        "fecha": "2026-08-02T22:22:01+01:00",
+        "titulo": "Portugal precisa de pensar grande, para executar!",
+        "enlace": "https://observador.pt/opiniao/portugal-precisa-de-pensar-grande-para-executar/",
+        "desc": "Pensar grande não significa construir tudo, a qualquer preço! Significa definir um rumo, escolher prioridades e executar aquilo que apresenta maior benefício econ´mico, social e de…",
+        "fecha": "2026-08-03T00:01:40+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,17 +672,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "22h Marrocos responsabiliza redes sociais por crise migratória",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/22h-marrocos-responsabiliza-redes-sociais-por-crise-migratoria_a1_1757347",
-        "desc": "",
-        "fecha": "2026-08-02T23:26:02+01:00",
+        "titulo": "Chelsea anuncia Valentin Barco",
+        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/chelsea-anuncia-valentin-barco_d1757348",
+        "desc": "O internacional argentino Valentin Barco é reforço do Chelsea, assinando pelos londrinos por sete temporadas, e passa a ser o segundo futebolista do Estrasburgo, depois de Emmanuel…",
+        "fecha": "2026-08-02T23:26:39+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "22h. Marrocos atribui crise migratória às redes sociais",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1840/",
-        "desc": "Em comunicado, Ministério do Interior Marroquino reconhece que 40.000 pessoas atravessaram a fronteira em direção a Ceuta. Ainda, pelo menos 14 pessoas morreram num ataque suicida …",
-        "fecha": "2026-08-02T22:14:48+01:00",
+        "titulo": "Lucros da BMW caem 35% o que provoca o despedimento de 8000",
+        "enlace": "https://observador.pt/2026/08/02/lucros-da-bmw-caem-35-o-que-provoca-o-despedimento-de-8000/",
+        "desc": "O futuro não está risonho para a BMW que, prejudicada pela quebra das vendas, viu os lucros cair mais de um terço no segundo trimestre. A solução anunciada passa por cortar 8000 po…",
+        "fecha": "2026-08-02T23:58:32+01:00",
         "fuente": "Observador"
       },
       {
@@ -760,10 +760,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "'Missed opportunity' for Hull and Woad for maiden major win",
-        "enlace": "https://www.skysports.com/golf/news/12040/13569222/charley-hull-and-lottie-woad-will-see-aig-womens-open-final-round-as-missed-opportunity-in-bid-for-maiden-major-title",
-        "desc": "Charley Hull and Lottie Woad will be left cursing a \"missed opportunity\" to claim a maiden major win at the AIG Women's Open, according to Dame Laura Davies.",
-        "fecha": "2026-08-02T18:00:00",
+        "titulo": "Liverpool collapse as Leeds come from 2-0 down to win",
+        "enlace": "https://www.skysports.com/football/liverpool-vs-leeds-united/report/554987",
+        "desc": "Liverpool threw away a two-goal lead in spectacular fashion as Leeds won the final match of both teams' United States tour 4-2.",
+        "fecha": "2026-08-02T20:04:00",
         "fuente": "Sky Sports"
       },
       {
@@ -774,10 +774,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Blue Bolt confirms superiority over Precise at Deauville",
-        "enlace": "https://www.skysports.com/racing/news/12040/13569200/prix-rothschild-blue-bolt-confirms-superiority-over-precise-in-deauville-group-1",
-        "desc": "Blue Bolt continued her faultless campaign with victory in the Prix Rothschild at Deauville.",
-        "fecha": "2026-08-02T16:28:00",
+        "titulo": "'Missed opportunity' for Hull and Woad for maiden major win",
+        "enlace": "https://www.skysports.com/golf/news/12040/13569222/charley-hull-and-lottie-woad-will-see-aig-womens-open-final-round-as-missed-opportunity-in-bid-for-maiden-major-title",
+        "desc": "Charley Hull and Lottie Woad will be left cursing a \"missed opportunity\" to claim a maiden major win at the AIG Women's Open, according to Dame Laura Davies.",
+        "fecha": "2026-08-02T18:00:00",
         "fuente": "Sky Sports"
       }
     ],
@@ -802,7 +802,7 @@
         "titulo": "Aleksander Ceferin: Europas Gegenspieler der FIFA",
         "enlace": "https://www.dw.com/de/aleksander-ceferin-europas-gegenspieler-der-fifa/a-78189625?maca=de-rss-de-sport-4020-rdf",
         "desc": "Aleksander Ceferin gilt als wichtigster Gegenspieler von FIFA-Präsident Gianni Infantino. Im Streit um die Investorenpläne der FIFA hat der UEFA-Präsident Europas Fußballverbände g…",
-        "fecha": "2026-08-02T21:59:55.274900+00:00",
+        "fecha": "2026-08-02T23:03:43.843896+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,7 +816,7 @@
         "titulo": "Private Investoren für die WM: Geht die FIFA zu weit?",
         "enlace": "https://www.dw.com/de/private-investoren-für-die-wm-geht-die-fifa-zu-weit/a-78172197?maca=de-rss-de-sport-4020-rdf",
         "desc": "Mit dem Plan, Anteile am WM-Geschäft an private Investoren zu verkaufen, hat die FIFA heftige Kritik auf sich gezogen. Unter Gianni Infantino setzt sie immer stärker auf Einnahmen.…",
-        "fecha": "2026-08-02T21:59:55.274943+00:00",
+        "fecha": "2026-08-02T23:03:43.843942+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -829,7 +829,7 @@
     ],
     "deportes_it": [
       {
-        "titulo": "\"Nessuna garanzia\": la gioiosa Glasgow non può fugare tutti i dubbi del Commonwealth",
+        "titulo": "\"Nessuna garanzia\": la gioiosa Glasgow non può dissipare tutti i dubbi del Commonwealth",
         "enlace": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
         "desc": "Glasgow 2026 è stato un gioioso successo in isolamento, ma rimangono domande e dubbi sul futuro dei Giochi del Commonwealth.",
         "fecha": "2026-08-02T21:45:22+00:00",
@@ -870,7 +870,7 @@
         "titulo": "Corrección del autor: Membranas conductoras de aniones a base de cucurbituril con nanoporos supramoleculares",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Naturaleza, Publicado en línea: 31 de julio de 2026; doi:10.1038/s41586-026-10921-w Corrección del autor: Membranas conductoras de aniones a base de cucurbituril con nanoporos supramoleculares",
-        "fecha": "2026-08-02T22:00:10.206423+00:00",
+        "fecha": "2026-08-02T23:03:56.486011+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -905,7 +905,7 @@
         "titulo": "Charla informativa: las orcas destrozaron un pez luna; los investigadores no están seguros de por qué",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Naturaleza, Publicado en línea: 31 de julio de 2026; doi:10.1038/d41586-026-02419-2 El personal de Nature analiza un estudio masivo de insectos en el Amazonas y el comportamiento inusual de las orcas captado en video.",
-        "fecha": "2026-08-02T22:00:10.206465+00:00",
+        "fecha": "2026-08-02T23:03:56.486060+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -921,7 +921,7 @@
         "titulo": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Nature, Published online: 31 July 2026; doi:10.1038/s41586-026-10921-w Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-        "fecha": "2026-08-02T22:00:11.643776+00:00",
+        "fecha": "2026-08-02T23:03:58.902530+00:00",
         "fuente": "Nature"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02419-2 Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video.",
-        "fecha": "2026-08-02T22:00:11.643815+00:00",
+        "fecha": "2026-08-02T23:03:58.902575+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "Correction de l'auteur : Membranes conductrices d'anions à base de cucurbituril avec nanopores supramoléculaires",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Nature, Mise en ligne : 31 juillet 2026 ; doi:10.1038/s41586-026-10921-w Correction de l'auteur : Membranes conductrices d'anions à base de cucurbituril avec nanopores supramoléculaires",
-        "fecha": "2026-08-02T22:00:17.370170+00:00",
+        "fecha": "2026-08-02T23:04:02.418156+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Discussion d'information : des orques ont brisé un crapet en morceaux – les chercheurs ne savent pas pourquoi",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Nature, Mise en ligne : 31 juillet 2026 ; est ce que je:10.1038/d41586-026-02419-2 Le personnel de Nature discute d'une étude massive des insectes en Amazonie et du comportement inhabituel des orques filmé.",
-        "fecha": "2026-08-02T22:00:17.370211+00:00",
+        "fecha": "2026-08-02T23:04:02.418203+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "Übergewicht erhöht Krebsrisiko stärker als gedacht",
         "enlace": "https://www.dw.com/de/übergewicht-erhöht-krebsrisiko-stärker-als-gedacht/a-78146995?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Eine neue Studie zeigt: Übergewicht könnte für deutlich mehr Krebsfälle verantwortlich sein als bisher angenommen. Besonders Bauchfett erhöht das Krebsrisiko - vor allem bei Frauen…",
-        "fecha": "2026-08-02T22:00:19.170072+00:00",
+        "fecha": "2026-08-02T23:04:05.802735+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Anionenleitende Membranen auf Cucurbituril-Basis mit supramolekularen Nanoporen",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Natur, Online veröffentlicht: 31. Juli 2026; doi:10.1038/s41586-026-10921-w Autorenkorrektur: Anionenleitende Membranen auf Cucurbituril-Basis mit supramolekularen Nanoporen",
-        "fecha": "2026-08-02T22:00:19.321328+00:00",
+        "fecha": "2026-08-02T23:04:05.940637+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Deutschland: Mehr Hitze und mehr Klimawandelskepsis?",
         "enlace": "https://www.dw.com/de/deutschland-mehr-hitze-und-mehr-klimawandelskepsis/a-78100214?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "98 Prozent der aktiven Klimaforschenden sagen: Der Klimawandel passiert und er ist menschengemacht. Laut einer neuen Studie ist die Zahl der Klimawandelskeptiker in Deutschland all…",
-        "fecha": "2026-08-02T22:00:19.170118+00:00",
+        "fecha": "2026-08-02T23:04:05.802777+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Briefing-Chat: Orcas haben einen Mondfisch in Stücke gerissen – Forscher sind sich nicht sicher, warum",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Natur, Online veröffentlicht: 31. Juli 2026; doi:10.1038/d41586-026-02419-2 Nature-Mitarbeiter diskutieren über eine umfangreiche Untersuchung von Insekten im Amazonasgebiet und ungewöhnliches Verhalten von Orcas, das auf Video festgehalten wurde.",
-        "fecha": "2026-08-02T22:00:19.321369+00:00",
+        "fecha": "2026-08-02T23:04:05.940684+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,23 +1053,23 @@
         "titulo": "Correzione dell'autore: membrane conduttrici di anioni a base di cucurbiturile con nanopori supramolecolari",
         "enlace": "https://www.nature.com/articles/s41586-026-10921-w",
         "desc": "Natura, Pubblicato online: 31 luglio 2026; doi:10.1038/s41586-026-10921-w Correzione dell'autore: membrane conduttrici di anioni a base di cucurbiturile con nanopori supramolecolari",
-        "fecha": "2026-08-02T22:00:21.332611+00:00",
+        "fecha": "2026-08-02T23:04:10.011853+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Briefing Chat: le orche hanno fatto a pezzi un pesce luna: i ricercatori non sono sicuri del perché",
         "enlace": "https://www.nature.com/articles/d41586-026-02419-2",
         "desc": "Natura, Pubblicato online: 31 luglio 2026; doi:10.1038/d41586-026-02419-2 Lo staff di Nature discute di una massiccia indagine sugli insetti in Amazzonia e del comportamento insolito delle orche ripreso in video.",
-        "fecha": "2026-08-02T22:00:21.332652+00:00",
+        "fecha": "2026-08-02T23:04:10.011900+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Mais de 27 mil bombeiros combatem as chamas nos EUA",
-        "enlace": "https://observador.pt/2026/08/02/mais-de-27-mil-bombeiros-combatem-as-chamas-nos-eua-estado-de-washington-declara-emergencia/",
-        "desc": "Centro Nacional Interagências de Combate a Incêndios calcula que existem 99 incêndios de grande escala ativos. Operacionais no terreno mobilizam 1.715 veículos terrestres e 212 hel…",
-        "fecha": "2026-08-02T22:22:01+01:00",
+        "titulo": "O Exame",
+        "enlace": "https://observador.pt/opiniao/o-exame/",
+        "desc": "Os exames nacionais são instrumentos de seleção. E tudo o que seleciona deve ser questionado e escrutinado, não é desconfiança são processos de melhoria.",
+        "fecha": "2026-08-03T00:02:23+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1080,10 +1080,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "22h. Marrocos atribui crise migratória às redes sociais",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1840/",
-        "desc": "Em comunicado, Ministério do Interior Marroquino reconhece que 40.000 pessoas atravessaram a fronteira em direção a Ceuta. Ainda, pelo menos 14 pessoas morreram num ataque suicida …",
-        "fecha": "2026-08-02T22:14:48+01:00",
+        "titulo": "Portugal precisa de pensar grande, para executar!",
+        "enlace": "https://observador.pt/opiniao/portugal-precisa-de-pensar-grande-para-executar/",
+        "desc": "Pensar grande não significa construir tudo, a qualquer preço! Significa definir um rumo, escolher prioridades e executar aquilo que apresenta maior benefício econ´mico, social e de…",
+        "fecha": "2026-08-03T00:01:40+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1096,17 +1096,17 @@
     ],
     "economia_es": [
       {
-        "titulo": "Trump afirma haber cancelado los ataques contra Irán a petición de Oriente Próximo",
-        "enlace": "https://www.expansion.com/economia/financial-times/2026/08/02/6a6f6d30468aebba478b458b.html",
-        "desc": "El presidente estadounidense asegura que se han acordado \"los perímetros de un acuerdo\" para poner fin al conflicto, días después de haber amenazado con un ataque&nbsp; Leer",
-        "fecha": "2026-08-02T18:26:41+02:00",
+        "titulo": "Alarma en sectores clave de la economía española por la escasez de mano de obra",
+        "enlace": "https://www.expansion.com/economia/2026/08/03/6a6f8e8c468aeb4a6d8b4584.html",
+        "desc": "Los empresarios piden que la formación se alinee con las demandas del tejido productivo. Avisan de que la necesidad de personal cualificado compromete la competitividad y puede afe…",
+        "fecha": "2026-08-03T00:00:26+02:00",
         "fuente": "Expansión"
       },
       {
         "titulo": "Universal Music firma su mayor caída (-24%) desde que salió a bolsa (y todo por sus bajas suscripciones)",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-31/universal-music-se-desloma-y-registra-su-mayor-caida_4399012/",
         "desc": "La empresa continúa siendo la discográfica con más ingresos en el mundo, pero los ingresos por suscripción no han cumplido expectativas de los inversores",
-        "fecha": "2026-08-02T22:00:26.574404+00:00",
+        "fecha": "2026-08-02T23:04:17.044359+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,10 +1117,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Trump dice que la intervención de Estados Unidos en el yen fue “una señal de amistad”",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
-        "desc": "“Fue una señal de amistad”, dice el presidente Donald Trump después de que se le preguntara por qué Estados Unidos intervino para respaldar el yen japonés.",
-        "fecha": "2026-08-02T21:53:50+00:00",
+        "titulo": "Trump dice que la intervención del yen es una señal de amistad con Japón",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+        "desc": "El presidente Donald Trump dijo que Estados Unidos se unió a una intervención en el mercado de divisas que hizo subir el yen la semana pasada como señal de amistad con Japón, y dijo que espera que Washington coseche...",
+        "fecha": "2026-08-02T22:01:33+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1131,17 +1131,17 @@
         "fuente": "CNBC"
       },
       {
-        "titulo": "España, arrinconada ante la reunión de la UE por la crisis migratoria en Ceuta",
-        "enlace": "https://www.expansion.com/economia/2026/08/02/6a6f9342468aeb6a5a8b459a.html",
-        "desc": "Los ministros de Interior europeos se reúnen este martes. Sánchez denuncia la falta de solidaridad, mientras que 22 países avisan del efecto llamada del proceso de regularización.&…",
-        "fecha": "2026-08-02T21:07:51+02:00",
+        "titulo": "Los grupos del Ibex baten su récord de adquisiciones internacionales de los últimos 20 años",
+        "enlace": "https://www.expansion.com/empresas/2026/08/03/6a6e463ee5fdea5f4d8b457d.html",
+        "desc": "Las compras de enero a julio de 2026 se acercan a los 19.000 millones de euros, lideradas por Iberdrola, Santander, Amadeus, Enagás o Acciona.&nbsp; Leer",
+        "fecha": "2026-08-03T00:00:27+02:00",
         "fuente": "Expansión"
       },
       {
         "titulo": "Récord histórico en la Bolsa de Seúl: el Kospi surcoreano se dispara un 18% en un solo día",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-31/el-kospi-surcoreano-se-dispara-un-18_4398832/",
         "desc": "El indicador principal de la Bolsa de Seúl ha firmado esta espectacular subida impulsado por las tecnológicas y el sector de los semiconductores, que siguieron la tendencia de Wall…",
-        "fecha": "2026-08-02T22:00:26.574443+00:00",
+        "fecha": "2026-08-02T23:04:17.044408+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,10 +1152,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Se dice que AstraZeneca ha explorado la fusión de Bristol Myers",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-        "desc": "AstraZeneca Plc ha explorado la adquisición de Bristol Myers Squibb Co., un mega acuerdo que crearía uno de los fabricantes de medicamentos más grandes del mundo, según personas familiarizadas con el m…",
-        "fecha": "2026-08-02T20:13:51+00:00",
+        "titulo": "Los operadores del yen se preparan para una mayor intervención mientras Trump respalda a Japón",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+        "desc": "El yen subió el lunes mientras los mercados estaban en alerta máxima ante una mayor intervención conjunta de Japón y Estados Unidos después de que las operaciones coordinadas en Tokio y Nueva York la semana pasada desencadenaran una d…",
+        "fecha": "2026-08-02T12:47:40+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1168,10 +1168,10 @@
     ],
     "economia_en": [
       {
-        "titulo": "Trump Says US Intervention in Yen Was ‘A Signal of Friendship’",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
-        "desc": "“It was a signal of friendship,” President Donald Trump says after being asked why the US intervened to support the Japanese yen.",
-        "fecha": "2026-08-02T21:53:50+00:00",
+        "titulo": "Trump Says Yen Intervention Is Signal of Japan Friendship",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+        "desc": "President Donald Trump said the US joined a currency-market intervention that lifted the yen last week as a sign of friendship with Japan, saying that he expects Washington to reap…",
+        "fecha": "2026-08-02T22:01:33+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1196,10 +1196,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "AstraZeneca Is Said to Have Explored Bristol Myers Merger",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-        "desc": "AstraZeneca Plc has explored an acquisition of Bristol Myers Squibb Co., a megadeal that would create one of the world’s largest drugmakers, according to people familiar with the m…",
-        "fecha": "2026-08-02T20:13:51+00:00",
+        "titulo": "Yen Traders Brace for More Intervention as Trump Backs Japan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+        "desc": "The yen edged higher with markets on high alert for more joint intervention by Japan and the US on Monday after coordinated operations in Tokyo and New York last week triggered a d…",
+        "fecha": "2026-08-02T12:47:40+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Trump déclare que l’intervention américaine sur le yen était « un signal d’amitié »",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
-        "desc": "\"C'était un signe d'amitié\", a déclaré le président Donald Trump après avoir été interrogé sur les raisons pour lesquelles les États-Unis étaient intervenus pour soutenir le yen japonais.",
-        "fecha": "2026-08-02T21:53:50+00:00",
+        "titulo": "Trump dit que l'intervention sur le yen est un signe d'amitié avec le Japon",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+        "desc": "Le président Donald Trump a déclaré que les États-Unis se sont joints à une intervention sur le marché des changes qui a fait monter le yen la semaine dernière en signe d'amitié avec le Japon, affirmant qu'il s'attend à ce que Washington en récolte les fruits…",
+        "fecha": "2026-08-02T22:01:33+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "AstraZeneca aurait exploré la fusion Bristol Myers",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-        "desc": "AstraZeneca Plc a exploré une acquisition de Bristol Myers Squibb Co., un méga-accord qui créerait l'un des plus grands fabricants de médicaments au monde, selon des personnes proches du m…",
-        "fecha": "2026-08-02T20:13:51+00:00",
+        "titulo": "Les traders de yen se préparent à davantage d'interventions alors que Trump soutient le Japon",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+        "desc": "Le yen a légèrement augmenté, les marchés étant en état d'alerte maximale face à une intervention conjointe accrue du Japon et des États-Unis lundi après que les opérations coordonnées à Tokyo et à New York la semaine dernière ont déclenché une d…",
+        "fecha": "2026-08-02T12:47:40+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Pharma: AstraZeneca erwägt offenbar Mega-Fusion mit US-Rivalen Bristol Myers Squibb",
-        "enlace": "https://www.handelsblatt.com/unternehmen/industrie/pharma-astrazeneca-erwaegt-mega-fusion-mit-us-rivalen-bristol-myers-squibb/100244536.html",
-        "desc": "Es wäre eine der größten Fusionen in der Wirtschaftsgeschichte. Laut einem Medienbericht wurden entsprechende Gespräche geführt. Ob es zu einem Zusammenschluss kommt ist jedoch noc…",
-        "fecha": "2026-08-02T19:26:43+00:00",
+        "titulo": "Für Krisenzeiten: Reiche bringt neue Finanzierung für Gasreserve ins Spiel",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/fuer-krisenzeiten-reiche-bringt-neue-finanzierung-fuer-gasreserve-ins-spiel/100244544.html",
+        "desc": "Das Wirtschaftsministerium plant eine staatliche Erdgasreserve für Krisensituationen. Aber wer soll das bezahlen?",
+        "fecha": "2026-08-02T22:10:05+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Trump sagt, die US-Intervention im Yen sei „ein Signal der Freundschaft“ gewesen",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
-        "desc": "„Es war ein Zeichen der Freundschaft“, sagt Präsident Donald Trump, nachdem er gefragt wurde, warum die USA interveniert hätten, um den japanischen Yen zu stützen.",
-        "fecha": "2026-08-02T21:53:50+00:00",
+        "titulo": "Trump sagt, Yen-Intervention sei ein Signal der japanischen Freundschaft",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+        "desc": "Präsident Donald Trump sagte, die USA hätten sich letzte Woche als Zeichen der Freundschaft mit Japan einer Devisenmarktintervention angeschlossen, die den Yen angehoben habe, und sagte, er erwarte, dass Washington davon profitieren werde …",
+        "fecha": "2026-08-02T22:01:33+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "+++ Iran-Krieg +++: Mehrere Tote bei israelischen Angriffen im Gazastreifen trotz US-Waffenruhe-Plan",
-        "enlace": "https://www.handelsblatt.com/politik/international/iran-krieg-saudi-arabien-plant-koalition-zum-schutz-des-roten-meeres/100136895.html",
-        "desc": "Iran: Verhandlungen mit Oman zu Straße von Hormus in Endphase +++ Saudischer Kronprinz sprach mit Trump +++ Iran warnt USA vor „abenteuerlichen Aktionen“ +++ Der Newsblog.",
-        "fecha": "2026-08-02T19:12:07+00:00",
+        "titulo": "Rentenreform: DIW-Präsident für Abschaffung der „Rente mit 63“",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/rentenreform-diw-praesident-fuer-abschaffung-der-rente-mit-63/100244542.html",
+        "desc": "In der CDU regt sich Widerstand gegen die Abschaffung der abschlagsfreien „Rente mit 63“. Sollte dieses Vorhaben also noch einmal überdacht werden? DIW-Präsident Fratzscher hat ein…",
+        "fecha": "2026-08-02T22:02:04+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "AstraZeneca soll die Fusion mit Bristol Myers geprüft haben",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-        "desc": "AstraZeneca Plc hat eine Übernahme von Bristol Myers Squibb Co. geprüft, ein Megadeal, der laut mit der Branche vertrauten Personen einen der weltweit größten Arzneimittelhersteller hervorbringen würde.",
-        "fecha": "2026-08-02T20:13:51+00:00",
+        "titulo": "Yen-Händler bereiten sich auf weitere Interventionen vor, da Trump Japan unterstützt",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+        "desc": "Der Yen stieg am Montag leicht an, da die Märkte in höchster Alarmbereitschaft für weitere gemeinsame Interventionen Japans und der USA waren, nachdem koordinierte Operationen in Tokio und New York letzte Woche einen Schock auslösten.",
+        "fecha": "2026-08-02T12:47:40+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Trump afferma che l’intervento degli Stati Uniti sullo yen è stato “un segnale di amicizia”",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
-        "desc": "“È stato un segnale di amicizia”, ha detto il presidente Donald Trump dopo che gli è stato chiesto perché gli Stati Uniti sono intervenuti per sostenere lo yen giapponese.",
-        "fecha": "2026-08-02T21:53:50+00:00",
+        "titulo": "Trump afferma che l’intervento sullo yen è un segnale di amicizia con il Giappone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+        "desc": "Il presidente Donald Trump ha affermato che gli Stati Uniti hanno aderito a un intervento sul mercato valutario che ha fatto salire lo yen la scorsa settimana in segno di amicizia con il Giappone, dicendo che si aspetta che Washington raccoglierà...",
+        "fecha": "2026-08-02T22:01:33+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Si dice che AstraZeneca abbia esplorato la fusione con Bristol Myers",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-        "desc": "AstraZeneca Plc ha esplorato l'acquisizione di Bristol Myers Squibb Co., un mega accordo che creerebbe uno dei più grandi produttori di farmaci del mondo, secondo persone che hanno familiarità con il m...",
-        "fecha": "2026-08-02T20:13:51+00:00",
+        "titulo": "I trader dello yen si preparano a ulteriori interventi mentre Trump sostiene il Giappone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+        "desc": "Lo yen è salito con i mercati in massima allerta per un ulteriore intervento congiunto da parte del Giappone e degli Stati Uniti lunedì, dopo che le operazioni coordinate a Tokyo e New York la scorsa settimana hanno innescato un d...",
+        "fecha": "2026-08-02T12:47:40+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Resultados dos bancos resistem com queda de 1% após aposta no volume",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/resultados-dos-bancos-resistem-com-queda-de-1-apos-aposta-no-volume",
-        "desc": "A margem financeira foi a “galinha dos ovos de ouro” no período de subida dos juros mas agora só resiste a quedas maiores por força do volume de negócio.",
-        "fecha": "2026-08-02T22:00:00+01:00",
+        "titulo": "Incêndios: Linha do Norte cortada nos dois sentidos na zona de Vila Franca de Xira",
+        "enlace": "https://www.jornaldenegocios.pt/economia/detalhe/incendios-linha-do-norte-cortada-nos-dois-sentidos-na-zona-de-vila-franca-de-xira",
+        "desc": "O alerta para um incêndio em mato na freguesia de Povos, no concelho de Vila Franca de Xira, distrito de Lisboa, foi dado às 19:58 deste domingo.",
+        "fecha": "2026-08-02T23:46:04+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Trump diz que intervenção dos EUA no iene foi “um sinal de amizade”",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-intervention-in-yen-was-a-signal-of-friendship",
-        "desc": "“Foi um sinal de amizade”, disse o presidente Donald Trump depois de ser questionado sobre a razão pela qual os EUA intervieram para apoiar o iene japonês.",
-        "fecha": "2026-08-02T21:53:50+00:00",
+        "titulo": "Trump diz que intervenção no iene é sinal de amizade com o Japão",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-yen-intervention-is-signal-of-friendship-with-japan",
+        "desc": "O presidente Donald Trump disse que os EUA aderiram a uma intervenção no mercado cambial que elevou o iene na semana passada como um sinal de amizade com o Japão, dizendo que espera que Washington colha…",
+        "fecha": "2026-08-02T22:01:33+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "A desculpa é sempre a mesma",
-        "enlace": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/a-desculpa-e-sempre-a-mesma",
-        "desc": "Se o Constitucional sabia que milhares de titulares de cargos públicos não podiam ser acompanhados devido à falta de meios, devia tê-lo dito publicamente. Mencionando expressamente…",
-        "fecha": "2026-08-02T21:30:00+01:00",
+        "titulo": "Trump diz que negociações com o Irão começam esta segunda-feira. Petróleo recua 7%",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/trump-diz-que-negociacoes-com-o-irao-comecam-esta-segunda-feira-petroleo-recua-7",
+        "desc": "O Presidente dos EUA garante que o ataque que cancelou este fim de semana teria sido o maior desde a Segunda Guerra Mundial. “Vamos ver se conseguimos chegar a um acordo”, afirmou,…",
+        "fecha": "2026-08-02T23:42:25+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Diz-se que AstraZeneca explorou a fusão da Bristol Myers",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
-        "desc": "A AstraZeneca Plc explorou a aquisição da Bristol Myers Squibb Co., um mega negócio que criaria uma das maiores farmacêuticas do mundo, de acordo com pessoas familiarizadas com o m…",
-        "fecha": "2026-08-02T20:13:51+00:00",
+        "titulo": "Traders de ienes se preparam para mais intervenção enquanto Trump apoia o Japão",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+        "desc": "O iene subiu com os mercados em alerta máximo para mais intervenções conjuntas do Japão e dos EUA na segunda-feira, depois que operações coordenadas em Tóquio e Nova York na semana passada desencadearam uma queda…",
+        "fecha": "2026-08-02T12:47:40+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
