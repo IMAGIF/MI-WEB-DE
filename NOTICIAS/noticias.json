@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-08-04T16:55:34.257280+00:00",
+  "actualizado": "2026-08-04T18:41:50.338673+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Fallece un operario tras caerle encima una rama mientras trabajaba en Ortigueira (La Coruña)",
-        "enlace": "https://www.abc.es/espana/galicia/fallece-operario-tras-caerle-encima-rama-trabajaba-20260804183131-nt.html",
-        "desc": "Un hombre ha fallecido este martes tras caerle encima una rama mientras realizaba labores de trabajo en una zona de monte del municipio coruñés de Ortigueira . Según ha informado e…",
-        "fecha": "2026-08-04T18:32:30+02:00",
+        "titulo": "El campo se manifestará ante la Junta el 27 de agosto para exigir «un apoyo similar al del Ministerio» ante sus pérdidas",
+        "enlace": "https://www.abc.es/espana/castilla-leon/campo-manifestara-ante-junta-agosto-exigir-apoyo-20260804202537-nt.html",
+        "desc": "Las cuatro organizaciones profesionales agrarias representativas del sector en Castilla y León se manifestarán el jueves 27 de agosto frente a la sede de Presidencia de la Junta pa…",
+        "fecha": "2026-08-04T20:25:38+02:00",
         "fuente": "ABC"
       },
       {
@@ -24,24 +24,24 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "Vox denuncia al delegado del Gobierno en Ceuta por la crisis migratoria",
-        "enlace": "https://theobjective.com/espana/2026-08-04/vox-delegado-gobierno-ceuta-crisis-migratoria/",
-        "desc": "Vox ha denunciado este martes al delegado del Gobierno en Ceuta por la avalancha migratoria del pasado jueves. El partido se ha personado como acusación popular [&#8230;]",
-        "fecha": "2026-08-04T16:44:47+00:00",
+        "titulo": "La NASA realizará experimentos desde aviones y globos en España e Islandia durante el eclipse",
+        "enlace": "https://theobjective.com/sociedad/ciencia/2026-08-04/nasa-espana-islandia-eclipse-experimento/",
+        "desc": "La NASA llevará a cabo experimentos desde aviones y globos en España e Islandia durante el eclipse solar total del miércoles 12 de agosto para recopilar [&#8230;]",
+        "fecha": "2026-08-04T18:26:18+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Rescatado tras pasar la noche en el refugio de Vegarredonda un senderista herido en Picos de Europa",
         "enlace": "https://www.elconfidencial.com/espana/2026-08-04/evacuacion-senderista-picos-europa-1tna-1tps_4401009/",
         "desc": "Los rescatadores alcanzaron al herido durante la tarde, con quien se habían mantenido en contacto desde la noche anterior, y después fue evacuado al Hospital de Arriondas",
-        "fecha": "2026-08-04T16:55:38.540897+00:00",
+        "fecha": "2026-08-04T18:41:53.444113+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "eSIM para viajar a China: cómo esquivé el bloqueo de Google y Meta sin instalar ninguna VPN",
-        "enlace": "https://okdiario.com/tecnologia/esim-viajar-china-como-esquive-bloqueo-google-meta-sin-instalar-ninguna-vpn-19125606",
-        "desc": "Hacerse con una eSIM para viajar a China antes de salir de casa evita el bloqueo de Google, Instagram y WhatsApp sin instalar ninguna VPN por separado. Lo probé en mi último viaje …",
-        "fecha": "2026-08-04T18:53:40+02:00",
+        "titulo": "Blatter se moja sobre la oposición a Infantino: «Es el momento de que una mujer asuma el liderazgo de la FIFA»",
+        "enlace": "https://okdiario.com/deportes/blatter-moja-sobre-oposicion-infantino-momento-que-mujer-asuma-liderazgo-fifa-19126348",
+        "desc": "Joseph Blatter, ex presidente de la FIFA e inhabilitado hasta el año 2027 por corrupción, se ha mojado en las últimas horas sobre la oposición a Infantino para liderar la FIFA con …",
+        "fecha": "2026-08-04T20:38:46+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -52,10 +52,10 @@
         "fuente": "El Español"
       },
       {
-        "titulo": "El Soliss BM Pozuelo arranca para competir en una temporada soñada",
-        "enlace": "https://www.abc.es/espana/castilla-la-mancha/soliss-pozuelo-arranco-lunes-competir-temporada-sonada-20260804182148-nt.html",
-        "desc": "El Soliss BM Pozuelo femenino echaba a andar este lunes con objeto de ir preparando una temporada soñada desde hace ya varias campañas. Y es que 'Las Espartanas', como se las conoc…",
-        "fecha": "2026-08-04T18:21:49+02:00",
+        "titulo": "El alcalde de Dúrcal deja el cargo para ser profesor de Matemáticas",
+        "enlace": "https://www.abc.es/espana/andalucia/granada/alcalde-durcal-deja-cargo-profesor-matematicas-20260804201950-nts.html",
+        "desc": "El caso del alcalde de la localidad granadina de Dúrcal no es algo frecuente. Sobre todo porque deja la Alcaldía para ser profesor de Matemáticas. El alcalde de la localidad granad…",
+        "fecha": "2026-08-04T20:21:33+02:00",
         "fuente": "ABC"
       },
       {
@@ -75,6 +75,20 @@
     ],
     "nacional_us": [
       {
+        "titulo": "Slain LSU student Madison Brooks’ alleged rapist wants supporters banned from wearing pink at trial: report",
+        "enlace": "https://www.foxnews.com/us/slain-lsu-student-madison-brooks-alleged-rapist-wants-supporters-banned-wearing-pink-trial-report",
+        "desc": "Desmond Carter&apos;s defense team filed a motion to ban pink clothing at his rape trial, arguing it could intimidate the jury and compromise a fair trial.",
+        "fecha": "2026-08-04T13:59:26-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+        "enlace": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+        "desc": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots c…",
+        "fecha": "2026-08-04T14:01:04-04:00",
+        "fuente": "NPR"
+      },
+      {
         "titulo": "Arizona man allegedly paralyzed by Nancy Guthrie sheriff's deputies after alleged swatting call demands $176M",
         "enlace": "https://www.foxnews.com/us/arizona-man-allegedly-paralyzed-nancy-guthrie-sheriffs-deputies-after-alleged-swatting-call-demands-176m",
         "desc": "Axeel Melendez says he called 911 about a swatting threat before Pima County deputies opened fire, leaving him partially paralyzed in his own bedroom.",
@@ -82,79 +96,65 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Europe heat wave fuels drought, fires and energy fears",
-        "enlace": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-        "desc": "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires.",
-        "fecha": "2026-08-04T12:37:38-04:00",
-        "fuente": "NPR"
-      },
-      {
-        "titulo": "Illegal immigrant suspect charged in crash that killed police officer and his girlfriend",
-        "enlace": "https://www.foxnews.com/us/illegal-immigrant-suspect-charged-crash-killed-police-officer-girlfriend",
-        "desc": "ICE lodged a detainer against Melissa Esperanza Ramirez Romero, charged with vehicular manslaughter and DUI in the Danbury crash killing a cop.",
-        "fecha": "2026-08-04T11:09:05-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "13 new books in August will get you through the dog days of summer",
-        "enlace": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
-        "desc": "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity.",
-        "fecha": "2026-08-04T09:34:45-04:00",
+        "titulo": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+        "enlace": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
+        "desc": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019.",
+        "fecha": "2026-08-04T13:43:06-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Un acuerdo emergente podría consolidar el control de Irán sobre el estrecho de Ormuz",
-        "enlace": "https://www.clarin.com/new-york-times-international-weekly/acuerdo-emergente-podria-consolidar-control-iran-estrecho-ormuz_0_teIB8k3Mrr.html",
-        "desc": "El acuerdo resolvería el problema político más urgente del presidente Trump al permitir que los buques volvieran a circular. Sin embargo, otorgaría a Irán una ventaja estratégica d…",
-        "fecha": "2026-08-04T12:28:19+00:00",
+        "titulo": "El desgarrador pedido del nadador Archie Goodburn, diagnosticado con tres tumores cerebrales: \"Dennos la oportunidad de luchar por nuestras vidas\"",
+        "enlace": "https://www.clarin.com/deportes/desgarrador-pedido-nadador-archie-goodburn-diagnosticado-tumores-cerebrales-dennos-oportunidad-luchar-vidas_0_s6OayEHMiV.html",
+        "desc": "Hace dos años le descubrieron un cáncer que no se puede operar y, a pesar de eso, atraviesa el mejor momento de su carrera. El deportista aprovecha su momento de mayor exposición y…",
+        "fecha": "2026-08-04T18:08:30+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Finalissima entre la Argentina y España: cuándo se podría jugar",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/finalissima-entre-la-argentina-y-espana-cuando-se-podria-jugar-nid03082026/",
-        "desc": "Luego de que ambos equipos protagonicen la final del último Mundial, con triunfo de los europeos, habría posibilidades de que vuelvan a cruzarse antes de fin de año",
-        "fecha": "2026-08-04T16:47:27+00:00",
+        "titulo": "Qué es el “freno motor” y cómo usarlo en un auto automático para evitar problemas mecánicos",
+        "enlace": "https://www.lanacion.com.ar/autos/que-es-el-freno-motor-y-como-usarlo-en-un-auto-automatico-para-evitar-problemas-mecanicos-nid03082026/",
+        "desc": "Conocer las funciones del modo manual o de las posiciones brake (B) y Low (L) permite aprovechar el freno motor y conducir con mayor seguridad en descensos",
+        "fecha": "2026-08-04T18:38:16+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Los agentes fronterizos no daban crédito: abrieron un cargamento de repollo que ocultaba un secreto multimillonario en la frontera de Texas: \"Un sistema de imágenes no intrusivo reveló anomalías en el…",
-        "enlace": "https://www.clarin.com/estados-unidos/agentes-fronterizos-daban-credito-abrieron-cargamento-repollo-ocultaba-secreto-multimillonario-frontera-texas-sistema-imagenes-intrusivo-revelo-anomalias-remolque_0_JWRayrgk6n.html",
-        "desc": "Cómo los oficiales de la CBP hallaron una mercancía con un valor estimado cercano a los 10,8 millones de dólares.",
-        "fecha": "2026-08-04T12:17:17+00:00",
+        "titulo": "\"Repensar Argentina: el desafío del desarrollo argentino\", un reflexivo debate sobre las elites locales en base al estudio de una Universidad de Suiza",
+        "enlace": "https://www.clarin.com/politica/repensar-argentina-desafio-desarrollo-argentino-reflexivo-debate-elites-locales-base-estudio-universidad-suiza_0_uSyHzyLr5E.html",
+        "desc": "La Universidad de St. Gallen, de Suiza presentó el capítulo sobre Argentina del \"Índice de Calidad de Élites\". Fue en el Malba, con asistencia de los principales empresarios del pa…",
+        "fecha": "2026-08-04T18:05:07+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Qué se sabe de la detención de Facundo Moyano y de la mujer que escapó semidesnuda de su departamento en Belgrano",
-        "enlace": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-denuncia-contra-facundo-moyano-por-agredir-a-una-mujer-en-un-departamento-de-nid04082026/",
-        "desc": "El dirigente sindical fue trasladado a la Comisaría Vecinal 13A por efectivos de la Policía de la Ciudad, tras ser alertados al 911; la presunta víctima, Candela Arizaga, de 23 año…",
-        "fecha": "2026-08-04T16:44:48+00:00",
+        "titulo": "Horario de Boca vs. Estudiantes, por el Torneo Clausura 2026",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/horario-de-boca-vs-estudiantes-por-el-torneo-clausura-2026-nid04082026/",
+        "desc": "El partido pendiente de la fecha 2 del Grupo A se llevará a cabo en el estadio Tomás Adolfo Ducó por el mal estado del campo de juego de la Bombonera",
+        "fecha": "2026-08-04T18:31:48+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Crise de Ceuta : l’impossible quête des origines de la rumeur d’une ouverture de la frontière",
-        "enlace": "https://www.lemonde.fr/pixels/article/2026/08/04/crise-de-ceuta-l-impossible-quete-des-origines-de-la-rumeur-d-une-ouverture-de-la-frontiere_6738730_4408996.html",
-        "desc": "Les messages et vidéos publiés sur Facebook, TikTok ou Instagram semblent avoir largement contribué à l’afflux de candidats à l’exil à Ceuta, fin juillet. A ce stade, rien ne prouv…",
-        "fecha": "2026-08-04T16:15:07+02:00",
+        "titulo": "Crise de Ceuta : les Européens renvoient à l’automne le débat sur de nouvelles mesures migratoires",
+        "enlace": "https://www.lemonde.fr/international/article/2026/08/04/crise-de-ceuta-les-europeens-renvoient-a-l-automne-le-debat-sur-de-nouvelles-mesures-migratoires_6738781_3210.html",
+        "desc": "Réunis en urgence par visioconférence, mardi, les vingt-sept ministres de l’intérieur de l’Union européenne ont tenté d’apaiser les tensions suscitées par l’afflux massif de person…",
+        "fecha": "2026-08-04T19:30:08+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "EN DIRECT - Incendies dans le Var : l’hypothèse volontaire «sérieusement envisagée» pour la reprise de feu du Gros Bessillon",
-        "enlace": "https://www.lefigaro.fr/actualite-france/en-direct-incendie-dans-la-var-plusieurs-massifs-forestiers-interdits-d-acces-en-raison-du-risque-d-incendie-20260804",
-        "desc": "Le feu, qui a démarré vendredi au sud de l’important brasier fixé il y a six jours près du massif du Gros Bessillon, est contenu mais n’est toujours pas fixé à ce stade.",
-        "fecha": "2026-08-04T18:46:15+02:00",
+        "titulo": "Éviter la guerre des clans, clarifier la ligne politique du RN... Marine Le Pen s’apprête à plonger dans le tourbillon de la présidentielle",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/eviter-la-guerre-des-clans-clarifier-la-ligne-politique-du-rn-marine-le-pen-s-apprete-a-plonger-dans-le-tourbillon-de-la-presidentielle-20260804",
+        "desc": "RÉCIT - La campagne de la candidate RN commencera le 27 août, lors d’un premier débat organisé par le Medef. D’ici là, ses lieutenants tentent d’anticiper les difficultés.",
+        "fecha": "2026-08-04T19:47:57+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Tour de France Femmes : la Suissesse Reusser remporte le contre-la-montre, Ferrand-Prévot distancée",
-        "enlace": "https://www.france24.com/fr/sports/20260804-tour-de-france-femmes-suissesse-reusser-remporte-contre-la-montre-ferrand-pr%C3%A9vot-distanc%C3%A9e",
-        "desc": "La ​Suissesse Marlen Reusser (Movistar) a remporté mardi le ​contre-la-montre en Côte-d'Or entre Gevrey-Chambertin et Dijon lors de la quatrième étape du Tour de France Femmes, ​s'…",
-        "fecha": "2026-08-04T16:37:56+00:00",
+        "titulo": "Énergie : pourquoi le nucléaire n'est pas épargné par le dérèglement climatique",
+        "enlace": "https://www.france24.com/fr/plan%C3%A8te/20260804-%C3%A9nergie-pourquoi-nucl%C3%A9aire-n-est-pas-%C3%A9pargn%C3%A9-d%C3%A9r%C3%A8glement-climatique",
+        "desc": "La sécheresse qui sévit sur une partie de l'Europe fragilise de nouveau la production électrique des centrales nucléaires installées au bord des cours d'eau, dont le volume se raré…",
+        "fecha": "2026-08-04T17:41:35+00:00",
         "fuente": "France 24"
       },
       {
@@ -165,63 +165,63 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "«C’est un honneur de venir vous aider» : en Gironde, les pompiers ukrainiens accueillis en héros",
-        "enlace": "https://www.lefigaro.fr/bordeaux/c-est-un-honneur-de-venir-vous-aider-en-gironde-les-pompiers-ukrainiens-accueillis-en-heros-20260804",
-        "desc": "Soixante-dix pompiers ukrainiens sont arrivés en Gironde, ce dimanche, pour aider à lutter contre le mégafeu de Saumos. Ils ont accordé un entretien au Figaro au Lycée de La Sauque…",
-        "fecha": "2026-08-04T14:15:28+02:00",
+        "titulo": "«On sort du cadre habituel» : pourquoi la poussée de Marine Le Pen chez les retraités traduit une bascule politique avant 2027",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/on-sort-du-cadre-habituel-pourquoi-la-poussee-de-marine-le-pen-chez-les-retraites-traduit-une-bascule-politique-avant-2027-20260804",
+        "desc": "DÉCRYPTAGE - Promise à une qualification pour le second tour de la présidentielle, la candidate nationaliste y rallierait une majorité des Français de plus de 65 ans selon les sond…",
+        "fecha": "2026-08-04T14:41:46+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Ceuta : l'espace Schengen pas \"compromis\" pendant la crise migratoire assure Madrid",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-l-espace-schengen-pas-compromis-pendant-la-crise-migratoire-assure-madrid",
-        "desc": "Malgré l’entrée illégale d’au moins 72 000 migrants à Ceuta, l’espace Schengen n'a pas été \"compromis\", selon le ministre espagnol de l’Intérieur Fernando Grande-Marlaska. La quasi…",
-        "fecha": "2026-08-04T16:01:52+00:00",
+        "titulo": "Tour de France Femmes : la Suissesse Reusser remporte le contre-la-montre, Ferrand-Prévot distancée",
+        "enlace": "https://www.france24.com/fr/sports/20260804-tour-de-france-femmes-suissesse-reusser-remporte-contre-la-montre-ferrand-pr%C3%A9vot-distanc%C3%A9e",
+        "desc": "La ​Suissesse Marlen Reusser (Movistar) a remporté mardi le ​contre-la-montre en Côte-d'Or entre Gevrey-Chambertin et Dijon lors de la quatrième étape du Tour de France Femmes, ​s'…",
+        "fecha": "2026-08-04T16:37:56+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Migration/Mallorca: Zwei Gerettete schildern Tod von 17 Migranten auf dem Mittelmeer",
-        "enlace": "https://www.spiegel.de/panorama/migration-mallorca-zwei-gerettete-schildern-tod-von-17-migranten-auf-dem-mittelmeer-a-7e18919b-f8de-4556-b8ac-d84f6f708d63#ref=rss",
-        "desc": "Die spanischen Behörden haben zwei Menschen gerettet, die aus Nordafrika mit einem Boot die Balearen erreichen wollten. Die Überlebenden berichten, sie seien 15 Tage auf See getrie…",
-        "fecha": "2026-08-04T18:45:00+02:00",
+        "titulo": "Israel setzt offenbar strengere Regeln für Angriffe in Gaza in Kraft",
+        "enlace": "https://www.spiegel.de/ausland/israel-setzt-offenbar-strengere-regeln-fuer-angriffe-in-gaza-in-kraft-a-8f31b163-2f54-490f-8bd2-303b5085511b#ref=rss",
+        "desc": "Am vergangenen Wochenende starben mehr als ein Dutzend Menschen bei israelischen Angriffen im Gazastreifen. Nun hat die Regierung Berichten zufolge die Vorgaben für solche Attacken…",
+        "fecha": "2026-08-04T20:31:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Drohnenangriff in Cherson: Video dokumentiert Jagd russischer Drohne auf Zivilisten in Cherson",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-08/drohnenangriff-cherson-ukraine-russland-zivilisten-video",
-        "desc": "In Cherson werden Zivilisten seit Jahren gezielt von russischen Kurzdistanzdrohnen angegriffen. Nach einem weiteren Angriff beklagt die Ukraine die »sadistische« Praxis.",
-        "fecha": "2026-08-04T16:23:52",
+        "titulo": "Dürre an der Donau: Dürre legt deutsche Weltkriegsschiffe im Donaubett frei",
+        "enlace": "https://www.zeit.de/gesellschaft/2026-08/duerre-donau-serbien-wrack-deutsche-kriegsschiffe-wehrmacht",
+        "desc": "Im September 1944 versenkte die Wehrmacht bis zu 200 eigene Kriegsschiffe in der Donau. Deren Wasserstand ist derzeit so niedrig, dass die Wracks zum Vorschein kommen.",
+        "fecha": "2026-08-04T18:13:50",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Rente mit 63: Warum die Frühverrentung für den Osten besonders wichtig ist",
-        "enlace": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehverrentung-fuer-den-osten-besonders-wichtig-ist-a-d423e8b4-d47c-462a-ac5b-2b4c2e47b8fb#ref=rss",
-        "desc": "Die Regierungschefs der Ost-Länder rebellieren gegen das Ende der »Rente nach 63«. Tatsächlich schafft ein größerer Anteil der Ostdeutschen die dafür nötigen Beitragsjahre. Doch di…",
-        "fecha": "2026-08-04T18:07:00+02:00",
+        "titulo": "Hitze in Europa: Italien ruft höchste Warnstufe für alle Großstädte aus",
+        "enlace": "https://www.spiegel.de/ausland/hitze-in-europa-italien-ruft-hoechste-warnstufe-fuer-alle-grossstaedte-aus-a-f7626cf3-1671-4637-8f48-f71c7be12e46#ref=rss",
+        "desc": "Wegen Temperaturen von bis zu 40 Grad hat die italienische Regierung die Alarmstufe Rot auf sämtliche Großstädte ausgeweitet. In Österreich wurde währenddessen ein Temperaturrekord…",
+        "fecha": "2026-08-04T20:08:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Anschlag am Christopher Street Day: Mutmaßlicher CSD-Attentäter unter Polizeischutz in Berlin beerdigt",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/attentat-csd-abdul-beerdigung-berlin",
-        "desc": "Abdul B. wird mehr als eine Woche nach dem Anschlag auf den CSD in Berlin beigesetzt. Die Polizei sichert den Friedhof dafür extra ab, um Zwischenfälle zu vermeiden.",
-        "fecha": "2026-08-04T16:16:45",
+        "titulo": "Ex-Anwalt von Donald Trump: Senatsausschuss stimmt für Todd Blanche als US-Justizminister",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/us-justizminister-todd-blanche-donald-trump-senat",
+        "desc": "Das US-Justizministerium könnte bald von Donald Trumps ehemaligem Anwalt geführt werden. Der Justizausschuss des Senats hat für Todd Blanche gestimmt.",
+        "fecha": "2026-08-04T17:42:16",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Usa, un poliziotto travestito da cespuglio: la trovata per multare gli automobilisti al cellulare",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/04/news/usa_poliziotto_travestito_da_cespuglio_trovata_new_jersey_multe-425511952/",
-        "desc": "L’idea del dipartimento di Dunnellen ha portato alle casse dell’amministrazione locale 74 multe in sole sei ore. Nella maggior parte dei casi i conducenti sono stati sorpresi mentr…",
-        "fecha": "2026-08-04T16:13:26+00:00",
+        "titulo": "“Vi spiego perché per la Gen Z la carriera non è tutto. Sono disillusi, cercano serenità”",
+        "enlace": "https://www.repubblica.it/cronaca/2026/08/04/news/gen_z_lavoro_carriera_ricerca_studio_politecnico_milano_intervista_mariano_corso-425512082/",
+        "desc": "Parla così Mariano Corso, responsabile scientifico dell’Osservatorio Hr Innovation Practice del Politecnico di Milano: “Non credono più allo storytelling del carrierismo. Hanno vis…",
+        "fecha": "2026-08-04T17:40:52+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Delmastro, sarà l’Aula a votare sull’uso delle chat con Caroccia. Pd: “La destra ha paura”",
-        "enlace": "https://www.repubblica.it/politica/2026/08/04/news/caso_delmastro_carroccia_aula_vota_uso_chat-425511921/",
-        "desc": "Il voto in giunta per le autorizzazioni nega un approfondimento dell’istruttoria sulle conversazioni digitali",
-        "fecha": "2026-08-04T15:51:36+00:00",
+        "titulo": "Il Cdm proroga il taglio delle accise da 17 centesimi sul gasolio fino al 25 agosto",
+        "enlace": "https://www.repubblica.it/economia/2026/08/04/news/cdm_proroga_taglio_accise_gasolio_fino_25_agosto-425512043/",
+        "desc": "Trovate le coperture. La misura vale 245 milioni. Resta fuori la benzina. Le altre misure su Corte dei Conti, formazione dei docenti sull’Ia, riforma del fisco, università",
+        "fecha": "2026-08-04T17:17:23+00:00",
         "fuente": "La Repubblica"
       }
     ],
@@ -230,88 +230,88 @@
         "titulo": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
         "enlace": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "desc": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-        "fecha": "2026-08-04T16:33:39+00:00",
+        "fecha": "2026-08-04T17:26:06+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "A rail nightmare: what it’s like on England’s busiest commuter-only train",
-        "enlace": "https://www.theguardian.com/uk-news/2026/aug/04/a-rail-nightmare-what-its-like-on-englands-busiest-commuter-only-train",
-        "desc": "This evening service from London to Crewe is hot, sweaty and heaving with people, many having to stand or sit in the gangways The 5.46pm train from London Euston to Crewe is the lo…",
-        "fecha": "2026-08-04T11:00:49+00:00",
+        "titulo": "Skip the run: here are six joint-friendly cardio alternatives suggested by experts",
+        "enlace": "https://www.theguardian.com/wellness/2026/aug/04/joint-friendly-running-cardio-alternative-exercises",
+        "desc": "Whether you’re nursing a joint, have an existing condition or just don’t feel like running, these exercises help get your cardio in The runner’s high might be contagious. In 2024, …",
+        "fecha": "2026-08-04T16:07:18+00:00",
         "fuente": "The Guardian"
       },
       {
         "titulo": "More than 170 migrants rescued after boat catches fire in Channel",
         "enlace": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
         "desc": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-        "fecha": "2026-08-04T16:21:43+00:00",
+        "fecha": "2026-08-04T17:25:41+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "The truth about blushing: why we do it, how we can resist it – and why it’s actually good for us",
-        "enlace": "https://www.theguardian.com/lifeandstyle/2026/aug/04/why-we-blush-how-to-resist-why-good-for-us",
-        "desc": "Humans are the only animals whose faces redden with embarrassment. Should we see that as an affliction, or as a blessing? ‘Blushing is the most peculiar and most human of all expre…",
-        "fecha": "2026-08-04T09:00:17+00:00",
+        "titulo": "Extreme heat: why our cities can't cope | Opinion",
+        "enlace": "https://www.theguardian.com/environment/video/2026/aug/04/extreme-heat-why-our-cities-cant-cope-opinion-video",
+        "desc": "The UK and Europe have been facing extreme heatwaves – Greenpeace recorded temperatures of up to 53C at one London playground in recent weeks. It’s clear our cities are not equippe…",
+        "fecha": "2026-08-04T13:38:43+00:00",
         "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Volta a Portugal passa no coração do Gerês, mas parecer do ICNF não agrada a todos",
-        "enlace": "https://www.publico.pt/2026/08/04/azul/noticia/volta-portugal-passa-coracao-geres-parecer-icnf-nao-agrada-2184020",
-        "desc": "O ICNF autorizou a passagem da Volta a Portugal pela Mata de Albergaria com fortes restrições. A decisão é elogiada pela ZERO, mas criticada por especialistas do Parque Nacional da…",
-        "fecha": "2026-08-04T15:38:32+00:00",
+        "titulo": "Mamdani defendeu que cidadãos brancos paguem a negros devido à escravatura? Enganador",
+        "enlace": "https://www.publico.pt/2026/08/04/video/mamdani-defendeu-cidadaos-brancos-paguem-negros-devido-escravatura-nao-20260804-155509",
+        "desc": "O autarca de Nova Iorque disse estar &agrave; espera das conclus&otilde;es de estudos para decidir a melhor forma de reparar o legado de escravatura da cidade.",
+        "fecha": "2026-08-04T17:30:03+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Washington podem proibir importações de tecnologia chinesa",
-        "enlace": "https://observador.pt/2026/08/04/estados-unidos-podem-proibir-importacoes-de-transcetores-oticos-chineses/",
-        "desc": "Medida ainda não foi divulgada oficialmente.",
-        "fecha": "2026-08-04T17:52:21+01:00",
+        "titulo": "Municípios temem que Beja perca 16 médicos estrangeiros",
+        "enlace": "https://observador.pt/2026/08/04/municipios-temem-que-distrito-de-beja-possa-perder-16-medicos-estrangeiros/",
+        "desc": "Em causa está o decreto-lei que regula a contratação dos chamados médicos tarefeiros, aprovado em maio pelo Conselho de Ministros",
+        "fecha": "2026-08-04T19:40:46+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Ministério da Saúde rectifica despacho sobre resposta a situações clínicas urgentes",
-        "enlace": "https://www.publico.pt/2026/08/04/sociedade/noticia/ministerio-saude-rectifica-despacho-resposta-situacoes-clinicas-urgentes-2184022",
-        "desc": "Despacho define a actividade adicional urgente de procedimentos de neurorradiologia, radiologia e cardiologia. Ministra da Saúde tinha assumido que existia um erro no anterior dipl…",
-        "fecha": "2026-08-04T15:34:41+00:00",
+        "titulo": "Mangualde quer transformar antigo colégio em habitações para arrendamento acessível",
+        "enlace": "https://www.publico.pt/2026/08/04/local/noticia/mangualde-quer-transformar-antigo-colegio-habitacoes-arrendamento-acessivel-2184029",
+        "desc": "Mangualde quer reabilitar o antigo Colégio São José e Santa Maria para albregar 30 habitações destinadas ao arrendamento acessível",
+        "fecha": "2026-08-04T17:30:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Concurso de 700 mil euros para reabilitar EN341 em Coimbra",
-        "enlace": "https://observador.pt/2026/08/04/ip-lanca-concurso-de-700-mil-euros-para-reabilitar-en341-em-coimbra-e-avaliar-semaforos-na-rotunda-do-almegue/",
-        "desc": "Várias ligações àquela estrada nacional com condições de circulação e de segurança \"bastante deficientes\"",
-        "fecha": "2026-08-04T17:45:51+01:00",
+        "titulo": "109 casos de mpox em Cabinda e vacinas a caminho",
+        "enlace": "https://observador.pt/2026/08/04/provincia-angolana-de-cabinda-com-109-casos-confirmados-de-mpox/",
+        "desc": "A mpox é uma doença viral transmitida pelo contacto próximo com pessoas ou animais infetados",
+        "fecha": "2026-08-04T19:39:22+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Podemos recusa apoio a Flávio Bolsonaro e também decide ficar neutro na eleição",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/podemos-recusa-apoio-a-flavio-bolsonaro-e-tambem-decide-ficar-neutro-na-eleicao.shtml",
-        "desc": "O Podemos frustrou o senador Flávio Bolsonaro (PL) e decidiu ficar neutro na eleição presidencial deste ano. O PL tentou atrair o partido e chegou a sondar a possibilidade de a pre…",
-        "fecha": "2026-08-04T13:20:00-03:00",
+        "titulo": "Prêmio CNT de Jornalismo recebe inscrições até 7 de agosto",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/novo-em-folha/2026/08/premio-cnt-de-jornalismo-recebe-inscricoes-ate-7-de-agosto.shtml",
+        "desc": "Jornalistas de todo o Brasil têm até 7 de agosto para inscrever trabalhos na edição 2026 do Prêmio CNT de Jornalismo, promovido pela CNT (Confederação Nacional do Transporte). Pode…",
+        "fecha": "2026-08-04T15:28:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Homem é mordido por jacaré durante captura em Sergipe",
-        "enlace": "https://g1.globo.com/se/sergipe/noticia/2026/08/04/homem-e-mordido-por-jacare-durante-captura-em-sergipe.ghtml",
-        "desc": "Homem é mordido por jacaré durante captura em Sergipe Um homem ficou ferido após ser mordido por um jacaré durante a captura do animal no município de Malhada dos Bois, nesta segun…",
-        "fecha": "2026-08-04T16:44:05",
+        "titulo": "Interior de SP tem alerta para ventos intensos, chuva e granizo; veja a previsão do Inmet",
+        "enlace": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/04/interior-de-sp-tem-alerta-para-ventos-intensos-chuva-e-granizo-veja-a-previsao-do-inmet.ghtml",
+        "desc": "Mudança de tempo; previsão de chuva; céu de Presidente Prudente; céu do interior paulista Beatriz Jarins/g1 Um novo alerta para ventos intensos, chuva e risco de granizo no interio…",
+        "fecha": "2026-08-04T18:41:01",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Assessor citado por repasse de amiga de Lulinha foi mensageiro de Lula na prisão; conheça",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/ex-assessor-citado-por-repasse-de-amiga-de-lulinha-foi-mensageiro-de-lula-na-prisao-conheca.shtml",
-        "desc": "O ex-chefe de gabinete do presidente Lula (PT) Marco Aurélio Santana Ribeiro, conhecido como Marcola, é um dos assessores mais próximos do petista e deixou o cargo há duas semanas …",
-        "fecha": "2026-08-04T13:03:00-03:00",
+        "titulo": "Eleitorado neste ano vai às urnas ressentido",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/eleitorado-neste-ano-vai-as-urnas-ressentido.shtml",
+        "desc": "Eleições são ganhas com apoio popular, respaldo político-partidário e expertise para se valer de erros do campo adversário. Foi assim que Tancredo Neves chegou vitorioso ao colégio…",
+        "fecha": "2026-08-04T14:45:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Empacotador é preso por se masturbar na rua e chamar crianças em Boa Vista",
-        "enlace": "https://g1.globo.com/rr/roraima/noticia/2026/08/04/empacotador-e-preso-por-se-masturbar-na-rua-e-chamar-criancas-em-boa-vista.ghtml",
-        "desc": "Homem foi preso pela Polícia Militar no bairro São Bento, zona Oeste Arquivo pessoal Um empacotador, de 25 anos, foi preso suspeito de se masturbar no meio da rua, no bairro São Be…",
-        "fecha": "2026-08-04T16:43:21",
+        "titulo": "Seu endereço está na lista? Mais de 300 localidades de Manaus terão abastecimento interrompido nesta quarta (5)",
+        "enlace": "https://g1.globo.com/am/amazonas/noticia/2026/08/04/seu-endereco-esta-na-lista-mais-de-300-localidades-de-manaus-terao-abastecimento-interrompido-nesta-quarta-5.ghtml",
+        "desc": "Mais de 300 áreas de Manaus vão ficar sem água durante manutenção programada - Ponta do Ismael Divulgação Moradores de mais de 300 bairros e comunidades de Manaus terão o abastecim…",
+        "fecha": "2026-08-04T18:40:02",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,10 +333,10 @@
     ],
     "internacional_es": [
       {
-        "titulo": "Zelenski hace más cambios en el Gobierno, pero sigue sin zanjar la crisis política",
-        "enlace": "https://www.abc.es/internacional/zelenski-cambios-gobierno-sigue-zanjar-crisis-politica-20260804183117-nt.html",
-        "desc": "Hasta que el Parlamento no finalice su receso el 18 de agosto, Ucrania no tendrá ministros de Defensa ni Exteriores pese a estar en medio de una guerra contra Rusia. Aun así, la re…",
-        "fecha": "2026-08-04T18:31:17+02:00",
+        "titulo": "Evacúan a dos aldeas por una potente erupción del volcán de Fuego en Guatemala",
+        "enlace": "https://www.abc.es/internacional/evacuan-dos-aldeas-potente-erupcion-volcan-fuego-20260804194600-nt.html",
+        "desc": "Las autoridades de protección civil de Guatemala han evacuado este martes a al menos 500 ciudadanos de las aldeas El Porvenir y Las Lajitas, que se encuentran en las faldas del vol…",
+        "fecha": "2026-08-04T19:46:00+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -350,7 +350,7 @@
         "titulo": "Estados Unidos habría agotado \"prácticamente todos\" sus misiles de precisión de largo alcance en la guerra contra Irán",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-04/estados-unidos-habria-agotado-practicamente-todos_4400920/",
         "desc": "La escasez de armas causa preocupación en el Ejército ante la falta de capacidad para enfrentarse a adversarios como Rusia o China y podría forzar a Trump a realizar bombardeos más…",
-        "fecha": "2026-08-04T16:56:07.630242+00:00",
+        "fecha": "2026-08-04T18:42:24.911262+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -368,24 +368,24 @@
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "titulo": "Un vídeo muestra un dron ruso persiguiendo a un vendedor ambulante ucraniano en un ataque de 'safari humano'",
         "enlace": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "desc": "Ucrania dijo que el vídeo, que muestra a un civil aterrorizado siendo perseguido por un dron controlado a distancia, constituía un crimen de guerra.",
-        "fecha": "2026-08-04T16:33:39+00:00",
+        "fecha": "2026-08-04T17:26:06+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Ceuta migrant surge exposes Spain-Morocco tensions as Islamist groups reportedly seek to exploit border crisis",
+        "titulo": "El aumento de inmigrantes en Ceuta expone las tensiones entre España y Marruecos mientras los grupos islamistas supuestamente buscan explotar la crisis fronteriza",
         "enlace": "https://www.foxnews.com/world/ceuta-migrant-surge-exposes-spain-morocco-tensions-islamist-groups-reportedly-seek-exploit-border-crisis",
         "desc": "España informa 72 muertes a medida que se profundiza la crisis migratoria de Ceuta, y funcionarios de inteligencia dicen que Marruecos permitió que los controles fronterizos se relajaran gradualmente.",
         "fecha": "2026-08-04T10:44:14-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Japón quiere reforzar sus fuerzas armadas con «urgencia» ante las amenazas de China, Corea del Norte y Rusia",
-        "enlace": "https://www.abc.es/internacional/japon-quiere-reforzar-fuerzas-armadas-urgencia-ante-20260804182154-nt.html",
-        "desc": "Japón quiere reforzar sus fuerzas armadas con un «sentido de urgencia y crisis», según ha afirmado este martes su ministro de Defensa, Shinjiro Koizumi, a raíz de un nuevo informe …",
-        "fecha": "2026-08-04T18:21:55+02:00",
+        "titulo": "Detenidas más de 400 personas, incluidos 156 menores, por su implicación en algunos de los 14.000 incendios en Francia",
+        "enlace": "https://www.abc.es/internacional/detenidas-400-personas-incluidos-156-menores-implicacion-20260804191430-nt.html",
+        "desc": "El ministro del Interior francés, Laurent Nuñez , ha anunciado este lunes que las fuerzas de seguridad han detenido a más de 400 personas, incluidos 156 menores de edad, mientras q…",
+        "fecha": "2026-08-04T19:14:30+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -399,7 +399,7 @@
         "titulo": "La UE da por amortizada la crisis de Ceuta, cierra filas con España y reclama reforzar las fronteras",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-04/la-ue-cierra-filas-con-espana-tras-ceuta-y-reclama-reforzar-las-fronteras_4400830/",
         "desc": "Los ministros del Interior de la Unión Europea cerraron este martes la crisis política abierta por Ceuta con una declaración que respalda a España y ofrece su \"firme solidaridad\"",
-        "fecha": "2026-08-04T16:56:07.630283+00:00",
+        "fecha": "2026-08-04T18:42:24.911317+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -408,7 +408,7 @@
         "titulo": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
         "enlace": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "desc": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-        "fecha": "2026-08-04T16:33:39+00:00",
+        "fecha": "2026-08-04T17:26:06+00:00",
         "fuente": "BBC World"
       },
       {
@@ -426,38 +426,38 @@
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Teens force swan to vape, post the evidence online",
-        "enlace": "https://nypost.com/2026/08/04/world-news/2-teens-charged-with-animal-cruelty-after-alleged-vile-video-shows-them-forcing-vape-fumes-down-black-swans-throat/",
-        "desc": "Prosecutors have alleged the pair removed a lure from the swan’s neck before one of the teens force-fed the vape into the swan’s beak.",
-        "fecha": "2026-08-04T09:47:44-07:00",
+        "titulo": "Mets vs. Guardians picks, odds: MLB predictions, best bets Tuesday",
+        "enlace": "https://nypost.com/2026/08/04/betting/mets-vs-guardians-picks-odds-mlb-predictions-best-bets-tuesday/",
+        "desc": "Stitches is placing his faith in the Mets.",
+        "fecha": "2026-08-04T11:40:00-07:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Middle East: Hezbollah condemns latest Israel-Lebanon talks",
-        "enlace": "https://www.dw.com/en/middle-east-hezbollah-condemns-latest-israel-lebanon-talks/live-78235099?maca=en-rss-en-all-1573-rdf",
-        "desc": "Hezbollah and Lebanon's government traded verbal blows amid the latest round of talks with Israel in Italy. And the Trump administration is touting progress in talks with Iran, des…",
-        "fecha": "2026-08-04T16:56:11.453623+00:00",
+        "titulo": "Who is responsible for the Ceuta border surge?",
+        "enlace": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-all-1573-rdf",
+        "desc": "Tens of thousands of migrants crossed into the Spanish exclave of Ceuta several days ago. DW interviewed two experts to understand what may have caused the incident.",
+        "fecha": "2026-08-04T18:42:27.420945+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Latest news bulletin | August 4th, 2026 – Evening",
-        "enlace": "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-evening",
-        "desc": "Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel…",
-        "fecha": "2026-08-04T18:00:29+02:00",
+        "titulo": "WHO calls for more support to tackle Ebola outbreak",
+        "enlace": "http://www.euronews.com/2026/08/04/who-calls-for-more-support-to-tackle-ebola-outbreak",
+        "desc": "Despite being declared less than three months ago, the outbreak has already become the largest ever recorded in the Democratic Republic of Congo.",
+        "fecha": "2026-08-04T20:14:37+02:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Trump: Pirro ‘folded like an umbrella’ in dropping charges against accused Reflecting Pool vandal",
-        "enlace": "https://www.oann.com/newsroom/trump-pirro-folded-like-an-umbrella-in-dropping-charges-against-accused-reflecting-pool-vandal/",
-        "desc": "President Donald Trump knocked U.S. Attorney for the District of Columbia Jeanine Pirro for her decision to drop charges against former U.S. Olympian David Hearn, who had been accu…",
-        "fecha": "2026-08-04T16:49:25+00:00",
+        "titulo": "Luigi Mangione’s legal defense demands broadcast access and open trial",
+        "enlace": "https://www.oann.com/newsroom/luigi-mangiones-legal-defense-demands-broadcast-access-and-open-trial/",
+        "desc": "Defense attorneys representing Luigi Mangione, the suspect charged in the fatal shooting of UnitedHealthcare CEO Brian Thompson, have formally challenged proposed court access rest…",
+        "fecha": "2026-08-04T18:16:47+00:00",
         "fuente": "OAN"
       },
       {
         "titulo": "Oil prices fall on hopes Strait of Hormuz could reopen",
         "enlace": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "desc": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-        "fecha": "2026-08-04T16:29:29+00:00",
+        "fecha": "2026-08-04T17:06:17+00:00",
         "fuente": "BBC World"
       },
       {
@@ -477,17 +477,17 @@
     ],
     "internacional_fr": [
       {
-        "titulo": "« Nous n’avons tout simplement pas la capacité de les héberger » : Ceuta face au défi des mineurs isolés",
-        "enlace": "https://www.lefigaro.fr/international/nous-n-avons-tout-simplement-pas-la-capacite-de-les-heberger-ceuta-face-au-defi-des-mineurs-isoles-20260804",
-        "desc": "REPORTAGE - Quasiment tous les migrants, parmi les quelque 70 000 arrivés, ont regagné le Maroc. Sauf environ un millier de mineurs isolés, pour lesquels les autorités de l’enclave…",
-        "fecha": "2026-08-04T18:19:23+02:00",
+        "titulo": "Sort de Christophe Gleizes, délivrance de visas... Entre Paris et Alger, un retour au dialogue qui reste difficile",
+        "enlace": "https://www.lefigaro.fr/international/sort-de-christophe-gleizes-delivrance-de-visas-entre-paris-et-alger-un-retour-au-dialogue-qui-reste-difficile-20260804",
+        "desc": "DÉCRYPTAGE - A l’image de plusieurs sujets de crispations entre les deux pays, le cas du journaliste emprisonné en Algérie est tributaire de nombreux dossiers bilatéraux et du bon …",
+        "fecha": "2026-08-04T19:30:20+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Tour de France Femmes : la Suissesse Reusser remporte le contre-la-montre, Ferrand-Prévot distancée",
-        "enlace": "https://www.france24.com/fr/sports/20260804-tour-de-france-femmes-suissesse-reusser-remporte-contre-la-montre-ferrand-pr%C3%A9vot-distanc%C3%A9e",
-        "desc": "La ​Suissesse Marlen Reusser (Movistar) a remporté mardi le ​contre-la-montre en Côte-d'Or entre Gevrey-Chambertin et Dijon lors de la quatrième étape du Tour de France Femmes, ​s'…",
-        "fecha": "2026-08-04T16:37:56+00:00",
+        "titulo": "Énergie : pourquoi le nucléaire n'est pas épargné par le dérèglement climatique",
+        "enlace": "https://www.france24.com/fr/plan%C3%A8te/20260804-%C3%A9nergie-pourquoi-nucl%C3%A9aire-n-est-pas-%C3%A9pargn%C3%A9-d%C3%A9r%C3%A8glement-climatique",
+        "desc": "La sécheresse qui sévit sur une partie de l'Europe fragilise de nouveau la production électrique des centrales nucléaires installées au bord des cours d'eau, dont le volume se raré…",
+        "fecha": "2026-08-04T17:41:35+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -508,28 +508,28 @@
         "titulo": "Une vidéo montre un drone russe poursuivant un vendeur ambulant ukrainien lors d'une attaque de « safari humain »",
         "enlace": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "desc": "L'Ukraine a déclaré que la vidéo – montrant un civil terrifié traqué par un drone télécommandé – constituait un crime de guerre.",
-        "fecha": "2026-08-04T16:33:39+00:00",
+        "fecha": "2026-08-04T17:26:06+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Centres de détention, bavures... Le Mexique exige la justice pour ses ressortissants tués par l’ICE",
-        "enlace": "https://www.lefigaro.fr/international/centres-de-detention-bavures-le-mexique-exige-la-justice-pour-ses-ressortissants-tues-par-l-ice-20260804",
-        "desc": "DÉCRYPTAGE - Dix-sept Mexicains sont morts dans les centres de rétention de la police anti-immigration ou lors de leur arrestation. Le gouvernement de Claudia Sheinbaum a déposé de…",
-        "fecha": "2026-08-04T16:21:13+02:00",
+        "titulo": "« Les soldats russes prennent plaisir à tuer et à maltraiter des civils » : à Kherson, la vie rythmée par les « safaris humain » des drones de Moscou",
+        "enlace": "https://www.lefigaro.fr/international/les-soldats-russes-prennent-plaisir-a-tuer-et-a-maltraiter-des-civils-a-kherson-la-vie-rythmee-par-les-safaris-humain-des-drones-de-moscou-20260804",
+        "desc": "DÉCRYPTAGE - Les autorités ukrainiennes ont vivement réagi après la diffusion d’une vidéo montrant un civil pris en chasse par un drone et dénoncent « une stratégie russe délibérée…",
+        "fecha": "2026-08-04T19:08:55+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Ceuta : l'espace Schengen pas \"compromis\" pendant la crise migratoire assure Madrid",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-l-espace-schengen-pas-compromis-pendant-la-crise-migratoire-assure-madrid",
-        "desc": "Malgré l’entrée illégale d’au moins 72 000 migrants à Ceuta, l’espace Schengen n'a pas été \"compromis\", selon le ministre espagnol de l’Intérieur Fernando Grande-Marlaska. La quasi…",
-        "fecha": "2026-08-04T16:01:52+00:00",
+        "titulo": "Tour de France Femmes : la Suissesse Reusser remporte le contre-la-montre, Ferrand-Prévot distancée",
+        "enlace": "https://www.france24.com/fr/sports/20260804-tour-de-france-femmes-suissesse-reusser-remporte-contre-la-montre-ferrand-pr%C3%A9vot-distanc%C3%A9e",
+        "desc": "La ​Suissesse Marlen Reusser (Movistar) a remporté mardi le ​contre-la-montre en Côte-d'Or entre Gevrey-Chambertin et Dijon lors de la quatrième étape du Tour de France Femmes, ​s'…",
+        "fecha": "2026-08-04T16:37:56+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Football: le technicien français Hervé Renard retrouve la Côte d'Ivoire",
-        "enlace": "https://www.rfi.fr/fr/afrique-foot/20260804-le-technicien-fran%C3%A7ais-herv%C3%A9-renard-retrouve-la-c%C3%B4te-d-ivoire",
-        "desc": "Le Français Hervé Renard a été nommé sélectionneur de la Côte d'Ivoire pour succéder à Emerse Faé, a annoncé mardi 4 août la Fédération ivoirienne de football (FIF) sur ses réseaux…",
-        "fecha": "2026-08-04T14:59:19+00:00",
+        "titulo": "RDC: entre 2000 et 5000 tonnes d'uranium exportées avec le cobalt vers la Chine en 20 ans, selon une enquête",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260804-rdc-entre-2000-et-5000-tonnes-d-uranium-export%C3%A9es-avec-le-cobalt-vers-la-chine-en-20-ans-selon-une-enqu%C3%AAte",
+        "desc": "Une enquête de Lighthouse Reports et du Financial Times, publiée le 30 juillet 2026, remonte à un mémo confidentiel de l'Agence internationale de l'énergie atomique (AIEA) obtenu e…",
+        "fecha": "2026-08-04T15:39:30+00:00",
         "fuente": "RFI"
       },
       {
@@ -543,23 +543,23 @@
         "titulo": "Les prix du pétrole chutent suite à l'espoir d'une réouverture du détroit d'Ormuz",
         "enlace": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "desc": "Le secrétaire d'État américain Marco Rubio et le secrétaire au Trésor Scott Bessent ont tous deux annoncé que les négociations avaient progressé pour permettre la reprise des expéditions.",
-        "fecha": "2026-08-04T16:29:29+00:00",
+        "fecha": "2026-08-04T17:06:17+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Migration/Mallorca: Zwei Gerettete schildern Tod von 17 Migranten auf dem Mittelmeer",
-        "enlace": "https://www.spiegel.de/panorama/migration-mallorca-zwei-gerettete-schildern-tod-von-17-migranten-auf-dem-mittelmeer-a-7e18919b-f8de-4556-b8ac-d84f6f708d63#ref=rss",
-        "desc": "Die spanischen Behörden haben zwei Menschen gerettet, die aus Nordafrika mit einem Boot die Balearen erreichen wollten. Die Überlebenden berichten, sie seien 15 Tage auf See getrie…",
-        "fecha": "2026-08-04T18:45:00+02:00",
+        "titulo": "Israel setzt offenbar strengere Regeln für Angriffe in Gaza in Kraft",
+        "enlace": "https://www.spiegel.de/ausland/israel-setzt-offenbar-strengere-regeln-fuer-angriffe-in-gaza-in-kraft-a-8f31b163-2f54-490f-8bd2-303b5085511b#ref=rss",
+        "desc": "Am vergangenen Wochenende starben mehr als ein Dutzend Menschen bei israelischen Angriffen im Gazastreifen. Nun hat die Regierung Berichten zufolge die Vorgaben für solche Attacken…",
+        "fecha": "2026-08-04T20:31:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Ceuta als Stresstest für Europas neuen Asylpakt",
         "enlace": "https://www.dw.com/de/ceuta-als-stresstest-für-europas-neuen-asylpakt/a-78235760?maca=de-rss-de-all-1119-rdf",
         "desc": "Nach dem massenhaften Grenzübertritt in die spanische Exklave demonstriert die EU Geschlossenheit. Spanien erhält Lob, Frontex soll gestärkt und Schleuser sollen verfolgt werden. E…",
-        "fecha": "2026-08-04T16:56:13.432189+00:00",
+        "fecha": "2026-08-04T18:42:29.897194+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -573,21 +573,21 @@
         "titulo": "Das Video zeigt, wie eine russische Drohne einen ukrainischen Straßenverkäufer bei einem „Menschensafari“-Angriff verfolgt",
         "enlace": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "desc": "Die Ukraine sagte, das Video, das einen verängstigten Zivilisten zeigt, der von einer ferngesteuerten Drohne verfolgt wird, stelle ein Kriegsverbrechen dar.",
-        "fecha": "2026-08-04T16:33:39+00:00",
+        "fecha": "2026-08-04T17:26:06+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Rente mit 63: Warum die Frühverrentung für den Osten besonders wichtig ist",
-        "enlace": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehverrentung-fuer-den-osten-besonders-wichtig-ist-a-d423e8b4-d47c-462a-ac5b-2b4c2e47b8fb#ref=rss",
-        "desc": "Die Regierungschefs der Ost-Länder rebellieren gegen das Ende der »Rente nach 63«. Tatsächlich schafft ein größerer Anteil der Ostdeutschen die dafür nötigen Beitragsjahre. Doch di…",
-        "fecha": "2026-08-04T18:07:00+02:00",
+        "titulo": "Hitze in Europa: Italien ruft höchste Warnstufe für alle Großstädte aus",
+        "enlace": "https://www.spiegel.de/ausland/hitze-in-europa-italien-ruft-hoechste-warnstufe-fuer-alle-grossstaedte-aus-a-f7626cf3-1671-4637-8f48-f71c7be12e46#ref=rss",
+        "desc": "Wegen Temperaturen von bis zu 40 Grad hat die italienische Regierung die Alarmstufe Rot auf sämtliche Großstädte ausgeweitet. In Österreich wurde währenddessen ein Temperaturrekord…",
+        "fecha": "2026-08-04T20:08:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Ungarn: Wie ein See verschwindet",
         "enlace": "https://www.dw.com/de/ungarn-wie-ein-see-verschwindet/a-78230552?maca=de-rss-de-all-1119-rdf",
         "desc": "Wegen anhaltender Dürre droht der drittgrößte See Ungarns auszutrocknen. Die aktuelle Hitzewelle hat auch den Rest Ungarns fest im Griff: Aufgrund von Niedrigwasser wird das wichti…",
-        "fecha": "2026-08-04T16:56:13.432228+00:00",
+        "fecha": "2026-08-04T18:42:29.897242+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -601,7 +601,7 @@
         "titulo": "Die Ölpreise fallen aufgrund der Hoffnung, dass die Straße von Hormus wieder geöffnet werden könnte",
         "enlace": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "desc": "US-Außenminister Marco Rubio und Finanzminister Scott Bessent gaben beide bekannt, dass die Gespräche fortgeschritten seien, um die Wiederaufnahme der Lieferungen zu ermöglichen.",
-        "fecha": "2026-08-04T16:29:29+00:00",
+        "fecha": "2026-08-04T17:06:17+00:00",
         "fuente": "BBC World EN"
       }
     ],
@@ -624,7 +624,7 @@
         "titulo": "Il video mostra un drone russo che insegue un venditore ambulante ucraino nell'attacco \"safari umano\".",
         "enlace": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "desc": "L’Ucraina ha affermato che il video – che mostra un civile terrorizzato inseguito da un drone telecomandato – costituisce un crimine di guerra.",
-        "fecha": "2026-08-04T16:33:39+00:00",
+        "fecha": "2026-08-04T17:26:06+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -645,51 +645,51 @@
         "titulo": "I prezzi del petrolio scendono nella speranza che lo Stretto di Hormuz possa riaprire",
         "enlace": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "desc": "Il segretario di Stato americano Marco Rubio e il segretario al Tesoro Scott Bessent hanno entrambi annunciato che i colloqui erano progrediti per consentire la ripresa delle spedizioni.",
-        "fecha": "2026-08-04T16:29:29+00:00",
+        "fecha": "2026-08-04T17:06:17+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "Benfica abre `fan zone` da Luz para contornar porta fechada com Académico de Viseu",
-        "enlace": "https://www.rtp.pt/noticias/benfica/benfica-abre-fan-zone-da-luz-para-contornar-porta-fechada-com-academico-de-viseu_d1757685",
-        "desc": "O Benfica vai abrir a &#039;fan zone&#039; do Estádio da Luz, no domingo, para que os adeptos possam acompanhar a estreia na I Liga de futebol, diante do Académico de Viseu, que se…",
-        "fecha": "2026-08-04T18:50:48+01:00",
+        "titulo": "Chega insiste na demissão do MAI e diz que há \"degradação da autoridade do Estado\"",
+        "enlace": "https://www.rtp.pt/noticias/politica/chega-insiste-na-demissao-do-mai-e-diz-que-ha-degradacao-da-autoridade-do-estado_n1757702",
+        "desc": "André Ventura pediu coragem ao primeiro-ministro, defendendo que tem de ter &quot;a capacidade de perceber, a determinados momentos, que é preciso tomar decisões, mesmo que essas d…",
+        "fecha": "2026-08-04T20:38:05+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Washington podem proibir importações de tecnologia chinesa",
-        "enlace": "https://observador.pt/2026/08/04/estados-unidos-podem-proibir-importacoes-de-transcetores-oticos-chineses/",
-        "desc": "Medida ainda não foi divulgada oficialmente.",
-        "fecha": "2026-08-04T17:52:21+01:00",
+        "titulo": "Municípios temem que Beja perca 16 médicos estrangeiros",
+        "enlace": "https://observador.pt/2026/08/04/municipios-temem-que-distrito-de-beja-possa-perder-16-medicos-estrangeiros/",
+        "desc": "Em causa está o decreto-lei que regula a contratação dos chamados médicos tarefeiros, aprovado em maio pelo Conselho de Ministros",
+        "fecha": "2026-08-04T19:40:46+01:00",
         "fuente": "Observador"
       },
       {
         "titulo": "As 3 investigações contra Lulinha autorizadas pelo STF",
         "enlace": "https://www.bbc.com/portuguese/articles/c74gj7mer80o?at_medium=RSS&at_campaign=rss",
         "desc": "Ministro Flávio Dino acolheu novo pedido da Polícia Federal para investigar Fábio Luís Lula da Silva. Em menos de uma semana, ele se tornou alvo de três inquéritos. Sua defesa aind…",
-        "fecha": "2026-08-04T16:16:07+00:00",
+        "fecha": "2026-08-04T18:38:04+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Wenger considera \"absolutamente necessário\" cancelar investidores privados na FIFA",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/wenger-considera-absolutamente-necessario-cancelar-investidores-privados-na-fifa_d1757684",
-        "desc": "O diretor de desenvolvimento global da FIFA, Arsène Wenger, considerou esta terça-feira &quot;absolutamente necessária&quot; a decisão de abandonar a proposta de venda de 20% do ca…",
-        "fecha": "2026-08-04T18:47:50+01:00",
+        "titulo": "19h Chega insiste na demissão do MAI",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/19h-chega-insiste-na-demissao-do-mai_a1_1757700",
+        "desc": "",
+        "fecha": "2026-08-04T20:22:03+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Concurso de 700 mil euros para reabilitar EN341 em Coimbra",
-        "enlace": "https://observador.pt/2026/08/04/ip-lanca-concurso-de-700-mil-euros-para-reabilitar-en341-em-coimbra-e-avaliar-semaforos-na-rotunda-do-almegue/",
-        "desc": "Várias ligações àquela estrada nacional com condições de circulação e de segurança \"bastante deficientes\"",
-        "fecha": "2026-08-04T17:45:51+01:00",
+        "titulo": "109 casos de mpox em Cabinda e vacinas a caminho",
+        "enlace": "https://observador.pt/2026/08/04/provincia-angolana-de-cabinda-com-109-casos-confirmados-de-mpox/",
+        "desc": "A mpox é uma doença viral transmitida pelo contacto próximo com pessoas ou animais infetados",
+        "fecha": "2026-08-04T19:39:22+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Por que eleição de Pernambuco virou 'guerra digital' – e o que isso tem a ver com 'virada' da governadora",
-        "enlace": "https://www.bbc.com/portuguese/articles/cg4d14kzq15o?at_medium=RSS&at_campaign=rss",
-        "desc": "Governadora Raquel Lyra e ex-prefeito do Recife João Campos trocam acusações sobre 'milícia digital' e máquina de 'fake news'; com popularidade em alta, Lyra reverteu vantagem de C…",
-        "fecha": "2026-08-04T07:41:18+00:00",
+        "titulo": "A polêmica tese que critica a guerra contra as drogas no México: 'Os cartéis não existem'",
+        "enlace": "https://www.bbc.com/portuguese/articles/c74g07ll22yo?at_medium=RSS&at_campaign=rss",
+        "desc": "O pesquisador Oswaldo Zavala afirma que a política antidrogas de Washington criou uma narrativa em torno do crime organizado no México.",
+        "fecha": "2026-08-04T18:36:55+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,10 +702,10 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Bisiwu: \"Es un sueño, ya he hablado con Flick y voy a trabajar muy duro\"",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213091/bisiwu-sueno-he-hablado-flick-trabajar-duro.html",
-        "desc": "El flamante fichaje del FC Barcelona , Jesse Bisiwu (18 años) se mostró feliz y contento de firmar por el Barça en sus primeras declaraciones a los medios del club una vez firmó su…",
-        "fecha": "2026-08-04T15:13:28+02:00",
+        "titulo": "El Barça no varía su postura pese al desafío de Ferran",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213144/barca-no-varia-postura-pese-desafio-ferran.html",
+        "desc": "El FC Barcelona recibió las últimas declaraciones de Ferran Torres (26 años) con cierta sorpresa pero sin perder la calma porque ya tenía indicios de que el jugador valenciano podí…",
+        "fecha": "2026-08-04T18:48:01+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -730,10 +730,10 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Joan Laporta reaparece tras su arritmia para presentar a Bisiwu",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004213060/joan-laporta-reaparece-arritmia-presentar-bisiwu.html",
-        "desc": "El presidente del FC Barcelona , Joan Laporta , volvió a aparecer en público después de que hace unos días estuviera hospitalizado por culpa de una arritmia. El máximo mandatario a…",
-        "fecha": "2026-08-04T13:26:06+02:00",
+        "titulo": "Ferran insiste: \"El 12 de agosto tengo que volver a entrenar, veremos qué pasa\"",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260804/1004212951/ferran-insiste-12-agosto-volver-entrenar-veremos-pasa.html",
+        "desc": "Ferran Torres sigue alimentando la posibilidad de salir del FC Barcelona . En una gira mediática por diferentes espacios de Estados Unidos , el delantero del Barça dejó la puerta d…",
+        "fecha": "2026-08-04T08:13:18+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -760,10 +760,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Why have Barcelona broken transfer records to sign Kerolin?",
-        "enlace": "https://www.skysports.com/football/news/12040/13566568/kerolin-nicoli-transfer-news-man-city-forward-joins-barcelona-as-womens-super-leagues-most-expensive-export",
-        "desc": "It's been brief. Kerolin only joined the Women's Super League from the NWSL 18 months ago. She now leaves as the English top-flight's most expensive export.",
-        "fecha": "2026-08-04T16:30:00",
+        "titulo": "Sutherland leads SunRisers to tight win over Spirit",
+        "enlace": "https://www.skysports.com/cricket/news/12040/13569781/the-hundred-sunrisers-leeds-claim-tight-win-over-london-spirit-as-annabel-sutherland-stars-with-bat-at-headingley",
+        "desc": "SunRisers Leeds kept their faint hopes of progression from The Hundred group stage alive with a hard-fought five-wicket victory over London Spirit at Headingley.",
+        "fecha": "2026-08-04T19:20:00",
         "fuente": "Sky Sports"
       },
       {
@@ -774,10 +774,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Raducanu could benefit ending her season following US Open withdrawal",
-        "enlace": "https://www.skysports.com/tennis/news/12040/13569697/emma-raducanu-british-no-1-could-end-her-season-after-us-open-withdrawal-with-stress-fracture",
-        "desc": "Emma Raducanu could benefit from ending her season early to focus on recovery and secure a protected ranking before making her return in 2027, according to former British No 1 Anna…",
-        "fecha": "2026-08-04T16:20:00",
+        "titulo": "Falcons make Robinson highest-paid running back in NFL history",
+        "enlace": "https://www.skysports.com/nfl/news/12040/13569829/atlanta-falcons-agree-deal-to-make-bijan-robinson-highest-paid-running-back-in-nfl-history",
+        "desc": "The Atlanta Falcons have agreed to a three-year contract extension with Bijan Robinson that will make him the highest-paid running back in NFL history.",
+        "fecha": "2026-08-04T18:40:00",
         "fuente": "Sky Sports"
       }
     ],
@@ -802,11 +802,11 @@
         "titulo": "FIFA: Muss Gianni Infantino um seinen Posten bangen?",
         "enlace": "https://www.dw.com/de/fifa-muss-gianni-infantino-um-seinen-posten-bangen/a-78212951?maca=de-rss-de-sport-4020-rdf",
         "desc": "Der Plan von Gianni Infantino, WM-Rechte an private Investoren zu verkaufen, ist gescheitert. Auch ein vorzeitiges Ende seiner Präsidentschaft ist denkbar - zwei Möglichkeiten steh…",
-        "fecha": "2026-08-04T16:56:29.725014+00:00",
+        "fecha": "2026-08-04T18:42:41.681477+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Trinkkultur eingebettet in Cricket – Stokes",
+        "titulo": "Drinking culture embedded in cricket - Stokes",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss",
         "desc": "Ben Stokes sagt, dass Alkoholkonsum im Cricket verankert ist, glaubt aber nicht, dass die englische Mannschaft, die er leitete, ein Alkoholproblem hat.",
         "fecha": "2026-08-04T12:16:46+00:00",
@@ -816,13 +816,13 @@
         "titulo": "FIFA stoppt Investorenpläne nach massivem Widerstand",
         "enlace": "https://www.dw.com/de/fifa-stoppt-investorenpläne-nach-massivem-widerstand/a-78199925?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die FIFA gibt ihre umstrittenen Investorenpläne auf. Nach Kritik von UEFA, weiteren Verbänden und eigenen Beratern zieht Präsident Gianni Infantino den milliardenschweren Verkauf v…",
-        "fecha": "2026-08-04T16:56:29.725054+00:00",
+        "fecha": "2026-08-04T18:42:41.681521+00:00",
         "fuente": "DW Sport"
       },
       {
         "titulo": "Der Privatgeldplan der Fifa musste abgeschafft werden – Wenger",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Fifa-Chef für globale Fußballentwicklung, Arsene Wenger, sagt, die Entscheidung, den Plan, private Investitionen in FIFA-Wettbewerbe zu tätigen, aufzugeben, sei „absolut notwendig“ gewesen.",
+        "desc": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
         "fecha": "2026-08-04T10:45:14+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -831,7 +831,7 @@
       {
         "titulo": "La cultura del bere incorporata nel cricket - Stokes",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cgljg1ezyr9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Ben Stokes afferma che il bere è parte integrante del cricket, ma non crede che la squadra inglese da lui guidata abbia un problema con l'alcol.",
+        "desc": "Ben Stokes says drinking is embedded in cricket, but does not believe the England team he led has a problem with alcohol.",
         "fecha": "2026-08-04T12:16:46+00:00",
         "fuente": "BBC Sport EN"
       },
@@ -870,14 +870,14 @@
         "titulo": "Corrección del autor: Casdatifan muestra una respuesta duradera relacionada con la biología de HIF-2α en el cáncer de riñón",
         "enlace": "https://www.nature.com/articles/s41586-026-10958-x",
         "desc": "Naturaleza, Publicado en línea: 4 de agosto de 2026; doi:10.1038/s41586-026-10958-x Corrección del autor: Casdatifan muestra una respuesta duradera vinculada a la biología de HIF-2α en el cáncer de riñón",
-        "fecha": "2026-08-04T16:56:55.436392+00:00",
+        "fecha": "2026-08-04T18:42:50.845610+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "La NASA proporciona actualizaciones sobre módulos de aterrizaje de carga en bases lunares y demostraciones tecnológicas",
-        "enlace": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-        "desc": "La NASA está avanzando en la construcción de la Base Lunar, que se convertirá en un puesto avanzado resistente cerca del Polo Sur de la Luna para la ciencia, la tecnología y eventuales operaciones humanas. Para avanzar…",
-        "fecha": "2026-08-04T16:14:51+00:00",
+        "titulo": "Ames Estrellas científicas del mes: agosto de 2026",
+        "enlace": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+        "desc": "La Dirección Científica Ames de la NASA reconoce las destacadas contribuciones de (en la foto de izquierda a derecha) Danielle López, Jennifer Claudio y Duncan Mifsud. Su compromiso con el…",
+        "fecha": "2026-08-04T17:08:04+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -905,14 +905,14 @@
         "titulo": "Situar los sistemas sanitarios en el centro de los planes europeos contra las olas de calor",
         "enlace": "https://www.nature.com/articles/d41586-026-02426-3",
         "desc": "Naturaleza, Publicado en línea: 4 de agosto de 2026; doi:10.1038/d41586-026-02426-3 Situar los sistemas sanitarios en el centro de los planes europeos contra las olas de calor",
-        "fecha": "2026-08-04T16:56:55.436450+00:00",
+        "fecha": "2026-08-04T18:42:50.845657+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Instalación de la placa del telescopio espacial romano",
-        "enlace": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/",
-        "desc": "Los técnicos instalaron una placa conmemorativa, como se ve en esta fotografía del 28 de julio de 2026, en el Telescopio Espacial Romano Nancy Grace de la NASA. La placa honra el legado de la Dra. Nancy Grace...",
-        "fecha": "2026-08-04T15:50:44+00:00",
+        "titulo": "La NASA proporciona actualizaciones sobre módulos de aterrizaje de carga en bases lunares y demostraciones tecnológicas",
+        "enlace": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
+        "desc": "La NASA está avanzando en la construcción de la Base Lunar, que se convertirá en un puesto avanzado resistente cerca del Polo Sur de la Luna para la ciencia, la tecnología y eventuales operaciones humanas. Para avanzar…",
+        "fecha": "2026-08-04T16:14:51+00:00",
         "fuente": "NASA EN"
       }
     ],
@@ -921,14 +921,14 @@
         "titulo": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
         "enlace": "https://www.nature.com/articles/s41586-026-10958-x",
         "desc": "Nature, Published online: 04 August 2026; doi:10.1038/s41586-026-10958-x Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
-        "fecha": "2026-08-04T16:56:59.313501+00:00",
+        "fecha": "2026-08-04T18:42:53.358910+00:00",
         "fuente": "Nature"
       },
       {
-        "titulo": "Darwin proved right about gnat-trapping carnivorous plant",
-        "enlace": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-        "desc": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivor…",
-        "fecha": "2026-08-04T15:00:00+00:00",
+        "titulo": "The once-impossible black holes that could break thermodynamics",
+        "enlace": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+        "desc": "The laws of physics seemed to forbid a strange variety of black holes that could have zero temperature. Columnist Jacklin Kwan explores research that shows these strange behemoths …",
+        "fecha": "2026-08-04T17:00:00+00:00",
         "fuente": "New Scientist"
       },
       {
@@ -939,24 +939,24 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
-        "enlace": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-        "desc": "Chevy's 721-hp hybrid ups the ante with few compromises, but at a steep cost.",
-        "fecha": "2026-08-04T14:45:08+00:00",
+        "titulo": "China is Tesla's cash cow, but for how much longer?",
+        "enlace": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+        "desc": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+        "fecha": "2026-08-04T17:34:48+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Women with narcissistic tendencies may struggle with forgiveness",
-        "enlace": "https://phys.org/news/2026-08-women-narcissistic-tendencies-struggle.html",
-        "desc": "Narcissism is associated with selfishness and other negative traits like a grandiose sense of self-importance, a constant need for admiration and a lack of empathy for others. So i…",
-        "fecha": "2026-08-04T12:40:06-04:00",
+        "titulo": "Field trials support oil-rich sorghum as a potential sustainable aviation fuel feedstock",
+        "enlace": "https://phys.org/news/2026-08-field-trials-oil-rich-sorghum.html",
+        "desc": "In a new study by the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), researchers evaluated oil sorghum lines in Nebraska and Illinois over two years to quantify …",
+        "fecha": "2026-08-04T14:40:06-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-        "enlace": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
-        "desc": "NASA is making progress in building the Moon Base, which will become a resilient outpost near the Moon’s South Pole for science, technology, and eventual human operations. To advan…",
-        "fecha": "2026-08-04T16:14:51+00:00",
+        "titulo": "Ames Science Stars of the Month – August 2026",
+        "enlace": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+        "desc": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Danielle Lopez, Jennifer Claudio, and Duncan Mifsud. Their commitment to the …",
+        "fecha": "2026-08-04T17:08:04+00:00",
         "fuente": "NASA"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Put health systems at the centre of European heatwave plans",
         "enlace": "https://www.nature.com/articles/d41586-026-02426-3",
         "desc": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02426-3 Put health systems at the centre of European heatwave plans",
-        "fecha": "2026-08-04T16:56:59.313542+00:00",
+        "fecha": "2026-08-04T18:42:53.358959+00:00",
         "fuente": "Nature"
       }
     ],
@@ -997,10 +997,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Correction de l'auteur : Le casdatifan présente une réponse durable liée à la biologie HIF-2α dans le cancer du rein",
+        "titulo": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
         "enlace": "https://www.nature.com/articles/s41586-026-10958-x",
         "desc": "Nature, Mise en ligne : 04 août 2026 ; doi:10.1038/s41586-026-10958-x Correction de l'auteur : Le casdatifan présente une réponse durable liée à la biologie HIF-2α dans le cancer du rein",
-        "fecha": "2026-08-04T16:57:04.489761+00:00",
+        "fecha": "2026-08-04T18:42:58.120374+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1011,10 +1011,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Placer les systèmes de santé au centre des plans européens en cas de canicule",
+        "titulo": "Put health systems at the centre of European heatwave plans",
         "enlace": "https://www.nature.com/articles/d41586-026-02426-3",
         "desc": "Nature, Mise en ligne : 04 août 2026 ; doi:10.1038/d41586-026-02426-3 Placer les systèmes de santé au centre des plans européens en cas de canicule",
-        "fecha": "2026-08-04T16:57:04.489809+00:00",
+        "fecha": "2026-08-04T18:42:58.120421+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,74 +1023,74 @@
         "titulo": "Klimaanlage kaufen? Die günstigste Lösung wird oft teuer",
         "enlace": "https://www.dw.com/de/klimaanlage-kaufen-die-günstigste-lösung-wird-oft-teuer/a-78090343?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Ob mobile Monoblock-Geräte oder Splitanlagen: Beim Kauf von Klimaanlagen entscheiden Effizienz, Kältemittel und Stromkosten. Welche Anlagen Wohnungen gut kühlen und was das mit dem…",
-        "fecha": "2026-08-04T16:57:06.613355+00:00",
+        "fecha": "2026-08-04T18:42:59.503932+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Korrektur des Autors: Casdatifan zeigt eine dauerhafte Reaktion im Zusammenhang mit der HIF-2α-Biologie bei Nierenkrebs",
+        "titulo": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
         "enlace": "https://www.nature.com/articles/s41586-026-10958-x",
-        "desc": "Nature, Published online: 04 August 2026; doi:10.1038/s41586-026-10958-x Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
-        "fecha": "2026-08-04T16:57:06.739864+00:00",
+        "desc": "Natur, Online veröffentlicht: 04. August 2026; doi:10.1038/s41586-026-10958-x Autorenkorrektur: Casdatifan zeigt eine dauerhafte Reaktion im Zusammenhang mit der HIF-2α-Biologie bei Nierenkrebs",
+        "fecha": "2026-08-04T18:42:59.641160+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Übergewicht erhöht Krebsrisiko stärker als gedacht",
         "enlace": "https://www.dw.com/de/übergewicht-erhöht-krebsrisiko-stärker-als-gedacht/a-78146995?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Eine neue Studie zeigt: Übergewicht könnte für deutlich mehr Krebsfälle verantwortlich sein als bisher angenommen. Besonders Bauchfett erhöht das Krebsrisiko - vor allem bei Frauen…",
-        "fecha": "2026-08-04T16:57:06.613393+00:00",
+        "fecha": "2026-08-04T18:42:59.503977+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Stellen Sie die Gesundheitssysteme in den Mittelpunkt der europäischen Hitzewellenpläne",
         "enlace": "https://www.nature.com/articles/d41586-026-02426-3",
         "desc": "Natur, Online veröffentlicht: 04. August 2026; doi:10.1038/d41586-026-02426-3 Stellen Sie die Gesundheitssysteme in den Mittelpunkt der europäischen Hitzewellenpläne",
-        "fecha": "2026-08-04T16:57:06.739900+00:00",
+        "fecha": "2026-08-04T18:42:59.641210+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+        "titulo": "Correzione dell'autore: Casdatifan mostra una risposta duratura legata alla biologia dell'HIF-2α nel cancro del rene",
         "enlace": "https://www.nature.com/articles/s41586-026-10958-x",
-        "desc": "Natura, Pubblicato online: 04 agosto 2026; doi:10.1038/s41586-026-10958-x Correzione dell'autore: Casdatifan mostra una risposta duratura legata alla biologia dell'HIF-2α nel cancro del rene",
-        "fecha": "2026-08-04T16:57:10.335502+00:00",
+        "desc": "Nature, Published online: 04 August 2026; doi:10.1038/s41586-026-10958-x Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+        "fecha": "2026-08-04T18:43:02.421504+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Mettere i sistemi sanitari al centro dei piani europei per l’ondata di caldo",
         "enlace": "https://www.nature.com/articles/d41586-026-02426-3",
         "desc": "Natura, Pubblicato online: 04 agosto 2026; doi:10.1038/d41586-026-02426-3 Mettere i sistemi sanitari al centro dei piani europei per le ondate di caldo",
-        "fecha": "2026-08-04T16:57:10.335540+00:00",
+        "fecha": "2026-08-04T18:43:02.421552+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Washington podem proibir importações de tecnologia chinesa",
-        "enlace": "https://observador.pt/2026/08/04/estados-unidos-podem-proibir-importacoes-de-transcetores-oticos-chineses/",
-        "desc": "Medida ainda não foi divulgada oficialmente.",
-        "fecha": "2026-08-04T17:52:21+01:00",
+        "titulo": "Municípios temem que Beja perca 16 médicos estrangeiros",
+        "enlace": "https://observador.pt/2026/08/04/municipios-temem-que-distrito-de-beja-possa-perder-16-medicos-estrangeiros/",
+        "desc": "Em causa está o decreto-lei que regula a contratação dos chamados médicos tarefeiros, aprovado em maio pelo Conselho de Ministros",
+        "fecha": "2026-08-04T19:40:46+01:00",
         "fuente": "Observador Tech"
       },
       {
         "titulo": "As 3 investigações contra Lulinha autorizadas pelo STF",
         "enlace": "https://www.bbc.com/portuguese/articles/c74gj7mer80o?at_medium=RSS&at_campaign=rss",
         "desc": "Ministro Flávio Dino acolheu novo pedido da Polícia Federal para investigar Fábio Luís Lula da Silva. Em menos de uma semana, ele se tornou alvo de três inquéritos. Sua defesa aind…",
-        "fecha": "2026-08-04T16:16:07+00:00",
+        "fecha": "2026-08-04T18:38:04+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Concurso de 700 mil euros para reabilitar EN341 em Coimbra",
-        "enlace": "https://observador.pt/2026/08/04/ip-lanca-concurso-de-700-mil-euros-para-reabilitar-en341-em-coimbra-e-avaliar-semaforos-na-rotunda-do-almegue/",
-        "desc": "Várias ligações àquela estrada nacional com condições de circulação e de segurança \"bastante deficientes\"",
-        "fecha": "2026-08-04T17:45:51+01:00",
+        "titulo": "109 casos de mpox em Cabinda e vacinas a caminho",
+        "enlace": "https://observador.pt/2026/08/04/provincia-angolana-de-cabinda-com-109-casos-confirmados-de-mpox/",
+        "desc": "A mpox é uma doença viral transmitida pelo contacto próximo com pessoas ou animais infetados",
+        "fecha": "2026-08-04T19:39:22+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Por que eleição de Pernambuco virou 'guerra digital' – e o que isso tem a ver com 'virada' da governadora",
-        "enlace": "https://www.bbc.com/portuguese/articles/cg4d14kzq15o?at_medium=RSS&at_campaign=rss",
-        "desc": "Governadora Raquel Lyra e ex-prefeito do Recife João Campos trocam acusações sobre 'milícia digital' e máquina de 'fake news'; com popularidade em alta, Lyra reverteu vantagem de C…",
-        "fecha": "2026-08-04T07:41:18+00:00",
+        "titulo": "A polêmica tese que critica a guerra contra as drogas no México: 'Os cartéis não existem'",
+        "enlace": "https://www.bbc.com/portuguese/articles/c74g07ll22yo?at_medium=RSS&at_campaign=rss",
+        "desc": "O pesquisador Oswaldo Zavala afirma que a política antidrogas de Washington criou uma narrativa em torno do crime organizado no México.",
+        "fecha": "2026-08-04T18:36:55+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1106,28 +1106,28 @@
         "titulo": "España vende letras a un año con un interés del 2,679%, máximos desde septiembre de 2024",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-04/espana-vende-letras-a-un-ano-con-un-interes-del-2-679-maximos-desde-septiembre-de-2024_4400675/",
         "desc": "Las letras a un año rebajaron su interés marginal por tercer mes consecutivo, aunque ahora en agosto ha vuelto a subir",
-        "fecha": "2026-08-04T16:57:20.735091+00:00",
+        "fecha": "2026-08-04T18:43:07.813575+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Pablo Vázquez: 'In memoriam'",
-        "enlace": "https://www.abc.es/economia/pablo-vazquez-memoriam-20260804172423-nt.html",
-        "desc": "Pablo, a quien conocí hace ya más de dos décadas, me sucedió en la dirección ejecutiva de la Fundación de Estudios de Economía Aplicada ( FEDEA ), a la que se dedicó en cuerpo y al…",
-        "fecha": "2026-08-04T17:24:23+02:00",
+        "titulo": "Bruselas investiga si España concedió una ayuda ilegal al indemnizar al grupo japonés JGC Holdings",
+        "enlace": "https://www.abc.es/economia/bruselas-investiga-espana-concedio-ayuda-ilegal-indemnizar-20260804201206-nt.html",
+        "desc": "La Comisión Europea ha abierto este martes una investigación en profundidad para determinar si la indemnización de 23,5 millones de euros que un tribunal arbitral ordenó pagar a Es…",
+        "fecha": "2026-08-04T20:12:06+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El S&P 500 se encamina a máximos históricos gracias al impulso del acuerdo con Ormuz: cierre de los mercados",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-        "desc": "Las esperanzas de un acuerdo para revivir el Estrecho de Ormuz elevaron las acciones a máximos históricos, los bonos subieron y el petróleo se hundió, y el entusiasmo de Wall Street también fue impulsado por un grupo de sólidas corporaciones...",
-        "fecha": "2026-08-03T22:13:40+00:00",
+        "titulo": "Richelieu Dennis de Sundial en Revolt Stake, Essence Fest",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+        "desc": "Romaine Bosick de Bloomberg se sienta con Richelieu Dennis, fundador y presidente de The Sundial Group of Companies, mientras su marca Essence Ventures realiza una inversión estratégica en Revol...",
+        "fecha": "2026-08-04T18:31:08+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Procter & Gamble adquirirá la marca de suplementos Thorne por 3.800 millones de dólares, dice el director ejecutivo a CNBC",
-        "enlace": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-        "desc": "El director ejecutivo de P&G, Shailesh Jejurikar, dijo que la adquisición es una jugada para hacer crecer el negocio de salud de la compañía en \"Squawk on the Street\" de CNBC.",
-        "fecha": "2026-08-04T16:32:20+00:00",
+        "titulo": "Las existencias de Chipotle caen por posible vínculo con el brote de salmonella en Minnesota",
+        "enlace": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
+        "desc": "Chipotle retiró el suministro afectado de los restaurantes y los reemplazó con pimientos de diferentes productores, según la compañía.",
+        "fecha": "2026-08-04T18:33:33+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1141,37 +1141,65 @@
         "titulo": "Universal Music firma su mayor caída (-24%) desde que salió a bolsa (y todo por sus bajas suscripciones)",
         "enlace": "https://www.elconfidencial.com/mercados/2026-07-31/universal-music-se-desloma-y-registra-su-mayor-caida_4399012/",
         "desc": "La empresa continúa siendo la discográfica con más ingresos en el mundo, pero los ingresos por suscripción no han cumplido expectativas de los inversores",
-        "fecha": "2026-08-04T16:57:20.735128+00:00",
+        "fecha": "2026-08-04T18:43:07.813624+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Las grandes ciudades españolas suspenden en libertad económica a excepción de Madrid",
-        "enlace": "https://www.abc.es/economia/grandes-ciudades-espanolas-suspenden-libertad-economica-excepcion-20260804144051-nt.html",
-        "desc": "Más del 75% de las cincuenta ciudades analizadas en el Índice de Libertad Económica, que mide indicadores como el coste del personal municipal, la carga tributaria o el nivel de in…",
-        "fecha": "2026-08-04T14:41:55+02:00",
+        "titulo": "La regulación del euro amenaza más de 195.000 empleos en cajeros y atención al cliente en España",
+        "enlace": "https://www.abc.es/economia/regulacion-euro-amenaza-195000-empleos-cajeros-atencion-20260804193021-nt.html",
+        "desc": "El reglamento del curso legal del euro ha entrado en la fase de trílogos entre el Parlamento, el Consejo y la Comisión, en la que se concretará cómo se hará efectivo el acceso al d…",
+        "fecha": "2026-08-04T19:30:21+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Novo Nordisk aumenta su pronóstico sobre el aumento de las ventas de GLP-1",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-        "desc": "Novo Nordisk A/S raised its forecast for the second time this year, citing higher expectations for its obesity and diabetes drug sales.",
-        "fecha": "2026-08-04T16:48:40+00:00",
+        "titulo": "El cobre supera los 14.000 dólares a medida que aumentan las existencias en EE.UU. antes de la llamada a los aranceles",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+        "desc": "El cobre avanzó a su nivel más alto desde mediados de mayo, superando los 14.000 dólares la tonelada en Londres, mientras los operadores monitoreaban los crecientes volúmenes mantenidos en Estados Unidos antes de una decisión esperada sobre una impo...",
+        "fecha": "2026-08-04T06:24:34+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Por qué Ford cree que su caída del 10,2% en las ventas de julio en EE. UU. sigue siendo un \"buen\" mes",
-        "enlace": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
-        "desc": "La caída de julio se suma a un año de ventas mediocre para el fabricante de automóviles, con resultados inferiores al 9,7% en comparación con 2025.",
-        "fecha": "2026-08-04T16:04:43+00:00",
+        "titulo": "Las acciones de Novo Nordisk caen después de que las directrices decepcionaran a los inversores",
+        "enlace": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
+        "desc": "Novo Nordisk elevó sus perspectivas financieras mientras intenta alcanzar a su rival Eli Lilly en el floreciente mercado de GLP-1.",
+        "fecha": "2026-08-04T18:08:53+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-        "desc": "Hopes for a deal to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds rose and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporat…",
-        "fecha": "2026-08-03T22:13:40+00:00",
+        "titulo": "Sundial’s Richelieu Dennis on Revolt Stake, Essence Fest",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+        "desc": "Bloomberg's Romaine Bosick sits down with Richelieu Dennis, Founder and Chair of The Sundial Group of Companies, as his brand Essence Ventures makes a strategic investment in Revol…",
+        "fecha": "2026-08-04T18:31:08+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "Steve Hilton warns California economy will 'absolutely collapse' under 'insane' billionaire tax",
+        "enlace": "https://www.foxbusiness.com/media/steve-hilton-warns-california-economy-could-absolutely-collapse-under-billionaire-tax-proposal",
+        "desc": "Steve Hilton says a proposed billionaire tax has already cost California billions in lost revenue as businesses and wealthy residents flee the state.",
+        "fecha": "2026-08-04T14:35:10-04:00",
+        "fuente": "Fox Business"
+      },
+      {
+        "titulo": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
+        "enlace": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
+        "desc": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
+        "fecha": "2026-08-04T18:33:33+00:00",
+        "fuente": "CNBC"
+      },
+      {
+        "titulo": "Investors in Situational Awareness deserved to lose their shirts",
+        "enlace": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+        "desc": "The plight of the hedge fund says more about them than about its 24-year-old founder",
+        "fecha": "2026-08-04T17:11:44+00:00",
+        "fuente": "The Economist"
+      },
+      {
+        "titulo": "Copper Tops $14,000 as US Stockpiles Swell Before Tariff Call",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+        "desc": "Copper advanced to its highest level since mid-May, topping $14,000 a ton in London, as traders monitored ballooning volumes held in the US ahead of an expected decision on an impo…",
+        "fecha": "2026-08-04T06:24:34+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1182,10 +1210,10 @@
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-        "enlace": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-        "desc": "P&amp;G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-        "fecha": "2026-08-04T16:32:20+00:00",
+        "titulo": "Novo Nordisk shares slide after guidance disappoints investors",
+        "enlace": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
+        "desc": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
+        "fecha": "2026-08-04T18:08:53+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1194,125 +1222,97 @@
         "desc": "Its investment lags far behind America’s. Its models do not",
         "fecha": "2026-08-03T17:15:13+00:00",
         "fuente": "The Economist"
-      },
-      {
-        "titulo": "Novo Nordisk Boosts Forecast on Soaring GLP-1 Sales",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-        "desc": "Novo Nordisk A/S raised its forecast for the second time this year, citing higher expectations for its obesity and diabetes drug sales.",
-        "fecha": "2026-08-04T16:48:40+00:00",
-        "fuente": "Bloomberg"
-      },
-      {
-        "titulo": "25 Democrat-led states sue Trump over new tariffs, calling them illegal end run around Supreme Court",
-        "enlace": "https://www.foxbusiness.com/politics/25-democrat-led-states-sue-trump-over-new-tariffs-calling-them-illegal-end-run-around-supreme-court",
-        "desc": "New York Attorney General Letitia James leads 25 Democrat-led states in a lawsuit challenging Trump&apos;s latest Section 301 tariffs on 59 countries.",
-        "fecha": "2026-08-04T07:21:31-04:00",
-        "fuente": "Fox Business"
-      },
-      {
-        "titulo": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-        "enlace": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
-        "desc": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
-        "fecha": "2026-08-04T16:04:43+00:00",
-        "fuente": "CNBC"
-      },
-      {
-        "titulo": "What will Kevin Warsh do if America’s economy breaks?",
-        "enlace": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
-        "desc": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
-        "fecha": "2026-08-02T16:12:02+00:00",
-        "fuente": "The Economist"
       }
     ],
     "economia_fr": [
       {
-        "titulo": "Le S&P 500 s'apprête à atteindre des sommets historiques suite à la poussée de l'accord sur Ormuz : les marchés se terminent",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-        "desc": "Les espoirs d'un accord pour relancer le détroit d'Ormuz ont propulsé les actions vers des sommets sans précédent, les obligations ont augmenté et le pétrole a coulé, l'enthousiasme de Wall Street étant également alimenté par un lot d'entreprises solides…",
-        "fecha": "2026-08-03T22:13:40+00:00",
+        "titulo": "Richelieu Dennis de Sundial sur Revolt Stake, Essence Fest",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+        "desc": "Romaine Bosick de Bloomberg s'entretient avec Richelieu Dennis, fondateur et président du Sundial Group of Companies, alors que sa marque Essence Ventures réalise un investissement stratégique dans Revol…",
+        "fecha": "2026-08-04T18:31:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Novo Nordisk augmente ses prévisions sur la flambée des ventes de GLP-1",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-        "desc": "Novo Nordisk A/S a relevé ses prévisions pour la deuxième fois cette année, citant des attentes plus élevées concernant ses ventes de médicaments contre l'obésité et le diabète.",
-        "fecha": "2026-08-04T16:48:40+00:00",
+        "titulo": "Le cuivre dépasse les 14 000 $ alors que les stocks américains gonflent avant l'appel tarifaire",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+        "desc": "Le cuivre a atteint son plus haut niveau depuis la mi-mai, dépassant les 14 000 dollars la tonne à Londres, alors que les traders surveillaient la montée en flèche des volumes détenus aux États-Unis avant une décision attendue sur une importation.",
+        "fecha": "2026-08-04T06:24:34+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Elektromobilität: Schon mehr als 100.000 Anträge auf E‑Auto‑Prämie – diese Haushalte profitieren am stärksten",
-        "enlace": "https://www.handelsblatt.com/unternehmen/industrie/elektromobilitaet-diese-haushalte-profitieren-am-staerksten-von-der-e-auto-praemie/100244988.html",
-        "desc": "Dem Handelsblatt vorliegende Daten zeigen erstmals, wer die staatliche Förderung besonders stark in Anspruch nimmt – und wie viele Anträge bisher bewilligt wurden.",
-        "fecha": "2026-08-04T16:49:47+00:00",
+        "titulo": "US-Börsen: Bessent schürt Hoffnung auf Hormus-Öffnung – und treibt S&P 500 auf neuen Rekord",
+        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-auch-wall-street-vor-neuen-rekorden-amazon-reisst-naechste-billionen-marke/100244994.html",
+        "desc": "US-Finanzminister Bessent hält ein Ende der Hormus-Blockade schon morgen für möglich. Das treibt die Kauflaune an der Wall Street noch weiter an und beschert neue Höchststände.",
+        "fecha": "2026-08-04T18:31:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-        "desc": "Hoffnungen auf einen Deal zur Wiederbelebung der Straße von Hormus ließen die Aktien auf Allzeithochs steigen, Anleihen stiegen und Öl sank, wobei die Begeisterung der Wall Street auch durch eine Reihe solider Unternehmensanstrengungen angeheizt wurde …",
-        "fecha": "2026-08-03T22:13:40+00:00",
+        "titulo": "Richelieu Dennis von Sundial auf Revolt Stake, Essence Fest",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+        "desc": "Romaine Bosick von Bloomberg setzt sich mit Richelieu Dennis, Gründer und Vorsitzender der Sundial Group of Companies, zusammen, während seine Marke Essence Ventures eine strategische Investition in Revol tätigt …",
+        "fecha": "2026-08-04T18:31:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Anlegerklagen: Vor allem eigene Interessen verfolgt? Die fragwürdigen Methoden eines Verbraucheranwalts",
-        "enlace": "https://www.handelsblatt.com/unternehmen/dienstleister/anlegerklagen-die-fragwuerdigen-methoden-eines-verbraucheranwalts/100243677.html",
-        "desc": "Dieselskandal und Online-Wetten: Die Kanzlei Goldenstein vertritt Tausende Geschädigte. Jetzt werfen Ex-Partner Kanzleichef Claus Goldenstein unlautere Praktiken vor – er weist das…",
-        "fecha": "2026-08-04T16:48:49+00:00",
+        "titulo": "+++ Iran-Krieg +++: US-Finanzminister Bessent: Einigung zur Straße von Hormus „heute oder morgen“",
+        "enlace": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-kritisiert-oelkonzerne-wegen-hoher-spritpreise/100136895.html",
+        "desc": "Israel verschärft Regeln für Angriffe in Gaza +++ Schiff vor Jemens Küste mit Seedrohne angegriffen +++ Katar meldet Fortschritte bei Bemühungen um Ende des Iran-Kriegs +++ Der New…",
+        "fecha": "2026-08-04T17:41:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Novo Nordisk erhöht Prognose für steigende GLP-1-Verkäufe",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-        "desc": "Novo Nordisk A/S erhöhte seine Prognose zum zweiten Mal in diesem Jahr und verwies auf höhere Erwartungen für den Umsatz mit Medikamenten gegen Fettleibigkeit und Diabetes.",
-        "fecha": "2026-08-04T16:48:40+00:00",
+        "titulo": "Kupfer übersteigt 14.000 US-Dollar, da die US-Lagerbestände vor der Einführung der Zölle anschwellen",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+        "desc": "Kupfer stieg auf den höchsten Stand seit Mitte Mai und überschritt in London die 14.000-Dollar-Marke pro Tonne, während Händler die steigenden Mengen in den USA im Vorfeld einer erwarteten Entscheidung über eine Einfuhr im Auge behielten.",
+        "fecha": "2026-08-04T06:24:34+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "S&P 500 fissato ai massimi storici in seguito alla spinta dell'affare Hormuz: chiusura dei mercati",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-        "desc": "Hopes for a deal to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds rose and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporat…",
-        "fecha": "2026-08-03T22:13:40+00:00",
+        "titulo": "Richelieu Dennis dei Sundial al Revolt Stake, Essence Fest",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+        "desc": "Romaine Bosick di Bloomberg incontra Richelieu Dennis, fondatore e presidente di The Sundial Group of Companies, mentre il suo marchio Essence Ventures effettua un investimento strategico in Revol...",
+        "fecha": "2026-08-04T18:31:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Novo Nordisk rafforza le previsioni sull'aumento delle vendite di GLP-1",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-        "desc": "Novo Nordisk A/S ha alzato le sue previsioni per la seconda volta quest'anno, citando aspettative più elevate per le vendite di farmaci per l'obesità e il diabete.",
-        "fecha": "2026-08-04T16:48:40+00:00",
+        "titulo": "Il rame supera i 14.000 dollari mentre le scorte statunitensi aumentano prima della chiamata dei dazi",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+        "desc": "Il rame è salito al livello più alto da metà maggio, superando i 14.000 dollari la tonnellata a Londra, mentre i trader monitoravano i volumi in crescita negli Stati Uniti in vista di una prevista decisione su un'importazione...",
+        "fecha": "2026-08-04T06:24:34+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Petróleo negoceia abaixo 80 dólares. EUA prometem acordo entre \"hoje ou amanhã\"",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-negoceiam-com-tendencia-positiva-investidores-de-olho-nos-resultados-da-spacex",
-        "desc": "Acompanhe ao minuto a evolução dos mercados nesta terça-feira.",
-        "fecha": "2026-08-04T17:37:00+01:00",
+        "titulo": "Praias portuguesas continuam invadidas por plástico, revela relatório da APA",
+        "enlace": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/praias-portuguesas-continuam-invadidas-por-plastico-revela-relatorio-da-apa",
+        "desc": "Levantamento em 15 praias do país mostra que o plástico é o principal resíduo na costa portuguesa, com beatas de cigarro em crescimento acentuado e embalagens de snacks entre os it…",
+        "fecha": "2026-08-04T18:33:58+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "S&P 500 definido para máximos históricos com impulso de acordo com Hormuz: encerramento dos mercados",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-        "desc": "As esperanças de um acordo para reanimar o Estreito de Ormuz elevou as ações para máximos históricos, os títulos subiram e o petróleo afundou, com o entusiasmo de Wall Street também alimentado por um lote de empresas sólidas…",
-        "fecha": "2026-08-03T22:13:40+00:00",
+        "titulo": "Richelieu Dennis do Sundial na Revolt Stake, Essence Fest",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+        "desc": "Romaine Bosick, da Bloomberg, conversa com Richelieu Dennis, fundador e presidente do The Sundial Group of Companies, enquanto sua marca Essence Ventures faz um investimento estratégico na Revol…",
+        "fecha": "2026-08-04T18:31:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Irão abre a porta a intervenção europeia para desminar o estreito de Ormuz",
-        "enlace": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/irao-abre-a-porta-a-intervencao-europeia-para-desminar-o-estreito-de-ormuz",
-        "desc": "Teerão estará a considerar permitir que os países europeus possam avançar com missões para retirar as minas instaladas na via marítima. Os planos ainda não são finais e podem cair …",
-        "fecha": "2026-08-04T17:18:22+01:00",
+        "titulo": "Lucro do BPCE sobe 30% para 2.400 milhões no primeiro semestre",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/lucro-do-bpce-sobe-30-para-2-400-milhoes-no-primeiro-semestre",
+        "desc": "O grupo francês dono do Novo Banco registou receitas líquidas do grupo cresceram 10% para 13.900 milhões de euros.",
+        "fecha": "2026-08-04T18:15:46+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Novo Nordisk aumenta previsão de aumento nas vendas de GLP-1",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-        "desc": "A Novo Nordisk A/S elevou a sua previsão pela segunda vez este ano, citando expectativas mais elevadas para as suas vendas de medicamentos para obesidade e diabetes.",
-        "fecha": "2026-08-04T16:48:40+00:00",
+        "titulo": "Cobre supera US$ 14 mil enquanto estoques dos EUA aumentam antes da chamada de tarifa",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+        "desc": "O cobre avançou para seu nível mais alto desde meados de maio, superando US$ 14.000 por tonelada em Londres, enquanto os traders monitoravam os volumes crescentes mantidos nos EUA antes de uma decisão esperada sobre uma importação…",
+        "fecha": "2026-08-04T06:24:34+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
