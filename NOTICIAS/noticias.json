@@ -1,16 +1,16 @@
 {
-  "actualizado": "2026-08-10T23:38:52.964686+00:00",
+  "actualizado": "2026-08-11T02:01:47.126325+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Talleres sociales para reducir la brecha digital de 6.250 menores vulnerables",
-        "enlace": "https://www.abc.es/espana/madrid/madrid-forma-competencias-digitales-6250-menores-vulnerables-20260810013000-nt.html",
-        "desc": "La Comunidad de Madrid ha formado en competencias digitales a 6.250 niños y adolescentes en situación de vulnerabilidad social entre 2024 y el primer semestre de 2026, dentro del p…",
-        "fecha": "2026-08-11T01:30:00+02:00",
+        "titulo": "Huelva, epicentro de los incendios andaluces en los últimos años: 16.500 hectáreas quemadas sólo este verano",
+        "enlace": "https://www.abc.es/espana/andalucia/huelva/huelva-agujero-negro-incendios-andaluces-ultimos-anos-20260811015944-nts.html",
+        "desc": "El fuego castiga salvajemente a Huelva . Las llamas devoran parte del territorio de Niebla y en su extensión ha provocado ya el desalojo de varias aldeas. Las columnas de humo se v…",
+        "fecha": "2026-08-11T01:59:44+02:00",
         "fuente": "ABC"
       },
       {
-        "titulo": "Las autoridades de Colombia elevan a 111 los muertos por el terremoto de magnitud 7,4 que ha derribado además numerosos edificios",
+        "titulo": "Colombia declara el \"desastre nacional\" tras un terremoto de 7,4 que ha dejado al menos 132 muertos y 570 heridos",
         "enlace": "https://www.elmundo.es/internacional/2026/08/10/6a79cc12fdddff3a6a8b4578.html",
         "desc": "El epicentro se situó en Chocó y el temblor causó graves destrozos en el Eje Cafetero, cortes de suministros y evacuaciones hasta en Panamá&nbsp; Leer",
         "fecha": "2026-08-10T21:14:32+02:00",
@@ -34,14 +34,14 @@
         "titulo": "Detenido un hombre de 59 años tras matar a su mujer en un nuevo episodio de violencia de género",
         "enlace": "https://www.elconfidencial.com/espana/andalucia/2026-08-11/detenido-hombre-59-anos-matar-mujer-violencia-genero_4404147/",
         "desc": "El crimen se ha producido este lunes en la calle Castilla, en el núcleo de población de San Pedro Alcántara, y el aviso ha sido recibido a las 16.15 horas",
-        "fecha": "2026-08-10T23:38:55.194177+00:00",
+        "fecha": "2026-08-11T02:01:48.901937+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Detenido un hombre por el asesinato de una mujer en Marbella",
-        "enlace": "https://okdiario.com/sucesos/detenido-hombre-asesinato-mujer-marbella-19158338",
-        "desc": "Un hombre de 59 años ha sido detenido por la Policía Nacional en Marbella tras un supuesto episodio de violencia de género en el que la mujer ha fallecido. El crimen se ha producid…",
-        "fecha": "2026-08-11T00:47:35+02:00",
+        "titulo": "El aterrizaje del gigantesco jet privado de la realeza de Qatar en Mallorca obliga a revisar hasta el último tramo de la pista del aeropuerto",
+        "enlace": "https://okdiario.com/baleares/aterrizaje-del-gigantesco-jet-privado-realeza-qatar-mallorca-obliga-revisar-hasta-ultimo-tramo-pista-del-aeropuerto-19154686",
+        "desc": "El aterrizaje este pasado domingo en el aeropuerto de Palma de uno de los aviones privados más grandes del mundo no sólo llamó la atención por sus extraordinarias dimensiones y por…",
+        "fecha": "2026-08-11T04:00:49+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -52,10 +52,10 @@
         "fuente": "El Español"
       },
       {
-        "titulo": "270 metros de sangre tras el crimen por celos de Vallecas: «El barrio está perdido»",
-        "enlace": "https://www.abc.es/espana/madrid/270-metros-sangre-tras-crimen-celos-vallecas-20260810012951-nt.html",
-        "desc": "La sangre todavía marca las calles de Puente de Vallecas . Gotas de distintos tamaños salpican el asfalto y dibujan un recorrido irregular de, al menos, 270 metros: desde las inmed…",
-        "fecha": "2026-08-11T01:29:51+02:00",
+        "titulo": "Talleres sociales para reducir la brecha digital de 6.250 menores vulnerables",
+        "enlace": "https://www.abc.es/espana/madrid/madrid-forma-competencias-digitales-6250-menores-vulnerables-20260810013000-nt.html",
+        "desc": "La Comunidad de Madrid ha formado en competencias digitales a 6.250 niños y adolescentes en situación de vulnerabilidad social entre 2024 y el primer semestre de 2026, dentro del p…",
+        "fecha": "2026-08-11T01:30:00+02:00",
         "fuente": "ABC"
       },
       {
@@ -75,6 +75,20 @@
     ],
     "nacional_us": [
       {
+        "titulo": "Mamdani’s luxury-home tax rollout derailed for now as judge delivers win to NYC homeowners over massive list",
+        "enlace": "https://www.foxnews.com/us/mamdanis-luxury-home-tax-rollout-derailed-judge-delivers-win-nyc-homeowners-massive-list",
+        "desc": "A judge ordered the Zohran Mamdani administration to take down a list exposing names and addresses of over 900,000 New York City homeowners.",
+        "fecha": "2026-08-10T21:05:36-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Alabama heads into a second primary election after redistricting",
+        "enlace": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+        "desc": "Alabama voters are again selecting candidates for four Congressional districts after the state changed the district map to favor Republicans. The redistricting is causing confusion…",
+        "fecha": "2026-08-10T18:43:05-04:00",
+        "fuente": "NPR"
+      },
+      {
         "titulo": "Unlicensed NYC boat operator allegedly ignored safety warnings before mother, baby died in capsizing: feds",
         "enlace": "https://www.foxnews.com/us/unlicensed-nyc-boat-operator-allegedly-ignored-safety-warnings-mother-baby-died-capsizing-feds",
         "desc": "Manuel Hernandez allegedly ignored safety warnings and overcrowded a New York Harbor boat tour before it capsized, killing a mother and her baby.",
@@ -87,60 +101,46 @@
         "desc": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been \"Orwellian\" and \"Kafkaesque.\" And it's not over yet: His lawyers are fighting to close the…",
         "fecha": "2026-08-10T16:49:00-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "22-year-old passenger dies after sudden medical emergency strikes aboard Southwest flight to LA",
-        "enlace": "https://www.foxnews.com/us/22-year-old-passenger-dies-sudden-medical-emergency-southwest-flight-la",
-        "desc": "Rain McMillan Walmsey, 22, became unresponsive on Southwest Airlines Flight 958 from Dallas to LAX, and his cause of death remains deferred.",
-        "fecha": "2026-08-10T18:03:03-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Trump and RFK Jr. try again to upend vaccines for kids",
-        "enlace": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
-        "desc": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine sc…",
-        "fecha": "2026-08-10T16:25:02-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta",
-        "enlace": "https://www.clarin.com/energia-y-mineria/ypf-alcanzo-resultado-record-segundo-trimestre-acelerara-inversiones-vaca-muerta_0_LStwZVHcRP.html",
-        "desc": "La petrolera registró una ganancia de US$1.205 millones y cifras récord. Las inversiones crecieron 16% interanual. La compañía anticipó una aceleración del gasto en Vaca Muerta dur…",
-        "fecha": "2026-08-10T23:22:43+00:00",
+        "titulo": "En España dicen que Julián Alvarez \"explotó\" y se le plantará a Simeone para dejar el Atlético de Madrid: ¿qué posición tomará el vestuario?",
+        "enlace": "https://www.clarin.com/deportes/espana-dicen-julian-alvarez-exploto-plantara-simeone-dejar-atletico-madrid-posicion-tomara-vestuario_0_AVXTLKzn4l.html",
+        "desc": "El delantero se reincorporó este lunes a los entrenamientos, pero no pudo tener la charla que esperaba con el Cholo y el presidente Miguel Ángel Gil Marín. Aseguran que habría endu…",
+        "fecha": "2026-08-11T01:27:23+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "La avícola Granja Tres Arroyos despidió a 255 empleados",
-        "enlace": "https://www.lanacion.com.ar/economia/campo/la-avicola-granja-tres-arroyos-despidio-a-255-empleados-nid10082026/",
-        "desc": "Se trata de operarios de la planta de Concepción del Uruguay, Entre Ríos; la firma atribuyó la decisión a una caída de las exportaciones y el aumento de los costos",
-        "fecha": "2026-08-10T23:30:47+00:00",
+        "titulo": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
+        "enlace": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
+        "desc": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+        "fecha": "2026-08-11T01:50:14+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "El ex intendente Garro fue imputado por corrupción en la causa por loteos ilegales en La Plata",
-        "enlace": "https://www.clarin.com/politica/ex-intendente-garro-imputado-corrupcion-causa-loteos-ilegales-plata_0_zXs22KQc6u.html",
-        "desc": "El fiscal Juan Menucci lo notificó de las acusaciones por los presuntos delitos de enriquecimiento ilícito, administración fraudulenta en perjuicio de la administración pública y a…",
-        "fecha": "2026-08-10T23:17:06+00:00",
+        "titulo": "Horóscopo de hoy, martes 11 de agosto: las predicciones para la salud, el amor y el dinero",
+        "enlace": "https://www.clarin.com/astrologia/horoscopo-hoy-martes-11-agosto-predicciones-salud-amor-dinero_0_v1jYghuAOF.html",
+        "desc": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
+        "fecha": "2026-08-11T01:05:15+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Videos y fotos del terremoto en Colombia: las imágenes más impactantes del temblor",
-        "enlace": "https://www.lanacion.com.ar/el-mundo/videos-y-fotos-del-terremoto-en-colombia-las-imagenes-mas-impactantes-del-temblor-nid10082026/",
-        "desc": "Un temblor de magnitud ‌7,4 sacudió el ‌lunes ⁠una amplia región de ese país; ya fueron confirmadas al menos 22 víctimas fatales",
-        "fecha": "2026-08-10T23:30:42+00:00",
+        "titulo": "Fuerte terremoto de 7,4 en Colombia, EN VIVO: el temblor sacudió a todo el país hoy, 10 de agosto",
+        "enlace": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-74-en-colombia-en-vivo-el-temblor-sacudio-a-todo-el-pais-hoy-10-de-agosto-nid10082026/",
+        "desc": "El epicentro se registró en San José del Palmar, en el departamento del Chocó, a unos 280 kilómetros al oeste de Bogotá, y afectó a gran parte del territorio; se registraron al men…",
+        "fecha": "2026-08-11T01:49:00+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Guillaume Pley, le fondateur du média « Legend », accusé d’échanges en ligne à caractère sexuel avec plusieurs mineures",
-        "enlace": "https://www.lemonde.fr/pixels/article/2026/08/10/guillaume-pley-le-fondateur-de-legend-accuse-d-echanges-en-ligne-a-caractere-sexuel-avec-plusieurs-mineures_6743407_4408996.html",
-        "desc": "L’ancien animateur de NRJ a publié vendredi un communiqué pour se défendre des accusations d’une série d’enquêtes. Depuis, plusieurs anciens proches se sont désolidarisés de Guilla…",
-        "fecha": "2026-08-10T16:21:28+02:00",
+        "titulo": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »",
+        "enlace": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
+        "desc": "Le tremblement de terre, d’une magnitude de 7,4, a provoqué d’importantes destructions dans le pays sud-américain. Les Etats-Unis ont annoncé une aide de 15,5 millions de dollars.",
+        "fecha": "2026-08-10T20:45:06+02:00",
         "fuente": "Le Monde"
       },
       {
@@ -151,17 +151,17 @@
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Ukraine en direct : attaques nocturnes meurtrières à Kiev et Zaporijjia",
-        "enlace": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
-        "desc": "Au moins une personne a été blessées à Kiev dans la nuit de lundi à mardi dans une attaque de missiles russes. À Zaporijjia, dans le sud-est du pays, une autre attaque russe noctur…",
-        "fecha": "2026-08-10T22:19:54+00:00",
+        "titulo": "Meta : face à la Chine, Mark Zuckerberg mise sur l'IA en libre accès",
+        "enlace": "https://www.france24.com/fr/%C3%A9co-tech/20260811-ia-intelligence-artificielle-meta-mark-zuckerberg-libre-acces-modeles-ouverts-chine-muse-glimmer",
+        "desc": "Meta a relancé lundi ses modèles d'intelligence artificielle en libre accès. Mark Zuckerberg défend cette stratégie face à la Chine, qui domine ce secteur, en plaidant que la diffu…",
+        "fecha": "2026-08-11T01:10:19+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Sécheresse : un record absolu en France et en Suisse en juillet ; près des trois quarts de l’Angleterre concernés",
-        "enlace": "https://www.lemonde.fr/planete/article/2026/08/10/secheresse-un-record-absolu-en-france-et-en-suisse-en-juillet-pres-des-trois-quarts-de-l-angleterre-concernes_6743433_3244.html",
-        "desc": "A l’échelle de l’Union européenne, plus de la moitié des sols sont secs. Ce mois de juillet 2026 est le deuxième mois de juillet le plus sec jamais enregistré, après celui de 2022.",
-        "fecha": "2026-08-10T19:13:45+02:00",
+        "titulo": "Guillaume Pley, le fondateur du média « Legend », accusé d’échanges en ligne à caractère sexuel avec plusieurs mineures",
+        "enlace": "https://www.lemonde.fr/pixels/article/2026/08/10/guillaume-pley-le-fondateur-de-legend-accuse-d-echanges-en-ligne-a-caractere-sexuel-avec-plusieurs-mineures_6743407_4408996.html",
+        "desc": "L’ancien animateur de NRJ a publié vendredi un communiqué pour se défendre des accusations d’une série d’enquêtes. Depuis, plusieurs anciens proches se sont désolidarisés de Guilla…",
+        "fecha": "2026-08-10T16:21:28+02:00",
         "fuente": "Le Monde"
       },
       {
@@ -172,65 +172,65 @@
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Aux États-Unis, l'offensive de Donald Trump et Robert F. Kennedy Jr contre les vaccins continue",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260810-etats-unis-offensive-donald-trump-robert-f-kennedy-jr-contre-vaccins-continue",
-        "desc": "Le président américain Donald Trump a signé lundi un décret avec de nouvelles recommandations vaccinales pour les enfants. Il appelle en particulier à dissocier les vaccins contre …",
-        "fecha": "2026-08-10T21:50:42+00:00",
+        "titulo": "Ukraine en direct : attaques nocturnes meurtrières à Kiev et Zaporijjia",
+        "enlace": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
+        "desc": "Au moins une personne a été blessées à Kiev dans la nuit de lundi à mardi dans une attaque de missiles russes. À Zaporijjia, dans le sud-est du pays, une autre attaque russe noctur…",
+        "fecha": "2026-08-10T22:19:54+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Main-Kinzig-Kreis in Hessen: Menschen sollen wegen Waldbrand nicht mehr duschen",
-        "enlace": "https://www.spiegel.de/panorama/main-kinzig-kreis-in-hessen-menschen-sollen-wegen-waldbrand-nicht-mehr-duschen-a-62144201-019d-4370-80ca-5ead1da713e0#ref=rss",
-        "desc": "An der Grenze zwischen Hessen und Bayern tobt ein Waldbrand auf mehr als 30.000 Quadratmetern. Für die Bevölkerung in Freigericht, Bruchköbel und Langenselbold bedeutet dies erhebl…",
-        "fecha": "2026-08-11T01:02:00+02:00",
+        "titulo": "Okay, die Haare sind falsch – aber der Kugelbauch ist 100% Hathaway",
+        "enlace": "https://www.spiegel.de/panorama/leute/okay-die-haare-sind-falsch-aber-der-kugelbauch-ist-100-hathaway-a-b2b485c8-fce0-4a4a-b057-4c7a776930eb#ref=rss",
+        "desc": "Mit Hasskommentaren im Netz kennt sich Anne Hathaway aus. Und sie beherrscht den Konter: Dieses Mal ging es um Spekulationen zu ihrem Babybauch. Die Schauspielerin feuerte per Vide…",
+        "fecha": "2026-08-11T03:53:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Wahl in Sachsen-Anhalt: Ramelow für Kooperation der CDU mit Linken in Sachsen-Anhalt",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/bodo-ramelow-cdu-linke-afd-sachsen-anhalt",
-        "desc": "Man müsse miteinander sprechen, um »das Erpressungspotenzial der AfD« zu reduzieren, mahnt Bundestagsvizepräsident Bodo Ramelow. »Es ist die CDU, die rumeiert«, sagte er.",
-        "fecha": "2026-08-10T23:27:44",
+        "titulo": "Gautam Adani: US-Gericht weist Anklage gegen indischen Milliardär Adani ab",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/gautam-adani-korruption-usa-justizministerium-klageabweisung",
+        "desc": "Einer der reichsten Männer der Welt ist einem Korruptionsverfahren in den USA entgangen. Das Justizministerium hatte darauf gedrungen, die Klage abzuweisen.",
+        "fecha": "2026-08-11T01:52:02",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Gautam Adani: US-Richter weist Anklage gegen indischen Milliardär ab",
-        "enlace": "https://www.spiegel.de/wirtschaft/gautam-adani-us-richter-weist-anklage-gegen-indischen-milliardaer-ab-a-bf02e4df-3ac9-43d5-80e8-27ea9a984f61#ref=rss",
-        "desc": "Gautam Adani gilt als einer der reichsten Menschen der Welt. Ein Verfahren gegen ihn wegen Betrugs und Bestechung wollte die Trump-Regierung unter dubiosen Umständen einstellen las…",
-        "fecha": "2026-08-11T00:33:00+02:00",
+        "titulo": "Mord-Drohung aus Iran: Donald Trump soll in Ankara heimlich auf Militärflieger umgestiegen sein",
+        "enlace": "https://www.spiegel.de/ausland/mord-drohung-aus-iran-donald-trump-soll-in-ankara-heimlich-auf-militaerflieger-umgestiegen-sein-a-0fae62fc-81d5-4ee7-a44f-62eed48247ab#ref=rss",
+        "desc": "Der Nato-Gipfel in der Türkei war beendet, da betrat US-Präsident Donald Trump vor laufenden Kameras seine alte »Air Force One«. Doch anders als offiziell behauptet, hob er offenba…",
+        "fecha": "2026-08-11T03:28:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "BND und Verfassungsschutz: CDU-Politiker fordert mehr Rechte für Nachrichtendienste",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/gesetzesreform-bnd-verfassungsschutz-nachrichtendienste-marc-henrichmann-cdu",
-        "desc": "Das Bundeskabinett will über die geplante Nachrichtendienstreform beraten. Marc Henrichmann von der CDU verlangt insbesondere nach dem Drohnenvorfall mehr Befugnisse.",
-        "fecha": "2026-08-10T22:51:29",
+        "titulo": "Hitze: Verbände wollen Hitzeschutz in der Verfassung",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/hitzeschutz-gemeinschaftsaufgabe-grundgesetz-kommunen-deutscher-staedtetag-vdk",
+        "desc": "Der Schutz vor Hitze soll als Gemeinschaftsaufgabe im Grundgesetz verankert werden, fordert der Deutsche Städtetag. Der VdK verlangt Maßnahmen für besonders Gefährdete.",
+        "fecha": "2026-08-11T01:51:11",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "“Aiutateci, serve sangue”, il dramma dei bimbi di Cali nell’ospedale crollato",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/11/news/terremoto_colombia_aiutateci_serve_sangue_dramma_bambini_cali_ospedale_crollato-425522728/",
-        "desc": "L’appello del direttore della struttura Torres: Almeno dieci persone tra pazienti e personale sono sotto le macerie",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "Minaccia di un attentato iraniano e Trump lasciò la Turchia a bordo di un volo militare straordinario",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/11/news/minaccia_attentato_iraniano_trump_a_washington_con_volo_militare_straordinario_dopo_vertice_nato-425522808/",
+        "desc": "La missione svelata dal Washington Post. Il messaggio del tycoon sui social fu uno strumento di depistaggio.",
+        "fecha": "2026-08-11T01:27:57+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Sisma devasta la Colombia: “I morti saranno centinaia”. Strade e aeroporti bloccati",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/11/news/terremoto_colombia_cento_morti_bambini_ospedale-425522586/",
-        "desc": "Raggiunta magnitudo 7.4. Il presidente de la Espriella: “Stato di calamità”. Si stacca la statua del Cristo dal campanile della cattedrale simbolo di Manizale",
+        "titulo": "Le misure spot per la natalità. Dal governo mance alle famiglie",
+        "enlace": "https://www.repubblica.it/economia/2026/08/11/news/denatalita_italia_governo_meloni_estero_bonus-425522545/",
+        "desc": "In quattro manovre da 100 miliardi solo il 10% delle risorse è stato destinato ai genitori. La Spagna ci supera nei servizi, la Germania dà un assegno da oltre 250 euro a neonato",
         "fecha": "2026-08-10T23:00:00+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "More than two-thirds of England now in drought",
-        "enlace": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
-        "desc": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
-        "fecha": "2026-08-10T17:41:39+00:00",
+        "titulo": "Amber heat health alerts for almost all of England as next heatwave begins",
+        "enlace": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+        "desc": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+        "fecha": "2026-08-11T01:38:14+00:00",
         "fuente": "BBC"
       },
       {
@@ -257,86 +257,71 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Desclassificação do Parque Natural de Sintra-Cascais? Ministra do Ambiente afasta risco",
-        "enlace": "https://www.publico.pt/2026/08/10/azul/noticia/desclassificacao-parque-natural-sintracascais-ministra-ambiente-afasta-risco-2184570",
-        "desc": "A Finis Terrae — Associação para Defesa do Parque Natural Sintra-Cascais convidou a ministra do Ambiente a visitar a área protegida para conhecer a “predação imobiliária” que a ame…",
-        "fecha": "2026-08-10T21:27:00+00:00",
+        "titulo": "Os velhos: a desgraça presente e o nosso futuro colectivo",
+        "enlace": "https://www.publico.pt/2026/08/11/opiniao/opiniao/velhos-desgraca-presente-futuro-colectivo-2183808",
+        "desc": "Não há espaço nem tempo para os velhos portugueses. A sociedade volta-lhes as costas e eles vivem bem cientes do peso que significam para os mais novos. Opinião de Rui Esperança",
+        "fecha": "2026-08-10T23:25:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Ceuta, ou a fragilidade europeia",
-        "enlace": "https://observador.pt/opiniao/ceuta-ou-a-fragilidade-europeia/",
-        "desc": "A entrada de imigrantes sem controlo em Ceuta expõe acima de tudo, e de forma dramática, a incapacidade de defesa e segurança das fronteiras europeias.",
-        "fecha": "2026-08-11T00:25:58+01:00",
+        "titulo": "2h. Sismo Colômbia. Subiu para 132 o número de mortos",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2376/",
+        "desc": "É o que indica o último balanço feito pela Associação Colombiana de Cidades Capitais. Ainda, na Ucrânia morreram 5 pessoas e 21 ficaram feridas na sequência de ataques russos.",
+        "fecha": "2026-08-11T02:16:30+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "O que fazer quando uma mulher arde?",
-        "enlace": "https://www.publico.pt/2026/08/10/impar/cronica/mulher-arde-2184615",
-        "desc": "A resposta lógica ao título é: “Socorro-a.” Mas como, se aconteceu na intimidade do lar? Mulheres espancadas, humilhadas, queimadas, assassinadas. Agressores à solta, condenados ma…",
-        "fecha": "2026-08-10T20:16:59+00:00",
+        "titulo": "Rússia lança nova vaga de mísseis balísticos contra cidades ucranianas",
+        "enlace": "https://www.publico.pt/2026/08/11/mundo/noticia/russia-lanca-nova-vaga-misseis-balisticos-cidades-ucranianas-2184687",
+        "desc": "Kiev voltou a estar sob ataque russo entre a noite de segunda e a madrugada desta terça-feira, numa vaga de mísseis balísticos que atingiu várias cidades ucranianas.",
+        "fecha": "2026-08-10T23:08:06+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "\"Pole pole\"",
-        "enlace": "https://observador.pt/opiniao/pole-pole/",
-        "desc": "O nosso pole pole é «Ah, mas este solzinho não há noutro sítio do mundo». Ou «Sim, mas o peixe é muito bom».",
-        "fecha": "2026-08-11T00:24:49+01:00",
+        "titulo": "1h. Noite de ataques russos em várias regiões ucranianas",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2349/",
+        "desc": "De acordo com a Força Aérea Ucraniana, o espaço aéreo está em alerta. Ainda, Nuno Melo insiste no processo judicial contra André Ventura e Pedro Frazão devido às criticas à compra …",
+        "fecha": "2026-08-11T01:15:17+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Milei compartilha mensagem em que Lula é chamado de porco",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/milei-compartilha-mensagem-em-que-lula-e-chamado-de-porco.shtml",
-        "desc": "O presidente da Argentina , Javier Milei , manteve nos últimos dias em suas redes sociais mensagens ofensivas a Lula ( PT ) e, neste domingo (9), compartilhou um texto em que o pet…",
-        "fecha": "2026-08-10T20:19:00-03:00",
+        "titulo": "Veja checagem de falas de Tarcísio e Haddad sobre economia, educação e segurança",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/veja-checagem-de-falas-de-tarcisio-e-haddad-sobre-economia-educacao-e-seguranca.shtml",
+        "desc": "O governador Tarcísio de Freitas (Republicanos) e o ex-ministro Fernando Haddad ( PT ) citaram dados sobre economia, educação, ciência, saneamento e segurança pública durante o pri…",
+        "fecha": "2026-08-10T22:41:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "VÍDEOS: AB2 de segunda-feira, 10 de agosto de 2026",
-        "enlace": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab2-de-segunda-feira-10-de-agosto-de-2026.ghtml",
-        "desc": "Assista aos vídeos do telejornal com as notícias do interior de Pernambuco.",
-        "fecha": "2026-08-10T23:32:35",
+        "titulo": "EUA aceitam discutir na OMC o tarifaço imposto ao Brasil",
+        "enlace": "https://g1.globo.com/jornal-nacional/noticia/2026/08/10/eua-aceitam-discutir-na-omc-o-tarifaco-imposto-ao-brasil.ghtml",
+        "desc": "Estados Unidos aceitam discutir na OMC tarifaço imposto ao Brasil Os Estados Unidos aceitaram discutir na Organização Mundial do Comércio o tarifaço imposto ao Brasil. A resposta a…",
+        "fecha": "2026-08-11T01:33:47",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Campanha de Flávio relembra frase de Lula de 2002 para falar do medo da população",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-flavio-relembra-frase-de-lula-de-2002-para-falar-do-medo-da-populacao.shtml",
-        "desc": "A campanha presidencial de Flávio Bolsonaro ( PL ) fará um jogo de palavras com uma famosa frase de Lula de sua primeira eleição, em 2002, para tratar dos temores que afligem o ele…",
-        "fecha": "2026-08-10T20:16:00-03:00",
+        "titulo": "Depoimento sobre suposta armação contra vice de Flávio é enviado ao STF, e Lindbergh diz ser vítima",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/depoimento-sobre-suposta-armacao-contra-vice-de-flavio-e-enviado-ao-stf-e-lindbergh-diz-ser-vitima.shtml",
+        "desc": "A Câmara dos Deputados enviou ao STF (Supremo Tribunal Federal) o depoimento de um homem que acusa o deputado federal Lindbergh Farias ( PT -RJ) de participar de uma armação contra…",
+        "fecha": "2026-08-10T22:23:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "AO VIVO: assista à programação da NSC TV",
-        "enlace": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
-        "desc": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
-        "fecha": "2026-08-10T23:28:40",
+        "titulo": "Indígena percorre 600 km para expor grafismo Karipuna na Expofeira do AP: 'Representar meu povo não tem preço'",
+        "enlace": "https://g1.globo.com/ap/amapa/noticia/2026/08/10/indigena-percorre-600-km-para-expor-grafismo-karipuna-na-expofeira-do-ap-representar-meu-povo-nao-tem-preco.ghtml",
+        "desc": "Arte indígena da etnia Karipuna está presente na Expofeira. Isadora Pereira/g1 Para expor a arte do seu povo na Expofeira 2026, em Macapá, o artista Eddír Iaparrá Karipuna, de 28 a…",
+        "fecha": "2026-08-11T01:32:37",
         "fuente": "G1 Globo"
       }
     ],
-    "nacional_jp": [
-      {
-        "titulo": "Where do foreign residents in Japan want to die?",
-        "enlace": "https://www.japantimes.co.jp/community/2026/08/11/issues/foreign-residents-death-planning/",
-        "desc": "The question can be a difficult one for many, particularly those with religious beliefs that might not conform with how death is traditionally handled in Japan.",
-        "fecha": "2026-08-11T07:30:00+09:00",
-        "fuente": "Japan Times"
-      },
-      {
-        "titulo": "Strong quake rocks Colombia, causing extensive damage",
-        "enlace": "https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/",
-        "desc": "Officials report major damage and disruptions after a magnitude 7.4 earthquake shakes Colombia and prompts evacuations.",
-        "fecha": "2026-08-11T00:04:00+09:00",
-        "fuente": "Japan Times"
-      }
-    ],
+    "nacional_jp": [],
     "internacional_es": [
       {
-        "titulo": "El escándalo de un aliado de Trump amenaza un escaño clave en la batalla por el Congreso",
-        "enlace": "https://www.abc.es/internacional/escandalo-aliado-trump-amenaza-escano-clave-batalla-20260809012054-nt.html",
-        "desc": "La ajustada mayoría republicana en la Cámara de Representantes se enfrenta a un grave problema a menos de tres meses de las elecciones legislativas del 3 de noviembre, en las que D…",
-        "fecha": "2026-08-11T01:20:54+02:00",
+        "titulo": "Terremoto en Colombia, en directo: muertos, heridos, desaparecidos, aeropuertos cerrados y última hora del seísmo hoy",
+        "enlace": "https://www.abc.es/internacional/terremoto-colombia-directo-muertos-heridos-desaparecidos-aeropuertos-20260810170846-di.html",
+        "desc": "Sigue en directo la última hora del terremoto en Colombia, que también ha afectado a Ecuador y Panamá, con la cifra de muertos, heridos y poblaciones afectadas por el seísmo con ep…",
+        "fecha": "2026-08-11T01:53:34+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -350,14 +335,14 @@
         "titulo": "Trump asegura que EEUU controla el estrecho de Ormuz pese al bloqueo iraní",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-10/estados-unidos-iran-estrecho-ormuz-1tps_4404145/",
         "desc": "Irán, que negocia con Omán un posible acuerdo sobre el estrecho, difundió el sábado una lista de exigencias que EEUU debe cumplir para que se reabra el tráfico marítimo en esta vía…",
-        "fecha": "2026-08-10T23:39:28.093934+00:00",
+        "fecha": "2026-08-11T02:02:21.677785+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "Se intensifican las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 111 muertos y más de 500 heridos en Colombia",
+        "titulo": "Se intensifican las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia",
         "enlace": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
         "desc": "El recién inaugurado presidente de Colombia, Abelardo de la Espriella, decretó desastre nacional para actuar ante el sismo catalogado como el más fuerte de la última década. El epi…",
-        "fecha": "2026-08-10T23:39:28.768098+00:00",
+        "fecha": "2026-08-11T02:02:22.931853+00:00",
         "fuente": "BBC Mundo"
       },
       {
@@ -368,9 +353,9 @@
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "titulo": "Al menos 13 muertos en ataque con drones ucranianos en Rusia",
         "enlace": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "desc": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "desc": "Las autoridades rusas dicen que otras 75 personas resultaron heridas en el ataque, uno de los ataques con aviones no tripulados ucranianos más mortíferos desde la invasión a gran escala de Moscú.",
         "fecha": "2026-08-10T14:34:25+00:00",
         "fuente": "BBC World"
       },
@@ -382,10 +367,10 @@
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "El socialismo deja de ser marginal en EE.UU. y sacude al Partido Demócrata",
-        "enlace": "https://www.abc.es/internacional/socialismo-deja-marginal-eeuu-sacude-partido-democrata-20260806012045-nt.html",
-        "desc": "Lo impensable hace apenas un par de décadas ha ocurrido. El socialismo ha llegado, finalmente, a la política de los Estados Unidos de América . No ya como una fuerza marginal confi…",
-        "fecha": "2026-08-11T01:20:45+02:00",
+        "titulo": "El escándalo de un aliado de Trump amenaza un escaño clave en la batalla por el Congreso",
+        "enlace": "https://www.abc.es/internacional/escandalo-aliado-trump-amenaza-escano-clave-batalla-20260809012054-nt.html",
+        "desc": "La ajustada mayoría republicana en la Cámara de Representantes se enfrenta a un grave problema a menos de tres meses de las elecciones legislativas del 3 de noviembre, en las que D…",
+        "fecha": "2026-08-11T01:20:54+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -399,7 +384,7 @@
         "titulo": "De la Espriella declara \"desastre nacional\" por el seísmo que deja al menos 111 muertos",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-10/terremoto-colombia-desastre-risaralda-cauca-1tps_4404139/",
         "desc": "El Gobierno decreta la emergencia por el terremoto de sismo 7,4: al menos 71 fallecidos, graves daños en Risaralda, Valle y Chocó; ciudades con heridos y colapsos mientras avanzan …",
-        "fecha": "2026-08-10T23:39:28.093976+00:00",
+        "fecha": "2026-08-11T02:02:21.677857+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -419,24 +404,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Live: Russian missiles strike Kyiv, triggering fires in city centre",
-        "enlace": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
-        "desc": "Russian forces launched missile attacks on Kyiv and Zaporizhzhia early Tuesday, triggering fires in the Ukrainian capital and damaging buildings in the southeastern city, officials…",
-        "fecha": "2026-08-10T23:03:04+00:00",
+        "titulo": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto",
+        "enlace": "https://www.france24.com/en/technology/20260811-zuckerberg-envisions-superintelligence-for-everyone-in-ai-manifesto",
+        "desc": "Meta CEO Mark Zuckerberg on Monday laid out his vision for a future where everyone has a powerful personal AI agent, arguing that open-source technology can prevent control of adva…",
+        "fecha": "2026-08-11T01:42:51+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Beloved martial arts studio rises from Palisades fire ashes, with a Caruso behind the fight",
-        "enlace": "https://nypost.com/2026/08/10/us-news/palisades-martial-arts-gym-returns-after-fire-with-new-home-and-name/",
-        "desc": "After losing his home in the Palisades Fire, Justin Caruso is launching LUDUS, a new martial arts gym opening Aug. 15 at Palisades Village.",
-        "fecha": "2026-08-10T19:38:11-04:00",
+        "titulo": "Rep. Lauren Boebert’s troubled son arrested on child sexual exploitation charges",
+        "enlace": "https://nypost.com/2026/08/10/us-news/rep-lauren-boeberts-troubled-son-arrested-on-child-sexual-exploitation-charges/",
+        "desc": "Tyler Boebert, 21, was taken into custody by the Garfield County Sheriff's Office on an arrest warrant for “sexual exploitation of a child and multiple other charges,” the sheriff’…",
+        "fecha": "2026-08-10T21:54:48-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Turkey MPs back historic law on reintegrating PKK militants",
-        "enlace": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-all-1573-rdf",
-        "desc": "Turkey's parliament has taken a major step toward ending four decades of conflict with the PKK. The new law sets out how some militants can return to civilian life, but leaves Abdu…",
-        "fecha": "2026-08-10T23:39:33.164165+00:00",
+        "titulo": "Trump pushes overhaul of US childhood vaccine policy",
+        "enlace": "https://www.dw.com/en/trump-pushes-overhaul-of-us-childhood-vaccine-policy/a-78313546?maca=en-rss-en-all-1573-rdf",
+        "desc": "In an executive order, President Trump calls for fewer recommended childhood vaccinations and more spacing between shots. Medical experts warn the changes lack scientific backing a…",
+        "fecha": "2026-08-11T02:02:26.537682+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,10 +432,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Newly released text messages from 2021 show Fauci discussing vaccine risks to pregnant women",
-        "enlace": "https://www.oann.com/newsroom/newly-released-text-messages-from-2021-show-fauci-discussing-vaccine-risks-to-pregnant-women/",
-        "desc": "Senate Republicans have released new pandemic-era text messages revealing Anthony Fauci discussed potential COVID-19 vaccine risks to pregnant women.",
-        "fecha": "2026-08-10T23:21:03+00:00",
+        "titulo": "U.S. State Dept.: Trump admin. has revoked more than 175K visas held by foreign nationals since Jan. 2025",
+        "enlace": "https://www.oann.com/newsroom/u-s-state-dept-trump-admin-has-revoked-more-than-175k-visas-held-by-foreign-nationals-since-jan-2025/",
+        "desc": "The U.S. State Department announced on Monday that it has revoked more than 175,000 visas held by foreign nationals since President Donald Trump returned to office in January 2025.",
+        "fecha": "2026-08-11T01:26:30+00:00",
         "fuente": "OAN"
       },
       {
@@ -468,10 +453,10 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Trump pushes rethink of school vaccine mandates and MMR shots",
-        "enlace": "https://www.france24.com/en/americas/20260810-trump-pushes-rethink-of-school-vaccine-mandates-and-mmr-shots",
-        "desc": "US President Donald Trump signed an executive order on Monday calling for a rethink of school vaccine mandates and the separation of the combined measles, mumps and rubella (MMR) s…",
-        "fecha": "2026-08-10T22:15:14+00:00",
+        "titulo": "Live: Russian missiles strike Kyiv, triggering fires in city centre",
+        "enlace": "https://www.france24.com/en/europe/20260810-live-russian-missiles-strike-kyiv-triggering-fires-in-city-centre",
+        "desc": "Russian forces launched missile attacks on Kyiv and Zaporizhzhia early Tuesday, triggering fires in the Ukrainian capital and damaging buildings in the southeastern city, officials…",
+        "fecha": "2026-08-10T23:03:04+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,10 +469,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Ukraine en direct : attaques nocturnes meurtrières à Kiev et Zaporijjia",
-        "enlace": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
-        "desc": "Au moins une personne a été blessées à Kiev dans la nuit de lundi à mardi dans une attaque de missiles russes. À Zaporijjia, dans le sud-est du pays, une autre attaque russe noctur…",
-        "fecha": "2026-08-10T22:19:54+00:00",
+        "titulo": "Meta : face à la Chine, Mark Zuckerberg mise sur l'IA en libre accès",
+        "enlace": "https://www.france24.com/fr/%C3%A9co-tech/20260811-ia-intelligence-artificielle-meta-mark-zuckerberg-libre-acces-modeles-ouverts-chine-muse-glimmer",
+        "desc": "Meta a relancé lundi ses modèles d'intelligence artificielle en libre accès. Mark Zuckerberg défend cette stratégie face à la Chine, qui domine ce secteur, en plaidant que la diffu…",
+        "fecha": "2026-08-11T01:10:19+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -519,10 +504,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Aux États-Unis, l'offensive de Donald Trump et Robert F. Kennedy Jr contre les vaccins continue",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260810-etats-unis-offensive-donald-trump-robert-f-kennedy-jr-contre-vaccins-continue",
-        "desc": "Le président américain Donald Trump a signé lundi un décret avec de nouvelles recommandations vaccinales pour les enfants. Il appelle en particulier à dissocier les vaccins contre …",
-        "fecha": "2026-08-10T21:50:42+00:00",
+        "titulo": "Ukraine en direct : attaques nocturnes meurtrières à Kiev et Zaporijjia",
+        "enlace": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
+        "desc": "Au moins une personne a été blessées à Kiev dans la nuit de lundi à mardi dans une attaque de missiles russes. À Zaporijjia, dans le sud-est du pays, une autre attaque russe noctur…",
+        "fecha": "2026-08-10T22:19:54+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -549,17 +534,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Main-Kinzig-Kreis in Hessen: Menschen sollen wegen Waldbrand nicht mehr duschen",
-        "enlace": "https://www.spiegel.de/panorama/main-kinzig-kreis-in-hessen-menschen-sollen-wegen-waldbrand-nicht-mehr-duschen-a-62144201-019d-4370-80ca-5ead1da713e0#ref=rss",
-        "desc": "An der Grenze zwischen Hessen und Bayern tobt ein Waldbrand auf mehr als 30.000 Quadratmetern. Für die Bevölkerung in Freigericht, Bruchköbel und Langenselbold bedeutet dies erhebl…",
-        "fecha": "2026-08-11T01:02:00+02:00",
+        "titulo": "Okay, die Haare sind falsch – aber der Kugelbauch ist 100% Hathaway",
+        "enlace": "https://www.spiegel.de/panorama/leute/okay-die-haare-sind-falsch-aber-der-kugelbauch-ist-100-hathaway-a-b2b485c8-fce0-4a4a-b057-4c7a776930eb#ref=rss",
+        "desc": "Mit Hasskommentaren im Netz kennt sich Anne Hathaway aus. Und sie beherrscht den Konter: Dieses Mal ging es um Spekulationen zu ihrem Babybauch. Die Schauspielerin feuerte per Vide…",
+        "fecha": "2026-08-11T03:53:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Flugabwehr: Wie Kyjiw aus der US-Abhängigkeit kommen will",
         "enlace": "https://www.dw.com/de/flugabwehr-wie-kyjiw-aus-der-us-abhängigkeit-kommen-will/a-78307835?maca=de-rss-de-all-1119-rdf",
         "desc": "Russland setzt die Ukraine mit ballistischen Raketen unter Druck, doch Kyjiw fehlen Patriot-Abfangraketen. Eigene Produktion und europäische Alternativen brauchen Zeit. Wie realist…",
-        "fecha": "2026-08-10T23:39:36.489977+00:00",
+        "fecha": "2026-08-11T02:02:29.288282+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -572,22 +557,22 @@
       {
         "titulo": "Mindestens 13 Tote bei ukrainischem Drohnenangriff tief in Russland",
         "enlace": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "desc": "Nach Angaben russischer Beamter wurden bei dem Angriff weitere 75 Menschen verletzt – einer der tödlichsten ukrainischen Drohnenangriffe seit der umfassenden Invasion Moskaus.",
+        "desc": "Nach Angaben russischer Beamter wurden bei dem Angriff weitere 75 Menschen verletzt – einer der tödlichsten ukrainischen Drohnenangriffe seit der groß angelegten Invasion Moskaus.",
         "fecha": "2026-08-10T14:34:25+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Gautam Adani: US-Richter weist Anklage gegen indischen Milliardär ab",
-        "enlace": "https://www.spiegel.de/wirtschaft/gautam-adani-us-richter-weist-anklage-gegen-indischen-milliardaer-ab-a-bf02e4df-3ac9-43d5-80e8-27ea9a984f61#ref=rss",
-        "desc": "Gautam Adani gilt als einer der reichsten Menschen der Welt. Ein Verfahren gegen ihn wegen Betrugs und Bestechung wollte die Trump-Regierung unter dubiosen Umständen einstellen las…",
-        "fecha": "2026-08-11T00:33:00+02:00",
+        "titulo": "Mord-Drohung aus Iran: Donald Trump soll in Ankara heimlich auf Militärflieger umgestiegen sein",
+        "enlace": "https://www.spiegel.de/ausland/mord-drohung-aus-iran-donald-trump-soll-in-ankara-heimlich-auf-militaerflieger-umgestiegen-sein-a-0fae62fc-81d5-4ee7-a44f-62eed48247ab#ref=rss",
+        "desc": "Der Nato-Gipfel in der Türkei war beendet, da betrat US-Präsident Donald Trump vor laufenden Kameras seine alte »Air Force One«. Doch anders als offiziell behauptet, hob er offenba…",
+        "fecha": "2026-08-11T03:28:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Der Richter, der den Orban-Staat besiegte, wird Präsident",
         "enlace": "https://www.dw.com/de/der-richter-der-den-orban-staat-besiegte-wird-präsident/a-78308121?maca=de-rss-de-all-1119-rdf",
         "desc": "Andras Baka wurde unter Viktor Orban als Präsident des Obersten Gerichts abgesetzt und klagte später erfolgreich dagegen. Nun wird er Ungarns Staatspräsident - ein symbolischer Bru…",
-        "fecha": "2026-08-10T23:39:36.490018+00:00",
+        "fecha": "2026-08-11T02:02:29.288321+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -607,10 +592,10 @@
     ],
     "internacional_it": [
       {
-        "titulo": "Trump e la democrazia: la vignetta di Ellekappa",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/11/news/trump_e_la_democrazia_la_vignetta_di_ellekappa-425522560/?rss",
-        "desc": "",
-        "fecha": "2026-08-11T00:00:00+02:00",
+        "titulo": "Minaccia di un attentato iraniano e Trump lasciò la Turchia a bordo di un volo militare straordinario",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/11/news/minaccia_attentato_iraniano_trump_a_washington_con_volo_militare_straordinario_dopo_vertice_nato-425522808/?rss",
+        "desc": "La missione svelata dal Washington Post. Il messaggio del tycoon sui social fu uno strumento di depistaggio.",
+        "fecha": "2026-08-11T03:28:28+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -628,10 +613,10 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Usa, allarme degli ex 007: “C’è una deriva autoritaria, Trump ha troppo potere”",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/10/news/usa_allarme_ex_007_deriva_autoritaria_trump_troppo_potere-425522521/?rss",
-        "desc": "Il monito di The Steady State, gruppo di oltre 400 ex agenti dell’intelligence: “Culto della personalità ed erosione dei contrappesi, la democrazia è a rischio”",
-        "fecha": "2026-08-10T21:26:58+02:00",
+        "titulo": "Teheran, il rimpasto di Khamenei",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/11/news/teheran_rimpasto_khamenei_vertici_militari-425522731/?rss",
+        "desc": "La Guida formalizza i nuovi vertici militari. Alla sicurezza l’ex comandante dei Guardiani Mohsen Rezaei",
+        "fecha": "2026-08-11T01:00:00+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -651,38 +636,38 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "Plano de paz para Gaza. População desiludida com recusa de Israel",
-        "enlace": "https://www.rtp.pt/noticias/mundo/plano-de-paz-para-gaza-populacao-desiludida-com-recusa-de-israel_v1758769",
-        "desc": "O Hamas garante que está comprometido com a segunda fase do cessar-fogo em Gaza. É a resposta a Israel, que rejeitou o plano de paz proposto pelos Estados Unidos.",
-        "fecha": "2026-08-11T01:28:47+01:00",
+        "titulo": "2h Sismo Colômbia. Autoridades continuam a procurar sobreviventes",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/2h-sismo-colombia-autoridades-continuam-a-procurar-sobreviventes_a1_1758776",
+        "desc": "",
+        "fecha": "2026-08-11T03:32:01+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Ceuta, ou a fragilidade europeia",
-        "enlace": "https://observador.pt/opiniao/ceuta-ou-a-fragilidade-europeia/",
-        "desc": "A entrada de imigrantes sem controlo em Ceuta expõe acima de tudo, e de forma dramática, a incapacidade de defesa e segurança das fronteiras europeias.",
-        "fecha": "2026-08-11T00:25:58+01:00",
+        "titulo": "2h. Sismo Colômbia. Subiu para 132 o número de mortos",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2376/",
+        "desc": "É o que indica o último balanço feito pela Associação Colombiana de Cidades Capitais. Ainda, na Ucrânia morreram 5 pessoas e 21 ficaram feridas na sequência de ataques russos.",
+        "fecha": "2026-08-11T02:16:30+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Ao menos 111 mortos após o 'maior terremoto da década' atingir a Colômbia",
+        "titulo": "Ao menos 132 mortos após o 'maior terremoto da década' atingir a Colômbia",
         "enlace": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss",
         "desc": "O abalo foi sentido em praticamente todo o país e em partes do Panamá e do Equador, incluindo a região de Quito. No Brasil, moradores de Manaus relataram nas redes que também senti…",
-        "fecha": "2026-08-10T21:33:23+00:00",
+        "fecha": "2026-08-11T01:09:20+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Sismos na Venezuela. Número de mortos ultrapassa os 6.300",
-        "enlace": "https://www.rtp.pt/noticias/mundo/sismos-na-venezuela-numero-de-mortos-ultrapassa-os-6300_n1758766",
-        "desc": "O número de mortos na Venezuela pelo duplo sismo de 24 de junho atingiu 6.301, mais 176 em relação à contagem anterior, segundo dados divulgados pelas autoridades venezuelanas.",
-        "fecha": "2026-08-11T01:24:03+01:00",
+        "titulo": "01h Nova noite de ataques russos na Ucrânia",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/01h-nova-noite-de-ataques-russos-na-ucrania_a1_1758773",
+        "desc": "",
+        "fecha": "2026-08-11T02:17:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "\"Pole pole\"",
-        "enlace": "https://observador.pt/opiniao/pole-pole/",
-        "desc": "O nosso pole pole é «Ah, mas este solzinho não há noutro sítio do mundo». Ou «Sim, mas o peixe é muito bom».",
-        "fecha": "2026-08-11T00:24:49+01:00",
+        "titulo": "1h. Noite de ataques russos em várias regiões ucranianas",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2349/",
+        "desc": "De acordo com a Força Aérea Ucraniana, o espaço aéreo está em alerta. Ainda, Nuno Melo insiste no processo judicial contra André Ventura e Pedro Frazão devido às criticas à compra …",
+        "fecha": "2026-08-11T01:15:17+01:00",
         "fuente": "Observador"
       },
       {
@@ -792,7 +777,7 @@
       {
         "titulo": "Qui Arsenal pourrait-il signer après avoir raté Vinicius Jr ?",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
-        "desc": "Une grosse signature manquée, mais une grosse signature à travers les portes – cela a été une fenêtre de transfert mitigée pour Arsenal.",
+        "desc": "One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.",
         "fecha": "2026-08-10T20:32:37+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -802,7 +787,7 @@
         "titulo": "Verbände werfen FIFA-Präsident Infantino \"Täuschung\" vor",
         "enlace": "https://www.dw.com/de/verbände-werfen-fifa-präsident-infantino-täuschung-vor/a-78305179?maca=de-rss-de-sport-4020-rdf",
         "desc": "Drei Fußball-Dachverbände zeigen gegen Gianni Infantino Zusammenhalt. Europa, Asien sowie Nord- und Mittelamerika erneuern ihre Kritik am Weltverband. Sie werfen dem FIFA-Präsident…",
-        "fecha": "2026-08-10T23:39:53.178154+00:00",
+        "fecha": "2026-08-11T02:02:44.012038+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,7 +801,7 @@
         "titulo": "Gianni Infantino: Der mächtigste Mann im Weltfußball",
         "enlace": "https://www.dw.com/de/gianni-infantino-der-mächtigste-mann-im-weltfußball/a-78248957?maca=de-rss-de-sport-4020-rdf",
         "desc": "Gianni Infantino bleibt FIFA-Präsident - trotz wachsender Rücktrittsforderungen. Wer ist der mächtigste Mann im Weltfußball? Warum wandte sich die UEFA gegen ihn? Und wie behauptet…",
-        "fecha": "2026-08-10T23:39:53.178194+00:00",
+        "fecha": "2026-08-11T02:02:44.012081+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -846,10 +831,10 @@
     "deportes_pt": [],
     "ciencia_es": [
       {
-        "titulo": "Cómo fotografiar y grabar el eclipse total de Sol con el móvil sin estropear el sensor de la cámara",
-        "enlace": "https://www.abc.es/ciencia/fotografiar-eclipse-solar-agosto-movil-disfrutarlo-perderte-20260728141556-nt.html",
-        "desc": "En apenas unos días, millones de personas levantaremos la vista al cielo al mismo tiempo. Algunas lo harán por curiosidad, otras porque llevan años preparando este instante, pero m…",
-        "fecha": "2026-08-10T14:15:56+02:00",
+        "titulo": "Samuel Biener, meteorólogo: «Hasta pocas horas antes del eclipse no se podrá saber con seguridad en qué zonas de España lloverá»",
+        "enlace": "https://www.abc.es/ciencia/samuel-biener-meteorologo-pocas-horas-eclipse-podra-20260809013042-nt.html",
+        "desc": "Los eclipses, si bien son fenómenos astronómicos inevitables –el rumbo de los planetas, sus lunas y las estrellas es imposible de cambiar–, sí tienen un 'monstruo final' capaz de e…",
+        "fecha": "2026-08-11T01:30:42+02:00",
         "fuente": "ABC Ciencia"
       },
       {
@@ -860,17 +845,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Se intensifican las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 111 muertos y más de 500 heridos en Colombia",
+        "titulo": "Se intensifican las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia",
         "enlace": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
         "desc": "El recién inaugurado presidente de Colombia, Abelardo de la Espriella, decretó desastre nacional para actuar ante el sismo catalogado como el más fuerte de la última década. El epi…",
-        "fecha": "2026-08-10T23:40:05.057251+00:00",
+        "fecha": "2026-08-11T02:02:56.400150+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Corrección del autor: Energía fotovoltaica en tándem de perovskita totalmente inorgánica y duradera",
         "enlace": "https://www.nature.com/articles/s41586-026-10984-9",
         "desc": "Naturaleza, Publicado en línea: 10 de agosto de 2026; doi:10.1038/s41586-026-10984-9 Corrección del autor: Energía fotovoltaica en tándem de perovskita totalmente inorgánica y duradera",
-        "fecha": "2026-08-10T23:40:05.394689+00:00",
+        "fecha": "2026-08-11T02:02:56.736410+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -881,10 +866,10 @@
         "fuente": "NASA EN"
       },
       {
-        "titulo": "Simulan células alienígenas para 'cazar vida' en otros mundos",
-        "enlace": "https://www.abc.es/ciencia/simulan-celulas-alienigenas-cazar-vida-mundos-20260810011305-nt.html",
-        "desc": "Hace sólo un par de días ABC publicaba la noticia de que, por primera vez, un modelo de Inteligencia Artificial ha conseguido generar y construir, bloque a bloque y desde cero, un …",
-        "fecha": "2026-08-10T01:13:05+02:00",
+        "titulo": "Cómo fotografiar y grabar el eclipse total de Sol con el móvil sin estropear el sensor de la cámara",
+        "enlace": "https://www.abc.es/ciencia/fotografiar-eclipse-solar-agosto-movil-disfrutarlo-perderte-20260728141556-nt.html",
+        "desc": "En apenas unos días, millones de personas levantaremos la vista al cielo al mismo tiempo. Algunas lo harán por curiosidad, otras porque llevan años preparando este instante, pero m…",
+        "fecha": "2026-08-10T14:15:56+02:00",
         "fuente": "ABC Ciencia"
       },
       {
@@ -905,11 +890,11 @@
         "titulo": "Corrección del autor: La cooperación entra en conflicto con la igualdad al asignar bienes públicos",
         "enlace": "https://www.nature.com/articles/s41586-026-10973-y",
         "desc": "Naturaleza, Publicado en línea: 10 de agosto de 2026; doi:10.1038/s41586-026-10973-y Corrección del autor: La cooperación entra en conflicto con la igualdad al asignar bienes públicos",
-        "fecha": "2026-08-10T23:40:05.394728+00:00",
+        "fecha": "2026-08-11T02:02:56.736450+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+        "titulo": "NASA+ debuta en Discovery+, próximamente en HBO Max",
         "enlace": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
         "desc": "Mientras NASA+ continúa su expansión a través de múltiples plataformas de transmisión para acercar el espacio a casa, la NASA anunció el lunes que la programación se dirigirá a Discovery+ y HBO Max. Un c…",
         "fecha": "2026-08-10T16:30:13+00:00",
@@ -921,7 +906,7 @@
         "titulo": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
         "enlace": "https://www.nature.com/articles/s41586-026-10984-9",
         "desc": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10984-9 Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
-        "fecha": "2026-08-10T23:40:07.200912+00:00",
+        "fecha": "2026-08-11T02:02:58.831689+00:00",
         "fuente": "Nature"
       },
       {
@@ -946,10 +931,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Scientific advancement has never been more prolific—so why has trust in science plummeted?",
-        "enlace": "https://phys.org/news/2026-08-scientific-advancement-prolific-science-plummeted.html",
-        "desc": "From genome editing to quantum computing, scientific progress is accelerating at an unprecedented pace, yet public faith in science is collapsing. Our species has mapped the human …",
-        "fecha": "2026-08-10T19:40:03-04:00",
+        "titulo": "Ancient Maltese seafarers likely navigated by the stars",
+        "enlace": "https://phys.org/news/2026-08-ancient-maltese-seafarers-stars.html",
+        "desc": "Malta might be the last place one would expect a convergence of archeoastronomy and early cosmology. Today, it's better known as a billionaire tax haven and a favorite production l…",
+        "fecha": "2026-08-10T20:20:01-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -967,10 +952,10 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-        "enlace": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-        "desc": "Michael Sheen investigates claims cancer-causing chemicals were dumped across Wales.",
-        "fecha": "2026-08-10T23:25:12+00:00",
+        "titulo": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+        "enlace": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
+        "desc": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
+        "fecha": "2026-08-11T01:59:24+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -984,7 +969,7 @@
         "titulo": "Author Correction: Cooperation conflicts with equality when allocating public goods",
         "enlace": "https://www.nature.com/articles/s41586-026-10973-y",
         "desc": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-y Author Correction: Cooperation conflicts with equality when allocating public goods",
-        "fecha": "2026-08-10T23:40:07.200948+00:00",
+        "fecha": "2026-08-11T02:02:58.831729+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +985,7 @@
         "titulo": "Correction de l'auteur : Photovoltaïque tandem durable à base de pérovskite entièrement inorganique",
         "enlace": "https://www.nature.com/articles/s41586-026-10984-9",
         "desc": "Nature, Mise en ligne : 10 août 2026 ; doi:10.1038/s41586-026-10984-9 Correction de l'auteur : Photovoltaïque durable en tandem à pérovskite entièrement inorganique",
-        "fecha": "2026-08-10T23:40:12.737986+00:00",
+        "fecha": "2026-08-11T02:03:03.183323+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +999,7 @@
         "titulo": "Correction de l'auteur : La coopération entre en conflit avec l'égalité lors de l'attribution des biens publics",
         "enlace": "https://www.nature.com/articles/s41586-026-10973-y",
         "desc": "Nature, Mise en ligne : 10 août 2026 ; doi:10.1038/s41586-026-10973-y Correction de l'auteur : La coopération entre en conflit avec l'égalité lors de l'attribution des biens publics",
-        "fecha": "2026-08-10T23:40:12.738026+00:00",
+        "fecha": "2026-08-11T02:03:03.183363+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1008,28 @@
         "titulo": "100 Tage Isolation: Projekt SOLIS100 ist zu Ende",
         "enlace": "https://www.dw.com/de/100-tage-isolation-projekt-solis100-ist-zu-ende/a-78287936?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Keine Freunde, keine Familie - dafür aber fünf Kollegen rund um die Uhr: Das war die Konstellation, in der die Freiwilligen dabei halfen, wichtige Erkenntnisse für lange Weltraummi…",
-        "fecha": "2026-08-10T23:40:14.230664+00:00",
+        "fecha": "2026-08-11T02:03:05.111582+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Langlebige rein anorganische Perowskit-Tandem-Photovoltaik",
         "enlace": "https://www.nature.com/articles/s41586-026-10984-9",
         "desc": "Natur, Online veröffentlicht: 10. August 2026; doi:10.1038/s41586-026-10984-9 Autorenkorrektur: Langlebige rein anorganische Perowskit-Tandem-Photovoltaik",
-        "fecha": "2026-08-10T23:40:14.458484+00:00",
+        "fecha": "2026-08-11T02:03:05.271427+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Der heißeste Sommer? So werden Temperatur-Rekorde gemessen",
         "enlace": "https://www.dw.com/de/der-heißeste-sommer-so-werden-temperatur-rekorde-gemessen/a-78277509?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Woher wissen Wissenschaftler, ob ein Tag oder Sommer tatsächlich der heißeste seit Beginn der Aufzeichnungen war? Und woher kommt die Skepsis an den Daten? Die DW hat Experten zum …",
-        "fecha": "2026-08-10T23:40:14.230701+00:00",
+        "fecha": "2026-08-11T02:03:05.111625+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Bei der Verteilung öffentlicher Güter steht Kooperation im Widerspruch zur Gleichheit",
         "enlace": "https://www.nature.com/articles/s41586-026-10973-y",
-        "desc": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-y Author Correction: Cooperation conflicts with equality when allocating public goods",
-        "fecha": "2026-08-10T23:40:14.458520+00:00",
+        "desc": "Natur, Online veröffentlicht: 10. August 2026; doi:10.1038/s41586-026-10973-y Korrektur des Autors: Kooperation steht im Widerspruch zur Gleichheit bei der Zuteilung öffentlicher Güter",
+        "fecha": "2026-08-11T02:03:05.271467+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,37 +1038,37 @@
         "titulo": "Correzione dell'autore: fotovoltaico tandem con perovskite completamente inorganica durevole",
         "enlace": "https://www.nature.com/articles/s41586-026-10984-9",
         "desc": "Natura, Pubblicato online: 10 agosto 2026; doi:10.1038/s41586-026-10984-9 Correzione dell'autore: fotovoltaico tandem con perovskite completamente inorganica durevole",
-        "fecha": "2026-08-10T23:40:16.474592+00:00",
+        "fecha": "2026-08-11T02:03:07.476691+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Correzione dell'autore: La cooperazione è in conflitto con l'uguaglianza nell'allocazione dei beni pubblici",
         "enlace": "https://www.nature.com/articles/s41586-026-10973-y",
         "desc": "Natura, Pubblicato online: 10 agosto 2026; doi:10.1038/s41586-026-10973-y Correzione dell'autore: la cooperazione è in conflitto con l'uguaglianza nell'allocazione dei beni pubblici",
-        "fecha": "2026-08-10T23:40:16.474627+00:00",
+        "fecha": "2026-08-11T02:03:07.476733+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Ceuta, ou a fragilidade europeia",
-        "enlace": "https://observador.pt/opiniao/ceuta-ou-a-fragilidade-europeia/",
-        "desc": "A entrada de imigrantes sem controlo em Ceuta expõe acima de tudo, e de forma dramática, a incapacidade de defesa e segurança das fronteiras europeias.",
-        "fecha": "2026-08-11T00:25:58+01:00",
+        "titulo": "2h. Sismo Colômbia. Subiu para 132 o número de mortos",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2376/",
+        "desc": "É o que indica o último balanço feito pela Associação Colombiana de Cidades Capitais. Ainda, na Ucrânia morreram 5 pessoas e 21 ficaram feridas na sequência de ataques russos.",
+        "fecha": "2026-08-11T02:16:30+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Ao menos 111 mortos após o 'maior terremoto da década' atingir a Colômbia",
+        "titulo": "Ao menos 132 mortos após o 'maior terremoto da década' atingir a Colômbia",
         "enlace": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss",
         "desc": "O abalo foi sentido em praticamente todo o país e em partes do Panamá e do Equador, incluindo a região de Quito. No Brasil, moradores de Manaus relataram nas redes que também senti…",
-        "fecha": "2026-08-10T21:33:23+00:00",
+        "fecha": "2026-08-11T01:09:20+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "\"Pole pole\"",
-        "enlace": "https://observador.pt/opiniao/pole-pole/",
-        "desc": "O nosso pole pole é «Ah, mas este solzinho não há noutro sítio do mundo». Ou «Sim, mas o peixe é muito bom».",
-        "fecha": "2026-08-11T00:24:49+01:00",
+        "titulo": "1h. Noite de ataques russos em várias regiões ucranianas",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2349/",
+        "desc": "De acordo com a Força Aérea Ucraniana, o espaço aéreo está em alerta. Ainda, Nuno Melo insiste no processo judicial contra André Ventura e Pedro Frazão devido às criticas à compra …",
+        "fecha": "2026-08-11T01:15:17+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1096,17 +1081,17 @@
     ],
     "economia_es": [
       {
-        "titulo": "Santander lanzará este mes un programa de recompra de acciones de 1.825 millones",
-        "enlace": "https://www.expansion.com/empresas/banca/2026/08/10/6a79fb96e5fdea0b128b457c.html",
-        "desc": "Supone repartir el 25% del beneficio obtenido entre enero y junio. El otro 25% se distribuye en forma de dividendo en efectivo, que se someterá a votación en el consejo de administ…",
-        "fecha": "2026-08-10T18:35:39+02:00",
+        "titulo": "El 70% de la vivienda de lujo en venta está en Madrid, Málaga, Baleares y Barcelona",
+        "enlace": "https://www.expansion.com/inmobiliario/2026/08/11/6a7a37fc468aeb9b1e8b45ab.html",
+        "desc": "España cuenta con 46.454 inmuebles a la venta por más de un millón de euros, de acuerdo con los datos de Idealista, repartidos de forma muy desigual entre todas las provincias, sal…",
+        "fecha": "2026-08-11T00:05:02+02:00",
         "fuente": "Expansión"
       },
       {
-        "titulo": "El foro 'Emerging Markets Summit', en imágenes",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
-        "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-10T23:40:20.894009+00:00",
+        "titulo": "JP Morgan eleva su valoración para el S&P 500 y aleja una burbuja: la IA ya da sus frutos",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-08-10/jp-morgan-objetivo-s-p-500-ia-frutos_4403868/",
+        "desc": "La banca estadounidense revisa las estimaciones sobre la bolsa de Wall Street apuntando a superar la barrera de los 8.000 puntos",
+        "fecha": "2026-08-11T02:03:12.640850+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,10 +1102,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El petróleo mantiene ganancias, el yen en la mira tras debilitarse: los mercados cierran",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-        "desc": "El petróleo mantuvo sus ganancias mientras las desvanecidas esperanzas de un acuerdo para reabrir el Estrecho de Ormuz revivieron las preocupaciones sobre la inflación antes de los datos clave de Estados Unidos de esta semana.",
-        "fecha": "2026-08-10T22:08:16+00:00",
+        "titulo": "Las teteras chinas pueden impulsar las compras de petróleo de Irán a medida que disminuyen las reservas",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+        "desc": "La reducción de las reservas regionales de petróleo en manos de las refinerías independientes de China en la provincia de Shandong puede estimular una mayor compra de crudo iraní, ofreciendo a Teherán un impulso necesario después de un período...",
+        "fecha": "2026-08-11T01:39:54+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1131,17 +1116,17 @@
         "fuente": "CNBC"
       },
       {
-        "titulo": "Florentino Pérez se refuerza como principal accionista de ACS tras elevar su participación al 15%",
-        "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/08/10/6a79f5ef468aeb6f7f8b458d.html",
-        "desc": "El presidente de la constructora controla un paquete de 41,61 millones de acciones que tiene un valor de 4.539 millones de euros.&nbsp; Leer",
-        "fecha": "2026-08-10T18:03:17+02:00",
+        "titulo": "Orange plantea mantener a Huawei o incluir a Nokia en su red móvil",
+        "enlace": "https://www.expansion.com/empresas/tecnologia/2026/08/11/6a7a3dfae5fdea97158b4599.html",
+        "desc": "La filial española cuestiona el pacto que preveía pasar el 100% de su red a Ericsson. Ahora se abre a mantener a la china Huawei o incluso usar Nokia o Samsung como tercero en func…",
+        "fecha": "2026-08-11T02:14:04+02:00",
         "fuente": "Expansión"
       },
       {
-        "titulo": "Foro 'Ideas con Valor', en imágenes",
-        "enlace": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
-        "desc": "El Confidencial volvió a reunir a expertos de distintos ámbitos para poner el foco en 3 bloques imprescindibles para la sociedad: acción social, sostenibilidad y finanzas personale…",
-        "fecha": "2026-08-10T23:40:20.894048+00:00",
+        "titulo": "Los grandes bufetes de EEUU exploran vender participaciones a fondos de capital riesgo",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-08-06/capital-privado-bufetes-abogados-inversion-1hms_4401784/",
+        "desc": "Firmas como Paul Weiss, Quinn Emanuel y Proskauer evalúan estructuras corporativas para dar entrada al 'private equity' sin violar las normas éticas",
+        "fecha": "2026-08-11T02:03:12.640890+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,10 +1137,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Los comerciantes están recurriendo a las opciones en dólares taiwaneses para apostar por el rebote",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
-        "desc": "Los operadores de divisas están aumentando las apuestas de opciones alcistas sobre el dólar taiwanés, lo que indica un cambio en el sentimiento después de que la moneda sufriera su peor julio desde 2015.",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "El oro sube por encima de los 4.400 dólares mientras los traders centran su atención en la inflación estadounidense",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+        "desc": "El oro avanzó hasta un máximo de dos meses por encima de los 4.400 dólares la onza antes de un informe clave sobre la inflación en Estados Unidos que podría proporcionar nuevas pistas sobre el apetito de la Reserva Federal por un aumento de las tasas de interés...",
+        "fecha": "2026-08-10T23:33:50+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1168,17 +1153,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "Oil Holds Gains, Yen in Focus After Weakening: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-        "desc": "Oil held onto gains as fading hopes for a deal to reopen the Strait of Hormuz revived inflation concerns before key US data this week.",
-        "fecha": "2026-08-10T22:08:16+00:00",
+        "titulo": "China’s Teapots May Boost Iran Oil Buying as Stockpiles Dwindle",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+        "desc": "Shrinking regional oil stockpiles held by China’s independent refiners in Shandong province may spur increased buying of Iranian crude, offering Tehran a needed boost after a perio…",
+        "fecha": "2026-08-11T01:39:54+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "LARRY KUDLOW: Tell AOC and the comrades to stay home — America is doing very well, thank you very much",
-        "enlace": "https://www.foxbusiness.com/politics/larry-kudlow-tell-aoc-comrades-stay-home-america-doing-very-well-thank-you-very-much",
-        "desc": "AOC is trying to back out of a lot of issues and values for which she herself has stood",
-        "fecha": "2026-08-10T17:48:35-04:00",
+        "titulo": "Nearly 30,000 pounds of raw beef recalled over missed import inspection",
+        "enlace": "https://www.foxbusiness.com/economy/nearly-30000-pounds-raw-beef-recalled-over-missed-import-inspection",
+        "desc": "Nearly 30,000 pounds of raw beef imported from Argentina were recalled after bypassing required reinspection one arriving in the U.S., officials said.",
+        "fecha": "2026-08-10T20:57:51-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1196,17 +1181,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
-        "desc": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+        "desc": "Gold advanced to a two-month high above $4,400 an ounce ahead of a key US inflation report that could provide fresh clues to the Federal Reserve’s appetite for an interest-rate hik…",
+        "fecha": "2026-08-10T23:33:50+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Wealthy Americans look to New Zealand as demand for 'golden visas' booms",
-        "enlace": "https://www.foxbusiness.com/economy/wealthy-americans-look-new-zealand-demand-golden-visas-booms",
-        "desc": "Over 700 wealthy foreigners have applied for New Zealand&apos;s golden visa in 14 months, with Americans filing more than one-third of applications.",
-        "fecha": "2026-08-10T17:34:48-04:00",
+        "titulo": "Zoox CEO says autonomous vehicles need regulation after robotaxi drove into Las Vegas fire scene",
+        "enlace": "https://www.foxbusiness.com/media/zoox-ceo-says-autonomous-vehicles-need-regulation-after-robotaxi-drove-las-vegas-fire-scene",
+        "desc": "Zoox CEO Aicha Evans told FOX Business the Amazon robotaxi needs regulation after a vehicle drove into heavy smoke at an emergency scene in in Las Vegas.",
+        "fecha": "2026-08-10T20:41:46-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1226,63 +1211,63 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Le pétrole maintient ses gains, le yen au centre de l'attention après son affaiblissement : les marchés se replient",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-        "desc": "Le pétrole a conservé ses gains alors que les espoirs s'estompant d'un accord pour rouvrir le détroit d'Ormuz ont ravivé les craintes d'inflation avant les données clés américaines de cette semaine.",
-        "fecha": "2026-08-10T22:08:16+00:00",
+        "titulo": "Les théières chinoises pourraient stimuler les achats de pétrole iranien alors que les stocks diminuent",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+        "desc": "La diminution des stocks régionaux de pétrole détenus par les raffineurs indépendants chinois dans la province du Shandong pourrait stimuler les achats de brut iranien, offrant à Téhéran un coup de pouce nécessaire après une période…",
+        "fecha": "2026-08-11T01:39:54+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Les traders abondent dans les options sur le dollar taïwanais pour parier sur le rebond",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
-        "desc": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "L'or grimpe au-dessus de 4 400 $ alors que les traders se concentrent sur l'inflation américaine",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+        "desc": "L’or a atteint un plus haut de deux mois au-dessus de 4 400 dollars l’once avant la publication d’un rapport clé sur l’inflation américaine qui pourrait fournir de nouveaux indices sur l’appétit de la Réserve fédérale pour une hausse des taux d’intérêt…",
+        "fecha": "2026-08-10T23:33:50+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Künstliche Intelligenz: Nvidia plant neuen Mega-Deal mit Wall-Street-Investoren",
-        "enlace": "https://www.handelsblatt.com/technik/it-internet/ki-nvidia-plant-mega-deal-mit-wall-street-investoren/100246324.html",
-        "desc": "Der Chiphersteller soll über die Finanzierung von KI-Infrastruktur im Umfang von 500 Milliarden US-Dollar verhandeln. Dabei werden bekannte Fonds genannt.",
-        "fecha": "2026-08-10T22:29:16+00:00",
+        "titulo": "US-Präsident: Über zehn Kunden für früheren Zugang zu Trumps Online-Posts",
+        "enlace": "https://www.handelsblatt.com/technik/it-internet/us-praesident-ueber-zehn-kunden-fuer-frueheren-zugang-zu-trumps-online-posts/100246355.html",
+        "desc": "Wer bis zu 100.000 Dollar pro Monat zahlt, bekommt früheren Zugang zu Beiträgen von Donald Trump auf dessen Plattform Truth Social. Das Angebot ist umstritten - aber die Finanzbran…",
+        "fecha": "2026-08-11T01:48:12+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Öl hält Gewinne, Yen im Fokus nach Abschwächung: Marktumbruch",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-        "desc": "Der Ölpreis konnte seine Gewinne halten, da die schwindenden Hoffnungen auf eine Einigung zur Wiedereröffnung der Straße von Hormus vor wichtigen US-Daten diese Woche die Inflationssorgen wieder aufleben ließen.",
-        "fecha": "2026-08-10T22:08:16+00:00",
+        "titulo": "Chinas Teekannen könnten den iranischen Ölkauf ankurbeln, da die Vorräte schwinden",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+        "desc": "Schrumpfende regionale Ölvorräte, die von Chinas unabhängigen Raffinerien in der Provinz Shandong gehalten werden, könnten zu verstärkten Käufen von iranischem Rohöl führen und Teheran nach einer Zeitspanne den nötigen Auftrieb geben …",
+        "fecha": "2026-08-11T01:39:54+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Kurdenkonflikt: Schritt zum Frieden? - Türkei bringt PKK-Gesetz auf den Weg",
-        "enlace": "https://www.handelsblatt.com/politik/international/kurdenkonflikt-schritt-zum-frieden-tuerkei-bringt-pkk-gesetz-auf-den-weg/100246336.html",
-        "desc": "Wie einen jahrzehntelangen blutigen Konflikt befrieden? In der Türkei ebnet ein Gesetz den Weg für die Freilassung von PKK-Mitgliedern oder deren Rückkehr aus dem Exil. Doch es gib…",
-        "fecha": "2026-08-10T22:01:05+00:00",
+        "titulo": "+++ Iran-Krieg +++: Dieselpreise steigen nach Angriffen auf Raffinerien deutlich",
+        "enlace": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-plant-gebuehren-fuer-strasse-von-hormus/100136895.html",
+        "desc": "Trump verlängert Ausnahmen für Öltransport +++ Trump verlangt Entschädigungen vom Iran +++ Iran plant Gebühren für Straße von Hormus +++ Der Newsblog.",
+        "fecha": "2026-08-11T01:40:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
-        "desc": "Devisenhändler verstärken ihre bullischen Optionswetten auf den Taiwan-Dollar und signalisieren damit einen Stimmungsumschwung, nachdem die Währung im Juli den schlimmsten seit 2015 erlitten hat.",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "Gold klettert über 4.400 $, da sich Händler auf die US-Inflation konzentrieren",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+        "desc": "Gold stieg im Vorfeld eines wichtigen US-Inflationsberichts, der neue Hinweise auf den Appetit der Federal Reserve auf eine Zinserhöhung liefern könnte, auf ein Zweimonatshoch von über 4.400 US-Dollar pro Unze.",
+        "fecha": "2026-08-10T23:33:50+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Il petrolio mantiene i guadagni, lo yen al centro dell'attenzione dopo l'indebolimento: i mercati si chiudono",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-        "desc": "Il petrolio ha mantenuto i guadagni mentre le speranze in declino per un accordo per la riapertura dello Stretto di Hormuz hanno ravvivato le preoccupazioni sull’inflazione prima dei dati chiave statunitensi di questa settimana.",
-        "fecha": "2026-08-10T22:08:16+00:00",
+        "titulo": "Le teiere cinesi potrebbero stimolare gli acquisti di petrolio iraniano mentre le scorte diminuiscono",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+        "desc": "La riduzione delle scorte regionali di petrolio detenute dalle raffinerie indipendenti cinesi nella provincia di Shandong potrebbe stimolare un aumento degli acquisti di greggio iraniano, offrendo a Teheran la spinta necessaria dopo un periodo...",
+        "fecha": "2026-08-11T01:39:54+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "I trader stanno investendo in opzioni sul dollaro taiwanese per scommettere sul rimbalzo",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
-        "desc": "I trader valutari stanno intensificando le scommesse rialziste sulle opzioni sul dollaro di Taiwan, segnalando un cambiamento nel sentiment dopo che la valuta ha sofferto il suo peggior luglio dal 2015.",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "L'oro sale sopra i 4.400 dollari mentre i trader si concentrano sull'inflazione statunitense",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+        "desc": "L’oro è salito al massimo di due mesi sopra i 4.400 dollari l’oncia in vista di un importante rapporto sull’inflazione negli Stati Uniti che potrebbe fornire nuovi indizi sulla propensione della Federal Reserve ad un rialzo dei tassi di interesse…",
+        "fecha": "2026-08-10T23:33:50+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
@@ -1295,10 +1280,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Petróleo mantém ganhos, iene em foco após enfraquecimento: mercados embrulhados",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
-        "desc": "O petróleo manteve os ganhos enquanto as esperanças de um acordo para reabrir o Estreito de Ormuz reavivavam as preocupações com a inflação antes dos principais dados dos EUA esta semana.",
-        "fecha": "2026-08-10T22:08:16+00:00",
+        "titulo": "Os bules da China podem impulsionar a compra de petróleo pelo Irã à medida que os estoques diminuem",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+        "desc": "A redução dos estoques regionais de petróleo mantidos pelas refinarias independentes da China na província de Shandong pode estimular o aumento da compra de petróleo iraniano, oferecendo a Teerã um impulso necessário após um período…",
+        "fecha": "2026-08-11T01:39:54+00:00",
         "fuente": "Bloomberg EN"
       },
       {
@@ -1309,10 +1294,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Traders estão apostando em opções de dólares de Taiwan para apostar na recuperação",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
-        "desc": "Os traders de câmbio estão intensificando as apostas otimistas em opções sobre o dólar de Taiwan, sinalizando uma mudança no sentimento depois que a moeda sofreu o pior julho desde 2015.",
-        "fecha": "2026-08-10T23:00:00+00:00",
+        "titulo": "Ouro sobe acima de US$ 4.400 enquanto traders voltam o foco para a inflação nos EUA",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+        "desc": "O ouro avançou para um máximo de dois meses, acima dos 4.400 dólares por onça, antes de um relatório importante sobre a inflação nos EUA, que poderá fornecer novas pistas sobre o apetite da Reserva Federal por uma subida das taxas de juro…",
+        "fecha": "2026-08-10T23:33:50+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
