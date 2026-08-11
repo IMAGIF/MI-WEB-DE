@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T21:52:57.974993+00:00",
+  "actualizado": "2026-08-11T22:49:00.457129+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -34,14 +34,14 @@
         "titulo": "El Instituto Coordenadas reclama un respaldo \"sin reservas\" a Schengen aunque 10 países mantienen controles interiores",
         "enlace": "https://www.elconfidencial.com/espana/2026-08-11/schengen-fronteras-controles-circulacion-europa-1hms-1svm_4404492/",
         "desc": "Una publicación de la entidad urge a blindar la libre circulación: alerta de controles internos prolongados, alto coste económico y pide plazo de 24 meses para revertirlos",
-        "fecha": "2026-08-11T21:53:01.876079+00:00",
+        "fecha": "2026-08-11T22:49:02.153742+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Dónde ver el eclipse solar total en Madrid el 12 de agosto: estos son los 11 lugares donde se hará completamente de noche",
-        "enlace": "https://okdiario.com/madrid/donde-ver-eclipse-solar-total-madrid-12-agosto-estos-son-11-lugares-donde-hara-completamente-noche-18969376",
-        "desc": "Quedan pocas semanas para que llegue una fecha que muchos ya tienen marcada desde hace tiempo. El próximo 12 de agosto, cuando llegue la tarde, el cielo va a cambiar de aspecto dur…",
-        "fecha": "2026-08-11T23:45:16+02:00",
+        "titulo": "Terremoto en Colombia, última hora en directo: fallecidos, víctimas, rescates y situación en Cali, Pereira y Chocó hoy en vivo",
+        "enlace": "https://okdiario.com/internacional/terremoto-colombia-ultima-hora-directo-fallecidos-victimas-rescates-situacion-cali-pereira-choco-hoy-vivo-19158449",
+        "desc": "Colombia afronta este martes una nueva jornada marcada por las consecuencias del devastador terremoto de magnitud 7,4 registrado el lunes con epicentro en San José del Palmar, en e…",
+        "fecha": "2026-08-12T00:32:13+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -75,10 +75,24 @@
     ],
     "nacional_us": [
       {
-        "titulo": "Suspect in off-duty Philadelphia officer’s car theft linked to killing of Penn State student: police",
-        "enlace": "https://www.foxnews.com/us/suspect-off-duty-philadelphia-officer-car-theft-linked-killing-penn-state-student-police",
-        "desc": "Khadfi Fleming is wanted in a Philadelphia car theft and is also allegedly a suspect in the murder of Penn State University student Billy Schmidt.",
-        "fecha": "2026-08-11T17:04:40-04:00",
+        "titulo": "Georgia teacher, father hailed as hero after dying to save girl from Myrtle Beach rip current",
+        "enlace": "https://www.foxnews.com/us/georgia-teacher-father-hailed-hero-dying-save-girl-myrtle-beach-rip-current",
+        "desc": "Derrick Moore, a Georgia teacher and father of four, rescued a stranger&apos;s child from a rip current off Myrtle Beach, South Carolina, before vanishing.",
+        "fecha": "2026-08-11T18:31:36-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+        "enlace": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+        "desc": "Sen. Darline Graham, who is serving out the remainder of her brother's term, faces a crowded field of candidates to replace him on the ballot as the Republican nominee for U.S. Sen…",
+        "fecha": "2026-08-11T18:39:22-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Man, 20, dies in 'horrific accident' after slipping from towering Oregon waterfall",
+        "enlace": "https://www.foxnews.com/us/man-20-dies-horrific-accident-slipping-towering-oregon-waterfall",
+        "desc": "The visitor reportedly ventured off-trail near the top of South Falls at the Silver Falls State Park in Oregon before plunging into the water roughly 177 feet below.",
+        "fecha": "2026-08-11T18:14:59-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,67 +101,53 @@
         "desc": "A federal judge expanded a block on a key part of President Trump's order to restrict mail-in voting for this fall's midterms, banning the Postal Service from carrying out directiv…",
         "fecha": "2026-08-11T17:11:09-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Man wanted in robbery tied to Penn State student's murder now sought after off-duty cop shootout",
-        "enlace": "https://www.foxnews.com/us/man-wanted-robbery-tied-penn-state-students-murder-sought-off-duty-cop-shootout",
-        "desc": "U.S. Marshals offer a cash reward for Khadfi Fleming, 19, linked to a Penn State student&apos;s robbery case and an aggravated assault on a Philly officer.",
-        "fecha": "2026-08-11T16:26:27-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
-        "enlace": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
-        "desc": "Chuck Redd canceled his annual Christmas Eve performance to protest Trump's name being added to the complex. In June, a superior court judge dismissed the Kennedy Center's lawsuit …",
-        "fecha": "2026-08-11T16:23:07-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Ganó 12 millones en la lotería, pero había tirado el boleto a la basura: la única forma de cobrar",
-        "enlace": "https://www.clarin.com/internacional/gano-12-millones-loteria-tirado-boleto-basura-unica-forma-cobrar_0_ZHlbnFAX9Y.html",
-        "desc": "La Lotería Nacional del Reino Unido llegó a una determinación tras 30 días de investigación. A qué se debió el malentendido.",
-        "fecha": "2026-08-11T21:26:54+00:00",
+        "titulo": "Subastarán cartuchos raros de Super Mario para Nintendo hallados en Wisconsin",
+        "enlace": "https://www.clarin.com/estados-unidos/subastaran-cartuchos-raros-de-super-mario-para-nintendo-hallados-en-wisconsin_0_j7mj25x2a3.html",
+        "desc": "Un coleccionista descubrió 97 cartuchos de Super Mario Brothers/Duck Hunt en estado impecable, considerados una variante rara del juego. La mayoría de estos cartuchos, algunos con …",
+        "fecha": "2026-08-11T22:20:07+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Flavio Briatore apuntó contra Aston Martin y le cerró la puerta a los que quieran volver a Alpine",
-        "enlace": "https://www.lanacion.com.ar/deportes/automovilismo/flavio-briatore-apunto-contra-aston-martin-y-le-cerro-la-puerta-a-los-que-quieran-volver-a-alpine-nid11082026/",
-        "desc": "El jefe de Colapinto citó al equipo británico como ejemplo de que una estructura de primer nivel no garantiza el éxito",
-        "fecha": "2026-08-11T21:52:42+00:00",
+        "titulo": "Incertidumbres en la Justicia",
+        "enlace": "https://www.lanacion.com.ar/politica/incertidumbres-en-la-justicia-nid11082026/",
+        "desc": "Uno de los magistrados que con más convicción condenó la corrupción política está en un limbo y podría ser reemplazado por un amigo del ministro Mahiques; la entidad de Chiqui Tapi…",
+        "fecha": "2026-08-11T22:46:01+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Tragedia en República Dominicana: murió una adolescente de 16 años tras explotar un barco turístico",
-        "enlace": "https://www.clarin.com/internacional/tragedia-republica-dominicana-murio-adolescente-16-anos-explotar-barco-turistico_0_qA0UptPcTc.html",
-        "desc": "La joven se encontraba de vacaciones con sus padres y hermanos. Otras 24 personas resultaron heridas en el accidente.",
-        "fecha": "2026-08-11T21:24:43+00:00",
+        "titulo": "Drama en Afganistán: los talibán dejan a 2,4 millones de niñas sin educación secundaria",
+        "enlace": "https://www.clarin.com/mundo/drama-afganistan-taliban-dejan-24-millones-ninas-educacion-secundaria_0_5O5QRMOBYZ.html",
+        "desc": "En 2026, el número de niñas afectadas aumentó en 200.000 respecto a 2025. Y \"si la prohibición persiste, cerca de cuatro millones de niñas podrían verse privadas de ella de aquí a …",
+        "fecha": "2026-08-11T22:20:06+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Su papá plantó manzanos y ahora los saca luego de 26 años: producirá otra fruta de gran demanda de China",
-        "enlace": "https://www.lanacion.com.ar/economia/campo/su-padre-planto-manzanos-y-ahora-los-arranca-porque-los-numeros-no-cierran-producira-otra-fruta-que-nid11082026/",
-        "desc": "En Mendoza, Claudio Giusti tomó esa decisión luego de años de esperar una mejora en una actividad que no cubre los costos; ya sacó casi dos hectáreas y plantará ciruelos",
-        "fecha": "2026-08-11T21:52:02+00:00",
+        "titulo": "Las escalofriantes predicciones de Baba Vanga para lo que resta de 2026",
+        "enlace": "https://www.lanacion.com.ar/lifestyle/las-escalofriantes-predicciones-de-baba-vanga-para-lo-que-resta-de-2026-nid11082026/",
+        "desc": "Los terremotos en Sudamérica, los incendios devastadores y el avance de la inteligencia artificial devuelven al centro del debate las profecías de la famosa vidente búlgara",
+        "fecha": "2026-08-11T22:46:00+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Budget 2027 : le gouvernement rouvre le dossier sensible du gel des pensions de retraite",
-        "enlace": "https://www.lemonde.fr/politique/article/2026/08/11/budget-2027-le-gouvernement-rouvre-le-dossier-sensible-du-gel-des-pensions-de-retraite_6744021_823448.html",
-        "desc": "Pour faire des économies, le gouvernement étudie la possibilité de désindexer de l’inflation les pensions de retraite les plus élevées. Rien n’est pour autant acté, assure l’exécut…",
-        "fecha": "2026-08-11T18:55:27+02:00",
+        "titulo": "Comment les éclipses solaires sont perçues par les religions, entre mauvais présages et signes annonciateurs de la fin du monde",
+        "enlace": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/11/comment-les-eclipses-solaires-sont-percues-par-les-religions-entre-mauvais-presages-et-signes-annonciateurs-de-la-fin-du-monde_6743975_6038514.html",
+        "desc": "Judaïsme, christianisme, islam ou hindouisme… Toutes les grandes religions appréhendent les éclipses du Soleil comme des signes divins puissants, à la portée souvent négative.",
+        "fecha": "2026-08-11T16:50:26+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Puces, modèles, robots humanoïdes… La folle montée en puissance de la Chine dans l’IA bouscule la Silicon Valley",
-        "enlace": "https://www.lefigaro.fr/secteur/high-tech/puces-modeles-robots-humanoides-la-folle-montee-en-puissance-de-la-chine-dans-l-ia-bouscule-la-silicon-valley-20260811",
-        "desc": "DÉCRYPTAGE - Pékin n’en finit pas d’enchaîner les succès et s’impose comme une alternative robuste aux solutions américaines dans tous les maillons de l’industrie de l’IA.",
-        "fecha": "2026-08-11T19:26:05+02:00",
+        "titulo": "Comment profiter de l’éclipse si vous n’avez pas de lunettes de protection ?",
+        "enlace": "https://www.lefigaro.fr/sciences/comment-profiter-de-l-eclipse-si-vous-n-avez-pas-de-lunettes-de-protection-20260811",
+        "desc": "DÉCRYPTAGE - Il est dangereux de regarder le Soleil et d’assister au transit de la Lune sans protection, mais des moyens existent pour tout de même profiter de l’événement si les l…",
+        "fecha": "2026-08-11T17:30:00+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -158,17 +158,17 @@
         "fuente": "France 24"
       },
       {
-        "titulo": "Carlo Masala, spécialiste des questions de sécurité : « L’Allemagne est visée parce qu’elle est le principal pilier du soutien européen à l’Ukraine »",
-        "enlace": "https://www.lemonde.fr/international/article/2026/08/11/carlo-masala-specialiste-des-questions-de-securite-l-allemagne-est-visee-parce-qu-elle-est-le-principal-pilier-du-soutien-europeen-a-l-ukraine_6744160_3210.html",
-        "desc": "Dans un entretien au « Monde », l’analyste militaire allemand estime que l’attentat manqué au drone explosif, dans la nuit du 4 au 5 août, à l’aéroport de Leipzig-Halle, marque un …",
-        "fecha": "2026-08-11T20:00:09+02:00",
+        "titulo": "Budget 2027 : le gouvernement rouvre le dossier sensible du gel des pensions de retraite",
+        "enlace": "https://www.lemonde.fr/politique/article/2026/08/11/budget-2027-le-gouvernement-rouvre-le-dossier-sensible-du-gel-des-pensions-de-retraite_6744021_823448.html",
+        "desc": "Pour faire des économies, le gouvernement étudie la possibilité de désindexer de l’inflation les pensions de retraite les plus élevées. Rien n’est pour autant acté, assure l’exécut…",
+        "fecha": "2026-08-11T18:55:27+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "«Il suffit de prendre les titres et de les foutre au feu» : pourquoi le projet d’annulation de la dette de Jean-Luc Mélenchon est ruineux et mensonger",
-        "enlace": "https://www.lefigaro.fr/conjoncture/il-suffit-de-prendre-les-titres-et-de-les-foutre-au-feu-pourquoi-le-projet-d-annulation-de-la-dette-de-jean-luc-melenchon-est-ruineux-et-mensonger-20260811",
-        "desc": "Le leader de La France insoumise (LFI) assure que « personne ne s’apercevra[it] jamais » si son gouvernement faisait disparaître les 18% de créances détenues par la Banque de Franc…",
-        "fecha": "2026-08-11T19:17:36+02:00",
+        "titulo": "Ambiance de fin du monde, cornes du diable ou double crépuscule : que pouvons-nous attendre en France de l’éclipse du 12 août ?",
+        "enlace": "https://www.lefigaro.fr/sciences/ambiance-de-fin-du-monde-cornes-du-diable-ou-double-crepuscule-que-pouvons-nous-attendre-en-france-de-l-eclipse-du-12-aout-20260810",
+        "desc": "DÉCRYPTAGE - Dans notre pays, l’éclipse ne sera que partielle, avec un taux d’occultation moyen de 95%. Elle surviendra néanmoins en soirée, au couchant, ce qui devrait la rendre u…",
+        "fecha": "2026-08-11T08:31:30+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -188,10 +188,10 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Spotify: Spotify führt Kennzeichnung für KI-generierte Profile ein",
-        "enlace": "https://www.zeit.de/digital/2026-08/spotify-ki-kennzeichnung-musik-kuenstler-profile",
-        "desc": "Nutzer von Spotify sollen künftig besser einschätzen können, ob sie echte Künstler oder KI-generierte Profile hören. Dafür soll ein AI-Persona-Label genutzt werden.",
-        "fecha": "2026-08-11T21:07:30",
+        "titulo": "Künstliche Intelligenz: Anthropic will KI-Texte mit unsichtbarem Wasserzeichen versehen",
+        "enlace": "https://www.zeit.de/digital/2026-08/anthropic-claude-wasserzeichen-ki-inhalte-eu",
+        "desc": "Texte, die mit dem Chatbot Claude geschrieben oder bearbeitet wurden, sollen künftig eine Kennzeichnung erhalten. Damit will das Unternehmen EU-Anforderungen einhalten.",
+        "fecha": "2026-08-11T22:08:06",
         "fuente": "Die Zeit"
       },
       {
@@ -202,26 +202,26 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Drohnen: Bundeswehr registriert mehrere Hundert Zwischenfälle mit Drohnen",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/drohnenueberfluege-bundeswehr-zwischenfaelle-hybride-bedrohung-russland",
-        "desc": "Die Bundeswehr zählt seit dem russischen Angriff auf die Ukraine mehr Drohnensichtungen. Die Zahl sicherheitsrelevanter Zwischenfälle mit Drohnen sei deutlich gestiegen.",
-        "fecha": "2026-08-11T20:31:00",
+        "titulo": "Landtagswahl in Sachsen-Anhalt: Wagenknecht würde in Sachsen-Anhalt Weg für AfD-Regierung freimachen",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/sahra-wagenknecht-bsw-thueringen-afd-brandmauer",
+        "desc": "Sahra Wagenknecht will bei einem Einzug des BSW in den Landtag von Sachsen-Anhalt einen AfD-Ministerpräsidenten möglich machen. Die Brandmauer sei gescheitert.",
+        "fecha": "2026-08-11T22:02:11",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
+        "titulo": "Salvini e il consenso: la vignetta di Ellekappa",
+        "enlace": "https://www.repubblica.it/politica/2026/08/12/news/salvini_consenso_vignetta_ellekappa-425524306/",
+        "desc": "",
+        "fecha": "2026-08-11T22:01:00+00:00",
+        "fuente": "La Repubblica"
+      },
+      {
         "titulo": "Due manager donne nel Consiglio per l’Economia del Papa: c’è la principessa Gisela del Liechtenstein",
         "enlace": "https://www.repubblica.it/economia/2026/08/11/news/principessa_gisela_del_liechtenstein_consiglio_per_l_economia_papa_leone-425524213/",
         "desc": "Leone XIV rinnova otto componenti su quindici nella struttura di indirizzo e vigilanza del Vaticano. Confermato al vertice il cardinale Reinhard Marx",
         "fecha": "2026-08-11T18:45:39+00:00",
-        "fuente": "La Repubblica"
-      },
-      {
-        "titulo": "Il supercavo sottomarino spostato a causa dell’elfo Dobby, l’amico di Harry Potter",
-        "enlace": "https://www.repubblica.it/cultura/2026/08/11/news/harry_potter_tomba_elfo_dobby_amico_cavo_sottomarino_galles-425524204/",
-        "desc": "La “tomba” del personaggio di fantasia allestita sulla spiaggia del Galles dove è stato girato il film, doveva fare posto all’infrastruttura. Ma i fan si sono opposti e hanno vinto…",
-        "fecha": "2026-08-11T18:40:44+00:00",
         "fuente": "La Repubblica"
       }
     ],
@@ -264,10 +264,10 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Politeama estreia \"Pocahontas\" em outubro",
-        "enlace": "https://observador.pt/2026/08/11/teatro-politeama-estreia-musical-pocahontas-a-princesa-india-em-outubro/",
-        "desc": "A peça terá representações ao sábado e domingo, sempre às 15h",
-        "fecha": "2026-08-11T22:42:31+01:00",
+        "titulo": "2 semanas: príncipe herdeiro saudita deverá visitar Madeira",
+        "enlace": "https://observador.pt/2026/08/11/principe-herdeiro-da-arabia-saudita-devera-visitar-madeira-durante-duas-semanas-aviao-da-comitiva-ja-aterrou-na-ilha/",
+        "desc": "Avião que transporta comitiva do príncipe herdeiro saudita já aterrou no Funchal. Próximo de Ronaldo, Mohammed bin Salman deverá chegar na quinta-feira e ficará hospedado em hotel …",
+        "fecha": "2026-08-11T23:42:39+01:00",
         "fuente": "Observador"
       },
       {
@@ -278,56 +278,56 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Marcos Freitas e Tiago Apolónia afastados do Europe Smash",
-        "enlace": "https://observador.pt/2026/08/11/marcos-freitas-e-tiago-apolonia-afastados-do-europe-smash-de-tenis-de-mesa/",
-        "desc": "Marcos Freitas é o melhor atleta português de ténis de mesa da história",
-        "fecha": "2026-08-11T22:19:32+01:00",
+        "titulo": "Super XV ambiciona campeonato profissional de râguebi",
+        "enlace": "https://observador.pt/2026/08/11/super-xv-ambiciona-campeonato-profissional-de-raguebi-mas-objetivo-e-utopico/",
+        "desc": "O campeonato português de râguebi disputa-se desde 1959 sob a alçada da Federação Portuguesa de Rugby",
+        "fecha": "2026-08-11T23:39:55+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Ministério Público pede impugnação de candidato que quer usar nomes de Enéas e Bolsonaro",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/ministerio-publico-pede-impugnacao-de-candidato-que-quer-usar-nomes-de-eneas-e-bolsonaro.shtml",
-        "desc": "O Ministério Público Eleitoral (MPE) pediu a impugnação de um candidato a deputado federal por São Paulo que pretende utilizar o nome Thiago Neves Enéas Bolsonaro (PL) nas urnas na…",
-        "fecha": "2026-08-11T18:15:00-03:00",
+        "titulo": "Metade dos brasileiros defende proibir vídeo com IA nas eleições, diz pesquisa CNT/MDA",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/metade-dos-brasileiros-defende-proibir-video-com-ia-nas-eleicoes-diz-pesquisa-cntmda.shtml",
+        "desc": "Pesquisa CNT/MDA divulgada nesta terça-feira (11) mostra que metade dos brasileiros defende a proibição de qualquer vídeo ou propaganda de candidatos criado com Inteligência Artifi…",
+        "fecha": "2026-08-11T19:47:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Corpos de 3 colombianas mortas em queda de helicóptero no Rio são identificados",
-        "enlace": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/11/corpos-de-3-colombianas-mortas-em-queda-de-helicoptero-no-rio-sao-identificados.ghtml",
-        "desc": "Família de colombianas mortas aguarda liberação dos corpos Os corpos das três colombianas que morreram em um acidente de helicóptero na região da Vista Chinesa, no Parque Nacional …",
-        "fecha": "2026-08-11T21:43:04",
+        "titulo": "Assista ao Boa Noite Espírito Santo",
+        "enlace": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
+        "desc": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
+        "fecha": "2026-08-11T22:43:23",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Flávio Bolsonaro defende ao TSE uso de IA sem aval de pessoa retratada",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-defende-ao-tse-uso-de-ia-sem-aval-de-pessoa-retratada.shtml",
-        "desc": "O candidato à Presidência Flávio Bolsonaro (PL ) defendeu ao TSE (Tribunal Superior Eleitoral) o uso de inteligência artificial pelas campanhas eleitorais mesmo sem a autorização d…",
-        "fecha": "2026-08-11T17:58:00-03:00",
+        "titulo": "Moraes determina busca contra suposto informante de blogueiro que escreveu sobre Dino",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/moraes-determina-busca-contra-suposto-informante-de-blogueiro-que-escreveu-sobre-dino.shtml",
+        "desc": "O ministro Alexandre de Moraes , do STF (Supremo Tribunal Federal), determinou operação de busca e apreensão, cumprida pela Polícia Federal esta terça-feira (11), contra Raimundo C…",
+        "fecha": "2026-08-11T18:59:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Motta cancela sessão da Câmara após líder do PT passar mal em reunião",
-        "enlace": "https://g1.globo.com/politica/noticia/2026/08/11/motta-cancela-sessao-da-camara-apos-lider-do-pt-passar-mal-em-reuniao.ghtml",
-        "desc": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), cancelou nesta terça-feira (11) a sessão de votações depois que o líder do PT na Casa, deputado Pedro Uczai (PT-…",
-        "fecha": "2026-08-11T21:42:44",
+        "titulo": "Tecnologia e inovação levam força do interior de SP a evento com líderes globais para discutir futuro dos negócios no Brasil",
+        "enlace": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/11/tecnologia-e-inovacao-levam-forca-do-interior-de-sp-a-evento-com-lideres-globais-para-discutir-futuro-dos-negocios-no-brasil.ghtml",
+        "desc": "Grupo EP destaca força regional em painel no Parque Ibirapuera, em São Paulo A força da ciência, da tecnologia e da inovação desenvolvidas no interior de São Paulo e no Sul de Mina…",
+        "fecha": "2026-08-11T22:43:08",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
+        "titulo": "North Korea fires off second missile in less than a week",
+        "enlace": "https://www.japantimes.co.jp/news/2026/08/12/asia-pacific/north-korea-missile-firing/",
+        "desc": "The missile was believed to have fallen outside Japan's exclusive economic zone, the Defense Ministry in Tokyo said.",
+        "fecha": "2026-08-12T06:44:00+09:00",
+        "fuente": "Japan Times"
+      },
+      {
         "titulo": "Japan end of June government debt hits record ¥1.3 trillion",
         "enlace": "https://www.japantimes.co.jp/sports/2026/08/11/baseball/japan-debt-hits-record-13-trillion/",
         "desc": "The increase reflects the government's continued reliance on borrowing to manage finances as spending continues to exceed tax revenues.",
         "fecha": "2026-08-11T21:27:00+09:00",
-        "fuente": "Japan Times"
-      },
-      {
-        "titulo": "Gut bacteria may be behind many of Japan’s colorectal cancer cases",
-        "enlace": "https://www.japantimes.co.jp/news/2026/08/11/japan/science-health/japan-colorectal-cancer-cases/",
-        "desc": "The team said that the toxin called colibactin is considered to be involved in carcinogenesis, or the process by which normal cells turn into cancer cells.",
-        "fecha": "2026-08-11T21:00:00+09:00",
         "fuente": "Japan Times"
       }
     ],
@@ -350,7 +350,7 @@
         "titulo": "EEUU dispara contra un buque de Panamá que intentó burlar el bloqueo naval a Irán",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-11/helicoptero-eeuu-buque-iran-ataque-1tps_4404695/",
         "desc": "Un helicóptero estadounidense abrió fuego contra un carguero panameño que rompía el cerco marítimo a Irán, según ha confirmado el Comando Central de EEUU",
-        "fecha": "2026-08-11T21:53:30.417914+00:00",
+        "fecha": "2026-08-11T22:49:29.366233+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -368,7 +368,7 @@
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Rescatistas buscan supervivientes tras 180 muertos en terremoto en Colombia",
+        "titulo": "Rescatistas buscan sobrevivientes tras 180 muertos en el terremoto de Colombia",
         "enlace": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
         "desc": "Colombia experimentó varias réplicas el martes, mientras continuaban los esfuerzos para liberar a los sobrevivientes atrapados entre escombros y edificios.",
         "fecha": "2026-08-11T19:09:52+00:00",
@@ -399,7 +399,7 @@
         "titulo": "La Casa Blanca pide a la Justicia reabrir el caso del ataque al estanque reflectante",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-11/vandalismo-estanque-washington-casa-blanca-1tps_4404699/",
         "desc": "Un juez desestimó el pasado mes de agosto el caso contra el expiragüista olímpico David Hearn, de 67 años, que estaba acusado de destrucción grave de propiedad por haber desprendid…",
-        "fecha": "2026-08-11T21:53:30.417957+00:00",
+        "fecha": "2026-08-11T22:49:29.366273+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -426,17 +426,17 @@
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Cardinals star rookie Jeremiyah Love gifts girlfriend $300K Lamborghini",
-        "enlace": "https://nypost.com/2026/08/11/sports/cardinals-star-rookie-jeremiyah-love-gifts-girlfriend-300k-lamborghini/",
-        "desc": "Arizona Cardinals rookie Jeremiyah Love gifted his girlfriend, Aliece, a $300K Lamborghini Urus after signing a massive contract with Arizona.",
-        "fecha": "2026-08-11T17:52:53-04:00",
+        "titulo": "Meet the NYers fighting Mamdani’s pied-à-terre tax in court: ‘The city botched this’",
+        "enlace": "https://nypost.com/2026/08/11/us-news/meet-the-nyers-fighting-mamdanis-pied-a-terre-tax-in-court/",
+        "desc": "They're sticking it to the tax Mam.",
+        "fecha": "2026-08-11T18:47:11-04:00",
         "fuente": "New York Post"
       },
       {
         "titulo": "Ebola: Over 2,000 dead in DR Congo as virus gathers pace",
         "enlace": "https://www.dw.com/en/ebola-over-2-000-dead-in-dr-congo-as-virus-gathers-pace/a-78327706?maca=en-rss-en-all-1573-rdf",
         "desc": "Authorities in the DRC say the Ebola virus is killing faster than any outbreak on record. Scientists have also said the outbreak may have started earlier than previously thought.",
-        "fecha": "2026-08-11T21:53:33.512125+00:00",
+        "fecha": "2026-08-11T22:49:33.286180+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,10 +447,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "France bans unsolicited telemarketing calls, threatening large fines for those who don’t comply",
-        "enlace": "https://www.oann.com/newsroom/france-bans-unsolicited-telemarketing-calls-threatening-large-fines-for-those-who-dont-comply/",
-        "desc": "France has implemented a law banning unsolicited telemarketing calls, shifting the country from an \"opt-out\" registry system to an obligatory prior consent (\"opt-in\") framework.",
-        "fecha": "2026-08-11T21:18:35+00:00",
+        "titulo": "Bug and Fred fires merge along Calif.-Nev. border, creating 44K-acre inferno",
+        "enlace": "https://www.oann.com/newsroom/bug-and-fred-fires-merge-along-calif-nev-border-creating-44k-acre-inferno/",
+        "desc": "The Bug Fire and Fred Mountain Fire along the California–Nevada border north of Reno have merged into a single explosive wildfire complex that has burned 44,304 acres.",
+        "fecha": "2026-08-11T22:26:43+00:00",
         "fuente": "OAN"
       },
       {
@@ -498,6 +498,13 @@
         "fuente": "RFI"
       },
       {
+        "titulo": "Russie : l’ex-marine américain Robert Gilman libéré",
+        "enlace": "http://fr.euronews.com/2026/08/11/russie-lex-marine-americain-robert-gilman-libere",
+        "desc": "Arrêté en Russie en 2022, Robert Gilman avait été placé en détention après une altercation avec un policier dans un train à Voronej, au sud de Moscou.",
+        "fecha": "2026-08-11T22:27:49+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
         "titulo": "Les secouristes se lancent à la recherche des survivants du tremblement de terre en Colombie: 180 morts",
         "enlace": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
         "desc": "La Colombie a connu un certain nombre de répliques mardi, alors que les efforts se poursuivaient pour libérer les survivants coincés dans les décombres et les bâtiments.",
@@ -526,6 +533,13 @@
         "fuente": "RFI"
       },
       {
+        "titulo": "La Bulgarie illumine sa côte de la mer Noire avec un festival d'art numérique",
+        "enlace": "http://fr.euronews.com/video/2026/08/11/la-bulgarie-illumine-sa-cote-de-la-mer-noire-avec-un-festival-dart-numerique",
+        "desc": "Bulgarie: la côte sud de la mer Noire se transforme en galerie à ciel ouvert lors du festival LUNAR Sea of Lights",
+        "fecha": "2026-08-11T18:02:57+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
         "titulo": "Les États-Unis affirment que des hélicoptères ont tiré des missiles pour neutraliser un navire qui brise le blocus iranien",
         "enlace": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
         "desc": "Le commandement central américain a déclaré que son hélicoptère avait percuté la salle des machines d'un cargo battant pavillon panaméen dans le golfe d'Oman.",
@@ -545,7 +559,7 @@
         "titulo": "\"Neubauten auf Friedhof\" - Wer kauft Wohnungen in Mariupol?",
         "enlace": "https://www.dw.com/de/neubauten-auf-friedhof-wer-kauft-wohnungen-in-mariupol/a-78309875?maca=de-rss-de-all-1119-rdf",
         "desc": "Russland errichtet im besetzten Mariupol an der Stelle zerstörter Wohngebäude Dutzende neue Hochhäuser. Wer zieht dort ein und wie ergeht es denen, die früher hier wohnten? Eine Sp…",
-        "fecha": "2026-08-11T21:53:36.180322+00:00",
+        "fecha": "2026-08-11T22:49:35.059389+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -558,7 +572,7 @@
       {
         "titulo": "Retter suchen nach Überlebenden; 180 Tote bei Erdbeben in Kolumbien",
         "enlace": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Kolumbien erlebte am Dienstag eine Reihe von Nachbeben, während die Bemühungen zur Befreiung der in Trümmern und Gebäuden eingeschlossenen Überlebenden fortgesetzt wurden.",
+        "desc": "Kolumbien erlebte am Dienstag eine Reihe von Nachbeben, während die Bemühungen zur Befreiung von in Trümmern und Gebäuden eingeschlossenen Überlebenden fortgesetzt wurden.",
         "fecha": "2026-08-11T19:09:52+00:00",
         "fuente": "BBC World EN"
       },
@@ -573,7 +587,7 @@
         "titulo": "Niedrigwasser im Rhein bremst deutsche Erholung aus",
         "enlace": "https://www.dw.com/de/niedrigwasser-im-rhein-bremst-deutsche-erholung-aus/a-78325929?maca=de-rss-de-all-1119-rdf",
         "desc": "Über Deutschlands Binnenwasserstraßen werden nach wie vor rund fünf Prozent der Güter transportiert. An den niedrigen Pegelständen des Rheins zeigt DW, wie die Dürre die Wirtschaft…",
-        "fecha": "2026-08-11T21:53:36.180367+00:00",
+        "fecha": "2026-08-11T22:49:35.059432+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -637,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "Venezuela e Israel restabelecem relações consulares após 17 anos de rutura diplomática",
-        "enlace": "https://www.rtp.pt/noticias/mundo/venezuela-e-israel-restabelecem-relacoes-consulares-apos-17-anos-de-rutura-diplomatica_n1758928",
-        "desc": "Israel e Venezuela anunciaram, esta terça-feira, o restabelecimento dos serviços consulares em cada país, 17 anos após o rompimento das relações diplomáticas entre os dois.",
-        "fecha": "2026-08-11T23:35:46+01:00",
+        "titulo": "22h Suspeito de balear mulher em Lisboa sai em liberdade",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/22h-suspeito-de-balear-mulher-em-lisboa-sai-em-liberdade_a1_1758930",
+        "desc": "",
+        "fecha": "2026-08-12T00:27:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Politeama estreia \"Pocahontas\" em outubro",
-        "enlace": "https://observador.pt/2026/08/11/teatro-politeama-estreia-musical-pocahontas-a-princesa-india-em-outubro/",
-        "desc": "A peça terá representações ao sábado e domingo, sempre às 15h",
-        "fecha": "2026-08-11T22:42:31+01:00",
+        "titulo": "2 semanas: príncipe herdeiro saudita deverá visitar Madeira",
+        "enlace": "https://observador.pt/2026/08/11/principe-herdeiro-da-arabia-saudita-devera-visitar-madeira-durante-duas-semanas-aviao-da-comitiva-ja-aterrou-na-ilha/",
+        "desc": "Avião que transporta comitiva do príncipe herdeiro saudita já aterrou no Funchal. Próximo de Ronaldo, Mohammed bin Salman deverá chegar na quinta-feira e ficará hospedado em hotel …",
+        "fecha": "2026-08-11T23:42:39+01:00",
         "fuente": "Observador"
       },
       {
@@ -658,17 +672,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Maradona tinha \"sinais de insuficiência cardíaca\" dias antes de morrer",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/maradona-tinha-sinais-de-insuficiencia-cardiaca-dias-antes-de-morrer_d1758927",
-        "desc": "O coordenador da junta médica que elaborou o relatório sobre a morte do &#039;astro&#039; argentino Diego Maradona disse hoje em tribunal que, durante os seus últimos dias, o futeb…",
-        "fecha": "2026-08-11T23:19:46+01:00",
+        "titulo": "Lyon, de Paulo Fonseca, e Celje, de Vítor Campelos, acedem ao play-off",
+        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/lyon-de-paulo-fonseca-e-celje-de-vitor-campelos-acedem-ao-play-off_d1758929",
+        "desc": "Lyon e Celje, treinados pelos portugueses Paulo Fonseca e Vítor Campelos, respetivamente, rumaram hoje ao play-off de acesso à fase de liga da Liga dos Campeões de futebol, inverte…",
+        "fecha": "2026-08-11T23:57:29+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Marcos Freitas e Tiago Apolónia afastados do Europe Smash",
-        "enlace": "https://observador.pt/2026/08/11/marcos-freitas-e-tiago-apolonia-afastados-do-europe-smash-de-tenis-de-mesa/",
-        "desc": "Marcos Freitas é o melhor atleta português de ténis de mesa da história",
-        "fecha": "2026-08-11T22:19:32+01:00",
+        "titulo": "Super XV ambiciona campeonato profissional de râguebi",
+        "enlace": "https://observador.pt/2026/08/11/super-xv-ambiciona-campeonato-profissional-de-raguebi-mas-objetivo-e-utopico/",
+        "desc": "O campeonato português de râguebi disputa-se desde 1959 sob a alçada da Federação Portuguesa de Rugby",
+        "fecha": "2026-08-11T23:39:55+01:00",
         "fuente": "Observador"
       },
       {
@@ -705,7 +719,7 @@
         "titulo": "Glave y Azu, de GB, logran el doblete europeo en los 100 metros",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
         "desc": "Los británicos Romell Glave y Jeremiah Azu consiguen un sensacional doblete europeo en los 100 metros para los anfitriones en Birmingham.",
-        "fecha": "2026-08-11T21:48:43+00:00",
+        "fecha": "2026-08-11T22:03:51+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -742,14 +756,14 @@
         "titulo": "GB's Glave and Azu claim European 100m one-two",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
         "desc": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
-        "fecha": "2026-08-11T21:48:43+00:00",
+        "fecha": "2026-08-11T22:03:51+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Super Giants rout SunRisers to move to cusp of Hundred eliminator",
-        "enlace": "https://www.skysports.com/cricket/news/12040/13572032/the-hundred-manchester-super-giants-rout-sunrisers-leeds-to-move-to-cusp-of-eliminator-in-mens-tournament",
-        "desc": "Manchester Super Giants routed SunRisers Leeds to all but seal their place in The Hundred men's eliminator and leave their opponents at risk of being knocked out.",
-        "fecha": "2026-08-11T21:00:00",
+        "titulo": "Jets' Stiggers in hospital after collapsing during practice",
+        "enlace": "https://www.skysports.com/nfl/news/12040/13572096/nfl-new-york-jets-cornerback-qwantez-stiggers-taking-to-hospital-after-collapsing-in-joint-practice-with-tampa-bay-buccaneers",
+        "desc": "New York Jets cornerback Qwan'tez Stiggers was taken to a hospital by ambulance after he briefly lost consciousness during a joint practice with the Tampa Bay Buccaneers on Tuesday…",
+        "fecha": "2026-08-11T23:10:00",
         "fuente": "Sky Sports"
       },
       {
@@ -760,10 +774,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "SunRisers beat Super Giants to reach Hundred eliminator",
-        "enlace": "https://www.skysports.com/cricket/news/12040/13572031/the-hundred-sunrisers-leeds-beat-manchester-super-giants-in-decisive-game-to-set-up-eliminator-match-up-with-southern-brave",
-        "desc": "Reigning champions SunRisers Leeds snatched a spot in the women's Hundred eliminator by beating Manchester Super Giants by 41 runs in a winner-takes-all game at Old Trafford.",
-        "fecha": "2026-08-11T17:40:00",
+        "titulo": "Super Giants rout SunRisers to move to cusp of Hundred eliminator",
+        "enlace": "https://www.skysports.com/cricket/news/12040/13572032/the-hundred-manchester-super-giants-rout-sunrisers-leeds-to-move-to-cusp-of-eliminator-in-mens-tournament",
+        "desc": "Manchester Super Giants routed SunRisers Leeds to all but seal their place in The Hundred men's eliminator and leave their opponents at risk of being knocked out.",
+        "fecha": "2026-08-11T21:00:00",
         "fuente": "Sky Sports"
       }
     ],
@@ -772,11 +786,11 @@
         "titulo": "Glave et Azu remportent le doublé européen au 100 m",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
         "desc": "Les Britanniques Romell Glave et Jeremiah Azu remportent un doublé européen sensationnel sur 100 m pour les hôtes à Birmingham.",
-        "fecha": "2026-08-11T21:48:43+00:00",
+        "fecha": "2026-08-11T22:03:51+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
+        "titulo": "Un coup d’État pour Bezos et une aubaine pour FSG : où va l’accord pour Liverpool ?",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss",
         "desc": "Pourquoi l’investissement d’un groupe comprenant Jeff Bezos ne ferait pas une différence significative sur le pouvoir d’achat de Liverpool – et pourrait inquiéter les fans.",
         "fecha": "2026-08-11T16:00:35+00:00",
@@ -788,27 +802,27 @@
         "titulo": "Verbände werfen FIFA-Präsident Infantino \"Täuschung\" vor",
         "enlace": "https://www.dw.com/de/verbände-werfen-fifa-präsident-infantino-täuschung-vor/a-78305179?maca=de-rss-de-sport-4020-rdf",
         "desc": "Drei Fußball-Dachverbände zeigen gegen Gianni Infantino Zusammenhalt. Europa, Asien sowie Nord- und Mittelamerika erneuern ihre Kritik am Weltverband. Sie werfen dem FIFA-Präsident…",
-        "fecha": "2026-08-11T21:53:48.700409+00:00",
+        "fecha": "2026-08-11T22:49:47.843793+00:00",
         "fuente": "DW Sport"
       },
       {
         "titulo": "Glave und Azu aus Großbritannien holen sich den europäischen Doppelsieg über 100 m",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
         "desc": "Die Briten Romell Glave und Jeremiah Azu erringen in Birmingham einen sensationellen Europapokal-Doppelsieg über 100 m für die Gastgeber.",
-        "fecha": "2026-08-11T21:48:43+00:00",
+        "fecha": "2026-08-11T22:03:51+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Gianni Infantino: Der mächtigste Mann im Weltfußball",
         "enlace": "https://www.dw.com/de/gianni-infantino-der-mächtigste-mann-im-weltfußball/a-78248957?maca=de-rss-de-sport-4020-rdf",
         "desc": "Gianni Infantino bleibt FIFA-Präsident - trotz wachsender Rücktrittsforderungen. Wer ist der mächtigste Mann im Weltfußball? Warum wandte sich die UEFA gegen ihn? Und wie behauptet…",
-        "fecha": "2026-08-11T21:53:48.700453+00:00",
+        "fecha": "2026-08-11T22:49:47.843836+00:00",
         "fuente": "DW Sport"
       },
       {
         "titulo": "Ein Coup für Bezos und ein Glücksfall für FSG – wo bleibt der Deal für Liverpool?",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss",
-        "desc": "Warum Investitionen einer Gruppe, zu der auch Jeff Bezos gehört, keinen nennenswerten Einfluss auf die Kaufkraft von Liverpool haben würden – und bei den Fans für Unbehagen sorgen könnten.",
+        "desc": "Warum die Investition einer Gruppe, zu der auch Jeff Bezos gehört, keinen nennenswerten Einfluss auf die Kaufkraft von Liverpool haben würde – und bei den Fans für Unbehagen sorgen könnte.",
         "fecha": "2026-08-11T16:00:35+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -818,7 +832,7 @@
         "titulo": "Glave e Azu di GB rivendicano una doppietta europea dei 100 milioni",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
         "desc": "Romell Glave e Jeremiah Azu della Gran Bretagna vincono una sensazionale doppietta europea dei 100 metri per i padroni di casa di Birmingham.",
-        "fecha": "2026-08-11T21:48:43+00:00",
+        "fecha": "2026-08-11T22:03:51+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -856,7 +870,7 @@
         "titulo": "Acoplamientos de azina C – H mediados por fosfina con agua y amoníaco",
         "enlace": "https://www.nature.com/articles/s41586-026-10991-w",
         "desc": "Naturaleza, Publicado en línea: 11 de agosto de 2026; doi:10.1038/s41586-026-10991-w Acoplamientos C-H de azina mediados por fosfina con agua y amoníaco",
-        "fecha": "2026-08-11T21:54:03.388438+00:00",
+        "fecha": "2026-08-11T22:49:59.531379+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -884,14 +898,14 @@
         "titulo": "Los equipos de rescate en Colombia buscan sobrevivientes tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
         "enlace": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
         "desc": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente Abelardo de la Espriella decretó desastre nacional para…",
-        "fecha": "2026-08-11T21:54:03.177701+00:00",
+        "fecha": "2026-08-11T22:49:58.327599+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Corrección del autor: Descubriendo el papel de LINE-1 en la evolución del adenocarcinoma de pulmón",
+        "titulo": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
         "enlace": "https://www.nature.com/articles/s41586-026-10947-0",
         "desc": "Naturaleza, Publicado en línea: 11 de agosto de 2026; doi:10.1038/s41586-026-10947-0 Corrección del autor: Descubriendo el papel de LINE-1 en la evolución del adenocarcinoma de pulmón",
-        "fecha": "2026-08-11T21:54:03.388485+00:00",
+        "fecha": "2026-08-11T22:49:59.531422+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -907,7 +921,7 @@
         "titulo": "Phosphine-mediated azine C–H couplings with water and ammonia",
         "enlace": "https://www.nature.com/articles/s41586-026-10991-w",
         "desc": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-w Phosphine-mediated azine C–H couplings with water and ammonia",
-        "fecha": "2026-08-11T21:54:05.993788+00:00",
+        "fecha": "2026-08-11T22:50:02.687864+00:00",
         "fuente": "Nature"
       },
       {
@@ -925,17 +939,17 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-        "enlace": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-        "desc": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-        "fecha": "2026-08-11T20:27:16+00:00",
+        "titulo": "Russian drones found near vital European offshore gas site, get blown up",
+        "enlace": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+        "desc": "This follows many drone incursions into Romania and a failed attack in Germany.",
+        "fecha": "2026-08-11T21:20:11+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "X-ray analysis reveals the inner life of leaves while advancing engineering efforts to reduce 'crop sweat'",
-        "enlace": "https://phys.org/news/2026-08-ray-analysis-reveals-life-advancing.html",
-        "desc": "In the Midwestern summer, humans and plants have to breathe through the heat and humidity. Researchers hope that a retooled crop plant—one with an improved ventilation system withi…",
-        "fecha": "2026-08-11T17:50:01-04:00",
+        "titulo": "Beyond color: Fluorescence lifetime imaging distinguishes multiple proteins in living plant cells",
+        "enlace": "https://phys.org/news/2026-08-fluorescence-lifetime-imaging-distinguishes-multiple.html",
+        "desc": "Fluorescent protein imaging is an indispensable tool in life science research, enabling visualization of protein movement and localization, gene expression, signaling pathways, pro…",
+        "fecha": "2026-08-11T18:40:05-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -970,7 +984,7 @@
         "titulo": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
         "enlace": "https://www.nature.com/articles/s41586-026-10947-0",
         "desc": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
-        "fecha": "2026-08-11T21:54:05.993833+00:00",
+        "fecha": "2026-08-11T22:50:02.687931+00:00",
         "fuente": "Nature"
       }
     ],
@@ -986,7 +1000,7 @@
         "titulo": "Couplages azine C – H médiés par la phosphine avec de l'eau et de l'ammoniac",
         "enlace": "https://www.nature.com/articles/s41586-026-10991-w",
         "desc": "Nature, Mise en ligne : 11 août 2026 ; est ce que je:10.1038/s41586-026-10991-w Couplages azine C-H médiés par la phosphine avec de l'eau et de l'ammoniac",
-        "fecha": "2026-08-11T21:54:09.805407+00:00",
+        "fecha": "2026-08-11T22:50:08.194609+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1000,7 +1014,7 @@
         "titulo": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
         "enlace": "https://www.nature.com/articles/s41586-026-10947-0",
         "desc": "Nature, Mise en ligne : 11 août 2026 ; doi:10.1038/s41586-026-10947-0 Correction de l'auteur : Découvrir le rôle de LINE-1 dans l'évolution de l'adénocarcinome du poumon",
-        "fecha": "2026-08-11T21:54:09.805453+00:00",
+        "fecha": "2026-08-11T22:50:08.194654+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1009,28 +1023,28 @@
         "titulo": "Der heißeste Sommer? So werden Temperatur-Rekorde gemessen",
         "enlace": "https://www.dw.com/de/der-heißeste-sommer-so-werden-temperatur-rekorde-gemessen/a-78277509?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Woher wissen Wissenschaftler, ob ein Tag oder Sommer tatsächlich der heißeste seit Beginn der Aufzeichnungen war? Und woher kommt die Skepsis an den Daten? Die DW hat Experten zum …",
-        "fecha": "2026-08-11T21:54:11.870030+00:00",
+        "fecha": "2026-08-11T22:50:09.798333+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Phosphinvermittelte Azin-CH-Kupplungen mit Wasser und Ammoniak",
         "enlace": "https://www.nature.com/articles/s41586-026-10991-w",
         "desc": "Natur, Online veröffentlicht: 11. August 2026; doi:10.1038/s41586-026-10991-w Phosphin-vermittelte Azin-C-H-Kupplungen mit Wasser und Ammoniak",
-        "fecha": "2026-08-11T21:54:12.052834+00:00",
+        "fecha": "2026-08-11T22:50:10.908910+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "100 Tage Isolation: Projekt SOLIS100 ist zu Ende",
         "enlace": "https://www.dw.com/de/100-tage-isolation-projekt-solis100-ist-zu-ende/a-78287936?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Keine Freunde, keine Familie - dafür aber fünf Kollegen rund um die Uhr: Das war die Konstellation, in der die Freiwilligen dabei halfen, wichtige Erkenntnisse für lange Weltraummi…",
-        "fecha": "2026-08-11T21:54:11.870076+00:00",
+        "fecha": "2026-08-11T22:50:09.798378+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Korrektur des Autors: Aufdeckung der Rolle von LINE-1 bei der Entwicklung des Lungenadenokarzinoms",
+        "titulo": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
         "enlace": "https://www.nature.com/articles/s41586-026-10947-0",
         "desc": "Natur, Online veröffentlicht: 11. August 2026; doi:10.1038/s41586-026-10947-0 Autorenkorrektur: Aufdeckung der Rolle von LINE-1 bei der Entwicklung des Lungenadenokarzinoms",
-        "fecha": "2026-08-11T21:54:12.052880+00:00",
+        "fecha": "2026-08-11T22:50:10.908960+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1039,23 +1053,23 @@
         "titulo": "Accoppiamenti C – H dell'azina mediati da fosfina con acqua e ammoniaca",
         "enlace": "https://www.nature.com/articles/s41586-026-10991-w",
         "desc": "Natura, Pubblicato online: 11 agosto 2026; doi:10.1038/s41586-026-10991-w Accoppiamenti C–H azinici mediati da fosfina con acqua e ammoniaca",
-        "fecha": "2026-08-11T21:54:14.476304+00:00",
+        "fecha": "2026-08-11T22:50:13.377004+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Correzione dell'autore: scoperta del ruolo di LINE-1 nell'evoluzione dell'adenocarcinoma polmonare",
         "enlace": "https://www.nature.com/articles/s41586-026-10947-0",
-        "desc": "Natura, Pubblicato online: 11 agosto 2026; doi:10.1038/s41586-026-10947-0 Correzione dell'autore: scoperta del ruolo di LINE-1 nell'evoluzione dell'adenocarcinoma polmonare",
-        "fecha": "2026-08-11T21:54:14.476350+00:00",
+        "desc": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10947-0 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+        "fecha": "2026-08-11T22:50:13.377049+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Quem é o ex-fuzileiro norte-americano libertado por Putin?",
-        "enlace": "https://observador.pt/2026/08/11/o-ex-fuzileiro-norte-americano-que-deu-um-pontape-a-um-policia-russo-em-2022-e-que-putin-libertou/",
-        "desc": "Robert Gilman (o homem com chapéu à esquerda)",
-        "fecha": "2026-08-11T22:47:26+01:00",
+        "titulo": "2 semanas: príncipe herdeiro saudita deverá visitar Madeira",
+        "enlace": "https://observador.pt/2026/08/11/principe-herdeiro-da-arabia-saudita-devera-visitar-madeira-durante-duas-semanas-aviao-da-comitiva-ja-aterrou-na-ilha/",
+        "desc": "Avião que transporta comitiva do príncipe herdeiro saudita já aterrou no Funchal. Próximo de Ronaldo, Mohammed bin Salman deverá chegar na quinta-feira e ficará hospedado em hotel …",
+        "fecha": "2026-08-11T23:42:39+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1066,10 +1080,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Politeama estreia \"Pocahontas\" em outubro",
-        "enlace": "https://observador.pt/2026/08/11/teatro-politeama-estreia-musical-pocahontas-a-princesa-india-em-outubro/",
-        "desc": "A peça terá representações ao sábado e domingo, sempre às 15h",
-        "fecha": "2026-08-11T22:42:31+01:00",
+        "titulo": "Super XV ambiciona campeonato profissional de râguebi",
+        "enlace": "https://observador.pt/2026/08/11/super-xv-ambiciona-campeonato-profissional-de-raguebi-mas-objetivo-e-utopico/",
+        "desc": "O campeonato português de râguebi disputa-se desde 1959 sob a alçada da Federação Portuguesa de Rugby",
+        "fecha": "2026-08-11T23:39:55+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1089,10 +1103,10 @@
         "fuente": "Expansión"
       },
       {
-        "titulo": "El foro 'Emerging Markets Summit', en imágenes",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
-        "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-11T21:54:19.982406+00:00",
+        "titulo": "JP Morgan eleva su valoración para el S&P 500 y aleja una burbuja: la IA ya da sus frutos",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-08-10/jp-morgan-objetivo-s-p-500-ia-frutos_4403868/",
+        "desc": "La banca estadounidense revisa las estimaciones sobre la bolsa de Wall Street apuntando a superar la barrera de los 8.000 puntos",
+        "fecha": "2026-08-11T22:50:19.824689+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1103,10 +1117,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Pakistán dice que el acuerdo está cerca incluso cuando Irán y Estados Unidos endurecen sus posturas",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
-        "desc": "El Ministro de Defensa de Pakistán dijo que Estados Unidos e Irán están \"cerca de algún tipo de acuerdo\" sobre el Estrecho de Ormuz, incluso después de que ambas partes parecieron endurecer sus posiciones en...",
-        "fecha": "2026-08-11T21:34:44+00:00",
+        "titulo": "Blackstone logra un acuerdo de 1.800 millones de dólares para la unidad de fidelización de Air Canada",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
+        "desc": "Blackstone Inc. y un grupo de fondos de pensiones canadienses están comprando una participación del 25% en el programa de fidelización Aeroplan de Air Canada por 2.500 millones de dólares canadienses (1.800 millones de dólares).",
+        "fecha": "2026-08-11T22:00:26+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1124,10 +1138,10 @@
         "fuente": "Expansión"
       },
       {
-        "titulo": "Foro 'Ideas con Valor', en imágenes",
-        "enlace": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
-        "desc": "El Confidencial volvió a reunir a expertos de distintos ámbitos para poner el foco en 3 bloques imprescindibles para la sociedad: acción social, sostenibilidad y finanzas personale…",
-        "fecha": "2026-08-11T21:54:19.982446+00:00",
+        "titulo": "Los grandes bufetes de EEUU exploran vender participaciones a fondos de capital riesgo",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-08-06/capital-privado-bufetes-abogados-inversion-1hms_4401784/",
+        "desc": "Firmas como Paul Weiss, Quinn Emanuel y Proskauer evalúan estructuras corporativas para dar entrada al 'private equity' sin violar las normas éticas",
+        "fecha": "2026-08-11T22:50:19.824729+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1138,26 +1152,26 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Fr. Funcionario de la FDA y los CDC sobre Cyclospora y cuestiones de seguridad alimentaria",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/fmr-fda-cdc-official-on-cyclospora-food-safety-issues-video",
-        "desc": "Steve Ostroff, ex comisionado interino de la FDA y ex subdirector del Centro Nacional de Enfermedades Infecciosas de los CDC, se unió al programa para discutir sobre el público...",
-        "fecha": "2026-08-11T21:31:34+00:00",
+        "titulo": "Gainwell, propiedad de Veritas, comienza a fianzar como parte de un acuerdo de $5.8 mil millones",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+        "desc": "Gainwell Technologies has started the next leg of a broader $5.8 billion debt overhaul that marks the US software sector’s biggest financing of 2026 in the junk-debt market.",
+        "fecha": "2026-08-11T12:31:15+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "GM alcanza un acuerdo de piezas por valor de 4.500 millones de dólares diseñado para evitar problemas en la cadena de suministro",
+        "titulo": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
         "enlace": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
         "desc": "El acuerdo se produce tras años de problemas en la cadena de suministro automotriz global para GM y otras empresas.",
-        "fecha": "2026-08-11T21:15:01+00:00",
+        "fecha": "2026-08-11T22:42:10+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Pakistan Says Deal Is Close Even as Iran, US Harden Stances",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
-        "desc": "Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the Strait of Hormuz, even after both sides appeared to toughen their positions in the…",
-        "fecha": "2026-08-11T21:34:44+00:00",
+        "titulo": "Blackstone Strikes $1.8 Billion Deal for Air Canada Loyalty Unit",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
+        "desc": "Blackstone Inc. and a group of Canadian pension funds are buying a 25% stake in Air Canada’s Aeroplan loyalty program for C$2.5 billion ($1.8 billion).",
+        "fecha": "2026-08-11T22:00:26+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1182,10 +1196,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Fmr. FDA, CDC Official on Cyclospora, Food Safety Issues",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/fmr-fda-cdc-official-on-cyclospora-food-safety-issues-video",
-        "desc": "Steve Ostroff, Former Acting Commissioner of the FDA and Former Deputy Director of the National Center for Infectious Diseases at the CDC, joined the program to discuss the public …",
-        "fecha": "2026-08-11T21:31:34+00:00",
+        "titulo": "Veritas-Owned Gainwell Begins Bond Part of $5.8 Billion Deal",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+        "desc": "Gainwell Technologies has started the next leg of a broader $5.8 billion debt overhaul that marks the US software sector’s biggest financing of 2026 in the junk-debt market.",
+        "fecha": "2026-08-11T12:31:15+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1199,7 +1213,7 @@
         "titulo": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
         "enlace": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
         "desc": "The deal follows years of global automotive supply chain issues for GM and other companies.",
-        "fecha": "2026-08-11T21:15:01+00:00",
+        "fecha": "2026-08-11T22:42:10+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1212,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Le Pakistan déclare que l’accord est proche même si l’Iran et les États-Unis durcissent leurs positions",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
-        "desc": "Le ministre pakistanais de la Défense a déclaré que les États-Unis et l’Iran étaient « proches d’une sorte d’accord » sur le détroit d’Ormuz, même après que les deux parties aient semblé durcir leurs positions dans le…",
-        "fecha": "2026-08-11T21:34:44+00:00",
+        "titulo": "Blackstone conclut un accord de 1,8 milliard de dollars pour l'unité de fidélisation d'Air Canada",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
+        "desc": "Blackstone Inc. et un groupe de fonds de pension canadiens achètent une participation de 25 % dans le programme de fidélisation Aéroplan d'Air Canada pour 2,5 milliards de dollars canadiens (1,8 milliard de dollars).",
+        "fecha": "2026-08-11T22:00:26+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Monsieur. FDA et responsable du CDC sur Cyclospora et problèmes de sécurité alimentaire",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/fmr-fda-cdc-official-on-cyclospora-food-safety-issues-video",
-        "desc": "Steve Ostroff, ancien commissaire par intérim de la FDA et ancien directeur adjoint du Centre national des maladies infectieuses du CDC, a rejoint le programme pour discuter avec le public…",
-        "fecha": "2026-08-11T21:31:34+00:00",
+        "titulo": "Gainwell, propriété de Veritas, lance une obligation dans le cadre d'un accord de 5,8 milliards de dollars",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+        "desc": "Gainwell Technologies a entamé la prochaine étape d’une refonte plus large de la dette de 5,8 milliards de dollars qui marque le plus gros financement du secteur américain du logiciel en 2026 sur le marché de la dette indésirable.",
+        "fecha": "2026-08-11T12:31:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Dow, S&P 500, Nasdaq: Wall Street schließt leicht im Minus – Nvidia-Aktie im Fokus",
-        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-legen-weiter-zu-kurssprung-fuer-atlassian/100246518.html",
-        "desc": "Die großen US-Indizes notieren auf hohem Niveau – Anleger lassen sich von den steigenden Ölpreisen nur wenig beeirren. Allerdings könnte diese Stabilität von kurzer Dauer sein.",
-        "fecha": "2026-08-11T20:18:06+00:00",
+        "titulo": "Dritte Generation: Audi Q7: Neuer Luxus-SUV mit vielseitiger Antriebspalette",
+        "enlace": "https://www.handelsblatt.com/mobilitaet/motor/dritte-generation-audi-q7-neuer-luxus-suv-mit-vielseitiger-antriebspalette/100246623.html",
+        "desc": "Er ist das vielseitigste SUV der Audi-Palette und unterstreicht diesen Anspruch auch beim Antrieb. Zwar startet die dritte Generation des großen Geländewagens als Diesel, doch Nach…",
+        "fecha": "2026-08-11T22:01:14+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Pakistan sagt, Deal sei nah, auch wenn Iran und die USA ihre Haltung verschärfen",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
-        "desc": "Der pakistanische Verteidigungsminister sagte, die USA und der Iran stünden „nahe einer Vereinbarung“ über die Straße von Hormus, auch nachdem beide Seiten offenbar ihre Positionen in der Straße von Hormus verschärft hatten.",
-        "fecha": "2026-08-11T21:34:44+00:00",
+        "titulo": "Blackstone schließt 1,8-Milliarden-Dollar-Deal für Air Canada Loyalty Unit ab",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
+        "desc": "Blackstone Inc. and a group of Canadian pension funds are buying a 25% stake in Air Canada’s Aeroplan loyalty program for C$2.5 billion ($1.8 billion).",
+        "fecha": "2026-08-11T22:00:26+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "+++ Iran-Krieg +++: US-Helikopter beschießt Tanker in Golf von Oman – Mehrere Tote nach Huthi-Angriff auf Schiff",
-        "enlace": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-plant-gebuehren-fuer-strasse-von-hormus/100136895.html",
-        "desc": "Pakistanischer Innenminister reist nach Teheran +++ Dieselpreise steigen nach Angriffen auf Raffinerien deutlich +++ Trump verlängert Ausnahmen für Öltransport +++ Der Newsblog.",
-        "fecha": "2026-08-11T19:45:29+00:00",
+        "titulo": "Drohen Engpässe?: Verkehrsminister: Versorgung trotz Niedrigwasser gesichert",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/drohen-engpaesse-verkehrsminister-versorgung-trotz-niedrigwasser-gesichert/100246621.html",
+        "desc": "Die Versorgung sei weiter nicht gefährdet, so der Verkehrsminister. Die Bauindustrie warnt hingegen: Lieferengpässe für erste Baustoffe seien bereits angekündigt für den Fall, dass…",
+        "fecha": "2026-08-11T22:01:13+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Fmr. FDA- und CDC-Beamter für Cyclospora und Fragen der Lebensmittelsicherheit",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/fmr-fda-cdc-official-on-cyclospora-food-safety-issues-video",
-        "desc": "Steve Ostroff, ehemaliger amtierender Kommissar der FDA und ehemaliger stellvertretender Direktor des Nationalen Zentrums für Infektionskrankheiten beim CDC, nahm an der Sendung teil, um über die öffentliche Meinung zu diskutieren …",
-        "fecha": "2026-08-11T21:31:34+00:00",
+        "titulo": "Das zu Veritas gehörende Unternehmen Gainwell beginnt mit der Anleihe eines 5,8-Milliarden-Dollar-Deals",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+        "desc": "Gainwell Technologies hat mit der nächsten Etappe einer umfassenderen Schuldenreform in Höhe von 5,8 Milliarden US-Dollar begonnen, die die größte Finanzierung des US-Softwaresektors im Jahr 2026 auf dem Junk-Debt-Markt darstellt.",
+        "fecha": "2026-08-11T12:31:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Il Pakistan afferma che l’accordo è vicino anche se l’Iran e gli Stati Uniti inaspriscono le posizioni",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
-        "desc": "Il ministro della Difesa pakistano ha affermato che gli Stati Uniti e l’Iran sono “vicini a una sorta di accordo” sullo Stretto di Hormuz, anche dopo che entrambe le parti sembrano aver rafforzato le loro posizioni nello…",
-        "fecha": "2026-08-11T21:34:44+00:00",
+        "titulo": "Blackstone conclude un accordo da 1,8 miliardi di dollari per l'unità fedeltà di Air Canada",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
+        "desc": "Blackstone Inc. e un gruppo di fondi pensione canadesi stanno acquistando una partecipazione del 25% nel programma fedeltà Aeroplan di Air Canada per 2,5 miliardi di dollari canadesi (1,8 miliardi di dollari).",
+        "fecha": "2026-08-11T22:00:26+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Signor. FDA, funzionario del CDC su Cyclospora, questioni di sicurezza alimentare",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/fmr-fda-cdc-official-on-cyclospora-food-safety-issues-video",
-        "desc": "Steve Ostroff, ex commissario ad interim della FDA ed ex vicedirettore del Centro nazionale per le malattie infettive presso il CDC, si è unito al programma per discutere con il pubblico...",
-        "fecha": "2026-08-11T21:31:34+00:00",
+        "titulo": "Gainwell, di proprietà di Veritas, avvia la parte obbligazionaria di un accordo da 5,8 miliardi di dollari",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+        "desc": "Gainwell Technologies has started the next leg of a broader $5.8 billion debt overhaul that marks the US software sector’s biggest financing of 2026 in the junk-debt market.",
+        "fecha": "2026-08-11T12:31:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "ExxonMobil quer avançar este ano com decisão de investimento em Moçambique",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/detalhe/exxonmobil-quer-avancar-este-ano-com-decisao-de-investimento-em-mocambique",
-        "desc": "A Presidência moçambicana revelou que a intenção de avançar para a decisão final ainda este ano foi reiterada durante um encontro realizado em Maputo entre o Presidente moçambicano…",
-        "fecha": "2026-08-11T22:25:25+01:00",
+        "titulo": "Alterações de 2007 nas regras de cálculo tendem a reduzir pensões em 10% em média",
+        "enlace": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/alteracoes-de-2007-nas-regras-de-calculo-tendem-a-reduzir-pensoes-em-10-em-media",
+        "desc": "Dados reais da Segurança Social mostram que as novas regras de cálculo das pensões que estão a ser aplicadas de forma gradual desde 2007 têm resultado em valores em média 10% infer…",
+        "fecha": "2026-08-11T23:30:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Paquistão afirma que acordo está próximo, mesmo com Irã e EUA endurecendo posições",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/iran-hormuz-strait-to-remain-shut-until-conditions-met-video",
-        "desc": "O ministro da Defesa do Paquistão disse que os EUA e o Irão estão “perto de algum tipo de acordo” sobre o Estreito de Ormuz, mesmo depois de ambos os lados parecerem endurecer as suas posições no…",
-        "fecha": "2026-08-11T21:34:44+00:00",
+        "titulo": "Blackstone fecha acordo de US$ 1,8 bilhão para unidade de fidelidade da Air Canada",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/blackstone-leads-1-8-billion-air-canada-loyalty-plan-stake-deal",
+        "desc": "e um grupo de fundos de pensão canadenses estão comprando uma participação de 25% no programa de fidelidade Aeroplan da Air Canada por 2,5 bilhões de dólares canadenses (1,8 bilhão de dólares).",
+        "fecha": "2026-08-11T22:00:26+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Wall Street fecha no vermelho à espera de \"fumo branco\" entre Teerão e Washington e dados da inflação",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-fecha-no-vermelho-a-espera-de-fumo-branco-entre-teerao-e-washington-e-dados-da-inflacao",
-        "desc": "Já \"escaldados\" pelos inúmeros avanços e recuos nas negociações entre a Casa Branca e Teerão, os investidores optaram por fazer apostas de risco, numa altura em que também são agua…",
-        "fecha": "2026-08-11T21:33:00+01:00",
+        "titulo": "Anthropic introduz marca de água em textos do Claude para cumprir norma de Bruxelas",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/detalhe/anthropic-introduz-marca-de-agua-em-textos-do-claude-para-cumprir-norma-de-bruxelas",
+        "desc": "A empresa avançou com esta medida para cumprir um regulamento europeu sobre IA, que exige que os fornecedores identifiquem o seu conteúdo com uma marca de água legível.",
+        "fecha": "2026-08-11T23:19:02+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Sr. FDA, Oficial do CDC sobre Cyclospora, Questões de Segurança Alimentar",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-11/fmr-fda-cdc-official-on-cyclospora-food-safety-issues-video",
-        "desc": "Steve Ostroff, ex-comissário interino da FDA e ex-vice-diretor do Centro Nacional de Doenças Infecciosas do CDC, juntou-se ao programa para discutir o público…",
-        "fecha": "2026-08-11T21:31:34+00:00",
+        "titulo": "Gainwell, de propriedade da Veritas, inicia obrigação de parte de acordo de US$ 5,8 bilhões",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+        "desc": "A Gainwell Technologies iniciou a próxima etapa de uma revisão mais ampla da dívida de US$ 5,8 bilhões que marca o maior financiamento do setor de software dos EUA em 2026 no mercado de dívidas de alto risco.",
+        "fecha": "2026-08-11T12:31:15+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
