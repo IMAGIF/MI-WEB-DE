@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-08-12T21:51:10.505368+00:00",
+  "actualizado": "2026-08-12T22:45:30.400863+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Un hospitalizado tras caer del techo de un tren en Tarragona mientras miraba el eclipse",
-        "enlace": "https://www.abc.es/espana/cataluna/hospitalizado-tras-caer-techo-tren-tarragona-miraba-20260812231816-nt.html",
-        "desc": "Del balance provisional del dispositivo desplegado por el eclispe en Cataluña , la Generalitat ha informado de un herido, que ha tenido que ser trasladado hasta un hospital, tras c…",
-        "fecha": "2026-08-12T23:18:16+02:00",
+        "titulo": "El eclipse enciende la emoción en la provincia de Córdoba: Lucena, Puente Genil, Priego o Cabra vibran con él",
+        "enlace": "https://www.abc.es/espana/andalucia/cordoba/eclipse-enciende-emocion-provincia-cordoba-lucena-puente-20260812000907-nts.html",
+        "desc": "La provincia se ha volcado, como la ciudad de Córdoba , también para vivir un día histórico : el primer eclipse solar en España en 114 años. Uno de los lugares donde se ha vivido c…",
+        "fecha": "2026-08-13T00:09:08+02:00",
         "fuente": "ABC"
       },
       {
@@ -31,17 +31,17 @@
         "fuente": "The Objective"
       },
       {
-        "titulo": "Un hombre hospitalizado tras caer de unos vagones de tren en Altafulla (Tarragona)",
-        "enlace": "https://www.elconfidencial.com/espana/cataluna/2026-08-12/eclipse-tren-altafulla-accidente-1tps-tna_4405209/",
-        "desc": "La Conselleria de Interior de la Generalitat ha indicado que varias patrullas de los Mossos d'Esquadra se desplazaron a la zona al detectar que varias personas contemplaban el fenó…",
-        "fecha": "2026-08-12T21:51:15.856582+00:00",
+        "titulo": "Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas",
+        "enlace": "https://www.elconfidencial.com/espana/galicia/2026-08-12/muxia-costa-cocaina-narcotrafico-operacion-1tna-1tps_4405097/",
+        "desc": "Los investigadores lograron desmantelar una organización criminal asentada en la Costa da Morte, al oeste de la provincia de A Coruña, especializada en narcotransporte de alijos co…",
+        "fecha": "2026-08-12T22:45:33.235580+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Lío en La Rosaleda: Ortiz Arias expulsa a Arbeloa y el Fulham se niega a tirar los penaltis contra el Málaga",
-        "enlace": "https://okdiario.com/deportes/lio-rosaleda-ortiz-arias-expulsa-arbeloa-fulham-niega-tirar-penaltis-contra-malaga-19172341",
-        "desc": "Tremendo lío el que se armó al final del Trofeo Costa del Sol en La Rosaleda. Después de que Málaga y Fulham empatasen (2-2), el ex entrenador del Real Madrid, Álvaro Arbeloa, fue …",
-        "fecha": "2026-08-12T23:36:25+02:00",
+        "titulo": "La ley laboral lo confirma: se permite el despido si el trabajador se va de vacaciones mientras está de baja y sin indemnización",
+        "enlace": "https://okdiario.com/economia/ley-laboral-lo-confirma-oficial-permitido-despido-si-trabajador-vacaciones-mientras-esta-baja-sin-indemnizacion-18952065",
+        "desc": "Cuando se está de baja, y dependiendo del motivo, ¿se pueden hacer cosas que resulten del todo compatibles con el hecho de estar enfermo como salir a caminar, quedar con alguien e …",
+        "fecha": "2026-08-13T00:03:40+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -52,10 +52,10 @@
         "fuente": "El Español"
       },
       {
-        "titulo": "Villaco, donde niños y mayores vuelven a dar la 'chapa'",
-        "enlace": "https://www.abc.es/espana/castilla-leon/villaco-viste-fiesta-concurso-nacional-chapas-reunira-20260805224628-nt.html",
-        "desc": "El tradicional juego de las chapas en Villaco, una localidad vallisoletana ubicada en la comarca del Valle del Esgueva de apenas 72 habitantes, se ha vuelto a poner de moda y ha ro…",
-        "fecha": "2026-08-12T22:46:28+02:00",
+        "titulo": "El eclipse, sin apenas incidencias en Valladolid, que reúne a más de 25.500 personas en los puntos de observación",
+        "enlace": "https://www.abc.es/espana/castilla-leon/eclipse-apenas-incidencias-valladolid-reune-25500-personas-20260812235238-nt.html",
+        "desc": "La jornada del eclipse transcurrió sin apenas incidencias en la provincia de Valladolid. Tampoco el tráfico fue muy afectado, aunque hubo «algo más que un día normal», pero sin gra…",
+        "fecha": "2026-08-12T23:52:38+02:00",
         "fuente": "ABC"
       },
       {
@@ -75,10 +75,24 @@
     ],
     "nacional_us": [
       {
-        "titulo": "Deadly military helicopter crash in Texas kills 2, sparks wildfire and forces evacuations: officials",
-        "enlace": "https://www.foxnews.com/us/deadly-military-helicopter-crash-texas-kills-2-sparks-wildfire-forces-evacuations-officials",
-        "desc": "A military helicopter crashed near Salado, Texas, sparking a vegetation fire as Bell County authorities work an active scene with details still emerging.",
-        "fecha": "2026-08-12T16:57:58-04:00",
+        "titulo": "ICE eyes $20M purchase of electric shock gloves as Hochul warns of legal consequences",
+        "enlace": "https://www.foxnews.com/us/ice-eyes-20m-purchase-electric-shock-gloves-hochul-warns-legal-consequences",
+        "desc": "New York Democratic leaders Kathy Hochul and Letitia James warn ICE could face legal action over electric shock gloves DHS plans to acquire.",
+        "fecha": "2026-08-12T18:22:29-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "ICE plans to outfit officers with electric shock gloves",
+        "enlace": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
+        "desc": "The company that makes the gloves, Compliant Technologies, says they're a nonlethal tool to make individuals compliant during arrests.",
+        "fecha": "2026-08-12T18:13:57-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Kansas convicted felon, sex offender allegedly kills fellow family members before taking his own life: police",
+        "enlace": "https://www.foxnews.com/us/kansas-convicted-felon-sex-offender-allegedly-kills-fellow-family-members-before-taking-own-life-police",
+        "desc": "Ronald Williams Sr., a registered sex offender, allegedly killed Kelly George and their four children in Winfield, Kansas, before a 911 call.",
+        "fecha": "2026-08-12T18:17:34-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,50 +101,36 @@
         "desc": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 cu…",
         "fecha": "2026-08-12T16:33:10-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Alex Murdaugh's 'Charleston or bust' prayer shot down by prosecutors in fight over 'Holy City' retrial",
-        "enlace": "https://www.foxnews.com/us/alex-murdaugh-charleston-bust-prayer-shot-down-prosecutors-fight-holy-city-retrial",
-        "desc": "Alex Murdaugh&apos;s defense demands Charleston as the only alternative venue, but prosecutors cite flooding, hotel costs and traffic as major obstacles.",
-        "fecha": "2026-08-12T16:49:23-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
-        "enlace": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
-        "desc": "Utah-based Our Rescue was founded by activist Tim Ballard. It was previously known as Operation Underground Railroad and it says it helps law enforcement perform sting operations a…",
-        "fecha": "2026-08-12T16:19:40-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Cuti Romero será refuerzo de Atlético de Madrid: deja Tottenham para sumarse a la legión argentina liderada por Simeone",
-        "enlace": "https://www.clarin.com/deportes/cuti-romero-refuerzo-atletico-madrid-deja-tottenham-sumarse-legion-argentina-liderada-simeone_0_FsnHe9nYv3.html",
-        "desc": "El defensor abandona Inglaterra después de cinco años y se sumará al al Colchonero a cambio de 40 millones de euros. Firmará contrato por cinco temporadas y volverá a compartir pla…",
-        "fecha": "2026-08-12T21:10:04+00:00",
+        "titulo": "España se rindió ante un eclipse solar total que no se vivía desde hacía más de 120 años",
+        "enlace": "https://www.clarin.com/mundo/espana-rindio-eclipse-solar-total-vivia-120-anos_0_z0NzDtdUJV.html",
+        "desc": "La comunidad científica lo considera el más largo del siglo XXI visible desde Europa. La escena, que oscureció una franja de 290 kilómetros de ancho de España, entre Galicia y las …",
+        "fecha": "2026-08-12T22:17:59+00:00",
         "fuente": "Clarín"
       },
       {
         "titulo": "Nuevo dueño: comienza a producir 350 toneladas de quesos por mes la planta láctea paralizada durante seis meses",
         "enlace": "https://www.lanacion.com.ar/economia/campo/nuevo-dueno-comienza-a-producir-350-toneladas-de-quesos-por-mes-la-planta-lactea-paralizada-durante-nid12082026/",
         "desc": "Sudamericana de Lácteos, ubicada en Díaz, Santa Fe, volverá a elaborar la próxima semana con una recepción diaria de 100.000 litros de leche",
-        "fecha": "2026-08-12T21:47:35+00:00",
+        "fecha": "2026-08-12T22:40:20+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Últimos días en Netflix para ver una trilogía muy querida por los fans de El Señor de los Anillos: hasta cuándo hay tiempo",
-        "enlace": "https://www.clarin.com/internacional/ultimos-dias-netflix-ver-trilogia-querida-fans-senor-anillos-tiempo_0_lF9uddxVyh.html",
-        "desc": "Ya aparecen con el cartel de \"Nos deja pronto\".",
-        "fecha": "2026-08-12T21:06:08+00:00",
+        "titulo": "El dos de Caputo anticipó que el Banco Central comprará otros US$ 10.000 millones antes de las elecciones",
+        "enlace": "https://www.clarin.com/economia/caputo-anticipo-banco-central-comprara-us-10000-millones-elecciones_0_MqkRRju42o.html",
+        "desc": "El secretario de Política Económica, José Luis Daza, aseguró que la Argentina llegará a los comicios de 2027 con US$ 20.000 millones más de reservas que en 2025. Empresarios reclam…",
+        "fecha": "2026-08-12T22:06:22+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Confirmado por la NASA hoy: a qué hora es la lluvia de meteoros Perseidas y cómo aprovechar la vista en EE.UU.",
-        "enlace": "https://www.lanacion.com.ar/estados-unidos/confirmado-por-la-nasa-hoy-a-que-hora-es-la-lluvia-de-meteoros-perseidas-y-como-aprovechar-la-vista-nid12082026/",
-        "desc": "Observa las Perseidas este 12 y 13 de agosto en EE.UU.: la NASA anticipa cielos oscuros por Luna nueva y hasta 50 a 100 meteoros por hora.",
-        "fecha": "2026-08-12T21:44:00+00:00",
+        "titulo": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
+        "enlace": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
+        "desc": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+        "fecha": "2026-08-12T22:40:00+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -151,10 +151,10 @@
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Karoline Leavitt, porte-parole de la Maison Blanche et trumpiste convaincue, va quitter son poste",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260812-karoline-leavitt-porte-parole-maison-blanche-trumpiste-convaincue-demission-quitte-poste-maman",
-        "desc": "Karoline Leavitt, porte-parole de la Maison Blanche, quittera ses fonctions à la fin du mois pour consacrer davantage de temps à son rôle de maman. La plus jeune \"Press Secretary\" …",
-        "fecha": "2026-08-12T21:32:33+00:00",
+        "titulo": "Éclipse totale en Espagne : au sommet de la cathédrale de Ségovie, 59 secondes hors du temps (4/4)",
+        "enlace": "https://www.france24.com/fr/europe/20260812-eclipse-totale-soleil-espagne-segovie-sommet-cathedrale-reportage",
+        "desc": "À Ségovie, en Espagne, l’éclipse totale de Soleil a plongé la ville dans l’obscurité pendant 59 secondes, mercredi soir. Depuis les rues comme le sommet de la cathédrale, habitants…",
+        "fecha": "2026-08-12T22:17:02+00:00",
         "fuente": "France 24"
       },
       {
@@ -165,21 +165,35 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Quand auront lieu les prochaines éclipses solaires en France ?",
-        "enlace": "https://www.lefigaro.fr/sciences/quand-auront-lieu-les-prochaines-eclipses-solaires-en-france-20260812",
-        "desc": "Après le spectacle visible en métropole de ce mercredi, il faudra s’armer de patience pour voir une éclipse totale depuis l’Hexagone, même si plusieurs éclipses partielles seront v…",
-        "fecha": "2026-08-12T23:46:09+02:00",
+        "titulo": "«La lumière était presque mystique» : à Biarritz, meilleur point d’observation de France, la foule captivée par l’éclipse",
+        "enlace": "https://www.lefigaro.fr/actualite-france/la-lumiere-etait-presque-mystique-a-biarritz-meilleur-point-d-observation-de-france-la-foule-captivee-par-l-eclipse-20260813",
+        "desc": "REPORTAGE - Des milliers de touristes, locaux et passionnés d’astronomie ont afflué sur la côte basque pour assister, face à l’océan, à l’occultation presque totale du soleil.",
+        "fecha": "2026-08-13T00:30:53+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "🔴 Le PSG conserve la Supercoupe d'Europe après sa victoire face à Aston Villa",
-        "enlace": "https://www.france24.com/fr/sports/20260812-psg-conserve-supercoupe-d-europe-victoire-aston-villa",
-        "desc": "",
-        "fecha": "2026-08-12T21:14:25+00:00",
+        "titulo": "Pétrolier échoué au large d'Oman : la marée noire a atteint les côtes",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution",
+        "desc": "Les fuites d'un pétrolier échoué au large d'Oman, soupçonné d'appartenir à la \"flotte fantôme\" russe, ont atteint les côtes omanaises, menaçant jusqu'à 40 kilomètres de rives. La m…",
+        "fecha": "2026-08-12T21:57:56+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
+      {
+        "titulo": "Mord an Rob und Michele Reiner: Sohn Nick soll seinen Eltern aufgelauert haben",
+        "enlace": "https://www.spiegel.de/ausland/mord-an-rob-und-michele-reiner-sohn-nick-soll-seinen-eltern-aufgelauert-haben-a-30a2a683-c906-44d6-b931-cd7af9d7fd57#ref=rss",
+        "desc": "Der Sohn des Hollywoodpaars Rob und Michele Reiner steht wegen Mordes an seinen Eltern vor Gericht. Eine Anklageschrift legt nun neue Vorwürfe gegen den 32-Jährigen offen.",
+        "fecha": "2026-08-12T23:53:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Tanker »Caroline Bezengi«: Öl aus auf Grund gelaufenem Tanker erreicht Küste des Oman",
+        "enlace": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/tanker-caroline-bezengi-oel-oman-kueste-schattenflotte-russland",
+        "desc": "Hunderte Quadratkilometer sind nach der Havarie eines Tankers aus Russlands Schattenflotte verschmutzt. Die Bergung des Schiffs verzögert sich wegen schlechten Wetters.",
+        "fecha": "2026-08-12T22:31:46",
+        "fuente": "Die Zeit"
+      },
       {
         "titulo": "Fußball: Spanier Xavi Hernández wird neuer Trainer der Niederländer",
         "enlace": "https://www.spiegel.de/sport/fussball/fussball-spanier-xavi-hernandez-wird-neuer-trainer-der-niederlaender-a-8af4f44d-1c80-4aed-b6f5-cafaed6276f1#ref=rss",
@@ -188,49 +202,35 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Uefa-Supercup: Paris Saint-Germain gewinnt Uefa-Supercup",
-        "enlace": "https://www.zeit.de/sport/2026-08/uefa-supercup-psg-paris-saint-germain-aston-villa",
-        "desc": "Beim Supercup in Salzburg setzt Paris Saint-Germain seine Erfolgsserie nach dem Champions-League-Sieg fort. Der 17-jährige Madjo wurde jüngster Supercup-Torschütze.",
-        "fecha": "2026-08-12T21:34:45",
-        "fuente": "Die Zeit"
-      },
-      {
-        "titulo": "Karoline Leavitt: Trumps Pressesprecherin gibt Posten im Weißen Haus auf",
-        "enlace": "https://www.spiegel.de/ausland/karoline-leavitt-trumps-pressesprecherin-gibt-posten-im-weissen-haus-auf-a-9dbc0665-ed5e-46da-bc5f-721bb6d942e3#ref=rss",
-        "desc": "Seit Beginn von Donald Trumps zweiter Amtszeit war Karoline Leavitt Pressesprecherin des Weißen Hauses und eine seiner größten Unterstützerinnen. Nun zieht sie sich abrupt zurück. …",
-        "fecha": "2026-08-12T22:26:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Königliche Niederländische Fußballbund: Xavi Hernández wird neuer Nationaltrainer der Niederlande",
-        "enlace": "https://www.zeit.de/sport/2026-08/xavi-hernandez-nationaltrainer-niederlande-ronald-koeman-bundestrainer-deutschland",
-        "desc": "Der ehemalige spanische Nationalspieler Xavi ist neuer Cheftrainer der niederländischen Nationalmannschaft. Seine Premiere feiert er im Länderspiel gegen Deutschland.",
-        "fecha": "2026-08-12T21:00:08",
+        "titulo": "Vulkanausbruch auf Sizilien: Ätna-Ausbruch beeinträchtigt weiterhin Flugverkehr auf Sizilien",
+        "enlace": "https://www.zeit.de/gesellschaft/2026-08/flughafen-catania-aetna-sizilien-gesperrt",
+        "desc": "Seit Tagen spuckt Europas aktivster Vulkan Lava und Asche aus. Das hat auch Folgen für den nahegelegenen Flughafen Catania. Dessen Sperrung wird bis Freitag verlängert.",
+        "fecha": "2026-08-12T21:58:22",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Tra la folla ammutolita dalla magia dell’eclissi. “È la riscossa della Luna”",
-        "enlace": "https://www.repubblica.it/cronaca/2026/08/12/news/eclissi_torino_collina_superga_racconto-425526217/",
-        "desc": "Sulla collina di Superga lo spettacolo astronomico più atteso si trasforma in una grande festa. Interrotta da una nuvola beffarda",
-        "fecha": "2026-08-12T20:34:38+00:00",
+        "titulo": "Piantedosi e i confini: la vignetta di Ellekappa",
+        "enlace": "https://www.repubblica.it/politica/2026/08/13/news/piantedosi_e_i_confini_la_vignetta_di_ellekappa-425526090/",
+        "desc": "",
+        "fecha": "2026-08-12T22:01:00+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Lascia Leavitt, la portavoce della Casa Bianca. Trump: “Trascorrerà più tempo con i suoi figli”",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/12/news/karoline_leavitt_portavoce_casa_bianca_trump-425526199/",
-        "desc": "Lo ha annunciato il presidente Trump spiegando che andrà a ricoprire un ruolo da sua consigliera esterna oltre ad assumere “una voce influente nel Partito repubblicano” in vista de…",
-        "fecha": "2026-08-12T20:25:44+00:00",
+        "titulo": "Kvara e Doué, festa del Psg: l’Aston Villa battuto 2-1. La Supercoppa parla ancora francese",
+        "enlace": "https://www.repubblica.it/sport/calcio/2026/08/12/news/psg_aston_villa_supercoppa_gol-425526323/",
+        "desc": "Altra conferma per la squadra di Luis Enrique dopo il bis in Champions League. Non basta una prova convincente degli inglesi, trascinati dal giovanissimo Madjo",
+        "fecha": "2026-08-12T21:41:05+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "Watch: Solar eclipse seen over UK skies",
-        "enlace": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
-        "desc": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
-        "fecha": "2026-08-12T21:46:21+00:00",
+        "titulo": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+        "enlace": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+        "desc": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+        "fecha": "2026-08-12T21:53:45+00:00",
         "fuente": "BBC"
       },
       {
@@ -241,10 +241,10 @@
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "enlace": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "desc": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-        "fecha": "2026-08-12T17:47:01+00:00",
+        "titulo": "Watch: Solar eclipse seen over UK skies",
+        "enlace": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
+        "desc": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
+        "fecha": "2026-08-12T21:46:21+00:00",
         "fuente": "BBC"
       },
       {
@@ -264,10 +264,10 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Moçambique pede apoio para extensão de missão militar da UE",
-        "enlace": "https://observador.pt/2026/08/12/mocambique-pede-a-eslovaquia-e-dinamarca-apoio-para-extensao-da-missao-militar-da-ue-em-cabo-delgado/",
-        "desc": "A EUMAM-MOZ é uma missão não executiva que presta assistência às FADM no desenvolvimento e reforço das suas capacidades, procurando assegurar que estas consigam implementar e suste…",
-        "fecha": "2026-08-12T22:46:18+01:00",
+        "titulo": "Erdogan acusa Israel de querer \"apagar a Palestina\"",
+        "enlace": "https://observador.pt/2026/08/12/erdogan-acusa-israel-de-querer-apagar-a-palestina-da-agenda-mundial-em-conferencia-com-abbas-em-ancara/",
+        "desc": "Erdogan tem visado particularmente o primeiro-ministro israelita, Benjamin Netanyahu, que chegou a comparar por diversas vezes a Adolf Hitler, líder do regime nazi alemão responsáv…",
+        "fecha": "2026-08-12T23:44:32+01:00",
         "fuente": "Observador"
       },
       {
@@ -278,40 +278,40 @@
         "fuente": "Público"
       },
       {
-        "titulo": "JMJ Seul 2027 já tem mil jovens portugueses inscritos",
-        "enlace": "https://observador.pt/2026/08/12/peregrinacao-portuguesa-a-jmj-seul-2027-ultrapassa-mil-inscritos-no-dia-internacional-da-juventude/",
-        "desc": "As JMJ nasceram por iniciativa do Papa João Paulo II",
-        "fecha": "2026-08-12T22:40:33+01:00",
+        "titulo": "\"Rosaline, a ex do Romeu\" estreia-se em setembro em Lisboa",
+        "enlace": "https://observador.pt/2026/08/12/rosaline-a-ex-do-romeu-aposta-em-novos-talentos-e-estreia-se-em-setembro-em-lisboa/",
+        "desc": "O espetáculo foi escrito e encenado por Renato Arroyo",
+        "fecha": "2026-08-12T23:44:15+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Tarcísio vai ao STF contra Lula após citar empréstimo em debate e Flávio falar em 'vingança' de petista",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tarcisio-vai-ao-stf-contra-lula-apos-citar-emprestimo-em-debate-e-flavio-falar-em-vinganca-de-petista.shtml",
-        "desc": "A procuradora-geral do Estado de São Paulo, Inês Coimbra, propôs uma ação cível originária no STF (Supremo Tribunal Federal) contra a União diante de uma suposta demora do governo …",
-        "fecha": "2026-08-12T18:46:00-03:00",
+        "titulo": "Transformar a Justiça contra a magistocracia",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/08/transformar-a-justica-contra-a-magistocracia.shtml",
+        "desc": "A Folha abriu série de seminários para discutir o sistema de Justiça brasileiro. Contribui para a reivindicação social por Estado de Direito íntegro e competente, imparcial e diver…",
+        "fecha": "2026-08-12T19:34:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Assista ao JAP2 desta quarta (12)",
-        "enlace": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quarta-12.ghtml",
-        "desc": "Assista ao JAP2 desta quarta (12) Participe pelo (96) 99112-6310 O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-        "fecha": "2026-08-12T21:42:11",
+        "titulo": "Fogo em plantações se aproxima de casas e assusta moradores de Ipuã, SP",
+        "enlace": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/12/fogo-em-plantacoes-se-aproxima-de-casas-e-assusta-moradores-de-ipua-sp.ghtml",
+        "desc": "Um incêndio de grandes proporções atingiu plantações nesta quarta-feira (12), se aproximou de casas e assustou moradores de Ipuã (SP), cidade de 14 mil habitantes da região de Ribe…",
+        "fecha": "2026-08-12T22:43:03",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Justiça pode definir futuro de território quilombola em MG após 17 anos de disputa",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/justica-pode-definir-futuro-de-territorio-quilombola-em-mg-apos-17-anos-de-disputa.shtml",
-        "desc": "O TRF-6 (Tribunal Regional Federal da 6ª região) julga nesta quinta-feira (13) uma ação que pode definir o futuro do território da comunidade quilombola Machadinho , em Paracatu (M…",
-        "fecha": "2026-08-12T18:00:00-03:00",
+        "titulo": "Área queimada no Brasil cai 33% em meio a risco de El Niño forte",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/area-queimada-no-brasil-cai-33-em-meio-a-risco-de-el-nino-forte.shtml",
+        "desc": "Diante da alta probabilidade de se ter um El Niño forte ou extraforte no país, o Ministério do Meio Ambiente respirou aliviado com os dados atualizados dos incêndios que atingiram …",
+        "fecha": "2026-08-12T19:02:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "VÍDEOS: MG2 de quarta-feira, 12 de agosto de 2026",
-        "enlace": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-quarta-feira-12-de-agosto-de-2026.ghtml",
-        "desc": "Assista aos vídeos das principais notícias de Minas Gerais.",
-        "fecha": "2026-08-12T21:41:08",
+        "titulo": "Mulher armada rende funcionária e assalta mercado em Cabo Frio; VÍDEO",
+        "enlace": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/12/mulher-armada-rende-funcionaria-e-assalta-mercado-em-cabo-frio-video.ghtml",
+        "desc": "Mulher armada rende funcionária e assalta mercado em Cabo Frio; VÍDEO Uma mulher armada assaltou um mercado no bairro Jardim Caiçara, em Cabo Frio, na noite de terça-feira (11). Im…",
+        "fecha": "2026-08-12T22:42:55",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,31 +333,31 @@
     ],
     "internacional_es": [
       {
-        "titulo": "De la Espriella autoriza a EE.UU. a realizar «operaciones militares conjuntas» en Colombia contra el narcotráfico",
+        "titulo": "De la Espriella autoriza a EE.UU. a realizar «operaciones militares conjuntas» en Colombia contra el narco",
         "enlace": "https://www.abc.es/internacional/espriella-autoriza-eeuu-realizar-operaciones-militares-conjuntas-20260812233720-nt.html",
         "desc": "El secretario de Guerra de Estados Unidos, Pete Hegseth, ha afirmado este miércoles que el nuevo presidente de Colombia, Abelardo de la Espriella, ha autorizado «operaciones milita…",
         "fecha": "2026-08-12T23:37:20+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Cali permanece sin dormir por miedo a las réplicas y preocupada por sus familiares: \"La gente está buscando dónde ir\"",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/11/6a7b3f92fdddfff24e8b4592.html",
-        "desc": "Una colombiana residente en España y de vacaciones en su ciudad natal relata los difíciles momentos vividos tras el terremoto&nbsp; Leer",
-        "fecha": "2026-08-11T22:51:37+02:00",
+        "titulo": "El Conde Carabasura, guerrero intergaláctico y defensor de la democracia: el candidato friki que aspira a derrotar a Farage",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/13/6a7c8d2de4d4d813368b458b.html",
+        "desc": "El cómico Jonathan Harvey, formado en Oxford, se enfunda el traje espacial en Clacton para desafiar al líder ultra con un programa disparatado que propone nacionalizar a Adele y ll…",
+        "fecha": "2026-08-13T00:05:32+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Trump anuncia la salida de la portavoz de la Casa Blanca, Karoline Leavitt",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-12/trump-leavitt-casa-blanca-1hms_4405207/",
         "desc": "El republicano anuncia que su secretaria de prensa dejará el cargo para centrarse en su familia y pasará a asesorarle desde fuera, con foco en la estrategia republicana de cara a n…",
-        "fecha": "2026-08-12T21:51:42.417383+00:00",
+        "fecha": "2026-08-12T22:46:02.377184+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "Así fue el espectacular eclipse solar total que se vivió en España",
-        "enlace": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
-        "desc": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
-        "fecha": "2026-08-12T21:51:43.533656+00:00",
+        "titulo": "\"Cuando estábamos perdiendo las esperanzas, recibimos una llamada\": el rescate de Daniela Largo, la joven atrapada por 36 horas en Pereira tras el terremoto",
+        "enlace": "https://www.bbc.com/mundo/articles/ce8lp296rw5o?at_medium=RSS&at_campaign=rss",
+        "desc": "La exitosa operación de rescate ha devuelto la esperanza a Pereira, donde las autoridades reconocen que más de 40 personas continúan desaparecidas bajo los escombros. Al menos 79 p…",
+        "fecha": "2026-08-12T14:13:46+00:00",
         "fuente": "BBC Mundo"
       },
       {
@@ -389,17 +389,17 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Cuba se queda sin petróleo y apuesta por la energía solar con la ayuda de China",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/12/6a78a878e9cf4a4e4c8b4596.html",
-        "desc": "El giro hacia las energías renovables ha ayudado a la isla a soportar el aumento de la presión de Washington&nbsp; Leer",
-        "fecha": "2026-08-12T01:04:12+02:00",
+        "titulo": "Putin amenaza con apresar buques europeos \"en cualquier lugar\" si la UE confisca barcos de la flota fantasma rusa",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/12/6a7c7420fc6c83d97b8b4595.html",
+        "desc": "El autócrata ruso tacha de \"piratería y bandidaje\" la incautación de buques por parte de países de la UE&nbsp; Leer",
+        "fecha": "2026-08-12T20:33:06+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "El ministro de Justicia marroquí insiste en plena crisis sobre Ceuta y Melilla: \"Seguimos aferrados a nuestras tierras. El tema sigue sobre la mesa\"",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-12/el-ministro-de-justicia-marroqui-insiste-en-plena-crisis-sobre_4405018/",
         "desc": "La ministra de Defensa, Margarita Robles, responde que las ciudades autónomas son \"españolísimas\" y que el Ejército permanecerá desplegado como \"disuasión\"",
-        "fecha": "2026-08-12T21:51:42.417427+00:00",
+        "fecha": "2026-08-12T22:46:02.377230+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -419,24 +419,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Partial eclipse seen from North and West Africa",
-        "enlace": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
-        "desc": "In tonight's program, across parts of Africa millions lifted their eyes skywards for a rare celestial event, a partial solar eclipse. Also, in Zambia President Hakainde Hichilema h…",
-        "fecha": "2026-08-12T21:09:38+00:00",
+        "titulo": "Oil spill from grounded tanker reaches Oman’s mainland beaches",
+        "enlace": "https://www.france24.com/en/middle-east/20260812-oil-spill-from-grounded-tanker-reaches-oman-mainland-beaches",
+        "desc": "Oman’s Environment Authority said Wednesday that oil leaking from a tanker grounded off the country’s coast had reached mainland beaches. The spill threatened marine habitats and a…",
+        "fecha": "2026-08-12T22:18:17+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Childhood friends discover they’re sisters through DNA test 40 years after adoption: ‘It’s like I’m home’",
-        "enlace": "https://nypost.com/2026/08/12/world-news/childhood-friends-discover-theyre-sisters-through-dna-test-40-years-after-adoption/",
-        "desc": "“For years, I felt ‌a hole in my heart,” Meena Geltink said. “It’s like a missing ‌puzzle piece has been found.”",
-        "fecha": "2026-08-12T14:48:05-07:00",
+        "titulo": "Eric Adams associate Alisa Roever promoting another star-studded charity event that doesn’t seem to exist",
+        "enlace": "https://pagesix.com/2026/08/12/society/eric-adams-associate-promoting-nonexistent-charity-event/",
+        "desc": "The former mayor is currently listed as a “co-founderer” [sic] on the charity’s site, while his brother Bernardis now identified as “board member.”",
+        "fecha": "2026-08-12T18:43:11-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Eurovision bars countries at war from hosting",
-        "enlace": "https://www.dw.com/en/eurovision-bars-countries-at-war-from-hosting/a-78341915?maca=en-rss-en-all-1573-rdf",
-        "desc": "A Eurovision victory will no longer guarantee hosting rights if war or a wider security crisis affects the winning country. The change could have particular significance for recent…",
-        "fecha": "2026-08-12T21:51:45.952679+00:00",
+        "titulo": "Brazil orders Discord to halt livestreaming after teen death",
+        "enlace": "https://www.dw.com/en/brazil-orders-discord-to-halt-livestreaming-after-teen-death/a-78343328?maca=en-rss-en-all-1573-rdf",
+        "desc": "Brazil has ordered Discord to suspend livestreaming as authorities scrutinize how the platform protects young users. The move follows a case described a \"real-life horror show\" tha…",
+        "fecha": "2026-08-12T22:46:08.308942+00:00",
         "fuente": "DW English"
       },
       {
@@ -450,7 +450,7 @@
         "titulo": "Trump: Leavitt to step down from her position at end of the month",
         "enlace": "https://www.oann.com/newsroom/trump-leavitt-to-step-down-from-her-position-at-end-of-the-month/",
         "desc": "White House Press Secretary Karoline Leavitt will step down from her position at the end of the month, President Donald Trump announced in a statement, praising her tenure and outl…",
-        "fecha": "2026-08-12T21:48:30+00:00",
+        "fecha": "2026-08-12T22:38:04+00:00",
         "fuente": "OAN"
       },
       {
@@ -468,10 +468,10 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "In pictures: Partial to total eclipse sweeps across much of Europe",
-        "enlace": "https://www.france24.com/en/europe/20260812-in-pictures-partial-to-total-eclipse-seen-across-much-of-europe",
-        "desc": "The total eclipse in Spain – and partial eclipse seen across much of Europe – gave rise to a host of incredible photos.",
-        "fecha": "2026-08-12T20:19:09+00:00",
+        "titulo": "White House press secretary and Trump adviser Karoline Leavitt to leave role",
+        "enlace": "https://www.france24.com/en/americas/20260812-white-house-press-secretary-and-trump-adviser-karoline-leavitt-to-leave-role",
+        "desc": "White House press secretary Karoline Leavitt will leave her role at the end of the month, US President Donald Trump said on Wednesday, ending the tenure of one of his most prominen…",
+        "fecha": "2026-08-12T21:54:09+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,21 +484,21 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Karoline Leavitt, porte-parole de la Maison Blanche et trumpiste convaincue, va quitter son poste",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20260812-karoline-leavitt-porte-parole-maison-blanche-trumpiste-convaincue-demission-quitte-poste-maman",
-        "desc": "Karoline Leavitt, porte-parole de la Maison Blanche, quittera ses fonctions à la fin du mois pour consacrer davantage de temps à son rôle de maman. La plus jeune \"Press Secretary\" …",
-        "fecha": "2026-08-12T21:32:33+00:00",
+        "titulo": "Éclipse totale en Espagne : au sommet de la cathédrale de Ségovie, 59 secondes hors du temps (4/4)",
+        "enlace": "https://www.france24.com/fr/europe/20260812-eclipse-totale-soleil-espagne-segovie-sommet-cathedrale-reportage",
+        "desc": "À Ségovie, en Espagne, l’éclipse totale de Soleil a plongé la ville dans l’obscurité pendant 59 secondes, mercredi soir. Depuis les rues comme le sommet de la cathédrale, habitants…",
+        "fecha": "2026-08-12T22:17:02+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Éclipse solaire totale: des millions d'Européens émerveillés devant un phénomène astronomique rare",
-        "enlace": "https://www.rfi.fr/fr/science/20260812-d%C3%A9but-de-l-%C3%A9clipse-solaire-aux-confins-de-l-arctique-russe",
-        "desc": "Des millions d'Européens ont contemplé ce mardi 12 août le ciel avec émerveillement lors d'une rare éclipse solaire totale qui a plongé une partie de l'Espagne dans une étrange obs…",
-        "fecha": "2026-08-12T17:30:09+00:00",
+        "titulo": "DIRECT - Moyen-Orient: le Liban condamne les destructions «systématiques» d'Israël dans le sud",
+        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260812-direct-moyen-orient-les-%C3%A9tats-unis-tirent-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens",
+        "desc": "Le Premier ministre libanais, Nawaf Salam, a condamné mercredi 12 août les destructions « systématiques » dans le sud du Liban, où Israël a dit démolir « toutes les maisons » dans …",
+        "fecha": "2026-08-12T04:18:30+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "Frappes ukrainiennes : la Russie de nouveau frappée de la crise du carburant, pénuries dans 16 régions",
+        "titulo": "Frappes ukrainiennes : la Russie de nouveau frappée par la crise du carburant, pénuries dans 16 régions",
         "enlace": "http://fr.euronews.com/2026/08/12/frappes-ukrainiennes-la-russie-de-nouveau-frappee-de-la-crise-du-carburant-penuries-dans-1",
         "desc": "Des frappes incessantes de drones ukrainiens en profondeur de la Russie ciblent le secteur pétrolier et entraînent une nouvelle vague de crise du carburant, avec files d’attente au…",
         "fecha": "2026-08-12T22:08:10+02:00",
@@ -519,10 +519,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "🔴 Le PSG conserve la Supercoupe d'Europe après sa victoire face à Aston Villa",
-        "enlace": "https://www.france24.com/fr/sports/20260812-psg-conserve-supercoupe-d-europe-victoire-aston-villa",
-        "desc": "",
-        "fecha": "2026-08-12T21:14:25+00:00",
+        "titulo": "Pétrolier échoué au large d'Oman : la marée noire a atteint les côtes",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260812-petrolier-echoue-large-oman-maree-noire-atteint-cotes-environnement-pollution",
+        "desc": "Les fuites d'un pétrolier échoué au large d'Oman, soupçonné d'appartenir à la \"flotte fantôme\" russe, ont atteint les côtes omanaises, menaçant jusqu'à 40 kilomètres de rives. La m…",
+        "fecha": "2026-08-12T21:57:56+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Fußball: Spanier Xavi Hernández wird neuer Trainer der Niederländer",
-        "enlace": "https://www.spiegel.de/sport/fussball/fussball-spanier-xavi-hernandez-wird-neuer-trainer-der-niederlaender-a-8af4f44d-1c80-4aed-b6f5-cafaed6276f1#ref=rss",
-        "desc": "Die Fußballauswahl der Niederlande hat einen neuen Trainer. Der frühere Barcelona-Star Xavi Hernández soll das Team bis zur Weltmeisterschaft 2030 coachen. Erster Gegner: die deuts…",
-        "fecha": "2026-08-12T22:49:00+02:00",
+        "titulo": "Mord an Rob und Michele Reiner: Sohn Nick soll seinen Eltern aufgelauert haben",
+        "enlace": "https://www.spiegel.de/ausland/mord-an-rob-und-michele-reiner-sohn-nick-soll-seinen-eltern-aufgelauert-haben-a-30a2a683-c906-44d6-b931-cd7af9d7fd57#ref=rss",
+        "desc": "Der Sohn des Hollywoodpaars Rob und Michele Reiner steht wegen Mordes an seinen Eltern vor Gericht. Eine Anklageschrift legt nun neue Vorwürfe gegen den 32-Jährigen offen.",
+        "fecha": "2026-08-12T23:53:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Geheimdienste: Bundesregierung will aufrüsten",
         "enlace": "https://www.dw.com/de/geheimdienste-bundesregierung-will-aufrüsten/a-78339006?maca=de-rss-de-all-1119-rdf",
         "desc": "Verfassungsschutz und BND fordern schon lange mehr Befugnisse im Kampf gegen Cyberangriffe, Terror und Extremismus. Nun gibt die Regierung grünes Licht. Kritiker warnen vor dem Übe…",
-        "fecha": "2026-08-12T21:51:48.156511+00:00",
+        "fecha": "2026-08-12T22:46:11.483692+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -572,22 +572,22 @@
       {
         "titulo": "Bei Angriff auf den Schwarzmeerhafen der Ukraine wurden große russische Getreideexportterminals getroffen",
         "enlace": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-        "desc": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+        "desc": "Die Getreideexporte sowohl aus Russland als auch aus der Ukraine gehen zurück, da beide Länder gegenseitig ihre Schifffahrtsanlagen und Häfen angreifen.",
         "fecha": "2026-08-12T17:47:01+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Karoline Leavitt: Trumps Pressesprecherin gibt Posten im Weißen Haus auf",
-        "enlace": "https://www.spiegel.de/ausland/karoline-leavitt-trumps-pressesprecherin-gibt-posten-im-weissen-haus-auf-a-9dbc0665-ed5e-46da-bc5f-721bb6d942e3#ref=rss",
-        "desc": "Seit Beginn von Donald Trumps zweiter Amtszeit war Karoline Leavitt Pressesprecherin des Weißen Hauses und eine seiner größten Unterstützerinnen. Nun zieht sie sich abrupt zurück. …",
-        "fecha": "2026-08-12T22:26:00+02:00",
+        "titulo": "Fußball: Spanier Xavi Hernández wird neuer Trainer der Niederländer",
+        "enlace": "https://www.spiegel.de/sport/fussball/fussball-spanier-xavi-hernandez-wird-neuer-trainer-der-niederlaender-a-8af4f44d-1c80-4aed-b6f5-cafaed6276f1#ref=rss",
+        "desc": "Die Fußballauswahl der Niederlande hat einen neuen Trainer. Der frühere Barcelona-Star Xavi Hernández soll das Team bis zur Weltmeisterschaft 2030 coachen. Erster Gegner: die deuts…",
+        "fecha": "2026-08-12T22:49:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "EU-Verpackungsregeln versetzen Händler in Alarm",
         "enlace": "https://www.dw.com/de/eu-verpackungsregeln-versetzen-händler-in-alarm/a-78336843?maca=de-rss-de-all-1119-rdf",
         "desc": "Die EU hat neue Vorschriften für Verpackungsabfälle und \"Ewigkeitschemikalien“ eingeführt. Die müssen zwar nicht sofort umgesetzt werden, doch einige Kleinverkäufer haben den Versa…",
-        "fecha": "2026-08-12T21:51:48.156553+00:00",
+        "fecha": "2026-08-12T22:46:11.483736+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -600,7 +600,7 @@
       {
         "titulo": "Israeli settlers besieging Palestinian families in West Bank village",
         "enlace": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-        "desc": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "desc": "Berichten zufolge haben sich die israelischen Sicherheitskräfte zurückgezogen und etwa ein Dutzend Siedler sollen an dem Ort bleiben, an dem seit Sonntag zwei Familien belagert werden.",
         "fecha": "2026-08-12T16:14:08+00:00",
         "fuente": "BBC World EN"
       }
@@ -621,7 +621,7 @@
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "titulo": "Importanti terminal russi per l'esportazione di grano colpiti in Ucraina Attacco al porto del Mar Nero",
         "enlace": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
         "desc": "Le esportazioni di grano sia dalla Russia che dall’Ucraina stanno diminuendo poiché entrambi i paesi attaccano a vicenda le strutture di spedizione e i porti.",
         "fecha": "2026-08-12T17:47:01+00:00",
@@ -651,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "21h O eclipse solar das últimas horas",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/21h-o-eclipse-solar-das-ultimas-horas_a1_1759135",
+        "titulo": "23h Fatoumata Diallo conquista primeira medalha de Portugal nos Europeus de Atletismo",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/23h-fatoumata-diallo-conquista-primeira-medalha-de-portugal-nos-europeus-de-atletismo_a1_1759141",
         "desc": "",
-        "fecha": "2026-08-12T23:30:03+01:00",
+        "fecha": "2026-08-13T00:28:01+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Moçambique pede apoio para extensão de missão militar da UE",
-        "enlace": "https://observador.pt/2026/08/12/mocambique-pede-a-eslovaquia-e-dinamarca-apoio-para-extensao-da-missao-militar-da-ue-em-cabo-delgado/",
-        "desc": "A EUMAM-MOZ é uma missão não executiva que presta assistência às FADM no desenvolvimento e reforço das suas capacidades, procurando assegurar que estas consigam implementar e suste…",
-        "fecha": "2026-08-12T22:46:18+01:00",
+        "titulo": "Erdogan acusa Israel de querer \"apagar a Palestina\"",
+        "enlace": "https://observador.pt/2026/08/12/erdogan-acusa-israel-de-querer-apagar-a-palestina-da-agenda-mundial-em-conferencia-com-abbas-em-ancara/",
+        "desc": "Erdogan tem visado particularmente o primeiro-ministro israelita, Benjamin Netanyahu, que chegou a comparar por diversas vezes a Adolf Hitler, líder do regime nazi alemão responsáv…",
+        "fecha": "2026-08-12T23:44:32+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,17 +672,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Paris Saint Germain vence Supertaça Europeia",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/paris-saint-germain-vence-supertaca-europeia_d1759129",
-        "desc": "O Paris Saint Germain derrotou hoje o Aston Villa, em Salzburgo, por 2-1 para garantir a segunda Supertaça Europeia consecutiva.",
-        "fecha": "2026-08-12T23:25:48+01:00",
+        "titulo": "Eclipse total do sol. O fenómeno visto a partir de Portugal",
+        "enlace": "https://www.rtp.pt/noticias/pais/eclipse-total-do-sol-o-fenomeno-visto-a-partir-de-portugal_e1759045",
+        "desc": "O país testemunhou hoje um fenómeno raro: um eclipse total do Sol. Os portugueses estiveram de olhos postos no céu, sobretudo em Bragança, onde o eclipse solar foi total.",
+        "fecha": "2026-08-13T00:14:30+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "JMJ Seul 2027 já tem mil jovens portugueses inscritos",
-        "enlace": "https://observador.pt/2026/08/12/peregrinacao-portuguesa-a-jmj-seul-2027-ultrapassa-mil-inscritos-no-dia-internacional-da-juventude/",
-        "desc": "As JMJ nasceram por iniciativa do Papa João Paulo II",
-        "fecha": "2026-08-12T22:40:33+01:00",
+        "titulo": "\"Rosaline, a ex do Romeu\" estreia-se em setembro em Lisboa",
+        "enlace": "https://observador.pt/2026/08/12/rosaline-a-ex-do-romeu-aposta-em-novos-talentos-e-estreia-se-em-setembro-em-lisboa/",
+        "desc": "O espetáculo foi escrito e encenado por Renato Arroyo",
+        "fecha": "2026-08-12T23:44:15+01:00",
         "fuente": "Observador"
       },
       {
@@ -716,10 +716,10 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Hudson-Smith de GB gana el histórico oro de 400 metros en la pista local",
+        "titulo": "Hudson-Smith de GB gana el histórico oro de 400 metros en la pista local: aspectos destacados e informe",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
         "desc": "El británico Matthew Hudson-Smith hace historia como el hombre más condecorado de todos los tiempos en los Campeonatos de Europa al conseguir el oro en los 400 metros en Birmingham.",
-        "fecha": "2026-08-12T20:04:08+00:00",
+        "fecha": "2026-08-12T22:41:22+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -753,17 +753,17 @@
     ],
     "deportes_en": [
       {
-        "titulo": "GB's Hudson-Smith wins historic 400m gold on home track",
+        "titulo": "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
         "desc": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
-        "fecha": "2026-08-12T20:04:08+00:00",
+        "fecha": "2026-08-12T22:41:22+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "MI London's Hundred title defence over despite narrow win over Phoenix",
-        "enlace": "https://www.skysports.com/cricket/news/12040/13572322/the-hundred-mi-londons-title-defence-and-hopes-of-fourth-in-a-row-over-despite-narrow-win-over-birmingham-phoenix",
-        "desc": "MI London had the lights turned out on their hopes of claiming a fourth straight Hundred title despite beating bottom-placed Birmingham Phoenix in a nip-and-tuck final men's group …",
-        "fecha": "2026-08-12T22:07:00",
+        "titulo": "Papers: Arsenal hold further talks over Villa's Konsa",
+        "enlace": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk",
+        "desc": "The top stories and transfer rumours from Thursday's newspapers...",
+        "fecha": "2026-08-12T23:30:00",
         "fuente": "Sky Sports"
       },
       {
@@ -774,25 +774,25 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
-        "enlace": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
-        "desc": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in Dublin, befo…",
-        "fecha": "2026-08-12T21:48:00",
+        "titulo": "MI London's Hundred title defence over despite narrow win over Phoenix",
+        "enlace": "https://www.skysports.com/cricket/news/12040/13572322/the-hundred-mi-londons-title-defence-and-hopes-of-fourth-in-a-row-over-despite-narrow-win-over-birmingham-phoenix",
+        "desc": "MI London had the lights turned out on their hopes of claiming a fourth straight Hundred title despite beating bottom-placed Birmingham Phoenix in a nip-and-tuck final men's group …",
+        "fecha": "2026-08-12T22:07:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "GB's Hudson-Smith wins historic 400m gold on home track",
+        "titulo": "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
         "desc": "Le Britannique Matthew Hudson-Smith entre dans l'histoire en tant qu'homme le plus décoré de tous les temps aux Championnats d'Europe en remportant l'or au 400 m à Birmingham.",
-        "fecha": "2026-08-12T20:04:08+00:00",
+        "fecha": "2026-08-12T22:41:22+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Les moments les plus emblématiques de Messi alors qu'il réfléchit à sa retraite",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
-        "desc": "As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments.",
+        "desc": "Alors que Lionel Messi réfléchit à son avenir footballistique après la mort de son père, BBC Sport revient sur certains de ses moments les plus emblématiques.",
         "fecha": "2026-08-12T20:32:58+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -802,21 +802,21 @@
         "titulo": "Verbände werfen FIFA-Präsident Infantino \"Täuschung\" vor",
         "enlace": "https://www.dw.com/de/verbände-werfen-fifa-präsident-infantino-täuschung-vor/a-78305179?maca=de-rss-de-sport-4020-rdf",
         "desc": "Drei Fußball-Dachverbände zeigen gegen Gianni Infantino Zusammenhalt. Europa, Asien sowie Nord- und Mittelamerika erneuern ihre Kritik am Weltverband. Sie werfen dem FIFA-Präsident…",
-        "fecha": "2026-08-12T21:52:00.508188+00:00",
+        "fecha": "2026-08-12T22:46:28.629855+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Hudson-Smith aus Großbritannien gewinnt historisches 400-m-Gold auf der Heimstrecke",
+        "titulo": "Hudson-Smith aus Großbritannien gewinnt historisches 400-m-Gold auf der Heimstrecke – Highlights und Bericht",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-        "desc": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
-        "fecha": "2026-08-12T20:04:08+00:00",
+        "desc": "Der Brite Matthew Hudson-Smith schreibt als höchstdekorierter Mann aller Zeiten bei Europameisterschaften Geschichte, indem er in Birmingham Gold über 400 m holte.",
+        "fecha": "2026-08-12T22:41:22+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Gianni Infantino: Der mächtigste Mann im Weltfußball",
         "enlace": "https://www.dw.com/de/gianni-infantino-der-mächtigste-mann-im-weltfußball/a-78248957?maca=de-rss-de-sport-4020-rdf",
         "desc": "Gianni Infantino bleibt FIFA-Präsident - trotz wachsender Rücktrittsforderungen. Wer ist der mächtigste Mann im Weltfußball? Warum wandte sich die UEFA gegen ihn? Und wie behauptet…",
-        "fecha": "2026-08-12T21:52:00.508228+00:00",
+        "fecha": "2026-08-12T22:46:28.629898+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -829,10 +829,10 @@
     ],
     "deportes_it": [
       {
-        "titulo": "GB's Hudson-Smith wins historic 400m gold on home track",
+        "titulo": "Hudson-Smith di GB vince lo storico oro dei 400 metri sulla pista di casa: highlights e resoconto",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-        "desc": "Il britannico Matthew Hudson-Smith entra nella storia come l'uomo più decorato di tutti i tempi ai Campionati Europei vincendo l'oro nei 400 milioni a Birmingham.",
-        "fecha": "2026-08-12T20:04:08+00:00",
+        "desc": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
+        "fecha": "2026-08-12T22:41:22+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -860,17 +860,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Así fue el espectacular eclipse solar total que se vivió en España",
-        "enlace": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
-        "desc": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
-        "fecha": "2026-08-12T21:52:29.387136+00:00",
+        "titulo": "\"Cuando estábamos perdiendo las esperanzas, recibimos una llamada\": el rescate de Daniela Largo, la joven atrapada por 36 horas en Pereira tras el terremoto",
+        "enlace": "https://www.bbc.com/mundo/articles/ce8lp296rw5o?at_medium=RSS&at_campaign=rss",
+        "desc": "La exitosa operación de rescate ha devuelto la esperanza a Pereira, donde las autoridades reconocen que más de 40 personas continúan desaparecidas bajo los escombros. Al menos 79 p…",
+        "fecha": "2026-08-12T14:13:46+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Pasivación de carboxilatos de plomo para módulos solares de perovskita a escala de un metro",
         "enlace": "https://www.nature.com/articles/s41586-026-10994-7",
-        "desc": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7 Lead carboxylates passivation for meter-scale perovskite solar modules",
-        "fecha": "2026-08-12T21:52:29.513090+00:00",
+        "desc": "Naturaleza, Publicado en línea: 12 de agosto de 2026; doi:10.1038/s41586-026-10994-7 Pasivación de carboxilatos de plomo para módulos solares de perovskita a escala de un metro",
+        "fecha": "2026-08-12T22:46:40.206636+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -895,17 +895,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "\"Cuando estábamos perdiendo las esperanzas, recibimos una llamada\": el rescate de Daniela Largo, la joven atrapada por 36 horas en Pereira tras el terremoto",
-        "enlace": "https://www.bbc.com/mundo/articles/ce8lp296rw5o?at_medium=RSS&at_campaign=rss",
-        "desc": "La exitosa operación de rescate ha devuelto la esperanza a Pereira, donde las autoridades reconocen que más de 40 personas continúan desaparecidas bajo los escombros. Al menos 79 p…",
-        "fecha": "2026-08-12T14:13:46+00:00",
+        "titulo": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 239 muertos y 3.700 heridos",
+        "enlace": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
+        "desc": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró eme…",
+        "fecha": "2026-08-12T22:46:39.879751+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Responder a: La interpretación de los datos preclínicos requiere un contexto clínico",
         "enlace": "https://www.nature.com/articles/s41586-026-10773-4",
         "desc": "Naturaleza, Publicado en línea: 12 de agosto de 2026; doi:10.1038/s41586-026-10773-4 Responder a: La interpretación de los datos preclínicos requiere un contexto clínico",
-        "fecha": "2026-08-12T21:52:29.513123+00:00",
+        "fecha": "2026-08-12T22:46:40.206677+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -921,7 +921,7 @@
         "titulo": "Lead carboxylates passivation for meter-scale perovskite solar modules",
         "enlace": "https://www.nature.com/articles/s41586-026-10994-7",
         "desc": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7 Lead carboxylates passivation for meter-scale perovskite solar modules",
-        "fecha": "2026-08-12T21:52:31.902786+00:00",
+        "fecha": "2026-08-12T22:46:43.869673+00:00",
         "fuente": "Nature"
       },
       {
@@ -939,17 +939,17 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Two hydrogen-burning engines powered this car to a new land speed record",
-        "enlace": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-        "desc": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
-        "fecha": "2026-08-12T17:01:11+00:00",
+        "titulo": "Terabytes of credentials leaked in massive supply-chain attack",
+        "enlace": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "desc": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "fecha": "2026-08-12T21:43:21+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Fast-moving wildfires may prevent western forests from recovering",
-        "enlace": "https://phys.org/news/2026-08-fast-wildfires-western-forests-recovering.html",
-        "desc": "The severe, drought-fueled fires now burning across much of the American West and Canada may be scorching forests so thoroughly that they cannot recover to the forests they once we…",
-        "fecha": "2026-08-12T17:50:01-04:00",
+        "titulo": "Unsupervised free time increases the likelihood that adolescents will engage in violent behavior, 21-country study finds",
+        "enlace": "https://phys.org/news/2026-08-unsupervised-free-likelihood-adolescents-engage.html",
+        "desc": "A study involving more than 58,000 adolescents from 21 countries found that \"unstructured free time\"—defined as periods without adult supervision or activities guided by educationa…",
+        "fecha": "2026-08-12T18:40:05-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -967,10 +967,10 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Watch: Hydrogen car breaks land speed record at 406 mph",
-        "enlace": "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed.",
-        "fecha": "2026-08-12T16:30:07+00:00",
+        "titulo": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+        "enlace": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+        "desc": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+        "fecha": "2026-08-12T21:53:45+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Reply to: Pre-clinical data interpretation requires clinical context",
         "enlace": "https://www.nature.com/articles/s41586-026-10773-4",
         "desc": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4 Reply to: Pre-clinical data interpretation requires clinical context",
-        "fecha": "2026-08-12T21:52:31.902823+00:00",
+        "fecha": "2026-08-12T22:46:43.869712+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "Passivation aux carboxylates de plomb pour les modules solaires à pérovskite à l'échelle métrique",
         "enlace": "https://www.nature.com/articles/s41586-026-10994-7",
         "desc": "Nature, Mise en ligne : 12 août 2026 ; doi:10.1038/s41586-026-10994-7 Passivation aux carboxylates de plomb pour les modules solaires à base de pérovskite à l'échelle métrique",
-        "fecha": "2026-08-12T21:52:35.253160+00:00",
+        "fecha": "2026-08-12T22:46:49.099052+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Répondre à : L’interprétation des données précliniques nécessite un contexte clinique",
         "enlace": "https://www.nature.com/articles/s41586-026-10773-4",
         "desc": "Nature, Mise en ligne : 12 août 2026 ; est ce que je:10.1038/s41586-026-10773-4 Répondre à : L'interprétation des données précliniques nécessite un contexte clinique",
-        "fecha": "2026-08-12T21:52:35.253195+00:00",
+        "fecha": "2026-08-12T22:46:49.099091+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "Der heißeste Sommer? So werden Temperatur-Rekorde gemessen",
         "enlace": "https://www.dw.com/de/der-heißeste-sommer-so-werden-temperatur-rekorde-gemessen/a-78277509?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Woher wissen Wissenschaftler, ob ein Tag oder Sommer tatsächlich der heißeste seit Beginn der Aufzeichnungen war? Und woher kommt die Skepsis an den Daten? Die DW hat Experten zum …",
-        "fecha": "2026-08-12T21:52:36.852712+00:00",
+        "fecha": "2026-08-12T22:46:51.799831+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Passivierung von Bleicarboxylaten für Perowskit-Solarmodule im Metermaßstab",
         "enlace": "https://www.nature.com/articles/s41586-026-10994-7",
-        "desc": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7 Lead carboxylates passivation for meter-scale perovskite solar modules",
-        "fecha": "2026-08-12T21:52:36.969901+00:00",
+        "desc": "Natur, Online veröffentlicht: 12. August 2026; doi:10.1038/s41586-026-10994-7 Passivierung von Bleicarboxylaten für Perowskit-Solarmodule im Metermaßstab",
+        "fecha": "2026-08-12T22:46:51.949325+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "100 Tage Isolation: Projekt SOLIS100 ist zu Ende",
         "enlace": "https://www.dw.com/de/100-tage-isolation-projekt-solis100-ist-zu-ende/a-78287936?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Keine Freunde, keine Familie - dafür aber fünf Kollegen rund um die Uhr: Das war die Konstellation, in der die Freiwilligen dabei halfen, wichtige Erkenntnisse für lange Weltraummi…",
-        "fecha": "2026-08-12T21:52:36.852764+00:00",
+        "fecha": "2026-08-12T22:46:51.799877+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Antwort an: Die Interpretation präklinischer Daten erfordert einen klinischen Kontext",
         "enlace": "https://www.nature.com/articles/s41586-026-10773-4",
         "desc": "Natur, Online veröffentlicht: 12. August 2026; doi:10.1038/s41586-026-10773-4 Antwort an: Die Interpretation präklinischer Daten erfordert einen klinischen Kontext",
-        "fecha": "2026-08-12T21:52:36.969938+00:00",
+        "fecha": "2026-08-12T22:46:51.949366+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,23 +1053,23 @@
         "titulo": "Passivazione dei carbossilati di piombo per moduli solari in perovskite su scala metrologica",
         "enlace": "https://www.nature.com/articles/s41586-026-10994-7",
         "desc": "Natura, Pubblicato online: 12 agosto 2026; doi:10.1038/s41586-026-10994-7 Passivazione dei carbossilati di piombo per moduli solari in perovskite su scala metrologica",
-        "fecha": "2026-08-12T21:52:38.775542+00:00",
+        "fecha": "2026-08-12T22:46:55.376601+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Reply to: Pre-clinical data interpretation requires clinical context",
+        "titulo": "Rispondi a: L'interpretazione dei dati preclinici richiede un contesto clinico",
         "enlace": "https://www.nature.com/articles/s41586-026-10773-4",
-        "desc": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4 Reply to: Pre-clinical data interpretation requires clinical context",
-        "fecha": "2026-08-12T21:52:38.775582+00:00",
+        "desc": "Natura, Pubblicato online: 12 agosto 2026; doi:10.1038/s41586-026-10773-4 Rispondi a: L'interpretazione dei dati preclinici richiede un contesto clinico",
+        "fecha": "2026-08-12T22:46:55.376642+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Moçambique pede apoio para extensão de missão militar da UE",
-        "enlace": "https://observador.pt/2026/08/12/mocambique-pede-a-eslovaquia-e-dinamarca-apoio-para-extensao-da-missao-militar-da-ue-em-cabo-delgado/",
-        "desc": "A EUMAM-MOZ é uma missão não executiva que presta assistência às FADM no desenvolvimento e reforço das suas capacidades, procurando assegurar que estas consigam implementar e suste…",
-        "fecha": "2026-08-12T22:46:18+01:00",
+        "titulo": "Porsche faz marcha-atrás. Avançam os Cayman e Boxster EV",
+        "enlace": "https://observador.pt/2026/08/12/porsche-faz-marcha-atras-afinal-os-cayman-e-boxster-electricos-avancam/",
+        "desc": "Depois de avanços a recuos, o novo CEO anuncia que a Porsche vai finalmente avançar com a produção dos 718 Cayman e Boxster, que há poucos meses (e com outro CEO) tinha condenado à…",
+        "fecha": "2026-08-12T23:45:13+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1080,10 +1080,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "JMJ Seul 2027 já tem mil jovens portugueses inscritos",
-        "enlace": "https://observador.pt/2026/08/12/peregrinacao-portuguesa-a-jmj-seul-2027-ultrapassa-mil-inscritos-no-dia-internacional-da-juventude/",
-        "desc": "As JMJ nasceram por iniciativa do Papa João Paulo II",
-        "fecha": "2026-08-12T22:40:33+01:00",
+        "titulo": "Erdogan acusa Israel de querer \"apagar a Palestina\"",
+        "enlace": "https://observador.pt/2026/08/12/erdogan-acusa-israel-de-querer-apagar-a-palestina-da-agenda-mundial-em-conferencia-com-abbas-em-ancara/",
+        "desc": "Erdogan tem visado particularmente o primeiro-ministro israelita, Benjamin Netanyahu, que chegou a comparar por diversas vezes a Adolf Hitler, líder do regime nazi alemão responsáv…",
+        "fecha": "2026-08-12T23:44:32+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1106,7 +1106,7 @@
         "titulo": "JP Morgan eleva su valoración para el S&P 500 y aleja una burbuja: la IA ya da sus frutos",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-10/jp-morgan-objetivo-s-p-500-ia-frutos_4403868/",
         "desc": "La banca estadounidense revisa las estimaciones sobre la bolsa de Wall Street apuntando a superar la barrera de los 8.000 puntos",
-        "fecha": "2026-08-12T21:52:43.251926+00:00",
+        "fecha": "2026-08-12T22:47:01.578733+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,16 +1117,16 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Kushner e Iger compran a los Lakers por una cifra récord de 12.500 millones de dólares",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-12/kushner-iger-buy-lakers-for-record-12-5-billion-video",
-        "desc": "Josh Kushner y Bob Iger están comprando el equipo de baloncesto Los Angeles Lakers por un precio récord de 12.500 millones de dólares, según personas familiarizadas con el asunto. Randall Will...",
-        "fecha": "2026-08-12T21:39:45+00:00",
+        "titulo": "Overdeck de Two Sigma le ofreció a su esposa $633 millones, dice un abogado",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+        "desc": "El cofundador multimillonario de Two Sigma Investments, John Overdeck, planeó dejar a su esposa Laura \"con lo menos posible\", dijo su abogado cuando comenzó el juicio de divorcio de la pareja, un am...",
+        "fecha": "2026-08-12T19:51:23+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Bob Iger y Joshua Kushner compran Los Angeles Lakers por una valoración de 12.500 millones de dólares, dice una fuente",
+        "titulo": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
         "enlace": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-        "desc": "El fundador del capital de riesgo, Joshua Kushner, y el ex director ejecutivo de Disney, Bob Iger, adquieren la participación de Mark Walter en Los Angeles Lakers por un valor de más de 12 mil millones de dólares.",
+        "desc": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
         "fecha": "2026-08-12T16:59:49+00:00",
         "fuente": "CNBC"
       },
@@ -1141,7 +1141,7 @@
         "titulo": "Los grandes bufetes de EEUU exploran vender participaciones a fondos de capital riesgo",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-06/capital-privado-bufetes-abogados-inversion-1hms_4401784/",
         "desc": "Firmas como Paul Weiss, Quinn Emanuel y Proskauer evalúan estructuras corporativas para dar entrada al 'private equity' sin violar las normas éticas",
-        "fecha": "2026-08-12T21:52:43.251961+00:00",
+        "fecha": "2026-08-12T22:47:01.578771+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,14 +1152,14 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Revisión de la empresa tecnológica indonesia GoTo eliminada de los índices MSCI",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-tech-firm-goto-cut-from-msci-indexes-in-review",
-        "desc": "MSCI Inc. eliminó a GoTo Group de sus índices después de que una caída en el precio de las acciones de la compañía tecnológica indonesia hiciera que las acciones fueran difíciles de negociar.",
-        "fecha": "2026-08-12T21:36:12+00:00",
+        "titulo": "La fundición de aluminio de Rio Tinto recibe un rescate de 1.800 millones de dólares",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+        "desc": "Los propietarios de la fundición de aluminio más grande de Australia, incluido Rio Tinto Group, obtuvieron un rescate gubernamental de 2.500 millones de dólares australianos (1.800 millones de dólares) para mantener la planta en funcionamiento mientras afrontan...",
+        "fecha": "2026-08-12T21:21:39+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+        "titulo": "Las acciones de Wendy's suben tras el informe de una posible oferta pública de adquisición de Trian Fund Management de Nelson Peltz",
         "enlace": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
         "desc": "La relación de Peltz con Wendy's se remonta a una campaña activista que dirigió hace más de dos décadas.",
         "fecha": "2026-08-12T21:13:11+00:00",
@@ -1168,10 +1168,10 @@
     ],
     "economia_en": [
       {
-        "titulo": "Kushner, Iger Buy Lakers for Record-Breaking $12.5 Billion",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-12/kushner-iger-buy-lakers-for-record-12-5-billion-video",
-        "desc": "Josh Kushner and Bob Iger are buying the Los Angeles Lakers basketball team for a record-breaking price of $12.5 billion, according to people familiar with the matter. Randall Will…",
-        "fecha": "2026-08-12T21:39:45+00:00",
+        "titulo": "Two Sigma’s Overdeck Offered Wife $633 Million, Lawyer Says",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+        "desc": "Two Sigma Investments’ billionaire co-founder John Overdeck schemed to leave his wife Laura “with as little as possible,” her lawyer said as the couple’s divorce trial began, an am…",
+        "fecha": "2026-08-12T19:51:23+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1196,10 +1196,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Indonesian Tech Firm GoTo Cut From MSCI Indexes in Review",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-tech-firm-goto-cut-from-msci-indexes-in-review",
-        "desc": "MSCI Inc. removed GoTo Group from its indexes after a plunge in the Indonesian tech company’s share price left the stock difficult to trade.",
-        "fecha": "2026-08-12T21:36:12+00:00",
+        "titulo": "Rio Tinto Aluminum Smelter Receives $1.8 Billion Bailout",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+        "desc": "The owners of Australia’s biggest aluminum smelter, including Rio Tinto Group, secured a government bailout of A$2.5 billion ($1.8 billion) to keep the plant operating as they grap…",
+        "fecha": "2026-08-12T21:21:39+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Kushner et Iger achètent les Lakers pour un montant record de 12,5 milliards de dollars",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-12/kushner-iger-buy-lakers-for-record-12-5-billion-video",
-        "desc": "Josh Kushner et Bob Iger achètent l'équipe de basket des Los Angeles Lakers pour un prix record de 12,5 milliards de dollars, selon des sources proches du dossier. Randall va…",
-        "fecha": "2026-08-12T21:39:45+00:00",
+        "titulo": "Overdeck de Two Sigma a offert à sa femme 633 millions de dollars, selon un avocat",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+        "desc": "Le cofondateur milliardaire de Two Sigma Investments, John Overdeck, avait prévu de laisser à sa femme Laura « le moins possible », a déclaré son avocat alors que le procès de divorce du couple commençait, un matin…",
+        "fecha": "2026-08-12T19:51:23+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "La société technologique indonésienne GoTo est supprimée des indices MSCI en revue",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-tech-firm-goto-cut-from-msci-indexes-in-review",
-        "desc": "MSCI Inc. a retiré GoTo Group de ses indices après qu'une chute du cours de l'action de la société technologique indonésienne ait rendu le titre difficile à négocier.",
-        "fecha": "2026-08-12T21:36:12+00:00",
+        "titulo": "L'aluminerie Rio Tinto reçoit un plan de sauvetage de 1,8 milliard de dollars",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+        "desc": "Les propriétaires de la plus grande fonderie d'aluminium d'Australie, dont le groupe Rio Tinto, ont obtenu un plan de sauvetage du gouvernement de 2,5 milliards de dollars australiens (1,8 milliard de dollars) pour maintenir l'usine en activité pendant qu'ils se débattent.",
+        "fecha": "2026-08-12T21:21:39+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Netzwerkausrüster: Cisco-Aktie fällt trotz Rekordergebnis und starker Prognose",
-        "enlace": "https://www.handelsblatt.com/technik/it-internet/netzwerkausruester-cisco-aktie-faellt-trotz-rekordergebnis-und-starker-prognose/100246888.html",
-        "desc": "Cisco übertrifft mit seinen Geschäftszahlen die Erwartungen und rechnet mit deutlich höheren Erlösen. Dennoch fällt die Aktie nachbörslich um fast fünf Prozent.",
-        "fecha": "2026-08-12T21:26:51+00:00",
+        "titulo": "Ukraine-Krieg: Stromausfall auf der Krim nach ukrainischem Drohnenangriff",
+        "enlace": "https://www.handelsblatt.com/politik/international/ukraine-krieg-stromausfall-auf-der-krim-nach-ukrainischem-drohnenangriff/100246898.html",
+        "desc": "Erneut wird die Krim-Stadt Sewastopol von ukrainischen Drohnen angegriffen. Der Gouverneur meldet einen Stromausfall.",
+        "fecha": "2026-08-12T22:27:34+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Kushner, Iger Buy Lakers for Record-Breaking $12.5 Billion",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-12/kushner-iger-buy-lakers-for-record-12-5-billion-video",
-        "desc": "Laut mit der Angelegenheit vertrauten Personen kaufen Josh Kushner und Bob Iger das Basketballteam der Los Angeles Lakers für den Rekordpreis von 12,5 Milliarden US-Dollar. Randall Will…",
-        "fecha": "2026-08-12T21:39:45+00:00",
+        "titulo": "Laut Anwalt bot Two Sigmas Overdeck seiner Frau 633 Millionen US-Dollar",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+        "desc": "Der milliardenschwere Mitbegründer von Two Sigma Investments, John Overdeck, plante, seiner Frau Laura „so wenig wie möglich zu hinterlassen“, sagte ihr Anwalt zu Beginn des Scheidungsprozesses des Paares, ein Am…",
+        "fecha": "2026-08-12T19:51:23+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Vor der Wahl in Sachsen-Anhalt: Ein Kaffee mit Herrn Siegmund? So lief die MDR-Wahlarena",
-        "enlace": "https://www.handelsblatt.com/politik/deutschland/vor-der-wahl-in-sachsen-anhalt-ein-kaffee-mit-herrn-siegmund-so-lief-die-mdr-wahlarena/100246886.html",
-        "desc": "In knapp vier Wochen wählt Sachsen-Anhalt einen neuen Landtag, die AfD liegt weit vorn. Was treibt die Bürgerinnen und Bürger um? Eine Fernsehdebatte macht deutlich, wo der Schuh d…",
-        "fecha": "2026-08-12T21:02:57+00:00",
+        "titulo": "Immigrationspolitik: US-Behörde ICE plant Kauf von Elektroschock-Handschuhen",
+        "enlace": "https://www.handelsblatt.com/politik/international/immigrationspolitik-us-behoerde-ice-plant-kauf-von-elektroschock-handschuhen/100246896.html",
+        "desc": "Die Handschuhe sollen Mitarbeitern der US-Einwanderungsbehörde bei ihren Einsätzen helfen. Daran gibt es bereits Kritik.",
+        "fecha": "2026-08-12T22:13:59+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Das indonesische Technologieunternehmen GoTo wurde im Rückblick aus den MSCI-Indizes gestrichen",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-tech-firm-goto-cut-from-msci-indexes-in-review",
-        "desc": "MSCI Inc. hat die GoTo Group aus seinen Indizes entfernt, nachdem ein Einbruch des Aktienkurses des indonesischen Technologieunternehmens den Handel mit der Aktie erschwerte.",
-        "fecha": "2026-08-12T21:36:12+00:00",
+        "titulo": "Aluminiumhütte Rio Tinto erhält Rettungspaket in Höhe von 1,8 Milliarden US-Dollar",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+        "desc": "Die Eigentümer von Australiens größter Aluminiumhütte, darunter die Rio Tinto Group, sicherten sich ein staatliches Rettungspaket in Höhe von 2,5 Milliarden australischen Dollar (1,8 Milliarden US-Dollar), um den Betrieb der Anlage aufrechtzuerhalten, während sie sich mit der Krise auseinandersetzen.",
+        "fecha": "2026-08-12T21:21:39+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Kushner e Iger acquistano i Lakers per la cifra record di 12,5 miliardi di dollari",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-12/kushner-iger-buy-lakers-for-record-12-5-billion-video",
-        "desc": "Josh Kushner e Bob Iger stanno acquistando la squadra di basket dei Los Angeles Lakers per la cifra record di 12,5 miliardi di dollari, secondo fonti a conoscenza della questione. Randall Will...",
-        "fecha": "2026-08-12T21:39:45+00:00",
+        "titulo": "L'overdeck di Two Sigma ha offerto alla moglie 633 milioni di dollari, dice l'avvocato",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+        "desc": "Two Sigma Investments’ billionaire co-founder John Overdeck schemed to leave his wife Laura “with as little as possible,” her lawyer said as the couple’s divorce trial began, an am…",
+        "fecha": "2026-08-12T19:51:23+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Revisione dell'azienda tecnologica indonesiana GoTo tagliata dagli indici MSCI",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-tech-firm-goto-cut-from-msci-indexes-in-review",
-        "desc": "MSCI Inc. ha rimosso GoTo Group dai suoi indici dopo che il crollo del prezzo delle azioni della società tecnologica indonesiana ha reso il titolo difficile da negoziare.",
-        "fecha": "2026-08-12T21:36:12+00:00",
+        "titulo": "La fonderia di alluminio di Rio Tinto riceve un piano di salvataggio di 1,8 miliardi di dollari",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+        "desc": "I proprietari della più grande fonderia di alluminio australiana, tra cui Rio Tinto Group, si sono assicurati un piano di salvataggio governativo di 2,5 miliardi di dollari australiani (1,8 miliardi di dollari) per mantenere in funzione l'impianto mentre si accaparrano...",
+        "fecha": "2026-08-12T21:21:39+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "\"Sinto-me bem\": Marcelo sai do Hospital de Faro depois de ter sofrido quebra de tensão",
-        "enlace": "https://www.jornaldenegocios.pt/economia/politica/detalhe/sinto-me-bem-marcelo-sai-do-hospital-de-faro-depois-de-ter-sofrido-quebra-de-tensao",
-        "desc": "Ex-Presidente da República começou a ficar pálido e a sentir tonturas, como se estivesse a desmaiar.",
-        "fecha": "2026-08-12T22:29:33+01:00",
+        "titulo": "Mais de uma década depois, empresas públicas deixam de ter “swaps”",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/detalhe/mais-de-uma-decada-depois-empresas-publicas-deixam-de-ter-swaps",
+        "desc": "O IGCP beneficiou de um contexto de mercado favorável para pôr fim aos três derivados detidos pelo Metropolitano de Lisboa, com um valor contratual de 160 milhões de euros. O encer…",
+        "fecha": "2026-08-12T23:30:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Kushner e Iger compram Lakers por US$ 12,5 bilhões recorde",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-12/kushner-iger-buy-lakers-for-record-12-5-billion-video",
-        "desc": "Josh Kushner e Bob Iger estão comprando o time de basquete Los Angeles Lakers por um preço recorde de US$ 12,5 bilhões, segundo pessoas familiarizadas com o assunto. Randal Will…",
-        "fecha": "2026-08-12T21:39:45+00:00",
+        "titulo": "Overdeck da Two Sigma ofereceu à esposa US$ 633 milhões, afirma advogado",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
+        "desc": "O cofundador bilionário da Two Sigma Investments, John Overdeck, planejou deixar sua esposa Laura “com o mínimo possível”, disse seu advogado quando o julgamento de divórcio do casal começou, e am…",
+        "fecha": "2026-08-12T19:51:23+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Secretária de Imprensa de Trump de saída da Casa Branca",
-        "enlace": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/secretaria-de-imprensa-de-trump-de-saida-da-casa-branca",
-        "desc": "Karoline Leavitt vai deixar o cargo de principal porta-voz da Administração por motivos familiares ainda este este mês, passando a ser conselheira externa, anunciou o Presidente do…",
-        "fecha": "2026-08-12T22:02:51+01:00",
+        "titulo": "Três medidas para Grândola",
+        "enlace": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/tres-medidas-para-grandola",
+        "desc": "A quantidade de furos que têm sido feitos na região para captar água, sobretudo junto à costa, comprometem a prazo os recursos aquíferos do concelho.",
+        "fecha": "2026-08-12T23:00:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Empresa de tecnologia indonésia GoTo cortada dos índices MSCI em análise",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-tech-firm-goto-cut-from-msci-indexes-in-review",
-        "desc": "A MSCI Inc. removeu o GoTo Group de seus índices depois que uma queda no preço das ações da empresa de tecnologia indonésia deixou as ações difíceis de negociar.",
-        "fecha": "2026-08-12T21:36:12+00:00",
+        "titulo": "Fundição de alumínio da Rio Tinto recebe resgate de US$ 1,8 bilhão",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-12/rio-tinto-aluminum-smelter-gets-1-8-billion-australian-bailout",
+        "desc": "Os proprietários da maior fundição de alumínio da Austrália, incluindo o Grupo Rio Tinto, garantiram um resgate governamental de A$ 2,5 bilhões (US$ 1,8 bilhão) para manter a fábrica operando enquanto lutam…",
+        "fecha": "2026-08-12T21:21:39+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
