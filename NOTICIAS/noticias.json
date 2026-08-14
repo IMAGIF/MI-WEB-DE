@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-13T23:46:02.682527+00:00",
+  "actualizado": "2026-08-14T02:18:32.365061+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -34,14 +34,14 @@
         "titulo": "Robles recula y no irá al Senado por la crisis de Ceuta: \"Necesito más tiempo\"",
         "enlace": "https://www.elconfidencial.com/espana/2026-08-13/robles-recula-y-no-ira-al-senado-por-la-crisis-de-ceuta_4405553/",
         "desc": "La ministra de Defensa se suma ahora al criterio del resto del Gobierno y envía una carta al presidente de la Cámara Alta, Pedro Rollán, para cancelar su comparecencia el próximo 1…",
-        "fecha": "2026-08-13T23:46:04.030882+00:00",
+        "fecha": "2026-08-14T02:18:34.796040+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Buscan voluntarios para vivir gratis en una isla griega a cambio de dedicar cinco horas al día al cuidado de los gatos callejeros",
-        "enlace": "https://okdiario.com/curiosidades/este-pais-buscando-voluntarios-vivir-gratis-isla-griega-cambio-dedicar-cinco-horas-dia-cuidado-gatos-callejeros-19142636",
-        "desc": "Pasar unas semanas en una isla paradisíaca de Grecia sin gastos de alojamiento es posible. El refugio Syros Cats, ubicado en la isla de Siros (Grecia), ofrece alojamiento gratuito …",
-        "fecha": "2026-08-13T23:27:14+02:00",
+        "titulo": "Un coche se resbala por una rampa de barcos y acaba en el agua en Ibiza: «¡Ahí no puedes aparcar, colega!»",
+        "enlace": "https://okdiario.com/baleares/coche-resbala-rampa-barcos-acaba-agua-ibiza-ahi-no-puedes-aparcar-colega-19175904",
+        "desc": "Un radiante y flamante Range Rover de color blanco decidió el pasado sábado que el mejor lugar para pasar el día no era un parking convencional, sino el mismísimo fondo marino de C…",
+        "fecha": "2026-08-14T04:00:52+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -75,10 +75,24 @@
     ],
     "nacional_us": [
       {
-        "titulo": "Speaker Johnson slams Dems after noncitizens were charged with illegally voting in battleground state",
-        "enlace": "https://www.foxnews.com/us/speaker-johnson-slams-dems-after-noncitizens-charged-illegally-voting-battleground-state",
-        "desc": "Michigan AG Dana Nessel charged five noncitizens and one U.S. citizen with election crimes after reviewing 38 suspected cases of illegal voting.",
-        "fecha": "2026-08-13T18:48:57-04:00",
+        "titulo": "Live bullet found aboard United flight forces passengers off plane for security sweep at Denver airport",
+        "enlace": "https://www.foxnews.com/us/live-bullet-found-aboard-united-flight-forces-passengers-off-plane-security-sweep-denver-airport",
+        "desc": "A live bullet discovered aboard United Airlines Flight 1302 forced 178 passengers to deplane the Boeing 737-900 at Denver International Airport.",
+        "fecha": "2026-08-13T21:22:43-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Feds probe 'mention markets' amid White House Kalshi controversy",
+        "enlace": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
+        "desc": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a…",
+        "fecha": "2026-08-13T22:06:10-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "HHS warns Texas hospitals against denying life-saving care to newborn with disability",
+        "enlace": "https://www.foxnews.com/us/hhs-warns-texas-hospitals-denying-life-saving-care-newborn-disability",
+        "desc": "HHS warned Children&apos;s Medical Center of Dallas and UT Southwestern they cannot withhold treatment from baby Gabriel based on his heart defect.",
+        "fecha": "2026-08-13T20:23:33-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,50 +101,36 @@
         "desc": "The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure.",
         "fecha": "2026-08-13T14:55:30-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "WATCH: Terrifying moment spear-wielding man lunges at California cops before shots ring out",
-        "enlace": "https://www.foxnews.com/us/watch-terrifying-moment-spear-wielding-man-lunges-california-cops-before-shots-ring-out",
-        "desc": "Dramatic video captures Oakland police repeatedly ordering Jose Angel Castillo to drop weapons near a homeless encampment before the fatal shooting.",
-        "fecha": "2026-08-13T17:50:38-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-        "enlace": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-        "desc": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial.",
-        "fecha": "2026-08-13T13:29:15-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Elecciones 2027: los \"votantes del medio\" serán la clave y arrancó la temporada de caza",
-        "enlace": "https://www.clarin.com/opinion/elecciones-2027-votantes-medio-clave-arranco-temporada-caza_0_JXEEBwn5BB.html",
-        "desc": "Consultores, analistas y políticos coinciden que la balanza se inclinará por los electores que no se meten en la grieta. El dilema de Milei y Kicillof para salir a buscarlos y otra…",
-        "fecha": "2026-08-13T23:00:41+00:00",
+        "titulo": "Por la \"Ley de Alquileres\" de Mamdani | Las rentas en Manhattan y Brooklyn alcanzan un máximo histórico de 6.655 dólares al mes en medio de las nuevas políticas y la amenaza de un impuesto a las segun…",
+        "enlace": "https://www.clarin.com/estados-unidos/reves-mamdani-rentas-manhattan-brooklyn-alcanzan-picos-historicos-mes-despues-aprobacion-congelamiento-alquileres_0_TGPL54bWhN.html",
+        "desc": "Un nuevo informe reportó que en julio el precio promedio de un departamento en estos dos distritos trepó a los US$ 5.000. Este periodo coincidió con las mudanzas de verano y una di…",
+        "fecha": "2026-08-14T01:22:00+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Créditos en dólares para empresas: cómo impactaría en el mercado inmobiliario",
-        "enlace": "https://www.lanacion.com.ar/propiedades/inversiones/creditos-en-dolares-para-empresas-como-impactaria-en-el-mercado-inmobiliario-nid13082026/",
-        "desc": "El Gobierno flexibilizará las condiciones para que los bancos puedan prestar dólares a las empresas y puso el foco principalmente en la industria de la construcción",
-        "fecha": "2026-08-14T01:03:00+00:00",
+        "titulo": "Horacio Marín habló sobre el precio de la nafta: “No vamos a especular”",
+        "enlace": "https://www.lanacion.com.ar/politica/horacio-marin-hablo-sobre-el-precio-de-la-nafta-no-vamos-a-especular-nid13082026/",
+        "desc": "El CEO y presidente de YPF sostuvo que a ningún gobierno provincial le tocamos las regalías y se refirió a la nueva inversión que se desarrollará en el país",
+        "fecha": "2026-08-14T02:10:24+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Bolsas con dólares: nuevos videos de Jesica Cirio revelan que la mansión de Insaurralde fue \"limpiada\" antes del allanamiento",
-        "enlace": "https://www.clarin.com/politica/bolsas-dolares-nuevos-videos-jesica-cirio-revelan-mansion-insaurralde-limpiada-allanamiento_0_KSI4AJOy8o.html",
-        "desc": "Son nueve videos y dos fotos aportados a la causa. Muestran cámaras arrancadas y cajones del vestidor que coincidirían con las imágenes donde se veían fajos con plata. El material …",
-        "fecha": "2026-08-13T22:59:07+00:00",
+        "titulo": "El difícil momento de Florencia Torrente: cerró su negocio después de 13 años",
+        "enlace": "https://www.clarin.com/fama/dificil-momento-florencia-torrente-cerro-negocio-despues-13-anos_0_wQ1RtrkuNh.html",
+        "desc": "La actriz anunció el final de su proyecto de moda con un descargo en redes sociales. El emotivo mensaje de Araceli González a su hija tras conocer la decisión.",
+        "fecha": "2026-08-14T01:19:02+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Qué es el house hacking: la estrategia de los propietarios para ganar más dinero",
-        "enlace": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/que-es-el-house-hacking-la-estrategia-de-los-propietarios-para-ganar-mas-dinero-nid08082026/",
-        "desc": "Es una de las opciones que tienen los dueños para sacar rédito de su propia vivienda al momento de alquilarla por ambientes",
-        "fecha": "2026-08-13T23:42:00+00:00",
+        "titulo": "Presentan nuevas imágenes en la causa por enriquecimiento ilícito que tiene en la mira a Martín Insaurralde y Jesica Cirio",
+        "enlace": "https://www.lanacion.com.ar/politica/presentan-nuevas-imagenes-en-la-causa-por-enriquecimiento-ilicito-que-tiene-en-la-mira-a-insaurralde-nid13082026/",
+        "desc": "Los denunciantes advierten que la casa donde vivían fue modificada y los cajones fueron vaciados; el material tendría información que permitiría saber cuándo fueron grabados",
+        "fecha": "2026-08-14T02:09:46+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -181,10 +181,24 @@
     ],
     "nacional_de": [
       {
-        "titulo": "Tirol: Deutscher Wanderer stürzt bei Familienausflug in den Tod",
-        "enlace": "https://www.spiegel.de/panorama/tirol-deutscher-wanderer-stuerzt-bei-familienausflug-in-den-tod-a-112ab130-3bb1-49af-911e-4a9243243ab2#ref=rss",
-        "desc": "Ein Mann ist mit Schwiegervater und Schwägern in den Zillertaler Alpen unterwegs. Plötzlich verliert er das Gleichgewicht und stürzt in die Tiefe. Die anderen Männer versuchen, ihn…",
-        "fecha": "2026-08-14T01:42:00+02:00",
+        "titulo": "A44 bei Diemelstadt in Hessen: Lkw fährt in Rettungswagen auf Standstreifen – mehrere Verletzte",
+        "enlace": "https://www.spiegel.de/panorama/a44-bei-diemelstadt-in-hessen-lkw-faehrt-in-rettungswagen-auf-standstreifen-mehrere-verletzte-a-8e7431be-ba66-44c7-899f-70a82fe028f5#ref=rss",
+        "desc": "Dramatische Szenen auf der Autobahn 44 bei Diemelstadt: Dort wurde in Mann in einem Rettungswagen auf dem Seitenstreifen behandelt. Dann fuhr ein Lkw ungebremst in das Fahrzeug.",
+        "fecha": "2026-08-14T04:16:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Krieg gegen die Ukraine: Finnland und Lettland melden Luftraumverletzungen",
+        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "desc": "Die lettischen Streitkräfte melden den Abschuss eines unbemannten Flugobjekts. Die Ukraine meldet einen Toten durch russische Angriffe. Das Liveblog",
+        "fecha": "2026-08-14T02:01:32",
+        "fuente": "Die Zeit"
+      },
+      {
+        "titulo": "US-Zölle von Donald Trump: Importierte Drohnen sollen bis zu 100 Prozent teurer werden",
+        "enlace": "https://www.spiegel.de/ausland/us-zoelle-von-donald-trump-importierte-drohnen-sollen-bis-zu-100-prozent-teurer-werden-a-ecfd3f33-f9c7-4107-978f-f87c8fb9e18a#ref=rss",
+        "desc": "Mit neuen Zöllen wollen die USA die Abhängigkeit von chinesischen Drohnenherstellern verringern und die heimische Produktion stärken. Durch die Maßnahme könnten auch zwei Söhne des…",
+        "fecha": "2026-08-14T03:30:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
@@ -193,34 +207,20 @@
         "desc": "Hitze und Trockenheit bedrohen laut dem Bauernverband die Ernte von Getreide, Kartoffeln und Zuckerrüben. Je nach Region sei auch ein »totaler Ertragsausfall« möglich.",
         "fecha": "2026-08-13T23:30:05",
         "fuente": "Die Zeit"
-      },
-      {
-        "titulo": "Kennedy Center: Donald Trumps Name soll an Fassade zurückkehren",
-        "enlace": "https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-soll-an-fassade-zurueckkehren-a-e0a1174f-e29c-4ea6-abb2-b0d36b195ab7#ref=rss",
-        "desc": "Die Posse um das Kennedy Center in Washington geht in die nächste Runde: Donald Trump besteht weiter darauf, dass sein Name das Kulturzentrum ziert. Ein Gericht lehnte das ab – nun…",
-        "fecha": "2026-08-14T00:54:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Thüringen: Linkenpolitiker kritisieren Nähe zwischen AfD und BSW",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/bjoern-hoecke-sahra-wagenknecht-afd-bsw-thueringen-ministerpraesidentin",
-        "desc": "Obwohl Sahra Wagenknecht eine Wahl zur Ministerpräsidentin durch die AfD ablehnt, gibt Bodo Ramelow sich irritiert über die BSW-Chefin. Auch Bernd Riexinger übt Kritik.",
-        "fecha": "2026-08-13T23:12:54",
-        "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Il governo scrive a Merz: “No al ritorno della ragazza somala e di due irregolari”",
-        "enlace": "https://www.repubblica.it/politica/2026/08/14/news/governo_meloni_a_merz_germania_no_rimpatri_migranti-425527928/",
-        "desc": "La comunicazione formale del Viminale all’esecutivo tedesco che ha annunciato la volontà di rimpatriare in Italia alcuni stranieri",
-        "fecha": "2026-08-13T23:00:00+00:00",
+        "titulo": "Schengen in frantumi, il ritorno dei confini nell’Europa che si blinda",
+        "enlace": "https://www.repubblica.it/politica/2026/08/14/news/schengen_controlli_frontiere_italia_spagna_europa-425527963/",
+        "desc": "Non solo Roma e Madrid, ben otto Paesi hanno reintrodotto i controlli alle frontiere. Una misura eccezionale contro immigrazione irregolare e terrorismo sta diventando la regola e …",
+        "fecha": "2026-08-13T23:00:55+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Groenlandia, stop alle trivelle Usa: fermata la società legata a Trump",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/14/news/groenlandia_stop_trivelle_petrolio_usa_societa_legata_trump-425528025/",
-        "desc": "Nell’isola che il tycoon vuole acquisire a tutti i costi, la compagnia petrolifera avrebbe dovuto avviare le perforazioni, ma non aveva i permessi necessari",
+        "titulo": "La destra chiede il passo indietro di Ranucci. Il Pd: “Sulla Rai non decidono loro”",
+        "enlace": "https://www.repubblica.it/politica/2026/08/14/news/report_fazzolari_ranucci_chieda_scusa-425528007/",
+        "desc": "L’attacco del sottosegretario Fazzolari (FdI): “Quella trasmissione ha perso credibilità”. M5S: “Altro che garantisti”",
         "fecha": "2026-08-13T23:00:00+00:00",
         "fuente": "La Repubblica"
       }
@@ -257,77 +257,77 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Sismo na Colômbia: centenas continuam desaparecidos, esperança de encontrar sobreviventes diminui",
-        "enlace": "https://www.publico.pt/2026/08/13/mundo/noticia/sismo-colombia-centenas-continuam-desaparecidos-esperanca-encontrar-sobreviventes-diminui-2184985",
-        "desc": "O mais recente balanço das autoridades colombianas aponta para 273 vítimas mortais, mais de 3800 feridos e 377 desaparecidos.",
-        "fecha": "2026-08-13T21:34:30+00:00",
+        "titulo": "Kennedy Center aprova recolocação do nome de Trump na fachada",
+        "enlace": "https://www.publico.pt/2026/08/14/mundo/noticia/kennedy-center-aprova-recolocacao-nome-trump-fachada-2184989",
+        "desc": "Nome do chefe de Estado tinha sido retirado do edifício em Junho, por ordem do juiz federal Christopher Cooper.",
+        "fecha": "2026-08-13T23:16:05+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Opositores à passagem na Mata da Albergaria deixam alerta",
-        "enlace": "https://observador.pt/2026/08/14/opositores-a-passagem-na-mata-da-albergaria-alertam-para-precedente/",
-        "desc": "A corrida atravessou esta quinta-feira a área classificada como Reserva Biogenética pelo Conselho da Europa, desde 1988, e como Reserva da Biosfera Transfronteiriça Gerês-Xurés pel…",
-        "fecha": "2026-08-14T00:39:58+01:00",
+        "titulo": "2h. Prosseguem as buscas por português perdido na Croácia",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2379/",
+        "desc": "As autoridades locais encontraram hoje um dos elementos sem vida. Ainda, começa esta sexta-feira a reentré política do PSD em Quarteira, no Algarve.",
+        "fecha": "2026-08-14T02:16:30+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Europeus de atletismo: Delvis Santos esteve doente, recuperou e brilhou nos 200m",
-        "enlace": "https://www.publico.pt/2026/08/13/desporto/noticia/europeus-atletismo-delvis-santos-doente-recuperou-brilhou-200m-2184987",
-        "desc": "Velocista português apurou-se para a final com o quinto melhor tempo, dois dias depois de ter abdicado dos 100 metros devido a doença.",
-        "fecha": "2026-08-13T21:22:58+00:00",
+        "titulo": "A despedida dos maluquinhos",
+        "enlace": "https://www.publico.pt/2026/08/14/opiniao/cronica/despedida-maluquinhos-2184919",
+        "desc": "Já os maluquinhos do Partido Republicano estão cada vez mais contentes. Muitos são maluquinhos até para o próprio Trump. Crónica de Miguel Esteves Cardoso",
+        "fecha": "2026-08-13T23:06:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Reino Unido regista dia mais quente do ano",
-        "enlace": "https://observador.pt/2026/08/14/reino-unido-regista-dia-mais-quente-do-ano-com-europa-ocidental-a-sofrer-com-calor/",
-        "desc": "As autoridades britânicas mantiveram-se em alerta máximo para incêndios florestais",
-        "fecha": "2026-08-14T00:37:13+01:00",
+        "titulo": "1h. Liga Europa. Benfica empatou com o Hearts",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2352/",
+        "desc": "Ainda assim os encarnados garantem a presença no playoff de acesso à Liga Europa. Ainda, prosseguem esta sexta-feira as buscas pelo quarto português desaparecido na Croácia.",
+        "fecha": "2026-08-14T01:13:43+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Patrimônio de Flávio cresce 211% desde eleição como senador há 8 anos",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/patrimonio-de-flavio-cresce-211-desde-eleicao-como-senador-ha-8-anos.shtml",
-        "desc": "O senador Flávio Bolsonaro ( PL ) aumentou seu patrimônio em 211% em relação à última eleição que concorreu, em 2018. Há oito anos, listou ao TSE (Tribunal Superior Eleitoral) R$ 2…",
-        "fecha": "2026-08-13T20:34:00-03:00",
+        "titulo": "Programa de Flavio aumenta menções a mulheres e idosos com relação ao do pai em 2022",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/programa-de-flavio-aumenta-mencoes-a-mulheres-e-idosos-com-relacao-ao-do-pai-em-2022.shtml",
+        "desc": "O programa de governo de Flávio Bolsonaro ( PL ), divulgado nesta quinta-feira (13), menciona mais vezes as mulheres, os idosos e o STF (Supremo Tribunal Federal) do que o lançado …",
+        "fecha": "2026-08-13T23:00:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Vídeo mostra PM e marido deixando filha na escola no horário em que ela alegou estar amarrada após morte de policial",
-        "enlace": "https://g1.globo.com/ce/ceara/noticia/2026/08/13/video-mostra-pm-e-marido-deixando-filha-na-escola-no-horario-em-que-ela-alegou-estar-amarrada-apos-morte-de-policial.ghtml",
-        "desc": "Vídeo: PM e marido deixando filha na escola no horário em que ela alegou estar amarrada. Um vídeo de câmera de segurança (veja acima), obtido pela TV Verdes Mares, mostra a policia…",
-        "fecha": "2026-08-13T23:43:22",
+        "titulo": "Suspeito de matar pai e filho em São José de Ribamar é preso em São Luís",
+        "enlace": "https://g1.globo.com/ma/maranhao/noticia/2026/08/13/suspeito-de-matar-pai-e-filho-em-sao-jose-de-ribamar-e-preso-em-sao-luis.ghtml",
+        "desc": "Polícia prende suspeito de matar pai e filho em São José de Ribamar Ryan Felipe Ramos Marques, suspeito de atirar contra um homem e o filho dele, de 7 anos, em São José de Ribamar,…",
+        "fecha": "2026-08-14T02:10:44",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Ministério Público de SP abre inquérito para investigar Corinthians e Fatal Fans",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/ministerio-publico-de-sp-abre-inquerito-para-investigar-corinthians-e-fatal-fans.shtml",
-        "desc": "O Ministério Público instaurou inquérito civil para investigar o Corinthians e a plataforma Fatal Fans e apurar possível violação de direitos de crianças e adolescentes. Leia mais …",
-        "fecha": "2026-08-13T19:46:00-03:00",
+        "titulo": "PT patrocina posts enaltecendo governo, e PL impulsiona conteúdo para desgastar Lula",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml",
+        "desc": "No período que antecede a propaganda eleitoral , que começa em 16 de agosto, os partidos pagam para impulsionar suas publicações nas redes sociais a fim de prospectar eleitores e d…",
+        "fecha": "2026-08-13T23:00:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "CRM-MT abre apuração sobre atendimento a adolescente que teve larvas identificadas em ferida no Pronto-Socorro de VG",
-        "enlace": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/13/crm-mt-abre-apuracao-sobre-atendimento-a-adolescente-que-teve-larvas-identificadas-em-ferida-no-pronto-socorro-de-vg.ghtml",
-        "desc": "Adolescente internado após acidente encontra larvas no curativo em Pronto-Socorro de MT O Conselho Regional de Medicina de Mato Grosso (CRM-MT) abriu uma apuração para investigar a…",
-        "fecha": "2026-08-13T23:40:15",
+        "titulo": "Assistente social é agredida e ameaçada dentro de Conselho Tutelar em BH",
+        "enlace": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/13/assistente-social-e-agredida-e-ameacada-dentro-de-conselho-tutelar-em-bh.ghtml",
+        "desc": "Assistente social é agredida em BH Uma assistente social foi agredida e ameaçada dentro do Conselho Tutelar do Barreiro, em Belo Horizonte, na tarde desta quinta-feira (13). A susp…",
+        "fecha": "2026-08-14T01:53:09",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Cruel summer: Searching for an escape from Japan’s extreme heat",
-        "enlace": "https://www.japantimes.co.jp/life/2026/08/14/language/heat-vocabulary-japanese/",
-        "desc": "From extreme heat and tropical nights to mountain escapes, a look at the Japanese vocabulary of summer.",
-        "fecha": "2026-08-14T05:30:00+09:00",
+        "titulo": "Trump imposes 100% tariffs on some drones, countering China",
+        "enlace": "https://www.japantimes.co.jp/news/2026/08/14/world/trump-drone-tariffs-china/",
+        "desc": "Commerce Secretary Howard Lutnick notes that the U.S. is \"too reliant\" on foreign unmanned aircraft systems and their parts.",
+        "fecha": "2026-08-14T10:58:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "Katseye seeks to show raw side in new ‘Wild Hearts’ film",
-        "enlace": "https://www.japantimes.co.jp/culture/2026/08/14/music/katseye-film-harajuku-store/",
-        "desc": "The film arrives as the multinational group navigates two members' hiatuses and prepares for its next chapter with a new EP and world tour.",
-        "fecha": "2026-08-14T04:45:00+09:00",
+        "titulo": "Putin’s visit to the Northern Territories: Why now?",
+        "enlace": "https://www.japantimes.co.jp/news/2026/08/14/japan/politics/putin-northern-territories-visit/",
+        "desc": "The timing of the visit is unusual, as it comes weeks in advance of when Putin was widely expected to travel to Russia's Far East.",
+        "fecha": "2026-08-14T10:39:00+09:00",
         "fuente": "Japan Times"
       }
     ],
@@ -350,7 +350,7 @@
         "titulo": "Una turista española muere en un accidente náutico en el Caribe colombiano",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-13/naufragio-tayrona-turista-espanola-1tps_4405741/",
         "desc": "Su muerte se produjo el martes, cuando la embarcación recreativa en la que viajaba volcó en aguas próximas a Cabo San Juan, uno de los sectores turísticos del Tayrona",
-        "fecha": "2026-08-13T23:46:33.470050+00:00",
+        "fecha": "2026-08-14T02:19:03.981312+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -375,10 +375,10 @@
         "fuente": "BBC World"
       },
       {
-        "titulo": "La 'Amazon' de Rusia en un profundo ataque a Ucrania, quitándole miles de millones al CEO vinculado a Putin",
-        "enlace": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
-        "desc": "Los ataques con aviones no tripulados de Ucrania han destruido el 27% de la capacidad de almacenamiento de Wildberries, con pérdidas estimadas en hasta 8.500 millones de dólares mientras la logística de Rusia se tambalea.",
-        "fecha": "2026-08-13T17:20:28-04:00",
+        "titulo": "Irán podría desencadenar una respuesta \"cinética\" a medida que Estados Unidos endurezca la contención económica, advierte un analista",
+        "enlace": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
+        "desc": "Los analistas advierten que Irán podría atacar bases, barcos e infraestructura del Golfo estadounidenses este otoño, a medida que se endurecen las sanciones de Trump y se avecina la fecha límite del Estrecho de Ormuz.",
+        "fecha": "2026-08-13T20:14:20-04:00",
         "fuente": "Fox News Mundo"
       },
       {
@@ -399,7 +399,7 @@
         "titulo": "Descarrila un tren en el sur de Inglaterra y deja once heridos, dos de ellos graves",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-13/descarrilamiento-tren-lewes-sussex-inglaterra-1tps_4405732/",
         "desc": "Por la cercanía de Brighton -destino playero por excelencia-, la línea afectada es una de alta ocupación durante los veranos, con una frecuencia de trenes de cada media hora",
-        "fecha": "2026-08-13T23:46:33.470090+00:00",
+        "fecha": "2026-08-14T02:19:03.981344+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -409,6 +409,55 @@
         "enlace": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
         "desc": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
         "fecha": "2026-08-13T20:12:17+00:00",
+        "fuente": "BBC World"
+      },
+      {
+        "titulo": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
+        "enlace": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
+        "desc": "Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump&apos;s sanctions tighten and the Strait of Hormuz deadline looms.",
+        "fecha": "2026-08-13T20:14:20-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Donald Trump imposes tariffs of up to 100% on imported drones",
+        "enlace": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones",
+        "desc": "President Donald Trump on Thursday imposed tariffs of up to 100% on imported drones and components, including from key US allies, citing national security concerns and a need to re…",
+        "fecha": "2026-08-14T00:02:12+00:00",
+        "fuente": "France 24 EN"
+      },
+      {
+        "titulo": "Kevin Hart’s wife, Eniko Parrish, makes surprising marriage confession in milestone anniversary post",
+        "enlace": "https://pagesix.com/2026/08/13/celebrity-news/kevin-harts-wife-eniko-parrish-makes-surprising-marriage-confession/",
+        "desc": "Hart and Parrish tied the knot in a lavish Santa Barbara, California, ceremony in 2016.",
+        "fecha": "2026-08-13T22:17:40-04:00",
+        "fuente": "New York Post"
+      },
+      {
+        "titulo": "Romania shuts nuclear plant, Hungary dams dry Danube River",
+        "enlace": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-all-1573-rdf",
+        "desc": "Romania has shut down its only nuclear plant in a rare move prompted by the lack of cooling water from the Danube River. Hungary, meanwhile, is racing to dam the Danube, trying to …",
+        "fecha": "2026-08-14T02:19:09.186459+00:00",
+        "fuente": "DW English"
+      },
+      {
+        "titulo": "Vietnam discovers more than a tonne of concealed ivory illegally shipped from Africa",
+        "enlace": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
+        "desc": "Most trade in ivory from elephants and other endangered animals is banned by international agreement under CITES, a treaty to which almost all UN member countries are parties.",
+        "fecha": "2026-08-13T21:59:30+02:00",
+        "fuente": "Euronews EN"
+      },
+      {
+        "titulo": "Texas: Surrogate gives birth after court orders life-saving care for newborn",
+        "enlace": "https://www.oann.com/newsroom/texas-surrogate-gives-birth-after-court-orders-life-saving-care-for-newborn/",
+        "desc": "A surrogate carrying a baby for a California couple gave birth in Texas after relocating to the state amid an escalating legal dispute over treating a critical congenital heart def…",
+        "fecha": "2026-08-14T01:59:58+00:00",
+        "fuente": "OAN"
+      },
+      {
+        "titulo": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+        "enlace": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+        "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+        "fecha": "2026-08-13T19:46:27+00:00",
         "fuente": "BBC World"
       },
       {
@@ -423,55 +472,6 @@
         "enlace": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
         "desc": "Cuba's Raul Castro made a rare public appearance on Thursday at a celebration marking the centenary of his brother Fidel's birth. The 95-year-old former president received a standi…",
         "fecha": "2026-08-13T21:39:57+00:00",
-        "fuente": "France 24 EN"
-      },
-      {
-        "titulo": "Dominic Zvada has to start from somewhere — and Giants rookie tells The Post he’s ready to make it happen",
-        "enlace": "https://nypost.com/2026/08/13/sports/dominic-zvada-has-to-start-from-somewhere-for-giants/",
-        "desc": "Are the Giants and John Harbaugh — the most special teams-aware head coach in the entire NFL — really going to entrust their placekicking to a fresh-faced rookie?",
-        "fecha": "2026-08-13T19:40:49-04:00",
-        "fuente": "New York Post"
-      },
-      {
-        "titulo": "Romania shuts nuclear plant, Hungary dams dry Danube River",
-        "enlace": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-all-1573-rdf",
-        "desc": "Romania has shut down its only nuclear plant in a rare move prompted by the lack of cooling water from the Danube River. Hungary, meanwhile, is racing to dam the Danube, trying to …",
-        "fecha": "2026-08-13T23:46:36.796049+00:00",
-        "fuente": "DW English"
-      },
-      {
-        "titulo": "Vietnam discovers more than a tonne of concealed ivory illegally shipped from Africa",
-        "enlace": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
-        "desc": "Most trade in ivory from elephants and other endangered animals is banned by international agreement under CITES, a treaty to which almost all UN member countries are parties.",
-        "fecha": "2026-08-13T21:59:30+02:00",
-        "fuente": "Euronews EN"
-      },
-      {
-        "titulo": "Mich.: Man indicted in $100M scam added to FBI’s ‘Most Wanted Fraudsters’ list",
-        "enlace": "https://www.oann.com/newsroom/mich-man-indicted-in-100m-scam-added-to-fbis-most-wanted-fraudsters-list/",
-        "desc": "A man previously indicted for allegedly defrauding investors of an estimated $100 million in Detroit, Michigan, has been added to the FBI’s Most Wanted Fraudsters List, according t…",
-        "fecha": "2026-08-13T22:08:20+00:00",
-        "fuente": "OAN"
-      },
-      {
-        "titulo": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-        "enlace": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-        "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-        "fecha": "2026-08-13T19:46:27+00:00",
-        "fuente": "BBC World"
-      },
-      {
-        "titulo": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
-        "enlace": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
-        "desc": "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo.",
-        "fecha": "2026-08-13T15:40:55-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Ceremony to pay tribute to capsized ferry victims",
-        "enlace": "https://www.france24.com/en/ceremony-to-pay-tribute-to-capsized-ferry-victims",
-        "desc": "In tonight's program, mourners gather in memory of the 44 people killed in Tuesday's ferry accident. Also, ballot counting has started in Zambia, President Hichilema's is expected …",
-        "fecha": "2026-08-13T20:23:13+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -526,10 +526,10 @@
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Mali: le président de la Transition accorde une grâce à un agent français de la DGSE",
-        "enlace": "https://www.rfi.fr/fr/afrique/20260813-mali-le-pr%C3%A9sident-de-la-transition-accorde-une-gr%C3%A2ce-%C3%A0-un-agent-fran%C3%A7ais-de-la-dgse",
-        "desc": "Arrêté au Mali il y a exactement un an, Yann Vézilier, qui a ensuite été condamné à une peine de 20 ans de réclusion criminelle pour atteinte à la sûreté de l'État, a bénéficié d'u…",
-        "fecha": "2026-08-13T17:46:28+00:00",
+        "titulo": "Allemagne: le gouvernement divisé pour faire face à la chaleur qui assèche les cours d'eau",
+        "enlace": "https://www.rfi.fr/fr/europe/20260814-allemagne-le-gouvernement-divis%C3%A9-pour-faire-face-%C3%A0-la-chaleur-qui-ass%C3%A8che-les-cours-d-eau",
+        "desc": "La sécheresse qui frappe l'Europe affecte la circulation fluviale. En Allemagne, le Rhin, un axe central, est menacé d'être coupé en deux en raison d'une zone où les bateaux pourra…",
+        "fecha": "2026-08-14T01:26:39+00:00",
         "fuente": "RFI"
       },
       {
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Tirol: Deutscher Wanderer stürzt bei Familienausflug in den Tod",
-        "enlace": "https://www.spiegel.de/panorama/tirol-deutscher-wanderer-stuerzt-bei-familienausflug-in-den-tod-a-112ab130-3bb1-49af-911e-4a9243243ab2#ref=rss",
-        "desc": "Ein Mann ist mit Schwiegervater und Schwägern in den Zillertaler Alpen unterwegs. Plötzlich verliert er das Gleichgewicht und stürzt in die Tiefe. Die anderen Männer versuchen, ihn…",
-        "fecha": "2026-08-14T01:42:00+02:00",
+        "titulo": "A44 bei Diemelstadt in Hessen: Lkw fährt in Rettungswagen auf Standstreifen – mehrere Verletzte",
+        "enlace": "https://www.spiegel.de/panorama/a44-bei-diemelstadt-in-hessen-lkw-faehrt-in-rettungswagen-auf-standstreifen-mehrere-verletzte-a-8e7431be-ba66-44c7-899f-70a82fe028f5#ref=rss",
+        "desc": "Dramatische Szenen auf der Autobahn 44 bei Diemelstadt: Dort wurde in Mann in einem Rettungswagen auf dem Seitenstreifen behandelt. Dann fuhr ein Lkw ungebremst in das Fahrzeug.",
+        "fecha": "2026-08-14T04:16:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Golfstaaten: Ausweichroute zur Straße von Hormus gesucht",
         "enlace": "https://www.dw.com/de/golfstaaten-ausweichroute-zur-straße-von-hormus-gesucht/a-78341480?maca=de-rss-de-all-1119-rdf",
         "desc": "Nach wie vor fehlt den Ländern am Persischen Golf eine zuverlässige Alternativroute für ihre Ölexporte. Die Sperrung von der Straße von Hormus dauert an.",
-        "fecha": "2026-08-13T23:46:39.152148+00:00",
+        "fecha": "2026-08-14T02:19:11.606824+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -577,17 +577,17 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Kennedy Center: Donald Trumps Name soll an Fassade zurückkehren",
-        "enlace": "https://www.spiegel.de/ausland/kennedy-center-donald-trumps-name-soll-an-fassade-zurueckkehren-a-e0a1174f-e29c-4ea6-abb2-b0d36b195ab7#ref=rss",
-        "desc": "Die Posse um das Kennedy Center in Washington geht in die nächste Runde: Donald Trump besteht weiter darauf, dass sein Name das Kulturzentrum ziert. Ein Gericht lehnte das ab – nun…",
-        "fecha": "2026-08-14T00:54:00+02:00",
+        "titulo": "US-Zölle von Donald Trump: Importierte Drohnen sollen bis zu 100 Prozent teurer werden",
+        "enlace": "https://www.spiegel.de/ausland/us-zoelle-von-donald-trump-importierte-drohnen-sollen-bis-zu-100-prozent-teurer-werden-a-ecfd3f33-f9c7-4107-978f-f87c8fb9e18a#ref=rss",
+        "desc": "Mit neuen Zöllen wollen die USA die Abhängigkeit von chinesischen Drohnenherstellern verringern und die heimische Produktion stärken. Durch die Maßnahme könnten auch zwei Söhne des…",
+        "fecha": "2026-08-14T03:30:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Russisches Haus in Berlin: schließen oder belassen?",
         "enlace": "https://www.dw.com/de/russisches-haus-in-berlin-schließen-oder-belassen/a-78348205?maca=de-rss-de-all-1119-rdf",
         "desc": "Die französischen Behörden werfen dem Russischen Haus in Berlin Spionage vor. Welche Dokumente regeln seine Aktivitäten und inwiefern erfüllt das deutsch-russische Kulturabkommen n…",
-        "fecha": "2026-08-13T23:46:39.152191+00:00",
+        "fecha": "2026-08-14T02:19:11.606857+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -607,10 +607,10 @@
     ],
     "internacional_it": [
       {
-        "titulo": "Gli Stati Uniti contro i coloni: “Terrorismo l’assedio di Qusra”. Cinque italiani con i palestinesi",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/14/news/stati_uniti_contro_coloni_cisgiordania_assedio_qusra_italiani-425528103/?rss",
-        "desc": "Cisgiordania, l’esercito dello Stato ebraico non argina gli estremisti che da sei giorni circondano tre abitazioni. I residenti non cedono. Il silenzio del premier Netanyahu",
-        "fecha": "2026-08-14T01:00:00+02:00",
+        "titulo": "Recuperate a San Paolo otto incisioni di Matisse valutate 160 milioni di dollari",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/14/news/matisse_recuperate_a_san_paolo_otto_incisioni_valore_160_milioni_di_dollari-425528177/?rss",
+        "desc": "Le opere erano state rubate nel 2025 da una biblioteca",
+        "fecha": "2026-08-14T04:04:32+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -628,9 +628,9 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Case assediate in Cisgiordania: “Le bambine terrorizzate chiedevano perché quei ragazzi ci odiano”",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/14/news/case_assediate_cisgiordania_intervista_zia_bambine_paura_odio_coloni-425528062/?rss",
-        "desc": "Al telefono dalle case strette dalla morsa degli estremisti ebraici, parlano Aisha e Qusay: “Le piccole evacuate, vomitavano”",
+        "titulo": "Gli Stati Uniti contro i coloni: “Terrorismo l’assedio di Qusra”. Cinque italiani con i palestinesi",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/14/news/stati_uniti_contro_coloni_cisgiordania_assedio_qusra_italiani-425528103/?rss",
+        "desc": "Cisgiordania, l’esercito dello Stato ebraico non argina gli estremisti che da sei giorni circondano tre abitazioni. I residenti non cedono. Il silenzio del premier Netanyahu",
         "fecha": "2026-08-14T01:00:00+02:00",
         "fuente": "La Repubblica"
       },
@@ -651,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "Incêndio no norte da Grécia leva à retirada de centenas de turistas",
-        "enlace": "https://www.rtp.pt/noticias/mundo/incendio-no-norte-da-grecia-leva-a-retirada-de-centenas-de-turistas_n1759361",
-        "desc": "Um novo incêndio florestal deflagrou na quinta-feira à tarde no norte da Grécia, na região turística de Halkidiki, levando à retirada de centenas de turistas e ao destacamento de m…",
-        "fecha": "2026-08-14T01:44:16+01:00",
+        "titulo": "3h GNR reforça fiscalização nas estradas durante fim-de-semana",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/3h-gnr-reforca-fiscalizacao-nas-estradas-durante-fim-de-semana_a1_1759374",
+        "desc": "",
+        "fecha": "2026-08-14T04:16:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Opositores à passagem na Mata da Albergaria deixam alerta",
-        "enlace": "https://observador.pt/2026/08/14/opositores-a-passagem-na-mata-da-albergaria-alertam-para-precedente/",
-        "desc": "A corrida atravessou esta quinta-feira a área classificada como Reserva Biogenética pelo Conselho da Europa, desde 1988, e como Reserva da Biosfera Transfronteiriça Gerês-Xurés pel…",
-        "fecha": "2026-08-14T00:39:58+01:00",
+        "titulo": "2h. Prosseguem as buscas por português perdido na Croácia",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2379/",
+        "desc": "As autoridades locais encontraram hoje um dos elementos sem vida. Ainda, começa esta sexta-feira a reentré política do PSD em Quarteira, no Algarve.",
+        "fecha": "2026-08-14T02:16:30+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,24 +672,24 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Plano de governo de Flávio Bolsonaro propõe limitar poderes do Supremo e retoma legado do pai",
-        "enlace": "https://www.rtp.pt/noticias/mundo/plano-de-governo-de-flavio-bolsonaro-propoe-limitar-poderes-do-supremo-e-retoma-legado-do-pai_n1759364",
-        "desc": "O candidato à Presidência do Brasil Flávio Bolsonaro (Partido Liberal) propõe limitar a atuação do Supremo Tribunal Federal (STF) e apresenta o Governo do pai, Jair Bolsonaro, como…",
-        "fecha": "2026-08-14T01:44:02+01:00",
+        "titulo": "2h Sismos Venezuela. Bispo do Funchal visita comunidade portuguesa",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/2h-sismos-venezuela-bispo-do-funchal-visita-comunidade-portuguesa_a1_1759371",
+        "desc": "",
+        "fecha": "2026-08-14T03:41:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Reino Unido regista dia mais quente do ano",
-        "enlace": "https://observador.pt/2026/08/14/reino-unido-regista-dia-mais-quente-do-ano-com-europa-ocidental-a-sofrer-com-calor/",
-        "desc": "As autoridades britânicas mantiveram-se em alerta máximo para incêndios florestais",
-        "fecha": "2026-08-14T00:37:13+01:00",
+        "titulo": "1h. Liga Europa. Benfica empatou com o Hearts",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2352/",
+        "desc": "Ainda assim os encarnados garantem a presença no playoff de acesso à Liga Europa. Ainda, prosseguem esta sexta-feira as buscas pelo quarto português desaparecido na Croácia.",
+        "fecha": "2026-08-14T01:13:43+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Guia do eleitor: tudo o que você precisa saber sobre as eleições de 2026",
-        "enlace": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
-        "desc": "O primeiro turno das eleições acontece em 4 de outubro. Até lá, os candidatos vão participar de debates e intensificar a campanha eleitoral em busca dos votos dos eleitores.",
-        "fecha": "2026-08-13T14:31:45+00:00",
+        "titulo": "EUA pretendem atacar em terra cartéis de droga na América Latina: 'Alvo como Estado Islâmico e Al-Qaeda'",
+        "enlace": "https://www.bbc.com/portuguese/articles/ckge4n1427eo?at_medium=RSS&at_campaign=rss",
+        "desc": "'Em qualquer lugar que você traficar drogas, em que você ameaçar o povo americano e nossos parceiros, você é um alvo, assim como o Estado Islâmico ou a Al-Qaeda', afirmou o secretá…",
+        "fecha": "2026-08-14T02:09:31+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -744,10 +744,10 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "'¡Éste es su escenario!' - Hunt se lleva 200 millones de oro.",
-        "enlace": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
-        "desc": "La estrella del sprint de Gran Bretaña, Amy Hunt, se lleva su segundo oro del Campeonato de Europa de Atletismo de 2026 en los 200 metros femeninos, con Rhasidat Adeleke en segundo lugar y Dina Asher-Smith en tercer lugar.",
-        "fecha": "2026-08-13T21:08:59+00:00",
+        "titulo": "¿Qué les está yendo mal a los Rangers y McInnes?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
+        "desc": "Después de la derrota del Rangers en la clasificación de la Europa League ante el Jagellonia Bialystok, ¿qué le está yendo mal al nuevo entrenador Derek McInnes y su equipo en lo que va de temporada?",
+        "fecha": "2026-08-13T23:43:51+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -767,10 +767,10 @@
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "'This is her stage!' - Hunt takes 200m gold",
-        "enlace": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
-        "desc": "GB sprint star Amy Hunt takes her second gold of the 2026 European Athletics Championships in the women's 200m, with Rhasidat Adeleke second and Dina Asher-Smith in third.",
-        "fecha": "2026-08-13T21:08:59+00:00",
+        "titulo": "What's going wrong for Rangers and McInnes?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
+        "desc": "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+        "fecha": "2026-08-13T23:43:51+00:00",
         "fuente": "BBC Sport"
       },
       {
@@ -785,15 +785,15 @@
       {
         "titulo": "\"Deux sur quatre, bébé\" - Hunt remporte le 200 m alors qu'elle vise un quadruple historique",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
-        "desc": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
+        "desc": "La Britannique Amy Hunt se lance dans la gloire du 200 m pour décrocher sa deuxième médaille d'or aux Championnats d'Europe - mais la sprinteuse vise un quadruple historique à Birmingham.",
         "fecha": "2026-08-13T22:40:50+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "\"C'est sa scène!\" - Hunt remporte l'or sur 200 m",
-        "enlace": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
-        "desc": "La star britannique du sprint Amy Hunt remporte sa deuxième médaille d'or aux Championnats d'Europe d'athlétisme 2026 au 200 m féminin, avec Rhasidat Adeleke deuxième et Dina Asher-Smith troisième.",
-        "fecha": "2026-08-13T21:08:59+00:00",
+        "titulo": "Qu'est-ce qui ne va pas pour les Rangers et McInnes ?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
+        "desc": "Après la défaite des Rangers en qualifications pour la Ligue Europa face à Jagellonia Bialystok, qu'est-ce qui ne va pas pour le nouveau manager Derek McInnes et son équipe jusqu'à présent cette saison ?",
+        "fecha": "2026-08-13T23:43:51+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,7 +802,7 @@
         "titulo": "Warum Frauen Ausdauerrekorde der Männer brechen",
         "enlace": "https://www.dw.com/de/warum-frauen-ausdauerrekorde-der-männer-brechen/a-78353439?maca=de-rss-de-sport-4020-rdf",
         "desc": "Sophie Woods durchläuft die 2000 Kilometer lange Via Alpina schneller als die bisherige Männer-Bestmarke. Sie ist nicht die einzige Frau, die im Extremsport Männerrekorde bricht. W…",
-        "fecha": "2026-08-13T23:46:49.628957+00:00",
+        "fecha": "2026-08-14T02:19:23.116099+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,14 +816,14 @@
         "titulo": "Kathrin Marchand: \"Der Körper ist keine Maschine\"",
         "enlace": "https://www.dw.com/de/kathrin-marchand-der-körper-ist-keine-maschine/a-76764390?maca=de-rss-de-sport-4020-rdf",
         "desc": "Zweimal nimmt Kathrin Marchand an den Olympischen Spielen teil. Doch ein Schlaganfall mit 30 Jahren verändert ihr Leben. Sie akzeptiert ihre Einschränkungen, schreibt Sport-Geschic…",
-        "fecha": "2026-08-13T23:46:49.628999+00:00",
+        "fecha": "2026-08-14T02:19:23.116132+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "„Das ist ihre Bühne!“ - Hunt erhält 200 m Gold",
-        "enlace": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
-        "desc": "Die britische Sprintstar Amy Hunt holt sich ihr zweites Gold bei den Leichtathletik-Europameisterschaften 2026 im 200-m-Lauf der Frauen, gefolgt von Rhasidat Adeleke auf dem zweiten und Dina Asher-Smith auf dem dritten Platz.",
-        "fecha": "2026-08-13T21:08:59+00:00",
+        "titulo": "Was läuft bei den Rangers und McInnes schief?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
+        "desc": "Was läuft nach der Qualifikationsniederlage der Rangers zur Europa League gegen Jagellonia Bialystok für den neuen Trainer Derek McInnes und seine Mannschaft in dieser Saison bislang schief?",
+        "fecha": "2026-08-13T23:43:51+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -836,10 +836,10 @@
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "\"Questo è il suo palcoscenico!\" - La caccia prende 200 milioni di oro",
-        "enlace": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
-        "desc": "La stella dello sprint britannico Amy Hunt conquista il suo secondo oro ai Campionati europei di atletica leggera 2026 nei 200 metri femminili, con Rhasidat Adeleke seconda e Dina Asher-Smith terza.",
-        "fecha": "2026-08-13T21:08:59+00:00",
+        "titulo": "Cosa c'è che non va tra Rangers e McInnes?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
+        "desc": "Dopo la sconfitta dei Rangers nelle qualificazioni all'Europa League contro il Jagellonia Bialystok, cosa sta andando storto per il nuovo allenatore Derek McInnes e la sua squadra finora in questa stagione?",
+        "fecha": "2026-08-13T23:43:51+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -870,7 +870,7 @@
         "titulo": "Corrección del autor: Mecanismo estructural de inhibición de cGAS por el nucleosoma",
         "enlace": "https://www.nature.com/articles/s41586-026-10959-w",
         "desc": "Naturaleza, Publicado en línea: 13 de agosto de 2026; doi:10.1038/s41586-026-10959-w Corrección del autor: Mecanismo estructural de inhibición de cGAS por el nucleosoma",
-        "fecha": "2026-08-13T23:46:57.676184+00:00",
+        "fecha": "2026-08-14T02:19:47.086059+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -905,7 +905,7 @@
         "titulo": "Corrección del autor: Un ave del Cretácico de Brasil informa la evolución del cráneo y el cerebro de las aves",
         "enlace": "https://www.nature.com/articles/s41586-026-10960-3",
         "desc": "Naturaleza, Publicado en línea: 13 de agosto de 2026; doi:10.1038/s41586-026-10960-3 Corrección del autor: Un ave del Cretácico de Brasil informa la evolución del cráneo y el cerebro de las aves",
-        "fecha": "2026-08-13T23:46:57.676227+00:00",
+        "fecha": "2026-08-14T02:19:47.086092+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -921,7 +921,7 @@
         "titulo": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
         "enlace": "https://www.nature.com/articles/s41586-026-10959-w",
         "desc": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-w Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-        "fecha": "2026-08-13T23:46:59.026805+00:00",
+        "fecha": "2026-08-14T02:19:48.260337+00:00",
         "fuente": "Nature"
       },
       {
@@ -939,17 +939,17 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Private security firms will soon be allowed to hack overseas cybercriminals",
-        "enlace": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-        "desc": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-        "fecha": "2026-08-13T19:38:58+00:00",
+        "titulo": "US wait times for cancer surgeries are getting longer and longer",
+        "enlace": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+        "desc": "Study finds wait times for cancer surgeries hit 10-year high.",
+        "fecha": "2026-08-13T22:17:29+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Teens are turning to AI chatbots for emotional support—here's how to keep kids safe",
-        "enlace": "https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html",
-        "desc": "It's 2 a.m., and a teenage girl, worrying about an issue with a friend, lies awake. Rather than wake her parents, she picks up her phone, opens an AI app and types, \"I'm so stresse…",
-        "fecha": "2026-08-13T19:40:04-04:00",
+        "titulo": "Why has Britain's grass turned yellow? A plant scientist explains what happens next",
+        "enlace": "https://phys.org/news/2026-08-britain-grass-yellow-scientist.html",
+        "desc": "Fields, parks and lawns across Europe have turned to straw this summer. Landscapes thousands of years old have been revealed as green outlines against yellow backgrounds, where anc…",
+        "fecha": "2026-08-13T20:40:01-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -967,10 +967,10 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-        "enlace": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-        "desc": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-        "fecha": "2026-08-13T19:46:27+00:00",
+        "titulo": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+        "enlace": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+        "desc": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+        "fecha": "2026-08-14T02:13:27+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
         "enlace": "https://www.nature.com/articles/s41586-026-10960-3",
         "desc": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10960-3 Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-        "fecha": "2026-08-13T23:46:59.026862+00:00",
+        "fecha": "2026-08-14T02:19:48.260369+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "Correction de l'auteur : Mécanisme structurel de l'inhibition du cGAS par le nucléosome",
         "enlace": "https://www.nature.com/articles/s41586-026-10959-w",
         "desc": "Nature, Mise en ligne : 13 août 2026 ; doi:10.1038/s41586-026-10959-w Correction de l'auteur : Mécanisme structurel de l'inhibition du cGAS par le nucléosome",
-        "fecha": "2026-08-13T23:47:02.126288+00:00",
+        "fecha": "2026-08-14T02:19:52.330399+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Correction de l'auteur : un oiseau du Crétacé du Brésil informe sur l'évolution du crâne et du cerveau des oiseaux",
         "enlace": "https://www.nature.com/articles/s41586-026-10960-3",
         "desc": "Nature, Mise en ligne : 13 août 2026 ; doi:10.1038/s41586-026-10960-3 Correction de l'auteur : Un oiseau du Crétacé du Brésil renseigne sur l'évolution du crâne et du cerveau des oiseaux.",
-        "fecha": "2026-08-13T23:47:02.126330+00:00",
+        "fecha": "2026-08-14T02:19:52.330432+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "Der heißeste Sommer? So werden Temperatur-Rekorde gemessen",
         "enlace": "https://www.dw.com/de/der-heißeste-sommer-so-werden-temperatur-rekorde-gemessen/a-78277509?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Woher wissen Wissenschaftler, ob ein Tag oder Sommer tatsächlich der heißeste seit Beginn der Aufzeichnungen war? Und woher kommt die Skepsis an den Daten? Die DW hat Experten zum …",
-        "fecha": "2026-08-13T23:47:03.498143+00:00",
+        "fecha": "2026-08-14T02:19:53.389598+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Struktureller Mechanismus der cGAS-Hemmung durch das Nukleosom",
         "enlace": "https://www.nature.com/articles/s41586-026-10959-w",
         "desc": "Natur, Online veröffentlicht: 13. August 2026; doi:10.1038/s41586-026-10959-w Autorenkorrektur: Struktureller Mechanismus der cGAS-Hemmung durch das Nukleosom",
-        "fecha": "2026-08-13T23:47:03.600972+00:00",
+        "fecha": "2026-08-14T02:19:53.467497+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "100 Tage Isolation: Projekt SOLIS100 ist zu Ende",
         "enlace": "https://www.dw.com/de/100-tage-isolation-projekt-solis100-ist-zu-ende/a-78287936?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Keine Freunde, keine Familie - dafür aber fünf Kollegen rund um die Uhr: Das war die Konstellation, in der die Freiwilligen dabei halfen, wichtige Erkenntnisse für lange Weltraummi…",
-        "fecha": "2026-08-13T23:47:03.498187+00:00",
+        "fecha": "2026-08-14T02:19:53.389636+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Korrektur des Autors: Kreidevogel aus Brasilien beeinflusst die Entwicklung des Vogelschädels und -hirns",
         "enlace": "https://www.nature.com/articles/s41586-026-10960-3",
         "desc": "Natur, Online veröffentlicht: 13. August 2026; doi:10.1038/s41586-026-10960-3 Autorenkorrektur: Kreidevogel aus Brasilien beeinflusst die Entwicklung des Vogelschädels und -hirns",
-        "fecha": "2026-08-13T23:47:03.601017+00:00",
+        "fecha": "2026-08-14T02:19:53.467528+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,23 +1053,23 @@
         "titulo": "Correzione dell'autore: Meccanismo strutturale dell'inibizione del cGAS da parte del nucleosoma",
         "enlace": "https://www.nature.com/articles/s41586-026-10959-w",
         "desc": "Natura, Pubblicato online: 13 agosto 2026; doi:10.1038/s41586-026-10959-w Correzione dell'autore: meccanismo strutturale dell'inibizione del cGAS da parte del nucleosoma",
-        "fecha": "2026-08-13T23:47:05.283085+00:00",
+        "fecha": "2026-08-14T02:19:55.768488+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Correzione dell'autore: L'uccello del Cretaceo proveniente dal Brasile informa l'evoluzione del cranio e del cervello degli uccelli",
         "enlace": "https://www.nature.com/articles/s41586-026-10960-3",
         "desc": "Natura, Pubblicato online: 13 agosto 2026; doi:10.1038/s41586-026-10960-3 Correzione dell'autore: uccello del Cretaceo proveniente dal Brasile informa l'evoluzione del cranio e del cervello degli uccelli",
-        "fecha": "2026-08-13T23:47:05.283128+00:00",
+        "fecha": "2026-08-14T02:19:55.768521+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Opositores à passagem na Mata da Albergaria deixam alerta",
-        "enlace": "https://observador.pt/2026/08/14/opositores-a-passagem-na-mata-da-albergaria-alertam-para-precedente/",
-        "desc": "A corrida atravessou esta quinta-feira a área classificada como Reserva Biogenética pelo Conselho da Europa, desde 1988, e como Reserva da Biosfera Transfronteiriça Gerês-Xurés pel…",
-        "fecha": "2026-08-14T00:39:58+01:00",
+        "titulo": "As notícias das 3h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2405/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-14T03:17:47+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1080,33 +1080,33 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Reino Unido regista dia mais quente do ano",
-        "enlace": "https://observador.pt/2026/08/14/reino-unido-regista-dia-mais-quente-do-ano-com-europa-ocidental-a-sofrer-com-calor/",
-        "desc": "As autoridades britânicas mantiveram-se em alerta máximo para incêndios florestais",
-        "fecha": "2026-08-14T00:37:13+01:00",
+        "titulo": "2h. Prosseguem as buscas por português perdido na Croácia",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2379/",
+        "desc": "As autoridades locais encontraram hoje um dos elementos sem vida. Ainda, começa esta sexta-feira a reentré política do PSD em Quarteira, no Algarve.",
+        "fecha": "2026-08-14T02:16:30+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Guia do eleitor: tudo o que você precisa saber sobre as eleições de 2026",
-        "enlace": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
-        "desc": "O primeiro turno das eleições acontece em 4 de outubro. Até lá, os candidatos vão participar de debates e intensificar a campanha eleitoral em busca dos votos dos eleitores.",
-        "fecha": "2026-08-13T14:31:45+00:00",
+        "titulo": "EUA pretendem atacar em terra cartéis de droga na América Latina: 'Alvo como Estado Islâmico e Al-Qaeda'",
+        "enlace": "https://www.bbc.com/portuguese/articles/ckge4n1427eo?at_medium=RSS&at_campaign=rss",
+        "desc": "'Em qualquer lugar que você traficar drogas, em que você ameaçar o povo americano e nossos parceiros, você é um alvo, assim como o Estado Islâmico ou a Al-Qaeda', afirmou o secretá…",
+        "fecha": "2026-08-14T02:09:31+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
     "economia_es": [
       {
-        "titulo": "Las nuevas apuestas en Bolsa de las grandes fortunas españolas",
-        "enlace": "https://www.expansion.com/mercados/2026/08/13/6a7ce0dde5fdeade0b8b457c.html",
-        "desc": "Los altos patrimonios mantienen una parte relevante de la cartera en tecnología, pero diversifican con nuevas apuestas dentro del sector y compras en materias primas, Defensa y aut…",
-        "fecha": "2026-08-13T02:02:32+02:00",
+        "titulo": "Santander lleva su cartera de deuda española a un tope de 75.900 millones",
+        "enlace": "https://www.expansion.com/empresas/banca/2026/08/14/6a68f38a468aebf4208b4584.html",
+        "desc": "El banco adquiere 17.450 millones de euros en seis meses. La rentabilidad del 3,3% blinda su margen de intereses y eleva los ingresos.&nbsp; Leer",
+        "fecha": "2026-08-14T01:59:08+02:00",
         "fuente": "Expansión"
       },
       {
         "titulo": "JP Morgan eleva su valoración para el S&P 500 y aleja una burbuja: la IA ya da sus frutos",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-10/jp-morgan-objetivo-s-p-500-ia-frutos_4403868/",
         "desc": "La banca estadounidense revisa las estimaciones sobre la bolsa de Wall Street apuntando a superar la barrera de los 8.000 puntos",
-        "fecha": "2026-08-13T23:47:11.694364+00:00",
+        "fecha": "2026-08-14T02:19:59.049296+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,31 +1117,31 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "El oro se estabiliza mientras los operadores sopesan la trayectoria de las tasas de la Fed y la tensión en Medio Oriente",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
-        "desc": "El oro tuvo pocos cambios después de retroceder por debajo de los 4.400 dólares la onza, mientras los operadores sopesaban la trayectoria de las tasas de interés de la Reserva Federal y las perspectivas de un acuerdo para reabrir el Estrecho de Ormuz.",
-        "fecha": "2026-08-13T23:24:16+00:00",
+        "titulo": "Las acciones asiáticas suben a medida que la inflación y la tecnología en EE. UU. aumentan: los mercados cierran",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "desc": "Las acciones asiáticas subieron, sumándose a una cuarta semana de ganancias, ya que la moderación de la inflación estadounidense reforzó las apuestas de que la Reserva Federal se abstendrá de subir las tasas de interés el próximo mes. Tecno…",
+        "fecha": "2026-08-13T22:10:41+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+        "titulo": "Las subastas de la Monterey Car Week podrían alcanzar un récord de 500 millones de dólares, con la ayuda de compradores más jóvenes",
         "enlace": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
-        "desc": "Una nueva generación de millennials y Gen Zers está apoderándose del mercado de coleccionismo de manos de los baby boomers y ofertando superdeportivos modernos en la Monterey Car Week.",
+        "desc": "Una nueva generación de millennials y Gen Zers está apoderándose del mercado del coleccionismo de manos de los baby boomers y ofertando superdeportivos modernos en la Monterey Car Week.",
         "fecha": "2026-08-13T15:19:31+00:00",
         "fuente": "CNBC"
       },
       {
-        "titulo": "El gasóleo se dispara un 15,7% y activa la rebaja fiscal de 20 céntimos",
-        "enlace": "https://www.expansion.com/economia/2026/08/13/6a7d9b4a468aebdd3d8b4594.html",
-        "desc": "La gasolina, con un alza más contenida, del 7,3%, mantendrá la senda de la retirada de la bonificación impositiva&nbsp; Leer",
-        "fecha": "2026-08-13T12:24:49+02:00",
+        "titulo": "Norges, Vukile, Nepi y Rivoli llevan a récord a los centros comerciales",
+        "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/14/6a7e09ba468aebb5298b4575.html",
+        "desc": "La inversión en centros comerciales superará los 3.000 millones en 2026 con megaoperaciones como la compra de la cartera de activos de Balkany, Islazul, Megapark o Xanadú.&nbsp; Le…",
+        "fecha": "2026-08-14T00:57:00+02:00",
         "fuente": "Expansión"
       },
       {
         "titulo": "El foro 'Emerging Markets Summit', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
         "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-13T23:47:11.694406+00:00",
+        "fecha": "2026-08-14T02:19:59.049327+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,10 +1152,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Las acciones asiáticas se preparan para ganar, el crudo mantiene la caída: los mercados cierran",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-        "desc": "Las acciones asiáticas se disponían a ampliar sus ganancias el viernes, ya que nuevas pruebas de una moderación de la inflación en Estados Unidos y un retroceso de los precios del petróleo reforzaron las apuestas de que la Reserva Federal se abstendrá de...",
-        "fecha": "2026-08-13T22:10:41+00:00",
+        "titulo": "El Banco Popular de China realiza por primera vez un repositorio inverso a mitad de mes",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
+        "desc": "El banco central de China inyectó liquidez a través de repos inversos a un día el viernes, lo que supuso la primera operación de este tipo a mediados de un mes.",
+        "fecha": "2026-08-14T01:32:36+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1168,17 +1168,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
-        "desc": "Gold was little changed after retreating below $4,400 an ounce, as traders weighed the Federal Reserve’s interest-rate path and prospects for a deal to reopen the Strait of Hormuz.",
-        "fecha": "2026-08-13T23:24:16+00:00",
+        "titulo": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "desc": "Asian stocks rose, adding to a fourth week of gains, as moderating US inflation reinforced bets that the Federal Reserve will refrain from raising interest rates next month. Techno…",
+        "fecha": "2026-08-13T22:10:41+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "LARRY KUDLOW: 156.4 million American adults love the new S&P 500 record high",
-        "enlace": "https://www.foxbusiness.com/politics/larry-kudlow-156-4-million-american-adults-love-new-sp-500-record-high",
-        "desc": "Ordinary working folks are participants in the stock market, not just the wealthy pied-à-terre crowd",
-        "fecha": "2026-08-13T17:55:45-04:00",
+        "titulo": "200K magnetic 'Goody King' building block toys recalled over ingestion hazard that led to surgery for 2 kids",
+        "enlace": "https://www.foxbusiness.com/economy/200k-magnetic-goody-king-building-block-toys-recalled-over-ingestion-hazard-led-surgery-2-kids",
+        "desc": "More than 200,000 Goody King Magnetic Building Cubes and Blocks sold on Amazon are facing a recall after two children required surgery to remove the magnets.",
+        "fecha": "2026-08-13T21:12:26-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1196,17 +1196,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Asian Stocks Poised to Gain, Crude Holds Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-        "desc": "Asian stocks were set to extend gains Friday as further evidence of moderating US inflation and a pullback in oil prices reinforced bets that the Federal Reserve will refrain from …",
-        "fecha": "2026-08-13T22:10:41+00:00",
+        "titulo": "PBOC Conducts Mid-Month Overnight Reverse Repo for First Time",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
+        "desc": "China’s central bank injected liquidity through overnight reverse repos on Friday, marking its first such operation in the middle of a month.",
+        "fecha": "2026-08-14T01:32:36+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Tyson Foods to close 2 facilities, pursue sale of another amid 'historic' cattle shortage",
-        "enlace": "https://www.foxbusiness.com/retail/tyson-foods-close-facilities-pursue-sale-another-amid-historic-cattle-shortage",
-        "desc": "Tyson Foods announced it is closing two facilities and pursuing the sale of a third as tight cattle supplies continue to pressure its beef business.",
-        "fecha": "2026-08-13T17:16:24-04:00",
+        "titulo": "LARRY KUDLOW: 156.4 million American adults love the new S&P 500 record high",
+        "enlace": "https://www.foxbusiness.com/politics/larry-kudlow-156-4-million-american-adults-love-new-sp-500-record-high",
+        "desc": "Ordinary working folks are participants in the stock market, not just the wealthy pied-à-terre crowd",
+        "fecha": "2026-08-13T17:55:45-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1226,63 +1226,63 @@
     ],
     "economia_fr": [
       {
-        "titulo": "L'or se stabilise alors que les traders évaluent l'évolution des taux de la Fed et les tensions au Moyen-Orient",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
-        "desc": "L'or a peu changé après être tombé en dessous de 4 400 dollars l'once, alors que les traders évaluaient l'évolution des taux d'intérêt de la Réserve fédérale et les perspectives d'un accord pour rouvrir le détroit d'Ormuz.",
-        "fecha": "2026-08-13T23:24:16+00:00",
+        "titulo": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "desc": "Les actions asiatiques ont augmenté, s'ajoutant à une quatrième semaine de gains, alors que la modération de l'inflation américaine a renforcé les paris selon lesquels la Réserve fédérale s'abstiendrait d'augmenter les taux d'intérêt le mois prochain. Techno…",
+        "fecha": "2026-08-13T22:10:41+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Les actions asiatiques sont sur le point de gagner, les réserves de pétrole brut diminuent : les marchés se replient",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-        "desc": "Les actions asiatiques devraient prolonger leurs gains vendredi alors que de nouvelles preuves d'une inflation modérée aux États-Unis et d'un recul des prix du pétrole renforcent les paris que la Réserve fédérale s'abstiendra de …",
-        "fecha": "2026-08-13T22:10:41+00:00",
+        "titulo": "La PBOC effectue pour la première fois une prise en pension inversée au cours du mois en milieu de mois",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
+        "desc": "Vendredi, la banque centrale chinoise a injecté des liquidités via des prises en pension au jour le jour, marquant sa première opération de ce type au milieu du mois.",
+        "fecha": "2026-08-14T01:32:36+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Aktienverkauf: Birkenstock-Großaktionär L Catterton trennt sich von Aktienpaket",
-        "enlace": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/aktienverkauf-birkenstock-grossaktionaer-l-catterton-trennt-sich-von-aktienpaket/100247188.html",
-        "desc": "L Catterton nutzt den Kurssprung für einen milliardenschweren Aktienverkauf. Birkenstock will einen Teil der Papiere selbst zurückkaufen.",
-        "fecha": "2026-08-13T23:07:18+00:00",
+        "titulo": "Marine in Nahost: US-Militär kontert Klagen über Missstände auf Flugzeugträger",
+        "enlace": "https://www.handelsblatt.com/politik/international/marine-in-nahost-us-militaer-kontert-klagen-ueber-missstaende-auf-flugzeugtraeger/100247200.html",
+        "desc": "Versorgungsengpässe, verstopfte Klos und seit Monaten kein Landgang: US-Senatoren sorgen sich um Streitkräfte auf dem Flugzeugträger „USS Abraham Lincoln“. Das US-Militär zeichnet …",
+        "fecha": "2026-08-14T02:14:37+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Gold stabilisiert sich, da Händler die Zinsentwicklung der Fed und die Spannungen im Nahen Osten abwägen",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
-        "desc": "Der Goldpreis veränderte sich kaum, nachdem er unter 4.400 USD pro Unze gefallen war, da Händler den Zinspfad der Federal Reserve und die Aussichten auf eine Einigung zur Wiedereröffnung der Straße von Hormus abwägten.",
-        "fecha": "2026-08-13T23:24:16+00:00",
+        "titulo": "Asiatische Aktien steigen im Zuge der US-Inflation, Technologie spornt an: Die Märkte schließen sich",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "desc": "Asiatische Aktien stiegen und trugen damit zu einer vierten Woche mit Gewinnen bei, da die nachlassende US-Inflation die Wetten bestärkte, dass die Federal Reserve im nächsten Monat von einer Zinserhöhung absehen wird. Techno…",
+        "fecha": "2026-08-13T22:10:41+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Washington: USA verhängen Zölle auf Drohnen und Bauteile",
-        "enlace": "https://www.handelsblatt.com/politik/international/washington-usa-verhaengen-zoelle-auf-drohnen-und-bauteile/100247189.html",
-        "desc": "Für Drohnen ab einer bestimmten Größe wird ein Zoll von 100 Prozent fällig. Die USA seien zu abhängig von ausländischen Anbietern, erklärte die Regierung zur Begründung.",
-        "fecha": "2026-08-13T23:03:37+00:00",
+        "titulo": "Europäische Union: Zypern will Schengen beitreten – jetzt beginnt die politisch heikle Phase",
+        "enlace": "https://www.handelsblatt.com/politik/international/eu-zypern-will-schengen-beitreten-politisch-beginnt-die-heikle-phase/100244781.html",
+        "desc": "Zypern ist laut der EU-Kommission bereit für den Schengen-Beitritt. Die Entscheidung liegt nun bei den EU-Staaten. Doch die sind mit der komplexen Realität der geteilten Insel konf…",
+        "fecha": "2026-08-14T02:05:52+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Asiatische Aktien stehen vor Kursgewinnen, Rohölbestände sinken: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-        "desc": "Asiatische Aktien dürften ihre Gewinne am Freitag ausweiten, da weitere Anzeichen für eine Abschwächung der US-Inflation und einen Rückgang der Ölpreise die Wetten bestärkten, dass die Federal Reserve davon Abstand nehmen wird …",
-        "fecha": "2026-08-13T22:10:41+00:00",
+        "titulo": "PBOC führt zum ersten Mal zur Monatsmitte Overnight Reverse Repo durch",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
+        "desc": "Die chinesische Zentralbank hat am Freitag über Nacht-Reverse-Repo-Geschäfte Liquidität zugeführt und damit Mitte eines Monats ihre erste derartige Operation durchgeführt.",
+        "fecha": "2026-08-14T01:32:36+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "L’oro si stabilizza mentre i trader valutano il percorso dei tassi della Fed e le tensioni in Medio Oriente",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
-        "desc": "L’oro è rimasto poco cambiato dopo essere sceso sotto i 4.400 dollari l’oncia, mentre i trader valutavano il percorso dei tassi di interesse della Federal Reserve e le prospettive di un accordo per riaprire lo Stretto di Hormuz.",
-        "fecha": "2026-08-13T23:24:16+00:00",
+        "titulo": "Le azioni asiatiche salgono mentre l’inflazione americana e lo stimolo tecnologico guadagnano: i mercati si riavvolgono",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "desc": "I titoli azionari asiatici sono saliti, aggiungendosi alla quarta settimana di guadagni, poiché la moderazione dell'inflazione statunitense ha rafforzato le scommesse secondo cui la Federal Reserve si asterrà dall'aumentare i tassi di interesse il prossimo mese. Tecno…",
+        "fecha": "2026-08-13T22:10:41+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Le azioni asiatiche sono pronte a guadagnare, il greggio tiene in calo: i mercati si chiudono",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-        "desc": "Le azioni asiatiche erano destinate ad estendere i guadagni venerdì poiché ulteriori prove di moderazione dell'inflazione statunitense e un calo dei prezzi del petrolio hanno rafforzato le scommesse secondo cui la Federal Reserve si asterrà dal...",
-        "fecha": "2026-08-13T22:10:41+00:00",
+        "titulo": "La PBOC effettua per la prima volta operazioni di pronti contro termine inverse overnight a metà mese",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
+        "desc": "Venerdì la banca centrale cinese ha iniettato liquidità tramite pronti contro termine overnight, segnando la sua prima operazione di questo tipo a metà mese.",
+        "fecha": "2026-08-14T01:32:36+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
@@ -1295,10 +1295,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ouro se estabiliza enquanto traders avaliam trajetória da taxa do Fed e tensão no Oriente Médio",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
-        "desc": "O ouro pouco mudou depois de recuar para menos de US$ 4.400 a onça, com os traders avaliando a trajetória da taxa de juros do Federal Reserve e as perspectivas de um acordo para reabrir o Estreito de Ormuz.",
-        "fecha": "2026-08-13T23:24:16+00:00",
+        "titulo": "Ações asiáticas sobem à medida que a inflação nos EUA e a tecnologia estimulam ganhos: mercados embrulhados",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+        "desc": "As bolsas asiáticas subiram, somando-se a uma quarta semana de ganhos, à medida que a moderação da inflação nos EUA reforçou as apostas de que a Reserva Federal se absterá de aumentar as taxas de juro no próximo mês. Tecnologia…",
+        "fecha": "2026-08-13T22:10:41+00:00",
         "fuente": "Bloomberg EN"
       },
       {
@@ -1309,10 +1309,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ações asiáticas preparadas para subir, petróleo mantém declínio: queda dos mercados",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-        "desc": "As bolsas asiáticas deveriam ampliar os ganhos na sexta-feira, à medida que mais evidências da moderação da inflação nos EUA e uma retração nos preços do petróleo reforçaram as apostas de que o Federal Reserve se absterá de ...",
-        "fecha": "2026-08-13T22:10:41+00:00",
+        "titulo": "PBOC realiza recompra reversa noturna no meio do mês pela primeira vez",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
+        "desc": "O banco central da China injetou liquidez por meio de operações de recompra reversa overnight na sexta-feira, marcando sua primeira operação desse tipo no meio de um mês.",
+        "fecha": "2026-08-14T01:32:36+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
