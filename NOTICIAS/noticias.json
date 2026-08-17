@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-08-17T16:32:10.093050+00:00",
+  "actualizado": "2026-08-17T17:29:54.197755+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Detenido un joven de Toledo en un festival de música de Cangas de Onís por tener cocaína y MDMA",
-        "enlace": "https://www.abc.es/espana/castilla-la-mancha/toledo/detenido-joven-toledo-festival-musica-cangas-onis-20260817182108-nt.html",
-        "desc": "Ocho personas, entre ellas un vecino de Toledo de 23 años de edad, han sido detenidas en el marco del dispositivo de seguridad establecido por la Guardia Civil en torno al festival…",
-        "fecha": "2026-08-17T18:21:08+02:00",
+        "titulo": "Muere Marcos Rodríguez Pantoja, el 'niño lobo de Sierra Morena' a los 80 años",
+        "enlace": "https://www.abc.es/espana/andalucia/cordoba/muere-marcos-rodriguez-pantoja-nino-lobo-sierra-20260817191939-nts.html",
+        "desc": "Marcos Rodríguez Pantoja, conocido como el 'niño lobo de Sierra Morena', ha fallecido este sábado a los 80 años en Ourense, donde residía desde hacía años. Nacido en un pueblo de C…",
+        "fecha": "2026-08-17T19:19:40+02:00",
         "fuente": "ABC"
       },
       {
@@ -24,24 +24,24 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "El Ejército impulsa su plan de modernización con simuladores FPV y sistemas antidrones",
-        "enlace": "https://theobjective.com/tecnologia/2026-08-17/ejercito-simuladorees-fpv-antidron/",
-        "desc": "El Ejército de Tierra acelera su adaptación al creciente protagonismo de los drones en los conflictos bélicos actuales. El Ministerio de Defensa ha puesto en marcha [&#8230;]",
-        "fecha": "2026-08-17T16:29:34+00:00",
+        "titulo": "Las llegadas irregulares de inmigrantes a Ceuta se disparan un 191% respecto a 2025",
+        "enlace": "https://theobjective.com/espana/2026-08-17/llegadas-irregulares-inmigrantes-ceuta-2025/",
+        "desc": "Las llegadas irregulares de inmigrantes a Ceuta por vía terrestre han aumentado un 191,1% en lo que va de año con respecto al mismo periodo de [&#8230;]",
+        "fecha": "2026-08-17T17:14:41+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Una persona herida tras ser atropellada por un tren en la estación de ferrocarriles de Llamaquique (Oviedo)",
         "enlace": "https://www.elconfidencial.com/espana/2026-08-17/arrollado-tren-llamaquique-oviedo-1tna-1tps_4407312/",
         "desc": "Una persona fue arrollada en un paso no autorizado en Llamaquique a las 15:05, causando suspensión inicial del servicio y demoras en varios trenes",
-        "fecha": "2026-08-17T16:32:11.592564+00:00",
+        "fecha": "2026-08-17T17:29:56.499095+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Hayden Panettiere podría haber muerto de «sobredosis» y según la policía no hay «indicios de violencia»",
-        "enlace": "https://okdiario.com/cool/television/hayden-panettiere-podria-haber-muerto-sobredosis-segun-policia-no-hay-indicios-violencia-19550128",
-        "desc": "Hollywood sigue en estado de shock después de conocerse la muerte de la actriz Hayden Panettiere a los 36 años de edad. Aunque de momento no hay nada oficial, varios medios de comu…",
-        "fecha": "2026-08-17T18:29:11+02:00",
+        "titulo": "Irán desafía los límites espaciales y compra el satélite chino TEE-01B situado a 500 km con capacidad de resolución de 2m en modo multiespectral",
+        "enlace": "https://okdiario.com/internacional/iran-desafia-limites-espaciales-compra-satelite-chino-tee-01b-situado-500-km-capacidad-resolucion-2m-modo-multiespectral-16616285",
+        "desc": "Irán ha dado un paso muy significativo en su estrategia militar al adquirir el satélite chino TEE-01B, una herramienta de observación terrestre con una gran capacidad de precisión.…",
+        "fecha": "2026-08-17T19:21:39+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -52,10 +52,10 @@
         "fuente": "El Español"
       },
       {
-        "titulo": "La Junta señala al Gobierno por la «alarma social» generada ante los últimos tiroteos en Andalucía",
-        "enlace": "https://www.abc.es/espana/andalucia/carolina-espana-senala-gobierno-alarma-social-generada-20260817180457-nts.html",
-        "desc": "La vicepresidenta tercera de la Junta de Andalucía y consejera de Economía, Hacienda y Fondos Europeos, Carolina España , ha pedido al Gobierno central «más medios policiales y med…",
-        "fecha": "2026-08-17T18:20:06+02:00",
+        "titulo": "La Junta financia 22 proyectos de investigación científica dirigidos a jóvenes con más de 900.000 euros",
+        "enlace": "https://www.abc.es/espana/castilla-la-mancha/junta-financia-proyectos-investigacion-cientifica-dirigidos-jovenes-20260817191638-nt.html",
+        "desc": "El Gobierno de Castilla-La Mancha está financiando actualmente un total de 22 proyectos de investigación científica que están dirigidos a jóvenes por un importe de más de 900.000 e…",
+        "fecha": "2026-08-17T19:16:39+02:00",
         "fuente": "ABC"
       },
       {
@@ -75,10 +75,10 @@
     ],
     "nacional_us": [
       {
-        "titulo": "ICE Boston arrests Brazilian illegal alien wanted for murder days before Gov Healy signed Protect Act",
-        "enlace": "https://www.foxnews.com/us/ice-boston-arrests-brazilian-illegal-alien-wanted-murder-days-before-gov-healy-signed-protect-act",
-        "desc": "ICE arrested a Brazilian fugitive convicted of aggravated murder at a Massachusetts courthouse just days before Gov. Maura Healey signed the PROTECT Act.",
-        "fecha": "2026-08-17T12:15:55-04:00",
+        "titulo": "American tourist killed by lightning while hiking Sicily's Mount Etna",
+        "enlace": "https://www.foxnews.com/us/american-tourist-killed-lightning-hiking-sicilys-mount-etna",
+        "desc": "A 29-year-old Kansas tourist was killed by a lightning strike while hiking Sicily&apos;s Mount Etna, Europe&apos;s largest volcano, in an exposed area Sunday.",
+        "fecha": "2026-08-17T13:09:18-04:00",
         "fuente": "Fox News"
       },
       {
@@ -89,10 +89,10 @@
         "fuente": "NPR"
       },
       {
-        "titulo": "Texas dad faces murder charge after estranged wife found dead at suburban home: Police",
-        "enlace": "https://www.foxnews.com/us/texas-dad-faces-murder-charge-estranged-wife-found-dead-suburban-home-police",
-        "desc": "Jake Bigoni allegedly killed his estranged wife Eliana during a custody exchange in Plano, Texas, while their two young children were inside the apartment.",
-        "fecha": "2026-08-17T11:55:54-04:00",
+        "titulo": "Repeat offender with 7 prior convictions arrested 3 times in 12 days over alleged attacks on women",
+        "enlace": "https://www.foxnews.com/us/repeat-offender-7-prior-convictions-arrested-3-times-12-days-alleged-attacks-women",
+        "desc": "Jeff Asare faces a first-degree rape charge after three arrests in less than two weeks involving allegations of sexual assault in Oklahoma City.",
+        "fecha": "2026-08-17T13:03:31-04:00",
         "fuente": "Fox News"
       },
       {
@@ -106,57 +106,36 @@
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Bob Dylan, 85 años: \"Una persona tiene éxito si se levanta por la mañana y se acuesta por la noche y entre medias hace lo que le gusta\"",
-        "enlace": "https://www.clarin.com/internacional/bob-dylan-85-anos-persona-exito-levanta-manana-acuesta-noche-medias-hace-gusta_0_nT59xlaMRC.html",
-        "desc": "El músico es una de las figuras más influyentes de la historia de la música.",
-        "fecha": "2026-08-17T16:13:14+00:00",
+        "titulo": "Donald Trump ordena instalar carteles frente al Smithsonian para advertir sobre “información inexacta” en sus exhibiciones",
+        "enlace": "https://www.clarin.com/estados-unidos/donald-trump-ordena-instalar-carteles-frente-smithsonian-advertir-informacion-inexacta-exhibiciones_0_88Q0uMLWxk.html",
+        "desc": "El presidente continúa su ofensiva contra las instituciones culturales. Afirma que el museo ha sido capturado por una “ideología radical y activista”.",
+        "fecha": "2026-08-17T17:05:42+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "El récord Guinness de Michael Kearney: el niño genio que se graduó de la universidad a los 10 años y ganó un millón de dólares",
-        "enlace": "https://www.lanacion.com.ar/lifestyle/el-record-guinness-de-michael-kearney-el-nino-genio-que-se-graduo-de-la-universidad-a-los-10-anos-y-nid17082026/",
-        "desc": "Descubre el récord Guinness de Michael Kearney, quien se graduó a los 10 años y más tarde ganó US$1 millón en el concurso Gold Rush.",
-        "fecha": "2026-08-17T16:28:45+00:00",
+        "titulo": "“Reunión de mundos”: comienza el Festival de Poesía en el Centro",
+        "enlace": "https://www.lanacion.com.ar/cultura/reunion-de-mundos-comienza-el-festival-de-poesia-en-el-centro-nid17082026/",
+        "desc": "La XVI edición encuentra en el Centro Cultural de la Cooperación a poetas nacionales con invitados de México, España, Italia y Chile",
+        "fecha": "2026-08-17T17:22:48+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Después de 34 días de cierre, mañana abren solo para camiones el paso Cristo Redentor hacia Chile",
-        "enlace": "https://www.clarin.com/sociedad/despues-34-dias-cierre-manana-abren-solo-camiones-paso-cristo-redentor-chile_0_LS3DaoNJws.html",
-        "desc": "Son cerca de 5.000 camiones los que aguardan cerca de la frontera. Las restricciones y cómo será la circulación.",
-        "fecha": "2026-08-17T16:13:03+00:00",
+        "titulo": "La psicología dice que los niños de las décadas de 1960 y 1970 no se volvieron emocionalmente fuertes gracias a una mejor crianza, sino porque crecieron con suficiente abandono diario como para aprend…",
+        "enlace": "https://www.clarin.com/estados-unidos/psicologia-dice-ninos-decadas-1960-1970-volvieron-emocionalmente-fuertes-gracias-mejor-crianza-crecieron-suficiente-abandono-diario-aprender-autorregularse-resolver-problemas-mismos-desarrollar-resiliencia-comodidades-modernas-dificultan_0_QgGsQCAnan.html",
+        "desc": "La psicología afirma que los niños de los años 60 y 70 no se volvieron fuertes por una mejor crianza, sino que aprendieron a gestionar sus propias emociones.",
+        "fecha": "2026-08-17T17:03:14+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "¿Por qué Buenos Aires está tan nublada? El fenómeno climático detrás y el pronóstico para los próximos días",
-        "enlace": "https://www.lanacion.com.ar/sociedad/por-que-buenos-aires-esta-tan-nublada-el-fenomeno-climatico-detras-y-el-pronostico-para-los-proximos-nid17082026/",
-        "desc": "El fenómeno “Súper El Niño” ya se encuentra en fase activa en la Argentina y el SMN prevé una mayor probabilidad de precipitaciones en el AMBA durante los próximos meses",
-        "fecha": "2026-08-17T16:19:16+00:00",
+        "titulo": "Resultado de Las Leonas vs. Alemania: quién ganó el partido del Mundial 2026",
+        "enlace": "https://www.lanacion.com.ar/deportes/hockey/resultado-de-las-leonas-vs-alemania-quien-gano-el-partido-del-mundial-2026-nid17082026/",
+        "desc": "La selección argentina disputó su segundo partido en el certamen en el Belfius Hockey Arena de Amstelveen",
+        "fecha": "2026-08-17T17:20:30+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
-      {
-        "titulo": "EN DIRECT, guerre en Ukraine : Lev Shlossberg, vice-président du seul parti antiguerre en Russie, a été condamné à onze ans de prison pour « discrédit de l’armée »",
-        "enlace": "https://www.lemonde.fr/international/live/2026/08/17/en-direct-guerre-en-ukraine-lev-shlossberg-vice-president-du-seul-parti-antiguerre-en-russie-a-ete-condamne-a-onze-ans-de-prison-pour-discredit-de-l-armee_6746952_3210.html",
-        "desc": "La justice reproche à cet homme de 63 ans le partage d’un message du média Echo de Moscou montrant la une du tabloïd britannique « Daily Mirror » avec le portrait de Vladimir Pouti…",
-        "fecha": "2026-08-17T18:03:07+02:00",
-        "fuente": "Le Monde"
-      },
-      {
-        "titulo": "«Tout le monde lui faisait confiance aveuglément» : un ancien prêtre parisien mis en examen pour viols sur mineur",
-        "enlace": "https://www.lefigaro.fr/faits-divers/tout-le-monde-lui-faisait-confiance-aveuglement-un-ancien-pretre-parisien-mis-en-examen-pour-viols-sur-mineur-20260817",
-        "desc": "INFO LE FIGARO - Âgé de 81 ans, Francis B. est accusé d’abus sexuels sur des mineurs, notamment lors de camps de louveteaux ou à l’occasion des journées mondiales de la jeunesse. U…",
-        "fecha": "2026-08-17T17:21:46+02:00",
-        "fuente": "Le Figaro"
-      },
-      {
-        "titulo": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti antiguerre",
-        "enlace": "https://www.france24.com/fr/europe/20260817-russie-vague-d-arrestations-lors-d-un-rassemblement-de-soutien-%C3%A0-un-parti-antiguerre",
-        "desc": "Des dizaines de personnes ont été arrêtées lundi à Moscou en marge d'un rassemblement de soutien au seul parti antiguerre de Russie, Iabloko, exclu des prochaines législatives. Dan…",
-        "fecha": "2026-08-17T16:04:27+00:00",
-        "fuente": "France 24"
-      },
       {
         "titulo": "Incendies en Gironde et dans les Landes : ce qu’il faut retenir des annonces de Sébastien Lecornu",
         "enlace": "https://www.lemonde.fr/politique/article/2026/08/17/ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-apres-les-feux-en-gironde-et-dans-les-landes_6748221_823448.html",
@@ -165,47 +144,68 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Piratage du fisc : les cybercriminels affirment avoir vendu les données dérobées",
-        "enlace": "https://www.lefigaro.fr/secteur/high-tech/piratage-du-fisc-les-cybercriminels-affirment-avoir-vendu-les-donnees-derobees-20260817",
-        "desc": "ZeroBytes, les pirates derrière le vol de données de dizaines de milliers de contribuables, assurent que les informations dérobées ont été acquises par «deux personnes» pour une so…",
-        "fecha": "2026-08-17T16:02:03+02:00",
+        "titulo": "Présidentielle 2027 : Gérald Darmanin apporte son soutien à Édouard Philippe",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielles-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-20260817",
+        "desc": "Le ministre de la Justice dit renoncer à se présenter devant les Français lors de la prochaine élection et ne souhaite pas «rajouter de la division», dans un entretien publié lundi…",
+        "fecha": "2026-08-17T18:48:28+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Incendies : Lecornu annonce un plan d'aide qui pourrait dépasser 100 millions d'euros",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260817-incendies-lecornu-annonce-un-plan-d-aide-qui-pourrait-d%C3%A9passer-100-millions-d-euros",
-        "desc": "Après les mégafeux qui ont ravagé la Gironde et les Landes, Sébastien Lecornu promet de sortir \"l’artillerie lourde\". Le Premier ministre français a annoncé un plan d’aide qui pour…",
-        "fecha": "2026-08-17T15:50:22+00:00",
+        "titulo": "À Ceuta, des migrants bloqués aux portes de l'Europe attendent de connaître leur sort",
+        "enlace": "https://www.france24.com/fr/europe/20260817-ceuta-enclave-espagne-le-sort-des-migrants-suspendu-porte-europe-immigration-fronti%C3%A8re-maroc",
+        "desc": "L'enclave espagnole située en Afrique du Nord a vu, fin juillet, des milliers de migrants arriver sur son territoire. Certains d'entre eux se sont installés sur la plage El Trampol…",
+        "fecha": "2026-08-17T17:15:16+00:00",
+        "fuente": "France 24"
+      },
+      {
+        "titulo": "« Toute la région s’est retrouvée éclairée par les flammes » : les habitants du sud du Liban vivent dans la peur des frappes israéliennes et des incendies qu’elles provoquent",
+        "enlace": "https://www.lemonde.fr/international/article/2026/08/17/dans-le-sud-du-liban-la-peur-des-incendies-causes-par-des-frappes-israeliennes_6748396_3210.html",
+        "desc": "Dans la zone sous contrôle israélien, les pompiers libanais ont besoin d’une autorisation pour intervenir. Dans les villages encore habités, les résidents se sentent isolés et crai…",
+        "fecha": "2026-08-17T17:30:04+02:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "Pour la ministre de la Transition écologique, Jean-Luc Mélenchon est «celui qui intègre le plus la question du climat dans ses propositions»",
+        "enlace": "https://www.lefigaro.fr/politique/pour-la-ministre-de-la-transition-ecologique-jean-luc-melenchon-est-celui-qui-integre-le-plus-la-question-du-climat-dans-ses-propositions-20260817",
+        "desc": "Dans une grande interview accordée à Libération dimanche 16 août, Monique Barbut estime que Jean-Luc Mélenchon, «qui n’est pourtant pas ma tasse de thé», est le meilleur candidat s…",
+        "fecha": "2026-08-17T18:13:53+02:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "La SAPE à l'honneur à la 6e édition de la DRC Fashion Week à Kinshasa",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260817-la-sape-%C3%A0-l-honneur-%C3%A0-la-6e-%C3%A9dition-de-la-drc-fashion-week-%C3%A0-kinshasa",
+        "desc": "La mode congolaise à l’honneur à Kinshasa avec la 6e édition de la DRC Fashion Week. Jeunes créateurs de RDC et du Congo-Brazza y célèbrent notamment la SAPE, mouvement culturel et…",
+        "fecha": "2026-08-17T16:32:53+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Ikkimel veröffentlicht neuen Song »Miss Universe« – mit Anspielung auf ihren Auftritt im »Moma«",
-        "enlace": "https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss",
-        "desc": "»Verstöre sie im Moma, voll auf Ketamin«: Mit dieser Zeile erinnert Rapperin Ikkimel in ihrem neuen Song »Miss Universe« an ihren Auftritt im ZDF-»Morgenmagazin«. Sie hatte dort fü…",
-        "fecha": "2026-08-17T17:53:00+02:00",
+        "titulo": "Marina di Chieuti in Italien: Urne aus Deutschland an italienischem Strand gefunden",
+        "enlace": "https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss",
+        "desc": "Bei einem Spaziergang an der Adriaküste hat eine Urlauberin eine gefüllte Urne entdeckt. Sie kommt aus Deutschland, fraglich ist, wie sie in Marina di Chieuti in Italien landete.",
+        "fecha": "2026-08-17T19:01:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Jason Arday: Cambridge-Kanzler spricht von »rassistischer Hetzjagd« auf Jason Arday",
+        "enlace": "https://www.zeit.de/gesellschaft/2026-08/jason-arday-cambridge-plagiatsvorwuerfe-rassismus-chris-smith",
+        "desc": "Nach dem Tod von Jason Arday hat der Kanzler der Universität Cambridge die öffentliche Kritik an ihm verurteilt. Die Plagiatsvorwürfe müssten geklärt werden, sagt er.",
+        "fecha": "2026-08-17T17:02:56",
+        "fuente": "Die Zeit"
+      },
+      {
+        "titulo": "ESTA: Wie die Einreisegenehmigung für USA-Besucher zur Kostenfalle werden kann",
+        "enlace": "https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss",
+        "desc": "Ein Familienvater blieb auf rund 7500 Euro sitzen, weil seine Versicherung eine verweigerte ESTA-Genehmigung nicht als abgelehntes Visum wertete. Einzelne Versicherer ändern offenb…",
+        "fecha": "2026-08-17T18:44:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Piraterie vor Somalia: Piraten kapern erneut Tanker vor der Küste Somalias",
         "enlace": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-08/piraterie-somalia-schiffe-tanker-ueberfall",
         "desc": "Nach Angaben der britischen Seefahrtsbehörde haben mutmaßlich somalische Piraten einen weiteren Tanker gekapert. Die Besatzung soll sich in Sicherheit befinden.",
-        "fecha": "2026-08-17T16:25:20",
-        "fuente": "Die Zeit"
-      },
-      {
-        "titulo": "Russland: Offenbar deutscher Staatsbürger wegen Spende festgenommen",
-        "enlace": "https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss",
-        "desc": "Grund soll eine Spende in Höhe von neun Euro sein: In Sankt Petersburg ist ein Mann nach Polizeiangaben bereits seit zwei Tagen in Haft. Der 41-Jährige ist wohl Deutscher.",
-        "fecha": "2026-08-17T17:48:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Brombeer-Koalition in Thüringen: Zwei BSW-Abgeordnete wollen Thüringer Koalition nicht mehr mittragen",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-08/brombeer-koalition-thueringen-mario-voigt-cdu-bsw-spd-anke-wirsing-sven-kuentzel",
-        "desc": "Entgegen des Beschlusses ihrer Fraktion entziehen zwei BSW-Abgeordnete Thüringens Ministerpräsident Voigt das Vertrauen. Die Zukunft der Koalition ist unklar.",
-        "fecha": "2026-08-17T16:22:44",
+        "fecha": "2026-08-17T16:39:07",
         "fuente": "Die Zeit"
       }
     ],
@@ -227,9 +227,9 @@
     ],
     "nacional_gb": [
       {
-        "titulo": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+        "titulo": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
         "enlace": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "desc": "The US and Oman have been negotiating separately to reopen the Strait of Hormuz, a waterway that has been closed during the war with Iran.",
+        "desc": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
         "fecha": "2026-08-17T16:26:34+00:00",
         "fuente": "BBC"
       },
@@ -264,10 +264,10 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Trânsito condicionado na A2 no sentido Algarve-Lisboa",
-        "enlace": "https://observador.pt/2026/08/17/transito-condicionado-na-a2-em-alcacer-do-sal-por-reparacao-urgente-de-junta-de-dilatacao-no-sentido-algarve-lisboa/",
-        "desc": "A A2 é a principal via de ligação entre Lisboa e o Algarve, muito utilizada durante os meses de férias no verão",
-        "fecha": "2026-08-17T17:30:08+01:00",
+        "titulo": "As notícias das 18h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2123/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-17T18:27:18+01:00",
         "fuente": "Observador"
       },
       {
@@ -278,14 +278,28 @@
         "fuente": "Público"
       },
       {
-        "titulo": "As notícias das 17h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2270/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-17T17:23:44+01:00",
+        "titulo": "Pres. CM Albufeira: \"Casas só para uma etnia? Comigo não!\"",
+        "enlace": "https://observador.pt/programas/resposta-pronta/pres-cm-albufeira-casas-so-para-uma-etnia-comigo-nao/",
+        "desc": "Autarca (CH) é acusado pelo MP de discriminação e incitamento ao ódio. Rui Cristina diz que não cometeu \"qualquer crime\" e reitera que habitação municipal será \"para todos\" e não \"…",
+        "fecha": "2026-08-17T18:01:36+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
+      {
+        "titulo": "Segurança é destaque em debates para governos estaduais, diz Quaest",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/seguranca-e-destaque-em-debates-para-governos-estaduais-diz-quaest.shtml",
+        "desc": "O tema da segurança pública foi o mais discutido pelos candidatos aos governos estaduais nos debates eleitorais promovidos pela TV Bandeirantes . O levantamento foi feito pela Quae…",
+        "fecha": "2026-08-17T13:37:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Mulher é presa em flagrante após ser filmada sacudindo cachorro em condomínio no Recreio; vídeo",
+        "enlace": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/mulher-e-presa-maus-tratos.ghtml",
+        "desc": "Mulher é presa após ser filmada sacudindo chihuaua no Recreio dos Bandeirantes Uma mulher foi presa em flagrante neste domingo (16) após ser filmada sacudindo um chihuaua dentro em…",
+        "fecha": "2026-08-17T17:24:38",
+        "fuente": "G1 Globo"
+      },
       {
         "titulo": "Dino afasta sobrinho do governador do Maranhão da presidência do TCE",
         "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/dino-afasta-sobrinho-do-governador-do-maranhao-da-presidencia-do-tce.shtml",
@@ -294,24 +308,10 @@
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Carro desgovernado atinge feira e atropela feirantes em Belém",
-        "enlace": "https://g1.globo.com/pa/para/noticia/2026/08/17/carro-atinge-feira-e-atropela-feirantes-em-belem.ghtml",
-        "desc": "Motorista perde controle e atropela dois idosos em Belém Um casal foi atropelado nesta segunda-feira (17) em uma feira provisória na Avenida Conselheiro Furtado, no bairro do Guamá…",
-        "fecha": "2026-08-17T16:24:19",
-        "fuente": "G1 Globo"
-      },
-      {
-        "titulo": "Tebet e Salles têm os maiores patrimônios entre os candidatos ao Senado por SP",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/tebet-e-salles-tem-os-maiores-patrimonios-entre-os-candidatos-ao-senado-por-sp.shtml",
-        "desc": "Entre os candidatos ao Senado por São Paulo que declararam bens para a eleição de 2026, Simone Tebet (PSB) aparece com o maior patrimônio, declarando R$ 10,60 milhões, seguida por …",
-        "fecha": "2026-08-17T11:52:00-03:00",
-        "fuente": "Folha SP"
-      },
-      {
-        "titulo": "Caso Lucas Lopes: advogado foi morto em intervalo de 3 minutos, diz polícia",
-        "enlace": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/caso-lucas-lopes-advogado-foi-morto-em-intervalo-de-3-minutos-diz-policia.ghtml",
-        "desc": "Suspeito de envolvimento em morte de advogado é preso pela Polícia Civil em Mogi Mirim O advogado Lucas Silva Lopes, de 30 anos, foi morto em um intervalo de cerca de três minutos,…",
-        "fecha": "2026-08-17T16:24:17",
+        "titulo": "Arraial do Cabo abre processo seletivo na área da Saúde",
+        "enlace": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/17/arraial-do-cabo-abre-processo-seletivo-na-area-da-saude.ghtml",
+        "desc": "Arraial do Cabo abre processo seletivo na área da Saúde Divulgação A Prefeitura de Arraial do Cabo, na Região dos Lagos do Rio, abriu nesta segunda-feira (17) as inscrições para pr…",
+        "fecha": "2026-08-17T17:23:23",
         "fuente": "G1 Globo"
       }
     ],
@@ -340,17 +340,17 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Astronautas, gobernadores y socialistas: la carrera en la sombra de los Demócratas hacia 2028",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/16/6a79d45c21efa04d1f8b456d.html",
-        "desc": "El país ya mira en clave presidencial, pese a que las importantísimas 'midterm' son en noviembre. Los rivales del 'trumpismo' empiezan a asomar la cabeza&nbsp; Leer",
-        "fecha": "2026-08-17T11:14:01+02:00",
+        "titulo": "La conquista híbrida de Groenlandia ya está en marcha",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/17/6a7f27b3fc6c83ea428b45a9.html",
+        "desc": "Estados Unidos refuerza su influencia en la isla mediante inversiones, diplomacia, presencia militar e iniciativas tecnobillonarias para convertirla en \"un proyecto transatlántico\"…",
+        "fecha": "2026-08-17T01:03:37+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Polonia estrena una estatua de la Virgen María de 55 metros: es la más alta de Europa y supera al Cristo Redentor de Río de Janeiro",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-17/polonia-estrena-estatua-virgen-maria-55-metros-mas-alta-europa-1qrt_4407318/",
         "desc": "Un magnate polaco financia una colosal estatua mariana de 55,6 metros en la pequeña aldea polaca de Konotopie. El monumento supera al Cristo Redentor y busca reactivar el turismo r…",
-        "fecha": "2026-08-17T16:32:37.639678+00:00",
+        "fecha": "2026-08-17T17:30:27.692320+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -361,21 +361,21 @@
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "La Policía investiga la muerte de Hayden Panettiere ante las sospechas de una sobredosis",
-        "enlace": "http://es.euronews.com/2026/08/17/policia-investiga-muerte-hayden-panettiere-sospechas-sobredosis",
-        "desc": "La actriz Hayden Panettiere ha muerto a los 36 años y la prensa estadounidense especula sobre las causas. La revista 'People' señala que se habló de sobredosis en un audio de emerg…",
-        "fecha": "2026-08-17T18:21:49+02:00",
+        "titulo": "Un festival de Tokio convierte las calles en una gran batalla de agua",
+        "enlace": "http://es.euronews.com/video/2026/08/17/un-festival-de-tokio-convierte-las-calles-en-una-gran-batalla-de-agua",
+        "desc": "Las multitudes empapan a los portadores de mikoshi con cubos, mangueras y pistolas de agua durante el festival trienal Fukagawa Hachiman Matsuri de Tokio, el 16 de agosto de 2026.",
+        "fecha": "2026-08-17T18:39:36+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Trump amenaza con bombardear a Omán, aliado de Estados Unidos, si \"se interpone\" en el asunto de Irán",
+        "titulo": "Trump amenaza con bombardear Omán, aliado de Estados Unidos, si \"se interpone\" en el acuerdo con Irán",
         "enlace": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "desc": "Estados Unidos y Omán han estado negociando por separado la reapertura del Estrecho de Ormuz, una vía fluvial que estuvo cerrada durante la guerra con Irán.",
+        "desc": "La amenaza de Trump contra Omán, que ha estado manteniendo sus propias conversaciones con Irán para reabrir el Estrecho de Ormuz, se produce cuando expira una ventana de 60 días para las negociaciones de paz.",
         "fecha": "2026-08-17T16:26:34+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Russian state economist fired after stark warning about Moscow’s economic future",
+        "titulo": "Economista estatal ruso despedido tras dura advertencia sobre el futuro económico de Moscú",
         "enlace": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
         "desc": "VEB.RF, el banco estatal ruso de desarrollo, el economista Andrei Klepach advirtió que Rusia está perdiendo la guerra de desgaste antes de su despido, mientras la Unión Europea prepara amplias sanciones.",
         "fecha": "2026-08-17T11:43:35-04:00",
@@ -389,25 +389,25 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Marruecos nos necesita",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/16/6a819d1221efa015388b45ad.html",
-        "desc": "Ni la seducción ni la excitación nacionalista servirán a Rabat para colmar sus aspiraciones territoriales sobre Ceuta y Melilla&nbsp; Leer",
-        "fecha": "2026-08-16T22:47:34+02:00",
+        "titulo": "Astronautas, gobernadores y socialistas: la carrera en la sombra de los Demócratas hacia 2028",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/16/6a79d45c21efa04d1f8b456d.html",
+        "desc": "El país ya mira en clave presidencial, pese a que las importantísimas 'midterm' son en noviembre. Los rivales del 'trumpismo' empiezan a asomar la cabeza&nbsp; Leer",
+        "fecha": "2026-08-17T11:14:01+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Sin agua y a 40 grados: el calor extremo asfixia a las vacas en Italia y pone en riesgo la producción del Parmigiano Reggiano",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-17/sin-agua-calor-extremo-asfixia-vacas-italia-riesgo-futuro-queso-parmesano_4407239/",
         "desc": "El aumento desbocado de las temperaturas estrangula la lucrativa industria del Parmigiano Reggiano en Italia, obligando a los ganaderos a multiplicar sus inversiones en refrigeraci…",
-        "fecha": "2026-08-17T16:32:37.639721+00:00",
+        "fecha": "2026-08-17T17:30:27.692364+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+        "titulo": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
         "enlace": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "desc": "The US and Oman have been negotiating separately to reopen the Strait of Hormuz, a waterway that has been closed during the war with Iran.",
+        "desc": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
         "fecha": "2026-08-17T16:26:34+00:00",
         "fuente": "BBC World"
       },
@@ -426,38 +426,38 @@
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Details of Lindsay Clancy’s parents’ sacrifice revealed as GoFundMe raises whopping $800K",
-        "enlace": "https://nypost.com/2026/08/17/us-news/lindsay-clancys-parents-sacrifice-revealed-as-gofundme-raises-whopping-800k/",
-        "desc": "A crowdsourcing fund with a $2 million goal was set up for Clancy's parents, Michael and Paula Musgrove, last week.",
-        "fecha": "2026-08-17T09:32:23-07:00",
+        "titulo": "America’s second richest woman Julia Koch is building a Hamptons family compound, working on multi-million dollar renovations",
+        "enlace": "https://pagesix.com/2026/08/17/society/julia-koch-is-building-a-hamptons-family-compound/",
+        "desc": "She quietly scooped up another plot on Meadow Lane for $33.5 million in the past year, we hear.",
+        "fecha": "2026-08-17T13:29:34-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Germany: Bundeswehr troop numbers reach 13-year high",
-        "enlace": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-rdf",
-        "desc": "Germany's Defense Ministry is reporting a comparatively rare success story in its bid to bolster troop numbers. At the end of July, the total stood at around 186,700, roughly 3,700…",
-        "fecha": "2026-08-17T16:32:42.135377+00:00",
+        "titulo": "Russia: Prison for opposition leader over war criticism",
+        "enlace": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-all-1573-rdf",
+        "desc": "Lev Shlosberg of the Yabloko party has been sentenced to over 11 years in a penal colony for criticizing the war in Ukraine. \"A single person is imprisoned, yet fear seeps into the…",
+        "fecha": "2026-08-17T17:30:33.053869+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Latest news bulletin | August 17th, 2026 – Evening",
-        "enlace": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-evening",
-        "desc": "Catch up with the most important stories from around Europe and beyond this August 17th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Trave…",
-        "fecha": "2026-08-17T18:00:29+02:00",
+        "titulo": "Tokyo festival turns streets into a giant water fight",
+        "enlace": "http://www.euronews.com/video/2026/08/17/tokyo-festival-turns-streets-into-a-giant-water-fight",
+        "desc": "Crowds drench mikoshi bearers with buckets, hoses and water pistols during Tokyo's triennial Fukagawa Hachiman Matsuri on 16 August 2026.",
+        "fecha": "2026-08-17T18:39:36+02:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "US stocks hang near their record heights",
-        "enlace": "https://www.oann.com/business/us-stocks-hang-near-their-record-heights/",
-        "desc": "Stocks are drifting near their record heights on Monday, ahead of a week where profit reports from the nation’s biggest retailers could hint at how shoppers are dealing with high i…",
-        "fecha": "2026-08-17T16:25:48+00:00",
+        "titulo": "Mich.: ‘Hero’ 13-year-old shot 4 times called 911 during deadly rampage",
+        "enlace": "https://www.oann.com/newsroom/mich-hero-13-year-old-shot-4-times-called-911-during-deadly-rampage/",
+        "desc": "After surviving being shot four times, a 13-year-old girl, the sole survivor of a shooting spree in rural Michigan, managed to reach her phone and dial 911, local police reported.",
+        "fecha": "2026-08-17T17:25:12+00:00",
         "fuente": "OAN"
       },
       {
-        "titulo": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "enlace": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "fecha": "2026-08-17T06:24:31+00:00",
+        "titulo": "Russia and Ukraine trade more deadly strikes",
+        "enlace": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "desc": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "fecha": "2026-08-17T13:16:50+00:00",
         "fuente": "BBC World"
       },
       {
@@ -477,17 +477,17 @@
     ],
     "internacional_fr": [
       {
-        "titulo": "« Je ne sais pas où je vais finir » : les combattants africains de Moscou pris au piège en Ukraine",
-        "enlace": "https://www.lefigaro.fr/international/je-ne-sais-pas-ou-je-vais-finir-les-combattants-africains-de-moscou-pris-au-piege-en-ukraine-20260817",
-        "desc": "REPORTAGE - Ni réclamés par la Russie ni soutenus par leur pays d’origine, ces prisonniers de guerre redoutent de tomber dans l’oubli.",
-        "fecha": "2026-08-17T18:15:54+02:00",
+        "titulo": "Jared Kushner tente de faire avancer le « plan Trump » pour Gaza",
+        "enlace": "https://www.lefigaro.fr/international/jared-kushner-tente-de-faire-avancer-le-plan-trump-pour-gaza-20260817",
+        "desc": "DÉCRYPTAGE - L’envoyé spécial des États-Unis pour la paix et gendre du président américain a rencontré dimanche en Égypte le nouveau chef du Hamas, Khalil al-Hayya.",
+        "fecha": "2026-08-17T18:59:19+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti antiguerre",
-        "enlace": "https://www.france24.com/fr/europe/20260817-russie-vague-d-arrestations-lors-d-un-rassemblement-de-soutien-%C3%A0-un-parti-antiguerre",
-        "desc": "Des dizaines de personnes ont été arrêtées lundi à Moscou en marge d'un rassemblement de soutien au seul parti antiguerre de Russie, Iabloko, exclu des prochaines législatives. Dan…",
-        "fecha": "2026-08-17T16:04:27+00:00",
+        "titulo": "À Ceuta, des migrants bloqués aux portes de l'Europe attendent de connaître leur sort",
+        "enlace": "https://www.france24.com/fr/europe/20260817-ceuta-enclave-espagne-le-sort-des-migrants-suspendu-porte-europe-immigration-fronti%C3%A8re-maroc",
+        "desc": "L'enclave espagnole située en Afrique du Nord a vu, fin juillet, des milliers de migrants arriver sur son territoire. Certains d'entre eux se sont installés sur la plage El Trampol…",
+        "fecha": "2026-08-17T17:15:16+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -498,31 +498,31 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 17 août 2026 - Soir",
-        "enlace": "http://fr.euronews.com/video/2026/08/17/linfo-du-jour-17-aout-2026-soir",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divert…",
-        "fecha": "2026-08-17T18:00:19+02:00",
+        "titulo": "À Tokyo, un festival transforme les rues en gigantesque bataille d'eau",
+        "enlace": "http://fr.euronews.com/video/2026/08/17/a-tokyo-un-festival-transforme-les-rues-en-gigantesque-bataille-deau",
+        "desc": "Tokyo : la foule arrose les porteurs de mikoshi à grands seaux, tuyaux et pistolets à eau lors du Fukagawa Hachiman Matsuri, le 16 août 2026",
+        "fecha": "2026-08-17T18:39:36+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Trump menace de bombarder Oman, l'allié des États-Unis, s'il \"gêne\" sur la question iranienne",
+        "titulo": "Trump menace de bombarder Oman, l’allié des États-Unis, s’il « fait obstacle » à l’accord avec l’Iran",
         "enlace": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "desc": "Les États-Unis et Oman négocient séparément la réouverture du détroit d’Ormuz, une voie navigable fermée pendant la guerre avec l’Iran.",
+        "desc": "La menace de Trump contre Oman, qui mène ses propres négociations avec l'Iran pour rouvrir le détroit d'Ormuz, intervient alors que la fenêtre de 60 jours pour les négociations de paix expire.",
         "fecha": "2026-08-17T16:26:34+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "« Il est honteux qu’un pays en guerre ignore qui dirigera le ministère de la Défense » : à Kiev, Volodymyr Zelensky tente de sortir de la crise politique",
-        "enlace": "https://www.lefigaro.fr/international/il-est-honteux-qu-un-pays-en-guerre-ignore-qui-dirigera-le-ministere-de-la-defense-a-kiev-volodymyr-zelensky-tente-de-sortir-de-la-crise-politique-20260817",
-        "desc": "DÉCRYPTAGE - Le chef de l’État doit proposer cette semaine au Parlement le nom d’un nouveau ministre de la Défense, tandis que la Russie poursuit ses frappes quotidiennes de missil…",
-        "fecha": "2026-08-17T17:00:00+02:00",
+        "titulo": "Les combattants africains de Poutine pris au piège en Ukraine : le récit de l’envoyée spéciale du Figaro",
+        "enlace": "https://www.lefigaro.fr/international/je-ne-sais-pas-ou-je-vais-finir-les-combattants-africains-de-moscou-pris-au-piege-en-ukraine-20260817",
+        "desc": "REPORTAGE - Ni réclamés par la Russie ni soutenus par leur pays d’origine, ces prisonniers de guerre redoutent de tomber dans l’oubli.",
+        "fecha": "2026-08-17T19:19:53+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Incendies : Lecornu annonce un plan d'aide qui pourrait dépasser 100 millions d'euros",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260817-incendies-lecornu-annonce-un-plan-d-aide-qui-pourrait-d%C3%A9passer-100-millions-d-euros",
-        "desc": "Après les mégafeux qui ont ravagé la Gironde et les Landes, Sébastien Lecornu promet de sortir \"l’artillerie lourde\". Le Premier ministre français a annoncé un plan d’aide qui pour…",
-        "fecha": "2026-08-17T15:50:22+00:00",
+        "titulo": "La SAPE à l'honneur à la 6e édition de la DRC Fashion Week à Kinshasa",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260817-la-sape-%C3%A0-l-honneur-%C3%A0-la-6e-%C3%A9dition-de-la-drc-fashion-week-%C3%A0-kinshasa",
+        "desc": "La mode congolaise à l’honneur à Kinshasa avec la 6e édition de la DRC Fashion Week. Jeunes créateurs de RDC et du Congo-Brazza y célèbrent notamment la SAPE, mouvement culturel et…",
+        "fecha": "2026-08-17T16:32:53+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -533,75 +533,75 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "7 200 œufs cassés pour une omelette géante lors d'un festival en Belgique",
-        "enlace": "http://fr.euronews.com/video/2026/08/17/7-200-oeufs-casses-pour-une-omelette-geante-lors-dun-festival-en-belgique",
-        "desc": "Malmedy : des bénévoles cuisent une omelette de 7 200 œufs dans une poêle de quatre mètres au festival de la Géante Omelette",
-        "fecha": "2026-08-17T17:40:39+02:00",
+        "titulo": "L’info du jour | 17 août 2026 - Soir",
+        "enlace": "http://fr.euronews.com/video/2026/08/17/linfo-du-jour-17-aout-2026-soir",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divert…",
+        "fecha": "2026-08-17T18:00:19+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Trump dit que les États-Unis réduiront leurs exercices militaires avec la Corée du Sud après que celle-ci soit restée en dehors de la guerre en Iran",
-        "enlace": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "desc": "Trump cite ses « très bonnes relations » avec le dirigeant nord-coréen pour décider de réduire les exercices.",
-        "fecha": "2026-08-17T06:24:31+00:00",
+        "titulo": "Russia and Ukraine trade more deadly strikes",
+        "enlace": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "desc": "Moscou affirme que neuf personnes ont été tuées au cours des dernières 24 heures, tandis que Kiev fait état de quatre morts.",
+        "fecha": "2026-08-17T13:16:50+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Ikkimel veröffentlicht neuen Song »Miss Universe« – mit Anspielung auf ihren Auftritt im »Moma«",
-        "enlace": "https://www.spiegel.de/kultur/musik/ikkimel-veroeffentlicht-neuen-song-miss-universe-mit-anspielung-auf-ihren-auftritt-im-moma-a-3ddd71b4-5818-415a-a95e-57757f3a4779#ref=rss",
-        "desc": "»Verstöre sie im Moma, voll auf Ketamin«: Mit dieser Zeile erinnert Rapperin Ikkimel in ihrem neuen Song »Miss Universe« an ihren Auftritt im ZDF-»Morgenmagazin«. Sie hatte dort fü…",
-        "fecha": "2026-08-17T17:53:00+02:00",
+        "titulo": "Marina di Chieuti in Italien: Urne aus Deutschland an italienischem Strand gefunden",
+        "enlace": "https://www.spiegel.de/panorama/marina-di-chieuti-in-italien-urne-aus-deutschland-an-italienischem-strand-gefunden-a-5176366c-9500-44b1-b4ae-526fbfa39d82#ref=rss",
+        "desc": "Bei einem Spaziergang an der Adriaküste hat eine Urlauberin eine gefüllte Urne entdeckt. Sie kommt aus Deutschland, fraglich ist, wie sie in Marina di Chieuti in Italien landete.",
+        "fecha": "2026-08-17T19:01:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Ceuta: Minderjährige auf sich allein gestellt",
         "enlace": "https://www.dw.com/de/ceuta-minderjährige-auf-sich-allein-gestellt/a-78397257?maca=de-rss-de-all-1119-rdf",
         "desc": "Mehrere Tausend minderjährige Migranten halten sich weiterhin in der spanischen Exklave Ceuta auf. Viele klagen über Krankheiten und Missbrauch. Spaniens Regierung gibt zu, überfor…",
-        "fecha": "2026-08-17T16:32:44.615418+00:00",
+        "fecha": "2026-08-17T17:30:37.761001+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "7.200 Eier für Riesenomelett beim belgischen Festival aufgeschlagen",
-        "enlace": "http://de.euronews.com/video/2026/08/17/7200-eier-fur-riesenomelett-beim-belgischen-festival-aufgeschlagen",
-        "desc": "Beim Giant Omelette Festival im belgischen Malmedy braten Freiwillige ein Omelett aus 7.200 Eiern. Es gart über offenem Feuer in einer vier Meter großen Pfanne.",
-        "fecha": "2026-08-17T17:40:12+02:00",
+        "titulo": "Tokio-Festival macht Straßen zur riesigen Wasserschlacht",
+        "enlace": "http://de.euronews.com/video/2026/08/17/tokio-festival-macht-strassen-zur-riesigen-wasserschlacht",
+        "desc": "Beim Fukagawa Hachiman Matsuri in Tokio am 16. August 2026 überschütten Besucher die Mikoshi-Träger mit Wasser aus Eimern, Schläuchen und Wasserpistolen.",
+        "fecha": "2026-08-17T18:39:36+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Trump droht, den US-Verbündeten Oman zu bombardieren, wenn dieser in der Iran-Frage „hindert“.",
+        "titulo": "Trump droht, den US-Verbündeten Oman zu bombardieren, wenn dieser dem Iran-Deal „in die Quere kommt“.",
         "enlace": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "desc": "Die USA und Oman verhandeln getrennt über die Wiedereröffnung der Straße von Hormus, einer Wasserstraße, die während des Krieges mit dem Iran gesperrt wurde.",
+        "desc": "Trumps Drohung gegenüber Oman, das eigene Gespräche mit dem Iran über die Wiedereröffnung der Straße von Hormus führt, erfolgt zu einem Zeitpunkt, an dem ein 60-tägiges Zeitfenster für Friedensverhandlungen abläuft.",
         "fecha": "2026-08-17T16:26:34+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Russland: Offenbar deutscher Staatsbürger wegen Spende festgenommen",
-        "enlace": "https://www.spiegel.de/ausland/russland-offenbar-deutscher-staatsbuerger-wegen-spende-festgenommen-a-b669f850-ad80-4152-b24f-a4327b2ad1d7#ref=rss",
-        "desc": "Grund soll eine Spende in Höhe von neun Euro sein: In Sankt Petersburg ist ein Mann nach Polizeiangaben bereits seit zwei Tagen in Haft. Der 41-Jährige ist wohl Deutscher.",
-        "fecha": "2026-08-17T17:48:00+02:00",
+        "titulo": "ESTA: Wie die Einreisegenehmigung für USA-Besucher zur Kostenfalle werden kann",
+        "enlace": "https://www.spiegel.de/politik/esta-wie-die-einreisegenehmigung-fuer-usa-besucher-zur-kostenfalle-werden-kann-a-38fc6c54-94cd-4c3e-b612-ff55ed0fe63e#ref=rss",
+        "desc": "Ein Familienvater blieb auf rund 7500 Euro sitzen, weil seine Versicherung eine verweigerte ESTA-Genehmigung nicht als abgelehntes Visum wertete. Einzelne Versicherer ändern offenb…",
+        "fecha": "2026-08-17T18:44:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Kurilen-Inseln: Japan im Dauerstreit mit Russland",
         "enlace": "https://www.dw.com/de/kurilen-inseln-japan-im-dauerstreit-mit-russland/a-78400801?maca=de-rss-de-all-1119-rdf",
         "desc": "Mit seinem Besuch auf der umstrittenen Insel der Kurilen macht der russische Präsident Putin Wahlkampf. Im September wird das Parlament in Moskau neu gewählt. Er will auch Japans P…",
-        "fecha": "2026-08-17T16:32:44.615461+00:00",
+        "fecha": "2026-08-17T17:30:37.761043+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge",
-        "enlace": "http://de.euronews.com/2026/08/17/trump-oman-bombardierung-usa-iran-hormus",
-        "desc": "Teheran verhandelt seit Längerem mit Oman über eine sichere Route für Handelsschiffe durch die Meerenge, über die ein Viertel des weltweiten Öltransports per Schiff läuft.",
-        "fecha": "2026-08-17T16:05:47+02:00",
+        "titulo": "Hayden Panettiere: Funkmeldung nährt Spekulationen über Todesursache",
+        "enlace": "http://de.euronews.com/2026/08/17/hayden-panettiere-funkmeldung-nahrt-spekulationen-uber-todesursache",
+        "desc": "Schauspielerin Hayden Panettiere ist im Alter von 36 Jahren gestorben. US-Medien rätseln über die Todesursache. Laut „People“ erwähnen Einsatzkräfte im Funk eine mögliche „Überdosi…",
+        "fecha": "2026-08-17T18:25:49+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Trump sagt, dass die USA ihre militärischen Übungen mit Südkorea reduzieren werden, nachdem es sich aus dem Iran-Krieg herausgehalten hat",
-        "enlace": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "desc": "Trump berief sich bei der Entscheidung, die Übungen zu verkleinern, auf sein „sehr gutes Verhältnis“ zum nordkoreanischen Staatschef.",
-        "fecha": "2026-08-17T06:24:31+00:00",
+        "titulo": "Russland und die Ukraine liefern sich weitere tödliche Angriffe",
+        "enlace": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "desc": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "fecha": "2026-08-17T13:16:50+00:00",
         "fuente": "BBC World EN"
       }
     ],
@@ -614,16 +614,9 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Hayden Panettiere, indagine sulle cause della morte: i media USA parlano di overdose",
-        "enlace": "http://it.euronews.com/2026/08/17/hayden-panettiere-indagine-sulle-cause-della-morte-i-media-usa-parlano-di-overdose",
-        "desc": "L'attrice Hayden Panettiere è morta a 36 anni. I media statunitensi ipotizzano le cause del decesso; la rivista People riferisce che nei file audio dei soccorsi i funzionari parlan…",
-        "fecha": "2026-08-17T17:59:19+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "Trump minaccia di bombardare l’alleato americano Oman se “si intromette” sulla questione iraniana",
+        "titulo": "Trump minaccia di bombardare l’alleato americano Oman se “si intromette” nell’accordo con l’Iran",
         "enlace": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "desc": "Gli Stati Uniti e l’Oman stanno negoziando separatamente per riaprire lo Stretto di Hormuz, una via d’acqua che era stata chiusa durante la guerra con l’Iran.",
+        "desc": "La minaccia di Trump all’Oman, che ha avviato colloqui con l’Iran per riaprire lo Stretto di Hormuz, arriva mentre scade una finestra di 60 giorni per i negoziati di pace.",
         "fecha": "2026-08-17T16:26:34+00:00",
         "fuente": "BBC World EN"
       },
@@ -635,33 +628,26 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Belgio, festival della frittata gigante: 7.200 uova per l'omelette",
-        "enlace": "http://it.euronews.com/video/2026/08/17/belgio-festival-della-frittata-gigante-7200-uova-per-lomelette",
-        "desc": "Volontari cucinano una frittata da 7.200 uova in una padella di quattro metri su fuoco vivo durante il Giant Omelette Festival a Malmedy, in Belgio.",
-        "fecha": "2026-08-17T17:40:39+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "Trump dice che gli Stati Uniti ridurranno le esercitazioni militari con la Corea del Sud dopo che è rimasta fuori dalla guerra con l’Iran",
-        "enlace": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "desc": "Trump cita il suo \"ottimo rapporto\" con il leader della Corea del Nord nel decidere di ridimensionare le esercitazioni.",
-        "fecha": "2026-08-17T06:24:31+00:00",
+        "titulo": "Russia and Ukraine trade more deadly strikes",
+        "enlace": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "desc": "Mosca afferma che nove persone sono state uccise nelle ultime 24 ore, mentre Kiev riporta quattro morti.",
+        "fecha": "2026-08-17T13:16:50+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "16h Proteção Civil pede cuidados face a calor e risco de incêndio",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/16h-protecao-civil-pede-cuidados-face-a-calor-e-risco-de-incendio_a1_1759980",
+        "titulo": "17h Proteção Civil pede cuidados extra com temperaturas a subir",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/17h-protecao-civil-pede-cuidados-extra-com-temperaturas-a-subir_a1_1759985",
         "desc": "",
-        "fecha": "2026-08-17T17:55:02+01:00",
+        "fecha": "2026-08-17T18:54:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Trânsito condicionado na A2 no sentido Algarve-Lisboa",
-        "enlace": "https://observador.pt/2026/08/17/transito-condicionado-na-a2-em-alcacer-do-sal-por-reparacao-urgente-de-junta-de-dilatacao-no-sentido-algarve-lisboa/",
-        "desc": "A A2 é a principal via de ligação entre Lisboa e o Algarve, muito utilizada durante os meses de férias no verão",
-        "fecha": "2026-08-17T17:30:08+01:00",
+        "titulo": "As notícias das 18h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2123/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-17T18:27:18+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,17 +658,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Trump ameaça bombardear Omã em caso de interferência no acordo sobre Ormuz",
-        "enlace": "https://www.rtp.pt/noticias/mundo/trump-ameaca-bombardear-oma-em-caso-de-interferencia-no-acordo-sobre-ormuz_n1759978",
-        "desc": "Donald Trump ameaçou atacar o Omã caso o país se oponha a um acordo favorável aos Estados Unidos nas negociações sobre o estreito de Ormuz e o fim da guerra com o Irão.",
-        "fecha": "2026-08-17T17:45:17+01:00",
+        "titulo": "PGR abre inquérito à morte de ciclista na Volta a Portugal",
+        "enlace": "https://www.rtp.pt/noticias/outras-modalidades/pgr-abre-inquerito-a-morte-de-ciclista-na-volta-a-portugal_d1759984",
+        "desc": "A Procuradoria-Geral da República abriu um inquérito à morte do ciclista Finlay Tarling durante a Volta a Portugal.",
+        "fecha": "2026-08-17T18:47:33+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "As notícias das 17h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2270/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-17T17:23:44+01:00",
+        "titulo": "Pres. CM Albufeira: \"Casas só para uma etnia? Comigo não!\"",
+        "enlace": "https://observador.pt/programas/resposta-pronta/pres-cm-albufeira-casas-so-para-uma-etnia-comigo-nao/",
+        "desc": "Autarca (CH) é acusado pelo MP de discriminação e incitamento ao ódio. Rui Cristina diz que não cometeu \"qualquer crime\" e reitera que habitação municipal será \"para todos\" e não \"…",
+        "fecha": "2026-08-17T18:01:36+01:00",
         "fuente": "Observador"
       },
       {
@@ -709,16 +695,16 @@
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Nikola Kalinic anuncia su retirada a los 34 años y formará parte del staff de Ibon Navarro en el Estrella Roja",
-        "enlace": "https://www.gigantes.com/euroliga/kalinic-retirada-baloncesto-35-anos/",
-        "desc": "El serbio jugó en Barça y Valencia Basket en España La entrada Nikola Kalinic anuncia su retirada a los 34 años y formará parte del staff de Ibon Navarro en el Estrella Roja se pub…",
-        "fecha": "2026-08-17T15:51:30+00:00",
+        "titulo": "Tabla de mercado Euroliga: Fichajes, bajas y rumores para la temporada 2026-27",
+        "enlace": "https://www.gigantes.com/euroliga/tabla-mercado-euroliga-fichajes-bajas-rumores-temporada-2026-27/",
+        "desc": "El mercado de la Euroliga 2026/2027 ya está en marcha y en Gigantes del Basket os presentamos, un verano más, toda la información que necesitáis saber de cada uno de... La entrada …",
+        "fecha": "2026-08-17T17:13:39+00:00",
         "fuente": "Gigantes Basket"
       },
       {
         "titulo": "Man City se muda por £ 85 millones a Bouaddi y todavía quiere a Fernández",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-        "desc": "El Manchester City está en conversaciones avanzadas con el Lille sobre el fichaje del centrocampista marroquí Ayyoub Bouaddi.",
+        "desc": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
         "fecha": "2026-08-17T13:50:22+00:00",
         "fuente": "BBC Sport EN"
       },
@@ -730,21 +716,21 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Fiebre de los grandes equipos por Ebrima Tunkara, que solo piensa en el Barça",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216364/fiebre-grandes-equipos-ebrima-tunkara-piensa-barca.html",
-        "desc": "Ebrima Tunkara (16 años), una de las grandes perlas de la Masia y que está completando la pretemporada con el primer equipo. Pese a su juventud, en el club están convencidos de que…",
-        "fecha": "2026-08-17T11:40:45+02:00",
+        "titulo": "Rodri reparte millones a Atlético de Madrid y Villarreal con su llegada al Barcelona",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260817/1004216783/rodri-reparte-millones-atletico-madrid-villarreal-llegada-barcelona.html",
+        "desc": "Una vez que se ha hecho oficial un principio de acuerdo entre el Barcelona y el Manchester City por Rodrigo Hernández (30 años), hay dos clubes que se están frotando las manos porq…",
+        "fecha": "2026-08-17T08:13:15+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Todos los cambios que viviremos en la NBA 2026-27",
-        "enlace": "https://www.gigantes.com/nba/todos-cambios-temporada-2026-27/",
-        "desc": "Traspasos, retiradas, el nuevo draft, partidos internacionales... La entrada Todos los cambios que viviremos en la NBA 2026-27 se publicó primero en Gigantes del Basket .",
-        "fecha": "2026-08-17T12:14:27+00:00",
+        "titulo": "Tabla de mercado de la Liga Endesa: Fichajes, bajas y rumores para la temporada 2026-27",
+        "enlace": "https://www.gigantes.com/liga-endesa/tabla-de-mercado-de-la-liga-endesa-fichajes-bajas-y-rumores-para-la-temporada-2026-27/",
+        "desc": "Fechas de fin de contrato, fichajes, bajas y todos los rumores del mercado de la Liga Endesa 2026/27 La entrada Tabla de mercado de la Liga Endesa: Fichajes, bajas y rumores para l…",
+        "fecha": "2026-08-17T17:12:50+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "La Federación Escocesa retira su apoyo al presidente de la FIFA Infantino",
+        "titulo": "Scottish FA withdraws support for Fifa president Infantino",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
         "desc": "La Asociación Escocesa de Fútbol ha perdido la confianza en Gianni Infantino y no votará por su reelección como presidente de la FIFA, dijo a la BBC el director ejecutivo Ian Maxwell...",
         "fecha": "2026-08-17T12:43:23+00:00",
@@ -792,7 +778,7 @@
       {
         "titulo": "La Fédération écossaise retire son soutien au président de la Fifa, Infantino",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
-        "desc": "La Fédération écossaise de football a perdu confiance en Gianni Infantino et ne votera pas pour sa réélection à la présidence de la Fifa, a déclaré le directeur général Ian Maxwell à la BBC…",
+        "desc": "The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC …",
         "fecha": "2026-08-17T12:43:23+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -802,7 +788,7 @@
         "titulo": "Warum Frauen Ausdauerrekorde der Männer brechen",
         "enlace": "https://www.dw.com/de/warum-frauen-ausdauerrekorde-der-männer-brechen/a-78353439?maca=de-rss-de-sport-4020-rdf",
         "desc": "Sophie Woods durchläuft die 2000 Kilometer lange Via Alpina schneller als die bisherige Männer-Bestmarke. Sie ist nicht die einzige Frau, die im Extremsport Männerrekorde bricht. W…",
-        "fecha": "2026-08-17T16:32:55.881933+00:00",
+        "fecha": "2026-08-17T17:30:55.543390+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,11 +802,11 @@
         "titulo": "Kathrin Marchand: \"Der Körper ist keine Maschine\"",
         "enlace": "https://www.dw.com/de/kathrin-marchand-der-körper-ist-keine-maschine/a-76764390?maca=de-rss-de-sport-4020-rdf",
         "desc": "Zweimal nimmt Kathrin Marchand an den Olympischen Spielen teil. Doch ein Schlaganfall mit 30 Jahren verändert ihr Leben. Sie akzeptiert ihre Einschränkungen, schreibt Sport-Geschic…",
-        "fecha": "2026-08-17T16:32:55.881974+00:00",
+        "fecha": "2026-08-17T17:30:55.543431+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Der schottische Fußballverband entzieht Fifa-Präsident Infantino seine Unterstützung",
+        "titulo": "Scottish FA withdraws support for Fifa president Infantino",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
         "desc": "Der schottische Fußballverband hat das Vertrauen in Gianni Infantino verloren und wird nicht für seine Wiederwahl als FIFA-Präsident stimmen, sagte Geschäftsführer Ian Maxwell gegenüber BBC …",
         "fecha": "2026-08-17T12:43:23+00:00",
@@ -831,7 +817,7 @@
       {
         "titulo": "Man City move for £85m Bouaddi and still want Fernandez",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-        "desc": "Il Manchester City è in trattative avanzate con il Lille per il trasferimento del centrocampista marocchino Ayyoub Bouaddi.",
+        "desc": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
         "fecha": "2026-08-17T13:50:22+00:00",
         "fuente": "BBC Sport EN"
       },
@@ -870,7 +856,7 @@
         "titulo": "Isomerización posicional de piridina mediante transposición de nitrógeno.",
         "enlace": "https://www.nature.com/articles/s41586-026-11006-4",
         "desc": "Naturaleza, Publicado en línea: 17 de agosto de 2026; doi:10.1038/s41586-026-11006-4 Isomerización posicional de piridina mediante transposición de nitrógeno",
-        "fecha": "2026-08-17T16:33:06.201664+00:00",
+        "fecha": "2026-08-17T17:31:06.967417+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -902,14 +888,14 @@
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+        "titulo": "Remodelación programable de la conectividad carbono-nitrógeno en aminas",
         "enlace": "https://www.nature.com/articles/s41586-026-11009-1",
         "desc": "Naturaleza, Publicado en línea: 17 de agosto de 2026; doi:10.1038/s41586-026-11009-1 Remodelación programable de la conectividad carbono-nitrógeno en aminas",
-        "fecha": "2026-08-17T16:33:06.201702+00:00",
+        "fecha": "2026-08-17T17:31:06.967453+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "El desafío de la NASA prueba diseños de ruedas para la movilidad de las bases lunares",
+        "titulo": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
         "enlace": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
         "desc": "Mientras la NASA se prepara para establecer la base lunar, el avance de la movilidad en la superficie será clave para ayudar a las tripulaciones y los sistemas robóticos a viajar más lejos a través del planeta lunar.",
         "fecha": "2026-08-17T15:09:05+00:00",
@@ -921,7 +907,7 @@
         "titulo": "Positional isomerisation of pyridine via nitrogen transposition",
         "enlace": "https://www.nature.com/articles/s41586-026-11006-4",
         "desc": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11006-4 Positional isomerisation of pyridine via nitrogen transposition",
-        "fecha": "2026-08-17T16:33:09.807342+00:00",
+        "fecha": "2026-08-17T17:31:08.872506+00:00",
         "fuente": "Nature"
       },
       {
@@ -946,10 +932,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Trace elements offer new clues to mysterious black eye lesions in cats",
-        "enlace": "https://phys.org/news/2026-08-elements-clues-mysterious-black-eye.html",
-        "desc": "A distinctive black or dark brown lesion that appears on the eyes of some cats has long puzzled veterinarians. Now, researchers have identified two elements that may help explain w…",
-        "fecha": "2026-08-17T12:20:08-04:00",
+        "titulo": "It's not just flowers that help the pollinators. Grass can too.",
+        "enlace": "https://phys.org/news/2026-08-pollinators-grass.html",
+        "desc": "Bees may be relying on your lawn for their next meal, according to a new study from the University of Georgia.",
+        "fecha": "2026-08-17T13:30:01-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -984,7 +970,7 @@
         "titulo": "Programmable remodelling of carbon–nitrogen connectivity in amines",
         "enlace": "https://www.nature.com/articles/s41586-026-11009-1",
         "desc": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1 Programmable remodelling of carbon–nitrogen connectivity in amines",
-        "fecha": "2026-08-17T16:33:09.807379+00:00",
+        "fecha": "2026-08-17T17:31:08.872541+00:00",
         "fuente": "Nature"
       }
     ],
@@ -997,10 +983,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Positional isomerisation of pyridine via nitrogen transposition",
+        "titulo": "Isomérisation positionnelle de la pyridine via transposition d'azote",
         "enlace": "https://www.nature.com/articles/s41586-026-11006-4",
         "desc": "Nature, Mise en ligne : 17 août 2026 ; est ce que je:10.1038/s41586-026-11006-4 Isomérisation positionnelle de la pyridine via transposition d'azote",
-        "fecha": "2026-08-17T16:33:13.988329+00:00",
+        "fecha": "2026-08-17T17:31:13.535450+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1011,10 +997,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+        "titulo": "Remodelage programmable de la connectivité carbone-azote dans les amines",
         "enlace": "https://www.nature.com/articles/s41586-026-11009-1",
         "desc": "Nature, Mise en ligne : 17 août 2026 ; est ce que je:10.1038/s41586-026-11009-1 Remodelage programmable de la connectivité carbone-azote dans les amines",
-        "fecha": "2026-08-17T16:33:13.988366+00:00",
+        "fecha": "2026-08-17T17:31:13.535490+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,46 +1009,46 @@
         "titulo": "Extreme Dürre: Wie retten wir unsere Bäume?",
         "enlace": "https://www.dw.com/de/extreme-dürre-wie-retten-wir-unsere-bäume/a-78372685?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Bäume leiden in diesem Dürresommer unter akutem Wassermangel. Doch sie werden als natürliche Klimaanlagen in Städten gebraucht. Müssen Bürger die Stadtbäume gießen? Was Bäumen jetz…",
-        "fecha": "2026-08-17T16:33:16.534271+00:00",
+        "fecha": "2026-08-17T17:31:15.306937+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Positionsisomerisierung von Pyridin über Stickstofftransposition",
         "enlace": "https://www.nature.com/articles/s41586-026-11006-4",
         "desc": "Natur, Online veröffentlicht: 17. August 2026; doi:10.1038/s41586-026-11006-4 Positionisomerisierung von Pyridin über Stickstofftransposition",
-        "fecha": "2026-08-17T16:33:16.645750+00:00",
+        "fecha": "2026-08-17T17:31:15.436472+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Programmierbare Umgestaltung der Kohlenstoff-Stickstoff-Konnektivität in Aminen",
         "enlace": "https://www.nature.com/articles/s41586-026-11009-1",
         "desc": "Natur, Online veröffentlicht: 17. August 2026; doi:10.1038/s41586-026-11009-1 Programmierbare Umgestaltung der Kohlenstoff-Stickstoff-Konnektivität in Aminen",
-        "fecha": "2026-08-17T16:33:16.645790+00:00",
+        "fecha": "2026-08-17T17:31:15.436506+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "Isomerizzazione posizionale della piridina tramite trasposizione dell'azoto",
+        "titulo": "Positional isomerisation of pyridine via nitrogen transposition",
         "enlace": "https://www.nature.com/articles/s41586-026-11006-4",
         "desc": "Natura, Pubblicato online: 17 agosto 2026; doi:10.1038/s41586-026-11006-4 Isomerizzazione posizionale della piridina tramite trasposizione dell'azoto",
-        "fecha": "2026-08-17T16:33:20.290010+00:00",
+        "fecha": "2026-08-17T17:31:17.384809+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Rimodellamento programmabile della connettività carbonio-azoto nelle ammine",
         "enlace": "https://www.nature.com/articles/s41586-026-11009-1",
-        "desc": "Natura, Pubblicato online: 17 agosto 2026; doi:10.1038/s41586-026-11009-1 Rimodellamento programmabile della connettività carbonio-azoto nelle ammine",
-        "fecha": "2026-08-17T16:33:20.290049+00:00",
+        "desc": "Nature, Published online: 17 August 2026; doi:10.1038/s41586-026-11009-1 Programmable remodelling of carbon–nitrogen connectivity in amines",
+        "fecha": "2026-08-17T17:31:17.384866+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Trânsito condicionado na A2 no sentido Algarve-Lisboa",
-        "enlace": "https://observador.pt/2026/08/17/transito-condicionado-na-a2-em-alcacer-do-sal-por-reparacao-urgente-de-junta-de-dilatacao-no-sentido-algarve-lisboa/",
-        "desc": "A A2 é a principal via de ligação entre Lisboa e o Algarve, muito utilizada durante os meses de férias no verão",
-        "fecha": "2026-08-17T17:30:08+01:00",
+        "titulo": "As notícias das 18h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2123/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-17T18:27:18+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1073,10 +1059,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "As notícias das 17h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2270/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-17T17:23:44+01:00",
+        "titulo": "Pres. CM Albufeira: \"Casas só para uma etnia? Comigo não!\"",
+        "enlace": "https://observador.pt/programas/resposta-pronta/pres-cm-albufeira-casas-so-para-uma-etnia-comigo-nao/",
+        "desc": "Autarca (CH) é acusado pelo MP de discriminação e incitamento ao ódio. Rui Cristina diz que não cometeu \"qualquer crime\" e reitera que habitação municipal será \"para todos\" e não \"…",
+        "fecha": "2026-08-17T18:01:36+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1099,7 +1085,7 @@
         "titulo": "El foro 'Emerging Markets Summit', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
         "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-17T16:33:27.099623+00:00",
+        "fecha": "2026-08-17T17:31:21.775670+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1110,10 +1096,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Ascend Sport está en conversaciones con EvoNext sobre una fusión para salir a bolsa",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-        "desc": "Ascend Sport Technology AG de Suiza está en conversaciones avanzadas con la empresa fantasma EvoNext Holdings SA, que cotiza en la Bolsa de Suiza, que podría llevarla al mercado de valores a través de...",
-        "fecha": "2026-08-17T09:24:56+00:00",
+        "titulo": "Los fondos de crédito privado Blackstone y Blue Owl aumentan las ventas de bonos",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+        "desc": "Dos fondos de crédito privados venderán el lunes más bonos con grado de inversión de los que pretendían inicialmente, tras una pausa en este tipo de acuerdos a principios del tercer trimestre.",
+        "fecha": "2026-08-17T14:02:08+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1134,7 +1120,7 @@
         "titulo": "Foro 'Ideas con Valor', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
         "desc": "El Confidencial volvió a reunir a expertos de distintos ámbitos para poner el foco en 3 bloques imprescindibles para la sociedad: acción social, sostenibilidad y finanzas personale…",
-        "fecha": "2026-08-17T16:33:27.099690+00:00",
+        "fecha": "2026-08-17T17:31:21.775705+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1145,26 +1131,26 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "RBC's Lori Calvasina Sees S&P 500 Upside Despite Fed Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-17/rbc-s-calvasina-sees-s-p-500-upside-despite-fed-risk-video",
-        "desc": "Wall Street traders sent stocks and bonds wavering in the Monday session as fresh Middle East violence stoked concerns about an escalation of the war that has jolted global markets…",
-        "fecha": "2026-08-17T16:24:29+00:00",
+        "titulo": "El dólar extiende su caída a medida que los operadores reducen las apuestas de endurecimiento de la Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+        "desc": "El dólar cayó a su nivel más débil en tres meses cuando los inversores redujeron las expectativas de nuevos aumentos de las tasas de interés de la Reserva Federal tras una racha de debilidad económica en Estados Unidos...",
+        "fecha": "2026-08-17T09:20:21+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Synchrony, emisor de tarjetas de crédito de Amazon y Walmart, se asocia con OpenAI para compras ChatGPT",
+        "titulo": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
         "enlace": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
         "desc": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
-        "fecha": "2026-08-17T15:52:22+00:00",
+        "fecha": "2026-08-17T17:10:01+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Ascend Sport Is in Talks With EvoNext on Merger to Go Public",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-        "desc": "Switzerland’s Ascend Sport Technology AG is in advanced discussions with SIX Swiss Exchange-listed shell company EvoNext Holdings SA that could bring it to the stock market through…",
-        "fecha": "2026-08-17T09:24:56+00:00",
+        "titulo": "Blackstone, Blue Owl Private Credit Funds Increase Bond Sales",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+        "desc": "Two private credit funds are set to sell more investment-grade bonds Monday than they initially targeted, following a lull of such deals to start the third quarter.",
+        "fecha": "2026-08-17T14:02:08+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1189,10 +1175,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-        "desc": "A corporate-bond sale dubbed “Project Odyssey” may be increased to $3.9 billion as junk-like yields on the Microsoft Corp.-linked data-center financing drew more than twice that am…",
-        "fecha": "2026-08-17T16:26:37+00:00",
+        "titulo": "Dollar Extends Slide as Traders Scale Back Fed Tightening Bets",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+        "desc": "The dollar fell to its weakest level in three months as investors scaled back expectations for further Federal Reserve interest-rate increases following a run of softer US economic…",
+        "fecha": "2026-08-17T09:20:21+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1206,7 +1192,7 @@
         "titulo": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
         "enlace": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
         "desc": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
-        "fecha": "2026-08-17T15:52:22+00:00",
+        "fecha": "2026-08-17T17:10:01+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1219,67 +1205,81 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Ascend Sport est en pourparlers avec EvoNext sur une fusion pour devenir publique",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-        "desc": "La société suisse Ascend Sport Technology AG est en discussions avancées avec la société écran EvoNext Holdings SA, cotée à la SIX Swiss Exchange, qui pourrait l'introduire en bourse via…",
-        "fecha": "2026-08-17T09:24:56+00:00",
+        "titulo": "Les fonds de crédit privés Blackstone et Blue Owl augmentent leurs ventes d'obligations",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+        "desc": "Deux fonds de crédit privés devraient vendre lundi davantage d'obligations de qualité que ce qu'ils avaient initialement prévu, après une accalmie dans ce type d'opérations au début du troisième trimestre.",
+        "fecha": "2026-08-17T14:02:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-        "desc": "Une vente d'obligations d'entreprise baptisée « Projet Odyssée » pourrait être portée à 3,9 milliards de dollars, car les rendements de type indésirable sur le financement du centre de données lié à Microsoft Corp. ont attiré plus de deux fois celui du même mois…",
-        "fecha": "2026-08-17T16:26:37+00:00",
+        "titulo": "Dollar Extends Slide as Traders Scale Back Fed Tightening Bets",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+        "desc": "The dollar fell to its weakest level in three months as investors scaled back expectations for further Federal Reserve interest-rate increases following a run of softer US economic…",
+        "fecha": "2026-08-17T09:20:21+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Parteiquerelen: Zwei BSW-Leute tragen Thüringer Regierung nicht mehr mit",
-        "enlace": "https://www.handelsblatt.com/politik/deutschland/parteiquerelen-zwei-bsw-leute-tragen-thueringer-regierung-nicht-mehr-mit/100247762.html",
-        "desc": "Die Brombeer-Koalition in Thüringen regiert bisher mit einem Patt. Jetzt versagen zwei Abgeordnete des Bündnisses Sahra Wagenknecht dem Ministerpräsidenten die Unterstützung. Wie w…",
-        "fecha": "2026-08-17T16:12:51+00:00",
+        "titulo": "Luftfahrt: Flughafen München entging offenbar nur knapp einer Katastrophe",
+        "enlace": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-flughafen-muenchen-entging-offenbar-nur-knapp-einer-katastrophe/100247746.html",
+        "desc": "Warum hob eine Passagiermaschine erst hinter der Landebahn ab – und wieso wurde der Start nicht abgebrochen? Experten und Ermittler suchen nach Antworten zum Vorfall am Flughafen M…",
+        "fecha": "2026-08-17T17:04:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Ascend Sport verhandelt mit EvoNext über eine Fusion zur Börseneinführung",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-        "desc": "Die Schweizer Ascend Sport Technology AG befindet sich in fortgeschrittenen Gesprächen mit der an der SIX Swiss Exchange notierten Briefkastenfirma EvoNext Holdings SA, die sie durch… an die Börse bringen könnte.",
-        "fecha": "2026-08-17T09:24:56+00:00",
+        "titulo": "Blackstone und Blue Owl Private Credit Funds steigern Anleiheverkäufe",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+        "desc": "Zwei private Kreditfonds werden am Montag voraussichtlich mehr Investment-Grade-Anleihen verkaufen als ursprünglich geplant, nachdem es zu Beginn des dritten Quartals zu einer Flaute bei derartigen Geschäften kam.",
+        "fecha": "2026-08-17T14:02:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Ukraine: Nach unverhohlenen Lawrow-Drohungen: Strack-Zimmermann kritisiert Zurückhaltung gegen Russland",
-        "enlace": "https://www.handelsblatt.com/politik/international/ukraine-strack-zimmermann-kritisiert-zurueckhaltung-gegen-russland/100247681.html",
-        "desc": "Drohnen im Luftraum, Explosionen in Munitionsfabriken, vereitelte Anschläge: Hinweise auf russische Sabotage häufen sich. Politiker von FDP und SPD fordern eine entschlossenere Ant…",
-        "fecha": "2026-08-17T16:07:24+00:00",
+        "titulo": "Autobauer: Kooperation mit Ford wird für Volkswagen zum Bulli-Bumerang",
+        "enlace": "https://www.handelsblatt.com/unternehmen/industrie/vw-transporter-kooperation-mit-ford-wird-fuer-autobauer-zum-bumerang/100244960.html",
+        "desc": "Mit Ford wollte VW Milliarden sparen und Hannover zugleich in die elektrische Zukunft führen. Doch die Rechnung ging nicht auf. Nun kämpft das traditionsreiche Bulli-Werk um seine …",
+        "fecha": "2026-08-17T16:56:17+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Microsoft-gebundene „Project Odyssey“-Anleihe lockt Käufer bei Junk Yield an",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-        "desc": "Der Verkauf einer Unternehmensanleihe mit dem Namen „Project Odyssey“ könnte auf 3,9 Milliarden US-Dollar erhöht werden, da die Schrottrenditen der mit Microsoft Corp. verbundenen Rechenzentrumsfinanzierung mehr als das Doppelte dieses Betrags einbrachten …",
-        "fecha": "2026-08-17T16:26:37+00:00",
+        "titulo": "Der Dollar setzt seinen Rückgang fort, da Händler ihre Wetten auf eine Straffung durch die Fed zurückfahren",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+        "desc": "Der Dollar fiel auf den schwächsten Stand seit drei Monaten, da die Anleger ihre Erwartungen an weitere Zinserhöhungen der Federal Reserve nach einer Reihe schwächerer US-Wirtschaftsabschwünge zurückfuhren.",
+        "fecha": "2026-08-17T09:20:21+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Ascend Sport Is in Talks With EvoNext on Merger to Go Public",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-        "desc": "Switzerland’s Ascend Sport Technology AG is in advanced discussions with SIX Swiss Exchange-listed shell company EvoNext Holdings SA that could bring it to the stock market through…",
-        "fecha": "2026-08-17T09:24:56+00:00",
+        "titulo": "Blackstone, Blue Owl Private Credit Funds Increase Bond Sales",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+        "desc": "Due fondi di credito privati ​​sono pronti a vendere lunedì più obbligazioni investment grade di quanto inizialmente previsto, dopo una pausa di tali operazioni all’inizio del terzo trimestre.",
+        "fecha": "2026-08-17T14:02:08+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-        "desc": "Una vendita di obbligazioni societarie denominata \"Project Odyssey\" potrebbe essere aumentata a 3,9 miliardi di dollari poiché i rendimenti spazzatura sui finanziamenti dei data center collegati a Microsoft Corp. hanno attirato più del doppio di quelli attuali...",
-        "fecha": "2026-08-17T16:26:37+00:00",
+        "titulo": "Dollar Extends Slide as Traders Scale Back Fed Tightening Bets",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+        "desc": "The dollar fell to its weakest level in three months as investors scaled back expectations for further Federal Reserve interest-rate increases following a run of softer US economic…",
+        "fecha": "2026-08-17T09:20:21+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
+      {
+        "titulo": "Praças europeias fecham no vermelho. Brent ronda os 89 dólares por barril após Trump ameaçar Omã",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-arranca-semana-no-verde-com-impulso-das-tecnologicas-alibaba-soma-mais-de-2",
+        "desc": "Acompanhe, ao minuto, a evolução dos mercados desta segunda-feira.",
+        "fecha": "2026-08-17T18:03:00+01:00",
+        "fuente": "Jornal de Negócios"
+      },
+      {
+        "titulo": "Fundos de crédito privado Blackstone e Blue Owl aumentam vendas de títulos",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+        "desc": "Dois fundos de crédito privados deverão vender mais títulos com grau de investimento na segunda-feira do que inicialmente previstos, após uma pausa nessas negociações no início do terceiro trimestre.",
+        "fecha": "2026-08-17T14:02:08+00:00",
+        "fuente": "Bloomberg EN"
+      },
       {
         "titulo": "Angola anuncia nova descoberta de petróleo e gás condensado na Bacia do Baixo Congo",
         "enlace": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/angola-anuncia-nova-descoberta-de-petroleo-e-gas-condensado-na-bacia-do-baixo-congo",
@@ -1288,24 +1288,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ascend Sport está em negociações com a EvoNext sobre fusão para abertura de capital",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
-        "desc": "A Ascend Sport Technology AG da Suíça está em discussões avançadas com a EvoNext Holdings SA, empresa de fachada listada na SIX Swiss Exchange, que poderia trazê-la para o mercado de ações por meio de…",
-        "fecha": "2026-08-17T09:24:56+00:00",
-        "fuente": "Bloomberg EN"
-      },
-      {
-        "titulo": "Alinhada com tendência na Europa, reentrada do Estado tem impacto limitado na REN",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/alinhada-com-tendencia-na-europa-reentrada-do-estado-tem-impacto-limitado-na-ren",
-        "desc": "Tal como está a acontecer em países como Espanha, França ou Alemanha, Portugal resolveu entrar no capital de uma empresa vista como estratégica. A garantia de segurança é o princip…",
-        "fecha": "2026-08-17T17:15:00+01:00",
-        "fuente": "Jornal de Negócios"
-      },
-      {
-        "titulo": "Microsoft-Tied ‘Project Odyssey’ Bond Lures Buyers at Junk Yield",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/microsoft-tied-project-odyssey-bond-lures-buyers-at-junk-yield",
-        "desc": "Uma venda de títulos corporativos apelidada de “Projeto Odisséia” pode ser aumentada para US$ 3,9 bilhões, já que os rendimentos de alto risco do financiamento de data center vinculado à Microsoft Corp.",
-        "fecha": "2026-08-17T16:26:37+00:00",
+        "titulo": "Dólar amplia queda enquanto traders reduzem apostas de aperto do Fed",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+        "desc": "O dólar caiu para o seu nível mais fraco em três meses, à medida que os investidores diminuíram as expectativas de novos aumentos das taxas de juro da Reserva Federal, após uma série de crises económicas mais fracas nos EUA…",
+        "fecha": "2026-08-17T09:20:21+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
