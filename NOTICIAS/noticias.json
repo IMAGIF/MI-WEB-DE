@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T20:32:56.211222+00:00",
+  "actualizado": "2026-08-19T21:28:57.411780+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -24,24 +24,24 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "Trump prevé reunirse con Kim Jong-un antes de que termine el año",
-        "enlace": "https://theobjective.com/internacional/2026-08-19/trump-kim-jong-un-reunion-2/",
-        "desc": "El presidente de Estados Unidos, Donald Trump, dio a entender este miércoles que prevé celebrar un encuentro con el líder norcoreano, Kim Jong-un, antes de que [&#8230;]",
-        "fecha": "2026-08-19T20:18:22+00:00",
+        "titulo": "El envejecimiento reprograma la actividad genética de la piel y favorece la inflamación",
+        "enlace": "https://theobjective.com/sociedad/ciencia/2026-08-19/envejecimiento-reprograma-actividad-genetica-piel-favorece-inflamacion/",
+        "desc": "A medida que envejecemos, la piel pierde parte de su capacidad para regenerarse, cicatrizar heridas y mantener una barrera eficaz frente al exterior. Entre las causas de este [&#82…",
+        "fecha": "2026-08-19T20:44:28+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Turull desvela las cartas de Junts: atajar a Orriols e infiltrarse en los temas sociales",
         "enlace": "https://www.elconfidencial.com/espana/cataluna/2026-08-19/alianza-catalana-independentismo-extrema-derecha-1hms_4408572/",
         "desc": "Turull y Borràs centran la UCE al contraponer un proyecto soberanista social y generacional al avance ultra, apostando por valores democráticos y gestión para recuperar terreno",
-        "fecha": "2026-08-19T20:32:57.669081+00:00",
+        "fecha": "2026-08-19T21:28:58.961865+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Jorge Domínguez, el talento precoz: se convierte en el debutante más joven de la historia de Simeone",
-        "enlace": "https://okdiario.com/deportes/jorge-dominguez-talento-precoz-convierte-debutante-mas-joven-historia-simeone-20143366",
-        "desc": "Cuando se distribuyeron las alineaciones de Atlético y Málaga llamó la atención de la pléyade de canteranos rojiblancos. Cuatro rostros imberbes lideraban el primer once de Simeone…",
-        "fecha": "2026-08-19T22:15:27+02:00",
+        "titulo": "Kang-In Lee y Baena desatascan al Atlético y rinden al Málaga",
+        "enlace": "https://okdiario.com/deportes/kang-in-lee-baena-desatascan-atletico-rinden-malaga-20143586",
+        "desc": "Cuando Simeone giró el cuello y echó un vistazo al banquillo, ahí estaba la victoria. En la finta de Kang-In Lee y el golpeo de Baena. Entraron en el segundo acto y echaron el teló…",
+        "fecha": "2026-08-19T23:08:22+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -52,9 +52,9 @@
         "fuente": "El Español"
       },
       {
-        "titulo": "Almonte ya espera a la Pastora",
+        "titulo": "Una Venida jubilosa y jubilar lleva a la Virgen a Almonte",
         "enlace": "https://www.abc.es/espana/andalucia/rocio/almonte-espera-pastora-20260819211918-nts.html",
-        "desc": "Jornada de emociones y sentimientos desbocados en la aldea de El Rocio. La Blanca Paloma ya camina hacia Almonte. El rito se cumplió y siete años después, los almonteños alzaron en…",
+        "desc": "El Rocío Chico de 2026 culminó ayer con la salida de la Blanca Paloma para iniciar el traslado que cada siete años le lleva a hombros de los almonteños a su pueblo. Un traslado his…",
         "fecha": "2026-08-19T21:19:47+02:00",
         "fuente": "ABC"
       },
@@ -75,10 +75,24 @@
     ],
     "nacional_us": [
       {
-        "titulo": "Manhunt intensifies for armed woman after veteran Massachusetts police officer found dead at home",
-        "enlace": "https://www.foxnews.com/us/manhunt-intensifies-armed-woman-after-veteran-massachusetts-police-officer-found-dead-home",
-        "desc": "New video shows Karen Solomon, the armed and dangerous suspect sought after a Worcester police officer was found dead inside their shared home.",
-        "fecha": "2026-08-19T16:18:21-04:00",
+        "titulo": "Montana boy killed after being flung from carnival ride operating with missing restraints, lawsuit alleges",
+        "enlace": "https://www.foxnews.com/us/montana-boy-killed-flung-carnival-ride-operating-missing-seats-lawsuit-alleges",
+        "desc": "A lawsuit alleges carnival workers operated a Yo-Yo ride in Butte despite missing safety restraints on at least 10 chairs before the fatal crash.",
+        "fecha": "2026-08-19T17:13:16-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+        "enlace": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+        "desc": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures.",
+        "fecha": "2026-08-19T17:20:15-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Colorado black bear dies after becoming trapped inside unlocked car for days: report",
+        "enlace": "https://www.foxnews.com/us/colorado-black-bear-dies-trapped-inside-unlocked-car-days-report",
+        "desc": "A 300-pound black bear died after being trapped inside an unlocked car in Colorado Springs for days, destroying the vehicle&apos;s interior trying to escape.",
+        "fecha": "2026-08-19T16:55:26-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,67 +101,53 @@
         "desc": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates —pushing up borrowing costs f…",
         "fecha": "2026-08-19T16:09:39-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Penn State frat cocaine ring suspects allegedly used Cash App, Snapchat to arrange drug deals",
-        "enlace": "https://www.foxnews.com/us/penn-state-frat-cocaine-ring-suspects-allegedly-used-cash-app-snapchat-arrange-drug-deals",
-        "desc": "Court complaints reveal Agostino Abbatiello&apos;s alleged drug ring used Cash App and Snapchat to facilitate cocaine sales across Penn State fraternities.",
-        "fecha": "2026-08-19T15:40:16-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-        "enlace": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-        "desc": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.",
-        "fecha": "2026-08-19T15:45:11-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Ayuda económica de ANSeS para personas sin empleo: quiénes la pueden pedir y cómo se hace el trámite",
-        "enlace": "https://www.clarin.com/informacion-general/ayuda-economica-anses-personas-empleo-pueden-pedir-hace-tramite_0_QNUEmNSl3F.html",
-        "desc": "ANSeS ofrece una Prestación por Desempleo para ayudar a quienes están sin trabajo mientras buscan reinsertarse en el mercado laboral. El beneficio puede ser recibido al mismo tiemp…",
-        "fecha": "2026-08-19T19:59:19+00:00",
+        "titulo": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, miércoles 19 de agosto",
+        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-miercoles-19-agosto_0_I91nk16gZk.html",
+        "desc": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+        "fecha": "2026-08-19T21:02:00+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Juan Martín Bulgheroni: “La Argentina está muy bien posicionada para abastecer al mundo de energía”",
-        "enlace": "https://www.lanacion.com.ar/economia/negocios/juan-martin-bulgheroni-la-argentina-esta-muy-bien-posicionada-para-abastecer-al-mundo-de-energia-nid19082026/",
-        "desc": "El jefe de Gabinete de Pan American Energy destacó el potencial de Vaca Muerta y la ventaja geográfica del país en un escenario global marcado por la búsqueda de seguridad energéti…",
-        "fecha": "2026-08-19T20:27:02+00:00",
+        "titulo": "“Súper Niño”: anticipan lluvias de hasta casi el doble de lo normal y los meses más críticos",
+        "enlace": "https://www.lanacion.com.ar/economia/campo/advierten-que-por-el-nino-fuerte-podria-llover-hasta-casi-el-doble-de-lo-normal-nid19082026/",
+        "desc": "La Bolsa de Comercio de Rosario calculó las precipitaciones para los últimos tres meses del año en la región agrícola núcleo; podría registrarse un 30% más de lo habitual en octubr…",
+        "fecha": "2026-08-19T21:27:59+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "El arresto de Cerimedo: el Gobierno elige el silencio, mientras Villarruel agita la interna y el escándalo roza la política exterior",
-        "enlace": "https://www.clarin.com/politica/arresto-cerimedo-gobierno-elige-silencio-villarruel-agita-interna-escandalo-roza-politica-exterior_0_rqxPV09Ms0.html",
-        "desc": "La vice evocó menciones del consultor detenido en Bolivia sobre Karina Milei. La presidenta de México mencionó el caso. Milei, fue invitado a EE.UU. por el socio del empresario.",
-        "fecha": "2026-08-19T19:56:22+00:00",
+        "titulo": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, miércoles 19 de agosto",
+        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-miercoles-19-agosto_0_9aUpsMStZR.html",
+        "desc": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+        "fecha": "2026-08-19T21:01:00+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Hallaron a un hombre muerto en el estadio del Charlton Athletic en Inglaterra",
-        "enlace": "https://www.lanacion.com.ar/deportes/hallaron-a-un-hombre-muerto-en-el-estadio-del-charlton-athletic-en-inglaterra-nid19082026/",
-        "desc": "El cuerpo fue localizado en el césped de The Valley, en el sureste de Londres; los investigadores sospechan que cayó desde una gran altura",
-        "fecha": "2026-08-19T20:26:42+00:00",
+        "titulo": "La abogada de Fernando Cerimedo acusó a Nadia Beller de orquestar un “autoatentado”",
+        "enlace": "https://www.lanacion.com.ar/politica/la-abogada-de-fernando-cerimedo-acuso-a-nadia-beller-de-orquestar-un-autoatentado-nid19082026/",
+        "desc": "Margarita Arce sostuvo que la intención de la pareja del exasesor de Milei fue la de manchar la imagen del Rodrigo Paz, presidente de Bolivia y cercano a Cerimedo",
+        "fecha": "2026-08-19T21:27:28+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "EN DIRECT, guerre en Ukraine : le nouveau ministre de la défense ukrainien promet d’intensifier les attaques en profondeur en Russie",
-        "enlace": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-le-nouveau-ministre-de-la-defense-ukrainien-promet-d-intensifier-les-attaques-en-profondeur-en-russie_6746952_3210.html",
-        "desc": "Estimant que l’armée ukrainienne était, « pour la première fois dans l’histoire », capable de frapper des cibles jusque dans la lointaine Sibérie, le ministre, dont la nomination a…",
-        "fecha": "2026-08-19T19:35:44+02:00",
+        "titulo": "« Quand on leur dit que les grossesses doivent faire l’objet d’un suivi médical, les talibans ricanent » : la santé des femmes mise en danger en Afghanistan",
+        "enlace": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/j-ai-travaille-jour-et-nuit-pour-devenir-medecin-et-j-y-etais-presque-a-quelques-semaines-pres-en-afghanistan-la-sante-des-femmes-mise-en-danger-par-les-talibans_6750002_3451060.html",
+        "desc": "« Paroles d’Afghanes » (4/6). Seules les femmes peuvent soigner les femmes, or le pays ne forme plus ni de docteures, ni d’infirmières, ni de sages-femmes… Une situation qui rend l…",
+        "fecha": "2026-08-19T20:00:09+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "La guerre au Moyen-Orient fait bondir le prix de l’eau en bouteille, l’un des produits les plus achetés par les Français",
-        "enlace": "https://www.lefigaro.fr/conso/la-guerre-au-moyen-orient-fait-bondir-le-prix-de-l-eau-en-bouteille-le-produit-le-plus-achete-par-les-francais-20260819",
-        "desc": "DÉCRYPTAGE - La flambée du prix du plastique liée à la guerre au Moyen-Orient et à la fermeture du détroit d’Ormuz entraîne une hausse progressive des prix de l’eau en bouteille. E…",
-        "fecha": "2026-08-19T18:47:40+02:00",
+        "titulo": "Qui sont Gaël Mocaër et Sebastian Perez Pezzani, les deux réalisateurs français arrêtés et détenus au Togo ?",
+        "enlace": "https://www.lefigaro.fr/international/qui-sont-gael-mocaer-et-sebastian-perez-pezzani-les-deux-realisateurs-francais-arretes-et-detenus-au-togo-20260819",
+        "desc": "PORTRAITS - Partis au Togo pour tourner un épisode de l’émission «Les routes de l’impossible» pour France Télévisions, les deux réalisateurs français sont habitués aux terrains dif…",
+        "fecha": "2026-08-19T23:04:01+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -158,17 +158,17 @@
         "fuente": "France 24"
       },
       {
-        "titulo": "« Quand on leur dit que les grossesses doivent faire l’objet d’un suivi médical, les talibans ricanent » : la santé des femmes mise en danger en Afghanistan",
-        "enlace": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/j-ai-travaille-jour-et-nuit-pour-devenir-medecin-et-j-y-etais-presque-a-quelques-semaines-pres-en-afghanistan-la-sante-des-femmes-mise-en-danger-par-les-talibans_6750002_3451060.html",
-        "desc": "« Paroles d’Afghanes » (4/6). Seules les femmes peuvent soigner les femmes, or le pays ne forme plus ni de docteures, ni d’infirmières, ni de sages-femmes… Une situation qui rend l…",
-        "fecha": "2026-08-19T20:00:09+02:00",
+        "titulo": "EN DIRECT, guerre en Ukraine : le nouveau ministre de la défense ukrainien promet d’intensifier les attaques en profondeur en Russie",
+        "enlace": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-le-nouveau-ministre-de-la-defense-ukrainien-promet-d-intensifier-les-attaques-en-profondeur-en-russie_6746952_3210.html",
+        "desc": "Estimant que l’armée ukrainienne était, « pour la première fois dans l’histoire », capable de frapper des cibles jusque dans la lointaine Sibérie, le ministre, dont la nomination a…",
+        "fecha": "2026-08-19T19:35:44+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Les Gardiens de la Révolution seraient prêts à frapper l’Europe si Donald Trump choisissait «l’escalade» face à l’Iran",
-        "enlace": "https://www.lefigaro.fr/international/menace-de-l-iran-contre-l-europe-l-otan-se-tient-pret-a-defendre-l-ensemble-de-ses-allies-20260819",
-        "desc": "Après la révélation de cette information par le Financial Times, l’Otan est prête à faire face à toute menace et «fera toujours le nécessaire pour défendre l’ensemble de ses alliés…",
-        "fecha": "2026-08-19T15:58:13+02:00",
+        "titulo": "Togo : les deux réalisateurs français détenus sont «en règle» et l’un d’eux est malade, assure leur société de production",
+        "enlace": "https://www.lefigaro.fr/international/togo-les-deux-realisateurs-francais-detenus-sont-en-regle-et-l-un-d-eux-est-malade-assure-leur-societe-de-production-20260819",
+        "desc": "Les deux hommes ont été arrêtés «il y a trois semaines dans le nord du Togo, lors d’un tournage pour l’émission “Les routes de l’impossible”», une série documentaire diffusée sur F…",
+        "fecha": "2026-08-19T21:10:38+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -181,10 +181,24 @@
     ],
     "nacional_de": [
       {
-        "titulo": "Céline Dion bereitet sich mit Pilates und Ballett auf Bühnen-Comeback vor",
-        "enlace": "https://www.spiegel.de/panorama/leute/celine-dion-bereitet-sich-mit-pilates-und-ballett-auf-buehnen-comeback-vor-a-808771d5-5c22-424c-8190-9c7c9a42a9b9#ref=rss",
-        "desc": "Das seltene Stiff-Person-Syndrom hat die kanadische Sängerin lange vom Show-Business ferngehalten. Im Herbst wagt sie eine Rückkehr.",
-        "fecha": "2026-08-19T21:35:00+02:00",
+        "titulo": "Joël Le Scouarnec: Neue Vorwürfe des Kindesmissbrauchs gegen bereits verurteilten Ex-Chirurgen",
+        "enlace": "https://www.spiegel.de/ausland/joel-le-scouarnec-neue-vorwuerfe-des-kindesmissbrauchs-gegen-bereits-verurteilten-ex-chirurgen-a-420acd77-3c52-4c65-a471-21f1d61810ea#ref=rss",
+        "desc": "Er war schon zur Höchststrafe verurteilt worden, nun wird erneut gegen den Franzosen Joël Le Scouarnec ermittelt. Weitere 40 sexuelle Übergriffe sollen ans Licht gekommen sein.",
+        "fecha": "2026-08-19T23:06:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Migration: Deutschland und Italien wollen bei Migration enger zusammenarbeiten",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/migration-europa-deutschland-italien-dublin-verordnung",
+        "desc": "Nach einem Gespräch mit Johann Wadephul hat Italiens Außenminister mehr Kooperation angekündigt. Die Frage, ob Italien Geflüchtete zurücknehmen wird, ließ er offen.",
+        "fecha": "2026-08-19T21:16:46",
+        "fuente": "Die Zeit"
+      },
+      {
+        "titulo": "Zwei Schwerverletzte bei Unwetter in Rheinland-Pfalz",
+        "enlace": "https://www.spiegel.de/panorama/zwei-schwerverletzte-bei-unwetter-in-rheinland-pfalz-a-8dc01795-12db-46fa-8c8a-bef1b1834ebd#ref=rss",
+        "desc": "Ein heftiger Sturm ist am Abend über Rheinland-Pfalz gezogen. Zwei Menschen wurden von einem umstürzenden Baum getroffen, Einsatzkräfte kämpfen mit den Schäden. Das genaue Ausmaß i…",
+        "fecha": "2026-08-19T22:51:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
@@ -193,25 +207,11 @@
         "desc": "Die britische Regierung hat zusätzliche Mittel beschlossen, um obdachlose Menschen zu unterstützen. Premier Andy Burnham will selbst einen Teil seines Gehalts spenden.",
         "fecha": "2026-08-19T19:55:49",
         "fuente": "Die Zeit"
-      },
-      {
-        "titulo": "Jens Spahn kandidiert nach Leihmutterschafts-Debatte nicht mehr für CDU-Bezirksvorsitz im Münsterland",
-        "enlace": "https://www.spiegel.de/politik/jens-spahn-kandidiert-nach-leihmutterschafts-debatte-nicht-mehr-fuer-cdu-bezirksvorsitz-im-muensterland-a-356899ef-c989-49e3-869f-137eba31ff42#ref=rss",
-        "desc": "Seinen Posten als Fraktionschef ist er bereits los. Nun gibt Jens Spahn bekannt, dass er auch nicht mehr für den CDU-Bezirksvorsitz in seiner Heimatregion kandidiert. Parteifreunde…",
-        "fecha": "2026-08-19T21:35:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "USA: Donald Trump lässt neuen Helikopterplatz neben Weißem Haus bauen",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-08/donald-trump-weisses-haus-helikopterlandeplatz-granit-hubschrauber",
-        "desc": "Helikopter neuer Bauart können zurzeit nicht in der Nähe des Weißen Hauses landen. Das soll sich nach einer Anordnung des US-Präsidenten ändern.",
-        "fecha": "2026-08-19T18:50:22",
-        "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Cobolli batte Jodar, è ai quarti a Cincinnati",
+        "titulo": "Cobolli batte Jodar, è ai quarti a Cincinnati: “Devo credere in me stesso”",
         "enlace": "https://www.repubblica.it/sport/tennis/2026/08/19/news/cobolli_atp_cincinnati_risultati_oggi-425536764/",
         "desc": "Successo in rimonta per il romano, che ora potrebbe ritrovare sulla sua strada Zverev",
         "fecha": "2026-08-19T18:03:07+00:00",
@@ -241,10 +241,10 @@
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Track defect found on approach to site of Lewes derailment, initial report says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-        "desc": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-        "fecha": "2026-08-19T14:06:42+00:00",
+        "titulo": "Prince Harry and Meghan to return to UK",
+        "enlace": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+        "desc": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+        "fecha": "2026-08-19T21:20:05+00:00",
         "fuente": "BBC"
       },
       {
@@ -257,61 +257,61 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Sintra: jovem baleado no Parque Felício Loureiro, em Queluz",
-        "enlace": "https://www.publico.pt/2026/08/19/sociedade/noticia/sintra-jovem-baleado-parque-felicio-loureiro-queluz-2185530",
-        "desc": "Vítima encontra-se estável e foi transportada para o Hospital Amadora-Sintra.",
-        "fecha": "2026-08-19T19:43:30+00:00",
+        "titulo": "Benfica contrata central Alessandro Circati: “Gosto de jogar ao ataque”",
+        "enlace": "https://www.publico.pt/2026/08/19/desporto/noticia/benfica-contrata-central-alessandro-circati-gosto-jogar-ataque-2185534",
+        "desc": "Internacional australiano, que disputou recentemente o Campeonato do Mundo, assinou contrato até 2031 e vem colmatar a vaga deixada pela saída de António Silva.",
+        "fecha": "2026-08-19T21:17:07+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "As notícias das 21h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1733/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-19T21:16:53+01:00",
+        "titulo": "Chega alerta para crise na lavoura açoriana",
+        "enlace": "https://observador.pt/2026/08/19/chega-acores-alerta-descida-do-preco-do-leite-em-setembro-sera-mais-uma-machadada-num-setor-que-afasta-os-jovens/",
+        "desc": "Além da descida do preço do leite, apontou que o \"brutal aumento\" dos custos de produção deixou a lavoura \"à beira do precipício financeiro\"",
+        "fecha": "2026-08-19T22:26:04+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Euforia em torno dos robôs humanóides faz valor da Unitree disparar na estreia em bolsa",
-        "enlace": "https://www.publico.pt/2026/08/19/enter/noticia/euforia-torno-robos-humanoides-faz-valor-unitree-disparar-estreia-bolsa-2185521",
-        "desc": "O fabricante chinês de robôs angariou cerca de 770 milhões de euros em Xangai. A forte valorização traduz o entusiasmo dos investidores pela robótica e pela chamada “inteligência a…",
-        "fecha": "2026-08-19T19:34:13+00:00",
+        "titulo": "Ventura volta à perda da nacionalidade e acusa Governo de preparar corte nas pensões",
+        "enlace": "https://www.publico.pt/2026/08/19/politica/noticia/ventura-volta-perda-nacionalidade-acusa-governo-preparar-corte-pensoes-2185529",
+        "desc": "Num discurso requentado, presidente do Chega voltou a atacar o Governo, da imigração à corrupção, e reiterou que o partido forçará comissão de inquérito a mandatos de Luís Neves na…",
+        "fecha": "2026-08-19T21:14:54+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "A brigada ucraniana que publica a morte de soldados russos",
-        "enlace": "https://observador.pt/2026/08/19/deus-nos-livre-de-que-os-russos-venham-a-sentir-dor-a-brigada-ucraniana-que-publica-videos-de-drones-que-matam-soldados-russos/",
-        "desc": "A brigada \"Pássaros de Magyar\" tem de 3.600 arquivos de mortes de soldados russos",
-        "fecha": "2026-08-19T21:10:47+01:00",
+        "titulo": "Barcelona ganha Joan Gamper com estreia de Gordon",
+        "enlace": "https://observador.pt/2026/08/19/barcelona-vence-al-ahly-por-2-1-no-trofeu-joan-gamper-com-estreia-de-gordon-e-apresentacao-de-rodri/",
+        "desc": "O defesa direito internacional português João Cancelo, que também só chegou à Catalunha nos últimos dias",
+        "fecha": "2026-08-19T22:24:55+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Sigilo contra sigilo, juiz contra blogueiro",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/08/sigilo-contra-sigilo-juiz-contra-blogueiro.shtml",
-        "desc": "O discurso judicial brasileiro tem se dedicado a compor roteiro de vinhetas, frases de efeito e sacadas irônicas como substitutos de doutrina jurídica. Na decisão de apreensão de c…",
-        "fecha": "2026-08-19T17:00:00-03:00",
+        "titulo": "Moraes e Dino defendem a volta de regra da ditadura militar de 1969 para regulamentar o jornalismo",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/glenn-greenwald/2026/08/moraes-e-dino-defendem-a-volta-de-regra-da-ditadura-militar-de-1969-para-regulamentar-o-jornalismo.shtml",
+        "desc": "Sempre que alguém pensa já ter visto de tudo na política brasileira, logo se prova o contrário. Os ministros do STF Flávio Dino e Alexandre de Moraes induziram na terça-feira (18) …",
+        "fecha": "2026-08-19T17:55:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Mega-Sena 3046: 20 apostas de Alagoas acertam a quadra; veja cidades",
-        "enlace": "https://g1.globo.com/al/alagoas/noticia/2026/08/19/mega-sena-3046-20-apostas-de-alagoas-acertam-a-quadra-veja-cidades.ghtml",
-        "desc": "Mega-Sena, concurso 3046: confira os números sorteados Alagoas teve 20 apostas que acertaram a quadra da Mega-Sena no concurso 3046, realizado na terça-feira (18), em São Paulo. Ca…",
-        "fecha": "2026-08-19T20:29:35",
+        "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+        "enlace": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+        "desc": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+        "fecha": "2026-08-19T21:20:46",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Candidatos a deputado federal e a senador por SP podem participar de Match Eleitoral da Folha",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-a-deputado-federal-e-a-senador-por-sp-podem-participar-de-match-eleitoral-da-folha.shtml",
-        "desc": "Candidatos a deputado federal e a senador por São Paulo podem pedir o cadastro no Match Eleitoral da Folha , ferramenta que facilita a escolha desses postulantes pelos eleitores no…",
-        "fecha": "2026-08-19T16:46:00-03:00",
+        "titulo": "Caso Lulinha recoloca corrupção no caminho da campanha de Lula e desafia plano para desgastar Flávio Bolsonaro",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/caso-lulinha-recoloca-corrupcao-no-caminho-da-campanha-de-lula-e-desafia-plano-para-desgastar-flavio-bolsonaro.shtml",
+        "desc": "As investigações sobre a relação de um dos filhos e do ex-chefe de gabinete do presidente da República com a lobista Roberta Luchsinger colocaram o tema da corrupção novamente no c…",
+        "fecha": "2026-08-19T17:41:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Justiça cassa mandatos de prefeito e vice-prefeito de Santana do Acaraú; decisão cabe recurso",
-        "enlace": "https://g1.globo.com/ce/ceara/noticia/2026/08/19/justica-cassa-mandatos-de-prefeito-e-vice-prefeito-de-santana-do-acarau-decisao-cabe-recurso.ghtml",
-        "desc": "A Justiça Eleitoral cassou os diplomas do prefeito de Santana do Acaraú, Meu Deus (Republicanos), e do vice-prefeito, Marcio Adriano Carneiro Alves (Republicanos). Reprodução. A Ju…",
-        "fecha": "2026-08-19T20:29:23",
+        "titulo": "Licitação do transporte em Campinas: o que acontece agora após TCE anular leilão",
+        "enlace": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/19/licitacao-do-transporte-em-campinas-o-que-acontece-agora-apos-tce-anular-leilao.ghtml",
+        "desc": "TCE anula leilão de R$ 11,8 bilhões do transporte de Campinas por irregularidades A Prefeitura de Campinas (SP) terá de realizar um novo certame para definir as empresas que vão op…",
+        "fecha": "2026-08-19T21:20:42",
         "fuente": "G1 Globo"
       }
     ],
@@ -350,14 +350,14 @@
         "titulo": "El Ejército israelí abre una investigación por el asesinato a manos de sus tropas de la niña palestina Hind Rajab",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-19/israel-investigacion-gaza-hind-rajab-1tps_4408377/",
         "desc": "Las fuerzas israelíes admiten disparos contra un coche en Gaza en enero y abren causa penal; Fiscalía descarta nuevas acciones por el ataque al convoy de WCK en abril",
-        "fecha": "2026-08-19T20:33:21.282978+00:00",
+        "fecha": "2026-08-19T21:29:24.101190+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "\"Haber perdido a mi esposo me duele más que haber perdido mi mano derecha\": el testimonio de Nayarit Colmenares, la mujer amputada tras los terremotos en Venezuela",
-        "enlace": "https://www.bbc.com/mundo/articles/c8en2r3z61wo?at_medium=RSS&at_campaign=rss",
-        "desc": "Nayarit busca recursos para dotarse de una prótesis biónica que le permita volver a pintar y dibujar, después de autorizar a sus médicos a que le cortaran el brazo debido a los efe…",
-        "fecha": "2026-08-19T11:11:27+00:00",
+        "titulo": "\"La más mortal de las principales líneas ferroviarias de EE.UU.\": por qué más de 200 personas han muerto en las vías del tren que conecta Miami y Orlando",
+        "enlace": "https://www.bbc.com/mundo/articles/c78g49r0k19o?at_medium=RSS&at_campaign=rss",
+        "desc": "Las muertes en las vías del Brightline han envuelto en la polémica un servicio lanzado para conectar las principales ciudades de Florida.",
+        "fecha": "2026-08-19T12:00:10+00:00",
         "fuente": "BBC Mundo"
       },
       {
@@ -399,7 +399,7 @@
         "titulo": "Hallan restos de 2 alpinistas desaparecidos en 1992 por el deshielo de un glaciar suizo",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-19/deshielo-glaciar-suiza-alpinistas-desaparecidos-1tps_4408378/",
         "desc": "El retroceso de hielos suizos revela restos de dos belgas perdidos en 1992; hallados en Trift en julio e identificados por ADN tras décadas de búsquedas infructuosas",
-        "fecha": "2026-08-19T20:33:21.283016+00:00",
+        "fecha": "2026-08-19T21:29:24.101231+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -426,17 +426,17 @@
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "This $1,000 diamond tennis bracelet is just $350, thanks to Macy’s secret sale",
-        "enlace": "https://pagesix.com/2026/08/19/style/macys-1000-lab-grown-diamond-tennis-bracelet-is-now-just-350/",
-        "desc": "Whether treating yourself or a loved one, there's no time like now to shop these sparkling savings.",
-        "fecha": "2026-08-19T16:32:11-04:00",
+        "titulo": "Kyle Shanahan roasts Robert Saleh after unusual 49ers practice",
+        "enlace": "https://nypost.com/2026/08/19/sports/kyle-shanahan-roasts-robert-saleh-after-unusual-49ers-practice/",
+        "desc": "It was a dramatic departure from a chaotic joint practice with the Titans one week earlier.",
+        "fecha": "2026-08-19T17:26:17-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
-        "enlace": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-all-1573-rdf",
-        "desc": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed in foster homes as well as unde…",
-        "fecha": "2026-08-19T20:33:24.447616+00:00",
+        "titulo": "ICC slams US sanctions on court as 'flagrant attack'",
+        "enlace": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476?maca=en-rss-en-all-1573-rdf",
+        "desc": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain …",
+        "fecha": "2026-08-19T21:29:26.754893+00:00",
         "fuente": "DW English"
       },
       {
@@ -447,17 +447,17 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Trump nominates Dr. Heidi Overton as FDA commissioner",
-        "enlace": "https://www.oann.com/newsroom/trump-nominates-dr-heidi-overton-as-fda-commissioner/",
-        "desc": "President Donald Trump announced he has nominated Dr. Heidi Overton as the next commissioner of the Food and Drug Administration (FDA).",
-        "fecha": "2026-08-19T20:30:22+00:00",
+        "titulo": "Judge in Karmelo Anthony track meet murder case recused as defense seeks a new trial",
+        "enlace": "https://www.oann.com/newsroom/judge-in-karmelo-anthony-track-meet-murder-case-recused-as-defense-seeks-a-new-trial/",
+        "desc": "Defense attorneys representing 19-year-old Karmelo Anthony successfully secured a new judge after arguing the previous judge showed bias, as they continue to push for a retrial in …",
+        "fecha": "2026-08-19T21:17:33+00:00",
         "fuente": "OAN"
       },
       {
         "titulo": "Sacked Ukrainian defence minister calls for presidential election",
         "enlace": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "desc": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-        "fecha": "2026-08-19T17:23:42+00:00",
+        "fecha": "2026-08-19T20:34:39+00:00",
         "fuente": "BBC World"
       },
       {
@@ -498,10 +498,10 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 19 août 2026 - Soir",
-        "enlace": "http://fr.euronews.com/video/2026/08/19/linfo-du-jour-19-aout-2026-soir",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divert…",
-        "fecha": "2026-08-19T18:00:19+02:00",
+        "titulo": "Donald Trump annonce une rencontre avec le dirigeant nord-coréen Kim Jong-un dès cette année",
+        "enlace": "http://fr.euronews.com/2026/08/19/donald-trump-annonce-une-rencontre-avec-le-dirigeant-nord-coreen-kim-jong-un-des-cette-ann",
+        "desc": "Ces déclarations de Trump interviennent quelques jours seulement après qu’il a annoncé avoir ordonné aux forces américaines de réduire les exercices militaires conjoints avec la Co…",
+        "fecha": "2026-08-19T22:46:33+02:00",
         "fuente": "Euronews FR"
       },
       {
@@ -533,33 +533,33 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "Les Émirats arabes unis suspendent tout commerce et toute relation financière avec l'Iran",
-        "enlace": "http://fr.euronews.com/2026/08/19/les-emirats-arabes-unis-suspendent-tout-commerce-et-toute-relation-financiere-avec-liran",
-        "desc": "Une décision prise après des tirs iraniens qui, selon Abou Dabi, visaient le trafic maritime dans le détroit d'Ormuz. La suspension restera en vigueur jusqu'à nouvel ordre.",
-        "fecha": "2026-08-19T15:52:53+02:00",
+        "titulo": "L’info du jour | 19 août 2026 - Soir",
+        "enlace": "http://fr.euronews.com/video/2026/08/19/linfo-du-jour-19-aout-2026-soir",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 19 août 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le divert…",
+        "fecha": "2026-08-19T18:00:19+02:00",
         "fuente": "Euronews FR"
       },
       {
         "titulo": "Le ministre ukrainien de la Défense limogé appelle à une élection présidentielle",
         "enlace": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "desc": "La loi martiale est en vigueur en Ukraine depuis février 2022, en vertu de laquelle les élections sont suspendues.",
-        "fecha": "2026-08-19T17:23:42+00:00",
+        "fecha": "2026-08-19T20:34:39+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Céline Dion bereitet sich mit Pilates und Ballett auf Bühnen-Comeback vor",
-        "enlace": "https://www.spiegel.de/panorama/leute/celine-dion-bereitet-sich-mit-pilates-und-ballett-auf-buehnen-comeback-vor-a-808771d5-5c22-424c-8190-9c7c9a42a9b9#ref=rss",
-        "desc": "Das seltene Stiff-Person-Syndrom hat die kanadische Sängerin lange vom Show-Business ferngehalten. Im Herbst wagt sie eine Rückkehr.",
-        "fecha": "2026-08-19T21:35:00+02:00",
+        "titulo": "Joël Le Scouarnec: Neue Vorwürfe des Kindesmissbrauchs gegen bereits verurteilten Ex-Chirurgen",
+        "enlace": "https://www.spiegel.de/ausland/joel-le-scouarnec-neue-vorwuerfe-des-kindesmissbrauchs-gegen-bereits-verurteilten-ex-chirurgen-a-420acd77-3c52-4c65-a471-21f1d61810ea#ref=rss",
+        "desc": "Er war schon zur Höchststrafe verurteilt worden, nun wird erneut gegen den Franzosen Joël Le Scouarnec ermittelt. Weitere 40 sexuelle Übergriffe sollen ans Licht gekommen sein.",
+        "fecha": "2026-08-19T23:06:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Kanzler Merz: Ben-Gvirs Tötungsappell \"nicht hinnehmbar\"",
         "enlace": "https://www.dw.com/de/kanzler-merz-ben-gvirs-tötungsappell-nicht-hinnehmbar/a-78431543?maca=de-rss-de-all-1119-rdf",
         "desc": "Deutschlands Regierungschef verurteilt den Aufruf des israelischen Sicherheitsministers, Palästinenser gezielt zu töten. Die Empörung geht quer durch alle politischen Lager. Auch d…",
-        "fecha": "2026-08-19T20:33:26.455926+00:00",
+        "fecha": "2026-08-19T21:29:29.383035+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -577,17 +577,17 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Jens Spahn kandidiert nach Leihmutterschafts-Debatte nicht mehr für CDU-Bezirksvorsitz im Münsterland",
-        "enlace": "https://www.spiegel.de/politik/jens-spahn-kandidiert-nach-leihmutterschafts-debatte-nicht-mehr-fuer-cdu-bezirksvorsitz-im-muensterland-a-356899ef-c989-49e3-869f-137eba31ff42#ref=rss",
-        "desc": "Seinen Posten als Fraktionschef ist er bereits los. Nun gibt Jens Spahn bekannt, dass er auch nicht mehr für den CDU-Bezirksvorsitz in seiner Heimatregion kandidiert. Parteifreunde…",
-        "fecha": "2026-08-19T21:35:00+02:00",
+        "titulo": "Zwei Schwerverletzte bei Unwetter in Rheinland-Pfalz",
+        "enlace": "https://www.spiegel.de/panorama/zwei-schwerverletzte-bei-unwetter-in-rheinland-pfalz-a-8dc01795-12db-46fa-8c8a-bef1b1834ebd#ref=rss",
+        "desc": "Ein heftiger Sturm ist am Abend über Rheinland-Pfalz gezogen. Zwei Menschen wurden von einem umstürzenden Baum getroffen, Einsatzkräfte kämpfen mit den Schäden. Das genaue Ausmaß i…",
+        "fecha": "2026-08-19T22:51:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Sophie Hinners: Mit Frauen-Power zur WM-Medaille?",
-        "enlace": "https://www.dw.com/de/sophie-hinners-mit-frauen-power-zur-wm-medaille/a-78428911?maca=de-rss-de-all-1119-rdf",
-        "desc": "Die Springreiterin kämpft bei der Reitsport-WM in Aachen mit der deutschen Equipe um den Titel. In die Weltspitze hat sie es auch durch das Iron Dames Teams geschafft - ein Sportfö…",
-        "fecha": "2026-08-19T20:33:26.455968+00:00",
+        "titulo": "Reit-WM in Aachen: Mit Frauen-Power zur Weltmeisterschaft?",
+        "enlace": "https://www.dw.com/de/reit-wm-in-aachen-mit-frauen-power-zur-weltmeisterschaft/a-78428911?maca=de-rss-de-all-1119-rdf",
+        "desc": "Springreiterin Sophie Hinners kämpft bei der Reit-WM mit der Mannschaft und im Einzel um den Titel. In die Weltspitze hat sie es auch durch das Iron Dames Team geschafft - ein Spor…",
+        "fecha": "2026-08-19T21:29:29.383082+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -601,7 +601,7 @@
         "titulo": "Der entlassene ukrainische Verteidigungsminister fordert Präsidentschaftswahlen",
         "enlace": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "desc": "Seit Februar 2022 gilt in der Ukraine das Kriegsrecht, wodurch Wahlen ausgesetzt sind.",
-        "fecha": "2026-08-19T17:23:42+00:00",
+        "fecha": "2026-08-19T20:34:39+00:00",
         "fuente": "BBC World EN"
       }
     ],
@@ -645,23 +645,23 @@
         "titulo": "Il ministro della Difesa ucraino licenziato chiede le elezioni presidenziali",
         "enlace": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "desc": "Dal febbraio 2022 in Ucraina è in vigore la legge marziale, in base alla quale le elezioni sono sospese.",
-        "fecha": "2026-08-19T17:23:42+00:00",
+        "fecha": "2026-08-19T20:34:39+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "Nuno Mendes suspenso por três jogos após expulsão na Supertaça francesa",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/nuno-mendes-suspenso-por-tres-jogos-apos-expulsao-na-supertaca-francesa_d1760461",
-        "desc": "O defesa esquerdo internacional português Nuno Mendes, do Paris Saint-Germain, foi suspenso por três jogos, após ter sido expulso na derrota frente ao Lens na Supertaça de França, …",
-        "fecha": "2026-08-19T22:29:58+01:00",
+        "titulo": "Trump prevê acordo com Canadá para suspender tarifas \"muito justo\" para ambos países",
+        "enlace": "https://www.rtp.pt/noticias/mundo/trump-preve-acordo-com-canada-para-suspender-tarifas-muito-justo-para-ambos-paises_n1760468",
+        "desc": "O Presidente dos Estados Unidos, Donald Trump, assegurou hoje que o acordo para suspender por três dias as tarifas de 50% que Washington se preparava para impor ao Canadá é &quot;m…",
+        "fecha": "2026-08-19T23:05:17+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "As notícias das 21h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1733/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-19T21:16:53+01:00",
+        "titulo": "Chega alerta para crise na lavoura açoriana",
+        "enlace": "https://observador.pt/2026/08/19/chega-acores-alerta-descida-do-preco-do-leite-em-setembro-sera-mais-uma-machadada-num-setor-que-afasta-os-jovens/",
+        "desc": "Além da descida do preço do leite, apontou que o \"brutal aumento\" dos custos de produção deixou a lavoura \"à beira do precipício financeiro\"",
+        "fecha": "2026-08-19T22:26:04+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,24 +672,24 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "21h PS queria ter sido ouvido sobre compra de capital da REN",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ps-queria-ter-sido-ouvido-sobre-compra-de-capital-da-ren_a1_1760460",
-        "desc": "",
-        "fecha": "2026-08-19T22:28:02+01:00",
+        "titulo": "Incêndios em Portugal. A situação ao minuto",
+        "enlace": "https://www.rtp.pt/noticias/pais/incendios-em-portugal-a-situacao-ao-minuto_e1760277",
+        "desc": "Pelas 21:00 de quarta-feira, o incêndio de Santo Tirso estava dominado e em fase de rescaldo para prevenir reacendimentos. Já em Arouca, o fogo avançava em três frentes ativas comb…",
+        "fecha": "2026-08-19T23:03:28+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "A brigada ucraniana que publica a morte de soldados russos",
-        "enlace": "https://observador.pt/2026/08/19/deus-nos-livre-de-que-os-russos-venham-a-sentir-dor-a-brigada-ucraniana-que-publica-videos-de-drones-que-matam-soldados-russos/",
-        "desc": "A brigada \"Pássaros de Magyar\" tem de 3.600 arquivos de mortes de soldados russos",
-        "fecha": "2026-08-19T21:10:47+01:00",
+        "titulo": "Barcelona ganha Joan Gamper com estreia de Gordon",
+        "enlace": "https://observador.pt/2026/08/19/barcelona-vence-al-ahly-por-2-1-no-trofeu-joan-gamper-com-estreia-de-gordon-e-apresentacao-de-rodri/",
+        "desc": "O defesa direito internacional português João Cancelo, que também só chegou à Catalunha nos últimos dias",
+        "fecha": "2026-08-19T22:24:55+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "'Ele nos drogou e nos fez urinar na roupa': as acusações de mais de 200 mulheres contra ex-funcionário do governo francês",
-        "enlace": "https://www.bbc.com/portuguese/articles/cx27vj870p2o?at_medium=RSS&at_campaign=rss",
-        "desc": "Uma planilha encontrada pela polícia detalhava os supostos 'experimentos' com as mulheres; duas delas contam à BBC como foram drogadas e humilhadas.",
-        "fecha": "2026-08-19T16:57:54+00:00",
+        "titulo": "Israel confirma que soldados atiraram contra o carro em que palestina de 5 anos foi morta e abre investigação",
+        "enlace": "https://www.bbc.com/portuguese/articles/cp8xgw0p3p6o?at_medium=RSS&at_campaign=rss",
+        "desc": "A menina de cinco anos, moradora de Gaza, sobreviveu inicialmente ao ataque e pediu ajuda, mas seu corpo foi encontrado posteriormente junto aos de seis de seus familiares.",
+        "fecha": "2026-08-19T21:00:47+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -704,7 +704,7 @@
       {
         "titulo": "Un Barça lejos de sí mismo se pone en marcha en casa",
         "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217735/cronica.html",
-        "desc": "A l tran tran en la fiesta del Gamper. Al Barcelona de Flick 3.0 le falta todavía mucho rodaje. Está muy lejos de sí mismo, pero volvió a casa. Ni el ritmo de juego es el de los me…",
+        "desc": "A l tran-tran en la fiesta del Gamper. Al Barcelona de Flick 3.0 le falta todavía mucho rodaje. Está muy lejos de sí mismo, pero volvió a casa. Ni el ritmo de juego es el de los me…",
         "fecha": "2026-08-19T22:05:17+02:00",
         "fuente": "Mundo Deportivo"
       },
@@ -776,14 +776,14 @@
       {
         "titulo": "Woman struggled to speak about alleged abuse by Dott, court told",
         "enlace": "https://www.skysports.com/snooker/news/12040/13574834/woman-struggled-to-speak-about-alleged-abuse-by-graeme-dott-court-told",
-        "desc": "A woman allegedly sexually abused as a schoolgirl by former world snooker champion Graeme&#160;Dott&#160;has told a court she \"struggled\" to tell anybody about what happened.",
+        "desc": "A woman who was allegedly sexually abused as a schoolgirl by former world snooker champion Graeme&#160;Dott&#160;has told a court she \"struggled\" to tell anybody about what happene…",
         "fecha": "2026-08-19T19:23:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "How Root brought welcome calm on return as England captain",
+        "titulo": "Comment Root a apporté un calme bienvenu à son retour en tant que capitaine de l'Angleterre",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss",
         "desc": "Joe Root a suivi les conseils de Harry Brook et a adopté une approche non interventionniste avec ses quilleurs à son retour en tant que skipper du test d'Angleterre.",
         "fecha": "2026-08-19T19:49:23+00:00",
@@ -799,10 +799,10 @@
     ],
     "deportes_de": [
       {
-        "titulo": "Sophie Hinners: Mit Frauen-Power zur WM-Medaille?",
-        "enlace": "https://www.dw.com/de/sophie-hinners-mit-frauen-power-zur-wm-medaille/a-78428911?maca=de-rss-de-sport-4020-rdf",
-        "desc": "Die Springreiterin kämpft bei der Reitsport-WM in Aachen mit der deutschen Equipe um den Titel. In die Weltspitze hat sie es auch durch das Iron Dames Teams geschafft - ein Sportfö…",
-        "fecha": "2026-08-19T20:33:36.842464+00:00",
+        "titulo": "Reit-WM in Aachen: Mit Frauen-Power zur Weltmeisterschaft?",
+        "enlace": "https://www.dw.com/de/reit-wm-in-aachen-mit-frauen-power-zur-weltmeisterschaft/a-78428911?maca=de-rss-de-sport-4020-rdf",
+        "desc": "Springreiterin Sophie Hinners kämpft bei der Reit-WM mit der Mannschaft und im Einzel um den Titel. In die Weltspitze hat sie es auch durch das Iron Dames Team geschafft - ein Spor…",
+        "fecha": "2026-08-19T21:29:39.511986+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,7 +816,7 @@
         "titulo": "CHIO Aachen: Mareike Meier - Pionierin mit vier PS",
         "enlace": "https://www.dw.com/de/chio-aachen-mareike-meier-pionierin-mit-vier-ps/a-73140661?maca=de-rss-de-sport-4020-rdf",
         "desc": "Seit über zehn Jahren fährt Mareike Meier Vierspänner - zuvor fast eine reine Männerdomäne. Durch ihre Erfolge hat sie die Sicht auf Frauen auf dem Kutschbock verändert und ist Vor…",
-        "fecha": "2026-08-19T20:33:36.842505+00:00",
+        "fecha": "2026-08-19T21:29:39.512032+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -838,7 +838,7 @@
       {
         "titulo": "L'allenatore di atletica leggera ritenuto scomparso è in prigione per violenza sessuale",
         "enlace": "https://www.bbc.co.uk/sport/athletics/articles/c204wq61e19o?at_medium=RSS&at_campaign=rss",
-        "desc": "English athletics coach Leon Baptiste was given a 10-month prison sentence in Morocco for sexually assaulting a minor.",
+        "desc": "L'allenatore inglese di atletica leggera Leon Baptiste è stato condannato a 10 mesi di reclusione in Marocco per aver aggredito sessualmente un minore.",
         "fecha": "2026-08-19T15:47:20+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -860,23 +860,23 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "\"Haber perdido a mi esposo me duele más que haber perdido mi mano derecha\": el testimonio de Nayarit Colmenares, la mujer amputada tras los terremotos en Venezuela",
-        "enlace": "https://www.bbc.com/mundo/articles/c8en2r3z61wo?at_medium=RSS&at_campaign=rss",
-        "desc": "Nayarit busca recursos para dotarse de una prótesis biónica que le permita volver a pintar y dibujar, después de autorizar a sus médicos a que le cortaran el brazo debido a los efe…",
-        "fecha": "2026-08-19T11:11:27+00:00",
+        "titulo": "\"La más mortal de las principales líneas ferroviarias de EE.UU.\": por qué más de 200 personas han muerto en las vías del tren que conecta Miami y Orlando",
+        "enlace": "https://www.bbc.com/mundo/articles/c78g49r0k19o?at_medium=RSS&at_campaign=rss",
+        "desc": "Las muertes en las vías del Brightline han envuelto en la polémica un servicio lanzado para conectar las principales ciudades de Florida.",
+        "fecha": "2026-08-19T12:00:10+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Evidencia de superconductividad mejorada por vacío en NbSe 2",
         "enlace": "https://www.nature.com/articles/s41586-026-11037-x",
         "desc": "Naturaleza, Publicado en línea: 19 de agosto de 2026; doi:10.1038/s41586-026-11037-x Evidencia de superconductividad mejorada por vacío en NbSe 2",
-        "fecha": "2026-08-19T20:33:51.101791+00:00",
+        "fecha": "2026-08-19T21:30:00.056861+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Premio TechLeap de la NASA: Desafío de claridad orbital",
         "enlace": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
-        "desc": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s&#160;Heliophysics Division,&#160;Flight Opportunities program…",
+        "desc": "El Orbital Clarity Challenge, el sexto de la serie de premios TechLeap de la NASA, es un esfuerzo de colaboración entre la División de Heliofísica de la NASA, el programa Flight Opportunities...",
         "fecha": "2026-08-19T19:57:48+00:00",
         "fuente": "NASA EN"
       },
@@ -895,17 +895,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "\"La más mortal de las principales líneas ferroviarias de EE.UU.\": por qué más de 200 personas han muerto en las vías del tren que conecta Miami y Orlando",
-        "enlace": "https://www.bbc.com/mundo/articles/c78g49r0k19o?at_medium=RSS&at_campaign=rss",
-        "desc": "Las muertes en las vías del Brightline han envuelto en la polémica un servicio lanzado para conectar las principales ciudades de Florida.",
-        "fecha": "2026-08-19T12:00:10+00:00",
+        "titulo": "\"Haber perdido a mi esposo me duele más que haber perdido mi mano derecha\": el testimonio de Nayarit Colmenares, la mujer amputada tras los terremotos en Venezuela",
+        "enlace": "https://www.bbc.com/mundo/articles/c8en2r3z61wo?at_medium=RSS&at_campaign=rss",
+        "desc": "Nayarit busca recursos para dotarse de una prótesis biónica que le permita volver a pintar y dibujar, después de autorizar a sus médicos a que le cortaran el brazo debido a los efe…",
+        "fecha": "2026-08-19T11:11:27+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Demasiada elección de pareja abruma a las ranas",
         "enlace": "https://www.nature.com/articles/d41586-026-02554-w",
         "desc": "Naturaleza, Publicado en línea: 19 de agosto de 2026; doi:10.1038/d41586-026-02554-w Las ranas arborícolas hembras seleccionan con menos cuidado cuando escuchan un coro de machos.",
-        "fecha": "2026-08-19T20:33:51.101831+00:00",
+        "fecha": "2026-08-19T21:30:00.056901+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -921,7 +921,7 @@
         "titulo": "Evidence for vacuum-enhanced superconductivity in NbSe 2",
         "enlace": "https://www.nature.com/articles/s41586-026-11037-x",
         "desc": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-11037-x Evidence for vacuum-enhanced superconductivity in NbSe 2",
-        "fecha": "2026-08-19T20:33:53.446622+00:00",
+        "fecha": "2026-08-19T21:30:01.585235+00:00",
         "fuente": "Nature"
       },
       {
@@ -946,10 +946,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Interworld Slingshot: Exploring a new way to find resources in space",
-        "enlace": "https://phys.org/news/2026-08-interworld-slingshot-exploring-resources-space.html",
-        "desc": "Before people can mine resources on the moon, asteroids or Mars, they need to answer a few key questions: What is there? How much is there? And where can it be found? A team led by…",
-        "fecha": "2026-08-19T16:30:02-04:00",
+        "titulo": "How we found a new transmissible cancer in bullhead catfish",
+        "enlace": "https://phys.org/news/2026-08-transmissible-cancer-bullhead-catfish.html",
+        "desc": "For more than a decade, anglers on Lake Memphremagog—which straddles the Quebec–Vermont border—have been catching brown bullhead catfish marked with distinctive black lesions.",
+        "fecha": "2026-08-19T17:20:02-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Too much mate choice overwhelms frogs",
         "enlace": "https://www.nature.com/articles/d41586-026-02554-w",
         "desc": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02554-w Female treefrogs select less carefully when hearing a chorus of males.",
-        "fecha": "2026-08-19T20:33:53.446661+00:00",
+        "fecha": "2026-08-19T21:30:01.585275+00:00",
         "fuente": "Nature"
       }
     ],
@@ -997,10 +997,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Preuve d'une supraconductivité améliorée sous vide dans NbSe 2",
+        "titulo": "Evidence for vacuum-enhanced superconductivity in NbSe 2",
         "enlace": "https://www.nature.com/articles/s41586-026-11037-x",
         "desc": "Nature, Mise en ligne : 19 août 2026 ; est ce que je:10.1038/s41586-026-11037-x Preuve d'une supraconductivité améliorée sous vide dans NbSe 2",
-        "fecha": "2026-08-19T20:33:57.670823+00:00",
+        "fecha": "2026-08-19T21:30:05.684702+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Trop de choix de partenaires submergent les grenouilles",
         "enlace": "https://www.nature.com/articles/d41586-026-02554-w",
         "desc": "Nature, Mise en ligne : 19 août 2026 ; est ce que je:10.1038/d41586-026-02554-w Les rainettes femelles sélectionnent moins soigneusement lorsqu'elles entendent un chœur de mâles.",
-        "fecha": "2026-08-19T20:33:57.670862+00:00",
+        "fecha": "2026-08-19T21:30:05.684746+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "USA: Weniger Adipositas wegen Ozempic-Effekt?",
         "enlace": "https://www.dw.com/de/usa-weniger-adipositas-wegen-ozempic-effekt/a-78242426?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Jahrelang stiegen die Raten von starkem Übergewicht in den USA. Nun gibt es Hinweise auf einen Trendwechsel. Welche Rolle spielen dabei Abnehmmedikamente wie Ozempic?",
-        "fecha": "2026-08-19T20:33:58.688496+00:00",
+        "fecha": "2026-08-19T21:30:06.944921+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Hinweise auf vakuumverstärkte Supraleitung in NbSe 2",
         "enlace": "https://www.nature.com/articles/s41586-026-11037-x",
-        "desc": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-11037-x Evidence for vacuum-enhanced superconductivity in NbSe 2",
-        "fecha": "2026-08-19T20:33:59.700552+00:00",
+        "desc": "Natur, Online veröffentlicht: 19. August 2026; doi:10.1038/s41586-026-11037-x Hinweise auf vakuumverstärkte Supraleitung in NbSe 2",
+        "fecha": "2026-08-19T21:30:07.062556+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Hitze und Trockenheit: Wie retten wir unsere Bäume?",
         "enlace": "https://www.dw.com/de/hitze-und-trockenheit-wie-retten-wir-unsere-bäume/a-78372685?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Bäume leiden in diesem Dürresommer unter akutem Wassermangel. Doch sie werden als natürliche Klimaanlagen in Städten gebraucht. Müssen Bürger die Stadtbäume gießen? Was Bäumen jetz…",
-        "fecha": "2026-08-19T20:33:58.688535+00:00",
+        "fecha": "2026-08-19T21:30:06.944963+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Eine zu große Partnerwahl überfordert Frösche",
         "enlace": "https://www.nature.com/articles/d41586-026-02554-w",
-        "desc": "Natur, Online veröffentlicht: 19. August 2026; doi:10.1038/d41586-026-02554-w Laubfroschweibchen wählen weniger sorgfältig aus, wenn sie einen Chor von Männchen hören.",
-        "fecha": "2026-08-19T20:33:59.700591+00:00",
+        "desc": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02554-w Female treefrogs select less carefully when hearing a chorus of males.",
+        "fecha": "2026-08-19T21:30:07.062608+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,23 +1053,23 @@
         "titulo": "Prova della superconduttività potenziata dal vuoto in NbSe 2",
         "enlace": "https://www.nature.com/articles/s41586-026-11037-x",
         "desc": "Natura, Pubblicato online: 19 agosto 2026; doi:10.1038/s41586-026-11037-x Prova della superconduttività potenziata dal vuoto in NbSe 2",
-        "fecha": "2026-08-19T20:34:02.215777+00:00",
+        "fecha": "2026-08-19T21:30:08.611330+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Troppa scelta del compagno travolge le rane",
         "enlace": "https://www.nature.com/articles/d41586-026-02554-w",
         "desc": "Natura, Pubblicato online: 19 agosto 2026; doi:10.1038/d41586-026-02554-w Le raganelle femmine selezionano con meno attenzione quando sentono un coro di maschi.",
-        "fecha": "2026-08-19T20:34:02.215816+00:00",
+        "fecha": "2026-08-19T21:30:08.611371+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "As notícias das 21h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1733/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-19T21:16:53+01:00",
+        "titulo": "Chega alerta para crise na lavoura açoriana",
+        "enlace": "https://observador.pt/2026/08/19/chega-acores-alerta-descida-do-preco-do-leite-em-setembro-sera-mais-uma-machadada-num-setor-que-afasta-os-jovens/",
+        "desc": "Além da descida do preço do leite, apontou que o \"brutal aumento\" dos custos de produção deixou a lavoura \"à beira do precipício financeiro\"",
+        "fecha": "2026-08-19T22:26:04+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1080,17 +1080,17 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "A brigada ucraniana que publica a morte de soldados russos",
-        "enlace": "https://observador.pt/2026/08/19/deus-nos-livre-de-que-os-russos-venham-a-sentir-dor-a-brigada-ucraniana-que-publica-videos-de-drones-que-matam-soldados-russos/",
-        "desc": "A brigada \"Pássaros de Magyar\" tem de 3.600 arquivos de mortes de soldados russos",
-        "fecha": "2026-08-19T21:10:47+01:00",
+        "titulo": "Barcelona ganha Joan Gamper com estreia de Gordon",
+        "enlace": "https://observador.pt/2026/08/19/barcelona-vence-al-ahly-por-2-1-no-trofeu-joan-gamper-com-estreia-de-gordon-e-apresentacao-de-rodri/",
+        "desc": "O defesa direito internacional português João Cancelo, que também só chegou à Catalunha nos últimos dias",
+        "fecha": "2026-08-19T22:24:55+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "'Ele nos drogou e nos fez urinar na roupa': as acusações de mais de 200 mulheres contra ex-funcionário do governo francês",
-        "enlace": "https://www.bbc.com/portuguese/articles/cx27vj870p2o?at_medium=RSS&at_campaign=rss",
-        "desc": "Uma planilha encontrada pela polícia detalhava os supostos 'experimentos' com as mulheres; duas delas contam à BBC como foram drogadas e humilhadas.",
-        "fecha": "2026-08-19T16:57:54+00:00",
+        "titulo": "Israel confirma que soldados atiraram contra o carro em que palestina de 5 anos foi morta e abre investigação",
+        "enlace": "https://www.bbc.com/portuguese/articles/cp8xgw0p3p6o?at_medium=RSS&at_campaign=rss",
+        "desc": "A menina de cinco anos, moradora de Gaza, sobreviveu inicialmente ao ataque e pediu ajuda, mas seu corpo foi encontrado posteriormente junto aos de seis de seus familiares.",
+        "fecha": "2026-08-19T21:00:47+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1106,7 +1106,7 @@
         "titulo": "El foro 'Emerging Markets Summit', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
         "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-19T20:34:06.825970+00:00",
+        "fecha": "2026-08-19T21:30:11.618530+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,16 +1117,16 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Mark Walter explora vender participación en el Chelsea FC",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
-        "desc": "Randall Williams de Bloomberg se une a Dani Burger en \"Bloomberg Deals\". El multimillonario director ejecutivo del Guggenheim, Mark Walter, ha explorado la posibilidad de vender su participación en el Chelsea FC a Clearlake Capital,...",
-        "fecha": "2026-08-19T20:30:49+00:00",
+        "titulo": "Trump Opens Door to Hyperliquid as US Pulls Crypto Trade Onshore",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+        "desc": "El presidente Donald Trump dijo que los reguladores estadounidenses están trabajando para traer Hyperliquid, una plataforma criptográfica de rápido crecimiento, al país, ofreciendo una de las señales más claras hasta ahora de que Whit...",
+        "fecha": "2026-08-19T20:20:54+00:00",
         "fuente": "Bloomberg"
       },
       {
         "titulo": "Target dice que su recuperación está cobrando fuerza, con la ayuda de un gran reembolso de tarifas",
         "enlace": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-        "desc": "Target registró ventas en el segundo trimestre fiscal mejores de lo esperado y elevó sus perspectivas para todo el año.",
+        "desc": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
         "fecha": "2026-08-19T20:00:13+00:00",
         "fuente": "CNBC"
       },
@@ -1141,7 +1141,7 @@
         "titulo": "Foro 'Ideas con Valor', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
         "desc": "El Confidencial volvió a reunir a expertos de distintos ámbitos para poner el foco en 3 bloques imprescindibles para la sociedad: acción social, sostenibilidad y finanzas personale…",
-        "fecha": "2026-08-19T20:34:06.826010+00:00",
+        "fecha": "2026-08-19T21:30:11.618571+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,33 +1152,33 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Moderna surge a medida que suben las acciones y retroceden los rendimientos a largo plazo | Campana de cierre",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
-        "desc": "Cobertura integral multiplataforma del cierre del mercado estadounidense en Bloomberg Television, Bloomberg Radio y YouTube con Romaine Bostick, Isabelle Lee, Carol Massar y Emily Graf...",
-        "fecha": "2026-08-19T20:25:45+00:00",
+        "titulo": "Mark Walter explora vender participación en el Chelsea FC",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
+        "desc": "Randall Williams de Bloomberg se une a Dani Burger en \"Bloomberg Deals\". El multimillonario director ejecutivo del Guggenheim, Mark Walter, ha explorado la posibilidad de vender su participación en el Chelsea FC a Clearlake Capital,...",
+        "fecha": "2026-08-19T20:30:49+00:00",
         "fuente": "Bloomberg"
       },
       {
         "titulo": "Lowe's ofrece perspectivas moderadas al ver \"presión\" en el gasto en mejoras del hogar",
         "enlace": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-        "desc": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+        "desc": "Lowe's informó resultados trimestrales mixtos, ya que el minorista dijo que seguía viendo presión en el gasto en mejoras del hogar.",
         "fecha": "2026-08-19T20:00:17+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Mark Walter Explores Selling Stake in Chelsea FC",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
-        "desc": "Bloomberg's Randall Williams joins Dani Burger on \"Bloomberg Deals.\" Billionaire CEO of Guggenheim, Mark Walter, has explored selling his stake in Chelsea FC to Clearlake Capital, …",
-        "fecha": "2026-08-19T20:30:49+00:00",
+        "titulo": "Trump Opens Door to Hyperliquid as US Pulls Crypto Trade Onshore",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+        "desc": "President Donald Trump said US regulators are working to bring Hyperliquid, a fast-growing crypto platform, into the country, offering one of the clearest signals yet that the Whit…",
+        "fecha": "2026-08-19T20:20:54+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "US national debt hits $40 trillion milestone for first time ever",
-        "enlace": "https://www.foxbusiness.com/economy/us-national-debt-hits-40-trillion-milestone-first-time-ever",
-        "desc": "The U.S. national debt topped $40 trillion as interest costs now exceed national defense spending and the debt doubled in under 10 years.",
-        "fecha": "2026-08-19T16:21:12-04:00",
+        "titulo": "Major casino operator discloses ‘substantial doubt’ over future as debt pressures mount",
+        "enlace": "https://www.foxbusiness.com/markets/major-casino-operator-discloses-substantial-doubt-over-future-debt-pressures-mount",
+        "desc": "Bally&apos;s raised substantial doubt about its ability to continue as a going concern, citing its debt burden and pursuing financing alternatives.",
+        "fecha": "2026-08-19T17:21:49-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1191,22 +1191,22 @@
       {
         "titulo": "Why bond markets are unnerving rich-world politicians",
         "enlace": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
-        "desc": "As stocks rise ever higher, yields have been rising ominously",
+        "desc": "As stocks rise ever higher, yields have been climbing ominously",
         "fecha": "2026-08-19T18:02:58+00:00",
         "fuente": "The Economist"
       },
       {
-        "titulo": "Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
-        "desc": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Emily Graf…",
-        "fecha": "2026-08-19T20:25:45+00:00",
+        "titulo": "Mark Walter Explores Selling Stake in Chelsea FC",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
+        "desc": "Bloomberg's Randall Williams joins Dani Burger on \"Bloomberg Deals.\" Billionaire CEO of Guggenheim, Mark Walter, has explored selling his stake in Chelsea FC to Clearlake Capital, …",
+        "fecha": "2026-08-19T20:30:49+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "State Farm customers are getting a historic $5B payout: Here’s who qualifies",
-        "enlace": "https://www.foxbusiness.com/lifestyle/state-farm-customers-getting-historic-5b-payout-heres-who-qualifies",
-        "desc": "State Farm is returning a record $5 billion to eligible auto customers nationwide, with payments rolling out in waves over several months.",
-        "fecha": "2026-08-19T15:52:13-04:00",
+        "titulo": "US national debt hits $40 trillion milestone for first time ever",
+        "enlace": "https://www.foxbusiness.com/economy/us-national-debt-hits-40-trillion-milestone-first-time-ever",
+        "desc": "The U.S. national debt topped $40 trillion as interest costs now exceed national defense spending and the debt doubled in under 10 years.",
+        "fecha": "2026-08-19T16:21:12-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1226,26 +1226,40 @@
     ],
     "economia_fr": [
       {
+        "titulo": "Trump ouvre la porte à l'hyperliquide alors que les États-Unis retirent le commerce de la cryptographie à l'étranger",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+        "desc": "Le président Donald Trump a déclaré que les régulateurs américains s'efforçaient d'introduire Hyperliquid, une plate-forme cryptographique à croissance rapide, dans le pays, offrant l'un des signaux les plus clairs à ce jour que la Pentecôte…",
+        "fecha": "2026-08-19T20:20:54+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
         "titulo": "Mark Walter envisage de vendre sa participation dans le Chelsea FC",
         "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
         "desc": "Randall Williams de Bloomberg rejoint Dani Burger sur \"Bloomberg Deals\". Le PDG milliardaire du Guggenheim, Mark Walter, a envisagé de vendre sa participation dans le Chelsea FC à Clearlake Capital,…",
         "fecha": "2026-08-19T20:30:49+00:00",
         "fuente": "Bloomberg EN"
-      },
-      {
-        "titulo": "Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
-        "desc": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Emily Graf…",
-        "fecha": "2026-08-19T20:25:45+00:00",
-        "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Geldpolitik: Fed-Protokoll: Inflationssorgen in der US-Notenbank nehmen zu",
-        "enlace": "https://www.handelsblatt.com/finanzen/geldpolitik/fed-protokoll-inflationssorgen-in-der-us-notenbank-nehmen-zu/100247620.html",
-        "desc": "Die Fed steht vor einem Kurswechsel: Mehrere Notenbanker wollten die Zinsen bereits im Juli erhöhen. Sollte die Inflation nicht nachlassen, stehen Zinserhöhungen bevor.",
-        "fecha": "2026-08-19T20:13:11+00:00",
+        "titulo": "US-Börsen: Wall Street schließt dank sinkender Anleiherenditen im Plus",
+        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-schliessen-unveraendert-ki-aktien-verlieren-deutlich/100248341.html",
+        "desc": "Die Ölpreise klettern angesichts der weiter angespannten Lage im Nahen Osten auf ein Drei-Wochen-Hoch und schüren Inflationssorgen. Eine andere Entwicklung entspannt die Märkte all…",
+        "fecha": "2026-08-20T13:13:00+00:00",
+        "fuente": "Handelsblatt"
+      },
+      {
+        "titulo": "Trump öffnet die Tür für Hyperliquid, während die USA den Krypto-Handel an Land verlagern",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+        "desc": "Präsident Donald Trump sagte, dass die US-Regulierungsbehörden daran arbeiten, Hyperliquid, eine schnell wachsende Krypto-Plattform, ins Land zu bringen, und lieferte damit eines der deutlichsten Signale, dass die Whit…",
+        "fecha": "2026-08-19T20:20:54+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
+        "titulo": "Sachsen-Anhalt: CDU-Bürgermeister spendet 10.000 Euro und hofft auf eine AfD-Alleinregierung",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-cdu-buergermeister-hofft-auf-afd-alleinregierung/100248420.html",
+        "desc": "Bernd Prange sitzt für die CDU im Stendaler Kreistag und ist Ortsbürgermeister. Trotzdem unterstützt er die AfD in Sachsen-Anhalt. Seine Partei droht nun mit Konsequenzen.",
+        "fecha": "2026-08-19T20:49:14+00:00",
         "fuente": "Handelsblatt"
       },
       {
@@ -1254,65 +1268,51 @@
         "desc": "Randall Williams von Bloomberg begleitet Dani Burger bei „Bloomberg Deals“. Der milliardenschwere CEO von Guggenheim, Mark Walter, hat den Verkauf seiner Anteile am Chelsea FC an Clearlake Capital geprüft, …",
         "fecha": "2026-08-19T20:30:49+00:00",
         "fuente": "Bloomberg EN"
-      },
-      {
-        "titulo": "+++ USA +++: Trump nominiert Heidi Overton als Leiterin von Arzneimittelbehörde",
-        "enlace": "https://www.handelsblatt.com/politik/international/usa-trump-nominiert-heidi-overton-als-leiterin-von-arzneimittelbehoerde/29669594.html",
-        "desc": "Trump will Kim Jong Un noch 2026 treffen +++ Bundesregierung und Japan kritisieren US-Sanktionen gegen Weltstrafgerichts-Präsidentin +++ USA und Südkorea verkürzen Militärübungen +…",
-        "fecha": "2026-08-19T19:54:07+00:00",
-        "fuente": "Handelsblatt"
-      },
-      {
-        "titulo": "Moderna steigt, da die Aktien steigen und die langfristigen Renditen sinken | Schlussglocke",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
-        "desc": "Umfassende plattformübergreifende Berichterstattung über den US-Markt auf Bloomberg Television, Bloomberg Radio und YouTube mit Romaine Bostick, Isabelle Lee, Carol Massar und Emily Graf …",
-        "fecha": "2026-08-19T20:25:45+00:00",
-        "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
+      {
+        "titulo": "Trump apre le porte all’iperliquido mentre gli Stati Uniti ritirano il commercio di criptovalute a terra",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+        "desc": "Il presidente Donald Trump ha affermato che i regolatori statunitensi stanno lavorando per portare Hyperliquid, una piattaforma crittografica in rapida crescita, nel paese, offrendo uno dei segnali più chiari finora che il Whit...",
+        "fecha": "2026-08-19T20:20:54+00:00",
+        "fuente": "Bloomberg EN"
+      },
       {
         "titulo": "Mark Walter valuta la possibilità di vendere una partecipazione nel Chelsea FC",
         "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
         "desc": "Randall Williams di Bloomberg si unisce a Dani Burger in \"Bloomberg Deals\". Il CEO miliardario del Guggenheim, Mark Walter, ha valutato la possibilità di vendere la sua partecipazione nel Chelsea FC a Clearlake Capital,...",
         "fecha": "2026-08-19T20:30:49+00:00",
         "fuente": "Bloomberg EN"
-      },
-      {
-        "titulo": "Moderna in rialzo mentre le azioni salgono e i rendimenti a lungo termine diminuiscono | Campana di chiusura",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
-        "desc": "Copertura completa multipiattaforma del mercato statunitense su Bloomberg Television, Bloomberg Radio e YouTube con Romaine Bostick, Isabelle Lee, Carol Massar ed Emily Graf...",
-        "fecha": "2026-08-19T20:25:45+00:00",
-        "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Trump tenta acordo com Canadá e propõe tarifas de 25% em vez de 50%",
-        "enlace": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-tenta-acordo-com-canada-e-propoe-tarifas-de-25-em-vez-de-50",
-        "desc": "As tarifas impostas por Washington a vários produtos oriundos do Canadá deveriam ter entrado em vigor esta quarta-feira, mas num esforço de alcançar um acordo o prazo foi prolongad…",
-        "fecha": "2026-08-19T20:25:50+01:00",
+        "titulo": "Roménia e Polónia avançam com contribuição extraordinária sobre o setor petrolífero",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/romenia-e-polonia-avancam-com-contribuicao-extraordinaria-sobre-o-setor-petrolifero",
+        "desc": "Roménia quer operadores que extraem petróleo bruto a pagar contribuição temporária de 60% sobre os rendimentos excecionais, declarando uma crise no setor válida até 31 de outubro. …",
+        "fecha": "2026-08-19T22:15:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Mark Walter Explores Selling Stake in Chelsea FC",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
-        "desc": "Randall Williams, da Bloomberg, junta-se a Dani Burger em “Bloomberg Deals”. O CEO bilionário do Guggenheim, Mark Walter, explorou a venda de sua participação no Chelsea FC para Clearlake Capital,…",
-        "fecha": "2026-08-19T20:30:49+00:00",
+        "titulo": "Trump abre portas para o hiperlíquido enquanto os EUA puxam o comércio de criptografia para o exterior",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
+        "desc": "O presidente Donald Trump disse que os reguladores dos EUA estão trabalhando para trazer o Hyperliquid, uma plataforma criptográfica de rápido crescimento, para o país, oferecendo um dos sinais mais claros de que o Whit…",
+        "fecha": "2026-08-19T20:20:54+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Membros da Fed que defendem subida dos juros ganham força",
-        "enlace": "https://www.jornaldenegocios.pt/economia/politica-monetaria/detalhe/membros-da-fed-que-defendem-subida-dos-juros-ganham-forca",
-        "desc": "Vários membros da Reserva Federal norte-americana pretendiam que as taxas federais subissem na última reunião, em julho. A manutenção das taxas acabou por prevalecer, mas as vozes …",
-        "fecha": "2026-08-19T19:34:54+01:00",
+        "titulo": "Turistas deixam recorde de 12,9 mil milhões em Portugal até junho",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/turistas-deixam-recorde-de-12-9-mil-milhoes-em-portugal-ate-junho",
+        "desc": "Os turistas estrangeiros deixaram nos cofres nacionais um novo valor histórico no primeiro semestre: 12,9 mil milhões de euros. E os gastos dos portugueses nas suas viagens também …",
+        "fecha": "2026-08-19T22:00:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
-        "desc": "Cobertura abrangente de plataforma cruzada do mercado dos EUA na Bloomberg Television, Bloomberg Radio e YouTube com Romaine Bostick, Isabelle Lee, Carol Massar e Emily Graf…",
-        "fecha": "2026-08-19T20:25:45+00:00",
+        "titulo": "Mark Walter explora venda de participação no Chelsea FC",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video",
+        "desc": "Randall Williams, da Bloomberg, junta-se a Dani Burger em “Bloomberg Deals”. O CEO bilionário do Guggenheim, Mark Walter, explorou a venda de sua participação no Chelsea FC para Clearlake Capital,…",
+        "fecha": "2026-08-19T20:30:49+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
