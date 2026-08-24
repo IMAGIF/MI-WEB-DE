@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T01:38:00.926239+00:00",
+  "actualizado": "2026-08-24T03:07:12.643136+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -34,14 +34,14 @@
         "titulo": "Margallo: \"Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza\"",
         "enlace": "https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/",
         "desc": "El exministro de Exteriores durante el primer Gobierno de Mariano Rajoy considera que la política exterior no está en manos del ministro Albares porque \"la persona de Sánchez es Za…",
-        "fecha": "2026-08-24T01:38:02.408246+00:00",
+        "fecha": "2026-08-24T03:07:14.196002+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Muere Fabrizio Plessi, el artista italiano que encontró en Mallorca un segundo hogar",
-        "enlace": "https://okdiario.com/baleares/muere-fabrizio-plessi-artista-italiano-que-encontro-mallorca-segundo-hogar-20161565",
-        "desc": "El mundo del arte contemporáneo despide a Fabrizio Plessi, una de las figuras fundamentales del videoarte y las videoinstalaciones y un pionero de la experimentación tecnológica ap…",
-        "fecha": "2026-08-24T02:48:53+02:00",
+        "titulo": "El ‘terror de los turistas’: cae un violento atracador que sembraba el pánico en Playa de Palma con navajas y cristales",
+        "enlace": "https://okdiario.com/baleares/terror-turistas-cae-violento-atracador-que-sembraba-panico-playa-palma-navajas-cristales-20158965",
+        "desc": "La Policía Nacional ha detenido en Palma a un hombre como presunto autor de cuatro violentos robos a turistas en la zona de Playa de Palma. El sospechoso, que actuaba de madrugada …",
+        "fecha": "2026-08-24T04:00:48+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -75,6 +75,20 @@
     ],
     "nacional_us": [
       {
+        "titulo": "College grad reportedly dies in Six Flags roller coaster incident as family sues theme park",
+        "enlace": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park",
+        "desc": "Christopher Hawley, a recent San Diego State University graduate, reportedly collapsed after riding X2 in 2022, and his family now alleges the attraction was dangerously rough.",
+        "fecha": "2026-08-23T21:50:05-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Learning to live in a post-American world",
+        "enlace": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+        "desc": "In a recent article for Foregin Affairs , Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle K…",
+        "fecha": "2026-08-23T17:21:23-04:00",
+        "fuente": "NPR"
+      },
+      {
         "titulo": "California dad paralyzed from neck down after diving into ocean to rescue child",
         "enlace": "https://www.foxnews.com/us/california-dad-paralyzed-neck-diving-ocean-rescue-child",
         "desc": "A California father dove into a rip current to save a child at a beach and suffered a spinal cord injury that left him paralyzed from the neck down.",
@@ -87,50 +101,36 @@
         "desc": "A round of storms impacted the region on Aug. 11",
         "fecha": "2026-08-23T12:55:37-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Minnesota tree trimmer charged in coworker’s death after on-the-job horseplay turns deadly",
-        "enlace": "https://www.foxnews.com/us/minnesota-tree-trimmer-charged-coworkers-death-after-on-the-job-horseplay-turns-deadly",
-        "desc": "A Minnesota tree-trimming employee faces a manslaughter charge after allegedly crushing his coworker’s head with a hydraulic grapple.",
-        "fecha": "2026-08-23T20:06:18-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-        "enlace": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-        "desc": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.",
-        "fecha": "2026-08-23T12:15:30-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "De Miami a Avellaneda: Rodrigo De Paul dijo presente en el Cilindro para ver a Racing contra Boca",
-        "enlace": "https://www.clarin.com/deportes/miami-avellaneda-rodrigo-paul-dijo-presente-cilindro-ver-racing-boca_0_VngTIov45O.html",
-        "desc": "El mediocampista realizó un viaje relámpago para alentar a la Academia desde el estadio. Acompañado por Tini Stoessel y sus hijos, el Motorcito celebró con muchísima emoción el gol…",
-        "fecha": "2026-08-24T01:05:25+00:00",
+        "titulo": "La policía investiga tras hallar 5 cadáveres en zona rural de Oregon",
+        "enlace": "https://www.clarin.com/estados-unidos/la-policia-investiga-tras-hallar-5-cadaveres-en-zona-rural-de-oregon_0_9acSYPvaJj.html",
+        "desc": "Cinco cuerpos fueron hallados en una propiedad rural de Oregon tras un incendio vehicular. Las autoridades investigan el caso como un quíntuple homicidio. La policía no cree que se…",
+        "fecha": "2026-08-24T02:00:11+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Rodrigo De Paul fue al Cilindro junto a Tini Stoessel y sus hijos para ver el partido entre Racing y Boca",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/rodrigo-de-paul-fue-al-cilindro-junto-a-tini-stoessel-y-sus-hijos-para-ver-el-partido-entre-racing-y-nid23082026/",
-        "desc": "El mediocampista de la selección argentina regresó al Cilindro para alentar al club en el que empezó su carrera; Leandro Paredes, ausente por lesión, también observó desde la tribu…",
-        "fecha": "2026-08-24T01:36:10+00:00",
+        "titulo": "“Súper Niño”: proyectan cuánto durará el fenómeno y adelantan un importante consejo",
+        "enlace": "https://www.lanacion.com.ar/economia/campo/super-nino-proyectan-cuanto-durara-el-fenomeno-y-adelantan-un-importante-consejo-nid22082026/",
+        "desc": "Especialistas del INTA brindaron recomendaciones para la campaña 2026/2027 sobre manejo de cultivos y ganadería",
+        "fecha": "2026-08-24T03:01:07+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Horóscopo de hoy, lunes 24 de agosto: las predicciones para la salud, el amor y el dinero",
-        "enlace": "https://www.clarin.com/astrologia/horoscopo-hoy-lunes-24-agosto-predicciones-salud-amor-dinero_0_9HMSg9PG9j.html",
-        "desc": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
-        "fecha": "2026-08-24T01:05:14+00:00",
+        "titulo": "Los otros ganadores: un chubutense y una santafesina ganaron el Premio Estímulo en los 21K de Buenos Aires",
+        "enlace": "https://www.clarin.com/ciudades/ganadores-chubutense-santafesina-ganaron-premio-estimulo-21k-buenos-aires_0_w0Ik7bOX7E.html",
+        "desc": "Son Bruno Álvarez y Victoria Ares, de 22 y 23 años. Viajarán el 14 de febrero próximo para competir en la media maratón de Barcelona.",
+        "fecha": "2026-08-24T01:48:37+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "River no es confiable, falla hasta cuando tiene todo a favor: ante Vélez dejó pasar otro tren",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/river-no-es-confiable-falla-hasta-cuando-tiene-todo-a-favor-ante-velez-dejo-pasar-otro-tren-nid23082026/",
-        "desc": "Ganaba 2-0 tras el primer tiempo, pero entre los errores y las dudas sufrió un empate amargo en el Monumental",
-        "fecha": "2026-08-24T01:33:13+00:00",
+        "titulo": "Solo en Off | Efecto Cerimedo: la pelea libertaria por el próximo viaje de Milei a Estados Unidos",
+        "enlace": "https://www.lanacion.com.ar/politica/solo-en-off-efecto-cerimedo-la-pelea-libertaria-por-el-proximo-viaje-de-milei-a-estados-unidos-nid24082026/",
+        "desc": "Mensaje de Moscú para Grossi; Macri lee sobre la crueldad en el poder y Jalil sufre la presión de sus pares kirchneristas",
+        "fecha": "2026-08-24T03:01:00+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -144,17 +144,17 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Présidentielle 2027 : Raphaël Glucksmann entre en course avec l’ambition de «relever la France»",
-        "enlace": "https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-se-lance-dans-la-course-20260823",
-        "desc": "La figure sociale-démocrate a confirmé dimanche soir sur TF1 sa participation à la primaire du PS et de Place publique, prévue en octobre.",
-        "fecha": "2026-08-23T22:57:37+02:00",
+        "titulo": "États-Unis : environ 90.000 évacués face au mégafeu de forêt «Hawk» dans le Nevada",
+        "enlace": "https://www.lefigaro.fr/international/etats-unis-environ-90-000-evacues-face-au-megafeu-de-foret-hawk-dans-le-nevada-20260824",
+        "desc": "L’incendie, qui s’est déclaré samedi, avait déjà ravagé 6.087 hectares dimanche après-midi et brûlait à 8 kilomètres au nord-ouest de Reno, une agglomération de plus de 280.000 hab…",
+        "fecha": "2026-08-24T03:26:57+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des frappes",
-        "enlace": "https://www.france24.com/fr/europe/20260824-en-direct-ukraine-russie-reunion-soutiens-coalition-volontaires-zelensky-frappes",
-        "desc": "L'Ukraine accueille lundi une réunion de ses principaux soutiens européens, à qui elle réclame des équipements de défense antiaérienne qui lui font cruellement défaut et une pressi…",
-        "fecha": "2026-08-24T00:59:56+00:00",
+        "titulo": "Le géant de l'ultra fast-fashion Shein est sur le point d'entrer en Bourse",
+        "enlace": "https://www.france24.com/fr/%C3%A9co-tech/20260824-le-g%C3%A9ant-de-l-ultra-fast-fashion-shein-est-sur-le-point-d-entrer-en-bourse",
+        "desc": "Après des tentatives avortées à New York et Londres, Shein sera coté à la Bourse de Hong Kong à partir du 1er septembre, ce qui lui permettrait de lever jusqu'à 1,5 milliard d'euro…",
+        "fecha": "2026-08-24T01:59:09+00:00",
         "fuente": "France 24"
       },
       {
@@ -165,21 +165,35 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Raphaël Glucksmann, l’Européen convaincu qui veut devenir le recours de la gauche face à Jean-Luc Mélenchon",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/raphael-glucksmann-l-europeen-convaincu-qui-veut-devenir-le-recours-de-la-gauche-face-a-jean-luc-melenchon-20260823",
-        "desc": "La figure sociale-démocrate revendique un projet de gauche mêlant transition écologique et progrès social, tout en cherchant à tourner définitivement la page du macronisme comme du…",
-        "fecha": "2026-08-23T22:05:25+02:00",
+        "titulo": "Le patron de l'UEFA Aleksander Ceferin ne sera pas candidat à la présidence de la Fifa",
+        "enlace": "https://www.lefigaro.fr/sports/le-patron-de-l-uefa-aleksander-ceferin-ne-sera-pas-candidat-a-la-presidence-de-la-fifa-20260824",
+        "desc": "Sous sa direction, l’UEFA a annoncé qu’elle boycotterait toutes les compétitions de l’instance mondiale - dont les Coupes du monde.",
+        "fecha": "2026-08-24T01:17:52+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "L'équipe chinoise All Gamers remporte l'Esports World Cup 2026 à Paris",
-        "enlace": "https://www.france24.com/fr/%C3%A9co-tech/20260823-esports-world-cup-2026-jeux-video-chine-all-gamers-coupe-paris-arabie-saoudite",
-        "desc": "Les Chinois ont détrôné les Saoudiens dimanche à Paris en remportant la troisième édition de l'Esports World Cup. L'événement a rassemblé plus de 2 000 joueurs issus d'environ 200 …",
-        "fecha": "2026-08-23T23:01:30+00:00",
+        "titulo": "Attaque d'une base en Syrie : Damas dit vouloir désamorcer les tensions avec Israël",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260824-attaque-d-une-base-en-syrie-damas-dit-vouloir-d%C3%A9samorcer-les-tensions-avec-isra%C3%ABl",
+        "desc": "La Syrie et Israël ont mené dimanche des discussions de haut niveau en Jordanie, sous parrainage américain, pour désamorcer la crise née d'une frappe israélienne visant à empêcher …",
+        "fecha": "2026-08-24T01:37:10+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
+      {
+        "titulo": "Iran: Präsident Peseschkian räumt wirtschaftliche Probleme offen ein",
+        "enlace": "https://www.spiegel.de/ausland/iran-praesident-peseschkian-raeumt-wirtschaftliche-probleme-offen-ein-a-05f8d359-953f-43a7-8e30-be2621f0f6a5#ref=rss",
+        "desc": "Normalerweise kommen aus Teheran trotzige Durchhalteparolen. Nun aber spricht der iranische Präsident Massud Peseschkian die Probleme im eigenen Land ungewohnt offen an. Vielen Men…",
+        "fecha": "2026-08-24T04:37:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Krieg gegen die Ukraine: Dänische Regierungschefin setzt sich für mehr Patriot-Raketen ein",
+        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "desc": "Der Westen könnte Ukraines Abwehr verbessern, sagt Mette Frederiksen. EU-Ratschef Costa erwägt neue Sanktionen. Tödliche Angriffe auf Krasnodar und Charkiw. Das Liveblog",
+        "fecha": "2026-08-24T02:49:10",
+        "fuente": "Die Zeit"
+      },
       {
         "titulo": "Donald Trump legt im Zollstreit mit Kanada nach: Verbale Attacken gegen den Nachbarn",
         "enlace": "https://www.spiegel.de/ausland/donald-trump-legt-im-zollstreit-mit-kanada-nach-verbale-attacken-gegen-den-nachbarn-a-0a2ec047-a381-486a-b2af-d1b8a7dc02e7#ref=rss",
@@ -188,24 +202,10 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Israel und Syrien: Syrien und Israel sprechen über Deeskalation",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-08/israel-syrien-treffen-asaad-al-schaibani-roman-gofman-amman",
-        "desc": "In einem ersten direkten Treffen wollen Syriens Außenminister und hochrangige Israelis Spannungen abbauen. Die Gespräche in Jordanien wurden von den USA vermittelt.",
-        "fecha": "2026-08-23T23:32:08",
-        "fuente": "Die Zeit"
-      },
-      {
-        "titulo": "Gesundheitszustand des norwegischen Königs verschlechtert sich weiter",
-        "enlace": "https://www.spiegel.de/panorama/gesundheitszustand-des-norwegischen-koenigs-verschlechtert-sich-weiter-a-f0745ded-6fc3-4ebe-bc68-7d44e5e13685#ref=rss",
-        "desc": "Seit einer Woche weilt König Harald V. von Norwegen im Krankenhaus – und die Sorge um den 89-Jährigen wächst. Laut Palast ringt Europas ältester Monarch mit einer Blutinfektion.",
-        "fecha": "2026-08-24T02:01:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
         "titulo": "Irankrieg: Iran warnt USA vor Bumerangeffekt durch Wirtschaftssanktionen",
         "enlace": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
         "desc": "Irans Parlamentspräsident Ghalibaf hat die USA vor den geplanten verschärften Sanktionen gewarnt. Die USA zählen mehr als 700 Verwundete seit Kriegsbeginn. Das Liveblog",
-        "fecha": "2026-08-23T23:14:20",
+        "fecha": "2026-08-24T02:24:29",
         "fuente": "Die Zeit"
       }
     ],
@@ -264,10 +264,10 @@
         "fuente": "Público"
       },
       {
-        "titulo": "As notícias das 2h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
+        "titulo": "As notícias das 3h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2415/",
         "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-24T02:16:26+01:00",
+        "fecha": "2026-08-24T03:17:47+01:00",
         "fuente": "Observador"
       },
       {
@@ -278,56 +278,56 @@
         "fuente": "Público"
       },
       {
-        "titulo": "1h Metro Lisboa. Escadas rolantes avariadas há 3 anos e meio",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2362/",
-        "desc": "Metro reconhece que a manutenção se tornou “problema crónico”. Ainda nesta edição, Volodymyr Zelensky alerta que Putin está a planear mobilizar mais 300 mil combatentes depois das …",
-        "fecha": "2026-08-24T01:14:55+01:00",
+        "titulo": "2h. Mau tempo. 13 distritos sob aviso amarelo esta segunda",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
+        "desc": "IPMA prevê aguaceiros por vezes fortes, acompanhados de trovoada e vento forte. Ainda, líder do PCP garante que se o executivo da AD quiser \"pôr a mão\" no dinheiro dos contribuinte…",
+        "fecha": "2026-08-24T02:16:26+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Lula e Flávio viram alvo em debate com Renan franco-atirador e dobradinha de Caiado e Cury",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/candidatos-comecam-a-chegar-para-debate-renan-leva-fraldas-para-criticar-ausencias-de-lula-e-flavio.shtml",
-        "desc": "Ausentes no primeiro debate entre presidenciáveis das eleições de 2026, o presidente Lula (PT) e o senador Flávio Bolsonaro (PL) foram o foco do evento, como alvo de críticas dos t…",
-        "fecha": "2026-08-23T18:40:00-03:00",
+        "titulo": "Debate-mico teve pastelão de Cury, verborragia de Renan e goianidade de Caiado",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/debate-mico-teve-pastelao-de-cury-verborragia-de-renan-e-goianidade-de-caiado.shtml",
+        "desc": "Nanicos até o momento na disputa presidencial, Ronaldo Caiado ( PSD ), Renan Santos (Missão) e Augusto Cury ( Avante ) procuraram aproveitar o debate-mico na Band para reforçar ao …",
+        "fecha": "2026-08-23T23:43:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Polícia investiga se habeas corpus para cultivo de cannabis medicinal foi usado para venda de drogas em SP",
-        "enlace": "https://g1.globo.com/fantastico/noticia/2026/08/23/policia-investiga-se-habeas-corpus-para-cultivo-de-cannabis-medicinal-foi-usado-para-venda-de-drogas-em-sp.ghtml",
-        "desc": "No papel, a maconha era pra fim medicinal. Mas a polícia acredita que não passava de fachada para o tráfico de drogas Uma operação da Polícia Civil de São Paulo investiga possíveis…",
-        "fecha": "2026-08-24T01:21:04",
+        "titulo": "Montes Claros tem a melhor rede municipal de Ensino das maiores cidades de Minas",
+        "enlace": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2026/08/24/montes-claros-tem-a-melhor-rede-municipal-de-ensino-das-maiores-cidades-de-minas.ghtml",
+        "desc": "A Educação Municipal de Montes Claros está em festa. Os números do último IDEB (Índice de Desenvolvimento da Educação Básica), referentes ao ano de 2025, mostram que Montes Claros …",
+        "fecha": "2026-08-24T03:02:19",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Datafolha: 56% dizem que iriam votar neste ano mesmo se não fosse obrigatório",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/datafolha-56-dizem-que-iriam-votar-neste-ano-mesmo-se-nao-fosse-obrigatorio.shtml",
-        "desc": "Mais da metade dos brasileiros (56%) diz que iria votar nas eleições de 2026 mesmo se o voto não fosse obrigatório no Brasil, mostra pesquisa Datafolha . Já 43% afirmam que não vot…",
-        "fecha": "2026-08-23T18:30:00-03:00",
+        "titulo": "Perdeu o debate? Saiba em 8 pontos como foi o confronto entre Caiado, Renan Santos e Augusto Cury",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/perdeu-o-debate-saiba-em-8-pontos-como-foi-o-confronto-entre-caiado-renan-santos-e-augusto-cury.shtml",
+        "desc": "O primeiro debate entre os candidatos à Presidência de 2026, realizado pela Band na noite deste domingo (23), foi marcado pelas críticas ao presidente Lula (PT) e ao senador Flávio…",
+        "fecha": "2026-08-23T23:14:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Dentista relata ao 'Fantástico' agressões que sofreu do marido, empresário da Faria Lima",
-        "enlace": "https://g1.globo.com/fantastico/noticia/2026/08/23/dentista-relata-ao-fantastico-agressoes-que-sofreu-do-marido-empresario-da-faria-lima.ghtml",
-        "desc": "Ciclo da violência: caso Giullia Falcão ajuda a entender realidade que atinge milhões de brasileiras A dentista Giullia Falcão, de 27 anos, ainda convive com as consequências das a…",
-        "fecha": "2026-08-24T01:07:01",
+        "titulo": "Pedágio fica mais caro em seis rodovias da BR-050 a partir desta segunda; veja novos valores",
+        "enlace": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/24/pedagio-fica-mais-caro-em-seis-rodovias-da-br-050-a-partir-desta-segunda-veja-novos-valores.ghtml",
+        "desc": "Pedágios das BRs 050, 364 e 365 no Triângulo e Alto Paranaíba serão reajustados As tarifas de pedágio da BR-050, entre Delta, em Minas Gerais, e Cristalina, em Goiás, ficaram mais …",
+        "fecha": "2026-08-24T03:01:23",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Singapore unveils sweeping family support as births tumble",
-        "enlace": "https://www.japantimes.co.jp/news/2026/08/24/asia-pacific/singapore-family-support-births/",
-        "desc": "Each Singaporean child will receive almost 70,000 Singapore dollars ($55,150) in direct assistance through age 17, starting with a SG$10,000 baby gift.",
-        "fecha": "2026-08-24T10:34:00+09:00",
+        "titulo": "Pimco expects elevated term premium, says bonds are attractive",
+        "enlace": "https://www.japantimes.co.jp/business/2026/08/24/markets/pimco-long-bonds/",
+        "desc": "Today's yields only appear unusually high relative to the artificially suppressed rates of the post-global financial crisis era, says the American investment management firm.",
+        "fecha": "2026-08-24T12:03:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "SoftBank plans record $6.3 billion retail bond sale in Japan",
-        "enlace": "https://www.japantimes.co.jp/business/2026/08/24/companies/softbank-plan-bond-sale/",
-        "desc": "The 7-year bonds are expected to be priced on Sept. 4, with an indicative coupon range of 4.3% to 4.9%, according to a company filing.",
-        "fecha": "2026-08-24T10:32:00+09:00",
+        "titulo": "Lando Norris says ‘fight is still on’ after winning Dutch Grand Prix",
+        "enlace": "https://www.japantimes.co.jp/sports/2026/08/24/more-sports/lando-norris-dutch-grand-prix/",
+        "desc": "Lando Norris is now fourth overall, 83 points adrift of leader Kimi Antonelli and still hopeful of closing the gap.",
+        "fecha": "2026-08-24T11:36:00+09:00",
         "fuente": "Japan Times"
       }
     ],
@@ -350,7 +350,7 @@
         "titulo": "Irán advierte de que no saldrá \"ni una gota\" de petróleo del golfo Pérsico si EEUU mantiene su \"guerra económica\"",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-24/iran-guerra-economica-petroleo-golfo-1tps_4410201/",
         "desc": "El portavoz de la Comisión de Seguridad Nacional del Parlamento iraní advirtió además que Teherán considerará “acto de guerra” la participación de cualquier Estado en la ofensiva e…",
-        "fecha": "2026-08-24T01:38:27.617512+00:00",
+        "fecha": "2026-08-24T03:07:43.562235+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -399,7 +399,7 @@
         "titulo": "La líder de AfD aboga por terminar el Acuerdo de Schengen para evitar situaciones como la de Ceuta",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-23/afd-schengen-migrantes-alemania-1tps_4410132/",
         "desc": "\"Lo vamos a cerrar. Nos vamos a retirar de Schengen para que la gente como la de Ceuta no pueda venir aquí\", ha afirmado Weidel en una entrevista con la televisión pública alemana …",
-        "fecha": "2026-08-24T01:38:27.617581+00:00",
+        "fecha": "2026-08-24T03:07:43.562289+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -419,24 +419,17 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Iran discovers major new gas reserves amid war-hit energy sector",
-        "enlace": "https://www.france24.com/en/middle-east/20260823-iran-discovers-major-new-gas-reserves-amid-war-hit-energy-sector",
-        "desc": "Iran on Sunday said it had discovered more than 200 billion cubic metres of natural gas in the southern Fars province, with more than 160 billion cubic metres potentially recoverab…",
-        "fecha": "2026-08-23T20:38:25+00:00",
-        "fuente": "France 24 EN"
-      },
-      {
-        "titulo": "Mets’ Nolan McLean twirls another scoreless outing as his quest to hit innings ‘goal’ continues",
-        "enlace": "https://nypost.com/2026/08/23/sports/mets-nolan-mclean-twirls-another-scoreless-outing/",
-        "desc": "Nolan McLean is approaching 150 innings for this season following his strong performance Sunday, but his ambitions are much grander.",
-        "fecha": "2026-08-23T21:36:54-04:00",
+        "titulo": "Bubba Watson calls out LIV Golf fan after Lee Westwood’s routine gets interrupted",
+        "enlace": "https://nypost.com/2026/08/23/sports/bubba-watson-calls-out-liv-golf-fan-after-lee-westwoods-routine-gets-interrupted/",
+        "desc": "Bubba Watson lashed out at a fan during LIV Golf’s event in Indianapolis after the spectator screamed out during Lee Westwood's pre-shot routine.",
+        "fecha": "2026-08-23T23:03:57-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Ukraine: UK Prime Minister Andy Burnham to visit Kyiv in show of support on Ukraine's Independence Day",
-        "enlace": "https://www.dw.com/en/ukraine-uk-prime-minister-andy-burnham-to-visit-kyiv-in-show-of-support-on-ukraine-s-independence-day/live-78479580?maca=en-rss-en-all-1573-rdf",
+        "titulo": "Ukraine: UK PM Andy Burnham to visit Kyiv in show of support",
+        "enlace": "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
         "desc": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of Ukraine's main backers and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th indepe…",
-        "fecha": "2026-08-24T01:38:29.866557+00:00",
+        "fecha": "2026-08-24T03:07:46.854332+00:00",
         "fuente": "DW English"
       },
       {
@@ -468,11 +461,18 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Crans-Montana bar owner detained over alleged domestic abuse",
-        "enlace": "https://www.france24.com/en/europe/20260823-crans-montana-bar-owner-detained-over-alleged-domestic-abuse",
-        "desc": "The owner of a Swiss bar where a New Year’s fire killed 41 people has been placed in pre-trial detention over alleged violence against his wife, local media reported Sunday. Jacque…",
-        "fecha": "2026-08-23T19:57:30+00:00",
-        "fuente": "France 24 EN"
+        "titulo": "Earth-sheltered Ohio home that is built almost entirely underground comes with a roof you have to mow",
+        "enlace": "https://nypost.com/2026/08/23/real-estate/earth-sheltered-ohio-home-that-is-built-almost-entirely-underground-comes-with-a-roof-you-have-to-mow/",
+        "desc": "This one-of-a-kind earth-sheltered pad, listed at $850,000, has real estate pros scratching their heads over its price.",
+        "fecha": "2026-08-23T22:48:28-04:00",
+        "fuente": "New York Post"
+      },
+      {
+        "titulo": "Norway: King Harald's health has 'deteriorated,' palace says",
+        "enlace": "https://www.dw.com/en/norway-king-harald-s-health-has-deteriorated-palace-says/a-78479515?maca=en-rss-en-all-1573-rdf",
+        "desc": "The 89-year-old King of Norway is Europe's oldest reigning monarch. He has been suffering from a blood condition.",
+        "fecha": "2026-08-24T03:07:46.854379+00:00",
+        "fuente": "DW English"
       }
     ],
     "internacional_fr": [
@@ -484,10 +484,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des frappes",
-        "enlace": "https://www.france24.com/fr/europe/20260824-en-direct-ukraine-russie-reunion-soutiens-coalition-volontaires-zelensky-frappes",
-        "desc": "L'Ukraine accueille lundi une réunion de ses principaux soutiens européens, à qui elle réclame des équipements de défense antiaérienne qui lui font cruellement défaut et une pressi…",
-        "fecha": "2026-08-24T00:59:56+00:00",
+        "titulo": "Le géant de l'ultra fast-fashion Shein est sur le point d'entrer en Bourse",
+        "enlace": "https://www.france24.com/fr/%C3%A9co-tech/20260824-le-g%C3%A9ant-de-l-ultra-fast-fashion-shein-est-sur-le-point-d-entrer-en-bourse",
+        "desc": "Après des tentatives avortées à New York et Londres, Shein sera coté à la Bourse de Hong Kong à partir du 1er septembre, ce qui lui permettrait de lever jusqu'à 1,5 milliard d'euro…",
+        "fecha": "2026-08-24T01:59:09+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -519,10 +519,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "L'équipe chinoise All Gamers remporte l'Esports World Cup 2026 à Paris",
-        "enlace": "https://www.france24.com/fr/%C3%A9co-tech/20260823-esports-world-cup-2026-jeux-video-chine-all-gamers-coupe-paris-arabie-saoudite",
-        "desc": "Les Chinois ont détrôné les Saoudiens dimanche à Paris en remportant la troisième édition de l'Esports World Cup. L'événement a rassemblé plus de 2 000 joueurs issus d'environ 200 …",
-        "fecha": "2026-08-23T23:01:30+00:00",
+        "titulo": "Attaque d'une base en Syrie : Damas dit vouloir désamorcer les tensions avec Israël",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260824-attaque-d-une-base-en-syrie-damas-dit-vouloir-d%C3%A9samorcer-les-tensions-avec-isra%C3%ABl",
+        "desc": "La Syrie et Israël ont mené dimanche des discussions de haut niveau en Jordanie, sous parrainage américain, pour désamorcer la crise née d'une frappe israélienne visant à empêcher …",
+        "fecha": "2026-08-24T01:37:10+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -540,7 +540,7 @@
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "titulo": "Trump dit que le Canada veut bénéficier des « avantages » d’être un État américain après l’échec des négociations commerciales",
         "enlace": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "desc": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
         "fecha": "2026-08-23T19:11:30+00:00",
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Donald Trump legt im Zollstreit mit Kanada nach: Verbale Attacken gegen den Nachbarn",
-        "enlace": "https://www.spiegel.de/ausland/donald-trump-legt-im-zollstreit-mit-kanada-nach-verbale-attacken-gegen-den-nachbarn-a-0a2ec047-a381-486a-b2af-d1b8a7dc02e7#ref=rss",
-        "desc": "Er hatte sich verdächtig ruhig verhalten: Doch mit etwas Verspätung mischt auch sich Donald Trump direkt in den Handelsdisput mit Kanada ein. Im Fokus: Bauern und das Märchen vom k…",
-        "fecha": "2026-08-24T03:18:00+02:00",
+        "titulo": "Iran: Präsident Peseschkian räumt wirtschaftliche Probleme offen ein",
+        "enlace": "https://www.spiegel.de/ausland/iran-praesident-peseschkian-raeumt-wirtschaftliche-probleme-offen-ein-a-05f8d359-953f-43a7-8e30-be2621f0f6a5#ref=rss",
+        "desc": "Normalerweise kommen aus Teheran trotzige Durchhalteparolen. Nun aber spricht der iranische Präsident Massud Peseschkian die Probleme im eigenen Land ungewohnt offen an. Vielen Men…",
+        "fecha": "2026-08-24T04:37:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Selenskyj will 30 Milliarden Euro von der EU",
         "enlace": "https://www.dw.com/de/selenskyj-will-30-milliarden-euro-von-der-eu/a-78476565?maca=de-rss-de-all-1119-rdf",
         "desc": "Im ukrainischen Verteidigungshaushalt klafft nach Angaben von Präsident Wolodymyr Selenskyj eine milliardenschwere Lücke. Vor allem für Soldaten und die Produktion von Drohnen brau…",
-        "fecha": "2026-08-24T01:38:31.707791+00:00",
+        "fecha": "2026-08-24T03:07:48.742984+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -577,17 +577,17 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Gesundheitszustand des norwegischen Königs verschlechtert sich weiter",
-        "enlace": "https://www.spiegel.de/panorama/gesundheitszustand-des-norwegischen-koenigs-verschlechtert-sich-weiter-a-f0745ded-6fc3-4ebe-bc68-7d44e5e13685#ref=rss",
-        "desc": "Seit einer Woche weilt König Harald V. von Norwegen im Krankenhaus – und die Sorge um den 89-Jährigen wächst. Laut Palast ringt Europas ältester Monarch mit einer Blutinfektion.",
-        "fecha": "2026-08-24T02:01:00+02:00",
+        "titulo": "Donald Trump legt im Zollstreit mit Kanada nach: Verbale Attacken gegen den Nachbarn",
+        "enlace": "https://www.spiegel.de/ausland/donald-trump-legt-im-zollstreit-mit-kanada-nach-verbale-attacken-gegen-den-nachbarn-a-0a2ec047-a381-486a-b2af-d1b8a7dc02e7#ref=rss",
+        "desc": "Er hatte sich verdächtig ruhig verhalten: Doch mit etwas Verspätung mischt auch sich Donald Trump direkt in den Handelsdisput mit Kanada ein. Im Fokus: Bauern und das Märchen vom k…",
+        "fecha": "2026-08-24T03:18:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Reit-WM: Steve Guerdat ist Weltmeister im Springreiten",
         "enlace": "https://www.dw.com/de/reit-wm-steve-guerdat-ist-weltmeister-im-springreiten/a-78477871?maca=de-rss-de-all-1119-rdf",
         "desc": "Bei der Weltmeisterschaft in Aachen setzt sich der Schweizer als beständigster Reiter durch. Drei Deutsche starten ebenfalls aussichtsreich in den Schlusstag der WM, leisten sich a…",
-        "fecha": "2026-08-24T01:38:31.707830+00:00",
+        "fecha": "2026-08-24T03:07:48.743034+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -644,45 +644,45 @@
       {
         "titulo": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "enlace": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "desc": "Il Primo Ministro canadese ha affermato che stava annunciando “con riluttanza” tariffe di ritorsione e ha accusato gli Stati Uniti di aver avviato una guerra commerciale.",
+        "desc": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
         "fecha": "2026-08-23T19:11:30+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "01h Porto isolado na liderança do campeonato à terceira jornada",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/01h-porto-isolado-na-lideranca-do-campeonato-a-terceira-jornada_a1_1761193",
+        "titulo": "3h Retomadas de manhã buscas por homem desaparecido no Alqueva",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/3h-retomadas-de-manha-buscas-por-homem-desaparecido-no-alqueva_a1_1761200",
         "desc": "",
-        "fecha": "2026-08-24T02:16:02+01:00",
+        "fecha": "2026-08-24T04:20:03+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "As notícias das 2h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
+        "titulo": "As notícias das 3h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2415/",
         "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-24T02:16:26+01:00",
+        "fecha": "2026-08-24T03:17:47+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Como foi debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+        "titulo": "Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
         "enlace": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss",
         "desc": "Candidatos à Presidência travaram primeiro confronto, o mais esvaziado desde 1989, enquanto Lula deu entrevista para Record e Flávio divulgou vídeo. Veja principais embates, propos…",
-        "fecha": "2026-08-24T01:38:33.559617+00:00",
+        "fecha": "2026-08-24T03:07:51.171965+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "00h Alqueva vai estar fechado para procurar o homem desaparecido",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/00h-alqueva-vai-estar-fechado-para-procurar-o-homem-desaparecido_a1_1761192",
+        "titulo": "2h FC Porto vence Arouca e isola-se na liderança do campeonato",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/2h-fc-porto-vence-arouca-e-isola-se-na-lideranca-do-campeonato_a1_1761199",
         "desc": "",
-        "fecha": "2026-08-24T01:21:02+01:00",
+        "fecha": "2026-08-24T04:20:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "1h Metro Lisboa. Escadas rolantes avariadas há 3 anos e meio",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2362/",
-        "desc": "Metro reconhece que a manutenção se tornou “problema crónico”. Ainda nesta edição, Volodymyr Zelensky alerta que Putin está a planear mobilizar mais 300 mil combatentes depois das …",
-        "fecha": "2026-08-24T01:14:55+01:00",
+        "titulo": "2h. Mau tempo. 13 distritos sob aviso amarelo esta segunda",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
+        "desc": "IPMA prevê aguaceiros por vezes fortes, acompanhados de trovoada e vento forte. Ainda, líder do PCP garante que se o executivo da AD quiser \"pôr a mão\" no dinheiro dos contribuinte…",
+        "fecha": "2026-08-24T02:16:26+01:00",
         "fuente": "Observador"
       },
       {
@@ -785,14 +785,14 @@
       {
         "titulo": "What will it take to stop the England hangovers?",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
-        "desc": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+        "desc": "Une fois de plus, l'Angleterre a affaire à un joueur impliqué dans un incident tard dans la nuit. Seule une action forte garantira qu’il n’y en ait plus, écrit Stephan Shemilt.",
         "fecha": "2026-08-23T21:31:03+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
-        "desc": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
+        "desc": "Le penalty de Dominik Szoboszlai dans le temps additionnel sauve un point au début de l'ère Andoni Iraola – mais Liverpool doit s'améliorer après une performance inférieure à la moyenne.",
         "fecha": "2026-08-23T19:27:12+00:00",
         "fuente": "BBC Sport EN"
       }
@@ -802,11 +802,11 @@
         "titulo": "Reit-WM: Steve Guerdat ist Weltmeister im Springreiten",
         "enlace": "https://www.dw.com/de/reit-wm-steve-guerdat-ist-weltmeister-im-springreiten/a-78477871?maca=de-rss-de-sport-4020-rdf",
         "desc": "Bei der Weltmeisterschaft in Aachen setzt sich der Schweizer als beständigster Reiter durch. Drei Deutsche starten ebenfalls aussichtsreich in den Schlusstag der WM, leisten sich a…",
-        "fecha": "2026-08-24T01:38:39.706149+00:00",
+        "fecha": "2026-08-24T03:07:58.162867+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Was ist nötig, um den Kater in England zu stoppen?",
+        "titulo": "What will it take to stop the England hangovers?",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
         "desc": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
         "fecha": "2026-08-23T21:31:03+00:00",
@@ -816,7 +816,7 @@
         "titulo": "Reit-WM in Aachen: Deutschland gewinnt Gold im Springreiten",
         "enlace": "https://www.dw.com/de/reit-wm-in-aachen-deutschland-gewinnt-gold-im-springreiten/a-78465929?maca=de-rss-de-sport-4020-rdf",
         "desc": "Bei der Reit-WM in Aachen ist der deutschen Equipe der Titel bereits nach drei von vier Reitern nicht mehr zu nehmen. Eine Entscheidung von Bundestrainer Otto Becker stellt sich al…",
-        "fecha": "2026-08-24T01:38:39.706185+00:00",
+        "fecha": "2026-08-24T03:07:58.162912+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -829,7 +829,7 @@
     ],
     "deportes_it": [
       {
-        "titulo": "What will it take to stop the England hangovers?",
+        "titulo": "Cosa servirà per fermare i postumi di una sbornia inglese?",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
         "desc": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
         "fecha": "2026-08-23T21:31:03+00:00",
@@ -870,13 +870,13 @@
         "titulo": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
         "enlace": "https://www.nature.com/articles/d41586-026-02626-x",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and t…",
-        "fecha": "2026-08-24T01:38:47.547238+00:00",
+        "fecha": "2026-08-24T03:08:06.176031+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
         "enlace": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-        "desc": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations take…",
+        "desc": "Por Allison Dries-Padilla, especialista en operaciones de misiones de Malin Space Science Systems Fecha de planificación de la Tierra: viernes 14 de agosto de 2026 Esta semana de operaciones del rover Curiosity Mars tiene...",
         "fecha": "2026-08-23T07:39:28+00:00",
         "fuente": "NASA EN"
       },
@@ -905,7 +905,7 @@
         "titulo": "Earth-shaking thunder probes underground geology",
         "enlace": "https://www.nature.com/articles/d41586-026-02596-0",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activit…",
-        "fecha": "2026-08-24T01:38:47.547276+00:00",
+        "fecha": "2026-08-24T03:08:06.176092+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -921,7 +921,7 @@
         "titulo": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
         "enlace": "https://www.nature.com/articles/d41586-026-02626-x",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and t…",
-        "fecha": "2026-08-24T01:38:48.444803+00:00",
+        "fecha": "2026-08-24T03:08:07.269923+00:00",
         "fuente": "Nature"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Earth-shaking thunder probes underground geology",
         "enlace": "https://www.nature.com/articles/d41586-026-02596-0",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activit…",
-        "fecha": "2026-08-24T01:38:48.444842+00:00",
+        "fecha": "2026-08-24T03:08:07.269970+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
         "enlace": "https://www.nature.com/articles/d41586-026-02626-x",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and t…",
-        "fecha": "2026-08-24T01:38:52.163310+00:00",
+        "fecha": "2026-08-24T03:08:12.545090+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Earth-shaking thunder probes underground geology",
         "enlace": "https://www.nature.com/articles/d41586-026-02596-0",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activit…",
-        "fecha": "2026-08-24T01:38:52.163345+00:00",
+        "fecha": "2026-08-24T03:08:12.545138+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "Ernährungssicherheit: Pflanzen, die der Hitze trotzen",
         "enlace": "https://www.dw.com/de/ernährungssicherheit-pflanzen-die-der-hitze-trotzen/a-78464196?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Weltweit steigende Temperaturen gefährden die Nahrungsmittelproduktion. Gleichzeitig wächst die Weltbevölkerung. In den Niederlanden arbeiten Forschende daran, Pflanzen zu entwicke…",
-        "fecha": "2026-08-24T01:38:53.436691+00:00",
+        "fecha": "2026-08-24T03:08:13.465417+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
         "enlace": "https://www.nature.com/articles/d41586-026-02626-x",
         "desc": "Natur, Online veröffentlicht: 21. August 2026; doi:10.1038/d41586-026-02626-x Nature-Mitarbeiter diskutieren, wie ein von der FDA zugelassenes Medikament gegen Narkolepsie über die Erkrankung hinaus vielversprechend sein könnte, und t…",
-        "fecha": "2026-08-24T01:38:53.546535+00:00",
+        "fecha": "2026-08-24T03:08:13.573274+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Bauernhofeffekt: Wie Stallbakterien Allergien bremsen",
         "enlace": "https://www.dw.com/de/bauernhofeffekt-wie-stallbakterien-allergien-bremsen/a-78339549?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Warum entwickeln Bauernhofkinder seltener Asthma, Heuschnupfen und Neurodermitis? Forschende haben die Bakterien hinter dem Schutzeffekt identifiziert. Davon könnten eines Tages au…",
-        "fecha": "2026-08-24T01:38:53.436727+00:00",
+        "fecha": "2026-08-24T03:08:13.465460+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Earth-shaking thunder probes underground geology",
         "enlace": "https://www.nature.com/articles/d41586-026-02596-0",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activit…",
-        "fecha": "2026-08-24T01:38:53.546595+00:00",
+        "fecha": "2026-08-24T03:08:13.573321+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,37 +1053,37 @@
         "titulo": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
         "enlace": "https://www.nature.com/articles/d41586-026-02626-x",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and t…",
-        "fecha": "2026-08-24T01:38:55.166080+00:00",
+        "fecha": "2026-08-24T03:08:15.053553+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Un tuono che scuote la terra sonda la geologia sotterranea",
+        "titulo": "Earth-shaking thunder probes underground geology",
         "enlace": "https://www.nature.com/articles/d41586-026-02596-0",
         "desc": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activit…",
-        "fecha": "2026-08-24T01:38:55.166119+00:00",
+        "fecha": "2026-08-24T03:08:15.053601+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "As notícias das 2h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
+        "titulo": "As notícias das 3h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2415/",
         "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-08-24T02:16:26+01:00",
+        "fecha": "2026-08-24T03:17:47+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Como foi debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+        "titulo": "Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
         "enlace": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss",
         "desc": "Candidatos à Presidência travaram primeiro confronto, o mais esvaziado desde 1989, enquanto Lula deu entrevista para Record e Flávio divulgou vídeo. Veja principais embates, propos…",
-        "fecha": "2026-08-24T01:38:57.314471+00:00",
+        "fecha": "2026-08-24T03:08:15.907843+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "1h Metro Lisboa. Escadas rolantes avariadas há 3 anos e meio",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2362/",
-        "desc": "Metro reconhece que a manutenção se tornou “problema crónico”. Ainda nesta edição, Volodymyr Zelensky alerta que Putin está a planear mobilizar mais 300 mil combatentes depois das …",
-        "fecha": "2026-08-24T01:14:55+01:00",
+        "titulo": "2h. Mau tempo. 13 distritos sob aviso amarelo esta segunda",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
+        "desc": "IPMA prevê aguaceiros por vezes fortes, acompanhados de trovoada e vento forte. Ainda, líder do PCP garante que se o executivo da AD quiser \"pôr a mão\" no dinheiro dos contribuinte…",
+        "fecha": "2026-08-24T02:16:26+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1106,7 +1106,7 @@
         "titulo": "El foro 'Emerging Markets Summit', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
         "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-24T01:38:59.678250+00:00",
+        "fecha": "2026-08-24T03:08:18.410385+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,16 +1117,16 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "desc": "India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.",
-        "fecha": "2026-08-24T01:30:00+00:00",
+        "titulo": "Why the Fed's Warsh Has 'No Good Options'",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video",
+        "desc": "Pepperstone Research Strategist Dilin Wu describes the bond market as \"ahead of the Fed,\" arguing that rising yields on treasuries is a structural issue in the economy. She also wa…",
+        "fecha": "2026-08-24T03:04:15+00:00",
         "fuente": "Bloomberg"
       },
       {
         "titulo": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
         "enlace": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-        "desc": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+        "desc": "El director ejecutivo de United Airlines, Scott Kirby, habló con CNBC en una amplia entrevista sobre sus megaacuerdos propuestos para aerolíneas, la inteligencia artificial y el futuro de la aerolínea.",
         "fecha": "2026-08-23T12:00:01+00:00",
         "fuente": "CNBC"
       },
@@ -1141,7 +1141,7 @@
         "titulo": "Foro 'Ideas con Valor', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
         "desc": "El Confidencial volvió a reunir a expertos de distintos ámbitos para poner el foco en 3 bloques imprescindibles para la sociedad: acción social, sostenibilidad y finanzas personale…",
-        "fecha": "2026-08-24T01:38:59.678284+00:00",
+        "fecha": "2026-08-24T03:08:18.410428+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,26 +1152,26 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost",
-        "desc": "Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.",
-        "fecha": "2026-08-24T01:00:00+00:00",
+        "titulo": "Asian Stocks Drop on Samsung, Alibaba; Oil Falls: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "desc": "Asian stocks declined, with the artificial intelligence trade in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s …",
+        "fecha": "2026-08-23T22:10:35+00:00",
         "fuente": "Bloomberg"
       },
       {
         "titulo": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
         "enlace": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
-        "desc": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
+        "desc": "United Airlines quería poner asientos premium reclinables en sus aviones Max 10 una vez que estuvieran certificados, pero eso se ha retrasado por años.",
         "fecha": "2026-08-23T12:00:01+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "desc": "India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.",
-        "fecha": "2026-08-24T01:30:00+00:00",
+        "titulo": "Why the Fed's Warsh Has 'No Good Options'",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video",
+        "desc": "Pepperstone Research Strategist Dilin Wu describes the bond market as \"ahead of the Fed,\" arguing that rising yields on treasuries is a structural issue in the economy. She also wa…",
+        "fecha": "2026-08-24T03:04:15+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1196,10 +1196,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost",
-        "desc": "Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.",
-        "fecha": "2026-08-24T01:00:00+00:00",
+        "titulo": "Asian Stocks Drop on Samsung, Alibaba; Oil Falls: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "desc": "Asian stocks declined, with the artificial intelligence trade in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s …",
+        "fecha": "2026-08-23T22:10:35+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1226,17 +1226,17 @@
     ],
     "economia_fr": [
       {
-        "titulo": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "desc": "India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.",
-        "fecha": "2026-08-24T01:30:00+00:00",
+        "titulo": "Why the Fed's Warsh Has 'No Good Options'",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video",
+        "desc": "Pepperstone Research Strategist Dilin Wu describes the bond market as \"ahead of the Fed,\" arguing that rising yields on treasuries is a structural issue in the economy. She also wa…",
+        "fecha": "2026-08-24T03:04:15+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost",
-        "desc": "Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.",
-        "fecha": "2026-08-24T01:00:00+00:00",
+        "titulo": "Les actions asiatiques chutent sur Samsung et Alibaba ; Chute du pétrole : les marchés se replient",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "desc": "Asian stocks declined, with the artificial intelligence trade in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s …",
+        "fecha": "2026-08-23T22:10:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
@@ -1249,40 +1249,40 @@
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "desc": "India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.",
-        "fecha": "2026-08-24T01:30:00+00:00",
+        "titulo": "Why the Fed's Warsh Has 'No Good Options'",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video",
+        "desc": "Pepperstone Research Strategist Dilin Wu describes the bond market as \"ahead of the Fed,\" arguing that rising yields on treasuries is a structural issue in the economy. She also wa…",
+        "fecha": "2026-08-24T03:04:15+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Ukraine-Krieg: Vor Antrittsbesuch – Burnham will Bau von Langstreckenraketen unterstützen",
-        "enlace": "https://www.handelsblatt.com/politik/international/ukraine-krieg-vor-antrittsbesuch-burnham-will-bau-von-langstreckenraketen-unterstuetzen/100249158.html",
-        "desc": "Der britische Premierminister Andy Burnham macht seine erste Auslandsreise in die Ukraine. Schon vorher kündigt er Unterstützung für die dortige Produktion von Langstreckenraketen …",
-        "fecha": "2026-08-24T00:41:50+00:00",
+        "titulo": "Wenn Einblicke zu privat sind: Scham nach dem Oversharing: Woher sie kommt und was hilft",
+        "enlace": "https://www.handelsblatt.com/technik/medizin/wenn-einblicke-zu-privat-sind-scham-nach-dem-oversharing-woher-sie-kommt-und-was-hilft/100249178.html",
+        "desc": "Gefühlt viel zu viel aus dem eigenen Leben und Fühlen ausgeplaudert und jetzt kickt die Reue? Ein Psychologe erklärt, warum es dazu kommt – und wie man solche Momente in Zukunft ve…",
+        "fecha": "2026-08-24T02:55:04+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost",
-        "desc": "Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.",
-        "fecha": "2026-08-24T01:00:00+00:00",
+        "titulo": "Asian Stocks Drop on Samsung, Alibaba; Oil Falls: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "desc": "Asian stocks declined, with the artificial intelligence trade in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s …",
+        "fecha": "2026-08-23T22:10:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "desc": "India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.",
-        "fecha": "2026-08-24T01:30:00+00:00",
+        "titulo": "Why the Fed's Warsh Has 'No Good Options'",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video",
+        "desc": "Pepperstone Research Strategist Dilin Wu describes the bond market as \"ahead of the Fed,\" arguing that rising yields on treasuries is a structural issue in the economy. She also wa…",
+        "fecha": "2026-08-24T03:04:15+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost",
-        "desc": "Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.",
-        "fecha": "2026-08-24T01:00:00+00:00",
+        "titulo": "Asian Stocks Drop on Samsung, Alibaba; Oil Falls: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "desc": "Asian stocks declined, with the artificial intelligence trade in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s …",
+        "fecha": "2026-08-23T22:10:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
@@ -1295,10 +1295,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-        "desc": "O mercado de capitais acionista da Índia caminha para o seu melhor mês de sempre, contrariando um mercado de ações sem brilho, à medida que a ampla liquidez interna continua a alimentar a procura de novas ações.",
-        "fecha": "2026-08-24T01:30:00+00:00",
+        "titulo": "Por que a guerra do Fed não tem “boas opções”",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video",
+        "desc": "O estrategista de pesquisa da Pepperstone, Dilin Wu, descreve o mercado de títulos como \"à frente do Fed\", argumentando que o aumento dos rendimentos dos títulos do tesouro é uma questão estrutural na economia. Ela também estava…",
+        "fecha": "2026-08-24T03:04:15+00:00",
         "fuente": "Bloomberg EN"
       },
       {
@@ -1309,10 +1309,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "FTSE’s Reshuffle May Give Vietnamese Stocks a $3 Billion Boost",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/ftse-s-reshuffle-may-give-vietnamese-stocks-a-3-billion-boost",
-        "desc": "Vietnamese stocks may be poised to shake off a lackluster year after securing a bigger-than-expected weighting in FTSE Russell’s semi-annual index review.",
-        "fecha": "2026-08-24T01:00:00+00:00",
+        "titulo": "Asian Stocks Drop on Samsung, Alibaba; Oil Falls: Markets Wrap",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+        "desc": "Asian stocks declined, with the artificial intelligence trade in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s …",
+        "fecha": "2026-08-23T22:10:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
