@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T21:33:24.647836+00:00",
+  "actualizado": "2026-08-24T22:30:29.937305+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -24,17 +24,17 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "La falta de nuevas especies explica el declive de los grandes herbívoros africanos",
-        "enlace": "https://theobjective.com/sociedad/ciencia/2026-08-24/falta-nuevas-especies-herbivoros-africanos/",
-        "desc": "Un estudio del Museo Nacional de Ciencias Naturales (MNCN-CSIC), el Centro Nacional de Investigación sobre la Evolución Humana (CENIEH) y la Universidad de Alcalá ofrece una [&#823…",
-        "fecha": "2026-08-24T20:28:18+00:00",
+        "titulo": "El Real Madrid jugará la Supercopa de la Euroliga en Abu Dabi",
+        "enlace": "https://theobjective.com/deportes/2026-08-24/real-madrid-jugara-supercopa-euroliga/",
+        "desc": "El Departamento de Cultura y Turismo de Abu Dabi (DCT Abu Dhabi) y la Euroliga de baloncesto han anunciado este lunes que la primera edición de [&#8230;]",
+        "fecha": "2026-08-24T21:33:53+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "La 'ciudad' de Shakira para sus 12 conciertos en Madrid ya está en marcha: así son los ocho pabellones inspirados en el universo de Gabriel García Márquez",
         "enlace": "https://www.elconfidencial.com/espana/madrid/2026-08-24/ciudad-shakira-12-conciertos-madrid-8-pabellones-1qrt_4409644/",
         "desc": "La capital se prepara para recibir a la colombia con su gira 'Las Mujeres Ya No Lloran World Touy' y una propuesta única que irá mucho más allá del escenario",
-        "fecha": "2026-08-24T21:33:26.126207+00:00",
+        "fecha": "2026-08-24T22:30:31.500227+00:00",
         "fuente": "El Confidencial"
       },
       {
@@ -75,6 +75,20 @@
     ],
     "nacional_us": [
       {
+        "titulo": "North Carolina doctor accused of shooting 2 sisters in alleged interstate road rage attack",
+        "enlace": "https://www.foxnews.com/us/north-carolina-doctor-accused-shooting-2-sisters-alleged-interstate-road-rage-attack",
+        "desc": "North Carolina doctor Richard Thomas Arriviello allegedly shot two sisters in a Jeep on Interstate 77 during a road rage incident before fleeing.",
+        "fecha": "2026-08-24T18:13:43-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+        "enlace": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+        "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know wha…",
+        "fecha": "2026-08-24T18:22:13-04:00",
+        "fuente": "NPR"
+      },
+      {
         "titulo": "Oklahoma-based Southwest Airlines flight attendant found dead in Hawaii, police investigating",
         "enlace": "https://www.foxnews.com/us/oklahoma-based-southwest-airlines-flight-attendant-found-dead-hawaii-police-investigating",
         "desc": "Oklahoma Southwest Airlines flight attendant Jenny Lupton&apos;s family fears foul play after she fell from the 24th floor of the Hilton Hawaiian Village.",
@@ -87,50 +101,36 @@
         "desc": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains …",
         "fecha": "2026-08-24T16:53:45-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Manhunt for Massachusetts woman ends with grim discovery week after police officer husband found dead at home",
-        "enlace": "https://www.foxnews.com/us/manhunt-massachusetts-woman-ends-grim-discovery-week-after-police-officer-husband-found-dead-home",
-        "desc": "Police said preliminary evidence suggests Karen Solomon died by suicide after her body was found near a Worcester rehabilitation hospital, ending a dayslong search following her hu…",
-        "fecha": "2026-08-24T16:33:46-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-        "enlace": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-        "desc": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-        "fecha": "2026-08-24T08:26:00-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "El US Open tendrá su dobles mixto de las estrellas: Alcaraz y Serena Williams se unen en busca del millón de dólares en premios",
-        "enlace": "https://www.clarin.com/deportes/us-open-dobles-mixto-estrellas-alcaraz-serena-williams-unen-busca-millon-dolares-premios_0_7D7Tinme28.html",
-        "desc": "Los dos atletas, que tienen a Nike como su patrocinador principal, se combinan para sumar 30 títulos \"grandes\" individuales. En el camino podrían cruzarse con Novak Djokovic y Aryn…",
-        "fecha": "2026-08-24T21:04:32+00:00",
+        "titulo": "Tragedia en Córdoba: un viaje de apuro para buscar a un familiar accidentado que terminó con cuatro muertos",
+        "enlace": "https://www.clarin.com/sociedad/tragedia-cordoba-viaje-apuro-buscar-familiar-accidentado-termino-muertos_0_87EiQNmhpk.html",
+        "desc": "Dos hermanas iban con la pareja de una de ellas y un cuñado en un Volkswagen Gol cuando los chocó de frente una Dodge RAM. La camioneta era conducida por un ingeniero agrónomo de 4…",
+        "fecha": "2026-08-24T21:49:36+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "El robo de dos camionetas desató una persecución de película sobre Ruta 11: disparos, choques y cuatro detenidos",
-        "enlace": "https://www.lanacion.com.ar/seguridad/el-robo-de-dos-camionetas-desato-una-persecucion-de-pelicula-sobre-ruta-11-disparos-choque-y-cuatro-nid24082026/",
-        "desc": "Los vehículos fueron interceptados tras un operativo cerrojo desplegado por las fuerzas de seguridad chaqueñas, que comenzó a la altura de María Sara y culminó en La Leonesa; el pr…",
-        "fecha": "2026-08-24T21:32:58+00:00",
+        "titulo": "Enzo Fernández, entre los abucheos en su vuelta a la Premier League y el probable pase a Manchester City",
+        "enlace": "https://www.lanacion.com.ar/deportes/futbol/enzo-fernandez-entre-los-abucheos-en-su-vuelta-a-la-premier-league-y-el-probable-pase-a-manchester-nid24082026/",
+        "desc": "El volante ingresó en el segundo tiempo en el triunfo 3-2 de Chelsea sobre Fulham, cuyos hinchas lo repudiaron, en una secuela del partido Argentina-Inglaterra del Mundial",
+        "fecha": "2026-08-24T22:29:21+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, lunes 24 de agosto",
-        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-lunes-24-agosto_0_xdylkixUJf.html",
+        "titulo": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, lunes 24 de agosto",
+        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-lunes-24-agosto_0_2836gaYOiW.html",
         "desc": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-        "fecha": "2026-08-24T21:03:01+00:00",
+        "fecha": "2026-08-24T21:46:31+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Créditos hipotecarios: cuánto hay que ganar para comprar un departamento en agosto 2026",
-        "enlace": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-cuanto-hay-que-ganar-para-comprar-un-departamento-en-agosto-2026-nid24082026/",
-        "desc": "Los ingresos requeridos varían dependiendo del banco y del plazo con que se solicite el préstamo, pero hay un mínimo con el que se debe contar",
-        "fecha": "2026-08-24T21:32:37+00:00",
+        "titulo": "Qué efectos tiene el durazno en el cuerpo y quiénes no deberían consumirlo",
+        "enlace": "https://www.lanacion.com.ar/salud/nutricion/que-efectos-tiene-el-durazno-en-el-cuerpo-y-quienes-no-deberian-consumirlo-nid24082026/",
+        "desc": "Baja en calorías, esta fruta fortalece el sistema inmune, la piel y mejora la digestión",
+        "fecha": "2026-08-24T22:29:00+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -144,10 +144,31 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Réel danger ou visées commerciales : qu’est ce qui se cache derrière « le marketing de la peur » d’Anthropic et OpenAI ?",
-        "enlace": "https://www.lefigaro.fr/secteur/high-tech/reel-danger-ou-visees-commerciales-qu-est-ce-qui-se-cache-derriere-le-marketing-de-la-peur-d-anthropic-et-openai-20260824",
-        "desc": "ENQUÊTE - Les deux sociétés américaines rivalisent de révélations sur les prouesses inquiétantes de leurs modèles en matière de sécurité. Si ces capacités soulèvent de vraies quest…",
-        "fecha": "2026-08-24T20:20:38+02:00",
+        "titulo": "Aude : une impressionnante tornade ravage un village près de Carcassonne, au moins 41 blessés et 300 habitations touchées",
+        "enlace": "https://www.lefigaro.fr/meteo/aude-les-images-impressionnantes-d-une-tornade-pres-de-carcassonne-20260824",
+        "desc": "Le phénomène a été observé lundi à 17h20 à Pomas, alors que l’Aude était placée en vigilance orange pour les orages. D’importants moyens de secours sont mobilisés.",
+        "fecha": "2026-08-24T23:59:01+02:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "Benjamin Netanyahu assure que l'Iran a \"essayé de tuer\" l'un de ses deux fils",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260824-benjamin-netanyahu-iran-essaye-tuer-fils-shin-bet-gadi-eisenkot",
+        "desc": "Le Premier ministre israélien Benjamin Netanyahu a affirmé lundi, lors d'un entretien téléphonique avec la chaine Channel 14, que l'Iran avait pris pour cible l'un de ses fils, san…",
+        "fecha": "2026-08-24T21:57:05+00:00",
+        "fuente": "France 24"
+      },
+      {
+        "titulo": "Les Etats-Unis annoncent de nouvelles sanctions pour « couper toutes les ressources économiques » de l’Iran",
+        "enlace": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-couper-toutes-les-ressources-economiques-de-l-iran_6755656_3211.html",
+        "desc": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement » du régime de Téhéran, a mis en garde Scott Bessent, le secrétaire au Tré…",
+        "fecha": "2026-08-24T20:52:50+02:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "Trains, vols, routes... Les orages perturbent fortement tous les modes de transports dans le sud de la France",
+        "enlace": "https://www.lefigaro.fr/conjoncture/trains-vols-routes-les-orages-perturbent-fortement-tous-les-modes-de-transports-dans-le-sud-de-la-france-20260824",
+        "desc": "Le trafic ferroviaire est fortement perturbé après les violents orages qui ont frappé le sud de la France lundi soir. Des restrictions de circulation ont également été prises sur l…",
+        "fecha": "2026-08-24T23:57:50+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -156,30 +177,23 @@
         "desc": "En République démocratique du Congo, la progression du virus Ebola inquiète. Partie d’une seule province, elle touche désormais six provinces du pays. Et face à cette propagation f…",
         "fecha": "2026-08-24T20:46:22+00:00",
         "fuente": "France 24"
-      },
-      {
-        "titulo": "La GPA pour les étrangers aux Etats-Unis mise à mal par Donald Trump",
-        "enlace": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html",
-        "desc": "Un récent décret supprime le droit à la citoyenneté pour les enfants nés après une gestation pour autrui lorsque les parents d’intention sont étrangers. Dans le viseur de Washingto…",
-        "fecha": "2026-08-24T06:00:12+02:00",
-        "fuente": "Le Monde"
-      },
-      {
-        "titulo": "Julie Girard : « La lutte contre l’IA, nouveau créneau du Parti démocrate américain ? »",
-        "enlace": "https://www.lefigaro.fr/vox/monde/julie-girard-la-lutte-contre-l-ia-nouveau-creneau-du-parti-democrate-americain-20260824",
-        "desc": "TRIBUNE - Dans une perspective électoraliste, les démocrates américains ont toutes les raisons de faire de la lutte contre l’intelligence artificielle la nouvelle lutte des classes…",
-        "fecha": "2026-08-24T16:00:00+02:00",
-        "fuente": "Le Figaro"
-      },
-      {
-        "titulo": "La \"Coalition des volontaires\" réaffirme son soutien à Volodymyr Zelensky",
-        "enlace": "https://www.france24.com/fr/europe/20260824-la-coalition-des-volontaires-r%C3%A9affirme-son-soutien-%C3%A0-volodymyr-zelensky",
-        "desc": "À l'occasion du 35e anniversaire de l'indépendance de l'Ukraine, le président Zelensky a salué, lundi, la résilience de son peuple après plus de quatre ans de guerre. La \"Coalition…",
-        "fecha": "2026-08-24T20:42:51+00:00",
-        "fuente": "France 24"
       }
     ],
     "nacional_de": [
+      {
+        "titulo": "Syrien: USA streichen Land von Liste der Terrorunterstützer",
+        "enlace": "https://www.spiegel.de/ausland/syrien-usa-streichen-land-von-liste-der-terrorunterstuetzer-a-530db1b8-0b1d-47e2-b5a7-1282c24d0f73#ref=rss",
+        "desc": "Die US-Regierung lockert ihre Sanktionen gegen Syrien weiter – das Land gilt nicht mehr als Terrorunterstützer. Das erleichtert ausländische Investitionen in den Wiederaufbau des L…",
+        "fecha": "2026-08-24T23:11:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Briefwahl in den USA: Supreme Court macht Weg für Trumps umstrittene Briefwahl-Regeln frei",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/briefwahl-usa-donald-trump-usps-bundesrichterin",
+        "desc": "Die US-Regierung darf Einschränkungen der Briefwahl vorantreiben. Der Oberste Gerichtshof ließ die Umsetzung zu. Ob sie noch rechtzeitig greifen, ist unklar.",
+        "fecha": "2026-08-24T22:05:13",
+        "fuente": "Die Zeit"
+      },
       {
         "titulo": "Annalena Baerbock: Nach Uno-Amt wohl Professur in New York geplant",
         "enlace": "https://www.spiegel.de/politik/annalena-baerbock-nach-uno-amt-wohl-professur-in-new-york-geplant-a-74a9ff31-dc69-467e-a026-214ced70b166#ref=rss",
@@ -188,24 +202,10 @@
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "DFB-Pokal, 1. Runde: Schalke besiegt Halle, Wolfsburg setzt sich gegen Altglienicke durch",
-        "enlace": "https://www.zeit.de/sport/2026-08/dfb-pokal-1-runde-wuerzburger-kickers-1-fc-koeln-sc-verl-hamburger-sv-vsg-altglienicke-vfl-wolfsburg",
-        "desc": "Schalke schlägt den Halleschen FC in der Verlängerung. Auch Wolfsburg muss gegen Altglienicke länger spielen und gewinnt erst im Elfmeterschießen. Die Spielberichte",
-        "fecha": "2026-08-24T21:21:45",
-        "fuente": "Die Zeit"
-      },
-      {
-        "titulo": "Rohingya: Save the Children warnt vor dramatischer Versorgungslage",
-        "enlace": "https://www.spiegel.de/ausland/rohingya-save-the-children-warnt-vor-dramatischer-versorgungslage-a-7c75cea6-e603-400b-a2bc-0e03e388b25a#ref=rss",
-        "desc": "Kein sauberes Wasser, fehlende Einkommensmöglichkeiten, überfüllte Camps: Die Versorgungslage der Rohingya in Bangladesch könnte noch kritischer werden, warnt die Organisation Save…",
-        "fecha": "2026-08-24T21:51:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Syrien: USA streichen Syrien von Liste der staatlichen Terrorunterstützer",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-08/syrien-usa-terrorliste-sanktionen-ahmed-al-scharaa",
-        "desc": "Syrien profitiert von weiteren Sanktionserleichterungen der Trump-Regierung. Für internationale Firmen und Banken dürften Geschäfte dort nun einfacher werden.",
-        "fecha": "2026-08-24T21:17:09",
+        "titulo": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/us-sanktionen-iran-wirtschaft-handelspartner-scott-bessent",
+        "desc": "Die USA haben Strafmaßnahmen gegen alle Länder angekündigt, die mit dem Iran Geschäfte machen. Finanzminister Scott Bessent sprach von einem »wirtschaftlichen D-Day«.",
+        "fecha": "2026-08-24T21:33:48",
         "fuente": "Die Zeit"
       }
     ],
@@ -264,10 +264,10 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Rodrigo Mora titular na goleada da Roma à Fiorentina",
-        "enlace": "https://observador.pt/2026/08/24/rodrigo-mora-titular-na-goleada-da-roma-a-fiorentina-com-hat-trick-de-malen-e-tres-assistencias-de-dybala/",
-        "desc": "O jovem médio português chegou recentemente a Roma, por 25 milhões de euros, em troca de 50% do passe",
-        "fecha": "2026-08-24T22:22:43+01:00",
+        "titulo": "As notícias das 23h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2157/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-24T23:14:10+01:00",
         "fuente": "Observador"
       },
       {
@@ -278,14 +278,28 @@
         "fuente": "Público"
       },
       {
-        "titulo": "Alentejo 2030 apoia modernização digital de autarquias",
-        "enlace": "https://observador.pt/2026/08/24/alentejo-2030-abre-concurso-de-um-milhao-de-euros-para-digitalizar-municipios-e-comunidades-intermunicipais/",
-        "desc": "Podem candidatar-se os municípios e as comunidades intermunicipais, no âmbito das Estratégias Territoriais Integradas (ITI CIM) das sub-regiões do Alentejo Litoral, Baixo Alentejo,…",
-        "fecha": "2026-08-24T22:21:22+01:00",
+        "titulo": "Netanyahu: \"O Irão tentou matar um dos meus filhos\"",
+        "enlace": "https://observador.pt/2026/08/24/o-irao-tentou-matar-um-dos-meus-filhos-netanyahu-revela-alegada-tentativa-de-assassinato-sem-dar-detalhes/",
+        "desc": "De acordo com um jornalista israelita, a alegada tentativa de assassínio era conhecida há \"meses\", mas estava sujeita a uma proibição de publicação",
+        "fecha": "2026-08-24T23:12:36+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
+      {
+        "titulo": "Lobista recebeu 'significativas' quantias em espécie e pagou em dinheiro passagens de Lulinha, diz PF",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lobista-recebeu-significativas-quantias-em-especie-e-pagou-em-dinheiro-passagens-de-lulinha-diz-pf.shtml",
+        "desc": "Investigação da Polícia Federal afirma que a lobista Roberta Luchsinger fazia \"significativas movimentações de dinheiro em espécie\" e que usou uma parte desses valores para pagar u…",
+        "fecha": "2026-08-24T19:03:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "MP investiga suspeita de omissão de colégio particular após aluno ser esfaqueado em Ribeirão Preto",
+        "enlace": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/24/mp-investiga-suspeita-de-omissao-de-colegio-particular-apos-aluno-ser-esfaqueado-em-ribeirao-preto.ghtml",
+        "desc": "O Ministério Público instaurou, nesta segunda-feira (24), um inquérito civil para apurar uma eventual omissão e negligência de uma escola particular de Ribeirão Preto (SP) no caso …",
+        "fecha": "2026-08-24T22:20:19",
+        "fuente": "G1 Globo"
+      },
       {
         "titulo": "Especialistas alertam para riscos criados pela IA no Judiciário em seminário da Folha",
         "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/seminariosfolha/2026/08/especialistas-alertam-para-riscos-criados-pela-ia-no-judiciario-em-seminario-da-folha.shtml",
@@ -294,24 +308,10 @@
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Caso Geovana: Mãe de babá morta em Manaus espera data do júri e diz que demora aumenta angústia: ‘Traz memórias’",
-        "enlace": "https://g1.globo.com/am/amazonas/noticia/2026/08/24/caso-geovana-mae-de-baba-morta-em-manaus-espera-data-do-juri-e-diz-que-demora-aumenta-angustia-traz-memorias.ghtml",
-        "desc": "Réus vão a júri popular pela morte de babá que era explorada sexualmente pela patroa Dois anos após o assassinato de Geovana Costa Martins, de 20 anos, em Manaus, a mãe da jovem, M…",
-        "fecha": "2026-08-24T21:28:31",
-        "fuente": "G1 Globo"
-      },
-      {
-        "titulo": "Governo alemão põe fim a programa de missões empresariais brasileiras ao país europeu",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/governo-alemao-poe-fim-a-programa-de-missoes-empresariais-brasileiras-ao-pais-europeu.shtml",
-        "desc": "O governo da Alemanha informou ao governo brasileiro que vai encerrar um programa que oferecia treinamentos, missões empresariais no país europeu e networking internacional às empr…",
-        "fecha": "2026-08-24T17:50:00-03:00",
-        "fuente": "Folha SP"
-      },
-      {
-        "titulo": "Campinas Innovation Week 2026 confirma participação do Sebrae-SP",
-        "enlace": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/acic/noticia/2026/08/24/campinas-innovation-week-2026-confirma-participacao-do-sebrae-sp.ghtml",
-        "desc": "Campinas Innovation Week 2026 confirma participação do Sebrae-SP Crédito: Divulgação Acic O Campinas Innovation Week (CIW) 2026 confirmou o Sebrae-SP como um dos parceiros da nova …",
-        "fecha": "2026-08-24T21:27:57",
+        "titulo": "Agricultora de Formosa é eleita pela Forbes como umas das mulheres mais poderosas do Brasil",
+        "enlace": "https://g1.globo.com/go/goias/noticia/2026/08/24/agricultora-de-formosa-e-eleita-pela-forbes-como-umas-das-mulheres-mais-poderosas-do-brasil.ghtml",
+        "desc": "Empresária de Goiás se torna uma das mulheres mais poderosas do Brasil, segundo a Forbes Reprodução/Instagram de Camila Colpo A presidente da Boa Safra Sementes, Camila Colpo, foi …",
+        "fecha": "2026-08-24T22:19:42",
         "fuente": "G1 Globo"
       }
     ],
@@ -333,31 +333,31 @@
     ],
     "internacional_es": [
       {
-        "titulo": "Más de 300 pasajeros varados en Brasil tras un fallo técnico en un vuelo de Buenos Aires a Madrid",
-        "enlace": "https://www.abc.es/internacional/300-pasajeros-varados-brasil-tras-falla-vuelo-20260824231607-nt.html",
-        "desc": "El avión despegó de Buenos Aires con destino a Madrid el domingo apenas pasado el mediodía. Sin embargo, poco tiempo después debió aterrizar de emergencia en Brasil debido a uno fa…",
-        "fecha": "2026-08-24T23:16:07+02:00",
+        "titulo": "La Corte Suprema de EE.UU. respalda la orden de Trump de restringir el voto por correo",
+        "enlace": "https://www.abc.es/internacional/corte-suprema-eeuu-respalda-orden-trump-restringir-20260824234937-nt.html",
+        "desc": "La Corte Suprema de Estados Unidos levantó el lunes una decisión judicial que impedía a la administración del presidente Donald Trump implementar su orden ejecutiva para restringir…",
+        "fecha": "2026-08-24T23:49:37+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Netanyahu avisa a Hamas con aumentar los \"ataques selectivos\" si sigue el lanzamiento de cometas y drones",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/24/6a8c6798e4d4d8df718b4586.html",
-        "desc": "En Israel temen la vuelta de artefactos incendiarios desde la Franja de Gaza como en los años previos al ataque del 7 de octubre del 2023. Hamas se desvincula del lanzamiento.&nbsp…",
-        "fecha": "2026-08-24T17:59:06+02:00",
+        "titulo": "El Congreso de los ausentes: enfermedades misteriosas, edades avanzadas y preguntas sin respuesta en Washington",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/25/6a62513ae85ece904a8b457f.html",
+        "desc": "En los últimos años, senadores y congresistas de alto perfil han desaparecido durante semanas o meses sin ofrecer explicaciones sólidas&nbsp; Leer",
+        "fecha": "2026-08-25T00:06:54+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Al menos dos desaparecidos bajo los escombros tras el paso de un tornado en el sur de Francia",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-24/tornado-francia-desaparecidos-aude-1tps_4410901/",
         "desc": "Hay 26 personas lesionadas de diversa consideración, aunque estables, como resultado del tornado. La Prefectura del Aude ha explicado que hay cinco personas hospitalizadas",
-        "fecha": "2026-08-24T21:33:54.688494+00:00",
+        "fecha": "2026-08-24T22:30:55.184402+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
-        "enlace": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
-        "desc": "En una visita al país, BBC Brasil habló con comunidades que dicen sentirse aliviadas con el fin del dominio de las pandillas, pero también con madres que aseguran tener hijos preso…",
-        "fecha": "2026-08-24T12:04:02+00:00",
+        "titulo": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+        "enlace": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
+        "desc": "Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene …",
+        "fecha": "2026-08-24T17:45:03+00:00",
         "fuente": "BBC Mundo"
       },
       {
@@ -382,24 +382,24 @@
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Al menos dos desaparecidos bajo los escombros tras el paso de un tornado en el sur de Francia",
-        "enlace": "https://www.abc.es/internacional/dos-desaparecidos-bajo-escombros-tras-paso-tornado-20260824225002-nt.html",
-        "desc": "Dos personas se encuentran desaparecidas tras el paso de un tornado en la tarde del lunes por la localidad de Pomas, en el departamento del Aude, región de Languedoc-Rosellón, en e…",
-        "fecha": "2026-08-24T22:50:03+02:00",
+        "titulo": "Más de 300 pasajeros varados en Brasil tras un fallo técnico en un vuelo de Buenos Aires a Madrid",
+        "enlace": "https://www.abc.es/internacional/300-pasajeros-varados-brasil-tras-falla-vuelo-20260824231607-nt.html",
+        "desc": "El avión despegó de Buenos Aires con destino a Madrid el domingo apenas pasado el mediodía. Sin embargo, poco tiempo después debió aterrizar de emergencia en Brasil debido a uno fa…",
+        "fecha": "2026-08-24T23:16:07+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Londres facilita la producción de misiles en Ucrania en la primera visita de Andy Burnham a Kiev",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/24/6a8c14a3fc6c83a6318b457d.html",
-        "desc": "El primer ministro británico preside la reunión de la Coalición de Voluntarios en la capital ucraniana y reafirma el apoyo oficial contra Rusia&nbsp; Leer",
-        "fecha": "2026-08-24T17:55:20+02:00",
+        "titulo": "EEUU amenaza con nuevas sanciones a cualquier país que comercie con Irán, incluido China: \"Es momento de elegir de qué lado están\"",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/24/6a8c85d9e4d4d870468b4579.html",
+        "desc": "El secretario del Tesoro, Scott Bessent, asegura que no harán excepciones, ni siquiera con Pekín, en su intento de asfixiar la economía del régimen iraní&nbsp; Leer",
+        "fecha": "2026-08-24T21:34:17+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Estados Unidos retira a Siria de la lista de países patrocinadores del terrorismo tras 47 años",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-24/siria-eeuu-sanciones-terrorismo-retirada-1tps_4410896/",
         "desc": "EEUU saca a Damasco de la lista tras 47 años y alivia restricciones; Exteriores celebra la medida, resalta cooperación bilateral y anticipa impulso a reconstrucción e inversión",
-        "fecha": "2026-08-24T21:33:54.688535+00:00",
+        "fecha": "2026-08-24T22:30:55.184443+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -419,24 +419,24 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "UK, France ‘re-announce’ anti-missile technology for Ukraine: ‘None will be online for years’",
-        "enlace": "https://www.france24.com/en/video/20260824-uk-france-re-announce-anti-missile-technology-for-ukraine-none-will-be-online-for-years",
-        "desc": "Annette Young is pleased to welcome Dr. Frank Ledwidge, former military intelligence officer and Senior Lecturer in Strategy at Portsmouth University. According to Dr. Ledwidge, th…",
-        "fecha": "2026-08-24T18:16:00+00:00",
+        "titulo": "Tornado devastates village in southwestern France’s Aude region",
+        "enlace": "https://www.france24.com/en/france/20260824-tornado-devastates-village-southwestern-france-aude-region",
+        "desc": "A tornado tore through the southwestern French village of Pomas on Monday, injuring 41 people and damaging about 300 homes, authorities said. The storm ripped roofs from buildings …",
+        "fecha": "2026-08-24T22:16:12+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "One of Iran’s biggest trading partners finally cut it off — it could be the biggest threat to the regime yet",
-        "enlace": "https://nypost.com/2026/08/24/world-news/why-uaes-suspension-of-iran-trade-could-be-biggest-threat-to-regime-yet/",
-        "desc": "Iran faces its biggest economic challenge yet after the United Arab Emirates suspended all trade with Tehran, threatening nearly a third of all its imports and more than $6 billion…",
-        "fecha": "2026-08-24T17:33:19-04:00",
+        "titulo": "Trump’s pardon czar warns of scammers demanding money for presidential get-out-of-jail card",
+        "enlace": "https://nypost.com/2026/08/24/us-news/trumps-pardon-czar-warns-of-scammers-demanding-money-for-presidential-get-out-of-jail-card/",
+        "desc": "WASHINGTON — President Trump’s pardon czar Alice Marie Johnson warned of scammers asking for money in the booming clemency industry, where a presidential pardon can cost millions. …",
+        "fecha": "2026-08-24T18:30:30-04:00",
         "fuente": "New York Post"
       },
       {
         "titulo": "Sudan: US proposes expanding UN arms embargo",
         "enlace": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-rdf",
         "desc": "The US has called for a UN arms embargo for Darfur to be broadened to the whole of Sudan. The change would require Security Council approval, with Russia warning it would hurt the …",
-        "fecha": "2026-08-24T21:33:57.170037+00:00",
+        "fecha": "2026-08-24T22:30:57.792367+00:00",
         "fuente": "DW English"
       },
       {
@@ -468,10 +468,10 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
-        "enlace": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
-        "desc": "France and Saudi Arabia on Monday signed an agreement for the oil-rich Gulf kingdom to invest €6 billion to create three amusement parks near Paris, including one likely to be a ma…",
-        "fecha": "2026-08-24T18:13:11+00:00",
+        "titulo": "Israel's Netanyahu says Iran tried to assassinate one of his sons",
+        "enlace": "https://www.france24.com/en/middle-east/20260824-israel-netanyahu-says-iran-tried-kill-son",
+        "desc": "Israeli Prime Minister Benjamin Netanyahu said on Monday that Iran had attempted to assassinate one of his two sons, without providing evidence or further details. “Iran tried to k…",
+        "fecha": "2026-08-24T21:38:31+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,10 +484,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Ebola en RDC : la riposte sur le fleuve Congo",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260824-ebola-en-rdc-la-riposte-sur-le-fleuve-congo",
-        "desc": "En République démocratique du Congo, la progression du virus Ebola inquiète. Partie d’une seule province, elle touche désormais six provinces du pays. Et face à cette propagation f…",
-        "fecha": "2026-08-24T20:46:22+00:00",
+        "titulo": "Benjamin Netanyahu assure que l'Iran a \"essayé de tuer\" l'un de ses deux fils",
+        "enlace": "https://www.france24.com/fr/moyen-orient/20260824-benjamin-netanyahu-iran-essaye-tuer-fils-shin-bet-gadi-eisenkot",
+        "desc": "Le Premier ministre israélien Benjamin Netanyahu a affirmé lundi, lors d'un entretien téléphonique avec la chaine Channel 14, que l'Iran avait pris pour cible l'un de ses fils, san…",
+        "fecha": "2026-08-24T21:57:05+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -519,10 +519,10 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "La \"Coalition des volontaires\" réaffirme son soutien à Volodymyr Zelensky",
-        "enlace": "https://www.france24.com/fr/europe/20260824-la-coalition-des-volontaires-r%C3%A9affirme-son-soutien-%C3%A0-volodymyr-zelensky",
-        "desc": "À l'occasion du 35e anniversaire de l'indépendance de l'Ukraine, le président Zelensky a salué, lundi, la résilience de son peuple après plus de quatre ans de guerre. La \"Coalition…",
-        "fecha": "2026-08-24T20:42:51+00:00",
+        "titulo": "Ebola en RDC : la riposte sur le fleuve Congo",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260824-ebola-en-rdc-la-riposte-sur-le-fleuve-congo",
+        "desc": "En République démocratique du Congo, la progression du virus Ebola inquiète. Partie d’une seule province, elle touche désormais six provinces du pays. Et face à cette propagation f…",
+        "fecha": "2026-08-24T20:46:22+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -549,17 +549,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "Annalena Baerbock: Nach Uno-Amt wohl Professur in New York geplant",
-        "enlace": "https://www.spiegel.de/politik/annalena-baerbock-nach-uno-amt-wohl-professur-in-new-york-geplant-a-74a9ff31-dc69-467e-a026-214ced70b166#ref=rss",
-        "desc": "Ihr Amt als Präsidentin der Uno-Generalversammlung legt Annalena Baerbock bald nieder, doch nach Deutschland wird sie offenbar vorerst nicht zurückkehren: Medien zufolge wechselt s…",
-        "fecha": "2026-08-24T22:35:00+02:00",
+        "titulo": "Syrien: USA streichen Land von Liste der Terrorunterstützer",
+        "enlace": "https://www.spiegel.de/ausland/syrien-usa-streichen-land-von-liste-der-terrorunterstuetzer-a-530db1b8-0b1d-47e2-b5a7-1282c24d0f73#ref=rss",
+        "desc": "Die US-Regierung lockert ihre Sanktionen gegen Syrien weiter – das Land gilt nicht mehr als Terrorunterstützer. Das erleichtert ausländische Investitionen in den Wiederaufbau des L…",
+        "fecha": "2026-08-24T23:11:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Industrie oder Trinkwasser? Brandenburgs Wasserkonflikt",
         "enlace": "https://www.dw.com/de/industrie-oder-trinkwasser-brandenburgs-wasserkonflikt/a-78422447?maca=de-rss-de-all-1119-rdf",
         "desc": "Brandenburg wird immer trockener. Doch Industrieprojekte wie Tesla, Red Bull und ein geplanter Kupferabbau verbrauchen viel Wasser. Wird es künftig für alle reichen, für Wirtschaft…",
-        "fecha": "2026-08-24T21:33:58.924000+00:00",
+        "fecha": "2026-08-24T22:30:59.266086+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -577,17 +577,17 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Rohingya: Save the Children warnt vor dramatischer Versorgungslage",
-        "enlace": "https://www.spiegel.de/ausland/rohingya-save-the-children-warnt-vor-dramatischer-versorgungslage-a-7c75cea6-e603-400b-a2bc-0e03e388b25a#ref=rss",
-        "desc": "Kein sauberes Wasser, fehlende Einkommensmöglichkeiten, überfüllte Camps: Die Versorgungslage der Rohingya in Bangladesch könnte noch kritischer werden, warnt die Organisation Save…",
-        "fecha": "2026-08-24T21:51:00+02:00",
+        "titulo": "Annalena Baerbock: Nach Uno-Amt wohl Professur in New York geplant",
+        "enlace": "https://www.spiegel.de/politik/annalena-baerbock-nach-uno-amt-wohl-professur-in-new-york-geplant-a-74a9ff31-dc69-467e-a026-214ced70b166#ref=rss",
+        "desc": "Ihr Amt als Präsidentin der Uno-Generalversammlung legt Annalena Baerbock bald nieder, doch nach Deutschland wird sie offenbar vorerst nicht zurückkehren: Medien zufolge wechselt s…",
+        "fecha": "2026-08-24T22:35:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Unvergessliche Momente aus über 60 Jahren Fußball-Bundesliga",
         "enlace": "https://www.dw.com/de/unvergessliche-momente-aus-über-60-jahren-fußball-bundesliga/a-66590509?maca=de-rss-de-all-1119-rdf",
         "desc": "In über 60 Jahren hat die Fußball-Bundesliga viele Geschichten geschrieben: manche lustig, andere tragisch - aber immer mit vielen Emotionen. Einige sind in die Historie der Liga e…",
-        "fecha": "2026-08-24T21:33:58.924045+00:00",
+        "fecha": "2026-08-24T22:30:59.266131+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -651,17 +651,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "22h Ladrões de museus: Mais violentos e querem outras coisas",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ladroes-de-museus-mais-violentos-e-querem-outras-coisas_a1_1761339",
-        "desc": "",
-        "fecha": "2026-08-24T23:32:02+01:00",
+        "titulo": "Díaz-Canel diz que diálogo com EUA está parado e nega que Cuba vá \"colapsar\"",
+        "enlace": "https://www.rtp.pt/noticias/mundo/diaz-canel-diz-que-dialogo-com-eua-esta-parado-e-nega-que-cuba-va-colapsar_n1761346",
+        "desc": "O Presidente cubano, Miguel Díaz-Canel, reconheceu que o diálogo com os Estados Unidos &quot;está estagnado&quot;, sem &quot;uma agenda definida&quot; apesar da &quot;vontade de di…",
+        "fecha": "2026-08-25T00:30:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Rodrigo Mora titular na goleada da Roma à Fiorentina",
-        "enlace": "https://observador.pt/2026/08/24/rodrigo-mora-titular-na-goleada-da-roma-a-fiorentina-com-hat-trick-de-malen-e-tres-assistencias-de-dybala/",
-        "desc": "O jovem médio português chegou recentemente a Roma, por 25 milhões de euros, em troca de 50% do passe",
-        "fecha": "2026-08-24T22:22:43+01:00",
+        "titulo": "As notícias das 23h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2157/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-24T23:14:10+01:00",
         "fuente": "Observador"
       },
       {
@@ -672,17 +672,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Chelsea entra a vencer na casa do Fulham em jogo com cinco golos",
-        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/chelsea-entra-a-vencer-na-casa-do-fulham-em-jogo-com-cinco-golos_d1761336",
-        "desc": "O Chelsea entrou hoje a vencer na edição 2026/27 da Liga inglesa de futebol, ao vencer fora o Fulham por 3-2, no primeiro dérbi londrino da prova, a contar para a jornada inaugural…",
-        "fecha": "2026-08-24T23:17:49+01:00",
+        "titulo": "EUA sugerem que Canadá teve motivações políticas para romper negociações comerciais",
+        "enlace": "https://www.rtp.pt/noticias/economia/eua-sugerem-que-canada-teve-motivacoes-politicas-para-romper-negociacoes-comerciais_n1761344",
+        "desc": "O representante comercial norte-americano, Jamieson Greer, sugeriu hoje que o Canadá teve motivações políticas para recusar os termos de um acordo comercial bilateral que Otava con…",
+        "fecha": "2026-08-25T00:29:44+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Alentejo 2030 apoia modernização digital de autarquias",
-        "enlace": "https://observador.pt/2026/08/24/alentejo-2030-abre-concurso-de-um-milhao-de-euros-para-digitalizar-municipios-e-comunidades-intermunicipais/",
-        "desc": "Podem candidatar-se os municípios e as comunidades intermunicipais, no âmbito das Estratégias Territoriais Integradas (ITI CIM) das sub-regiões do Alentejo Litoral, Baixo Alentejo,…",
-        "fecha": "2026-08-24T22:21:22+01:00",
+        "titulo": "Netanyahu: \"O Irão tentou matar um dos meus filhos\"",
+        "enlace": "https://observador.pt/2026/08/24/o-irao-tentou-matar-um-dos-meus-filhos-netanyahu-revela-alegada-tentativa-de-assassinato-sem-dar-detalhes/",
+        "desc": "De acordo com um jornalista israelita, a alegada tentativa de assassínio era conhecida há \"meses\", mas estava sujeita a uma proibição de publicação",
+        "fecha": "2026-08-24T23:12:36+01:00",
         "fuente": "Observador"
       },
       {
@@ -744,10 +744,10 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&at_campaign=rss",
-        "desc": "Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings.",
-        "fecha": "2026-08-24T20:54:09+00:00",
+        "titulo": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
+        "enlace": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
+        "fecha": "2026-08-24T21:53:24+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -767,17 +767,17 @@
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&at_campaign=rss",
-        "desc": "Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings.",
-        "fecha": "2026-08-24T20:54:09+00:00",
+        "titulo": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
+        "enlace": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
+        "fecha": "2026-08-24T21:53:24+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Chelsea latest: VOTE! How do Blues solve goalkeeper 'problem'?",
-        "enlace": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-        "desc": "",
-        "fecha": "2026-08-24T16:23:00",
+        "titulo": "Five-goal thriller! Palmer & Rogers star as Alonso era begins with win",
+        "enlace": "https://www.skysports.com/watch/video/13576822/fulham-2-3-chelsea-premier-league-highlights",
+        "desc": "FREE TO WATCH: Highlights from Fulham&#8217;s match against Chelsea in the Premier League.",
+        "fecha": "2026-08-24T22:45:00",
         "fuente": "Sky Sports"
       }
     ],
@@ -790,10 +790,10 @@
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&at_campaign=rss",
-        "desc": "Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings.",
-        "fecha": "2026-08-24T20:54:09+00:00",
+        "titulo": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
+        "enlace": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
+        "fecha": "2026-08-24T21:53:24+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,7 +802,7 @@
         "titulo": "Reit-WM: Steve Guerdat ist Weltmeister im Springreiten",
         "enlace": "https://www.dw.com/de/reit-wm-steve-guerdat-ist-weltmeister-im-springreiten/a-78477871?maca=de-rss-de-sport-4020-rdf",
         "desc": "Bei der Weltmeisterschaft in Aachen setzt sich der Schweizer als beständigster Reiter durch. Drei Deutsche starten ebenfalls aussichtsreich in den Schlusstag der WM, leisten sich a…",
-        "fecha": "2026-08-24T21:34:08.081674+00:00",
+        "fecha": "2026-08-24T22:31:08.660506+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,30 +816,30 @@
         "titulo": "Reit-WM in Aachen: Deutschland gewinnt Gold im Springreiten",
         "enlace": "https://www.dw.com/de/reit-wm-in-aachen-deutschland-gewinnt-gold-im-springreiten/a-78465929?maca=de-rss-de-sport-4020-rdf",
         "desc": "Bei der Reit-WM in Aachen ist der deutschen Equipe der Titel bereits nach drei von vier Reitern nicht mehr zu nehmen. Eine Entscheidung von Bundestrainer Otto Becker stellt sich al…",
-        "fecha": "2026-08-24T21:34:08.081716+00:00",
+        "fecha": "2026-08-24T22:31:08.660549+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&at_campaign=rss",
-        "desc": "Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings.",
-        "fecha": "2026-08-24T20:54:09+00:00",
+        "titulo": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
+        "enlace": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
+        "fecha": "2026-08-24T21:53:24+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "Watkins' departure would cut deepest - and Villa did not see it coming",
+        "titulo": "La partenza di Watkins avrebbe avuto un impatto più profondo e Villa non se l'aspettava",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
         "desc": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
         "fecha": "2026-08-24T16:43:58+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&at_campaign=rss",
-        "desc": "Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings.",
-        "fecha": "2026-08-24T20:54:09+00:00",
+        "titulo": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
+        "enlace": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
+        "fecha": "2026-08-24T21:53:24+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -860,17 +860,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
-        "enlace": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
-        "desc": "En una visita al país, BBC Brasil habló con comunidades que dicen sentirse aliviadas con el fin del dominio de las pandillas, pero también con madres que aseguran tener hijos preso…",
-        "fecha": "2026-08-24T12:04:02+00:00",
+        "titulo": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+        "enlace": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
+        "desc": "Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene …",
+        "fecha": "2026-08-24T17:45:03+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "The exoskeletons are coming (to a store near you)",
         "enlace": "https://www.nature.com/articles/d41586-026-02641-y",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-        "fecha": "2026-08-24T21:34:14.396463+00:00",
+        "fecha": "2026-08-24T22:31:16.908023+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -895,17 +895,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
-        "enlace": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
-        "desc": "Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene …",
-        "fecha": "2026-08-24T17:45:03+00:00",
+        "titulo": "\"El miedo ahora es otro\": cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
+        "enlace": "https://www.bbc.com/mundo/articles/c07rl0nl44no?at_medium=RSS&at_campaign=rss",
+        "desc": "En una visita al país, BBC Brasil habló con comunidades que dicen sentirse aliviadas con el fin del dominio de las pandillas, pero también con madres que aseguran tener hijos preso…",
+        "fecha": "2026-08-24T12:04:02+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Frontier-technology markets are too narrow — here’s how to widen them",
         "enlace": "https://www.nature.com/articles/d41586-026-02572-8",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of techno…",
-        "fecha": "2026-08-24T21:34:14.396505+00:00",
+        "fecha": "2026-08-24T22:31:16.908067+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -921,7 +921,7 @@
         "titulo": "The exoskeletons are coming (to a store near you)",
         "enlace": "https://www.nature.com/articles/d41586-026-02641-y",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-        "fecha": "2026-08-24T21:34:15.374519+00:00",
+        "fecha": "2026-08-24T22:31:18.667774+00:00",
         "fuente": "Nature"
       },
       {
@@ -946,10 +946,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "AI finds six ways to print rocket-grade alloy on commercial 3D printers",
-        "enlace": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
-        "desc": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers fro…",
-        "fecha": "2026-08-24T17:30:04-04:00",
+        "titulo": "Supersized quantum sensors make faint photons easier to catch",
+        "enlace": "https://phys.org/news/2026-08-supersized-quantum-sensors-faint-photons.html",
+        "desc": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single …",
+        "fecha": "2026-08-24T18:30:01-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Frontier-technology markets are too narrow — here’s how to widen them",
         "enlace": "https://www.nature.com/articles/d41586-026-02572-8",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of techno…",
-        "fecha": "2026-08-24T21:34:15.374558+00:00",
+        "fecha": "2026-08-24T22:31:18.667820+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "The exoskeletons are coming (to a store near you)",
         "enlace": "https://www.nature.com/articles/d41586-026-02641-y",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-        "fecha": "2026-08-24T21:34:20.704261+00:00",
+        "fecha": "2026-08-24T22:31:23.280682+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Frontier-technology markets are too narrow — here’s how to widen them",
         "enlace": "https://www.nature.com/articles/d41586-026-02572-8",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of techno…",
-        "fecha": "2026-08-24T21:34:20.704303+00:00",
+        "fecha": "2026-08-24T22:31:23.280727+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "Mücken verbreiten das tropische West-Nil-Virus im Norden",
         "enlace": "https://www.dw.com/de/mücken-verbreiten-das-tropische-west-nil-virus-im-norden/a-72957321?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Stechmücken verbreiten gefährliche Viren – auch auf der Nordhalbkugel. Das West-Nil-Virus dringt in neue Regionen in Europa und den USA vor. In Deutschland ist es längst etabliert.…",
-        "fecha": "2026-08-24T21:34:21.677003+00:00",
+        "fecha": "2026-08-24T22:31:24.433168+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "The exoskeletons are coming (to a store near you)",
         "enlace": "https://www.nature.com/articles/d41586-026-02641-y",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-        "fecha": "2026-08-24T21:34:21.785891+00:00",
+        "fecha": "2026-08-24T22:31:25.319309+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Ernährungssicherheit: Pflanzen, die der Hitze trotzen",
         "enlace": "https://www.dw.com/de/ernährungssicherheit-pflanzen-die-der-hitze-trotzen/a-78464196?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Weltweit steigende Temperaturen gefährden die Nahrungsmittelproduktion. Gleichzeitig wächst die Weltbevölkerung. In den Niederlanden arbeiten Forschende daran, Pflanzen zu entwicke…",
-        "fecha": "2026-08-24T21:34:21.677047+00:00",
+        "fecha": "2026-08-24T22:31:24.433216+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Frontier-technology markets are too narrow — here’s how to widen them",
         "enlace": "https://www.nature.com/articles/d41586-026-02572-8",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of techno…",
-        "fecha": "2026-08-24T21:34:21.785933+00:00",
+        "fecha": "2026-08-24T22:31:25.319354+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,23 +1053,23 @@
         "titulo": "The exoskeletons are coming (to a store near you)",
         "enlace": "https://www.nature.com/articles/d41586-026-02641-y",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-        "fecha": "2026-08-24T21:34:22.883469+00:00",
+        "fecha": "2026-08-24T22:31:27.426643+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Frontier-technology markets are too narrow — here’s how to widen them",
         "enlace": "https://www.nature.com/articles/d41586-026-02572-8",
         "desc": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of techno…",
-        "fecha": "2026-08-24T21:34:22.883509+00:00",
+        "fecha": "2026-08-24T22:31:27.426688+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "A parceria que chega aos Jogos Olímpicos",
-        "enlace": "https://observador.pt/programas/brainstorming/a-parceria-que-chega-aos-jogos-olimpicos/",
-        "desc": "De um lado, uma marca imobiliária. Do outro, um atleta. Hugo Santos Ferreira, CEO da Corcoran Atlantic, e Francisco Stilwell, cavaleiro profissional, falam sobre uma parceria que v…",
-        "fecha": "2026-08-24T22:32:55+01:00",
+        "titulo": "As notícias das 23h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-23h-2157/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-08-24T23:14:10+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1080,10 +1080,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Rodrigo Mora titular na goleada da Roma à Fiorentina",
-        "enlace": "https://observador.pt/2026/08/24/rodrigo-mora-titular-na-goleada-da-roma-a-fiorentina-com-hat-trick-de-malen-e-tres-assistencias-de-dybala/",
-        "desc": "O jovem médio português chegou recentemente a Roma, por 25 milhões de euros, em troca de 50% do passe",
-        "fecha": "2026-08-24T22:22:43+01:00",
+        "titulo": "Netanyahu: \"O Irão tentou matar um dos meus filhos\"",
+        "enlace": "https://observador.pt/2026/08/24/o-irao-tentou-matar-um-dos-meus-filhos-netanyahu-revela-alegada-tentativa-de-assassinato-sem-dar-detalhes/",
+        "desc": "De acordo com um jornalista israelita, a alegada tentativa de assassínio era conhecida há \"meses\", mas estava sujeita a uma proibição de publicação",
+        "fecha": "2026-08-24T23:12:36+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1106,7 +1106,7 @@
         "titulo": "Los tres grandes bancos de España afinan sus estrategias de banca privada en busca de 'ultrarricos'",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-24/tres-grandes-bancos-espana-banca-privada-ultrarricos_4410311/",
         "desc": "Según el último Informe sobre la Riqueza Mundial 2026 de la consultora Capgemini, en 2025 el número de grandes fortunas en España aumentó en 2025 un 5,3%",
-        "fecha": "2026-08-24T21:34:27.087200+00:00",
+        "fecha": "2026-08-24T22:31:30.600322+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1117,17 +1117,17 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
-        "desc": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option s…",
-        "fecha": "2026-08-24T21:28:24+00:00",
+        "titulo": "Latest Oil Market News and Analysis for Aug. 25",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+        "desc": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+        "fecha": "2026-08-24T22:02:31+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-        "enlace": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-        "desc": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
-        "fecha": "2026-08-24T12:07:27+00:00",
+        "titulo": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+        "enlace": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+        "desc": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+        "fecha": "2026-08-24T22:15:46+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1141,7 +1141,7 @@
         "titulo": "El foro 'Emerging Markets Summit', en imágenes",
         "enlace": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
         "desc": "PIMCO, en colaboración con El Confidencial, reunió en Madrid a expertos internacionales para analizar las oportunidades y tendencias de los mercados emergentes",
-        "fecha": "2026-08-24T21:34:27.087260+00:00",
+        "fecha": "2026-08-24T22:31:30.600361+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1152,40 +1152,40 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
-        "desc": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening tra…",
-        "fecha": "2026-08-24T14:20:51+00:00",
+        "titulo": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+        "desc": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting …",
+        "fecha": "2026-08-24T21:52:07+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-        "enlace": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-        "desc": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
-        "fecha": "2026-08-24T17:23:54+00:00",
+        "titulo": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+        "enlace": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+        "desc": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+        "fecha": "2026-08-24T21:53:25+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
-        "desc": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option s…",
-        "fecha": "2026-08-24T21:28:24+00:00",
+        "titulo": "Latest Oil Market News and Analysis for Aug. 25",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+        "desc": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+        "fecha": "2026-08-24T22:02:31+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Google plans to move all Pixel manufacturing out of China by 2027: report",
-        "enlace": "https://www.foxbusiness.com/markets/google-plans-move-all-pixel-manufacturing-out-china-2027",
-        "desc": "Google reportedly informed suppliers it will shift all Pixel device manufacturing out of China and into Vietnam and India beginning in 2027.",
-        "fecha": "2026-08-24T16:26:56-04:00",
+        "titulo": "Raiders announce $25M grant to help build Nevada's first stand-alone children's hospital",
+        "enlace": "https://www.foxbusiness.com/sports/raiders-announce-25m-grant-help-build-nevadas-first-stand-alone-childrens-hospital",
+        "desc": "Mark Davis and the Las Vegas Raiders announced a $25 million gift to Intermountain Health to help build Nevada&apos;s first stand-alone children&apos;s hospital.",
+        "fecha": "2026-08-24T18:00:38-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-        "enlace": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-        "desc": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
-        "fecha": "2026-08-24T12:07:27+00:00",
+        "titulo": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+        "enlace": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+        "desc": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+        "fecha": "2026-08-24T22:15:46+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1196,24 +1196,24 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
-        "desc": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening tra…",
-        "fecha": "2026-08-24T14:20:51+00:00",
+        "titulo": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+        "desc": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting …",
+        "fecha": "2026-08-24T21:52:07+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "The top cities in America where renting beats buying by $1,000",
-        "enlace": "https://www.foxbusiness.com/lifestyle/housing-affordability-gap-widens-seven-major-metro-areas-favor-renters-over-buyers-wide-margins",
-        "desc": "Austin and Sacramento top a list of seven metro areas where renting vs buying data shows renters saving over $1,000 per month on housing costs.",
-        "fecha": "2026-08-24T14:55:52-04:00",
+        "titulo": "IBM continuing to enhance fan experience with new AI-powered features for US Open, including Serve Quality",
+        "enlace": "https://www.foxbusiness.com/sports/ibm-continuing-enhance-fan-experience-new-ai-powered-features-us-open-including-serve-quality",
+        "desc": "IBM unveiled its AI-powered Serve Quality metric and enhanced Match Chat ahead the 2026 U.S. Open, as the technology giant continues to transform the fan experience.",
+        "fecha": "2026-08-24T17:37:18-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-        "enlace": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-        "desc": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
-        "fecha": "2026-08-24T17:23:54+00:00",
+        "titulo": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+        "enlace": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+        "desc": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+        "fecha": "2026-08-24T21:53:25+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1226,33 +1226,33 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
-        "desc": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option s…",
-        "fecha": "2026-08-24T21:28:24+00:00",
+        "titulo": "Latest Oil Market News and Analysis for Aug. 25",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+        "desc": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+        "fecha": "2026-08-24T22:02:31+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
-        "desc": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening tra…",
-        "fecha": "2026-08-24T14:20:51+00:00",
+        "titulo": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+        "desc": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting …",
+        "fecha": "2026-08-24T21:52:07+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "+++ USA +++: US-Regierung will offenbar bis zu 200.000 Visa widerrufen",
-        "enlace": "https://www.handelsblatt.com/politik/international/usa-us-regierung-will-offenbar-bis-zu-200.000-visa-widerrufen/29669594.html",
-        "desc": "Trump dreht Ehrenrunde bei Autorennen mitten in Washington +++ USA nehmen Syrien formell von ihrer Terror-Liste +++ US-Bundesrichterin kippt Trumps Visa-Stopp +++ Der Newsblog.",
+        "titulo": "+++ USA +++: Etappensieg für Trump bei geplanten Briefwahl-Einschränkungen",
+        "enlace": "https://www.handelsblatt.com/politik/international/usa-etappensieg-fuer-trump-bei-geplanten-briefwahl-einschraenkungen/29669594.html",
+        "desc": "US-Regierung will offenbar bis zu 200.000 Visa widerrufen +++ Trump dreht Ehrenrunde bei Autorennen mitten in Washington +++ USA nehmen Syrien formell von ihrer Terror-Liste +++ De…",
         "fecha": "2026-08-24T21:12:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
-        "desc": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option s…",
-        "fecha": "2026-08-24T21:28:24+00:00",
+        "titulo": "Latest Oil Market News and Analysis for Aug. 25",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+        "desc": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+        "fecha": "2026-08-24T22:02:31+00:00",
         "fuente": "Bloomberg EN"
       },
       {
@@ -1263,30 +1263,44 @@
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
-        "desc": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening tra…",
-        "fecha": "2026-08-24T14:20:51+00:00",
+        "titulo": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+        "desc": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting …",
+        "fecha": "2026-08-24T21:52:07+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
-        "desc": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option s…",
-        "fecha": "2026-08-24T21:28:24+00:00",
+        "titulo": "Latest Oil Market News and Analysis for Aug. 25",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+        "desc": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+        "fecha": "2026-08-24T22:02:31+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
-        "desc": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening tra…",
-        "fecha": "2026-08-24T14:20:51+00:00",
+        "titulo": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+        "desc": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting …",
+        "fecha": "2026-08-24T21:52:07+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
+      {
+        "titulo": "Derrapagem automóvel",
+        "enlace": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/derrapagem-automovel",
+        "desc": "Num terreno onde aparentemente tinha vantagens, o setor automóvel europeu passou de predador a presa num curto espaço de tempo.",
+        "fecha": "2026-08-24T23:00:00+01:00",
+        "fuente": "Jornal de Negócios"
+      },
+      {
+        "titulo": "Latest Oil Market News and Analysis for Aug. 25",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+        "desc": "Oil held a decline as the US ramped up economic pressure on Iran and its trading partners in a bid to force the resumption of energy flows through the Strait of Hormuz.",
+        "fecha": "2026-08-24T22:02:31+00:00",
+        "fuente": "Bloomberg EN"
+      },
       {
         "titulo": "Volkswagen perde 600 milhões em bolsa após CEO admitir situação “mais do que crítica”",
         "enlace": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/volkswagen-perde-600-milhoes-em-bolsa-apos-ceo-admitir-situacao-mais-do-que-critica",
@@ -1295,24 +1309,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Ontario's Ford Says Standing Up to Trump Won't Be Easy",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/ontario-s-ford-says-standing-up-to-trump-won-t-be-easy-video",
-        "desc": "Ontario Premier Doug Ford says standing up to President Donald Trump in this trade war won't be easy. Ford says Canada must be willing to escalate this trade war and every option s…",
-        "fecha": "2026-08-24T21:28:24+00:00",
-        "fuente": "Bloomberg EN"
-      },
-      {
-        "titulo": "Wall Street fecha no vermelho com quebra nos chips a ofuscar recuo do petróleo",
-        "enlace": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-fecha-no-vermelho-com-quebra-nos-chips-a-ofuscar-recuo-do-petroleo",
-        "desc": "Wall Street fechou a semana em baixa, com uma quebra generalizada nos fabricantes de chips a sobrepor-se ao alívio trazido pela descida do preço do petróleo. O mercado reagiu à \"as…",
-        "fecha": "2026-08-24T21:33:38+01:00",
-        "fuente": "Jornal de Negócios"
-      },
-      {
-        "titulo": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
-        "desc": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening tra…",
-        "fecha": "2026-08-24T14:20:51+00:00",
+        "titulo": "Bond Investor Ed Al-Hussainy on Bessent's Treasury Twist",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-08-24/bond-investor-ed-al-hussainy-on-bessent-s-treasury-twist-video",
+        "desc": "Ed Al-Hussainy, Portfolio Manager at Columbia Threadneedle Investments, discusses the relative stability of the U.S. dollar against developed market currencies, while highlighting …",
+        "fecha": "2026-08-24T21:52:07+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
