@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T20:42:51.289881+00:00",
+  "actualizado": "2026-08-29T23:07:49.049626+00:00",
   "secciones": {
     "nacional_es": [
       {
@@ -24,24 +24,24 @@
         "fuente": "Libertad Digital"
       },
       {
-        "titulo": "Colombia termina las conversaciones de ‘paz total’ con grupos armados ilegales",
-        "enlace": "https://theobjective.com/internacional/2026-08-29/colombia-paz-grupos-armados/",
-        "desc": "El presidente colombiano, Abelardo de la Espriella, dio por terminadas las conversaciones con varios grupos armados ilegales iniciadas por su antecesor, Gustavo Petro, y revocó los…",
-        "fecha": "2026-08-29T20:20:35+00:00",
+        "titulo": "Baena lidera la victoria del Atlético de Madrid ante el Sevilla en el Pizjuán",
+        "enlace": "https://theobjective.com/deportes/futbol/2026-08-29/baena-victoria-atletico-sevilla-pizjuan/",
+        "desc": "Sin piedad. El Atlético de Madrid ha logrado ganar y golear al Sevilla FC en el Ramón Sánchez Pizjuán gracias a los goles de Baena, que [&#8230;]",
+        "fecha": "2026-08-29T21:32:03+00:00",
         "fuente": "The Objective"
       },
       {
         "titulo": "Un hombre de 49 años, herido de gravedad en un accidente de una atracción del Parque Warner de Madrid",
         "enlace": "https://www.elconfidencial.com/espana/madrid/2026-08-29/accidente-parque-warner-madrid-1tps_4414252/",
         "desc": "El varón sufre fracturas en ambas piernas en una atracción del parque de atracciones madrileño; las causas no han sido precisadas por el momento",
-        "fecha": "2026-08-29T20:42:54.690135+00:00",
+        "fecha": "2026-08-29T23:07:50.617937+00:00",
         "fuente": "El Confidencial"
       },
       {
-        "titulo": "Un incendio devora un plató de televisión y calcina sus oficinas en Madrid",
-        "enlace": "https://okdiario.com/madrid/incendio-devora-plato-television-calcina-sus-oficinas-madrid-20194438",
-        "desc": "Las llamas han arrasado un plató de grabación donde se han grabado varios programas y películas y la zona de oficinas de una nave dedicada a producciones audiovisuales en Fuente el…",
-        "fecha": "2026-08-29T22:12:39+02:00",
+        "titulo": "Simeone exige más a Baena: «Debe mantener el nivel; no tener delanteros no significa que no ataquemos»",
+        "enlace": "https://okdiario.com/deportes/simeone-exige-mas-baena-debe-mantener-nivel-no-tener-delanteros-no-significa-que-no-ataquemos-20194790",
+        "desc": "En este Atlético sin nueve, con Sorloth lesionado y Julián dándose de bruces con la realidad, Baena fue lo que lleva en la espalda. Un diez. En Sevilla le salió todo porque sintió …",
+        "fecha": "2026-08-30T00:17:47+02:00",
         "fuente": "OKDiario"
       },
       {
@@ -75,10 +75,24 @@
     ],
     "nacional_us": [
       {
-        "titulo": "Beer bandits swipe PBR truck hauling 50,000 cans in California, leaving brand pleading for help",
-        "enlace": "https://www.foxnews.com/us/beer-bandits-swipe-pbr-truck-hauling-50000-cans-california-leaving-brand-pleading-help",
-        "desc": "Pabst Blue Ribbon says 40,000 pounds of its beer vanished in California as police probe fraudulent paperwork used at a distribution center pickup.",
-        "fecha": "2026-08-29T15:58:13-04:00",
+        "titulo": "Police fatally shoot sword-wielding man after woman found trapped in car, officials say",
+        "enlace": "https://www.foxnews.com/us/police-fatally-shoot-sword-wielding-man-woman-found-trapped-car-officials-say",
+        "desc": "The Tennessee Bureau of Investigation is probing the fatal shooting of a sword-wielding man by Nashville police outside a sedan where a woman was held.",
+        "fecha": "2026-08-29T17:49:49-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+        "enlace": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+        "desc": "The controversial commentator, who criticized feminism and Islam, was an enthusiastic supporter of President Trump's immigration crackdown. ICE says he was an \"illegal alien.\"",
+        "fecha": "2026-08-29T17:09:14-04:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "NYC parolee accused of killing 2 in 48-hour robbery spree hauled in after manhunt, cops say",
+        "enlace": "https://www.foxnews.com/us/nyc-parolee-accused-killing-2-48-hour-robbery-spree-hauled-manhunt-cops-say",
+        "desc": "Jesus Acosta, a parolee with 13 prior arrests, was captured after an FBI manhunt for killing two New Yorkers during a 48-hour robbery spree.",
+        "fecha": "2026-08-29T17:15:14-04:00",
         "fuente": "Fox News"
       },
       {
@@ -87,36 +101,22 @@
         "desc": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
         "fecha": "2026-08-29T11:54:40-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Milo Yiannopoulos deported after ICE arrest and detention at major Louisiana removal hub",
-        "enlace": "https://www.foxnews.com/us/milo-yiannopoulos-deported-after-ice-arrest-detention-major-louisiana-removal-hub",
-        "desc": "Milo Yiannopoulos was arrested at a Louisiana airport and deported after DHS says he overstayed his visa and skipped an immigration hearing.",
-        "fecha": "2026-08-29T15:39:46-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Photos: See the aftermath of deadly flash floods in Nepal",
-        "enlace": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-        "desc": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missi…",
-        "fecha": "2026-08-29T10:22:19-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "El senador Francisco Paoltroni denunció persecución política en Formosa y el cese de actividades de sus empresas",
-        "enlace": "https://www.clarin.com/politica/senador-francisco-paoltroni-denuncio-persecucion-politica-formosa-cese-actividades-empresas_0_xzoVlCOsXb.html",
-        "desc": "Apuntó contra el gobernador de Formosa, Gildo Insfrán. El bloque de La Libertad Avanza en el Congreso salió a respaldarlo y emitió un duro comunicado.",
-        "fecha": "2026-08-29T19:55:15+00:00",
+        "titulo": "Una emblemática cadena presente en centros comerciales con 42 años de historia cierra discretamente 217 tiendas",
+        "enlace": "https://www.clarin.com/estados-unidos/emblematica-cadena-presente-centros-comerciales-42-anos-historia-cierra-discretamente-217-tiendas_0_cCQXVXrm9r.html",
+        "desc": "En Estados Unidos pasó de tener 170 a 90 locales en cinco años. La empresa asegura que se trata de una reestructuración de sus operaciones.",
+        "fecha": "2026-08-29T22:02:42+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Así están las tablas del Torneo Clausura 2026: Vélez, perjudicado ante Riestra, perdió terreno en la anual y Boca le cortó distancia",
-        "enlace": "https://www.clarin.com/deportes/tablas-torneo-clausura-2026-velez-perjudicado-riestra-perdio-terreno-anual-boca-corto-distancia_0_fRWwrYcvFD.html",
-        "desc": "El Fortín lo había dado vuelta ante el Malevo pero el VAR le anuló el gol del triunfo. Boca, que le ganó a Lanús, le descontó dos puntos a los de Liniers. Rosario Central, Independ…",
-        "fecha": "2026-08-29T19:53:55+00:00",
+        "titulo": "Vuelve el Campeonato Nacional de Mandriles",
+        "enlace": "https://www.clarin.com/opinion/vuelve-campeonato-nacional-mandriles_0_xfKao5SOzl.html",
+        "desc": "Era previsible que la nueva furia presidencial iba a traer de vuelta a esta sana competencia que tanto nos entretiene. Volvió el Javi que nos gusta. Volvió la alegría.",
+        "fecha": "2026-08-29T22:00:42+00:00",
         "fuente": "Clarín"
       }
     ],
@@ -130,17 +130,17 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Présidentielle 2027 : primaire, retraites, accord de 1968 avec l’Algérie... À Sens, François Hollande teste ses chances face à Édouard Philippe",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-primaire-retraites-accord-de-1968-avec-l-algerie-a-sens-francois-hollande-teste-ses-chances-face-a-edouard-philippe-20260829",
-        "desc": "REPORTAGE - Les deux personnalités politiques se sont livrées à un débat ce samedi après-midi aux universités d’été de l’ancien ministre Jean-Michel Blanquer. Le candidat Horizons …",
-        "fecha": "2026-08-29T20:43:22+02:00",
+        "titulo": "«Nous allons redonner du pouvoir au pays réel» : à Cannes, David Lisnard exhorte ses concurrents de droite à ne pas avoir «peur» de la primaire",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/nous-allons-redonner-du-pouvoir-au-pays-reel-devant-des-soutiens-reunis-a-cannes-david-lisnard-exhorte-ses-concurrents-de-droite-a-ne-pas-avoir-peur-de-la-primaire-20260829",
+        "desc": "REPORTAGE - Samedi soir, le président de Nouvelle Énergie, candidat à l’élection présidentielle, a répété son intention de ne jamais gouverner demain avec des macronistes mais s’es…",
+        "fecha": "2026-08-29T22:49:27+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Crue au Népal-Tibet : près de 3 000 disparus, la recherche des survivants se poursuit",
-        "enlace": "https://www.france24.com/fr/asie-pacifique/20260829-crue-n%C3%A9pal-tibet-pr%C3%A8s-3-000-disparus-recherche-survivants-poursuit-chine-himalaya-morts-catastophe-naturelle",
-        "desc": "Trois jours après la crue qui a touché une région de l’Himalaya, les secours ont redoublé d'efforts samedi pour retrouver les quelque 3 000 disparus entre le Népal et la province c…",
-        "fecha": "2026-08-29T20:28:13+00:00",
+        "titulo": "Echanges de tirs et explosions à Niamey: la junte affirme avoir repris le contrôle",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260829-echanges-de-tirs-et-explosions-%C3%A0-niamey-la-junte-affirme-avoir-repris-le-contr%C3%B4le",
+        "desc": "Des militaires venus de plusieurs régions du Niger ont convergé dans la nuit vers Niamey et tenté de prendre le contrôle de plusieurs sites stratégiques de la capitale. Des tirs no…",
+        "fecha": "2026-08-29T21:38:28+00:00",
         "fuente": "France 24"
       },
       {
@@ -151,63 +151,63 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Présidentielle 2027 : «Il n’y aura pas de moratoire sur l’immigration de travail, dont nous avons besoin», soutient Édouard Philippe",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-il-n-y-aura-pas-de-moratoire-sur-l-immigration-de-travail-dont-nous-avons-besoin-soutient-edouard-philippe-20260829",
-        "desc": "L’ancien premier ministre a également affirmé ce samedi s’opposer à un moratoire général sur l’immigration légale, proposé en mai par Gérald Darmanin, son nouvel allié dans la cour…",
-        "fecha": "2026-08-29T19:57:46+02:00",
+        "titulo": "Présidentielle 2027 : à Cannes, la figure du patronat français Pierre Gattaz assume des convergences avec le projet politique de David Lisnard",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-cannes-la-figure-du-patronat-francais-pierre-gattaz-assume-des-convergences-avec-le-projet-politique-de-david-lisnard-20260829",
+        "desc": "REPORTAGE - Deux jours après le rassemblement des entrepreneurs français à Paris (REF 2026), l’ex-président de l’organisation patronale participe à la rentrée politique du présiden…",
+        "fecha": "2026-08-29T17:56:59+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "D'où viennent les manuels scolaires, ces (autres) best-sellers de la rentrée ?",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260829-d-o%C3%B9-viennent-manuels-scolaires-autres-best-sellers-de-rentr%C3%A9e-classe-%C3%A9cole-scolarit%C3%A9-enseignement-%C3%A9ducation-histoire-culture-prime",
-        "desc": "Tous les ans, c'est la même histoire : le jour de la rentrée, les manuels scolaires remplissent les cartables des petits écoliers. Mais d'où viennent ces ouvrages indissociables de…",
-        "fecha": "2026-08-29T20:04:16+00:00",
+        "titulo": "Crue au Népal-Tibet : près de 3 000 disparus, la recherche des survivants se poursuit",
+        "enlace": "https://www.france24.com/fr/asie-pacifique/20260829-crue-n%C3%A9pal-tibet-pr%C3%A8s-3-000-disparus-recherche-survivants-poursuit-chine-himalaya-morts-catastophe-naturelle",
+        "desc": "Trois jours après la crue qui a touché une région de l’Himalaya, les secours ont redoublé d'efforts samedi pour retrouver les quelque 3 000 disparus entre le Népal et la province c…",
+        "fecha": "2026-08-29T20:28:13+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "USA: Rechtsextremer Blogger Milo Yiannopoulos in sein Heimatland abgeschoben",
-        "enlace": "https://www.spiegel.de/ausland/usa-rechtsextremer-blogger-milo-yiannopoulos-in-sein-heimatland-abgeschoben-a-d2552392-50fb-44da-af80-fef6018807a9#ref=rss",
-        "desc": "Er forderte ICE-Kontrollpunkte in Supermärkten, Tankstellen, Einkaufszentren, Kreuzungen und Regierungsgebäuden. Jetzt wurde Milo Yiannopoulos selbst aus den USA nach Großbritannie…",
-        "fecha": "2026-08-29T22:36:00+02:00",
+        "titulo": "Niger: Armee erobert Militärbasis mit russischer Hilfe zurück",
+        "enlace": "https://www.spiegel.de/ausland/niger-armee-erobert-militaerbasis-mit-russischer-hilfe-zurueck-a-7e90344e-8ce0-4703-ad7e-25922ef51a70#ref=rss",
+        "desc": "Die »Meuterei« aufständischer Soldaten in Niger ist laut Sicherheitskreisen beendet – und ein wichtiger Stützpunkt der Luftwaffe nach russischer Intervention wieder unter Kontrolle…",
+        "fecha": "2026-08-30T00:21:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "US-Einwanderungsbehörde ICE: US-Behörden schieben rechtsextremen Blogger Milo Yiannopoulos ab",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-08/milo-yiannopoulos-abschiebung-usa-ice-grossbritannien",
-        "desc": "Noch im vergangenen Jahr hatte Milo Yiannopoulos die US-Migrationsbehörde ICE unterstützt. Nun wurde er abgeschoben, weil seine Aufenthaltsgenehmigung auslief.",
-        "fecha": "2026-08-29T19:12:55",
+        "titulo": "Krieg in Ukraine: AKW Saporischschja seit mehr als einer Woche vom Stromnetz getrennt",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/akw-saporischschja-stromversorgung-iaea-russland-ukraine",
+        "desc": "Das russisch besetzte Atomkraftwerk Saporischschja läuft nur noch mit einem Notstromgenerator. Dessen Dieselvorräte reichen laut internationalen Beobachtern zehn Tage.",
+        "fecha": "2026-08-29T22:41:32",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Kampf gegen Waldbrände: Was Europa von Portugal lernen kann",
-        "enlace": "https://www.spiegel.de/ausland/kampf-gegen-waldbraende-was-europa-von-portugal-lernen-kann-a-ba181735-32ba-4107-800b-392f5f122abb#ref=rss",
-        "desc": "Südeuropa brennt. Doch Portugal hat aus vergangenen Katastrophen gelernt. Innovative Ideen treffen dort auf Methoden, die jahrhundertealt sind.",
-        "fecha": "2026-08-29T22:07:00+02:00",
+        "titulo": "Giannis Konstantelias: BVB befürchtet Kreuzbandriss nach Debüt gegen HSV",
+        "enlace": "https://www.spiegel.de/sport/fussball/giannis-konstantelias-bvb-befuerchtet-kreuzbandriss-nach-debuet-gegen-hsv-a-9083f30f-8142-4acd-9252-ea83ae006224#ref=rss",
+        "desc": "Es war das allererste Bundesligaspiel des Dortmunder Neuzugangs, und es könnte für lange Zeit auch sein letztes gewesen sein: Beim Sieg gegen den HSV zog BVB-Neuzugang Giannis Kons…",
+        "fecha": "2026-08-29T23:29:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "25. Jahrestag von 9/11: Donald Trump verzichtet auf Gedenkfeier am Ground Zero",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-08/donald-trump-9-11-jahrestag-new-york-pentagon-jd-vance",
-        "desc": "Anders als geplant, reist Donald Trump nicht zur Gedenkfeier zum 11. September an New York. Einen von Medien vermuteten Grund dementiert der US-Präsident.",
-        "fecha": "2026-08-29T19:02:38",
+        "titulo": "Russland: Finnlands Präsident hält russischen Nato-Angriff für unwahrscheinlich",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-08/alexander-stubb-finnland-russland-nato-angriff-2029",
+        "desc": "Russland wolle vor allem Angst säen, glaubt Alexander Stubb. Wahrscheinlicher als ein Angriff auf Nato-Gebiet sei eine neue Mobilmachung im Krieg gegen die Ukraine.",
+        "fecha": "2026-08-29T22:02:34",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
+        "titulo": "Islanda, in massa alle urne per il referendum sulla Ue",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/30/news/islanda_referendum_adesione_unione_europea_urne_si_no-425554474/",
+        "desc": "Chiusi i seggi per riavviare i negoziati di adesione all’Unione. Il Paese è spaccato in due: i giovani per il sì, i pescatori sono contrari",
+        "fecha": "2026-08-29T22:01:00+00:00",
+        "fuente": "La Repubblica"
+      },
+      {
         "titulo": "Ranucci contro la Rai: “Inaccettabile la mia rimozione da Report”. E chiede gli atti all’azienda",
         "enlace": "https://roma.repubblica.it/cronaca/2026/08/29/news/ranucci_rai_rimozione_report_contestazione_legali_battaglia_giudiziaria-425554381/",
         "desc": "Il giornalista contesta la decisione dell’azienda di escluderlo dalla conduzione e dalla responsabilità autorale del programma. I legali: “Ragioni insussistenti”. Chiesti documenti…",
         "fecha": "2026-08-29T18:58:40+00:00",
-        "fuente": "La Repubblica"
-      },
-      {
-        "titulo": "Udine, donna uccisa a coltellate: fermato il compagno",
-        "enlace": "https://www.repubblica.it/cronaca/2026/08/29/news/donna_uccisa_san_giovanni_udine_coltellate_femminicidio-425554313/",
-        "desc": "Il femminicidio in casa dopo una violenta lite con il suo compagno",
-        "fecha": "2026-08-29T18:23:16+00:00",
         "fuente": "La Repubblica"
       }
     ],
@@ -243,35 +243,49 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Roubar o que é meu",
-        "enlace": "https://www.publico.pt/2026/08/29/p3/cronica/roubar-2186247",
-        "desc": "Trouxe-o para casa. Não foi fácil convencê-lo, não pensem que os desesperados aceitam ajuda imediatamente, muitas vezes desconfiam de quem quer ajudar, rejeitam a mão estendida, di…",
-        "fecha": "2026-08-29T19:44:00+00:00",
+        "titulo": "US Open 2026 arranca com o guião em branco",
+        "enlace": "https://www.publico.pt/2026/08/29/desporto/noticia/us-open-2026-arranca-guiao-branco-2186481",
+        "desc": "Jaime Faria é o primeiro dos três portugueses a competir em Nova Iorque, diante do norte-americano Jenson Brooksby.",
+        "fecha": "2026-08-29T21:57:18+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Oposição quer divulgado acordo petrolífero com EUA",
-        "enlace": "https://observador.pt/2026/08/29/oposicao-da-venezuela-defende-divulgacao-publica-do-acordo-petrolifero-com-estados-unidos/",
-        "desc": "Para a oposição venezuelana, o regresso à democracia do país sul-americano passa pela reconstrução das instituições, entre as quais a petrolífera estatal.",
-        "fecha": "2026-08-29T21:38:23+01:00",
+        "titulo": "Itália queria proibir idosos de conduzir e de beber",
+        "enlace": "https://observador.pt/2026/08/29/italia-queria-proibir-idosos-de-conduzir-beber-e-nao-so-fez-marcha-atras/",
+        "desc": "Devido aos acidentes envolvendo idosos com mais de 85 anos, Itália anunciou que iria impedi-los de usar a auto-estrada, conduzir com álcool no sangue e percorrer mais de 100 km. E …",
+        "fecha": "2026-08-29T23:48:15+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "A maior vitória da época e o mesmo FC Porto de sempre",
-        "enlace": "https://www.publico.pt/2026/08/29/desporto/cronica_de_jogo/maior-vitoria-epoca-fc-porto-2186476",
-        "desc": "“Dragões” deram continuidade ao seu início perfeito, com um triunfo por 0-3 sobre o Académico de Viseu. Ao quinto jogo, quinta vitória e ainda zero golos sofridos.",
-        "fecha": "2026-08-29T19:04:05+00:00",
+        "titulo": "IL propõe reforma das pensões com componente de “capitalização” individual",
+        "enlace": "https://www.publico.pt/2026/08/29/politica/noticia/il-propoe-reforma-pensoes-componente-capitalizacao-individual-2186480",
+        "desc": "Mariana Leitão anuncia proposta de reforma do sistema de pensões com uma componente de “capitalização” num discurso de rentrée da Iniciativa Liberal focado na classe média e ataque…",
+        "fecha": "2026-08-29T21:41:46+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "A. Viseu x FC Porto. \"45 minutos de uma eficácia brutal\"",
-        "enlace": "https://observador.pt/programas/relat-rio-de-jogo/a-viseu-x-fc-porto-45-minutos-de-uma-eficacia-brutal/",
-        "desc": "Mário Cagica destaca a entrada forte do Porto, que foi a todos os níveis \"muito mais objetivo\". Afirma que Académico de Viseu foi pouco agressivo e sentiu imensas dificuldades no m…",
-        "fecha": "2026-08-29T21:16:16+01:00",
+        "titulo": "Praia da Ursa. Interrompidas buscas de jovem ucraniano",
+        "enlace": "https://observador.pt/2026/08/29/interrompidas-buscas-de-jovem-ucraniano-desaparecido-na-praia-da-ursa-em-sintra/",
+        "desc": "O alerta do desaparecimento do jovem ucraniano foi dado pelas 11h50 de sexta-feira por \"turistas que se encontravam nas proximidades\" e foram de imediato iniciadas buscas.",
+        "fecha": "2026-08-29T23:43:42+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
+      {
+        "titulo": "Filho de Eymael herda jingle histórico do pai para candidatura a deputado",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/filho-de-eymael-herda-jingle-historico-do-pai-para-candidatura-a-deputado.shtml",
+        "desc": "José Carlos Eymael, filho de José Maria Eymael, eternizado como \"um democrata cristão \", adotou o jingle e o nome de urna do pai em sua candidatura a deputado federal por São Paulo…",
+        "fecha": "2026-08-29T18:00:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Vistoria encontra medicamentos vencidos e falta de insumos em estoque da saúde pública no Tocantins",
+        "enlace": "https://g1.globo.com/to/tocantins/noticia/2026/08/29/vistoria-encontra-medicamentos-vencidos-e-falta-de-insumos-em-estoque-da-saude-publica-no-tocantins.ghtml",
+        "desc": "Defensoria aponta falhas na distribuição e no armazenamento na rede pública do TO Uma vistoria realizada pela Defensoria Pública do Estado do Tocantins (DPE-TO), constatou o desaba…",
+        "fecha": "2026-08-29T23:02:05",
+        "fuente": "G1 Globo"
+      },
       {
         "titulo": "Alckmin reúne ex-secretários de SP que lançam manifesto em apoio a Haddad",
         "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/alckmin-reune-ex-secretarios-de-sp-que-lancam-manifesto-em-apoio-a-haddad.shtml",
@@ -280,40 +294,26 @@
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Homem é morto a tiros durante comemoração de título de futsal em Coronel Fabriciano",
-        "enlace": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/29/homem-e-morto-a-tiros-durante-comemoracao-de-titulo-de-futsal-em-coronel-fabriciano.ghtml",
-        "desc": "Jovem é morto a tiros em Coronel Fabriciano Um homem de 28 anos foi morto a tiros durante a comemoração de um título de futsal em um bar no bairro Mangueiras, em Coronel Fabriciano…",
-        "fecha": "2026-08-29T20:31:55",
-        "fuente": "G1 Globo"
-      },
-      {
-        "titulo": "Em Angra, Flávio Bolsonaro defende Angra 3 e licenças para obras de resorts",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/08/em-angra-flavio-bolsonaro-defende-angra-3-e-licencas-para-obras-de-resorts.shtml",
-        "desc": "O senador Flávio Bolsonaro ( PL ), candidato à Presidência da República, defendeu neste sábado (29) transformar o setor de energia em uma das prioridades de um eventual governo, co…",
-        "fecha": "2026-08-29T16:17:00-03:00",
-        "fuente": "Folha SP"
-      },
-      {
-        "titulo": "Duas pessoas são encontradas mortas a tiros em cidade do norte da Bahia",
-        "enlace": "https://g1.globo.com/ba/bahia/noticia/2026/08/29/pessoas-sao-encontradas-mortas-em-jacobina.ghtml",
-        "desc": "Duas pessoas são encontradas mortas a tiros em cidade do norte da Bahia Polícia Civil da Bahia Dois homens foram encontrados mortos em diferentes pontos do bairro Matriz, em Jacobi…",
-        "fecha": "2026-08-29T20:30:15",
+        "titulo": "Amapá lidera crescimento proporcional de emprego formal no país, segundo Caged",
+        "enlace": "https://g1.globo.com/ap/amapa/noticia/2026/08/29/amapa-lidera-crescimento-proporcional-de-emprego-formal-no-pais-segundo-caged.ghtml",
+        "desc": "Amapá liderou o crescimento proporcional de emprego formal no país entre janeiro e julho de 2026 Jorge Júnior/Rede Amazônica O Amapá liderou o crescimento proporcional de emprego f…",
+        "fecha": "2026-08-29T22:56:02",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Reigning Formula One champion Lando Norris extends contract with McLaren",
-        "enlace": "https://www.japantimes.co.jp/sports/2026/08/29/more-sports/lando-norris-extends-mclaren/",
-        "desc": "Speaking earlier to reporters, Norris said the deal came at a perfect time for team morale and motivation, but that the figures seen in the media were wide of the mark.",
-        "fecha": "2026-08-29T23:36:00+09:00",
+        "titulo": "A shady way to go alfresco: Tokyo’s outdoor dining spots to escape the sun",
+        "enlace": "https://www.japantimes.co.jp/life/2026/08/30/food-drink/outdoor-dining-with-shade-summer-cafes-restaurants/",
+        "desc": "From leafy rooftops to parasol-filled terraces, the city is full of ways to enjoy a bite and a drink without hunkering down inside.",
+        "fecha": "2026-08-30T08:05:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "Mari Katayama finds progress in repetition",
-        "enlace": "https://www.japantimes.co.jp/culture/2026/08/29/art/artist-mari-katayama-multimedia/",
-        "desc": "The photographer and textile artist discusses her latest work, creative influences and frustrations with labels.",
-        "fecha": "2026-08-29T18:00:00+09:00",
+        "titulo": "Tokyo falls for dim sum-meets-afternoon tea",
+        "enlace": "https://www.japantimes.co.jp/life/2026/08/30/food-drink/chinese-afternoon-tea-tokyo-desserts/",
+        "desc": "Finger sandwiches and scones make way for dumplings and Peking duck at Tokyo's growing number of Chinese afternoon tea menus.",
+        "fecha": "2026-08-30T08:00:00+09:00",
         "fuente": "Japan Times"
       }
     ],
@@ -326,17 +326,17 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Muere el rey, arranca la maquinaria en Noruega: así es la sucesión de la monarquía más antigua de Europa",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/28/6a91a13421efa0ce738b4599.html",
-        "desc": "El país mantiene una sucesión sobria y constitucional que contrasta con la pompa británica y conserva, en la bendición de Nidaros, el vínculo religioso con sus raíces medievales&nb…",
-        "fecha": "2026-08-28T22:45:03+02:00",
+        "titulo": "Europa ante el desafío de Putin: Rusia no necesita conquistar territorio, sino demostrar que la OTAN puede ser paralizada por el miedo",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/29/6a91c3c1fdddffbd2a8b4592.html",
+        "desc": "La inteligencia estadounidense contempla desde ciberataques y operaciones encubiertas hasta una incursión limitada contra un aliado antes de 2029 para poner a prueba la cohesión oc…",
+        "fecha": "2026-08-29T22:46:38+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Rescatan con vida a una niña de seis años tras 60 horas atrapada en un hueco en Nepal",
         "enlace": "https://www.elconfidencial.com/mundo/2026-08-29/rescate-nina-nepal-riada-timure-1tps_4414249/",
         "desc": "Rescatan con vida a una niña de 6 años en Timure casi 60 horas después de una riada; equipos abren paso entre lodo y escombros mientras continúa la búsqueda de desaparecidos",
-        "fecha": "2026-08-29T20:43:25.195356+00:00",
+        "fecha": "2026-08-29T23:08:18.358802+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -356,7 +356,7 @@
       {
         "titulo": "Las imágenes de las inundaciones del Tíbet no se muestran en China y sabemos poco sobre las víctimas allí",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "desc": "Algunas de las imágenes más dramáticas de las mortales inundaciones repentinas están ocultas a la vista del público en China.",
         "fecha": "2026-08-29T03:54:11+00:00",
         "fuente": "BBC World"
       },
@@ -375,17 +375,17 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "El juicio a Lindsay Clancy sigue en el aire: ¿dónde termina la enfermedad y empieza la culpa?",
-        "enlace": "https://www.elmundo.es/internacional/2026/08/29/6a91d2a2fc6c8382458b4572.html",
-        "desc": "El jurado del caso de la mujer que mató a sus tres hijos delibera entre la cadena perpetua o ingresarla en un centro psiquiátrico por psicosis posparto&nbsp; Leer",
-        "fecha": "2026-08-29T01:48:42+02:00",
+        "titulo": "La australiana Cara Severino, hallada sana y salva gracias a cuatro senderistas nepalíes",
+        "enlace": "https://www.elmundo.es/internacional/2026/08/29/6a92dcafe4d4d8dc5c8b4571.html",
+        "desc": "La joven logró hablar ayer con sus padres y finalmente ha sido localizada&nbsp; Leer",
+        "fecha": "2026-08-29T15:23:06+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
         "titulo": "Al menos 37 muertos y más de 40 heridos en un ataque ruso contra la región de Kiev",
         "enlace": "https://www.elconfidencial.com/mundo/europa/2026-08-29/al-menos-27-muertos-y-mas-de-40-heridos-en-un-ataque-ruso-contra-la-region-de-kiev_4414184/",
         "desc": "Los bombardeos, dirigidos según Moscú contra centros logísticos y almacenes de armamento, causan una masacre en el distrito de Bucha, donde ha fallecido el alcalde de la localidad …",
-        "fecha": "2026-08-29T20:43:25.195393+00:00",
+        "fecha": "2026-08-29T23:08:18.358843+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -412,17 +412,17 @@
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Worthless TV streaming services are robbing us blind — cancel them now",
-        "enlace": "https://nypost.com/2026/08/29/entertainment/worthless-tv-streaming-services-are-robbing-us-blind-cancel-them-now/",
-        "desc": "TV streaming services, which were once cool and shrewd ways of cutting the expensive cable cord, now do little more than maniacally jack up their cost to infuriate their customers.",
-        "fecha": "2026-08-29T16:42:19-04:00",
+        "titulo": "Sierra Nevada skull found by loggers over 30 years ago is ID’d as George Krusely",
+        "enlace": "https://nypost.com/2026/08/29/us-news/sierra-nevada-skull-found-by-loggers-over-30-years-ago-is-idd-as-george-krusely/",
+        "desc": "A mystery that began with a grisly find in the California wilderness has finally been cracked — more than three decades later.",
+        "fecha": "2026-08-29T16:03:26-07:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Israeli settlers attack Palestinian homes in West Bank",
-        "enlace": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
-        "desc": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra earlier this month. Saturday's attacks were met with rare criticism from …",
-        "fecha": "2026-08-29T20:43:31.340786+00:00",
+        "titulo": "Norway’s new King Haakon remembers ‘dear father’ Harald in first speech as sovereign",
+        "enlace": "https://www.dw.com/en/norway-s-new-king-haakon-remembers-dear-father-harald-in-first-speech-as-sovereign/a-78560155?maca=en-rss-en-all-1573-rdf",
+        "desc": "New monarch Haakon VIII paid an emotional tribute to his late father, Harald V, in his first address to the nation. Vowing to follow his own path, Haakon pledged to uphold Norway’s…",
+        "fecha": "2026-08-29T23:08:22.042319+00:00",
         "fuente": "DW English"
       },
       {
@@ -433,10 +433,10 @@
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Nepal flooding and mudslides result in at least 676 dead and nearly 3,000 missing",
-        "enlace": "https://www.oann.com/newsroom/nepal-flooding-and-mudslides-result-in-at-least-676-dead-and-nearly-3000-missing/",
-        "desc": "The death toll from the disastrous flooding and mudslides near the Nepal-China border has risen to at least 676 people as nearly 3,000 people remain missing, despite ongoing rescue…",
-        "fecha": "2026-08-29T18:12:51+00:00",
+        "titulo": "NASA set to launch Nancy Grace Roman Space Telescope on Sunday",
+        "enlace": "https://www.oann.com/newsroom/nasa-set-to-launch-nancy-grace-roman-space-telescope-on-sunday/",
+        "desc": "The National Aeronautics and Space Administration (NASA) is set to launch its Nancy Grace Roman Space Telescope this weekend after nearly six years of development and construction.",
+        "fecha": "2026-08-29T21:40:39+00:00",
         "fuente": "OAN"
       },
       {
@@ -470,17 +470,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Crue au Népal-Tibet : près de 3 000 disparus, la recherche des survivants se poursuit",
-        "enlace": "https://www.france24.com/fr/asie-pacifique/20260829-crue-n%C3%A9pal-tibet-pr%C3%A8s-3-000-disparus-recherche-survivants-poursuit-chine-himalaya-morts-catastophe-naturelle",
-        "desc": "Trois jours après la crue qui a touché une région de l’Himalaya, les secours ont redoublé d'efforts samedi pour retrouver les quelque 3 000 disparus entre le Népal et la province c…",
-        "fecha": "2026-08-29T20:28:13+00:00",
+        "titulo": "Echanges de tirs et explosions à Niamey: la junte affirme avoir repris le contrôle",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260829-echanges-de-tirs-et-explosions-%C3%A0-niamey-la-junte-affirme-avoir-repris-le-contr%C3%B4le",
+        "desc": "Des militaires venus de plusieurs régions du Niger ont convergé dans la nuit vers Niamey et tenté de prendre le contrôle de plusieurs sites stratégiques de la capitale. Des tirs no…",
+        "fecha": "2026-08-29T21:38:28+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Niger: la mutinerie touche à sa fin après une journée marquée par des tirs et des explosions à Niamey",
-        "enlace": "https://www.rfi.fr/fr/afrique/20260829-niger-des-explosions-et-des-tirs-entendus-dans-la-capitale",
-        "desc": "D'après les informations de RFI, la mutinerie au Niger, qui a commencé dans la nuit du vendredi 28 au samedi 29 août 2026, a pris fin en début de soirée. Des coups de feu et des ti…",
-        "fecha": "2026-08-29T03:05:27+00:00",
+        "titulo": "Crue dans l'Himalaya: les sauveteurs traquent les disparus, le Népal alerte contre les arnaques aux dons",
+        "enlace": "https://www.rfi.fr/fr/asie-pacifique/20260829-crue-dans-l-himalaya-les-sauveteurs-traquent-les-disparus-le-n%C3%A9pal-alerte-contre-les-arnaques-aux-dons",
+        "desc": "Au Népal et au Tibet, des milliers de sauveteurs sont mobilisés après la crue meurtrière qui a eu lieu mercredi 26 août. La catastrophe a fait plus de 600 morts, plusieurs milliers…",
+        "fecha": "2026-08-29T17:38:45+00:00",
         "fuente": "RFI"
       },
       {
@@ -493,7 +493,7 @@
       {
         "titulo": "Les images des inondations au Tibet ne sont pas diffusées en Chine – et nous en savons peu sur les victimes là-bas",
         "enlace": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Certaines des images les plus dramatiques des inondations soudaines meurtrières sont cachées au public en Chine.",
+        "desc": "Certaines des images les plus dramatiques des inondations meurtrières sont cachées au public en Chine.",
         "fecha": "2026-08-29T03:54:11+00:00",
         "fuente": "BBC World EN"
       },
@@ -505,17 +505,17 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "D'où viennent les manuels scolaires, ces (autres) best-sellers de la rentrée ?",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260829-d-o%C3%B9-viennent-manuels-scolaires-autres-best-sellers-de-rentr%C3%A9e-classe-%C3%A9cole-scolarit%C3%A9-enseignement-%C3%A9ducation-histoire-culture-prime",
-        "desc": "Tous les ans, c'est la même histoire : le jour de la rentrée, les manuels scolaires remplissent les cartables des petits écoliers. Mais d'où viennent ces ouvrages indissociables de…",
-        "fecha": "2026-08-29T20:04:16+00:00",
+        "titulo": "Crue au Népal-Tibet : près de 3 000 disparus, la recherche des survivants se poursuit",
+        "enlace": "https://www.france24.com/fr/asie-pacifique/20260829-crue-n%C3%A9pal-tibet-pr%C3%A8s-3-000-disparus-recherche-survivants-poursuit-chine-himalaya-morts-catastophe-naturelle",
+        "desc": "Trois jours après la crue qui a touché une région de l’Himalaya, les secours ont redoublé d'efforts samedi pour retrouver les quelque 3 000 disparus entre le Népal et la province c…",
+        "fecha": "2026-08-29T20:28:13+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Danyel Waro en live, son «Dernié Viraj» au Cabaret Sauvage à Paris",
-        "enlace": "https://www.rfi.fr/fr/podcasts/rfi-concerts/20260829-danyel-waro-en-live-son-derni%C3%A9-viraj-au-cabaret-sauvage-%C3%A0-paris",
-        "desc": "Après une tournée printanière en Europe à guichets fermés, l'ambassadeur du maloya réunionnais jouait peut-être son dernier concert parisien le 7 juin 2026 au Cabaret Sauvage. RFI …",
-        "fecha": "2026-08-29T19:00:09+00:00",
+        "titulo": "Cisjordanie occupée: des dizaines de colons israéliens attaquent le village palestinien de Qusra",
+        "enlace": "https://www.rfi.fr/fr/moyen-orient/20260829-cisjordanie-occup%C3%A9e-des-dizaines-de-colons-isra%C3%A9liens-attaquent-le-village-palestinien-de-qusra",
+        "desc": "Des dizaines de colons israéliens ont attaqué samedi 29 août le village palestinien de Qusra, dans le nord de la Cisjordanie occupée, ont indiqué l'armée israélienne et un habitant…",
+        "fecha": "2026-08-29T15:39:53+00:00",
         "fuente": "RFI"
       },
       {
@@ -535,17 +535,17 @@
     ],
     "internacional_de": [
       {
-        "titulo": "USA: Rechtsextremer Blogger Milo Yiannopoulos in sein Heimatland abgeschoben",
-        "enlace": "https://www.spiegel.de/ausland/usa-rechtsextremer-blogger-milo-yiannopoulos-in-sein-heimatland-abgeschoben-a-d2552392-50fb-44da-af80-fef6018807a9#ref=rss",
-        "desc": "Er forderte ICE-Kontrollpunkte in Supermärkten, Tankstellen, Einkaufszentren, Kreuzungen und Regierungsgebäuden. Jetzt wurde Milo Yiannopoulos selbst aus den USA nach Großbritannie…",
-        "fecha": "2026-08-29T22:36:00+02:00",
+        "titulo": "Niger: Armee erobert Militärbasis mit russischer Hilfe zurück",
+        "enlace": "https://www.spiegel.de/ausland/niger-armee-erobert-militaerbasis-mit-russischer-hilfe-zurueck-a-7e90344e-8ce0-4703-ad7e-25922ef51a70#ref=rss",
+        "desc": "Die »Meuterei« aufständischer Soldaten in Niger ist laut Sicherheitskreisen beendet – und ein wichtiger Stützpunkt der Luftwaffe nach russischer Intervention wieder unter Kontrolle…",
+        "fecha": "2026-08-30T00:21:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Haben sich Storm-Shadow-Raketen im Ukraine-Krieg bewährt?",
         "enlace": "https://www.dw.com/de/haben-sich-storm-shadow-raketen-im-ukraine-krieg-bewährt/a-78549845?maca=de-rss-de-all-1119-rdf",
         "desc": "Londons Erklärung, Kyjiw erhalte eine Produktionslizenz für britische Storm-Shadow-Raketen, sorgt für Drohungen aus Moskau. Was ist für eine Serienproduktion in der Ukraine erforde…",
-        "fecha": "2026-08-29T20:43:34.676384+00:00",
+        "fecha": "2026-08-29T23:08:28.086086+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -563,17 +563,17 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Kampf gegen Waldbrände: Was Europa von Portugal lernen kann",
-        "enlace": "https://www.spiegel.de/ausland/kampf-gegen-waldbraende-was-europa-von-portugal-lernen-kann-a-ba181735-32ba-4107-800b-392f5f122abb#ref=rss",
-        "desc": "Südeuropa brennt. Doch Portugal hat aus vergangenen Katastrophen gelernt. Innovative Ideen treffen dort auf Methoden, die jahrhundertealt sind.",
-        "fecha": "2026-08-29T22:07:00+02:00",
+        "titulo": "Giannis Konstantelias: BVB befürchtet Kreuzbandriss nach Debüt gegen HSV",
+        "enlace": "https://www.spiegel.de/sport/fussball/giannis-konstantelias-bvb-befuerchtet-kreuzbandriss-nach-debuet-gegen-hsv-a-9083f30f-8142-4acd-9252-ea83ae006224#ref=rss",
+        "desc": "Es war das allererste Bundesligaspiel des Dortmunder Neuzugangs, und es könnte für lange Zeit auch sein letztes gewesen sein: Beim Sieg gegen den HSV zog BVB-Neuzugang Giannis Kons…",
+        "fecha": "2026-08-29T23:29:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Geeintes Syrien: Kurden sagen Ja, Drusen weiter Nein",
         "enlace": "https://www.dw.com/de/geeintes-syrien-kurden-sagen-ja-drusen-weiter-nein/a-78557002?maca=de-rss-de-all-1119-rdf",
         "desc": "Die Drusen in Suwaida sind die einzige Minderheit Syriens, die sich der Zentralregierung bislang nicht unterstellt hat. Was bedeutet das Ende der kurdischen Selbstverwaltung für ih…",
-        "fecha": "2026-08-29T20:43:34.676422+00:00",
+        "fecha": "2026-08-29T23:08:28.086129+00:00",
         "fuente": "DW Deutsch"
       },
       {
@@ -593,10 +593,10 @@
     ],
     "internacional_it": [
       {
-        "titulo": "L’allarme sul figlio di Trump: “Barron vive come un recluso, teme per la propria vita”",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/29/news/barron_trump_figlio_vita_attentato_melania-425553635/?rss",
-        "desc": "Lo rivela il “New York Post” spiegando che il ventenne “ha paura di uscire dalla Casa Bianca”. Il quinto figlio del tycoon sarebbe rimasto molto impressionato dall’assassinio di Ch…",
-        "fecha": "2026-08-29T12:07:29+02:00",
+        "titulo": "Meloni verso il no all’Onu: a New York soltanto se Trump riunisce i leader",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/30/news/meloni_presenza_assemblea_onu_trump-425554562/?rss",
+        "desc": "In dubbio la presenza all’Assemblea generale. Ma pensa a un viaggio per ricucire con Donald: allo studio la presentazione del suo libro a Washington",
+        "fecha": "2026-08-30T01:00:00+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -614,10 +614,10 @@
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Niger, spari all’aeroporto di Niamey. La Difesa: “Tentato ammutinamento di militari in una base”",
-        "enlace": "https://www.repubblica.it/esteri/2026/08/29/news/niger_spari_aeroporto_niamey_base_101_jnim-425553503/?rss",
-        "desc": "L'area adiacente lo scalo ospita la base militare 101, nonché i quartier generali dei partner russi Africa Corps e della Missione di Supporto Italiana in Niger",
-        "fecha": "2026-08-29T14:13:22+02:00",
+        "titulo": "Dagli stadi di calcio alle strade, lo sfregio degli omaggi a Mladic",
+        "enlace": "https://www.repubblica.it/esteri/2026/08/30/news/ratko_mladic_omaggi_serbia_stadi_calcio_strade_funerale-425554530/?rss",
+        "desc": "La manifestazioni nelle città della Repubblica serba di Bosnia. E la Uefa apre un’inchiesta sulla Stella Rossa Belgrado",
+        "fecha": "2026-08-30T01:00:00+02:00",
         "fuente": "La Repubblica"
       },
       {
@@ -637,17 +637,17 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "Zaidu sofre \"lesão no adutor direito\" na vitória do FC Porto em Viseu",
-        "enlace": "https://www.rtp.pt/noticias/futebol-nacional/zaidu-sofre-lesao-no-adutor-direito-na-vitoria-do-fc-porto-em-viseu_d1762302",
-        "desc": "Viseu, 29 ago 2026 (Lusa) - O lateral esquerdo Zaidu sofreu uma lesão muscular na coxa direita durante o encontro do FC Porto frente ao Académico de Viseu, que os `azuis e brancos`…",
-        "fecha": "2026-08-29T22:40:44+01:00",
+        "titulo": "23h A gestão da água não será afetada por qualquer pressão",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/23h-a-gestao-da-agua-nao-sera-afetada-por-qualquer-pressao_a1_1762313",
+        "desc": "",
+        "fecha": "2026-08-30T00:23:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Oposição quer divulgado acordo petrolífero com EUA",
-        "enlace": "https://observador.pt/2026/08/29/oposicao-da-venezuela-defende-divulgacao-publica-do-acordo-petrolifero-com-estados-unidos/",
-        "desc": "Para a oposição venezuelana, o regresso à democracia do país sul-americano passa pela reconstrução das instituições, entre as quais a petrolífera estatal.",
-        "fecha": "2026-08-29T21:38:23+01:00",
+        "titulo": "Itália queria proibir idosos de conduzir e de beber",
+        "enlace": "https://observador.pt/2026/08/29/italia-queria-proibir-idosos-de-conduzir-beber-e-nao-so-fez-marcha-atras/",
+        "desc": "Devido aos acidentes envolvendo idosos com mais de 85 anos, Itália anunciou que iria impedi-los de usar a auto-estrada, conduzir com álcool no sangue e percorrer mais de 100 km. E …",
+        "fecha": "2026-08-29T23:48:15+01:00",
         "fuente": "Observador"
       },
       {
@@ -658,24 +658,24 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Mundiais de canoagem. Fernando Pimenta é campeão do mundo em K1 1000M",
-        "enlace": "https://www.rtp.pt/noticias/desporto/mundiais-de-canoagem-fernando-pimenta-e-campeao-do-mundo-em-k1-1000m_v1762304",
-        "desc": "Fernando Pimenta é campeão do Mundo. Depois do bronze em K4 500 metros, Portugal conquistou o ouro em K1 mil metros nos mundiais de canoagem.",
-        "fecha": "2026-08-29T22:33:48+01:00",
+        "titulo": "22h Zaidu do FC Porto sofreu uma lesão muscular na coxa direita",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/22h-zaidu-do-fc-porto-sofreu-uma-lesao-muscular-na-coxa-direita_a1_1762312",
+        "desc": "",
+        "fecha": "2026-08-29T23:38:03+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "A. Viseu x FC Porto. \"45 minutos de uma eficácia brutal\"",
-        "enlace": "https://observador.pt/programas/relat-rio-de-jogo/a-viseu-x-fc-porto-45-minutos-de-uma-eficacia-brutal/",
-        "desc": "Mário Cagica destaca a entrada forte do Porto, que foi a todos os níveis \"muito mais objetivo\". Afirma que Académico de Viseu foi pouco agressivo e sentiu imensas dificuldades no m…",
-        "fecha": "2026-08-29T21:16:16+01:00",
+        "titulo": "Praia da Ursa. Interrompidas buscas de jovem ucraniano",
+        "enlace": "https://observador.pt/2026/08/29/interrompidas-buscas-de-jovem-ucraniano-desaparecido-na-praia-da-ursa-em-sintra/",
+        "desc": "O alerta do desaparecimento do jovem ucraniano foi dado pelas 11h50 de sexta-feira por \"turistas que se encontravam nas proximidades\" e foram de imediato iniciadas buscas.",
+        "fecha": "2026-08-29T23:43:42+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Mistérios e segredos de textos medievais revelados graças à IA",
-        "enlace": "https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss",
-        "desc": "Em bibliotecas e arquivos de todo o mundo encontram-se mensagens e documentos históricos ocultos por trás de símbolos incompreensíveis - que agora estão sendo decifrados por pesqui…",
-        "fecha": "2026-08-29T19:42:47+00:00",
+        "titulo": "Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse",
+        "enlace": "https://www.bbc.com/portuguese/articles/cj3d0r02ypxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Especialistas comentam sobre a técnica que tem se popularizado na internet - e detalham o que a ciência já revelou a seu respeito.",
+        "fecha": "2026-08-29T21:25:15+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -688,10 +688,10 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "El Atlético, muy superior ante el Sevilla",
-        "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260829/1004220967/sevilla-atletico-de-madrid-partido-futbol-hoy-en-directo-laliga-ea-sports-ext-pau.html",
-        "desc": "",
-        "fecha": "2026-08-29T20:52:55+02:00",
+        "titulo": "1-3: Media hora de ciclón rojiblanco, dirigido por Baena, tumba el pleno del Sevilla",
+        "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004221118/cronica-sevilla-atletico-madrid.html",
+        "desc": "El Atlético de Madrid arrasó al Sevilla de la mano un excelso Álex Baena , que sigue en ese estado de gracia que alcanzó en el pasado Mundial . Media hora le bastó para dejar el pa…",
+        "fecha": "2026-08-29T23:31:06+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -702,10 +702,10 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "El Manchester City abre conversaciones con el Liverpool sobre Gakpo",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-        "desc": "El Manchester City inicia conversaciones con el Liverpool para fichar al extremo holandés Cody Gakpo.",
-        "fecha": "2026-08-29T20:17:18+00:00",
+        "titulo": "Itauma se golpea a sí mismo contra Hrgovic en la pelea por el título mundial",
+        "enlace": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+        "desc": "Filip Hrgovic destroza el sueño de un título mundial de Moses Itauma mientras el británico parece darse un puñetazo en una extraordinaria pelea por el título mundial de peso pesado en Londres.",
+        "fecha": "2026-08-29T23:04:00+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -716,10 +716,10 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Oficial: Héctor Fort ficha por la Real Sociedad",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html",
-        "desc": "El FC Barcelona ha hecho oficial la salida de Héctor Fort (20 años). El canterano, que pasó la temporada anterior cedido en el Elche , finalmente se ha decantado por la propuesta d…",
-        "fecha": "2026-08-29T22:03:24+02:00",
+        "titulo": "El 1x1 del Atlético de Madrid, ante el Sevilla",
+        "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004221129/1x1-atletico-madrid-sevilla.html",
+        "desc": "JAN OBLAK | Atento",
+        "fecha": "2026-08-29T23:54:04+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -730,56 +730,56 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Jaissle consigue su primera victoria en la Premier League ante los mediocres Spurs",
-        "enlace": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-        "desc": "Los goles en la segunda parte de Anthony Elanga y Yoanne Wissa le dan al técnico Matthias Jaissle su primera victoria en la Premier League, mientras el Newcastle United vence 2-0 al Tottenham Hotspur.",
-        "fecha": "2026-08-29T19:27:16+00:00",
+        "titulo": "El Manchester City abre conversaciones con el Liverpool sobre Gakpo",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+        "desc": "El delantero holandés también ha despertado el interés del Tottenham, pero fuentes indican que el Manchester City es su destino preferido si deja Anfield.",
+        "fecha": "2026-08-29T20:17:18+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
+        "titulo": "Itauma punches himself out against Hrgovic in world-title fight",
+        "enlace": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+        "desc": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
+        "fecha": "2026-08-29T23:04:00+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
+        "enlace": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
+        "desc": "The top stories and transfer rumours from Sunday's newspapers...",
+        "fecha": "2026-08-29T22:22:00",
+        "fuente": "Sky Sports"
+      },
+      {
         "titulo": "Man City open talks with Liverpool over Gakpo",
         "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
+        "desc": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
         "fecha": "2026-08-29T20:17:18+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "De Zerbi highlights biggest problem at Spurs as Carra slams 'worst start'",
-        "enlace": "https://www.skysports.com/football/news/12040/13578837/tottenham-hotspur-roberto-de-zerbi-highlights-biggest-problem-at-spurs-after-newcastle-defeat-as-jamie-carragher-slams-start",
-        "desc": "Roberto De Zerbi believes changing the mentality at Tottenham is his biggest challenge after Sky Sports' Jamie Carragher said their start to the season \"couldn't have gone any wors…",
-        "fecha": "2026-08-29T19:35:00",
-        "fuente": "Sky Sports"
-      },
-      {
-        "titulo": "Jaissle claims first Premier League win at lacklustre Spurs",
-        "enlace": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-        "desc": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
-        "fecha": "2026-08-29T19:27:16+00:00",
-        "fuente": "BBC Sport"
-      },
-      {
-        "titulo": "Europa League and Conference League fixtures confirmed",
-        "enlace": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
-        "desc": "Sunderland, Crystal Palace, Bournemouth, Brighton, Celtic and Hearts have learned the details of their Europa League and Conference League fixtures this season.",
-        "fecha": "2026-08-28T21:02:00",
+        "titulo": "Warrington continue winning streak after edging Hull FC and booking play-off spot!",
+        "enlace": "https://www.skysports.com/watch/video/13578907/hull-fc-14-16-warrington-wolves-super-league-highlights",
+        "desc": "Highlights of the Super League match between Hull FC and Warrington Wolves.",
+        "fecha": "2026-08-30T00:00:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "Man City ouvre des négociations avec Liverpool sur Gakpo",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Manchester City a ouvert des discussions avec Liverpool concernant la signature de l'ailier néerlandais Cody Gakpo.",
-        "fecha": "2026-08-29T20:17:18+00:00",
+        "titulo": "Itauma se bat contre Hrgovic dans le combat pour le titre mondial",
+        "enlace": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+        "desc": "Filip Hrgovic brise le rêve de titre mondial de Moses Itauma alors que le Britannique semble se démarquer dans un extraordinaire concours pour le titre mondial des poids lourds à Londres.",
+        "fecha": "2026-08-29T23:04:00+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Jaissle remporte sa première victoire en Premier League contre les Spurs, ternes",
-        "enlace": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-        "desc": "Les buts d'Anthony Elanga et Yoanne Wissa en seconde période donnent au manager Matthias Jaissle sa première victoire en Premier League, alors que Newcastle United s'impose 2-0 à Tottenham Hotspur.",
-        "fecha": "2026-08-29T19:27:16+00:00",
+        "titulo": "Man City ouvre des négociations avec Liverpool sur Gakpo",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+        "desc": "L'attaquant néerlandais a également suscité l'intérêt de Tottenham, mais des sources indiquent que Manchester City est sa destination préférée s'il quitte Anfield.",
+        "fecha": "2026-08-29T20:17:18+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -788,44 +788,44 @@
         "titulo": "Bundesliga: Geht noch mehr für Schalke und das Bosnien-Trio?",
         "enlace": "https://www.dw.com/de/bundesliga-geht-noch-mehr-für-schalke-und-das-bosnien-trio/a-78507753?maca=de-rss-de-sport-4020-rdf",
         "desc": "Nach drei Spielzeiten in der 2. Liga ist Schalke 04 zurück in der Fußball-Bundesliga. Noch vor einem Jahr hätten nur wenige gedacht, dass der Wiederaufstieg größtenteils \"Made in B…",
-        "fecha": "2026-08-29T20:43:55.595864+00:00",
+        "fecha": "2026-08-29T23:08:52.655015+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Man City open talks with Liverpool over Gakpo",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Manchester City eröffnet Gespräche mit Liverpool über die Verpflichtung des niederländischen Flügelspielers Cody Gakpo.",
-        "fecha": "2026-08-29T20:17:18+00:00",
+        "titulo": "Itauma schlägt sich im Kampf um den Weltmeistertitel gegen Hrgovic durch",
+        "enlace": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+        "desc": "Filip Hrgovic zerschmettert Moses Itaumas Weltmeistertitel-Traum, als der Brite in einem außergewöhnlichen Schwergewichts-WM-Wettbewerb in London scheinbar aus dem Ruder läuft.",
+        "fecha": "2026-08-29T23:04:00+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Was man vor dem Start der Fußball-Bundesliga wissen muss",
         "enlace": "https://www.dw.com/de/was-man-vor-dem-start-der-fußball-bundesliga-wissen-muss/a-78495082?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die Fußball-Bundesliga startet in ihre 64. Saison. Es gelten einige neue Regeln, zudem ist mit der SV Elversberg ein echter Neuling dabei. Bei Transfers wurde eher in Talente als i…",
-        "fecha": "2026-08-29T20:43:55.595900+00:00",
+        "fecha": "2026-08-29T23:08:52.655061+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Jaissle claims first Premier League win at lacklustre Spurs",
-        "enlace": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-        "desc": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur.",
-        "fecha": "2026-08-29T19:27:16+00:00",
+        "titulo": "Man City eröffnet Gespräche mit Liverpool über Gakpo",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Der niederländische Stürmer hat auch das Interesse von Tottenham geweckt, Quellen zufolge ist Manchester City jedoch sein bevorzugtes Ziel, wenn er Anfield verlässt.",
+        "fecha": "2026-08-29T20:17:18+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "Il Manchester City apre le trattative con il Liverpool per Gakpo",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
-        "fecha": "2026-08-29T20:17:18+00:00",
+        "titulo": "Itauma si prende a pugni contro Hrgovic nella lotta per il titolo mondiale",
+        "enlace": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+        "desc": "Filip Hrgovic infrange il sogno del titolo mondiale di Moses Itauma mentre il britannico sembra dare il massimo in una straordinaria gara per il titolo mondiale dei pesi massimi a Londra.",
+        "fecha": "2026-08-29T23:04:00+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Jaissle claims first Premier League win at lacklustre Spurs",
-        "enlace": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-        "desc": "I gol nel secondo tempo di Anthony Elanga e Yoanne Wissa regalano all'allenatore Matthias Jaissle la sua prima vittoria in Premier League, mentre il Newcastle United vince 2-0 in casa del Tottenham Hotspur.",
-        "fecha": "2026-08-29T19:27:16+00:00",
+        "titulo": "Il Manchester City apre le trattative con il Liverpool per Gakpo",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
+        "desc": "L'attaccante olandese ha attirato l'interesse anche del Tottenham, ma fonti indicano che il Manchester City è la sua destinazione preferita se lascia Anfield.",
+        "fecha": "2026-08-29T20:17:18+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -853,16 +853,16 @@
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Briefing Chat: How Dolly Parton left her mark on science",
+        "titulo": "Charla informativa: cómo Dolly Parton dejó su huella en la ciencia",
         "enlace": "https://www.nature.com/articles/d41586-026-02732-w",
-        "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising…",
-        "fecha": "2026-08-29T20:44:09.134550+00:00",
+        "desc": "Naturaleza, Publicado en línea: 28 de agosto de 2026; doi:10.1038/d41586-026-02732-w Los reporteros de Nature analizan la defensa del ícono de la música country a favor de las vacunas y la salud pública, además de lo prometedor...",
+        "fecha": "2026-08-29T23:09:09.494000+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+        "titulo": "La tripulación Artemis II de la NASA recibe la Medalla de Honor Espacial del Congreso",
         "enlace": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
-        "desc": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional…",
+        "desc": "De izquierda a derecha: los astronautas de la NASA Victor Glover y Christina Koch, el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen y el astronauta de la NASA Reid Wiseman reciben el Congreso...",
         "fecha": "2026-08-28T22:21:31+00:00",
         "fuente": "NASA EN"
       },
@@ -888,16 +888,16 @@
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Mysteries of the deep and AI friendship: Books in brief",
+        "titulo": "Los misterios de la amistad profunda y la IA: libros breves",
         "enlace": "https://www.nature.com/articles/d41586-026-02725-9",
-        "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
-        "fecha": "2026-08-29T20:44:09.134589+00:00",
+        "desc": "Naturaleza, Publicado en línea: 28 de agosto de 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson revisa cinco de las mejores selecciones científicas.",
+        "fecha": "2026-08-29T23:09:09.494045+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+        "titulo": "La NASA otorga el primer premio en la fase 2 del desafío LunaRecycle de la agencia",
         "enlace": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
-        "desc": "NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&…",
+        "desc": "La NASA nombró a un equipo del Instituto de Tecnología de Massachusetts (MIT) como ganador del primer premio de la Fase 2 del programa de la agencia...",
         "fecha": "2026-08-28T20:30:52+00:00",
         "fuente": "NASA EN"
       }
@@ -907,7 +907,7 @@
         "titulo": "Briefing Chat: How Dolly Parton left her mark on science",
         "enlace": "https://www.nature.com/articles/d41586-026-02732-w",
         "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising…",
-        "fecha": "2026-08-29T20:44:10.694480+00:00",
+        "fecha": "2026-08-29T23:09:12.542985+00:00",
         "fuente": "Nature"
       },
       {
@@ -932,10 +932,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Airborne tuberculosis bacteria may mutate as they dry, revealing a target to curb drug resistance",
-        "enlace": "https://phys.org/news/2026-08-airborne-tuberculosis-bacteria-mutate-dry.html",
-        "desc": "Tuberculosis bacteria released into the air from infected individuals dry out to form infectious particles that are second only to measles in contagiousness. Weill Cornell Medicine…",
-        "fecha": "2026-08-29T16:00:01-04:00",
+        "titulo": "Strategic irrigation stress can lift lucerne seed yield and returns",
+        "enlace": "https://phys.org/news/2026-08-strategic-irrigation-stress-lucerne-seed.html",
+        "desc": "More water does not necessarily produce more alfalfa seed. A five-year trial near Keith, South Australia, found that strategically delaying irrigation until plants showed early sig…",
+        "fecha": "2026-08-29T17:00:05-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -970,7 +970,7 @@
         "titulo": "Mysteries of the deep and AI friendship: Books in brief",
         "enlace": "https://www.nature.com/articles/d41586-026-02725-9",
         "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
-        "fecha": "2026-08-29T20:44:10.694518+00:00",
+        "fecha": "2026-08-29T23:09:12.543038+00:00",
         "fuente": "Nature"
       }
     ],
@@ -983,10 +983,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Briefing Chat: How Dolly Parton left her mark on science",
+        "titulo": "Discussion d'information : Comment Dolly Parton a laissé sa marque sur la science",
         "enlace": "https://www.nature.com/articles/d41586-026-02732-w",
         "desc": "Nature, Mise en ligne : 28 août 2026 ; est ce que je:10.1038/d41586-026-02732-w Les journalistes de Nature discutent du plaidoyer de l'icône de la musique country en faveur des vaccins et de la santé publique – et des promesses…",
-        "fecha": "2026-08-29T20:44:16.113282+00:00",
+        "fecha": "2026-08-29T23:09:17.186569+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -997,10 +997,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Mysteries of the deep and AI friendship: Books in brief",
+        "titulo": "Mystères des profondeurs et amitié IA : les livres en bref",
         "enlace": "https://www.nature.com/articles/d41586-026-02725-9",
         "desc": "Nature, Mise en ligne : 28 août 2026 ; est ce que je:10.1038/d41586-026-02725-9 Andrew Robinson passe en revue cinq des meilleurs choix scientifiques.",
-        "fecha": "2026-08-29T20:44:16.113322+00:00",
+        "fecha": "2026-08-29T23:09:17.186615+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1009,28 +1009,28 @@
         "titulo": "Sturzflut im Himalaya: Wie kam es zur Katastrophe in Nepal?",
         "enlace": "https://www.dw.com/de/sturzflut-im-himalaya-wie-kam-es-zur-katastrophe-in-nepal/a-78520423?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Sturzfluten gibt es in verschiedenen Regionen des Himalaya immer wieder. Forschende versuchen zu verstehen, wie es dazu kommen kann und wie Frühwarnsysteme Menschenleben retten kön…",
-        "fecha": "2026-08-29T20:44:17.580047+00:00",
+        "fecha": "2026-08-29T23:09:20.681103+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Briefing-Chat: Wie Dolly Parton die Wissenschaft geprägt hat",
         "enlace": "https://www.nature.com/articles/d41586-026-02732-w",
-        "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising…",
-        "fecha": "2026-08-29T20:44:17.728290+00:00",
+        "desc": "Natur, Online veröffentlicht: 28. August 2026; doi:10.1038/d41586-026-02732-w Nature-Reporter diskutieren über das Eintreten der Country-Musik-Ikone für Impfstoffe und öffentliche Gesundheit – und vielversprechende…",
+        "fecha": "2026-08-29T23:09:20.780808+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "EU: Warum Drohnen den Pestizidverbrauch nicht senken werden",
         "enlace": "https://www.dw.com/de/eu-warum-drohnen-den-pestizidverbrauch-nicht-senken-werden/a-78493671?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Die EU will das jahrzehntelange Verbot aufheben, Pestizide aus der Luft zu versprühen. Ganz präzise mit Drohnen soll es erlaubt sein. Doch das könnte zu noch mehr Pestiziden im Anb…",
-        "fecha": "2026-08-29T20:44:17.580082+00:00",
+        "fecha": "2026-08-29T23:09:20.681142+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Geheimnisse der Tiefe und KI-Freundschaft: Bücher in Kürze",
         "enlace": "https://www.nature.com/articles/d41586-026-02725-9",
-        "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
-        "fecha": "2026-08-29T20:44:17.728330+00:00",
+        "desc": "Natur, Online veröffentlicht: 28. August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson rezensiert fünf der besten Wissenschaftstipps.",
+        "fecha": "2026-08-29T23:09:20.780852+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1039,23 +1039,23 @@
         "titulo": "Briefing Chat: come Dolly Parton ha lasciato il segno nella scienza",
         "enlace": "https://www.nature.com/articles/d41586-026-02732-w",
         "desc": "Natura, Pubblicato online: 28 agosto 2026; doi:10.1038/d41586-026-02732-w I giornalisti di Nature discutono della difesa dell'icona della musica country a favore dei vaccini e della salute pubblica, oltre a promettere...",
-        "fecha": "2026-08-29T20:44:19.716774+00:00",
+        "fecha": "2026-08-29T23:09:25.745807+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Mysteries of the deep and AI friendship: Books in brief",
+        "titulo": "Misteri dell'amicizia profonda e AI: libri in breve",
         "enlace": "https://www.nature.com/articles/d41586-026-02725-9",
-        "desc": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
-        "fecha": "2026-08-29T20:44:19.716813+00:00",
+        "desc": "Natura, Pubblicato online: 28 agosto 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson esamina cinque delle migliori scelte scientifiche.",
+        "fecha": "2026-08-29T23:09:25.745850+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Oposição quer divulgado acordo petrolífero com EUA",
-        "enlace": "https://observador.pt/2026/08/29/oposicao-da-venezuela-defende-divulgacao-publica-do-acordo-petrolifero-com-estados-unidos/",
-        "desc": "Para a oposição venezuelana, o regresso à democracia do país sul-americano passa pela reconstrução das instituições, entre as quais a petrolífera estatal.",
-        "fecha": "2026-08-29T21:38:23+01:00",
+        "titulo": "Itália queria proibir idosos de conduzir e de beber",
+        "enlace": "https://observador.pt/2026/08/29/italia-queria-proibir-idosos-de-conduzir-beber-e-nao-so-fez-marcha-atras/",
+        "desc": "Devido aos acidentes envolvendo idosos com mais de 85 anos, Itália anunciou que iria impedi-los de usar a auto-estrada, conduzir com álcool no sangue e percorrer mais de 100 km. E …",
+        "fecha": "2026-08-29T23:48:15+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1066,17 +1066,17 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "A. Viseu x FC Porto. \"45 minutos de uma eficácia brutal\"",
-        "enlace": "https://observador.pt/programas/relat-rio-de-jogo/a-viseu-x-fc-porto-45-minutos-de-uma-eficacia-brutal/",
-        "desc": "Mário Cagica destaca a entrada forte do Porto, que foi a todos os níveis \"muito mais objetivo\". Afirma que Académico de Viseu foi pouco agressivo e sentiu imensas dificuldades no m…",
-        "fecha": "2026-08-29T21:16:16+01:00",
+        "titulo": "Praia da Ursa. Interrompidas buscas de jovem ucraniano",
+        "enlace": "https://observador.pt/2026/08/29/interrompidas-buscas-de-jovem-ucraniano-desaparecido-na-praia-da-ursa-em-sintra/",
+        "desc": "O alerta do desaparecimento do jovem ucraniano foi dado pelas 11h50 de sexta-feira por \"turistas que se encontravam nas proximidades\" e foram de imediato iniciadas buscas.",
+        "fecha": "2026-08-29T23:43:42+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Mistérios e segredos de textos medievais revelados graças à IA",
-        "enlace": "https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss",
-        "desc": "Em bibliotecas e arquivos de todo o mundo encontram-se mensagens e documentos históricos ocultos por trás de símbolos incompreensíveis - que agora estão sendo decifrados por pesqui…",
-        "fecha": "2026-08-29T19:42:47+00:00",
+        "titulo": "Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse",
+        "enlace": "https://www.bbc.com/portuguese/articles/cj3d0r02ypxo?at_medium=RSS&at_campaign=rss",
+        "desc": "Especialistas comentam sobre a técnica que tem se popularizado na internet - e detalham o que a ciência já revelou a seu respeito.",
+        "fecha": "2026-08-29T21:25:15+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1092,7 +1092,7 @@
         "titulo": "El mercado secundario crece con un récord de 124.000 millones de dólares en operaciones durante la primera mitad del año",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-28/mercado-secundario-crecimiento-gp-led-lazard-1hms-1svm_4413946/",
         "desc": "El crecimiento interanual crece a un ritmo del 28% hasta los 260.000 millones de dólares de julio de 2025 a julio de 2026, el doble que en 2021 con nuevos máximos tanto en el segme…",
-        "fecha": "2026-08-29T20:44:24.884034+00:00",
+        "fecha": "2026-08-29T23:09:31.794366+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1127,7 +1127,7 @@
         "titulo": "Los tres grandes bancos de España afinan sus estrategias de banca privada en busca de 'ultrarricos'",
         "enlace": "https://www.elconfidencial.com/mercados/2026-08-24/tres-grandes-bancos-espana-banca-privada-ultrarricos_4410311/",
         "desc": "Según el último Informe sobre la Riqueza Mundial 2026 de la consultora Capgemini, en 2025 el número de grandes fortunas en España aumentó en 2025 un 5,3%",
-        "fecha": "2026-08-29T20:44:24.884074+00:00",
+        "fecha": "2026-08-29T23:09:31.794411+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1161,7 +1161,7 @@
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Retirees are pouring into this coastal getaway – and it's feeling the strain",
+        "titulo": "Retirees are pouring into this coastal getaway, and it's feeling the strain",
         "enlace": "https://www.foxbusiness.com/economy/retirees-pouring-coastal-getaway-its-feeling-strain",
         "desc": "Sussex County, Delaware, saw 40,000 new residents since 2020, with retirees drawn by low property taxes and no sales tax straining healthcare and schools.",
         "fecha": "2026-08-29T12:57:38-04:00",
@@ -1219,9 +1219,9 @@
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Warsh affirme que l’inflation ne ralentit pas et s’engage à atteindre l’objectif de 2 %",
+        "titulo": "Warsh déclare que l’inflation ne ralentit pas et s’engage à atteindre l’objectif de 2 %",
         "enlace": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
-        "desc": "Warsh a réitéré que les décideurs politiques avaient un « objectif ferme et fixe » d'une inflation de 2 % lors du Symposium de politique économique de Jackson Hole en 2026. Maria Eloisa Capurro de Bloomberg explique. (Source…",
+        "desc": "Warsh a réitéré que les décideurs politiques avaient un « objectif ferme et fixe » d’inflation de 2 % lors du Symposium de politique économique de Jackson Hole en 2026. Maria Eloisa Capurro de Bloomberg explique. (Source…",
         "fecha": "2026-08-29T16:16:51+00:00",
         "fuente": "Bloomberg EN"
       }
@@ -1244,7 +1244,7 @@
       {
         "titulo": "Landtagswahl: AfD-Jugend streitet über Weidels Euro-Kurs",
         "enlace": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-afd-jugend-streitet-ueber-weidels-euro-kurs/100250529.html",
-        "desc": "Die AfD-Chefin forderte zuletzt erneut Deutschlands Austritt aus dem Euro. Der Chef der Parteijugend lehnt das ab . Der Konflikt trifft die AfD vor den Landtagswahlen in Ostdeutsch…",
+        "desc": "Der Chef der AfD-Jugend widerspricht Weidels Anti-Euro-Kurs und stößt damit in den eigenen Reihen auf Widerstand. Der Streit bricht kurz vor den Landtagswahlen im Osten auf.",
         "fecha": "2026-08-29T16:26:33+00:00",
         "fuente": "Handelsblatt"
       },
@@ -1267,7 +1267,7 @@
       {
         "titulo": "Warsh afferma che l’inflazione non sta rallentando e promette di raggiungere l’obiettivo del 2%.",
         "enlace": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
-        "desc": "Warsh ha ribadito che i politici hanno un “obiettivo fermo e fisso” di inflazione al 2% al simposio sulla politica economica di Jackson Hole del 2026. Lo spiega Maria Eloisa Capurro di Bloomberg. (Fonte…",
+        "desc": "Warsh ha ribadito che i politici hanno un “obiettivo fermo e fisso” di inflazione al 2% al Simposio sulla politica economica di Jackson Hole del 2026. Lo spiega Maria Eloisa Capurro di Bloomberg. (Fonte…",
         "fecha": "2026-08-29T16:16:51+00:00",
         "fuente": "Bloomberg EN"
       }
