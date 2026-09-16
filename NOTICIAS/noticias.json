@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-09-16T05:47:40.819067+00:00",
+  "actualizado": "2026-09-16T11:10:54.169177+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Cuánto dinero cobra un médico de cabecera en la Comunidad Valenciana: sueldo base y complementos",
-        "enlace": "https://www.abc.es/espana/comunidad-valenciana/dinero-cobra-medico-cabecera-comunidad-valenciana-sueldo-20260916073000-nt.html",
-        "desc": "La medicina es una de las profesiones más importantes para el bienestar de la sociedad. Los médicos desempeñan un papel fundamental en la prevención, el diagnóstico y el tratamient…",
-        "fecha": "2026-09-16T07:30:07+02:00",
+        "titulo": "Quién es Miguel Ángel Pérez Triano, el delegado del Gobierno en Ceuta señalado por los avisos previos del CNI",
+        "enlace": "https://www.abc.es/espana/miguel-angel-perez-triano-delegado-gobierno-ceuta-20260916125422-nt.html",
+        "desc": "Miguel Ángel Pérez Triano, delegado del Gobierno en Ceuta desde febrero de 2026, se encuentra bajo el foco judicial y político por su actuación durante la entrada sin precedentes e…",
+        "fecha": "2026-09-16T12:54:22+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "Von der Leyen se dirige \"directamente al pueblo de España\": \"La frontera de Ceuta es una frontera europea. Porque Ceuta es España. Ceuta es Europa\"",
+        "enlace": "https://www.elmundo.es/espana/2026/09/16/6aaa41e021efa0fc0e8b458e.html",
+        "desc": "\"Y Europa estará a vuestro lado\", añade la presidenta de la Comisión en el discurso sobre el Estado de la UE, que además propone \"un nuevo marco de Respuesta a Emergencias\" que dar…",
+        "fecha": "2026-09-16T11:04:50+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Feijóo pregunta a Sánchez por los contactos con Rabat y el presidente le acusa de &quot;patriotismo de pacotilla&quot;",
+        "enlace": "https://www.libertaddigital.com/espana/politica/2026-09-16/feijoo-pregunta-a-sanchez-por-los-contactos-con-rabat-y-el-presidente-le-acusa-de-patriotismo-de-pacotilla-7460673/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "El Gobierno trata de trasladar al PP la responsabilidad sobre Ceuta, en una estrategia orientada a desplazar el foco del estallido de la crisis.",
+        "fecha": "2026-09-16T09:45:32+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "Condenado a 25 años de cárcel el expresidente de Kosovo Thaci por crímenes de guerra",
+        "enlace": "https://theobjective.com/internacional/2026-09-16/condenado-25-anos-carcel-expresidente-kosovo-crimenes-guerra/",
+        "desc": "El expresidente de Kosovo Hashim Thaci ha sido condenado este miércoles a 25 años de cárcel por crímenes de guerra cometidos durante el conflicto de 1998 [&#8230;]",
+        "fecha": "2026-09-16T11:09:27+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "Mayte García, representante de los hoteleros, sobre el Imserso: \"Que no se nos siga pidiendo que asumamos pérdidas\"",
+        "enlace": "https://www.elconfidencial.com/espana/2026-09-16/mayte-garcia-hoteleros-asumir-perdidas-1qrt_4424775/",
+        "desc": "HOSTEC reclama una revisión de las tarifas del programa de viajes para mayores ante el aumento de los costes y alerta de las consecuencias que podría tener mantener las actuales co…",
+        "fecha": "2026-09-16T11:11:00.678439+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Última hora de la actualidad política hoy en directo: aplazado el desalojo de la playa del Trampolín",
+        "enlace": "https://okdiario.com/espana/ultima-hora-actualidad-politica-hoy-directo-sanchez-feijoo-protagonizan-cara-cara-situacion-ceuta-como-telon-fondo-20299939",
+        "desc": "Este miércoles, el Congreso de los Diputados celebra una sesión de control al Gobierno marcada especialmente por la invasión de Ceuta. El presidente del Gobierno, Pedro Sánchez, se…",
+        "fecha": "2026-09-16T13:10:37+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "Von der Leyen anuncia una ley de emergencia para acelerar expulsiones ante ataques migratorios: \"Ceuta es Europa\"",
+        "enlace": "https://www.elespanol.com/mundo/europa/20260916/von-der-leyen-anuncia-ley-emergencia-acelerar-expulsiones-ataques-migratorios-ceuta-europa/1003744384968_0.html",
+        "desc": "La presidenta de la Comisión reclama reforzar Frontex y crear sistemas de alerta temprana que permitan anticipar movimientos migratorios masivos. Más información: Marruecos usa las…",
+        "fecha": "2026-09-16T10:10:26+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Estas son las siete empresas y profesionales distinguidos por CEOE Aragón",
+        "enlace": "https://www.abc.es/espana/aragon/siete-empresas-profesionales-distinguidos-ceoe-aragon-20260916125311-nt.html",
+        "desc": "CEOE Aragón entregó este 15 de septiembre en una gala celebrada en Zaragoza los Premios Empresa de Aragón 2026. El acto tuvo lugar en la sede de Caja Rural de Aragón, en Zaragoza, …",
+        "fecha": "2026-09-16T12:53:11+02:00",
         "fuente": "ABC"
       },
       {
@@ -17,220 +66,185 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Conde-Pumpido arremete ya contra el Supremo por suspender la Ley de nietos: &quot;Vulnera el derecho al sufragio&quot;",
-        "enlace": "https://www.libertaddigital.com/espana/2026-09-16/conde-pumpido-arremete-ya-contra-el-supremo-por-suspender-la-ley-de-nietos-vulnera-el-derecho-al-sufragio-7459757/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Fuentes del TC consultadas por LD afirman que &quot;Conde-Pumpido ya ha dejado clara su postura sobre la decisión del Supremo en los últimos días&quot;.",
-        "fecha": "2026-09-16T05:18:51+02:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "El precio del petróleo baja un 0,65%, pero se mantiene en los 108 dólares el barril",
-        "enlace": "https://theobjective.com/economia/2026-09-16/petroleo-dolares-barril/",
-        "desc": "El precio del barril de brent para entrega en noviembre baja este miércoles el 0,65%, pero se mantiene en los 108 dólares en el mercado de [&#8230;]",
-        "fecha": "2026-09-16T05:44:24+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "El mercado medieval de Bizkaia que celebra 975 años de historia: dos días de tiro con arco, combates y fragua artesanal",
-        "enlace": "https://www.elconfidencial.com/espana/pais-vasco/2026-09-16/mercado-medieval-bizkaia-975-anos-1tna-1qrt_4423868/",
-        "desc": "La cita conmemora los 975 años de la primera referencia escrita conocida del municipio, fechada en 1051, una época en la que este territorio formaba parte del Reino de Navarra",
-        "fecha": "2026-09-16T05:47:46.834687+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Ramón Llull, filósofo español: «No tengas amistad con quien tenga poderosos enemigos»",
-        "enlace": "https://okdiario.com/curiosidades/ramon-llull-filosofo-espanol-no-tengas-amistad-quien-tenga-poderosos-enemigos-20288031",
-        "desc": "Meterse en los problemas de los demás puede salir caro a veces, incluso cuando lo hacemos por ayudar a un amigo. Una discusión que al principio nos resulta completamente ajena pued…",
-        "fecha": "2026-09-16T07:45:06+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "Interior advierte a Óscar Puente de que sus carpas en el Puerto de Ceuta \"incrementan el riesgo en infraestructuras críticas\"",
-        "enlace": "https://www.elespanol.com/reportajes/20260916/interior-advierte-oscar-puente-carpas-puerto-ceuta-incrementan-riesgo-infraestructuras-criticas/1003744384631_0.html",
-        "desc": "La secretaria de Estado de Seguridad, Ana María Calvo, se dirige por escrito a altos cargos de Transportes tres días después de la orden del ministro. Avisa de que puede verse afec…",
-        "fecha": "2026-09-16T05:00:00+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "Un mural de Bernardo de Gálvez lleva el amor de Málaga a una ciudad de Estados Unidos",
-        "enlace": "https://www.abc.es/espana/andalucia/malaga/mural-bernardo-galvez-lleva-amor-malaga-ciudad-20260916072642-nts.html",
-        "desc": "Un militar malagueño que combatió por la independencia de Estados Unidos acaba de «regresar» a Texas dos siglos y medio después. Bernardo de Gálvez , nacido en Macharaviaya, ha «vu…",
-        "fecha": "2026-09-16T07:26:43+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "\"¿Qué interés tendría Marruecos en provocar una grave crisis con España?\": los socialistas europeos amenazan con bloquear la resolución de apoyo a Ceuta",
-        "enlace": "https://www.elmundo.es/espana/2026/09/16/6aa96543e85ece83238b4589.html",
-        "desc": "Iratxe García llegó a apuntar ayer que el acuerdo ya no es posible aunque las negociaciones continuarán hasta la votación de mañana. El S&amp;D mantiene el mismo argumentario que e…",
-        "fecha": "2026-09-16T01:15:56+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "Marruecos maniobra en la Eurocámara y busca el amparo de la izquierda ante la invasión de Ceuta",
-        "enlace": "https://www.libertaddigital.com/internacional/europa/2026-09-15/marruecos-maniobra-en-la-eurocamara-y-busca-el-amparo-de-la-izquierda-ante-la-invasion-de-ceuta-7460487/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Rabat envía un escrito defensivo a los eurodiputados del PSOE, el PNV y ERC en vísperas del debate sobre la avalancha de 80.000 inmigrantes.",
-        "fecha": "2026-09-15T20:14:59+02:00",
+        "titulo": "Sánchez, preguntado por los menores que vagan por Ceuta tras la invasión: &quot;Eso, a Vivas&quot;",
+        "enlace": "https://www.libertaddigital.com/espana/politica/2026-09-16/sanchez-preguntado-por-los-menores-que-vagan-por-ceuta-eso-a-vivas-7460697/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Es una respuesta que el presidente del Gobierno ha dado de manera inusual, ya que no suele responder en los pasillos del Congreso a los periodistas.",
+        "fecha": "2026-09-16T10:14:55+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "3 dead, 1 hospitalized after news helicopter crashes in Los Angeles commercial area",
-        "enlace": "https://www.foxnews.com/us/3-dead-1-hospitalized-news-helicopter-crashes-los-angeles-commercial-area",
-        "desc": "Three people are dead and one person is hospitalized after a news helicopter crashed between two commercial buildings in the Chatsworth area of Los Angeles, authorities said.",
-        "fecha": "2026-09-15T23:51:40-04:00",
+        "titulo": "Charlie Kirk's family alleges UVU knew of security risk before his assassination and more top headlines",
+        "enlace": "https://www.foxnews.com/us/charlie-kirks-family-alleges-uvu-knew-security-risk-more-top-headlines",
+        "desc": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+        "fecha": "2026-09-16T06:54:39-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "NBC news helicopter crashes and kills at least 3 in LA neighborhood",
-        "enlace": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
-        "desc": "A local NBC news helicopter crashed in a Los Angeles neighborhood on Tuesday, killing at least three people while reporters were covering the nearby crash of an SUV and a city bus,…",
-        "fecha": "2026-09-16T00:06:00-04:00",
+        "titulo": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+        "enlace": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
+        "desc": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Tru…",
+        "fecha": "2026-09-16T06:48:22-04:00",
         "fuente": "NPR"
       },
       {
-        "titulo": "Fourth Florida resident dies after contracting flesh-eating bacteria linked to oysters",
-        "enlace": "https://www.foxnews.com/us/fourth-florida-resident-dies-after-contracting-flesh-eating-bacteria-linked-oysters",
-        "desc": "Florida reports fourth Vibrio vulnificus death in 2026 as health officials warn about raw oysters, contaminated water and severe infections.",
-        "fecha": "2026-09-15T22:00:44-04:00",
+        "titulo": "Charlie Kirk's family alleges UVU knew of rooftop security risk before his assassination: legal filing",
+        "enlace": "https://www.foxnews.com/us/charlie-kirk-family-alleges-uvu-knew-rooftop-security-risk-before-assassination-legal-filing",
+        "desc": "Charlie Kirk&apos;s family alleges Utah Valley University failed to secure rooftops and ignored warnings before the Turning Point USA founder&apos;s fatal shooting.",
+        "fecha": "2026-09-16T06:00:35-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
-        "enlace": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
-        "desc": "ICE agents turned up at David Streever's home over a harsh email he sent to an ICE official. Now a court order prevents the federal government from making additional threats agains…",
-        "fecha": "2026-09-15T23:03:47-04:00",
+        "titulo": "Senators question Trump's picks for top health positions, including surgeon general",
+        "enlace": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
+        "desc": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third a…",
+        "fecha": "2026-09-16T06:00:00-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Los efectos de El Niño repercuten en Misiones: cierran otra vez la Garganta del Diablo ante el riesgo de una crecida del río Iguazú",
-        "enlace": "https://www.clarin.com/sociedad/efectos-nino-repercuten-misiones-cierran-vez-garganta-diablo-riesgo-crecida-rio-iguazu_0_re45T96DJv.html",
-        "desc": "Ante el pronóstico de lluvias intensas, por primera vez en la historia del Parque Nacional Iguazú, cambian los protocolos de seguridad. Desarmarán las pasarelas y las trasladarán a…",
-        "fecha": "2026-09-16T05:09:42+00:00",
+        "titulo": "La mayor agencia de viajes china puso en venta vuelos al espacio por una cifra increíble",
+        "enlace": "https://www.clarin.com/internacional/mayor-agencia-viajes-china-puso-venta-vuelos-espacio-cifra-increible_0_UjilTBLsax.html",
+        "desc": "Es una experiencia de seis días en Estados Unidos que culmina con un vuelo suborbital. El itinerario incluye una visita a Spaceport America, entrenamiento en una cabina simulada y …",
+        "fecha": "2026-09-16T10:33:31+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Tom Cruise sorprendió desde la tapa de una revista y confirmó un rumor sobre su comportamiento en el set: “Sí, es cierto”",
-        "enlace": "https://www.lanacion.com.ar/espectaculos/personajes/tom-cruise-sorprendio-desde-la-tapa-de-una-revista-y-confirmo-un-rumor-sobre-su-comportamiento-en-el-nid16092026/",
-        "desc": "El actor de 64 años brindó una entrevista en la que habló sobre su nueva película, Digger, pero también desandó su pasión temprana por el cine, reveló cómo se comporta en el set y",
-        "fecha": "2026-09-16T05:42:08+00:00",
+        "titulo": "Ana Paula Dutil opinó sobre el casamiento de Julieta Prandi y Emanuel Ortega y fue contundente",
+        "enlace": "https://www.lanacion.com.ar/espectaculos/ana-paula-dutil-opino-sobre-el-casamiento-de-julieta-prandi-y-emanuel-ortega-y-fue-contundente-nid16092026/",
+        "desc": "En medio de las especulaciones de un supuesto conflicto familiar, la exmodelo salió en defensa del nuevo matrimonio de su expareja y padre de sus hijos",
+        "fecha": "2026-09-16T11:08:22+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Tres muertos en accidente de un helicóptero de noticias en Los Ángeles",
-        "enlace": "https://www.clarin.com/estados-unidos/tres-muertos-en-accidente-de-un-helicoptero-de-noticias-en-los-angeles_0_07hIh7Jy0o.html",
-        "desc": "Un helicóptero de una televisora se estrelló mientras cubría un accidente, dejando tres muertos en Los Ángeles, informó el cuerpo de bomberos. El siniestro aéreo ocurrió tras un ch…",
-        "fecha": "2026-09-16T04:40:12+00:00",
+        "titulo": "Ethereum hoy: cotización y precio del ETH este miércoles 16 de septiembre de 2026",
+        "enlace": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-miercoles-16-de-septiembre-de-2026_0_X7mdo8vmLM.html",
+        "desc": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+        "fecha": "2026-09-16T10:30:03+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Juan Minujín presentó en Nueva York la película de Angelina Jolie que protagonizó junto a Salma Hayek: “Profundamente orgulloso”",
-        "enlace": "https://www.lanacion.com.ar/espectaculos/personajes/juan-minujin-presento-en-nueva-york-la-pelicula-de-angelina-jolie-que-protagonizo-junto-a-salma-nid16092026/",
-        "desc": "El actor compartió en sus redes sociales fotografías y clips de su gran noche junto a las estrellas de Hollywood",
-        "fecha": "2026-09-16T05:25:05+00:00",
+        "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 16 de septiembre, minuto a minuto",
+        "enlace": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid16092026/",
+        "desc": "La divisa oficial operó este martes a $1530 para la venta en el Banco Nación; el dólar blue cotizó a $1560 para esa operación; qué pasó con el MEP y el CCL",
+        "fecha": "2026-09-16T11:07:25+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Présidentielle 2027 : six candidats sur la ligne de départ de la primaire à gauche",
-        "enlace": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-six-candidats-sur-la-ligne-de-depart-de-la-primaire-a-gauche_6774514_823448.html",
-        "desc": "Philippe Brun, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal seront, a priori, en lice pour le scrutin qui doit désigner le candidat de l’« esp…",
-        "fecha": "2026-09-16T00:18:29+02:00",
+        "titulo": "Les prix des carburants, du gaz et de l’électricité augmentent en même temps, un choc énergétique qui fragilise ménages et entreprises",
+        "enlace": "https://www.lemonde.fr/economie/article/2026/09/16/petrole-gaz-electricite-une-hausse-des-prix-tous-azimuts-qui-fragilise-menages-et-entreprises_6774887_3234.html",
+        "desc": "La hausse des prix de l’énergie vient grever le pouvoir d’achat et pénalise les entreprises en augmentant leurs coûts de production.",
+        "fecha": "2026-09-16T06:00:20+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Pilote de rallye, «bon vivant», «sans histoire»… Qui étaient le Français de 79 ans et son épouse assassinés dans leur maison au Portugal ?",
-        "enlace": "https://www.lefigaro.fr/international/pilote-de-rallye-bon-vivant-sans-histoire-qui-etaient-le-francais-de-79-ans-et-son-epouse-assassines-dans-leur-maison-au-portugal-20260915",
-        "desc": "PORTRAIT - Jean-Marie Grenier et sa compagne roumaine Milena ont été retrouvés morts dans une cuve vendredi. Figure du rallye lotois, une membre de sa famille décrit au Figaro un h…",
-        "fecha": "2026-09-15T23:53:32+02:00",
+        "titulo": "Carburants : Emmanuel Macron a demandé au gouvernement une «totale mobilisation» sur l’approvisionnement et les prix",
+        "enlace": "https://www.lefigaro.fr/conjoncture/carburants-emmanuel-macron-a-demande-au-gouvernement-une-totale-mobilisation-sur-l-approvisionnement-et-les-prix-20260916",
+        "desc": "Obtenir «davantage de flexibilité dans la réglementation à l’échelle européenne», notamment pour les raffineries, est actuellement à l’étude, selon la porte-parole du gouvernement …",
+        "fecha": "2026-09-16T12:31:41+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Glucksmann, Royal, Faure : ce qu’il faut savoir sur la primaire de la gauche sociale-démocrate",
-        "enlace": "http://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
-        "desc": "Six candidats, dont Raphaël Glucksmann, Ségolène Royal et Olivier Faure, participeront à la primaire de la gauche socialiste et démocratique les 9-10 octobre et les 16-17 octobre p…",
-        "fecha": "2026-09-16T05:23:04+00:00",
+        "titulo": "Ed Sheeran : le départ en cascade de plusieurs de ses artistes",
+        "enlace": "http://www.france24.com/fr/vid%C3%A9o/20260916-ed-sheeran-le-d%C3%A9part-en-cascade-de-plusieurs-de-ses-artistes",
+        "desc": "Le chanteur britannique Ed Sheeran a été confronté, mardi 15 septembre, au départ en cascade de plusieurs artistes participant à sa tournée. Les membres de l'équipe justifient ce d…",
+        "fecha": "2026-09-16T10:53:15+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Aux Etats-Unis, face aux risques de l’IA, la figure de la gauche Bernie Sanders et l’imprécateur MAGA Steve Bannon affichent leur convergence",
-        "enlace": "https://www.lemonde.fr/international/article/2026/09/16/etats-unis-face-aux-risques-incontroles-de-l-ia-la-figure-de-la-gauche-bernie-sanders-et-l-imprecateur-maga-steve-bannon-affichent-leur-convergence_6774747_3210.html",
-        "desc": "Lors d’une conférence à Washington, le 15 septembre, le sénateur du Vermont et l’animateur national-populiste ont alerté sur la nécessité de ralentir et d’encadrer les progrès des …",
-        "fecha": "2026-09-16T05:00:05+02:00",
+        "titulo": "Présidentielle 2027 : Philippe Brun, suspendu à titre conservatoire du PS, ne participera pas à la primaire à gauche",
+        "enlace": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-philippe-brun-suspendu-a-titre-conservatoire-du-ps-ne-participera-pas-a-la-primaire-a-gauche_6775146_823448.html",
+        "desc": "Selon les informations du « Monde », le député de l’Eure a été suspendu du PS à titre conservatoire à l’issue d’un bureau national convoqué dans la matinée du mercredi 16 septembre…",
+        "fecha": "2026-09-16T10:12:47+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "« Il va finir en charpie » : Raphaël Glucksmann dans le piège de la primaire",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/il-va-finir-en-charpie-raphael-glucksmann-dans-le-piege-de-la-primaire-20260915",
-        "desc": "RÉCIT - Le député européen a toutes les chances de remporter le vote du mois d’octobre pour la désignation du candidat socialiste à la présidentielle, mais pourrait sortir abîmé de…",
-        "fecha": "2026-09-15T23:15:07+02:00",
+        "titulo": "France, Danemark, Malte, Allemagne… En Europe, le grand écart des prix des carburants",
+        "enlace": "https://www.lefigaro.fr/conjoncture/france-danemark-malte-allemagne-en-europe-le-grand-ecart-des-prix-des-carburants-20260916",
+        "desc": "INFOGRAPHIES - Si les prix moyens à la pompe ont augmenté partout sur le Vieux Continent, tous les ménages ne sont pas logés à la même enseigne. La France figure toutefois parmi le…",
+        "fecha": "2026-09-16T12:37:49+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "En direct : Ursula von der Leyen prononce son discours sur l'état de l'Union européenne",
-        "enlace": "http://www.france24.com/fr/europe/20260916-en-direct-ursula-von-der-leyen-prononce-son-discours-sur-l-%C3%A9tat-de-l-union-europ%C3%A9enne",
-        "desc": "La présidente de la Commission européenne Ursula von der Leyen prononce mercredi le discours annuel sur l’état de l’UE devant le Parlement de Strasbourg. Un exercice périlleux au m…",
-        "fecha": "2026-09-16T05:19:32+00:00",
+        "titulo": "L'intelligence artificelle pourrait-elle détruire l'humanité ?",
+        "enlace": "http://www.france24.com/fr/vid%C3%A9o/20260916-l-intelligence-artificelle-pourrait-elle-d%C3%A9truire-l-humanit%C3%A9",
+        "desc": "Le haut-commissaire de l'ONUen droit de l'homme à appelé hier à une action urgente pour encadrer l'intelligence artificielle face aux \"risques sans précédent causés par les système…",
+        "fecha": "2026-09-16T10:47:15+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Spritpreise: Experten warnen – doch der Druck auf Merz wächst",
-        "enlace": "https://www.spiegel.de/wirtschaft/spritpreise-experten-warnen-doch-der-druck-auf-merz-waechst-a-c5c151ba-df63-4535-85b2-abb55d15f899#ref=rss",
-        "desc": "Mit seiner Ankündigung, gegen die hohe Belastung durch teuren Sprit vorzugehen, hat Bundeskanzler Merz eine heftige Diskussion ausgelöst. Experten warnen – doch der Chor der Befürw…",
-        "fecha": "2026-09-16T07:34:00+02:00",
+        "titulo": "Sudan: Mindestens 60 Tote bei Einsturz von Goldmine",
+        "enlace": "https://www.spiegel.de/panorama/sudan-mindestens-60-tote-bei-einsturz-von-goldmine-a-ec3b7f4f-9eda-4738-8f66-49dfd8010d90#ref=rss",
+        "desc": "Dutzende Menschen sind auf der Suche nach Gold im Sudan verschüttet worden, viele werden noch vermisst. Offenbar Es fehlt es an schwerem Gerät, um Erde und Gestein aus dem Weg zu r…",
+        "fecha": "2026-09-16T13:02:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Antarktis: Ozonloch über der Antarktis ist zweites Jahr in Folge deutlich kleiner",
-        "enlace": "https://www.zeit.de/wissenschaft/umwelt/2026-09/ozonloch-antarktis-ozonschicht-umweltschutz-weltwetterorganisation",
-        "desc": "Das Ozonloch über der Antarktis war 2025 so klein wie selten seit 1990. Die Chefin der Weltwetterorganisation spricht von einer »Erfolgsgeschichte im Umweltschutz«.",
-        "fecha": "2026-09-16T05:37:08",
+        "titulo": "Sondertribunal in Den Haag: Kosovos Ex-Präsident Hashim Thaçi zu 25 Jahren Haft verurteilt",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-09/25-jahre-haft-wegen-kriegsverbrechen-fuer-kosovos-ex-praesidenten-thaci",
+        "desc": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaçi wegen Kriegsverbrechen zu langjähriger Haft verurteilt. Er hatte die Vorwürfe abgestritten.",
+        "fecha": "2026-09-16T11:10:26",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Südamerika bleibt gefährlichste Region für Umweltschützer",
-        "enlace": "https://www.spiegel.de/ausland/suedamerika-bleibt-gefaehrlichste-region-fuer-umweltschuetzer-a-241cae9b-0b9b-4ca0-854c-514ebc9b5192#ref=rss",
-        "desc": "Dort, wo Wälder gerodet und Böden ausgebeutet werden, ist Widerstand lebensgefährlich. Ein Bericht zählt erneut Dutzende Morde an Kleinbauern, Indigenen und Umweltaktivisten. Beson…",
-        "fecha": "2026-09-16T07:18:00+02:00",
+        "titulo": "Fürstenwalde/Spree: Polizei beschlagnahmt Anti-Höcke-Plakat der Linken",
+        "enlace": "https://www.spiegel.de/politik/fuerstenwalde-spree-polizei-beschlagnahmt-anti-hoecke-plakat-der-linken-a-f1e8be13-00a7-430b-85eb-d91342ea40a3#ref=rss",
+        "desc": "Nach einem Zeugenhinweis entfernt die Polizei einen Aushang der Linken in Brandenburg. Die Partei wertet das als Einschüchterungsversuch. Die Staatsanwaltschaft muss klären: War da…",
+        "fecha": "2026-09-16T12:58:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Social-Media-Verbot für Kinder: Wie das Social-Media-Verbot für Kinder in der EU aussehen könnte",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-09/social-media-verbot-kinder-eu-unter-13-ursula-von-der-leyen-jugendschutz",
-        "desc": "Die EU-Kommission will ein Social-Verbot für Kinder durchsetzen. Für wen würde das gelten? Was wären die Folgen und wer setzt das durch? Das Wichtigste im Überblick",
-        "fecha": "2026-09-16T05:30:40",
+        "titulo": "Drohnenangriff nahe Nikopol: Fünf Tote bei russischem Angriff auf Bus in der Ukraine",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-09/russischer-drohnenangriff-nikopol-ukraine-zivilisten-dnipropetrowsk-gxe",
+        "desc": "Russland hat im Südosten der Ukraine einen Linienbus mit einer Drohne angegriffen. Dabei wurden fünf Menschen getötet und mindestens sieben weitere verletzt.",
+        "fecha": "2026-09-16T10:31:00",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Infermieri, osteopati, fisioterapisti è corsa alle professioni sanitarie",
-        "enlace": "https://www.repubblica.it/cronaca/2026/09/16/news/fisioterapia_facolta_professioni_sanitarie_iscrizioni-425587521/",
-        "desc": "Oggi i test di ammissione per 75.500 candidati L’anno scorso erano 64mila. Al sud le domande superano i posti disponibili",
-        "fecha": "2026-09-16T00:00:00+00:00",
+        "titulo": "Dario Vitale: “Un brand non deve dare risposte ma provocare domande”",
+        "enlace": "https://d.repubblica.it/fashion/moda/2025/12/05/news/dario_vitale_intervista_prima_di_lasciare_versace-425023337/",
+        "desc": "In seguito alla notizia della nomina di Dario Vitale a direttore creativo di Emporio Armani, riproponiamo l’intervista al designer pubblicata a dicembre 2025",
+        "fecha": "2026-09-16T10:10:00+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "La Camera Usa respinge il tentativo di impeachment contro Trump",
-        "enlace": "https://www.repubblica.it/esteri/2026/09/16/news/la_camera_usa_respinge_il_tentativo_di_impeachment_di_trump-425587645/",
-        "desc": "Diciotto democratici hanno votato insieme ai repubblicani",
-        "fecha": "2026-09-15T23:59:05+00:00",
+        "titulo": "Chi è Dario Vitale, il nuovo direttore creativo di Emporio Armani",
+        "enlace": "https://d.repubblica.it/fashion/moda/2026/09/16/news/chi_e_dario_vitale_designer_emporio_armani-425588387/",
+        "desc": "Cresciuto negli uffici stile di Miu Miu, lavorando fianco a fianco con Miuccia Prada per 15 anni, ha esordito come direttore creativo per Versace nel 2025. Ora sarà il primo design…",
+        "fecha": "2026-09-16T10:09:51+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-        "enlace": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-        "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-        "fecha": "2026-09-16T00:59:20+00:00",
+        "titulo": "Petrol and diesel price rises push UK inflation higher",
+        "enlace": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+        "fecha": "2026-09-16T10:33:42+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "‘I thought I would lose my career’: Orville Peck on addiction and creating his best album yet",
+        "enlace": "https://www.theguardian.com/music/2026/sep/16/orville-peck-interview-new-album-mule",
+        "desc": "Though the masked country singer has a No 1 album and duets with superstars under his belt, his demons and mental health caught up to him Orville Peck was in the middle of a soundc…",
+        "fecha": "2026-09-16T09:00:16+00:00",
+        "fuente": "The Guardian"
+      },
+      {
+        "titulo": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
+        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+        "fecha": "2026-09-16T09:36:54+00:00",
         "fuente": "BBC"
       },
       {
@@ -239,53 +253,53 @@
         "desc": "She was born with an ultra-rare genetic disorder. After my decades working in film PR, I now face the biggest campaign of all: the fight for her life My daughter Elsie has beautifu…",
         "fecha": "2026-09-16T04:00:12+00:00",
         "fuente": "The Guardian"
-      },
-      {
-        "titulo": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "fecha": "2026-09-16T01:29:20+00:00",
-        "fuente": "BBC"
-      },
-      {
-        "titulo": "To understand the threat to our real democracy, watch Putin's fake one | Rafael Behr",
-        "enlace": "https://www.theguardian.com/commentisfree/2026/sep/16/threat-britain-fake-democracy-russia-vladimir-putin",
-        "desc": "As Russians vote this weekend, remember that Britain is not immune to the cynical tactics and corrosion of trust that keep him in power Millions of people will participate in elect…",
-        "fecha": "2026-09-16T04:00:11+00:00",
-        "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Além de Santos Pereira, quatro administradores do Banco de Portugal tiveram crédito com juro baixo",
-        "enlace": "https://www.publico.pt/2026/09/16/economia/noticia/alem-santos-pereira-quatro-administradores-banco-portugal-credito-juro-baixo-2188101",
-        "desc": "Governador teve direito a crédito automóvel de 29 mil euros a taxas reduzidas. Banco de Portugal defende a concessão, dizendo que é prática antiga e que há 230 novos créditos idênt…",
-        "fecha": "2026-09-16T05:08:00+00:00",
+        "titulo": "Hashim Thaçi, ex-Presidente do Kosovo, condenado a 25 anos de prisão por crimes de guerra",
+        "enlace": "https://www.publico.pt/2026/09/16/mundo/noticia/hashim-thaci-expresidente-kosovo-condenado-25-anos-prisao-crimes-guerra-2188220",
+        "desc": "Thaçi dirigiu o Exército de Libertação do Kosovo durante a guerra contra a Jugoslávia em 1998 e 1999. Em Haia, local do julgamento, e em Pristina, milhares de apoiantes protestaram…",
+        "fecha": "2026-09-16T10:27:02+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Ilha de Qeshm. Irão diz ter abatido drone norte-americano",
-        "enlace": "https://observador.pt/liveblogs/irao-diz-ter-abatido-drone-norte-americano-sobre-a-ilha-de-qeshm-durante-a-madrugada/",
-        "desc": "A Guarda Revolucionária do Irão afirmou ter intercetado e abatido um drone norte-americano MQ-9 no espaço aéreo iraniano. Apenas quatro navios atravessaram o Estreito de Ormuz esta…",
-        "fecha": "2026-09-16T06:39:37+01:00",
+        "titulo": "Ex-presidente do Kosovo condenado a 25 anos de prisão",
+        "enlace": "https://observador.pt/2026/09/16/ex-presidente-do-kosovo-condenado-a-25-anos-de-prisao-por-crimes-de-guerra/",
+        "desc": "Um tribunal especial para o Kosovo, sediado em Haia, condenou o antigo Presidente Hashim Thaçi a 25 anos de prisão por crimes de guerra cometidos pela guerrilha kosovar na década d…",
+        "fecha": "2026-09-16T12:01:46+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Identidade de género: pedidos de mudança de sexo no registo civil disparam com revisão da lei",
-        "enlace": "https://www.publico.pt/2026/09/16/politica/noticia/identidade-genero-pedidos-mudanca-sexo-registo-civil-disparam-revisao-lei-2188170",
-        "desc": "Em Março e Abril, foram registadas 205 mudanças de sexo no registo civil, contra 71 nos mesmos meses de 2025. Entre menores de 18 anos, houve uma quebra de 9,7% no primeiro semestr…",
-        "fecha": "2026-09-16T05:01:03+00:00",
+        "titulo": "Bruxelas quer criar consórcio de seguros contra fenómenos climáticos extremos",
+        "enlace": "https://www.publico.pt/2026/09/16/azul/noticia/bruxelas-quer-criar-consorcio-seguros-fenomenos-climaticos-extremos-2188205",
+        "desc": "A Europa é o continente que aquece mais depressa, mas os seguros cobrem apenas um quarto das perdas relacionadas com o clima. Comissão Europeia propõe uma aliança de seguros climát…",
+        "fecha": "2026-09-16T10:26:59+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Benfica em Milão para fazer o que ainda não foi feito",
-        "enlace": "https://observador.pt/programas/vamos-a-bola/benfica-em-milao-para-fazer-o-que-ainda-nao-foi-feito/",
-        "desc": "As águias procuram a primeira vitória de sempre contra os Rossoneri, que venceram sempre em casa e já foram carrasco em duas finais europeias. Ainda, Ba lesionado só volta a ser op…",
-        "fecha": "2026-09-16T06:34:32+01:00",
+        "titulo": "BE quer mais meios para garantir declarações de património",
+        "enlace": "https://observador.pt/2026/09/16/be-quer-mais-meios-e-sancoes-para-garantir-declaracoes-de-patrimonio-de-politicos/",
+        "desc": "O Bloco de Esquerda defende o reforço dos meios da Entidade para a Transparência e sanções quando há incumprimento das obrigações de declaração de rendimentos de titulares de cargo…",
+        "fecha": "2026-09-16T11:51:46+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
+      {
+        "titulo": "Cleitinho é carregado nos ombros em evento por deputado investigado por fraude no INSS",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/cleitinho-e-carregado-nos-ombros-em-evento-por-deputado-investigado-por-fraude-no-inss.shtml",
+        "desc": "Candidato ao governo de Minas Gerais, o senador Cleitinho Azevedo (Republicanos-MG) cumpriu agenda com o deputado Euclydes Pettersen (Republicanos-MG), indiciado pela Polícia Feder…",
+        "fecha": "2026-09-16T06:00:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Carro capota após batida na Avenida Independência e acidente causa lentidão no trânsito em Piracicaba",
+        "enlace": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/16/carro-capota-apos-batida-na-avenida-independencia-e-acidente-causa-lentidao-no-transito-em-piracicaba.ghtml",
+        "desc": "Carro capota na Avenida Independência em Piracicaba Edijan Del Santo/EPTV Um carro capotou após se envolver em acidente com outro veículo na Avenida Independência na região do Bair…",
+        "fecha": "2026-09-16T11:10:25",
+        "fuente": "G1 Globo"
+      },
       {
         "titulo": "Doações individuais na eleição têm 'Rei do Gás' à frente e repasses voltados a direita e centro",
         "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/doacoes-individuais-na-eleicao-tem-rei-do-gas-a-frente-e-repasses-voltados-a-direita-e-centro.shtml",
@@ -294,63 +308,49 @@
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?",
-        "enlace": "https://g1.globo.com/tecnologia/noticia/2026/09/16/por-que-ha-o-temor-sobre-ia-acabar-com-a-humanidade-e-existe-mesmo-o-risco.ghtml",
-        "desc": "Cresce a pressão por regras para a IA, à medida que pesquisadores e executivos fazem alertas preocupantes sobre os possíveis riscos da tecnologia. Getty Images via BBC Os alertas s…",
-        "fecha": "2026-09-16T05:00:00",
-        "fuente": "G1 Globo"
-      },
-      {
-        "titulo": "Crise no STF deve inviabilizar proposta de Fachin para código de conduta",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/crise-no-stf-deve-inviabilizar-proposta-de-fachin-para-codigo-de-conduta.shtml",
-        "desc": "Ministros do STF (Supremo Tribunal Federal) e observadores da corte avaliam que a proposta do ministro Edson Fachin de criar um código de conduta para integrantes da corte ficou de…",
-        "fecha": "2026-09-15T23:00:00-03:00",
-        "fuente": "Folha SP"
-      },
-      {
-        "titulo": "VÍDEO: Jacaré de 2,5 metros invade jardim de casa e avança contra policiais nos EUA",
-        "enlace": "https://g1.globo.com/mundo/noticia/2026/09/16/video-jacare-de-25-metros-invade-jardim-de-casa-e-avanca-contra-policiais-nos-eua.ghtml",
-        "desc": "Jacaré de 2,50m é encontrado em jardim de casa nos EUA Um jacaré de 2,5 metros avançou contra policiais que tentavam retirá-lo do quintal de uma casa na Flórida, nos Estados Unidos…",
-        "fecha": "2026-09-16T05:00:00",
+        "titulo": "Adolescente é morto a tiros dentro de escola em Bayeux, PB",
+        "enlace": "https://g1.globo.com/pb/paraiba/noticia/2026/09/16/adolescente-e-morto-a-tiros-dentro-de-escola-em-bayeux-pb.ghtml",
+        "desc": "Adolescente é morto a tiros dentro de escola em Bayeux, PB Foto: Reprodução/Guarda Municipal Um adolescente de 17 anos foi morto a tiros na manhã desta quarta-feira (16), dentro de…",
+        "fecha": "2026-09-16T11:10:17",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Japan’s pork and egg prices surge as inflation continues to bite",
-        "enlace": "https://www.japantimes.co.jp/business/2026/09/16/japan-pork-egg-prices/",
-        "desc": "The average retail price of pork loin this month came to ¥293 per 100 grams, hitting the highest level since the survey began in August 2003.",
-        "fecha": "2026-09-16T14:23:00+09:00",
+        "titulo": "AI can supercharge Putin’s goals, not his great-power ambitions",
+        "enlace": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/ai-putin-goals-ambitions/",
+        "desc": "For now, though, Russia's AI capabilities are likely sufficient for the state's needs.",
+        "fecha": "2026-09-16T17:59:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "X Games League to hold first winter draft, with Eileen Gu expected to be top pick",
-        "enlace": "https://www.japantimes.co.jp/sports/2026/09/16/more-sports/x-games-league-winter-draft/",
-        "desc": "Gu is the most decorated freestyle skier in Olympic history with three golds and three silvers.",
-        "fecha": "2026-09-16T13:17:00+09:00",
+        "titulo": "Drop in Chinese visitors drives decline in Japan’s inbound tourism in August",
+        "enlace": "https://www.japantimes.co.jp/news/2026/09/16/japan/august-foreign-visitors/",
+        "desc": "Japan received 3.1 million foreign visitors in August, down 9.6% from last year, according to estimates from the Japan National Tourism Organization.",
+        "fecha": "2026-09-16T17:55:00+09:00",
         "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
       {
-        "titulo": "Mínimos brotes rebeldes en Rusia a un paso de las elecciones",
-        "enlace": "https://www.abc.es/internacional/minimos-brotes-rebeldes-rusia-paso-elecciones-20260915014024-nt.html",
-        "desc": "El poder ruso tiene diferentes mantras que no aceptan discusión. Los más señalados son la necesidad de la invasión de Ucrania y la posibilidad de alcanzar la paz solo cuando todos …",
-        "fecha": "2026-09-16T01:40:24+02:00",
+        "titulo": "Condenado a 25 años de cárcel el expresidente de Kosovo Hashim Thaci por crímenes de guerra",
+        "enlace": "https://www.abc.es/internacional/condenado-anos-carcel-expresidente-kosovo-hashim-thaci-20260916124052-nt.html",
+        "desc": "El Tribunal Especial para Kosovo (TEK) ha condenado este miércoles a 25 años de cárcel al expresidente de Kosovo Hashim Thaci tras declararle culpable de crímenes de guerra, inclui…",
+        "fecha": "2026-09-16T12:40:52+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "La ofensiva relámpago con la que los hutíes se apoderaron de un corredor petrolero crucial",
-        "enlace": "https://www.elmundo.es/internacional/2026/09/16/6aa94556e4d4d89f588b4588.html",
-        "desc": "Los militantes yemeníes se habían mantenido al margen de la guerra de Irán, hasta que el grupo vio una oportunidad&nbsp; Leer",
-        "fecha": "2026-09-16T00:05:12+02:00",
+        "titulo": "El ex líder kosovar Hashim Thaçi, condenado en La Haya a 25 años de cárcel por crímenes de guerra",
+        "enlace": "https://www.elmundo.es/internacional/2026/09/16/6aaa3e92fdddff9f6d8b4585.html",
+        "desc": "El panel de jueces internacionales declara que es culpable del asesinato a manos de fuerzas del ELK durante la guerra de 96 opositores políticos y personas a las que consideraban c…",
+        "fecha": "2026-09-16T12:56:31+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Un helicóptero se estrella en Los Ángeles (EEUU) y deja tres muertos",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-09-16/accidente-helicoptero-los-angeles-1tps_4424601/",
-        "desc": "Aunque no ha trascendido información oficial sobre las actividades del helicóptero ni la causa del accidente, medios locales reportan que era una aeronave de prensa",
-        "fecha": "2026-09-16T05:48:15.103765+00:00",
+        "titulo": "Von der Leyen ofrece a Canadá estatus de \"miembro asociado\" de la UE, que tiene que \"repensar sus alianzas\"",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-09-16/von-der-leyen-ofrece-a-canada-estatus-de-miembro-asociado-de-la-ue_4424760/",
+        "desc": "La presidenta de la Comisión Europea propone un Consejo de Seguridad de la UE y pide que el continente se adapte a un “mundo abiertamente hostil” que avanza a una “increíble veloci…",
+        "fecha": "2026-09-16T11:11:33.045312+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -361,89 +361,89 @@
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Un helicóptero se estrella contra un aparcamiento en Los Ángeles: 3 muertos",
-        "enlace": "https://es.euronews.com/2026/09/16/un-helicoptero-se-estrella-contra-un-aparcamiento-en-los-angeles-3-muertos",
-        "desc": "Un helicóptero se estrelló contra un aparcamiento en Los Ángeles y causó la muerte de al menos tres personas. Una cuarta persona fue trasladada al hospital. El siniestro se produjo…",
-        "fecha": "2026-09-16T07:24:51+02:00",
+        "titulo": "La UE ofrece a Canadá convertirse en su primer miembro asociado",
+        "enlace": "https://es.euronews.com/my-europe/2026/09/16/la-ue-ofrece-a-canada-convertirse-en-su-primer-miembro-asociado",
+        "desc": "El estatus anunciado por Von der Leyen durante su discurso sobre el Estado de la Unión es completamente nuevo y sus detalles aún están por concretar. La presidenta de la Comisión E…",
+        "fecha": "2026-09-16T12:57:58+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "fecha": "2026-09-16T01:29:20+00:00",
+        "titulo": "EU chief backs plan for Canada to become 'associate member'",
+        "enlace": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "fecha": "2026-09-16T10:59:53+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
-        "enlace": "https://www.foxnews.com/world/irans-drone-hunt-escalates-tehran-targets-us-spy-tech-expose-battlefield-secrets",
-        "desc": "Drone experts warn Iran is launching coordinated capture missions targeting U.S. unmanned surface vessels in the Strait of Hormuz for intel.",
-        "fecha": "2026-09-15T20:56:10-04:00",
+        "titulo": "Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business",
+        "enlace": "https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business",
+        "desc": "Critics say Norway&apos;s proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist.",
+        "fecha": "2026-09-16T06:00:19-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Los musulmanes drusos de Siria quieren ser israelíes",
-        "enlace": "https://www.abc.es/internacional/musulmanes-drusos-siria-quieren-israelies-20260915014015-nt.html",
-        "desc": "Desde la famosa 'Guerra de los Seis Días', en la que Israel conquistó en 1967 toda Jerusalén y los estratégicos Altos del Golán, que pertenecían a Siria, este último territorio ha …",
-        "fecha": "2026-09-16T01:40:15+02:00",
+        "titulo": "Von der Leyen ofrece a Canadá que sea el primer Estado asociado de la UE",
+        "enlace": "https://www.abc.es/internacional/von-der-leyen-ofrece-canada-primer-estado-20260916100735-nt.html",
+        "desc": "La presidenta de la Comisión Europea, Ursula von der Leyen, ha propuesto abrir la puerta a que Canadá se convierta en «el primer miembro asociado» de la Unión Europea, como parte d…",
+        "fecha": "2026-09-16T10:07:35+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "El castrismo salva el verano con récords históricos de impopularidad en Cuba",
-        "enlace": "https://www.elmundo.es/internacional/2026/09/16/6aa975b621efa0df418b45c1.html",
-        "desc": "Con un 95% de desaprobación gubernamental y récord de presos políticos, el régimen resiste impulsado por la represión policial y el fracaso de las negociaciones con Washington&nbsp…",
-        "fecha": "2026-09-16T00:05:13+02:00",
+        "titulo": "La ofensiva relámpago con la que los hutíes se apoderaron de un corredor petrolero crucial",
+        "enlace": "https://www.elmundo.es/internacional/2026/09/16/6aa94556e4d4d89f588b4588.html",
+        "desc": "Los militantes yemeníes se habían mantenido al margen de la guerra de Irán, hasta que el grupo vio una oportunidad&nbsp; Leer",
+        "fecha": "2026-09-16T00:05:12+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Para explicar China hay que ser mitad detective, mitad granjero: \"Xi ve Occidente como pobre de espíritu y Pekín tiene una misión\"",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-09-16/entrevista-joseph-torigian-china_4424190/",
-        "desc": "El analista explica las ambiciones, dinámicas y razonamientos de la élite china en mitad de la guerra arancelaria y tecnológica entre Washington y Pekín y con vistas al cara cara e…",
-        "fecha": "2026-09-16T05:48:15.103797+00:00",
+        "titulo": "EEUU procesa a 5 presuntos terroristas pagados por Rusia que planeaban atentar en Europa",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-09-16/eeuu-acusa-a-cinco-rusa-de-planear-asesinatos-y-atentados-en-europa_4424732/",
+        "desc": "Según la investigación del Departamento de Justicia, la red rusa se especializaba en coordinar asesinatos por encargo y atentados. Sus objetivos incluían a disidentes y desertores …",
+        "fecha": "2026-09-16T11:11:33.045355+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "fecha": "2026-09-16T01:29:20+00:00",
+        "titulo": "EU chief backs plan for Canada to become 'associate member'",
+        "enlace": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "fecha": "2026-09-16T10:59:53+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
-        "enlace": "https://www.foxnews.com/world/irans-drone-hunt-escalates-tehran-targets-us-spy-tech-expose-battlefield-secrets",
-        "desc": "Drone experts warn Iran is launching coordinated capture missions targeting U.S. unmanned surface vessels in the Strait of Hormuz for intel.",
-        "fecha": "2026-09-15T20:56:10-04:00",
+        "titulo": "Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business",
+        "enlace": "https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business",
+        "desc": "Critics say Norway&apos;s proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist.",
+        "fecha": "2026-09-16T06:00:19-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Football: Kylian Mbappé and Real Madrid defeat Elche despite late scare",
-        "enlace": "http://www.france24.com/en/tv-shows/sports/20260916-football-kylian-mbapp%C3%A9-and-real-madrid-defeat-elche-despite-late-scare",
-        "desc": "Real Madrid narrowly defeated Elche (3-2) in Matchday 6 of La Liga. Kylian Mbappé scored a goal and provided an assist.",
-        "fecha": "2026-09-16T05:28:50+00:00",
+        "titulo": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+        "enlace": "http://www.france24.com/en/video/20260916-ed-sheeran-s-tour-in-trouble-after-opening-acts-drop-out-in-solidarity-with-rapper-macklemore",
+        "desc": "Ed Sheeran’s tour of North and South America was plunged into chaos Tuesday when four of his supporting acts abruptly quit in solidarity with the rapper Macklemore, who was dropped…",
+        "fecha": "2026-09-16T10:46:58+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Veteran TV helicopter pilot offers grim assessment of deadly NBC LA crash after reviewing audio",
-        "enlace": "https://nypost.com/2026/09/16/us-news/zoey-tur-weighs-in-on-deadly-chatsworth-helicopter-crash-says-engine-failed/",
-        "desc": "Tur, who made history covering breaking news from the skies over Los Angeles, said audio from the crash appeared to capture signs.",
-        "fecha": "2026-09-15T22:37:19-07:00",
+        "titulo": "Charlie Kirk’s family takes first steps to filing lawsuit blaming lax security for leaving him ‘helpless’ to assassination",
+        "enlace": "https://nypost.com/2026/09/16/us-news/charlie-kirks-family-takes-first-steps-to-filing-lawsuit-blaming-lax-security-for-leaving-him-helpless-to-assassination/",
+        "desc": "Kirk was debating students from a tent in a campus courtyard when a shooter perched on a rooftop nearby fired a single shot, striking him in the throat.",
+        "fecha": "2026-09-16T07:07:42-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-        "enlace": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-        "desc": "The Saudi-led coalition said its air defenses had destroyed a Houthi-deployed drone just outside the holy city of Mecca — a claim Houthis were quick to deny.",
-        "fecha": "2026-09-16T05:48:20.644205+00:00",
+        "titulo": "Duterte makes first appearance before ICC judges",
+        "enlace": "https://www.dw.com/en/duterte-makes-first-appearance-before-icc-judges/a-79288207?maca=en-rss-en-all-1573-rdf",
+        "desc": "Former Philippine President Rodrigo Duterte appeared in person at the ICC as judges considered claims of memory impairment and poor health. The 81-year-old is accused of crimes aga…",
+        "fecha": "2026-09-16T11:11:39.393194+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Latest news bulletin | September 16th, 2026 – Morning",
-        "enlace": "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-morning",
+        "titulo": "Latest news bulletin | September 16th, 2026 – Midday",
+        "enlace": "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-midday",
         "desc": "Catch up with the most important stories from around Europe and beyond this September 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Tr…",
-        "fecha": "2026-09-16T07:00:33+02:00",
+        "fecha": "2026-09-16T12:00:16+02:00",
         "fuente": "Euronews EN"
       },
       {
@@ -454,24 +454,24 @@
         "fuente": "OAN"
       },
       {
-        "titulo": "Denmark says Russian warship fired flares at military helicopter",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-        "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-        "fecha": "2026-09-15T11:40:00+00:00",
+        "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "enlace": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "fecha": "2026-09-16T10:02:05+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Iran's regime came for teenage twins. Their fate offers a glimpse of Tehran's widening death campaign",
-        "enlace": "https://www.foxnews.com/world/irans-regime-came-teenage-twins-fate-offers-glimpse-tehrans-widening-death-campaign",
-        "desc": "Iranian twins Taraneh and Romina Rahimi face execution and decades in prison after joining protests, as Iran&apos;s death penalty surge draws global alarm.",
-        "fecha": "2026-09-15T11:17:18-04:00",
+        "titulo": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
+        "enlace": "https://www.foxnews.com/world/irans-drone-hunt-escalates-tehran-targets-us-spy-tech-expose-battlefield-secrets",
+        "desc": "Drone experts warn Iran is launching coordinated capture missions targeting U.S. unmanned surface vessels in the Strait of Hormuz for intel.",
+        "fecha": "2026-09-15T20:56:10-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Live: EU chief Ursula von der Leyen gives State of the Union address",
-        "enlace": "http://www.france24.com/en/europe/20260916-live-eu-chief-ursula-von-der-leyen-gives-state-of-the-union-address",
-        "desc": "EU chief Ursula von der Leyen is set to deliver the annual State of the Union address before the European Parliament in Strasbourg on Wednesday, at a time when the European Union i…",
-        "fecha": "2026-09-16T05:20:56+00:00",
+        "titulo": "Middle East: Iran war exposes limits of US power",
+        "enlace": "http://www.france24.com/en/video/20260916-middle-east-iran-war-exposes-limits-of-us-power",
+        "desc": "Saudi Arabia’s crown prince sought backing Tuesday from the president of Egypt, his ally across the Red Sea, as the kingdom faces increased attacks by Yemen’s Houthi rebels on Saud…",
+        "fecha": "2026-09-16T10:42:46+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,31 +484,31 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Glucksmann, Royal, Faure : ce qu’il faut savoir sur la primaire de la gauche sociale-démocrate",
-        "enlace": "http://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
-        "desc": "Six candidats, dont Raphaël Glucksmann, Ségolène Royal et Olivier Faure, participeront à la primaire de la gauche socialiste et démocratique les 9-10 octobre et les 16-17 octobre p…",
-        "fecha": "2026-09-16T05:23:04+00:00",
+        "titulo": "Ed Sheeran : le départ en cascade de plusieurs de ses artistes",
+        "enlace": "http://www.france24.com/fr/vid%C3%A9o/20260916-ed-sheeran-le-d%C3%A9part-en-cascade-de-plusieurs-de-ses-artistes",
+        "desc": "Le chanteur britannique Ed Sheeran a été confronté, mardi 15 septembre, au départ en cascade de plusieurs artistes participant à sa tournée. Les membres de l'équipe justifient ce d…",
+        "fecha": "2026-09-16T10:53:15+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Afrique du Sud: Washington annonce des restrictions de visa, évoquant des «discriminations raciales»",
-        "enlace": "http://www.rfi.fr/fr/am%C3%A9riques/20260916-afrique-du-sud-washington-annonce-des-restrictions-de-visa-%C3%A9voquant-des-discriminations-raciales",
-        "desc": "L'administration du président Donald Trump a annoncé mardi 15 septembre la mise en place de restrictions de visa à l'encontre de Sud-Africains responsables, selon Washington, de me…",
-        "fecha": "2026-09-16T04:28:59+00:00",
+        "titulo": "Iran: ces hommes activistes du mouvement «Femme, vie, liberté»",
+        "enlace": "http://www.rfi.fr/fr/moyen-orient/20260916-iran-ces-hommes-activistes-du-mouvement-femme-vie-libert%C3%A9",
+        "desc": "Quatre ans après la mort de Mahsa Amini, jeune kurde de 22 ans tuée par la police des mœurs pour un voile mal porté, des hommes iraniens se souviennent des protestations qui ont do…",
+        "fecha": "2026-09-16T05:42:28+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "Un hélicoptère de la télévision locale s'écrase à Los Angeles : au moins trois morts",
-        "enlace": "https://fr.euronews.com/2026/09/16/un-helicoptere-de-la-television-locale-secrase-a-los-angeles-trois-morts",
-        "desc": "Los Angeles, deuxième ville des États-Unis, est un marché médiatique très concurrentiel et dense, où les chaînes de télévision se livrent une forte concurrence pour couvrir l’actua…",
-        "fecha": "2026-09-16T07:23:47+02:00",
+        "titulo": "L'ancien président du Kosovo Thaçi reconnu coupable de crimes de guerre à La Haye",
+        "enlace": "https://fr.euronews.com/2026/09/16/lancien-president-du-kosovo-thaci-reconnu-coupable-de-crimes-de-guerre-a-la-haye",
+        "desc": "Hashim Thaçi, ancien Premier ministre et président du Kosovo, a été reconnu coupable de meurtre, torture, traitements cruels et détention arbitraire. La France prend note de leur d…",
+        "fecha": "2026-09-16T12:54:41+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "fecha": "2026-09-16T01:29:20+00:00",
+        "titulo": "EU chief backs plan for Canada to become 'associate member'",
+        "enlace": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "fecha": "2026-09-16T10:59:53+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -519,177 +519,177 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "En direct : Ursula von der Leyen prononce son discours sur l'état de l'Union européenne",
-        "enlace": "http://www.france24.com/fr/europe/20260916-en-direct-ursula-von-der-leyen-prononce-son-discours-sur-l-%C3%A9tat-de-l-union-europ%C3%A9enne",
-        "desc": "La présidente de la Commission européenne Ursula von der Leyen prononce mercredi le discours annuel sur l’état de l’UE devant le Parlement de Strasbourg. Un exercice périlleux au m…",
-        "fecha": "2026-09-16T05:19:32+00:00",
+        "titulo": "L'intelligence artificelle pourrait-elle détruire l'humanité ?",
+        "enlace": "http://www.france24.com/fr/vid%C3%A9o/20260916-l-intelligence-artificelle-pourrait-elle-d%C3%A9truire-l-humanit%C3%A9",
+        "desc": "Le haut-commissaire de l'ONUen droit de l'homme à appelé hier à une action urgente pour encadrer l'intelligence artificielle face aux \"risques sans précédent causés par les système…",
+        "fecha": "2026-09-16T10:47:15+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "États-Unis: la justice refuse que le nom de Donald Trump soit apposé sur le Kennedy Center",
-        "enlace": "http://www.rfi.fr/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-la-justice-refuse-que-le-nom-de-donald-trump-soit-appos%C3%A9-sur-le-kennedy-center",
-        "desc": "Un juge américain a statué mardi 15 septembre que le nom de Donald Trump ne pouvait pas être réaffiché sur le Kennedy Center, haut lieu culturel de la capitale américaine, sans con…",
-        "fecha": "2026-09-15T22:10:24+00:00",
+        "titulo": "Kosovo: l'ex-président Hashim Thaçi condamné à 25 ans de prison pour crimes de guerre par la justice internationale",
+        "enlace": "http://www.rfi.fr/fr/europe/20260916-kosovo-l-ex-pr%C3%A9sident-hashim-tha%C3%A7i-condamn%C3%A9-%C3%A0-25-ans-de-prison-pour-crimes-de-guerre-par-la-justice-internationale",
+        "desc": "Un tribunal spécial pour le Kosovo établi à La Haye a condamné mercredi l'ex-président du Kosovo, Hashim Thaçi, à 25 ans de prison pour des crimes de guerre commis par la guérilla …",
+        "fecha": "2026-09-16T09:42:49+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 16 septembre 2026 - Matin",
-        "enlace": "https://fr.euronews.com/video/2026/09/16/linfo-du-jour-16-septembre-2026-matin",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le d…",
-        "fecha": "2026-09-16T07:00:07+02:00",
+        "titulo": "Le Canada invité à devenir le premier \"membre associé\" de l'UE",
+        "enlace": "https://fr.euronews.com/2026/09/16/le-canada-invite-a-devenir-le-premier-membre-associe-de-lue",
+        "desc": "Le statut annoncé par Ursula von der Leyen lors de son discours sur l'état de l'Union est totalement inédit et ses modalités restent encore à préciser.",
+        "fecha": "2026-09-16T12:02:38+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Denmark says Russian warship fired flares at military helicopter",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-        "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-        "fecha": "2026-09-15T11:40:00+00:00",
+        "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "enlace": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "fecha": "2026-09-16T10:02:05+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Spritpreise: Experten warnen – doch der Druck auf Merz wächst",
-        "enlace": "https://www.spiegel.de/wirtschaft/spritpreise-experten-warnen-doch-der-druck-auf-merz-waechst-a-c5c151ba-df63-4535-85b2-abb55d15f899#ref=rss",
-        "desc": "Mit seiner Ankündigung, gegen die hohe Belastung durch teuren Sprit vorzugehen, hat Bundeskanzler Merz eine heftige Diskussion ausgelöst. Experten warnen – doch der Chor der Befürw…",
-        "fecha": "2026-09-16T07:34:00+02:00",
+        "titulo": "Sudan: Mindestens 60 Tote bei Einsturz von Goldmine",
+        "enlace": "https://www.spiegel.de/panorama/sudan-mindestens-60-tote-bei-einsturz-von-goldmine-a-ec3b7f4f-9eda-4738-8f66-49dfd8010d90#ref=rss",
+        "desc": "Dutzende Menschen sind auf der Suche nach Gold im Sudan verschüttet worden, viele werden noch vermisst. Offenbar Es fehlt es an schwerem Gerät, um Erde und Gestein aus dem Weg zu r…",
+        "fecha": "2026-09-16T13:02:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "\"Organisierte Kriminalität ist weiter auf dem Vormarsch\"",
-        "enlace": "https://www.dw.com/de/organisierte-kriminalität-ist-weiter-auf-dem-vormarsch/a-79269184?maca=de-rss-de-all-1119-rdf",
-        "desc": "Das Bundeskriminalamt präsentiert die Bilanz für das Jahr 2025. Innenminister Dobrindt spricht von einer \"Kokain-Flut\". Die Zahl der Drogen-Toten ist gestiegen.",
-        "fecha": "2026-09-16T05:48:24.565557+00:00",
+        "titulo": "Ebola-Epidemie im Kongo: Die Suche nach den Anfängen",
+        "enlace": "https://www.dw.com/de/ebola-epidemie-im-kongo-die-suche-nach-den-anfängen/a-79277232?maca=de-rss-de-all-1119-rdf",
+        "desc": "Seit Mai kämpfen Gesundheitskräfte gegen die Epidemie, die bislang mehr als 3.000 Menschen das Leben gekostet hat. Verschiedene Rekonstruktionen deuten jedoch darauf hin, dass das …",
+        "fecha": "2026-09-16T11:11:44.164085+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 16. September 2026 - Morgenausgabe",
-        "enlace": "https://de.euronews.com/video/2026/09/16/nachrichten-des-tages-16-september-2026-morgenausgabe",
-        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 16. September 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-09-16T07:00:18+02:00",
+        "titulo": "Kanada soll \"assoziiertes Mitglied\" der EU werden: Tech- und Rohstoffpakt geplant",
+        "enlace": "https://de.euronews.com/2026/09/16/kanada-assoziiertes-mitglied-eu-tech-rohstoffpakt",
+        "desc": "Der von von der Leyen in der Rede zur Lage der Union verkündete Status ist völlig neu; Details stehen noch aus. Sie schlägt zudem ein neues Bündnis mit Ottawa zu Technologie, kriti…",
+        "fecha": "2026-09-16T12:08:16+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "fecha": "2026-09-16T01:29:20+00:00",
+        "titulo": "EU chief backs plan for Canada to become 'associate member'",
+        "enlace": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "fecha": "2026-09-16T10:59:53+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Südamerika bleibt gefährlichste Region für Umweltschützer",
-        "enlace": "https://www.spiegel.de/ausland/suedamerika-bleibt-gefaehrlichste-region-fuer-umweltschuetzer-a-241cae9b-0b9b-4ca0-854c-514ebc9b5192#ref=rss",
-        "desc": "Dort, wo Wälder gerodet und Böden ausgebeutet werden, ist Widerstand lebensgefährlich. Ein Bericht zählt erneut Dutzende Morde an Kleinbauern, Indigenen und Umweltaktivisten. Beson…",
-        "fecha": "2026-09-16T07:18:00+02:00",
+        "titulo": "Fürstenwalde/Spree: Polizei beschlagnahmt Anti-Höcke-Plakat der Linken",
+        "enlace": "https://www.spiegel.de/politik/fuerstenwalde-spree-polizei-beschlagnahmt-anti-hoecke-plakat-der-linken-a-f1e8be13-00a7-430b-85eb-d91342ea40a3#ref=rss",
+        "desc": "Nach einem Zeugenhinweis entfernt die Polizei einen Aushang der Linken in Brandenburg. Die Partei wertet das als Einschüchterungsversuch. Die Staatsanwaltschaft muss klären: War da…",
+        "fecha": "2026-09-16T12:58:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Ukraine-Krieg: Gesprächsbereitschaft in Moskau?",
-        "enlace": "https://www.dw.com/de/ukraine-krieg-gesprächsbereitschaft-in-moskau/a-79278080?maca=de-rss-de-all-1119-rdf",
-        "desc": "US-Unterhändler sehen eine \"neue Bereitschaft\" Russlands zu einem Dialog. Experten rechnen aber nicht mit einer schnellen Lösung im Ukraine-Krieg. Was steckt hinter der derzeitigen…",
-        "fecha": "2026-09-16T05:48:24.565588+00:00",
+        "titulo": "Medien: Israel soll Zehntausende schwere Bomben erhalten",
+        "enlace": "https://www.dw.com/de/medien-israel-soll-zehntausende-schwere-bomben-erhalten/a-79288146?maca=de-rss-de-all-1119-rdf",
+        "desc": "Verkäufer sind demnach die USA. Das Geschäft habe einen Umfang von fast drei Milliarden Dollar, heißt es. Washington hatte erst vor kurzem eine Munitionsknappheit infolge des Iran-…",
+        "fecha": "2026-09-16T11:11:44.164128+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Millionen Bücher verbrannt, Russlands Verlage fordern Staatshilfe",
-        "enlace": "https://de.euronews.com/2026/09/16/millionen-bucher-im-krieg-verbrannt-russlands-verlage-fordern-staatshilfe",
-        "desc": "Bis zu 20 Millionen Bücher sind nach ukrainischen Drohnenangriffen in brennenden Lagerhäusern von Wildberries und Ozon verloren gegangen. Russische Verlage schlagen Alarm und forde…",
-        "fecha": "2026-09-16T07:00:04+02:00",
+        "titulo": "Kosovos Ex-Präsident Thaçi wegen Kriegsverbrechen in Den Haag verurteilt",
+        "enlace": "https://de.euronews.com/2026/09/16/kosovos-ex-prasident-thaci-kriegsverbrechen-haag",
+        "desc": "Das Kosovo-Sondergericht sprach Hashim Thaçi, früher Premier und Präsident, wegen Mordes, Folter und Misshandlung schuldig; in Prishtina verfolgten Zehntausende, die auf Freispruch…",
+        "fecha": "2026-09-16T12:04:51+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Denmark says Russian warship fired flares at military helicopter",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-        "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-        "fecha": "2026-09-15T11:40:00+00:00",
+        "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "enlace": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "fecha": "2026-09-16T10:02:05+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
       {
-        "titulo": "Elicottero della Nbc si schianta a Los Angeles: almeno tre morti",
-        "enlace": "https://www.repubblica.it/esteri/2026/09/16/news/nbc_elicottero_incidente_morti_los_angeles-425587777/?rss",
-        "desc": "L’emittente stava riprendendo un incidente mortale che aveva coinvolto un autobus e un altro mezzo",
-        "fecha": "2026-09-16T07:42:26+02:00",
+        "titulo": "Gaza, crolla un palazzo: almeno 20 i morti tra cui 8 bambini",
+        "enlace": "https://www.repubblica.it/esteri/2026/09/16/news/gaza_crolla_un_palazzo_bambini_tra_le_macerie_striscia-425588255/?rss",
+        "desc": "L’edificio era stato danneggiato dai bombardamenti israeliani ma era rimasto intatto ed era diventato un rifugio per tanti sfollati: “Almeno cento persone tra le macerie, tra cui 5…",
+        "fecha": "2026-09-16T12:09:43+02:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Il Kennedy Center di Washington chiude per lavori dopo lo stop di un giudice al nome di Trump sull'edificio",
-        "enlace": "https://it.euronews.com/2026/09/16/il-kennedy-center-di-washington-chiude-per-lavori-dopo-lo-stop-di-un-giudice-al-nome-di-tr",
-        "desc": "Trump ha dichiarato che i 257 milioni di dollari stanziati per le riparazioni dello storico edificio verranno sbloccati solo se il cambio di nome sarà autorizzato, ma i tribunali f…",
-        "fecha": "2026-09-16T07:34:14+02:00",
+        "titulo": "Sudan, crolla una miniera d'oro: almeno 60 morti, molti dispersi",
+        "enlace": "https://it.euronews.com/2026/09/16/sudan-crolla-una-miniera-doro-almeno-60-morti-molti-dispersi",
+        "desc": "La miniera di Al-Zaraa si trova vicino a El-Nahud, nella regione del West Kordofan in Sudan. Ha iniziato a cedere martedì dopo lo scavo di gallerie troppo ravvicinate",
+        "fecha": "2026-09-16T12:52:33+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "enlace": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-        "desc": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "fecha": "2026-09-16T01:29:20+00:00",
+        "titulo": "EU chief backs plan for Canada to become 'associate member'",
+        "enlace": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "desc": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "fecha": "2026-09-16T10:59:53+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "La Camera Usa respinge il tentativo di impeachment contro Trump",
-        "enlace": "https://www.repubblica.it/esteri/2026/09/16/news/la_camera_usa_respinge_il_tentativo_di_impeachment_di_trump-425587645/?rss",
-        "desc": "Diciotto democratici hanno votato insieme ai repubblicani",
-        "fecha": "2026-09-16T03:26:16+02:00",
+        "titulo": "Von der Leyen: “Il Canada primo membro associato dell’Ue”. Sicurezza, energia e difesa al centro della nuova Europa",
+        "enlace": "https://www.repubblica.it/esteri/2026/09/16/news/von_der_leyen_discorso_stato_unione_ue-425587961/?rss",
+        "desc": "Nel discorso sullo stato dell’Unione, la presidente della Commissione europea annuncia un nuovo asse con Ottawa per rafforzare l’indipendenza e la sicurezza dell’Ue di fronte alle …",
+        "fecha": "2026-09-16T11:38:26+02:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "USA, elicottero della Nbc precipita a Los Angeles durante le riprese di un incidente tra un bus e un SUV",
-        "enlace": "https://it.euronews.com/2026/09/16/elicottero-precipita-in-citta-a-los-angeles-almeno-tre-morti",
-        "desc": "Almeno trei morti. L'incidente è avvenuto nei pressi del luogo in cui un SUV si è scontrato con un autobus, che aveva causato diverse vittime. In corso indagini delle autorità loca…",
-        "fecha": "2026-09-16T07:04:13+02:00",
+        "titulo": "La guerra con l'Iran è costata agli Stati Uniti oltre 38 miliardi di dollari, secondo un rapporto indipendente",
+        "enlace": "https://it.euronews.com/2026/09/16/la-guerra-con-liran-e-costata-agli-stati-uniti-oltre-38-miliardi-di-dollari-secondo-un-rap",
+        "desc": "Il Congressional Budget Office, ente indipendente, segnala che ogni mese si spendono fino a 3 miliardi di dollari in più per la guerra, a seconda dell’intensità dei combattimenti",
+        "fecha": "2026-09-16T12:49:01+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Denmark says Russian warship fired flares at military helicopter",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-        "desc": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-        "fecha": "2026-09-15T11:40:00+00:00",
+        "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "enlace": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "desc": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "fecha": "2026-09-16T10:02:05+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "6h Benfica vai a itália jogar com o AC Milan para a Liga Europa",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/6h-benfica-vai-a-italia-jogar-com-o-ac-milan-para-a-liga-europa_a1_1765724",
-        "desc": "",
-        "fecha": "2026-09-16T07:16:02+01:00",
+        "titulo": "Open de Portugal promovido à primeira divisão do golfe europeu",
+        "enlace": "https://www.rtp.pt/noticias/outras-modalidades/open-de-portugal-promovido-a-primeira-divisao-do-golfe-europeu_d1765792",
+        "desc": "O histórico Open de Portugal vai voltar a integrar o calendário do DP World Tour em 2027, anunciou hoje o principal circuito europeu de golfe, regressando ao Oitavos Dunes Links Go…",
+        "fecha": "2026-09-16T12:56:51+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Ilha de Qeshm. Irão diz ter abatido drone norte-americano",
-        "enlace": "https://observador.pt/liveblogs/irao-diz-ter-abatido-drone-norte-americano-sobre-a-ilha-de-qeshm-durante-a-madrugada/",
-        "desc": "A Guarda Revolucionária do Irão afirmou ter intercetado e abatido um drone norte-americano MQ-9 no espaço aéreo iraniano. Apenas quatro navios atravessaram o Estreito de Ormuz esta…",
-        "fecha": "2026-09-16T06:39:37+01:00",
+        "titulo": "Ex-presidente do Kosovo condenado a 25 anos de prisão",
+        "enlace": "https://observador.pt/2026/09/16/ex-presidente-do-kosovo-condenado-a-25-anos-de-prisao-por-crimes-de-guerra/",
+        "desc": "Um tribunal especial para o Kosovo, sediado em Haia, condenou o antigo Presidente Hashim Thaçi a 25 anos de prisão por crimes de guerra cometidos pela guerrilha kosovar na década d…",
+        "fecha": "2026-09-16T12:01:46+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
-        "enlace": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
-        "desc": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar a…",
-        "fecha": "2026-09-16T02:46:05+00:00",
+        "titulo": "Há 'vencedor' na disputa de alas do STF?",
+        "enlace": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+        "desc": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor…",
+        "fecha": "2026-09-16T08:21:33+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "5h Ministério divulga número de alunos colocados que não tinham escola atribuída",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/5h-ministerio-divulga-numero-de-alunos-colocados-que-nao-tinham-escola-atribuida_a1_1765717",
-        "desc": "",
-        "fecha": "2026-09-16T06:33:02+01:00",
+        "titulo": "Aguiar-Branco rejeita requerimento do Chega para comissão de inquérito a Luís Neves mas aceita o do JPP",
+        "enlace": "https://www.rtp.pt/noticias/politica/aguiar-branco-rejeita-requerimento-do-chega-para-comissao-de-inquerito-a-luis-neves-mas-aceita-o-do-jpp_n1765786",
+        "desc": "O requerimento do deputado do JPP (Juntos Pelo Povo), Filipe Sousa, não tem caráter potestativo, sendo a sua aprovação sujeita a votação em plenário.",
+        "fecha": "2026-09-16T12:38:49+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Benfica em Milão para fazer o que ainda não foi feito",
-        "enlace": "https://observador.pt/programas/vamos-a-bola/benfica-em-milao-para-fazer-o-que-ainda-nao-foi-feito/",
-        "desc": "As águias procuram a primeira vitória de sempre contra os Rossoneri, que venceram sempre em casa e já foram carrasco em duas finais europeias. Ainda, Ba lesionado só volta a ser op…",
-        "fecha": "2026-09-16T06:34:32+01:00",
+        "titulo": "BE quer mais meios para garantir declarações de património",
+        "enlace": "https://observador.pt/2026/09/16/be-quer-mais-meios-e-sancoes-para-garantir-declaracoes-de-patrimonio-de-politicos/",
+        "desc": "O Bloco de Esquerda defende o reforço dos meios da Entidade para a Transparência e sanções quando há incumprimento das obrigações de declaração de rendimentos de titulares de cargo…",
+        "fecha": "2026-09-16T11:51:46+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Cármen Lúcia diz que crise no STF causa 'mal-estar cívico' no país",
-        "enlace": "https://www.bbc.com/portuguese/articles/cqevwn2jkez1o?at_medium=RSS&at_campaign=rss",
-        "desc": "Após sessão marcada por bate-bocas e trocas de acusações entre ministros, Cármen Lúcia disse estar 'consternada' com situação da Corte",
-        "fecha": "2026-09-16T00:19:28+00:00",
+        "titulo": "Os bairros de SP e do Rio na lista de 'mais legais' do mundo de revista britânica",
+        "enlace": "https://www.bbc.com/portuguese/articles/cqe8xew20erzo?at_medium=RSS&at_campaign=rss",
+        "desc": "A lista da Time Out traz uma mistura entre bairros residenciais e centros históricos de diversas cidades do mundo.",
+        "fecha": "2026-09-16T11:07:29+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -705,21 +705,21 @@
         "titulo": "El probable once del Barça ante el Racing",
         "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227617/probable-once-barca-racing.html",
         "desc": "Seis partidos, cinco de LaLiga y uno de Champions League , han bastado para comprobar cómo combina las titularidades Hansi Flick . Una fórmula que le está dando un alto rendimiento…",
-        "fecha": "2026-09-16T07:00:00+02:00",
+        "fecha": "2026-09-16T11:24:02+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Endesa acoge la presentación por primera vez juntos de Liga Femenina Endesa y Liga Endesa",
-        "enlace": "https://www.gigantes.com/liga-femenina/endesa-presentacion-acb-liga-femenina-2026/",
-        "desc": "Toda la información sobre el evento La entrada Endesa acoge la presentación por primera vez juntos de Liga Femenina Endesa y Liga Endesa se publicó primero en Gigantes del Basket .",
-        "fecha": "2026-09-15T19:29:12+00:00",
+        "titulo": "7 jugadores llamados a debutar en el NBA All-Star 2027",
+        "enlace": "https://www.gigantes.com/nba/7-jugadores-llamados-a-debutar-en-el-nba-all-star-2027/",
+        "desc": "¿Qué jugadores podrían debutar en el NBA All-Star en 2027? Hay muchos nombres que parten como favoritos para estrenarse en Phoenix. La entrada 7 jugadores llamados a debutar en el …",
+        "fecha": "2026-09-16T11:01:00+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
-        "desc": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
-        "fecha": "2026-09-15T22:26:50+00:00",
+        "titulo": "Ranking the greatest all-time fantasy football icons",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+        "desc": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+        "fecha": "2026-09-16T10:14:45+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -730,70 +730,70 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Así queda la clasificación de LaLiga tras el sufrido triunfo del Real Madrid en Elche",
-        "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227723/asi-queda-clasificacion-laliga-sufrido-triunfo-real-madrid-elche.html",
-        "desc": "El Real Madrid cumplió con su cometido, aunque sufriendo más de lo previsto, en su visita al Martínez Valero este martes (2-3). El conjunto dirigido por José Mourinho visitó al Elc…",
-        "fecha": "2026-09-15T23:27:29+02:00",
+        "titulo": "Lamine se las verá con Salinas, objetivo del Barça en verano",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227466/lamine-vera-salinas-objetivo-barca-verano.html",
+        "desc": "El Barça se fijó en Jorge Salinas, una de las grandes revelaciones del Racing de Santander, para fortalecer el lateral izquierdo. El club azulgrana llegó, incluso a mantener contac…",
+        "fecha": "2026-09-16T07:00:00+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "El Río Breogán seguirá sin poder contar con Andersson García que jugará en su país hasta que pueda viajar a España",
-        "enlace": "https://www.gigantes.com/liga-endesa/andersson-garcia-rio-breogan-problemas-fichaje/",
-        "desc": "El dominicano jugará en su país hasta que pueda viajar a España La entrada El Río Breogán seguirá sin poder contar con Andersson García que jugará en su país hasta que pueda viajar…",
-        "fecha": "2026-09-15T17:32:33+00:00",
+        "titulo": "Guerschon Yabusele explica los motivos de su fichaje por el Panathinaikos",
+        "enlace": "https://www.gigantes.com/euroliga/guerschon-yabusele-explica-motivos-fichaje-panathinaikos/",
+        "desc": "El ala-pívot forma parte de una de las plantillas más potentes de Europa tras pasar los dos últimos años en la NBA La entrada Guerschon Yabusele explica los motivos de su fichaje p…",
+        "fecha": "2026-09-16T09:23:07+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Brook likened to Pietersen in SL win - how do they compare?",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
-        "desc": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-        "fecha": "2026-09-15T21:46:02+00:00",
+        "titulo": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+        "fecha": "2026-09-16T10:55:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
-        "titulo": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
-        "desc": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
-        "fecha": "2026-09-15T22:26:50+00:00",
+        "titulo": "Ranking the greatest all-time fantasy football icons",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+        "desc": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+        "fecha": "2026-09-16T10:14:45+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Inside Europe's early Ryder Cup team trip to 'immaculate' Adare Manor",
-        "enlace": "https://www.skysports.com/golf/news/12040/13586083/ryder-cup-2027-team-europe-stars-give-verdict-on-early-trip-to-adare-manor-and-fresh-energy-for-luke-donalds-side",
-        "desc": "It may still be a year to go until Team Europe's bid for a historic Ryder Cup threepeat, but Luke Donald has already had many of his prospective line-up together at Adare Manor.",
-        "fecha": "2026-09-16T06:00:00",
+        "titulo": "Arsenal latest: Gabriel kick on Martinez was NOT red card, says KMI panel",
+        "enlace": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+        "desc": "",
+        "fecha": "2026-09-16T11:15:00",
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "Brook likened to Pietersen in SL win - how do they compare?",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
-        "desc": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-        "fecha": "2026-09-15T21:46:02+00:00",
+        "titulo": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+        "fecha": "2026-09-16T10:55:00+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Tipped to be the best ever - but is Herbert the NFL's best underachiever?",
-        "enlace": "https://www.skysports.com/nfl/news/12040/13586129/justin-herbert-the-nfls-most-talented-underachiever-los-angeles-chargers-quarterback-tipped-for-greatness-but-facing-more-questions",
-        "desc": "The kids call it glazing. NFL folk might call it Jim Harbaughing. Either way, gushing praise of Justin Herbert is generating heightened and unavoidable attention around one of foot…",
-        "fecha": "2026-09-16T06:00:00",
+        "titulo": "F1 announce 2027 calendar and increase in Sprint rounds",
+        "enlace": "https://www.skysports.com/f1/news/12040/13588439/f1-2027-calendar-announced-with-bahrain-to-host-season-opener-and-increase-in-sprint-weekends-in-24-race-schedule",
+        "desc": "Formula 1 has announced its 2027 calendar and an increase in the number of Sprint weekends from six to 10, with the season starting in Bahrain.",
+        "fecha": "2026-09-16T10:01:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
-        "desc": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
-        "fecha": "2026-09-15T22:26:50+00:00",
+        "titulo": "Ranking the greatest all-time fantasy football icons",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+        "desc": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+        "fecha": "2026-09-16T10:14:45+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Brook likened to Pietersen in SL win - how do they compare?",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
-        "desc": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-        "fecha": "2026-09-15T21:46:02+00:00",
+        "titulo": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+        "fecha": "2026-09-16T10:55:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -801,55 +801,55 @@
       {
         "titulo": "DFB-Team: Neuer mischt bei Klopps Torwart-Entscheidung mit",
         "enlace": "https://www.dw.com/de/dfb-team-neuer-mischt-bei-klopps-torwart-entscheidung-mit/a-79271199?maca=de-rss-de-sport-4020-rdf",
-        "desc": "Nach dem Rücktritt von Manuel Neuer gibt es viele Kandidaten für die Nachfolge, aber für welchen Torwart entscheidet sich Jürgen Klopp? Welche Faktoren spielen eine Rolle? Offenbar…",
-        "fecha": "2026-09-16T05:48:40.636828+00:00",
+        "desc": "Nach Manuel Neuers Rücktritt gibt es viele Nachfolge-Kandidaten, aber für welchen Torwart entscheidet sich Bundestrainer Jürgen Klopp? Welche Faktoren spielen eine Rolle? Offenbar …",
+        "fecha": "2026-09-16T11:12:03.193770+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
-        "desc": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
-        "fecha": "2026-09-15T22:26:50+00:00",
+        "titulo": "Ranking the greatest all-time fantasy football icons",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+        "desc": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+        "fecha": "2026-09-16T10:14:45+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "DFB-Team: Was ändert sich unter Bundestrainer Jürgen Klopp?",
         "enlace": "https://www.dw.com/de/dfb-team-was-ändert-sich-unter-bundestrainer-jürgen-klopp/a-77944434?maca=de-rss-de-sport-4020-rdf",
         "desc": "Jürgen Klopp ist neuer Bundestrainer. Was macht der Neue bei der deutschen Fußball-Nationalmannschaft anders als sein Vorgänger? Auf welche Spieler setzt er? Wie wird die Spielweis…",
-        "fecha": "2026-09-16T05:48:40.636866+00:00",
+        "fecha": "2026-09-16T11:12:03.193832+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Brook likened to Pietersen in SL win - how do they compare?",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
-        "desc": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-        "fecha": "2026-09-15T21:46:02+00:00",
+        "titulo": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+        "fecha": "2026-09-16T10:55:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
-        "desc": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
-        "fecha": "2026-09-15T22:26:50+00:00",
+        "titulo": "Ranking the greatest all-time fantasy football icons",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+        "desc": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?",
+        "fecha": "2026-09-16T10:14:45+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Brook likened to Pietersen in SL win - how do they compare?",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
-        "desc": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-        "fecha": "2026-09-15T21:46:02+00:00",
+        "titulo": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+        "fecha": "2026-09-16T10:55:00+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_pt": [],
     "ciencia_es": [
       {
-        "titulo": "Leer la mente ya es posible: logran predecir tus decisiones antes de que actúes",
-        "enlace": "https://www.abc.es/ciencia/leer-mente-posible-logran-predecir-tus-decisiones-20260914110000-nt.html",
-        "desc": "Es el pan nuestro de cada día. Algo que hacemos continuamente y casi sin darnos cuenta. Tomamos decisiones. Cientos, miles de ellas, grandes y pequeñas. ¿Subo en ascensor o voy por…",
-        "fecha": "2026-09-15T11:00:00+02:00",
+        "titulo": "Descubren que los chimpancés ceden sus propias herramientas para 'educar' a sus crías",
+        "enlace": "https://www.abc.es/ciencia/descubren-chimpances-ceden-propias-herramientas-educar-crias-20260916102115-nt.html",
+        "desc": "Ya en 1871, Charles Darwin asestó un duro golpe a la arrogancia humana al señalar que los chimpancés utilizaban piedras para cascar nueces. Pero la cosa fue 'a peor' durante el sig…",
+        "fecha": "2026-09-16T10:21:15+02:00",
         "fuente": "ABC Ciencia"
       },
       {
@@ -867,10 +867,10 @@
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Quality control of glycogen through direct ubiquitylation by RNF213",
-        "enlace": "https://www.nature.com/articles/s41586-026-11139-6",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213",
-        "fecha": "2026-09-16T05:48:54.431078+00:00",
+        "titulo": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+        "enlace": "https://www.nature.com/articles/d41586-026-02914-6",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that a…",
+        "fecha": "2026-09-16T11:12:16.478819+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -881,31 +881,31 @@
         "fuente": "NASA EN"
       },
       {
-        "titulo": "Hallado en Teruel el primer diplodocus fuera de Norteamérica",
-        "enlace": "https://www.abc.es/ciencia/hallado-teruel-primer-diplodocus-norteamerica-20260914095453-nt.html",
-        "desc": "Un equipo de paleontólogos de la Fundación Dinópolis ha descubierto en La Tejería (El Castellar), Teruel, los restos del que parece ser el primer diplodocus hallado fuera de Nortea…",
-        "fecha": "2026-09-15T09:54:53+02:00",
+        "titulo": "Leer la mente ya es posible: logran predecir tus decisiones antes de que actúes",
+        "enlace": "https://www.abc.es/ciencia/leer-mente-posible-logran-predecir-tus-decisiones-20260914110000-nt.html",
+        "desc": "Es el pan nuestro de cada día. Algo que hacemos continuamente y casi sin darnos cuenta. Tomamos decisiones. Cientos, miles de ellas, grandes y pequeñas. ¿Subo en ascensor o voy por…",
+        "fecha": "2026-09-15T11:00:00+02:00",
         "fuente": "ABC Ciencia"
       },
       {
-        "titulo": "Europa relanza su carrera espacial: \"Necesitamos llegar a la Luna por nuestros propios medios\"",
-        "enlace": "https://www.elmundo.es/ciencia/2026/09/12/6aa2d0c6e85ece160b8b458b.html",
-        "desc": "La Cumbre Espacial celebrada esta semana en el Grand Palais de París reivindicó la necesidad de invertir más dinero en el sector espacial europeo y la necesidad de ser autónomos. \"…",
-        "fecha": "2026-09-12T02:29:49+02:00",
+        "titulo": "Venus se despide esta tarde con una conjunción con la Luna",
+        "enlace": "https://www.elmundo.es/ciencia/2026/09/14/6aa7a16f21efa064658b4584.html",
+        "desc": "&nbsp; Leer",
+        "fecha": "2026-09-14T09:31:17+02:00",
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
-        "enlace": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o?at_medium=RSS&at_campaign=rss",
-        "desc": "Para el acuerdo petrolero con Venezuela, el gobierno de EE.UU. está trabajando con una empresa poco conocida, en lugar de con gigantes energéticos como ExxonMobil. ¿Por qué ocurre …",
-        "fecha": "2026-09-15T18:28:49+00:00",
+        "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
+        "enlace": "https://www.bbc.com/mundo/articles/c770z7v41d8o?at_medium=RSS&at_campaign=rss",
+        "desc": "El nuevo grupo Patriot Platform asegura que busca aglutinar a votantes de clase trabajadora para influir en los partidos políticos de derecha.",
+        "fecha": "2026-09-16T10:01:59+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "enlace": "https://www.nature.com/articles/s41586-026-11137-8",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8 Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "fecha": "2026-09-16T05:48:54.431111+00:00",
+        "titulo": "AI companies must work with the research community to protect attribution",
+        "enlace": "https://www.nature.com/articles/d41586-026-02886-7",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7 An era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+        "fecha": "2026-09-16T11:12:16.478864+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -918,10 +918,10 @@
     ],
     "ciencia_en": [
       {
-        "titulo": "Quality control of glycogen through direct ubiquitylation by RNF213",
-        "enlace": "https://www.nature.com/articles/s41586-026-11139-6",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213",
-        "fecha": "2026-09-16T05:48:59.463606+00:00",
+        "titulo": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+        "enlace": "https://www.nature.com/articles/d41586-026-02914-6",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that a…",
+        "fecha": "2026-09-16T11:12:20.824465+00:00",
         "fuente": "Nature"
       },
       {
@@ -946,10 +946,10 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Study finds violence affects millions across US with links to health, economic hardship",
-        "enlace": "https://phys.org/news/2026-09-violence-affects-millions-links-health.html",
-        "desc": "A new national study reveals the widespread reach of violence across the United States, finding that more than half of U.S. adults have experienced physical violence and nearly hal…",
-        "fecha": "2026-09-16T01:00:01-04:00",
+        "titulo": "Weeping whales: Stillborn humpback whale grieving documented",
+        "enlace": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+        "desc": "Humpback whale mothers may experience grief when their calves die, a rare research observation led by Griffith University and Sea World Foundation has found.",
+        "fecha": "2026-09-16T07:10:01-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -967,167 +967,167 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-        "enlace": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-        "desc": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
-        "fecha": "2026-09-16T00:05:51+00:00",
+        "titulo": "Colombia and Brazil deadliest countries for environmental activists, report says",
+        "enlace": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
+        "desc": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
+        "fecha": "2026-09-16T11:02:54+00:00",
         "fuente": "BBC Science"
       },
       {
-        "titulo": "Webb reveals stunning panorama of star formation",
-        "enlace": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
-        "desc": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, a…",
-        "fecha": "2026-09-15T16:00:00+02:00",
+        "titulo": "Purple swirls on the Red Planet",
+        "enlace": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+        "desc": "This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Re…",
+        "fecha": "2026-09-16T11:00:00+02:00",
         "fuente": "ESA"
       },
       {
-        "titulo": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "enlace": "https://www.nature.com/articles/s41586-026-11137-8",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8 Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "fecha": "2026-09-16T05:48:59.463639+00:00",
+        "titulo": "AI companies must work with the research community to protect attribution",
+        "enlace": "https://www.nature.com/articles/d41586-026-02886-7",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7 An era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+        "fecha": "2026-09-16T11:12:20.824507+00:00",
         "fuente": "Nature"
       }
     ],
     "ciencia_fr": [
       {
-        "titulo": "Prudent ou casse-cou? Extraverti ou timide? Notre personnalité aurait une origine génétique",
-        "enlace": "https://www.sciencesetavenir.fr/sante/la-personnalite-aurait-une-origine-genetique-et-des-consequences-sur-la-sante_194833?xtor=RSS-16",
-        "desc": "Environ un millier de mutations génétiques seraient liées à des traits de personnalité, ainsi qu’à des risques de santé causés par le comportement.",
-        "fecha": "2026-09-15T13:05:58+00:00",
+        "titulo": "Dons d'organes : la France ouvre la porte aux xénogreffes",
+        "enlace": "https://www.sciencesetavenir.fr/sante/dons-d-organes-en-france-des-pistes-pour-augmenter-les-greffes-et-explorer-les-xenogreffes_194840?xtor=RSS-16",
+        "desc": "Face à une pénurie d’organes qui s’aggrave, la France doit renforcer son système de don et de transplantation tout en explorant de nouvelles solutions. Dans un avis publié mardi 15…",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Quality control of glycogen through direct ubiquitylation by RNF213",
-        "enlace": "https://www.nature.com/articles/s41586-026-11139-6",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213",
-        "fecha": "2026-09-16T05:49:04.454879+00:00",
+        "titulo": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+        "enlace": "https://www.nature.com/articles/d41586-026-02914-6",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that a…",
+        "fecha": "2026-09-16T11:12:26.762863+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Ebola : l'épidémie ne faiblit pas dans une partie de la RDC",
-        "enlace": "https://www.sciencesetavenir.fr/sante/rdc-ebola-continue-de-s-etendre-de-facon-exponentielle-au-nord-kivu_194832?xtor=RSS-16",
-        "desc": "Si des signes d'amélioration sont observés dans certaines provinces de la République démocratique du Congo (RDC), la situation reste critique au Nord-Kivu. Le virus y progresse de …",
-        "fecha": "2026-09-15T12:31:34+00:00",
+        "titulo": "Cancer : comment la tumeur berne le système immunitaire",
+        "enlace": "https://www.sciencesetavenir.fr/sante/cancer-pourquoi-le-systeme-immunitaire-peut-favoriser-la-croissance-des-tumeurs_194839?xtor=RSS-16",
+        "desc": "Des chercheurs américains ont découvert comment des cellules cancéreuses peuvent retourner un mécanisme du système immunitaire à leur avantage. Grâce à des signaux chimiques, celle…",
+        "fecha": "2026-09-16T09:40:43+00:00",
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "enlace": "https://www.nature.com/articles/s41586-026-11137-8",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8 Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "fecha": "2026-09-16T05:49:04.454911+00:00",
+        "titulo": "AI companies must work with the research community to protect attribution",
+        "enlace": "https://www.nature.com/articles/d41586-026-02886-7",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7 An era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+        "fecha": "2026-09-16T11:12:26.762906+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_de": [
       {
-        "titulo": "Kein frittiertes Essen in Schulen - warum die Idee gut ist",
-        "enlace": "https://www.dw.com/de/kein-frittiertes-essen-in-schulen-warum-die-idee-gut-ist/a-79260556?maca=de-rss-de-wissenschaft-4019-rdf",
-        "desc": "In Englands Schulen könnte Kindern zukünftig kein frittiertes Essen mehr serviert werden. Zu viel Pommes, Chicken Nuggets und Co. verursachen nicht nur Übergewicht, sondern machen …",
-        "fecha": "2026-09-16T05:49:07.063818+00:00",
+        "titulo": "Sommer 2026 - historischer Höchststand an Hitzetoten",
+        "enlace": "https://www.dw.com/de/sommer-2026-historischer-höchststand-an-hitzetoten/a-79256504?maca=de-rss-de-wissenschaft-4019-rdf",
+        "desc": "Der Sommer 2026 war einer der wärmsten seit Beginn der Aufzeichnung. Nach Schätzungen des RKI sind mehr als 16.000 Menschen in Deutschland hitzebedingt gestorben.",
+        "fecha": "2026-09-16T11:12:29.820398+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Quality control of glycogen through direct ubiquitylation by RNF213",
-        "enlace": "https://www.nature.com/articles/s41586-026-11139-6",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213",
-        "fecha": "2026-09-16T05:49:08.337881+00:00",
+        "titulo": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+        "enlace": "https://www.nature.com/articles/d41586-026-02914-6",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that a…",
+        "fecha": "2026-09-16T11:12:29.988891+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Warum KI-Forscher vor der Auslöschung der Menschheit warnen",
-        "enlace": "https://www.dw.com/de/warum-ki-forscher-vor-der-auslöschung-der-menschheit-warnen/a-79228285?maca=de-rss-de-wissenschaft-4019-rdf",
-        "desc": "Könnte Künstliche Intelligenz innerhalb eines Jahrzehnts die gesamte Menschheit vernichten? KI-Forscher und Entwickler warnen vor einem unregulierten Wettlauf bei der Entwicklung -…",
-        "fecha": "2026-09-16T05:49:07.063851+00:00",
+        "titulo": "Kein frittiertes Essen in Schulen - warum die Idee gut ist",
+        "enlace": "https://www.dw.com/de/kein-frittiertes-essen-in-schulen-warum-die-idee-gut-ist/a-79260556?maca=de-rss-de-wissenschaft-4019-rdf",
+        "desc": "In Englands Schulen könnte Kindern zukünftig kein frittiertes Essen mehr serviert werden. Zu viel Pommes, Chicken Nuggets und Co. verursachen nicht nur Übergewicht, sondern machen …",
+        "fecha": "2026-09-16T11:12:29.820441+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "enlace": "https://www.nature.com/articles/s41586-026-11137-8",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8 Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "fecha": "2026-09-16T05:49:08.337915+00:00",
+        "titulo": "AI companies must work with the research community to protect attribution",
+        "enlace": "https://www.nature.com/articles/d41586-026-02886-7",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7 An era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+        "fecha": "2026-09-16T11:12:29.988936+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "Quality control of glycogen through direct ubiquitylation by RNF213",
-        "enlace": "https://www.nature.com/articles/s41586-026-11139-6",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11139-6 Quality control of glycogen through direct ubiquitylation by RNF213",
-        "fecha": "2026-09-16T05:49:12.615998+00:00",
+        "titulo": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+        "enlace": "https://www.nature.com/articles/d41586-026-02914-6",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02914-6 Researchers detect more than 1,000 overlooked microproteins in human brain tissue, including some that a…",
+        "fecha": "2026-09-16T11:12:33.333612+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "enlace": "https://www.nature.com/articles/s41586-026-11137-8",
-        "desc": "Nature, Published online: 15 September 2026; doi:10.1038/s41586-026-11137-8 Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-        "fecha": "2026-09-16T05:49:12.616032+00:00",
+        "titulo": "AI companies must work with the research community to protect attribution",
+        "enlace": "https://www.nature.com/articles/d41586-026-02886-7",
+        "desc": "Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02886-7 An era-defining mathematics claim raises questions over how AI tools credit earlier work.",
+        "fecha": "2026-09-16T11:12:33.333678+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Ilha de Qeshm. Irão diz ter abatido drone norte-americano",
-        "enlace": "https://observador.pt/liveblogs/irao-diz-ter-abatido-drone-norte-americano-sobre-a-ilha-de-qeshm-durante-a-madrugada/",
-        "desc": "A Guarda Revolucionária do Irão afirmou ter intercetado e abatido um drone norte-americano MQ-9 no espaço aéreo iraniano. Apenas quatro navios atravessaram o Estreito de Ormuz esta…",
-        "fecha": "2026-09-16T06:39:37+01:00",
+        "titulo": "Ex-presidente do Kosovo condenado a 25 anos de prisão",
+        "enlace": "https://observador.pt/2026/09/16/ex-presidente-do-kosovo-condenado-a-25-anos-de-prisao-por-crimes-de-guerra/",
+        "desc": "Um tribunal especial para o Kosovo, sediado em Haia, condenou o antigo Presidente Hashim Thaçi a 25 anos de prisão por crimes de guerra cometidos pela guerrilha kosovar na década d…",
+        "fecha": "2026-09-16T12:01:46+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
-        "enlace": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
-        "desc": "Em sessão marcada por bate-bocas e trocas de acusações diante das câmeras, Flávio Dino pediu vista e paralisou caso; ainda não está claro se Supremo vai manter data para analisar a…",
-        "fecha": "2026-09-16T02:46:05+00:00",
+        "titulo": "Há 'vencedor' na disputa de alas do STF?",
+        "enlace": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+        "desc": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor…",
+        "fecha": "2026-09-16T08:21:33+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Benfica em Milão para fazer o que ainda não foi feito",
-        "enlace": "https://observador.pt/programas/vamos-a-bola/benfica-em-milao-para-fazer-o-que-ainda-nao-foi-feito/",
-        "desc": "As águias procuram a primeira vitória de sempre contra os Rossoneri, que venceram sempre em casa e já foram carrasco em duas finais europeias. Ainda, Ba lesionado só volta a ser op…",
-        "fecha": "2026-09-16T06:34:32+01:00",
+        "titulo": "BE quer mais meios para garantir declarações de património",
+        "enlace": "https://observador.pt/2026/09/16/be-quer-mais-meios-e-sancoes-para-garantir-declaracoes-de-patrimonio-de-politicos/",
+        "desc": "O Bloco de Esquerda defende o reforço dos meios da Entidade para a Transparência e sanções quando há incumprimento das obrigações de declaração de rendimentos de titulares de cargo…",
+        "fecha": "2026-09-16T11:51:46+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Cármen Lúcia diz que crise no STF causa 'mal-estar cívico' no país",
-        "enlace": "https://www.bbc.com/portuguese/articles/cqevwn2jkez1o?at_medium=RSS&at_campaign=rss",
-        "desc": "Após sessão marcada por bate-bocas e trocas de acusações entre ministros, Cármen Lúcia disse estar 'consternada' com situação da Corte",
-        "fecha": "2026-09-16T00:19:28+00:00",
+        "titulo": "Os bairros de SP e do Rio na lista de 'mais legais' do mundo de revista britânica",
+        "enlace": "https://www.bbc.com/portuguese/articles/cqe8xew20erzo?at_medium=RSS&at_campaign=rss",
+        "desc": "A lista da Time Out traz uma mistura entre bairros residenciais e centros históricos de diversas cidades do mundo.",
+        "fecha": "2026-09-16T11:07:29+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
     "economia_es": [
       {
-        "titulo": "En vilo la ley de 'lobbies' que pone en riesgo hasta 1.500 millones de fondos europeos",
-        "enlace": "https://www.expansion.com/economia/2026/09/16/6aa96fd0e5fdeab7028b4593.html",
-        "desc": "El Congreso de los Diputados vota hoy el decreto que el Gobierno aprobó en agosto y que cuenta con la oposición de los sindicatos y la patronal. Junts avanza su 'no' al texto y el …",
-        "fecha": "2026-09-16T02:30:43+02:00",
+        "titulo": "La Fed debería desafiar a Trump con una subida de tipos, según los economistas",
+        "enlace": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaa59a3468aeb6f088b45ac.html",
+        "desc": "La gran mayoría de los participantes en una encuesta del FT y la Booth School afirman que el banco central debería elevar los costes de financiación para contener la inflación.&nbs…",
+        "fecha": "2026-09-16T10:59:16+02:00",
         "fuente": "Expansión"
       },
       {
-        "titulo": "Escrivá: \"Europa tiene la ventaja competitiva con el euro digital de que el banco central está detrás\"",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-09-15/escriva-banco-de-espana-euro-digital-ventaja-bra_4424113/",
-        "desc": "El gobernador ha participado en la IX edición del Foro ‘Activos Digitales’, destacando los avances con el euro digital y con la posibilidad de conectar plataformas tokenizadas",
-        "fecha": "2026-09-16T05:49:21.096153+00:00",
+        "titulo": "Deutsche Bank anuncia un servicio de custodia de criptomonedas",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-09-16/deutsche-bank-custodia-criptos-activos-digitales-1tps_4424809/",
+        "desc": "La entidad germana prevé habilitar para empresas y fondos el almacenamiento de bitcoins, ether y stablecoins, con claves protegidas y sistemas separados para reforzar la seguridad",
+        "fecha": "2026-09-16T11:12:38.958857+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "La casa prefabricada de Amazon por menos de 18.000 euros con dos pisos, terraza y estructura de acero de alta resistencia",
-        "enlace": "https://www.abc.es/economia/casa-prefabricada-amazon-18000-euros-dos-pisos-20260916152920-nt.html",
-        "desc": "Comprar una vivienda en España es un auténtico desafío para buena parte de los españoles. El esfuerzo necesario para acceder a una casa se encuentra muy por encima al de hace cuatr…",
-        "fecha": "2026-09-16T06:00:13+02:00",
+        "titulo": "Gestionar el absentismo sin pisar líneas rojas legales",
+        "enlace": "https://www.abc.es/economia/ana-lahuerta-socia-de-laboral-de-rsm-gestionar-absentismo-pisar-lineas-rojas-legales-20260916123620-nt.html",
+        "desc": "El absentismo laboral ha irrumpido estas semanas en el primer plano del debate público. Las cifras que lo acompañan explican el porqué: según el último informe de Randstad Research…",
+        "fecha": "2026-09-16T12:36:20+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Wolf: Saudi Pipeline Recovery Not a Quick Fix",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-16/wolf-saudi-pipeline-recovery-not-a-quick-fix-video",
-        "desc": "Oil dropped as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles. The situation in the Middle East remains …",
-        "fecha": "2026-09-16T05:30:18+00:00",
+        "titulo": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+        "desc": "Romania’s officials in charge of debt management told investors the country will likely scale back its eurobond issuance plan for this year as it boosted borrowing on the domestic …",
+        "fecha": "2026-09-16T09:21:05+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
-        "enlace": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
-        "desc": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
-        "fecha": "2026-09-15T18:08:12+00:00",
+        "titulo": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+        "enlace": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
+        "desc": "Travelers gave higher ratings in part because of the newer gates and terminals many airports have opened in recent years, according to the study.",
+        "fecha": "2026-09-16T10:00:01+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1138,40 +1138,40 @@
         "fuente": "Expansión"
       },
       {
-        "titulo": "Bankinter eleva al 3% TAE la remuneración de su cuenta digital y mantiene el pago de 600€ por nómina",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-09-15/bankinter-rentabilidad-cuenta-digital-pago-nomina_4423999/",
-        "desc": "La promoción de la entidad naranja estará vigente del 15 de septiembre al 28 de octubre y remunera hasta 100.000 euros desde el primer euro para nuevos clientes",
-        "fecha": "2026-09-16T05:49:21.096193+00:00",
+        "titulo": "Revolut reactiva su cuenta corriente con una rentabilidad del 3,51% TAE para nuevos clientes",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-09-16/revolut-cuenta-remunerada-rentabilidad-ahorro-espana-1hms_4424653/",
+        "desc": "La nueva oferta lanzada por el neobanco no tiene fecha límite de contratación y estará disponible de forma continuada para los nuevos clientes de la entidad, que ya alcanza los sie…",
+        "fecha": "2026-09-16T11:12:38.958895+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "¿Tienes un fraude en la tarjeta tras revelar las claves por error? El banco se desentiende de recuperar ese dinero",
-        "enlace": "https://www.abc.es/economia/cuentas-corrientes/fraude-tarjeta-tras-revelar-claves-error-banco-20260916015105-nt.html",
-        "desc": "Los últimos coletazos del verano están llegando ahora a las cuentas de los ciudadanos, después de una vacaciones plagadas de ocio, viajes y mucha diversión. Con todos esos gastos i…",
-        "fecha": "2026-09-16T01:51:05+02:00",
+        "titulo": "Los huevos y el pescado, los básicos que disparan el precio de la cesta de la compra por encima de la inflación",
+        "enlace": "https://www.abc.es/economia/cuentas-corrientes/huevos-pescado-basicos-disparan-precio-cesta-compra-20260916090438-nt.html",
+        "desc": "La inflación repuntó en el mes de agosto hasta el 4,3%, siete décimas por encima del IPC registrado en el mes de julio. Los precios registraron su nivel más alto en tres años, desd…",
+        "fecha": "2026-09-16T09:04:38+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-pivot-to-send-more-oil-through-hormuz-after-pipeline-shut",
-        "desc": "Saudi Arabia is ramping up prompt spot sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows…",
-        "fecha": "2026-09-16T05:29:31+00:00",
+        "titulo": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/us-mortgage-rates-rise-to-6-97-highest-in-more-than-a-year",
+        "desc": "US mortgage rates last week climbed to the highest level in more than a year, marking the latest setback for an already sluggish housing market.",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
-        "enlace": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
-        "desc": "The gift to Providence St. Vincent Medical Center will support the creation of an all-women’s hospital as well as advance cardiovascular care across Oregon.",
-        "fecha": "2026-09-15T15:00:01+00:00",
+        "titulo": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+        "enlace": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+        "desc": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
+        "fecha": "2026-09-15T18:08:12+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Wolf: Saudi Pipeline Recovery Not a Quick Fix",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-16/wolf-saudi-pipeline-recovery-not-a-quick-fix-video",
-        "desc": "Oil dropped as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles. The situation in the Middle East remains …",
-        "fecha": "2026-09-16T05:30:18+00:00",
+        "titulo": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+        "desc": "Romania’s officials in charge of debt management told investors the country will likely scale back its eurobond issuance plan for this year as it boosted borrowing on the domestic …",
+        "fecha": "2026-09-16T09:21:05+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1182,10 +1182,10 @@
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
-        "enlace": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
-        "desc": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
-        "fecha": "2026-09-15T18:08:12+00:00",
+        "titulo": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+        "enlace": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
+        "desc": "Travelers gave higher ratings in part because of the newer gates and terminals many airports have opened in recent years, according to the study.",
+        "fecha": "2026-09-16T10:00:01+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1196,10 +1196,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-pivot-to-send-more-oil-through-hormuz-after-pipeline-shut",
-        "desc": "Saudi Arabia is ramping up prompt spot sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows…",
-        "fecha": "2026-09-16T05:29:31+00:00",
+        "titulo": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/us-mortgage-rates-rise-to-6-97-highest-in-more-than-a-year",
+        "desc": "US mortgage rates last week climbed to the highest level in more than a year, marking the latest setback for an already sluggish housing market.",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1210,10 +1210,10 @@
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
-        "enlace": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
-        "desc": "The gift to Providence St. Vincent Medical Center will support the creation of an all-women’s hospital as well as advance cardiovascular care across Oregon.",
-        "fecha": "2026-09-15T15:00:01+00:00",
+        "titulo": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+        "enlace": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+        "desc": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
+        "fecha": "2026-09-15T18:08:12+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Wolf: Saudi Pipeline Recovery Not a Quick Fix",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-16/wolf-saudi-pipeline-recovery-not-a-quick-fix-video",
-        "desc": "Oil dropped as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles. The situation in the Middle East remains …",
-        "fecha": "2026-09-16T05:30:18+00:00",
+        "titulo": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+        "desc": "Romania’s officials in charge of debt management told investors the country will likely scale back its eurobond issuance plan for this year as it boosted borrowing on the domestic …",
+        "fecha": "2026-09-16T09:21:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-pivot-to-send-more-oil-through-hormuz-after-pipeline-shut",
-        "desc": "Saudi Arabia is ramping up prompt spot sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows…",
-        "fecha": "2026-09-16T05:29:31+00:00",
+        "titulo": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/us-mortgage-rates-rise-to-6-97-highest-in-more-than-a-year",
+        "desc": "US mortgage rates last week climbed to the highest level in more than a year, marking the latest setback for an already sluggish housing market.",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Diplomatie: Vor Gipfel in den USA – Bessent will Chinas Vizepremier treffen",
-        "enlace": "https://www.handelsblatt.com/politik/international/diplomatie-vor-gipfel-in-den-usa-bessent-will-chinas-vizepremier-treffen/100254884.html",
-        "desc": "Vor dem Gipfel der Präsidenten Trump und Xi stehen weitere Gespräche zwischen Washington und Peking an. Handelsfragen und der technologische Wettbewerb beider Großmächte prägen das…",
-        "fecha": "2026-09-16T05:43:07+00:00",
+        "titulo": "Kritische Infrastruktur: Stadtwerke fordern weniger Einschränkungen beim Sabotageschutz",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/kritische-infrastruktur-stadtwerke-fordern-weniger-einschraenkungen-beim-sabotageschutz/100255018.html",
+        "desc": "Angriffe auf die kritische Infrastruktur häufen sich. Der Stadtwerkeverband möchte mehr Möglichkeiten haben, diese zu bewachen – und macht konkrete Vorschläge.",
+        "fecha": "2026-09-16T11:07:20+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Wolf: Saudi Pipeline Recovery Not a Quick Fix",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-16/wolf-saudi-pipeline-recovery-not-a-quick-fix-video",
-        "desc": "Oil dropped as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles. The situation in the Middle East remains …",
-        "fecha": "2026-09-16T05:30:18+00:00",
+        "titulo": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+        "desc": "Romania’s officials in charge of debt management told investors the country will likely scale back its eurobond issuance plan for this year as it boosted borrowing on the domestic …",
+        "fecha": "2026-09-16T09:21:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Zukunftsgestalter: „Irgendwann ist das ein Milliardenmarkt“ – vom Schrotthändler zum Rohstoffstrategen",
-        "enlace": "https://www.handelsblatt.com/unternehmen/mittelstand/rohstoffe-wie-dieses-deutsche-unternehmen-lithium-zurueckgewinnt-01/100250155.html",
-        "desc": "Accurec wandelt sich vom Batterierecycler zum Rohstoffstrategen. Der Mittelständler investiert in die Rückgewinnung von Lithium. Dafür müssen aber gleich mehrere Voraussetzungen er…",
-        "fecha": "2026-09-16T05:27:00+00:00",
+        "titulo": "Kanzler-Krise: CDU-Ministerpräsidenten stärken Merz den Rücken",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/kanzler-krise-cdu-ministerpraesidenten-staerken-merz-den-ruecken/100254954.html",
+        "desc": "Die Ministerpräsidenten der CDU haben sich in der Debatte um die politische Zukunft von Kanzler Merz bisher zurückgehalten. Jetzt setzen sie ein klares Zeichen der Solidarität mit …",
+        "fecha": "2026-09-16T11:05:52+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-pivot-to-send-more-oil-through-hormuz-after-pipeline-shut",
-        "desc": "Saudi Arabia is ramping up prompt spot sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows…",
-        "fecha": "2026-09-16T05:29:31+00:00",
+        "titulo": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/us-mortgage-rates-rise-to-6-97-highest-in-more-than-a-year",
+        "desc": "US mortgage rates last week climbed to the highest level in more than a year, marking the latest setback for an already sluggish housing market.",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Wolf: Saudi Pipeline Recovery Not a Quick Fix",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-16/wolf-saudi-pipeline-recovery-not-a-quick-fix-video",
-        "desc": "Oil dropped as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles. The situation in the Middle East remains …",
-        "fecha": "2026-09-16T05:30:18+00:00",
+        "titulo": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+        "desc": "Romania’s officials in charge of debt management told investors the country will likely scale back its eurobond issuance plan for this year as it boosted borrowing on the domestic …",
+        "fecha": "2026-09-16T09:21:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-pivot-to-send-more-oil-through-hormuz-after-pipeline-shut",
-        "desc": "Saudi Arabia is ramping up prompt spot sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows…",
-        "fecha": "2026-09-16T05:29:31+00:00",
+        "titulo": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/us-mortgage-rates-rise-to-6-97-highest-in-more-than-a-year",
+        "desc": "US mortgage rates last week climbed to the highest level in more than a year, marking the latest setback for an already sluggish housing market.",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Bruxelas prepara \"aliança única\" com Canadá após rutura de Carney com Trump",
-        "enlace": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/bruxelas-prepara-alianca-unica-com-canada-apos-rutura-de-carney-com-trump",
-        "desc": "Comissão Europeia vai reforçar parceria com o Canadá em termos comerciais e na área da defesa. Acordo único deverá ser conhecido no debate do Estado da União. Aproximação acontece …",
-        "fecha": "2026-09-16T06:00:00+01:00",
+        "titulo": "SATA convida seis interessados a avançar para propostas não vinculativas da Azores",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/sata-convida-seis-interessados-a-avancar-para-propostas-nao-vinculativas-da-azores",
+        "desc": "Das oito manifestações de interesse entregues, apenas seis foram convidadas a avançar para a próxima fase. O grupo SATA entendeu que dois não tinham condições para se manter na cor…",
+        "fecha": "2026-09-16T12:03:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Wolf: Saudi Pipeline Recovery Not a Quick Fix",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-16/wolf-saudi-pipeline-recovery-not-a-quick-fix-video",
-        "desc": "Oil dropped as a rally driven by supply disruptions left gains looking overdone, and a US industry report pointed to a rise in stockpiles. The situation in the Middle East remains …",
-        "fecha": "2026-09-16T05:30:18+00:00",
+        "titulo": "Romania Set to Curb €10 Billion Foreign Debt Sale Plan",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/romania-set-to-curb-10-billion-foreign-debt-sale-plan-this-year",
+        "desc": "Romania’s officials in charge of debt management told investors the country will likely scale back its eurobond issuance plan for this year as it boosted borrowing on the domestic …",
+        "fecha": "2026-09-16T09:21:05+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "OpenAI pondera avançar para ronda de financiamento com avaliação de 1,2 biliões de dólares",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/openai-pondera-avancar-para-ronda-de-financiamento-com-avaliacao-de-1-2-bilioes-de-dolares",
-        "desc": "O Financial Times avança que a dona do ChatGPT manteve conversações com investidores para uma nova ronda de financiamento que avalia a empresa em mais de 1 bililão de dólares, ante…",
-        "fecha": "2026-09-15T23:52:20+01:00",
+        "titulo": "Governo reúne com parceiros sociais. Aumento do salário mínimo faz parte da agenda",
+        "enlace": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-ja-mexe-fesap-quer-aumento-do-salario-da-funcao-publica-patroes-menos-carga-fiscal",
+        "desc": "O Orçamento do Estado para 2027 começa a entrar na agenda mediática dos partidos e dos parceiros sociais. Acompanhe a evolução da negociação e das discussões em torno do documento …",
+        "fecha": "2026-09-16T11:20:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Saudis Pivot to Send More Oil Through Hormuz After Pipeline Shut",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/saudis-pivot-to-send-more-oil-through-hormuz-after-pipeline-shut",
-        "desc": "Saudi Arabia is ramping up prompt spot sales of crude from outside the Strait of Hormuz following the shutdown of the kingdom’s East-West pipeline, which halted cross-country flows…",
-        "fecha": "2026-09-16T05:29:31+00:00",
+        "titulo": "US Mortgage Rates Rise to 6.97%, Highest In More Than a Year",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-16/us-mortgage-rates-rise-to-6-97-highest-in-more-than-a-year",
+        "desc": "US mortgage rates last week climbed to the highest level in more than a year, marking the latest setback for an already sluggish housing market.",
+        "fecha": "2026-09-16T11:00:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
