@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-09-21T04:44:48.772342+00:00",
+  "actualizado": "2026-09-21T10:31:28.425000+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Pilar Bernabé retoma una de las carreras que el PSOE le atribuyó como licenciada",
-        "enlace": "https://www.abc.es/espana/comunidad-valenciana/pilar-bernabe-retoma-carreras-psoe-atribuyo-licenciada-20260921053000-nt.html",
-        "desc": "La delegada del Gobierno en la Comunidad Valenciana, Pilar Bernabé, ha vuelto a la universidad. A ocho meses de las elecciones municipales, la también candidata del PSPV-PSOE a la …",
-        "fecha": "2026-09-21T05:30:00+02:00",
+        "titulo": "El juez Peinado manda a juicio con jurado a Begoña Gómez por presuntos delitos de malversación y tráfico de influencias",
+        "enlace": "https://www.abc.es/espana/juez-peinado-manda-juicio-begona-gomez-presuntos-20260921121900-nt.html",
+        "desc": "El juez Juan Carlos Peinado ha vuelto a abrir juicio oral contra Begoña Gómez, esposa del presidente del Gobierno, Pedro Sánchez, por presuntos delitos de malversación y tráfico de…",
+        "fecha": "2026-09-21T12:19:00+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "El juez Juan Carlos Peinado envía a Begoña Gómez a juicio con jurado por tráfico de influencias y malversación",
+        "enlace": "https://www.elmundo.es/espana/2026/09/21/6ab102c3e4d4d8b2188b4583.html",
+        "desc": "El auto de apertura de juicio oral se extiende a su asesora en La Moncloa, Cristina Álvarez, a la que se atribuye el delito de malversación&nbsp; Leer",
+        "fecha": "2026-09-21T12:19:10+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Peinado cierra la instrucción: envía a Begoña Gómez a juicio por malversación y tráfico de influencias",
+        "enlace": "https://www.libertaddigital.com/espana/2026-09-21/peinado-cierra-la-instruccion-envia-a-begona-gomez-a-juicio-por-malversacion-y-trafico-de-influencias-7463373/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "La envía a juicio junto a su asesora, María Cristina Álvarez, que solamente responderá por su vinculación con el software de la Complutense.",
+        "fecha": "2026-09-21T12:16:38+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "Mazón defiende en el Congreso que la Justicia ha descartado su responsabilidad en la dana",
+        "enlace": "https://theobjective.com/espana/comunidad-valenciana/2026-09-21/mazon-congreso-justicia-descartado-responsabilidad-dana/",
+        "desc": "El expresidente de la Generalitat Valenciana, Carlos Mazón, ha vuelto este lunes al Congreso de los Diputados para comparecer por segunda vez ante la comisión de [&#8230;]",
+        "fecha": "2026-09-21T10:24:44+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "La Guardia Civil aprehende 37 kilos de cable de cobre robado tras inspeccionar chatarrerías en Toledo",
+        "enlace": "https://www.elconfidencial.com/espana/2026-09-21/guardia-civil-incauta-cobre-robado-1tna-1tps_4428126/",
+        "desc": "Controles coordinados en negocios de La Sagra permiten recuperar 37 kilos de cobre robado y destapan 26 incumplimientos en distintas normativas",
+        "fecha": "2026-09-21T10:31:33.728058+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "La monumental novela de Dostoievski de 1200 páginas que, según Haruki Murakami, hay que leer una vez en la vida",
+        "enlace": "https://okdiario.com/cultura/monumental-novela-dostoievski-1200-paginas-que-segun-haruki-murakami-hay-que-leer-vez-vida-19127131",
+        "desc": "El escritor japonés Haruki Murakami eligió Los hermanos Karamazov, de Fiódor Dostoievski, como una de sus novelas favoritas de todos los tiempos. La selección quedó reunida a parti…",
+        "fecha": "2026-09-21T12:30:22+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "El juez Peinado manda a juicio ante jurado a Begoña Gómez por \"prevalerse\" de ser esposa de Pedro Sánchez",
+        "enlace": "https://www.elespanol.com/espana/tribunales/20260921/juez-peinado-manda-juicio-jurado-begona-gomez-prevalerse-esposa-pedro-sanchez/1003744390885_0.html",
+        "desc": "El magistrado desoye al abogado de la mujer de Sánchez y sí da validez al escrito de acusación firmado por Hazte Oír que pide 13 años de cárcel para ella. En el juicio, que celebra…",
+        "fecha": "2026-09-21T12:12:17+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "La periodista valenciana que sigue a Leonor presenta su libro en Valencia",
+        "enlace": "https://www.abc.es/espana/comunidad-valenciana/periodista-valenciana-sigue-leonor-presenta-libro-valencia-20260921121223-nt.html",
+        "desc": "La periodista Angie Calero (Valencia, 1990) presenta este jueves 24 de septiembre su libro 'Leonor de Borbón Ortiz. Una reina para el futuro', a las 19 horas en el Casino de Agricu…",
+        "fecha": "2026-09-21T12:12:23+02:00",
         "fuente": "ABC"
       },
       {
@@ -17,63 +66,28 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Marruecos invade España: Ceuta, Melilla, Canarias, Baleares, Murcia… y el Real Madrid",
-        "enlace": "https://www.libertaddigital.com/espana/politica/2026-09-20/federico-jimenez-losantos-marruecos-invade-espana-ceuta-melilla-canarias-baleares-murcia-y-el-real-madrid-7462847/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El nombre del Madrid, que nadie ha puesto tan alto en el mundo como Florentino, es lo que se ha enlodado con el desprecio al sufrimiento de los españoles.",
-        "fecha": "2026-09-20T06:51:12+02:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "Cómo secar el pelo con secador para conseguir volumen y un acabado de peluquería: los tres pasos que marcan la diferencia",
-        "enlace": "https://theobjective.com/lifestyle/belleza/2026-09-21/como-secar-el-pelo-con-secador-para-conseguir-volumen-y-un-acabado-de-peluqueria-los-tres-pasos-que-marcan-la-diferencia/",
-        "desc": "Conseguir en casa ese pelo brillante, pulido y con movimiento que queda después de una visita a la peluquería parece una misión imposible. Especialmente cuando, después [&#8230;]",
-        "fecha": "2026-09-21T04:30:00+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "El reto de la temporada: 213 kilómetros en 'mountain bike' por el Madrid que estalla en otoño",
-        "enlace": "https://www.elconfidencial.com/espana/madrid/2026-09-21/mtb-cliclamadrid-sierra-norte-bra_4419623/",
-        "desc": "Al norte de la capital, el CiclaMadrid MTB Tour planta cara a las grandes travesías europeas con cumbres a 1.500 metros, murallas del siglo XI y cocina de cuchara",
-        "fecha": "2026-09-21T04:44:50.638082+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Predicción del horóscopo para Tauro hoy, lunes 21 de septiembre de 2026",
-        "enlace": "https://okdiario.com/horoscopo/prediccion-del-horoscopo-para-tauro-hoy-lunes-21-de-septiembre-de-2026-20344615",
-        "desc": "La predicción para Tauro sugiere que es un día propicio para avanzar en proyectos que habías dejado de lado. Confía en tu intuición y no permitas que las dudas de los demás te desv…",
-        "fecha": "2026-09-21T06:27:57+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "Castilla-La Mancha pende de un hilo: Page se mantendría si sus 8 diputados votaran contra la financiación de Sánchez",
-        "enlace": "https://www.elespanol.com/espana/politica/20260921/castilla-la-mancha-pende-hilo-page-mantendria-diputados-votaran-financiacion-sanchez/1003744389742_0.html",
-        "desc": "Un 47,5 % asegura que esa rebelión en el Congreso aumentaría sus posibilidades de votar al PSOE Un 50,6 % aprueba la gestión de Page pero si pierde un escaño, PP y Vox le quitarían…",
-        "fecha": "2026-09-21T02:53:05+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "La Aemet avisa a Madrid por lo que llega en las próximas horas: «Entramos en el otoño con temperaturas extremas en la capital»",
-        "enlace": "https://www.abc.es/espana/madrid/aemet-avisa-madrid-llega-proximas-horas-entramos-20260921050000-nt.html",
-        "desc": "Este lunes 21 de septiembre arranca oficialmente el otoño, aunque no lo hará en tie esta semana va a comenzar con calor en buena parte de España. Así lo ha anunciado la Agencia Est…",
-        "fecha": "2026-09-21T05:08:24+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "La frase de la ruptura de Junts con Sánchez que hundió la legislatura: \"¿Mandáis o no en el Constitucional?\"",
-        "enlace": "https://www.elmundo.es/espana/2026/09/20/6aaffc20e85ece27628b4570.html",
-        "desc": "Rodríguez Zapatero intentó convencer a los de Puigdemont de que podría volver. \"Seguro que esto lo resolvería el PP\", indicaron los separatistas antes del portazo final&nbsp; Leer",
-        "fecha": "2026-09-20T22:55:17+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "Albares lleva casi un año ocultando cuántas nacionalidades se han concedido por la Ley de Nietos",
-        "enlace": "https://www.libertaddigital.com/espana/2026-09-20/albares-lleva-casi-un-ano-sin-revelar-cuantas-nacionalidades-se-han-concedido-por-la-ley-de-nietos-7462864/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Transparencia se ve obligada a actuar después de que el Gobierno haya evitado durante casi un año dar la información a un ciudadano que la solicitó.",
-        "fecha": "2026-09-20T09:47:47+02:00",
+        "titulo": "La Fiscalía diluyó en su informe sobre la invasión de Ceuta el delito que apunta al Gobierno para &quot;controlar daños&quot;",
+        "enlace": "https://www.libertaddigital.com/espana/2026-09-21/la-fiscalia-diluyo-en-su-informe-sobre-la-invasion-de-ceuta-el-delito-que-apunta-al-gobierno-para-controlar-danos-7462020/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Fuentes fiscales consultadas por LD afirman que &quot;el fiscal jefe de la Audiencia Nacional asumió el caso para proteger al Gobierno de Pedro Sánchez&quot;.",
+        "fecha": "2026-09-21T06:33:41+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
+      {
+        "titulo": "Attorney busts ‘biggest misconception’ in Karmelo Anthony filing that could be key in track meet murder case",
+        "enlace": "https://www.foxnews.com/us/attorney-busts-biggest-misconception-karmelo-anthony-filing-key-track-meet-murder-case",
+        "desc": "Karmelo Anthony&apos;s 75-page filing of alleged threats, gun photos and violent texts may never have reached jurors, a Texas defense attorney says.",
+        "fecha": "2026-09-21T06:00:30-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+        "enlace": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
+        "desc": "While many Republican candidates, even in some critical tossup races, still back President Trump's baseless claims about election integrity, some GOP voters say they are ready to m…",
+        "fecha": "2026-09-21T05:00:00-04:00",
+        "fuente": "NPR"
+      },
       {
         "titulo": "Manhunt underway in California after armed suspect allegedly points gun at people, shoots at officers",
         "enlace": "https://www.foxnews.com/us/manhunt-underway-california-after-armed-suspect-allegedly-points-gun-people-shoots-officers",
@@ -82,169 +96,141 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Federal immigration agent shoots and injures man in Austin, Texas",
-        "enlace": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-        "desc": "The person shot is in serious but stable condition, Austin Mayor Kirk Watson said in a press conference.",
-        "fecha": "2026-09-20T17:53:00-04:00",
-        "fuente": "NPR"
-      },
-      {
-        "titulo": "Patrick Clancy in his own words: Top takeaways from grieving father's first interview",
-        "enlace": "https://www.foxnews.com/us/patrick-clancy-his-own-words-top-takeaways-from-grieving-fathers-first-interview",
-        "desc": "Patrick Clancy told &quot;60 Minutes&quot; that baby Callan died in his arms after four agonizing days and recalled apologizing to his son in their final moments.",
-        "fecha": "2026-09-20T20:44:13-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-        "enlace": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-        "desc": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
-        "fecha": "2026-09-20T17:39:24-04:00",
+        "titulo": "The data center backlash is reshaping American politics — one community at a time",
+        "enlace": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+        "desc": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances.",
+        "fecha": "2026-09-21T05:00:00-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Zohran Mamdani y la alcaldesa de Ciudad México comparten visión de ciudades asequibles",
-        "enlace": "https://www.clarin.com/estados-unidos/zohran-mamdani-y-la-alcaldesa-de-ciudad-mexico-comparten-vision-de-ciudades-asequibles_0_7sZY5HX6fb.html",
-        "desc": "Líderes de Nueva York y Ciudad México debatieron sobre ciudades accesibles y democráticas en la Cumbre U20. Destacan iniciativas de inclusión. Mamdani resalta la inspiración de la …",
-        "fecha": "2026-09-21T03:50:09+00:00",
+        "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 21 de septiembre",
+        "enlace": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-21-septiembre_0_cmPvkzNDbm.html",
+        "desc": "El dólar oficial abre este lunes a $ 1.535 en las pizarras del Banco Nación. En tanto, el dólar blue se consigue a $ 1.550 en las cuevas de la City porteña.",
+        "fecha": "2026-09-21T10:00:57+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Megainvestigación: estudiaron en 20 países qué personas sufrieron más durante la pandemia de Covid y esta es la respuesta",
-        "enlace": "https://www.lanacion.com.ar/sociedad/megainvestigacion-estudiaron-en-20-paises-que-personas-sufrieron-mas-durante-la-pandemia-de-covid-y-nid20092026/",
-        "desc": "Helen Legido Quigley, experta del Imperial College London, presentó el informe de la comisión PRIME; trabajaron durante tres años e hicieron recomendaciones a futuro",
-        "fecha": "2026-09-21T04:32:58+00:00",
+        "titulo": "Así luce hoy Michael Vartan: era el galán de Hollywood y tenía un futuro promisorio, pero decidió abandonar la actuación",
+        "enlace": "https://www.lanacion.com.ar/espectaculos/asi-luce-hoy-michael-vartan-era-el-galan-de-hollywood-y-tenia-un-futuro-promisorio-pero-decidio-nid20092026/",
+        "desc": "El intérprete franco-estadounidense sorprendió al público tras su reciente aparición pública en Los Ángeles; el actor priorizó su vida personal por sobre los sets de filmación",
+        "fecha": "2026-09-21T10:28:24+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este lunes 21 septiembre de 2026",
-        "enlace": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-lunes-21-septiembre-2026_0_K7ak2dzfGo.html",
-        "desc": "El SMN anticipa para este lunes temperaturas entre 9°C y 16°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-        "fecha": "2026-09-21T03:45:43+00:00",
+        "titulo": "La necesidad que el crédito hipotecario financie los proyectos de pozo",
+        "enlace": "https://www.clarin.com/arq/inmobiliario/necesidad-credito-hipotecario-financie-proyectos-pozo_0_sEPue82l7a.html",
+        "desc": "Este tipo de inmueble, que es el verdadero motor de la construcción y del desarrollo urbano, está fuera del sistema.",
+        "fecha": "2026-09-21T10:00:57+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "El medallero de los Juegos Suramericanos Santa Fe 2026",
-        "enlace": "https://www.lanacion.com.ar/deportes/el-medallero-de-los-juegos-suramericanos-santa-fe-2026-nid16092026/",
-        "desc": "La competencia se desarrolla en las ciudades de Rosario, Santa Fe y Rafaela y finaliza el 26 de este mes",
-        "fecha": "2026-09-21T04:03:21+00:00",
+        "titulo": "Día de la Primavera: por qué se celebra hoy y 150 frases para enviar por WhatsApp",
+        "enlace": "https://www.lanacion.com.ar/sociedad/dia-de-la-primavera-por-que-se-celebra-hoy-y-150-frases-para-enviar-por-whatsapp-nid21092026/",
+        "desc": "Flores amarillas, reuniones al aire libre y buenos deseos, son algunas de las tradiciones que dan la bienvenida a esta época del año",
+        "fecha": "2026-09-21T10:25:05+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "« La digue a lâché en Allemagne » : la montée de l’extrême droite outre-Rhin inquiète sur la scène européenne",
-        "enlace": "https://www.lemonde.fr/international/article/2026/09/21/la-digue-a-lache-en-allemagne-la-montee-de-l-extreme-droite-outre-rhin-inquiete-sur-la-scene-europeenne_6778653_3210.html",
-        "desc": "Les partenaires de Berlin sont préoccupés par un pays qui se replie sur ses intérêts, au risque de nourrir la défiance, voire la peur chez ses voisins.",
-        "fecha": "2026-09-21T05:29:38+02:00",
+        "titulo": "L’Etat selon Jean-Luc Mélenchon : entre « révolution citoyenne » et reprise en main de l’administration",
+        "enlace": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/21/presidentielle-2027-fonction-publique-services-publics-impartialite-l-etat-que-veulent-lfi-et-jean-luc-melenchon_6778651_6205049.html",
+        "desc": "Le candidat de LFI a présenté ses projets de réforme lors d’une conférence organisée mercredi 16 septembre à Saint-Denis (Seine-Saint-Denis) par l’Institut La Boétie. S’il veut ren…",
+        "fecha": "2026-09-21T05:15:09+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Donald Trump annonce une rencontre avec Emmanuel Macron à New York ce lundi",
-        "enlace": "https://www.lefigaro.fr/international/donald-trump-rencontrera-emmanuel-macron-a-new-york-ce-lundi-20260921",
-        "desc": "L’entretien est prévu à 17h35 locales (21h35 GMT, 23h35 à Paris), selon l’agenda du président américain publié dimanche soir.",
-        "fecha": "2026-09-21T06:22:07+02:00",
+        "titulo": "Laurent Nuñez assure que la menace d’une guerre hybride menée par la Russie est «réelle» et «documentée»",
+        "enlace": "https://www.lefigaro.fr/international/laurent-nunez-assure-que-la-menace-d-une-guerre-hybride-menee-par-la-russie-est-reelle-et-documentee-20260921",
+        "desc": "La «nature de l’agressivité russe et des menaces en Europe change», avait prévenu Emmanuel Macron vendredi à l’issue d’une réunion à l’Élysée avec les chefs de parti et candidats à…",
+        "fecha": "2026-09-21T12:22:13+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Ingérences, budget, carburant : l'opération déminage d'Emmanuel Macron",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260920-ing%C3%A9rences-budget-carburant-l-op%C3%A9ration-d%C3%A9minage-d-emmanuel-macron",
-        "desc": "Au menu de l'Essentiel politique : la géopolitique qui s'invite dans la campagne présidentielle, l'impopulaire budget 2027 et Ségolène Royal qui vient jouer les trouble-fête à la p…",
-        "fecha": "2026-09-20T22:35:48+00:00",
+        "titulo": "Syrie : un opposant à Bachar al-Assad déterre ses livres quinze ans après les avoir enfouis",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260921-syrie-un-opposant-%C3%A0-bachar-al-assad-d%C3%A9terre-ses-livres-quinze-ans-apr%C3%A8s-les-avoir-enfouis",
+        "desc": "Après avoir vécu plus d'une décennie dans un camp de réfugiés, Mustafa Khaled Alwan, sympathisant de la branche syrienne des frères musulmans, a enfin pu abattre le faux mur qu'il …",
+        "fecha": "2026-09-21T10:07:26+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "A Saint-Pierre-et-Miquelon, la France et le Canada affichent leur rapprochement face à Donald Trump",
-        "enlace": "https://www.lemonde.fr/international/article/2026/09/21/a-saint-pierre-et-miquelon-la-france-et-le-canada-affichent-leur-rapprochement-face-a-donald-trump_6778650_3210.html",
-        "desc": "La visite éclair du premier ministre canadien, Mark Carney, sur l’archipel français dimanche, fut l’occasion d’exposer une association tactique et symbolique des deux pays en répon…",
-        "fecha": "2026-09-21T05:15:10+02:00",
+        "titulo": "Primaire à gauche : Raphaël Glucksmann, traité de « stagiaire » par Ségolène Royal, la renvoie à des postes « quémandés pendant quarante-cinq ans »",
+        "enlace": "https://www.lemonde.fr/politique/article/2026/09/21/primaire-a-gauche-raphael-glucksmann-traite-de-stagiaire-par-segolene-royal-la-renvoie-a-des-postes-quemandes-pendant-quarante-cinq-ans_6778949_823448.html",
+        "desc": "A trois semaines du premier tour de la primaire, le ton monte entre les deux concurrents, alors que l’ancienne candidate socialiste à la présidentielle de 2007 a critiqué, dimanche…",
+        "fecha": "2026-09-21T11:58:19+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Emmanuel Macron interviewé jeudi à 20 heures sur TF1 et France 2",
-        "enlace": "https://www.lefigaro.fr/politique/emmanuel-macron-interviewe-jeudi-a-20-heures-sur-tf1-et-france-2-20260920",
-        "desc": "Le chef de l’État devrait être interrogé sur les tensions géopolitiques, avec la Russie et le Moyen-Orient, et sur la crise énergétique qui impacte lourdement le portefeuille des F…",
-        "fecha": "2026-09-20T21:09:51+02:00",
+        "titulo": "«Une agressivité accrue de la Russie avec un seuil de prise de risque abaissé» : Moscou repousse les limites de sa guerre hybride",
+        "enlace": "https://www.lefigaro.fr/international/une-agressivite-accrue-de-la-russie-avec-un-seuil-de-prise-de-risque-abaisse-moscou-repousse-les-limites-de-sa-guerre-hybride-20260916",
+        "desc": "ANALYSE - Les Occidentaux s’inquiètent d’un regain d’agressivité de la Russie, qui tente de déstabiliser les soutiens de l’Ukraine.",
+        "fecha": "2026-09-16T21:00:00+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Voile : le navigateur Louis Burton ambitieux avant le départ de la Route du Rhum",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260920-voile-le-navigateur-louis-burton-ambitieux-avant-le-d%C3%A9part-de-la-route-du-rhum",
-        "desc": "La Route du Rhum est la reine des courses transatlantiques en solitaire. Depuis 44 ans, elle relie Saint-Malo en Bretagne à Pointe-à-Pitre en Guadeloupe. Parmi les navigateurs enga…",
-        "fecha": "2026-09-20T21:31:18+00:00",
+        "titulo": "Enquête : des contrats opaque entre l'ICE et l'Afrique",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260921-enqu%C3%AAte-des-contrats-opaque-entre-l-ice-et-l-afrique",
+        "desc": "Les agents de l'ICE, police de l'immigration et des douanes aux méthodes très décriées sont le bras armé de la politique anti-immigration menée par Donald Trump depuis son retour a…",
+        "fecha": "2026-09-21T10:02:12+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Laura McAllister: Wer ist die Frau, die sich gegen Fifa-Boss Gianni Infantino erhebt?",
-        "enlace": "https://www.spiegel.de/sport/fussball/laura-mcallister-wer-ist-die-frau-die-sich-gegen-fifa-boss-gianni-infantino-erhebt-a-8e20f91c-133a-47ae-afb5-62dd51d0a4ac#ref=rss",
-        "desc": "Es tobt ein Machtkampf um die Zukunft des Fußballs. Uefa-Vizepräsidentin Laura McAllister arbeitet am Sturz von Gianni Infantino. Der SPIEGEL hat sie getroffen.",
-        "fecha": "2026-09-21T06:39:00+02:00",
+        "titulo": "Jürgen Klopp: Wenn Klopp einen anschreit – BVB-Ikone Dickel erinnert sich",
+        "enlace": "https://www.spiegel.de/sport/fussball/juergen-klopp-wenn-klopp-einen-anschreit-bvb-ikone-dickel-erinnert-sich-a-fc553581-ee5a-4ef9-8da3-e5100f2ebc0f#ref=rss",
+        "desc": "BVB-Stadionsprecher Norbert Dickel hat Jürgen Klopp aus nächster Nähe erlebt, in dessen Zeit als Trainer von Borussia Dortmund. Ein Interview mit einem glühenden Fan.",
+        "fecha": "2026-09-21T12:28:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Konflikte in der Beziehung: »Wenn Kritik funktionieren würde, bräuchte keiner eine Paartherapie«",
-        "enlace": "https://www.zeit.de/wissenschaft/2026-09/konflikte-beziehung-kommunikation-therapie-sexpodcast",
-        "desc": "Viele Paare wissen, warum sie ständig streiten. Hilft nur nichts. Veränderung müsse sich lohnen, sagt Therapeut Eric Hegmann. Wie echte Verbindung neu entsteht und hält.",
-        "fecha": "2026-09-21T04:10:07",
+        "titulo": "Krieg gegen die Ukraine: Russische Angriffe treffen Einkaufszentrum und Wohnblocks",
+        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "desc": "In Saporischschja hat Russland mehrere zivile Gebäude attackiert. Kaja Kallas wertet den Wahlausgang in Russland als »schweren Rückschlag für Demokratie«. Das Liveblog",
+        "fecha": "2026-09-21T10:17:27",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Berlin Abgeordnetenhauswahl: Wie die Linke Berlin erobert hat",
-        "enlace": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-wie-die-linke-berlin-erobert-hat-a-4422f96d-65c5-4943-b78d-50ccc9874e8c#ref=rss",
-        "desc": "Für die Linken war es ein rauschender Wahlabend in der Hauptstadt, nun lockt das Rote Rathaus. Doch was hat den Abend entschieden? Und welche Lehren folgen daraus? Die Antworten im…",
-        "fecha": "2026-09-21T06:22:00+02:00",
+        "titulo": "Iran: Warum Iranerinnen und Iraner nach Armenien fliehen",
+        "enlace": "https://www.spiegel.de/ausland/iran-warum-iranerinnen-und-iraner-nach-armenien-fliehen-a-513009c7-9abb-445e-9ded-65ff59ad9d60#ref=rss",
+        "desc": "Zu Jahresbeginn gingen Menschen in Massen gegen die Islamische Republik auf die Straße. Inzwischen wirkt das Regime gefestigt. Manche Oppositionelle sehen nur noch eine Chance.",
+        "fecha": "2026-09-21T12:09:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Reaktionen auf Wahlergebnisse: CSU fordert mehr Tempo bei Reformen, SPD warnt vor Überforderung",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-09/klaus-holetschek-csu-friedrich-merz-reformen-cdu",
-        "desc": "Das Zeitfenster für Reformen werde immer kleiner, warnt die CSU. Ein früherer CDU-Chef in Mecklenburg-Vorpommern wirft Kanzler Friedrich Merz mangelnde Empathie vor.",
-        "fecha": "2026-09-21T04:06:32",
+        "titulo": "Wahlen in Berlin und Mecklenburg-Vorpommern: Manuela Schwesig möchte mit Grünen und Linken verhandeln",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-09/spd-wahlergebnisse-berlin-mecklenburg-vorpommern-lars-klingbeil",
+        "desc": "Die Ministerpräsidentin in Mecklenburg-Vorpommern möchte eine rot-rot-grüne Landesregierung bilden. Bei einer Pressekonferenz kritisierte Schwesig den Bundeskanzler.",
+        "fecha": "2026-09-21T10:08:03",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "L’Ice spara, grave un uomo a Austin. “È un migrante del Venezuela senza documenti”",
-        "enlace": "https://www.repubblica.it/esteri/2026/09/21/news/ice_spara_austin_texas_uomo_venezuela-425597366/",
-        "desc": "Colpito al torace dopo un breve inseguimento a piedi. Insorge la città texana, il sindaco: “Arrabbiato e deluso, episodio avvenuto dopo un significativo aumento di operazioni da pa…",
-        "fecha": "2026-09-21T01:35:55+00:00",
+        "titulo": "Var spento, gli ex arbitri difendono la nuova linea: “Uso solo in casi gravi”",
+        "enlace": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/21/news/var_spento_orsato_ex_arbitri_intervista-425597955/",
+        "desc": "Dopo la trattenuta di Kalulu su Rowe a Torino, la polemica del tecnico dell’Atalanta Sarri. Risponde l’ex arbitro Tagliavento: “A prescindere dall’episodio, la nuova linea sull’uso…",
+        "fecha": "2026-09-21T09:29:32+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Iran, allerta Usa per un’escalation. Trump: “Deciderò se annientarlo”",
-        "enlace": "https://www.repubblica.it/esteri/2026/09/21/news/iran_usa_trump_decidero_se_annientarlo-425597149/",
-        "desc": "Il tycoon anticipa il rientro a Washington: “Si comportino bene o salteranno in aria”. Ma non esclude di vedere Pezeshkian all’Onu",
-        "fecha": "2026-09-20T23:03:48+00:00",
+        "titulo": "Dodicenne adescato con la scusa del monopattino e violentato nel parco dell’Arrivore",
+        "enlace": "https://torino.repubblica.it/cronaca/2026/09/21/news/dodicenne_adescato_con_la_scusa_del_monopattino_e_violentato_nel_parco_dell_arrivore-425597945/",
+        "desc": "La vittima avrebbe raccontato tutto alla madre dopo essere stata trovata sotto choc dagli amici. Indaga la Squadra mobile. Oggi il presidio di Fratelli d’Italia.",
+        "fecha": "2026-09-21T09:27:48+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "Specialist courts for rape cases to be rolled out across England and Wales",
-        "enlace": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
-        "desc": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
-        "fecha": "2026-09-20T22:43:31+00:00",
-        "fuente": "BBC"
-      },
-      {
-        "titulo": "‘Brown men are fearless, funny and sexy’: Salman Toor on clubbing, queerness and New York’s Muslim moment",
-        "enlace": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment",
-        "desc": "Toor’s electrifying pictures have made him a global star – and he’s even painted Zohran Mamdani. As the artist hits London’s prestigious Courtauld Gallery, he talks about Manet, mu…",
-        "fecha": "2026-09-21T04:00:34+00:00",
-        "fuente": "The Guardian"
-      },
-      {
-        "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-        "fecha": "2026-09-21T03:22:44+00:00",
+        "titulo": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+        "enlace": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+        "desc": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+        "fecha": "2026-09-21T04:00:05+00:00",
         "fuente": "BBC"
       },
       {
@@ -253,90 +239,104 @@
         "desc": "Modern lifestyles seem to be exacerbating the problem of bromhidrosis – an underresearched condition that is widely misunderstood and devastating for sufferers If Hayat goes out to…",
         "fecha": "2026-09-21T04:00:34+00:00",
         "fuente": "The Guardian"
+      },
+      {
+        "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+        "fecha": "2026-09-21T08:56:27+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "‘Brown men are fearless, funny and sexy’: Salman Toor on clubbing, queerness and New York’s Muslim moment",
+        "enlace": "https://www.theguardian.com/artanddesign/2026/sep/21/salman-toor-artist-interview-clubbing-queerness-new-york-muslim-moment",
+        "desc": "Toor’s electrifying pictures have made him a global star – and he’s even painted Zohran Mamdani. As the artist hits London’s prestigious Courtauld Gallery, he talks about Manet, mu…",
+        "fecha": "2026-09-21T04:00:34+00:00",
+        "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Onde estão, afinal, os “alunos de Crato”?",
-        "enlace": "https://www.publico.pt/2026/09/21/opiniao/opiniao/onde-estao-afinal-alunos-crato-2188635",
-        "desc": "É abusiva, se não mesmo ridícula, a tentativa de apropriação dos bons resultados de Portugal no PISA de 2015 por parte do ex-ministro. Opinião de Nuno Serra",
-        "fecha": "2026-09-20T23:30:00+00:00",
+        "titulo": "A ressaca das eleições regionais na Alemanha em cinco pontos",
+        "enlace": "https://www.publico.pt/2026/09/21/mundo/noticia/ressaca-eleicoes-regionais-alemanha-cinco-pontos-2188757",
+        "desc": "AfD e Die Linke crescem em Mecklemburgo-Pomerânia Ocidental e em Berlim, e a CDU afunda-se. Merz admite resultado “desastroso”, mas não se demite.",
+        "fecha": "2026-09-21T09:17:05+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "As notícias das 5h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1567/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-09-21T05:17:53+01:00",
+        "titulo": "PJ detém 3 suspeitos de traficar droga em entregas postais",
+        "enlace": "https://observador.pt/2026/09/21/pj-detem-tres-homens-suspeitos-de-importar-droga-atraves-de-encomendas-postais/",
+        "desc": "Os suspeitos foram identificados numa operação da Unidade Nacional de Combate ao Tráfico de Estupefacientes da PJ",
+        "fecha": "2026-09-21T11:29:29+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Quando os governantes querem ser diretores-gerais",
-        "enlace": "https://www.publico.pt/2026/09/21/opiniao/opiniao/governantes-querem-diretoresgerais-2188265",
-        "desc": "Nos últimos anos, e em particular com o atual Governo, assistimos a uma intervenção crescente de ministros e secretários de Estado em matérias que pertencem ao domínio da gestão ad…",
-        "fecha": "2026-09-20T23:25:00+00:00",
+        "titulo": "No Queer Lisboa, o futuro aprende com os fantasmas do passado",
+        "enlace": "https://www.publico.pt/2026/09/21/culturaipsilon/noticia/queer-lisboa-futuro-aprende-fantasmas-passado-2188719",
+        "desc": "O festival lisboeta propõe por estes dias quatro filmes de resistência para pensar o momento presente em que vivemos e questionar o próprio lugar do espectador.",
+        "fecha": "2026-09-21T09:13:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "As notícias das 4h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2407/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-09-21T04:18:53+01:00",
+        "titulo": "Rússia. Putin renova maioria parlamentar com mais deputados",
+        "enlace": "https://observador.pt/2026/09/21/putin-renova-maioria-parlamentar-na-russia-com-recorde-de-deputados/",
+        "desc": "A votação decorreu entre sexta-feira e domingo, naquelas que foram as primeiras legislativas russas desde que Putin ordenou a invasão em grande escala da Ucrânia",
+        "fecha": "2026-09-21T11:28:14+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Para além do dinheiro, eficiência depende de gestão e organização, dizem especialistas",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/para-alem-do-dinheiro-eficiencia-depende-de-gestao-e-organizacao-dizem-especialistas.shtml",
-        "desc": "Os resultados do Ranking de Eficiência dos Estados ? Folha (REE-F) mostram que a quantidade de recursos disponíveis não explica sozinha a qualidade dos serviços públicos. Leia mais…",
-        "fecha": "2026-09-20T23:00:00-03:00",
+        "titulo": "Alvo de especulações para 2030, Dino seria bem-vindo de volta no PSB, dizem dirigentes",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/alvo-de-especulacoes-para-2030-dino-seria-bem-vindo-de-volta-no-psb-dizem-dirigentes.shtml",
+        "desc": "O protagonismo do ministro Flávio Dino na tumultuada sessão do STF (Supremo Tribunal Federal) nesta terça-feira (15) reacendeu entre membros do governo a avaliação de que ele estar…",
+        "fecha": "2026-09-21T06:00:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-        "enlace": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-        "desc": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta segunda-feira (21) para Brasília (DF) é de sol com algumas nuvens. Não chove. As máximas são de 32ºC e as mínima…",
-        "fecha": "2026-09-21T04:07:30",
+        "titulo": "Motor é arremessado a 30 metros em acidente que matou pai e filho em São Luís; carro se partiu ao meio",
+        "enlace": "https://g1.globo.com/ma/maranhao/noticia/2026/09/21/motor-e-arremessado-a-30-metros-em-acidente-que-matou-pai-e-filho-em-sao-luis-carro-se-partiu-ao-meio.ghtml",
+        "desc": "Pai e filho morrem após carro bater em poste e se partir ao meio no Maranhão O acidente que matou pai e filho nesse domingo (20), na Avenida Jerônimo de Albuquerque, em São Luís, d…",
+        "fecha": "2026-09-21T10:28:18",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Tarcísio aproveita brecha da lei e faz 'visitas técnicas' a obras durante campanha",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/tarcisio-aproveita-brecha-da-lei-e-faz-visitas-tecnicas-a-obras-durante-campanha.shtml",
-        "desc": "Impedido de entregar obras durante o período eleitoral, o governador Tarcísio de Freitas (Republicanos) tem adotado como estratégia visitas técnicas a algumas que estão em andament…",
-        "fecha": "2026-09-20T23:00:00-03:00",
+        "titulo": "Podcast: a reta final da corrida eleitoral e as preocupações de Lula e Flávio Bolsonaro",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-a-reta-final-da-corrida-eleitoral-e-as-preocupacoes-de-lula-e-flavio-bolsonaro.shtml",
+        "desc": "A menos de 15 dias do primeiro turno da eleição , o cenário da corrida presidencial está acirrado. A última pesquisa do Datafolha , divulgada na quinta-feira (17), mostra Lula (PT)…",
+        "fecha": "2026-09-21T05:00:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com algumas nuvens; chove rápido durante o dia e à noite",
-        "enlace": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/09/21/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-        "desc": "Previsão do tempo hoje em São Paulo g1 A previsão do tempo para esta segunda-feira (21) para São Paulo (SP) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As má…",
-        "fecha": "2026-09-21T04:07:12",
+        "titulo": "Pabllo Vittar faz feats com o cantor venezuelano La Cruz e o astro italiano Mahmood no álbum 'Lost in lust'",
+        "enlace": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/21/pabllo-vittar-faz-feats-com-o-cantor-venezuelano-la-cruz-e-o-astro-italiano-mahmood-no-album-lost-in-lust.ghtml",
+        "desc": "Pabllo Vittar reúne 12 músicas em inglês e/ou espanhol no sétimo álbum de estúdio da cantora, 'Lost in lust', agendado para 1º de outubro Divulgação ♫ NOTÍCIA ♬ O cantor venezuelan…",
+        "fecha": "2026-09-21T10:28:08",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Luxor is at the heart of Egypt’s medical tourism push",
-        "enlace": "https://www.japantimes.co.jp/business/2026/09/21/markets/luxor-egypt-medical-tourism/",
-        "desc": "Egypt's authorities aim to compete with more-established destinations in providing services from major surgical procedures to dentistry and cosmetics.",
-        "fecha": "2026-09-21T13:02:00+09:00",
+        "titulo": "China confirms Xi’s first trip to U.S. in nearly three years",
+        "enlace": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/politics/china-xi-us-trip-confirm/",
+        "desc": "The visit to Washington comes as a one-year trade truce winds down.",
+        "fecha": "2026-09-21T18:04:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "The other Hormuz: Black Sea blockade threatens a food supply shock",
-        "enlace": "https://www.japantimes.co.jp/news/2026/09/21/world/black-sea-blockade-food-supply/",
-        "desc": "The impasse is compounding economic damage by threatening to drive inflation even higher while undermining food security in vulnerable countries.",
-        "fecha": "2026-09-21T12:31:00+09:00",
+        "titulo": "‘Rustout’: Japan’s other workplace problem",
+        "enlace": "https://www.japantimes.co.jp/commentary/2026/09/21/japan/japans-rustout-workplace-problem/",
+        "desc": "Japan must address both burnout and rustout to ensure workplaces use employees' abilities meaningfully rather than merely keeping them busy.",
+        "fecha": "2026-09-21T18:02:00+09:00",
         "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
       {
-        "titulo": "EE.UU. impulsará en la ONU una campaña para la soberanía marroquí del Sahara",
-        "enlace": "https://www.abc.es/internacional/eeuu-impulsara-onu-campana-soberania-marroqui-sahara-20260918011827-nt.html",
-        "desc": "Estados Unidos asegura que trabaja con Naciones Unidas en un «proceso político activo» para avanzar hacia una solución al conflicto del Sahara Occidental y sitúa ese esfuerzo entre…",
-        "fecha": "2026-09-21T01:18:27+02:00",
+        "titulo": "La UE califica de «fraudulentas» las elecciones en Rusia y anuncia nuevas sanciones",
+        "enlace": "https://www.abc.es/internacional/ue-califica-fraudulentas-elecciones-rusia-anuncia-nuevas-20260921113140-nt.html",
+        "desc": "La Unión Europea ha rechazado reconocer los resultados de las elecciones a la Duma (Parlamento) rusa tras denunciar que esta ha sido realizada de forma «fraudulenta», sin respetar …",
+        "fecha": "2026-09-21T11:31:45+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -347,10 +347,10 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "La tercera victoria regional de AfD acorrala al canciller Merz en el momento más delicado para Alemania",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-09-21/la-tercera-victoria-electoral-de-afd_4427858/",
-        "desc": "La peor derrota electoral de la CDU desde 1949 reaviva tanto las críticas externas como las de sus propios miembros de coalición, que piden al jefe de Gobierno un cambio de rumbo y…",
-        "fecha": "2026-09-21T04:45:21.993002+00:00",
+        "titulo": "\"Una cuestión de civilización\": Meloni la emprende con los 'coles' e impone un límite de extranjeros y la prohibición del burka",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-09-21/meloni-ilimite-numero-alumnos-extranjeros-escuelas-prohibe-el-uso-del-burka_4428077/",
+        "desc": "La primera ministra subrayó que \"en la escuela hay que ir con el rostro descubierto, y en Italia nadie puede decidir, en nombre de una tradición real o supuesta, que una joven deba…",
+        "fecha": "2026-09-21T10:32:04.681603+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
@@ -361,31 +361,31 @@
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "La ONU, \"profundamente alarmada\": más de 1.000 casos de violencia sexual desde la invasión rusa de Ucrania",
-        "enlace": "https://es.euronews.com/2026/09/20/la-onu-profundamente-alarmada-mas-de-1000-casos-de-violencia-sexual-desde-la-invasion-rusa",
-        "desc": "Rusia fue incluida en mayo en la lista de la ONU de partes sobre las que existen sospechas fundadas de haber cometido violencia sexual en conflictos, considerada crimen de guerra y…",
-        "fecha": "2026-09-20T21:50:08+02:00",
+        "titulo": "EE.UU. se vale de acuerdos secretos para deportar a 25.000 inmigrantes a terceros países",
+        "enlace": "https://es.euronews.com/2026/09/21/eeuu-se-vale-de-acuerdos-secretos-para-deportar-a-25000-inmigrantes-a-terceros-paises",
+        "desc": "Desde que el presidente estadounidense, Donald Trump, asumió el cargo en enero de 2025, Washington ha firmado decenas de acuerdos con países en desarrollo para acoger a migrantes q…",
+        "fecha": "2026-09-21T10:59:13+02:00",
         "fuente": "Euronews ES"
       },
       {
         "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-        "fecha": "2026-09-21T03:22:44+00:00",
+        "fecha": "2026-09-21T08:56:27+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
-        "enlace": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
-        "desc": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran&apos;s delegation movements.",
-        "fecha": "2026-09-20T16:30:57-04:00",
+        "titulo": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
+        "enlace": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
+        "desc": "China&apos;s upgraded base near Camp Lemonnier features new antennas and signals intelligence assets turning the Red Sea into a surveillance hub.",
+        "fecha": "2026-09-21T06:00:50-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Vuelven los aguadores a La Habana",
-        "enlace": "https://www.abc.es/internacional/vuelven-aguadores-habana-20260919011820-nt.html",
-        "desc": "Para beber, cocinar o bañarse, cada vez más habaneros tienen que comprar el agua. En medio de una de las peores crisis de abastecimiento de las últimas décadas, un oficio que parec…",
-        "fecha": "2026-09-21T01:18:20+02:00",
+        "titulo": "La CDU de Merz se queda fuera del Parlamento Mecklemburgo-Pomerania Occidental por primera vez en su historia",
+        "enlace": "https://www.abc.es/internacional/cdu-merz-queda-parlamento-mecklemburgopomerania-occidental-primera-20260921102623-nt.html",
+        "desc": "La CDU del canciller alemán, Friedrich Merz, no ha alcanzado el umbral del cinco por ciento de los votos requeridos para tener representación en el Parlamento de Mecklemburgo-Pomer…",
+        "fecha": "2026-09-21T10:26:23+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -396,10 +396,10 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "El partido de Putin gana las elecciones, ¿y qué? Lo que da miedo a los rusos es lo que viene después",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-09-21/sin-sorpresas-el-partido-de-putin-gana-las-elecciones-lo-que-da-miedo-a-los-rusos-es-lo-que-viene-despues_4427868/",
-        "desc": "La victoria de Rusia Unida se lee como un mandato para continuar la guerra, especialmente después de la suspensión de Yábloko, el único partido ruso abiertamente opuesto al conflic…",
-        "fecha": "2026-09-21T04:45:21.993046+00:00",
+        "titulo": "Así es Anton Afinogenov, el misterioso guardaespaldas de Putin: jugador de hockey profesional y superestrella con miles de fans",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-09-21/1qrt-asi-es-anton-afinogenov-guardaespaldas-putin-hockey-superestrella_4428024/",
+        "desc": "Su presencia discreta junto al presidente ruso ha despertado una enorme curiosidad en las redes sociales, pese al férreo secretismo que rodea su trayectoria personal y profesional",
+        "fecha": "2026-09-21T10:32:04.681637+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -408,42 +408,42 @@
         "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-        "fecha": "2026-09-21T03:22:44+00:00",
+        "fecha": "2026-09-21T08:56:27+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
-        "enlace": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
-        "desc": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran&apos;s delegation movements.",
-        "fecha": "2026-09-20T16:30:57-04:00",
+        "titulo": "China ‘wiretapped Red Sea’ with spy hub 6 miles from US base: ex Pentagon official warns",
+        "enlace": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
+        "desc": "China&apos;s upgraded base near Camp Lemonnier features new antennas and signals intelligence assets turning the Red Sea into a surveillance hub.",
+        "fecha": "2026-09-21T06:00:50-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "US, China discuss AI safety ahead of Trump-Xi summit",
-        "enlace": "https://www.france24.com/en/americas/20260921-us-china-discuss-ai-safety-ahead-of-trump-xi-summit",
-        "desc": "US and Chinese officials discussed creating a mechanism to communicate over potentially serious AI incidents during talks in New York on Sunday, as the two sides sought progress on…",
-        "fecha": "2026-09-21T02:22:17+00:00",
+        "titulo": "France prepares for Pope Leo XIV historic visit",
+        "enlace": "https://www.france24.com/en/france-prepares-for-pope-leo-xiv-historic-visit",
+        "desc": "Four days ahead of Pope Leo’s visit to France, preparations have been underway for months. From Friday, the Pope will travel to Paris, Lourdes and Metz, with several sensitive issu…",
+        "fecha": "2026-09-21T09:57:23+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Tourists stranded on isolated Oregon beach after trying to snap ‘dramatic’ photo",
-        "enlace": "https://nypost.com/2026/09/21/us-news/tourists-stranded-on-oregon-beach-after-trying-to-snap-dramatic-photo/",
-        "desc": "Authorities said they flew a drone over to the location and found the stuck shutterbugs waiting for help on the last remaining bit of land, having spelled out “SOS” with sticks.",
-        "fecha": "2026-09-20T21:43:56-07:00",
+        "titulo": "Dear Abby: I’m a frustrated teacher — parents need to put their phones down and pay attention to their kids",
+        "enlace": "https://nypost.com/2026/09/21/lifestyle/dear-abby-im-a-frustrated-teacher-parents-need-to-put-their-phones-down-and-pay-attention-to-their-kids/",
+        "desc": "Dear Abby gives advice to a teacher who believes their is a link between her students misbehaving in class and their parents not paying enough attention to them.",
+        "fecha": "2026-09-21T06:09:00-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "US: Man wounded in Texas after being shot by ICE agent",
-        "enlace": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-rdf",
-        "desc": "An ICE agent shot and wounded a man in Austin, Texas. The city's mayor has called for an independent investigation into the shooting.",
-        "fecha": "2026-09-21T04:45:27.882781+00:00",
+        "titulo": "Germany news: Trial starts of ex-Transport Minister Scheuer",
+        "enlace": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-all-1573-rdf",
+        "desc": "Former Transport Minister Andreas Scheuer is being tried for perjury related to a failed car toll scheme. And cherry farmers have brought in a bumper harvest. DW has more.",
+        "fecha": "2026-09-21T10:32:10.588283+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "US and China to seek 'AI dialogue' to communicate shared concerns",
-        "enlace": "https://www.euronews.com/2026/09/21/us-and-china-to-seek-ai-dialogue-to-communicate-shared-concerns",
-        "desc": "US and Chinese economic officials discussed creating a communication channel for AI concerns at meetings Sunday as they set the stage for a summit of the countries' top leaders thi…",
-        "fecha": "2026-09-21T05:54:45+02:00",
+        "titulo": "Yemen's Houthis pledge not to target US ships after Trump cancels strikes",
+        "enlace": "https://www.euronews.com/2026/09/21/yemens-houthis-pledge-not-to-target-us-ships-after-trump-cancels-strikes",
+        "desc": "A senior Houthi official said Washington reached out after the group's advance to Bab el-Mandeb, as US media reported Trump cancelled planned strikes at the last minute after a cal…",
+        "fecha": "2026-09-21T12:02:00+02:00",
         "fuente": "Euronews EN"
       },
       {
@@ -454,24 +454,24 @@
         "fuente": "OAN"
       },
       {
-        "titulo": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "desc": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "fecha": "2026-09-20T10:45:39+00:00",
+        "titulo": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "fecha": "2026-09-21T00:05:11+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
-        "enlace": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal",
-        "desc": "Ambassador Mike Waltz says President Trump will push Gulf leaders and allies to enforce Iran sanctions at the United Nations, warning of consequences for noncompliance.",
-        "fecha": "2026-09-20T11:01:49-04:00",
+        "titulo": "World leaders descend on New York for UNGA — but who really has America’s ear?",
+        "enlace": "https://www.foxnews.com/world/world-leaders-descend-new-york-unga-who-really-has-americas-ear",
+        "desc": "Over 100 world leaders descend on the United Nations General Assembly as wars in the Middle East and Ukraine dominate the diplomatic agenda.",
+        "fecha": "2026-09-21T06:00:05-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
-        "enlace": "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
-        "desc": "French President ​Emmanuel Macron and Canadian Prime Minister Mark Carney on ​Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pier…",
-        "fecha": "2026-09-21T02:16:58+00:00",
+        "titulo": "AfD surges as Merz’s CDU suffers regional elections setback",
+        "enlace": "https://www.france24.com/en/afd-surges-as-merz-s-cdu-suffers-regional-elections-setback",
+        "desc": "Another electoral setback for German Chancellor Friedrich Merz, as his centre-right CDU performed poorly in two state elections on Sunday. Projections showed the party failing to e…",
+        "fecha": "2026-09-21T09:54:25+00:00",
         "fuente": "France 24 EN"
       }
     ],
@@ -484,31 +484,31 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Ingérences, budget, carburant : l'opération déminage d'Emmanuel Macron",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260920-ing%C3%A9rences-budget-carburant-l-op%C3%A9ration-d%C3%A9minage-d-emmanuel-macron",
-        "desc": "Au menu de l'Essentiel politique : la géopolitique qui s'invite dans la campagne présidentielle, l'impopulaire budget 2027 et Ségolène Royal qui vient jouer les trouble-fête à la p…",
-        "fecha": "2026-09-20T22:35:48+00:00",
+        "titulo": "Syrie : un opposant à Bachar al-Assad déterre ses livres quinze ans après les avoir enfouis",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260921-syrie-un-opposant-%C3%A0-bachar-al-assad-d%C3%A9terre-ses-livres-quinze-ans-apr%C3%A8s-les-avoir-enfouis",
+        "desc": "Après avoir vécu plus d'une décennie dans un camp de réfugiés, Mustafa Khaled Alwan, sympathisant de la branche syrienne des frères musulmans, a enfin pu abattre le faux mur qu'il …",
+        "fecha": "2026-09-21T10:07:26+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Élections en Allemagne: malgré la défaite cuisante de son parti, le chancelier Merz promet de ne rien changer",
-        "enlace": "https://www.rfi.fr/fr/europe/20260920-%C3%A9lections-en-allemagne-malgr%C3%A9-la-d%C3%A9faite-cuisante-de-son-parti-le-chancelier-merz-promet-de-ne-rien-changer",
-        "desc": "Sous pression après des défaites électorales dimanche 20 septembre face à l'extrême droite et la gauche radicale, Friedrich Merz s'est engagé à poursuivre les réformes qu’il a prom…",
-        "fecha": "2026-09-20T21:36:25+00:00",
+        "titulo": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
+        "enlace": "https://www.rfi.fr/fr/afrique/20260921-migrants-expuls%C3%A9s-vers-l-afrique-plong%C3%A9e-dans-la-m%C3%A9canique-de-l-administration-trump",
+        "desc": "Depuis le retour de Donald Trump, plus de 25 000 personnes ont été expulsées des États-Unis vers des pays tiers avec lesquels elles n’ont souvent aucun lien, parfois sur un autre c…",
+        "fecha": "2026-09-21T04:59:36+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "Les Russes votent lors de la dernière journée des élections législatives",
-        "enlace": "https://fr.euronews.com/2026/09/20/les-russes-votent-lors-de-la-derniere-journee-des-elections-legislatives",
-        "desc": "Ce vote intervient alors que la capitale russe a été frappée par ce que son gouverneur décrit comme la \"plus vaste attaque\" contre la ville depuis le début de la guerre en Ukraine.",
-        "fecha": "2026-09-20T18:10:02+02:00",
+        "titulo": "Les Houthis promettent ne pas viser les navires américains après l'annulation des frappes de Trump",
+        "enlace": "https://fr.euronews.com/2026/09/21/les-houthis-promettent-ne-pas-viser-les-navires-americains-apres-lannulation-des-frappes-d",
+        "desc": "Un haut responsable houthi affirme que Washington a pris contact après l’avancée vers Bab el-Mandeb, tandis que des médias américains rapportent que Trump a annulé in extremis des …",
+        "fecha": "2026-09-21T12:03:22+02:00",
         "fuente": "Euronews FR"
       },
       {
         "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-        "fecha": "2026-09-21T03:22:44+00:00",
+        "fecha": "2026-09-21T08:56:27+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -519,93 +519,114 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Voile : le navigateur Louis Burton ambitieux avant le départ de la Route du Rhum",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260920-voile-le-navigateur-louis-burton-ambitieux-avant-le-d%C3%A9part-de-la-route-du-rhum",
-        "desc": "La Route du Rhum est la reine des courses transatlantiques en solitaire. Depuis 44 ans, elle relie Saint-Malo en Bretagne à Pointe-à-Pitre en Guadeloupe. Parmi les navigateurs enga…",
-        "fecha": "2026-09-20T21:31:18+00:00",
+        "titulo": "Enquête : des contrats opaque entre l'ICE et l'Afrique",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20260921-enqu%C3%AAte-des-contrats-opaque-entre-l-ice-et-l-afrique",
+        "desc": "Les agents de l'ICE, police de l'immigration et des douanes aux méthodes très décriées sont le bras armé de la politique anti-immigration menée par Donald Trump depuis son retour a…",
+        "fecha": "2026-09-21T10:02:12+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "États-Unis: un poste militaire et de l'armement dans l'arc de triomphe de Trump à Washington?",
-        "enlace": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-%C3%A9tats-unis-un-poste-militaire-et-de-l-armement-dans-l-arc-de-triomphe-de-trump",
-        "desc": "Un arc de triomphe à Washington devenu essentiel pour la sécurité nationale. En tout cas, c’est ce qu’affirme Donald Trump : le président américain est déjà à pied d’œuvre pour con…",
-        "fecha": "2026-09-21T04:42:19+00:00",
+        "titulo": "Forbidden Stories: une enquête révèle la mécanique mise en place par les États-Unis pour expulser en masse",
+        "enlace": "https://www.rfi.fr/fr/monde/20260921-forbidden-stories-une-enqu%C3%AAte-r%C3%A9v%C3%A8le-la-m%C3%A9canique-mise-en-place-par-les-%C3%A9tats-unis-pour-expulser-en-masse",
+        "desc": "Du Mexique à l’Eswatini en passant par le Panama, plus de 25 000 migrants ont été renvoyés par les États-Unis, non pas vers leurs pays d’origine, mais vers des pays tiers. RFI a pa…",
+        "fecha": "2026-09-21T05:04:32+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 20 septembre 2026 - Soir",
-        "enlace": "https://fr.euronews.com/video/2026/09/20/linfo-du-jour-20-septembre-2026-soir",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 20 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le d…",
-        "fecha": "2026-09-20T18:00:19+02:00",
+        "titulo": "L’info du jour | 21 septembre 2026 - Mi-journée",
+        "enlace": "https://fr.euronews.com/video/2026/09/21/linfo-du-jour-21-septembre-2026-mi-journee",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 21 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le d…",
+        "fecha": "2026-09-21T12:00:20+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "desc": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "fecha": "2026-09-20T10:45:39+00:00",
+        "titulo": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "fecha": "2026-09-21T00:05:11+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Laura McAllister: Wer ist die Frau, die sich gegen Fifa-Boss Gianni Infantino erhebt?",
-        "enlace": "https://www.spiegel.de/sport/fussball/laura-mcallister-wer-ist-die-frau-die-sich-gegen-fifa-boss-gianni-infantino-erhebt-a-8e20f91c-133a-47ae-afb5-62dd51d0a4ac#ref=rss",
-        "desc": "Es tobt ein Machtkampf um die Zukunft des Fußballs. Uefa-Vizepräsidentin Laura McAllister arbeitet am Sturz von Gianni Infantino. Der SPIEGEL hat sie getroffen.",
-        "fecha": "2026-09-21T06:39:00+02:00",
+        "titulo": "Jürgen Klopp: Wenn Klopp einen anschreit – BVB-Ikone Dickel erinnert sich",
+        "enlace": "https://www.spiegel.de/sport/fussball/juergen-klopp-wenn-klopp-einen-anschreit-bvb-ikone-dickel-erinnert-sich-a-fc553581-ee5a-4ef9-8da3-e5100f2ebc0f#ref=rss",
+        "desc": "BVB-Stadionsprecher Norbert Dickel hat Jürgen Klopp aus nächster Nähe erlebt, in dessen Zeit als Trainer von Borussia Dortmund. Ein Interview mit einem glühenden Fan.",
+        "fecha": "2026-09-21T12:28:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Landtagswahlen: AfD liegt in MV vorn, die Linke in Berlin",
-        "enlace": "https://www.dw.com/de/landtagswahlen-afd-liegt-in-mv-vorn-die-linke-in-berlin/a-79344981?maca=de-rss-de-all-1119-rdf",
-        "desc": "In Mecklenburg-Vorpommern überholt die AfD die regierende SPD, die CDU erlebt dort das nächste Desaster. In Berlin könnte eine Linken-Politikerin an die Spitze der Landesregierung …",
-        "fecha": "2026-09-21T04:45:31.227063+00:00",
+        "titulo": "ICE-Beamter schießt Mann in Texas nieder",
+        "enlace": "https://www.dw.com/de/ice-beamter-schießt-mann-in-texas-nieder/a-79352557?maca=de-rss-de-all-1119-rdf",
+        "desc": "Die Behörde ICE steht wegen gewaltsamer Einsätze gegen Migranten seit langem in der Kritik. Nun sind wieder Schüsse gefallen, diesmal in einer texanischen Stadt.",
+        "fecha": "2026-09-21T10:32:15.542865+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 20. September 2026 - Abendausgabe",
-        "enlace": "https://de.euronews.com/video/2026/09/20/nachrichten-des-tages-20-september-2026-abendausgabe",
-        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 20. September 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-09-20T18:00:33+02:00",
+        "titulo": "Huthi-Rebellen aus Jemen verzichten nach Trumps Absage auf Angriffe gegen US-Schiffe",
+        "enlace": "https://de.euronews.com/2026/09/21/huthi-rebellen-aus-jemen-verzichten-nach-trumps-absage-auf-angriffe-gegen-us-schiffe",
+        "desc": "Ein ranghoher Huthi-Funktionär sagte, Washington habe nach dem Vormarsch der Gruppe bis Bab el-Mandeb Kontakt aufgenommen. US-Medien berichten, Trump habe geplante Angriffe nach ei…",
+        "fecha": "2026-09-21T12:03:55+02:00",
         "fuente": "Euronews DE"
       },
       {
         "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
         "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-        "fecha": "2026-09-21T03:22:44+00:00",
+        "fecha": "2026-09-21T08:56:27+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Berlin Abgeordnetenhauswahl: Wie die Linke Berlin erobert hat",
-        "enlace": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-wie-die-linke-berlin-erobert-hat-a-4422f96d-65c5-4943-b78d-50ccc9874e8c#ref=rss",
-        "desc": "Für die Linken war es ein rauschender Wahlabend in der Hauptstadt, nun lockt das Rote Rathaus. Doch was hat den Abend entschieden? Und welche Lehren folgen daraus? Die Antworten im…",
-        "fecha": "2026-09-21T06:22:00+02:00",
+        "titulo": "Iran: Warum Iranerinnen und Iraner nach Armenien fliehen",
+        "enlace": "https://www.spiegel.de/ausland/iran-warum-iranerinnen-und-iraner-nach-armenien-fliehen-a-513009c7-9abb-445e-9ded-65ff59ad9d60#ref=rss",
+        "desc": "Zu Jahresbeginn gingen Menschen in Massen gegen die Islamische Republik auf die Straße. Inzwischen wirkt das Regime gefestigt. Manche Oppositionelle sehen nur noch eine Chance.",
+        "fecha": "2026-09-21T12:09:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Landtagswahlen: Votum gegen Bundeskanzler Friedrich Merz?",
-        "enlace": "https://www.dw.com/de/landtagswahlen-votum-gegen-bundeskanzler-friedrich-merz/a-79329969?maca=de-rss-de-all-1119-rdf",
-        "desc": "Wahlen in Berlin und Mecklenburg-Vorpommern: Die CDU kassiert eine historische Niederlage, die AfD triumphiert erneut. Der Druck auf Deutschlands unbeliebten Kanzler steigt.",
-        "fecha": "2026-09-21T04:45:31.227104+00:00",
+        "titulo": "Großes Zittern vor dem Gipfel zwischen Xi und Trump",
+        "enlace": "https://www.dw.com/de/großes-zittern-vor-dem-gipfel-zwischen-xi-und-trump/a-79322723?maca=de-rss-de-all-1119-rdf",
+        "desc": "Xi Jinping reist nach Washington. Weltweit sorgt die Rivalität zwischen China und den USA für erhebliche Unruhe, nicht nur in wirtschaftlicher Hinsicht. Und die mittelgroßen Länder…",
+        "fecha": "2026-09-21T10:32:15.542894+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 20. September 2026 - Mittagsausgabe",
-        "enlace": "https://de.euronews.com/video/2026/09/20/nachrichten-des-tages-20-september-2026-mittagsausgabe",
-        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 20. September 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-09-20T12:00:45+02:00",
+        "titulo": "Nachrichten des Tages | 21. September 2026 - Mittagsausgabe",
+        "enlace": "https://de.euronews.com/video/2026/09/21/nachrichten-des-tages-21-september-2026-mittagsausgabe",
+        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 21. September 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
+        "fecha": "2026-09-21T12:00:45+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "desc": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "fecha": "2026-09-20T10:45:39+00:00",
+        "titulo": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "fecha": "2026-09-21T00:05:11+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
+      {
+        "titulo": "Una Mamdani a Berlino: la musulmana Elif Eralp nuova sindaca grazie al piano casa",
+        "enlace": "https://www.repubblica.it/esteri/2026/09/21/news/elif_eralp_sindaca_berlino_linke-425597649/?rss",
+        "desc": "La candidata della Linke ha vinto puntando sul caro affitti e le tasse ai ricchi",
+        "fecha": "2026-09-21T10:44:19+02:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "I ribelli Houthi dello Yemen promettono di non colpire le navi USA dopo lo stop di Trump ai raid",
+        "enlace": "https://it.euronews.com/2026/09/21/i-ribelli-houthi-dello-yemen-promettono-di-non-colpire-le-navi-usa-dopo-lo-stop-di-trump-a",
+        "desc": "Un alto dirigente Houthi ha dichiarato che Washington ha avviato contatti dopo l’avanzata del gruppo verso Bab el-Mandeb, mentre i media USA riferiscono che Trump ha annullato all’…",
+        "fecha": "2026-09-21T12:03:32+02:00",
+        "fuente": "Euronews IT"
+      },
+      {
+        "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+        "fecha": "2026-09-21T08:56:27+00:00",
+        "fuente": "BBC World EN"
+      },
       {
         "titulo": "L’Ice spara, grave un uomo a Austin. “È un migrante del Venezuela senza documenti”",
         "enlace": "https://www.repubblica.it/esteri/2026/09/21/news/ice_spara_austin_texas_uomo_venezuela-425597366/?rss",
@@ -614,82 +635,61 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Le notizie del giorno | 20 settembre 2026 - Serale",
-        "enlace": "https://it.euronews.com/video/2026/09/20/le-notizie-del-giorno-20-settembre-2026-serale",
-        "desc": "Segui l'attualità dall'Europa e dal mondo del 20 settembre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
-        "fecha": "2026-09-20T18:00:42+02:00",
+        "titulo": "Le notizie del giorno | 21 settembre 2026 - Pomeridiane",
+        "enlace": "https://it.euronews.com/video/2026/09/21/le-notizie-del-giorno-21-settembre-2026-pomeridiane",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 21 settembre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-09-21T12:00:46+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "enlace": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "desc": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-        "fecha": "2026-09-21T03:22:44+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "Iran, allerta Usa per un’escalation. Trump: “Deciderò se annientarlo”",
-        "enlace": "https://www.repubblica.it/esteri/2026/09/21/news/iran_usa_trump_decidero_se_annientarlo-425597149/?rss",
-        "desc": "Il tycoon anticipa il rientro a Washington: “Si comportino bene o salteranno in aria”. Ma non esclude di vedere Pezeshkian all’Onu",
-        "fecha": "2026-09-21T01:03:48+02:00",
-        "fuente": "La Repubblica"
-      },
-      {
-        "titulo": "Le notizie del giorno | 20 settembre 2026 - Pomeridiane",
-        "enlace": "https://it.euronews.com/video/2026/09/20/le-notizie-del-giorno-20-settembre-2026-pomeridiane",
-        "desc": "Segui l'attualità dall'Europa e dal mondo del 20 settembre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
-        "fecha": "2026-09-20T12:00:46+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "desc": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-        "fecha": "2026-09-20T10:45:39+00:00",
+        "titulo": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "enlace": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "desc": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+        "fecha": "2026-09-21T00:05:11+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "5h Tempo quente está para ficar até quarta-feira",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/5h-tempo-quente-esta-para-ficar-ate-quarta-feira_a1_1766722",
-        "desc": "",
-        "fecha": "2026-09-21T06:20:02+01:00",
+        "titulo": "Flamengo reforça liderança do Brasileirão",
+        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/flamengo-reforca-lideranca-do-brasileirao_d1766774",
+        "desc": "O Flamengo, orientado pelo português Leonardo Jardim, reforçou no domingo o comando do campeonato brasileiro, ao vencer em casa o Bragantino, por 2-1.",
+        "fecha": "2026-09-21T12:28:36+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "As notícias das 5h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1567/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-09-21T05:17:53+01:00",
+        "titulo": "PJ detém 3 suspeitos de traficar droga em entregas postais",
+        "enlace": "https://observador.pt/2026/09/21/pj-detem-tres-homens-suspeitos-de-importar-droga-atraves-de-encomendas-postais/",
+        "desc": "Os suspeitos foram identificados numa operação da Unidade Nacional de Combate ao Tráfico de Estupefacientes da PJ",
+        "fecha": "2026-09-21T11:29:29+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
-        "enlace": "https://www.bbc.com/portuguese/articles/cm89jqkqnzd5o?at_medium=RSS&at_campaign=rss",
-        "desc": "No acordo petrolífero com a Venezuela, o governo dos EUA está trabalhando com uma empresa pouco conhecida, em vez de gigantes do setor de energia como a ExxonMobil. Por quê?",
-        "fecha": "2026-09-20T17:26:33+00:00",
+        "titulo": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+        "enlace": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores p…",
+        "fecha": "2026-09-21T10:02:01+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "4h Preços dos combustíveis disparam hoje",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/4h-precos-dos-combustiveis-disparam-hoje_a1_1766718",
+        "titulo": "11h Combustíveis: Transportadora já perdeu 3 milhões",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/11h-combustiveis-transportadora-ja-perdeu-3-milhoes_a1_1766772",
         "desc": "",
-        "fecha": "2026-09-21T05:41:02+01:00",
+        "fecha": "2026-09-21T12:24:04+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "As notícias das 4h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2407/",
-        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-09-21T04:18:53+01:00",
+        "titulo": "Rússia. Putin renova maioria parlamentar com mais deputados",
+        "enlace": "https://observador.pt/2026/09/21/putin-renova-maioria-parlamentar-na-russia-com-recorde-de-deputados/",
+        "desc": "A votação decorreu entre sexta-feira e domingo, naquelas que foram as primeiras legislativas russas desde que Putin ordenou a invasão em grande escala da Ucrânia",
+        "fecha": "2026-09-21T11:28:14+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Chanceler alemão diz que permanecerá no cargo após 'desastre' nas eleições e crescente pressão",
-        "enlace": "https://www.bbc.com/portuguese/articles/cv4g50pnnx23o?at_medium=RSS&at_campaign=rss",
-        "desc": "Sondagens de boca das urnas mostram perdas significativas para o partido de centro-direita CDU de Merz nos estados de Berlim e Mecklemburgo-Pomerânia Ocidental",
-        "fecha": "2026-09-20T19:05:05+00:00",
+        "titulo": "Quem é Presley Gerber, filho de Cindy Crawford morto aos 27 anos",
+        "enlace": "https://www.bbc.com/portuguese/articles/ckg59p1prz4yo?at_medium=RSS&at_campaign=rss",
+        "desc": "Família pediu privacidade e citou 'momento muito difícil e doloroso' após a morte do modelo.",
+        "fecha": "2026-09-21T08:20:42+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,24 +702,24 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Raphinha, renovación de oro",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229571/raphinha-renovacion-oro.html",
-        "desc": "Raphinha Dias (29 años) no tiene límites y supera cualquier obstáculo que se le ponga por delante. Después de llegar al Barça en verano de 2022 para jugar como extremo derecho y re…",
-        "fecha": "2026-09-20T22:26:43+02:00",
+        "titulo": "\"El equipo más beneficiado de la historia por los árbitros es el Real Madrid, en España y en Europa\"",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229680/equipo-historia-beneficiado-arbitros-real-madrid-espana-europa.html",
+        "desc": "Carles Rexach , ex futbolista y ex entrenador del FC Barcelona y leyenda del club azulgrana, está de actualidad porque este lunes 21 de septiembre se estrena 'Correr es de cobardes…",
+        "fecha": "2026-09-21T11:17:44+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Las palabras de Aleksander Sekulic tras la derrota en la final de la Supercopa Endesa",
-        "enlace": "https://www.gigantes.com/liga-endesa/palabras-aleksander-sekulic-derrota-final-supercopa/",
-        "desc": "Esto dijo el técnico del Barça en rueda de prensa La entrada Las palabras de Aleksander Sekulic tras la derrota en la final de la Supercopa Endesa se publicó primero en Gigantes de…",
-        "fecha": "2026-09-20T19:36:14+00:00",
+        "titulo": "Baloncesto y nutrición deportiva: el equipo perfecto para tu futuro laboral",
+        "enlace": "https://www.gigantes.com/mas-basket/baloncesto-y-nutricion-deportiva-el-equipo-perfecto-para-tu-futuro-laboral/",
+        "desc": "​¿Alguna vez te has preguntado qué diferencia a un jugador de baloncesto que brilla en el último cuarto de uno que apenas puede correr? La respuesta no está únicamente en... La ent…",
+        "fecha": "2026-09-21T09:59:43+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-        "desc": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-        "fecha": "2026-09-20T19:44:15+00:00",
+        "titulo": "Gibbs-White set to replace Palmer in England squad",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+        "desc": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+        "fecha": "2026-09-21T09:36:36+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -730,70 +730,70 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Oblak: \"¿Polémica? Si nos expulsaron a nosotros con el Villarreal, esta también\"",
-        "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229473/oblak-polemica-expulsaron-villarreal.html",
-        "desc": "Jan Oblak, portero del Atlético de Madrid , atendió a DAZN nada más acabar el derbi disputado en el Metropolitano en el que el conjunto colchonero se impuso por 2-1 al Real Madrid …",
-        "fecha": "2026-09-20T18:48:18+02:00",
+        "titulo": "El encendido elogio de Simeone al juego del Barça: \"Parece otro deporte\"",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229683/simeone.html",
+        "desc": "Diego 'Cholo' Simeone elogió el juego del Barça de Hansi Flick en una declaraciones a ESPN que tuvieron lugar en el césped del Estadio Riyadh Air Metropolitano poco después del bri…",
+        "fecha": "2026-09-21T11:37:52+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "El Asisa Joventut supera al Barça y conquista la Supercopa Endesa con un Laprovittola estelar",
-        "enlace": "https://www.gigantes.com/liga-endesa/joventut-barca-final-supercopa-endesa-2026/",
-        "desc": "Los verdinegros conquistan ante su público su primer título en 18 años La entrada El Asisa Joventut supera al Barça y conquista la Supercopa Endesa con un Laprovittola estelar se p…",
-        "fecha": "2026-09-20T19:00:20+00:00",
+        "titulo": "Santi Yusta y Pablo Laso conquistan la Supercopa VTB con el Anadolu Efes: ¿por qué jugó el equipo turco?",
+        "enlace": "https://www.gigantes.com/mas-basket/pablo-laso-santi-yusta-campeones-supercopa-rusa-anadolu-efes/",
+        "desc": "Es el primer equipo extranjero que conquista el torneo La entrada Santi Yusta y Pablo Laso conquistan la Supercopa VTB con el Anadolu Efes: ¿por qué jugó el equipo turco? se public…",
+        "fecha": "2026-09-21T09:28:06+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "What have we learned from the Premier League so far?",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-        "fecha": "2026-09-20T19:08:10+00:00",
+        "titulo": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+        "desc": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parson…",
+        "fecha": "2026-09-21T05:32:44+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
-        "titulo": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-        "desc": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-        "fecha": "2026-09-20T19:44:15+00:00",
+        "titulo": "Gibbs-White set to replace Palmer in England squad",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+        "desc": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+        "fecha": "2026-09-21T09:36:36+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Middlesex beat Leicestershire to end 36-year List A trophy wait",
-        "enlace": "https://www.skysports.com/cricket/news/12040/13590258/metro-bank-one-day-cup-mens-final-middlesex-beat-leicestershire-foxes-to-end-36-year-list-a-trophy-wait",
-        "desc": "Middlesex ended a 36-year List A trophy drought by beating Leicestershire Foxes by 31 runs to win the Metro Bank One Day Cup in a low-scoring final at Trent Bridge.",
-        "fecha": "2026-09-20T20:54:00",
+        "titulo": "Merson: There's no way Man City win the league",
+        "enlace": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
+        "desc": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
+        "fecha": "2026-09-21T10:37:00",
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "What have we learned from the Premier League so far?",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-        "fecha": "2026-09-20T19:08:10+00:00",
+        "titulo": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+        "desc": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parson…",
+        "fecha": "2026-09-21T05:32:44+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Smith thrashes Price to win World Series after Littler's shock exit",
-        "enlace": "https://www.skysports.com/darts/news/12040/13590270/world-series-of-darts-finals-ross-smith-thrashes-gerwyn-price-in-final-after-luke-littlers-dream-of-clean-sweep-ends",
-        "desc": "Ross Smith thrashed Gerwyn Price 11-5 to become World Series of Darts Finals champion, while Luke Littler's hopes of a clean sweep of all major PDC titles in 2026 were dashed in th…",
-        "fecha": "2026-09-20T21:17:00",
+        "titulo": "Ref Watch & Premier League weekend reaction LIVE!",
+        "enlace": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+        "desc": "",
+        "fecha": "2026-09-14T16:30:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-        "desc": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-        "fecha": "2026-09-20T19:44:15+00:00",
+        "titulo": "Gibbs-White set to replace Palmer in England squad",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+        "desc": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+        "fecha": "2026-09-21T09:36:36+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "What have we learned from the Premier League so far?",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-        "fecha": "2026-09-20T19:08:10+00:00",
+        "titulo": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+        "desc": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parson…",
+        "fecha": "2026-09-21T05:32:44+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,49 +802,84 @@
         "titulo": "Fußball-Nationalmannschaft: Der Kampf um die Talente",
         "enlace": "https://www.dw.com/de/fußball-nationalmannschaft-der-kampf-um-die-talente/a-79321385?maca=de-rss-de-sport-4020-rdf",
         "desc": "Bundestrainer Jürgen Klopp hat einige Spieler ins DFB-Team berufen, die auch für ein anderes Land spielen könnten. Wenn der deutsche Verband sich solche Talente nicht rechtzeitig s…",
-        "fecha": "2026-09-21T04:45:47.808582+00:00",
+        "fecha": "2026-09-21T10:32:32.337386+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-        "desc": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-        "fecha": "2026-09-20T19:44:15+00:00",
+        "titulo": "Gibbs-White set to replace Palmer in England squad",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+        "desc": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+        "fecha": "2026-09-21T09:36:36+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "DFB-Team: Bundestrainer Jürgen Klopp startet mit XXL-Kader",
         "enlace": "https://www.dw.com/de/dfb-team-bundestrainer-jürgen-klopp-startet-mit-xxl-kader/a-79301621?maca=de-rss-de-sport-4020-rdf",
         "desc": "Mit einer radikalen Erneuerung mit gleich zwei Kadern und 16 möglichen Debütanten startet Klopp in die Fußball-Nations-League. Zudem sendet er ein klares Zeichen gegen rechte Polit…",
-        "fecha": "2026-09-21T04:45:47.808622+00:00",
+        "fecha": "2026-09-21T10:32:32.337420+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "What have we learned from the Premier League so far?",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-        "fecha": "2026-09-20T19:08:10+00:00",
+        "titulo": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+        "desc": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parson…",
+        "fecha": "2026-09-21T05:32:44+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
-        "desc": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
-        "fecha": "2026-09-20T19:44:15+00:00",
+        "titulo": "Gibbs-White set to replace Palmer in England squad",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+        "desc": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+        "fecha": "2026-09-21T09:36:36+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "What have we learned from the Premier League so far?",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
-        "fecha": "2026-09-20T19:08:10+00:00",
+        "titulo": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+        "desc": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parson…",
+        "fecha": "2026-09-21T05:32:44+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_pt": [],
     "ciencia_es": [
+      {
+        "titulo": "La Tierra cambia de forma: los polos se elevan mientras el ecuador se hunde a un ritmo sin precedentes",
+        "enlace": "https://www.abc.es/ciencia/tierra-cambia-forma-polos-elevan-ecuador-hunde-20260921104418-nt.html",
+        "desc": "Puede que no lo parezca, pero la superficie sólida de la Tierra, el suelo que pisamos, se deforma continuamente. Y lo hace a través de un mecanismo geofísico en el que la corteza, …",
+        "fecha": "2026-09-21T10:44:18+02:00",
+        "fuente": "ABC Ciencia"
+      },
+      {
+        "titulo": "La primera generación de nativos circulares se forja en los colegios",
+        "enlace": "https://www.elmundo.es/ciencia/2026/09/21/6aac02d3e85ece8f788b4586.html",
+        "desc": "Tras llegar a 170.000 alumnos, el proyecto que Ecoembes puso en marcha en 2018 para fomentar que los niños reciclen entra en una nueva fase en la que se implicará a todo el centro …",
+        "fecha": "2026-09-21T09:30:43+02:00",
+        "fuente": "El Mundo Ciencia"
+      },
+      {
+        "titulo": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
+        "enlace": "https://www.bbc.com/mundo/articles/cw8d3l13p113o?at_medium=RSS&at_campaign=rss",
+        "desc": "Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces.",
+        "fecha": "2026-09-21T03:21:47+00:00",
+        "fuente": "BBC Ciencia ES"
+      },
+      {
+        "titulo": "How do I change labs gracefully during my PhD?",
+        "enlace": "https://www.nature.com/articles/d41586-026-02441-4",
+        "desc": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationsh…",
+        "fecha": "2026-09-21T10:32:46.672938+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+        "enlace": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+        "desc": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo…",
+        "fecha": "2026-09-21T04:05:00+00:00",
+        "fuente": "NASA EN"
+      },
       {
         "titulo": "Los objetos en órbita se triplican en una década y ponen en riesgo el tráfico espacial",
         "enlace": "https://www.abc.es/ciencia/objetos-orbita-triplican-decada-ponen-riesgo-trafico-20260914012045-nt.html",
@@ -860,17 +895,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
-        "enlace": "https://www.bbc.com/mundo/articles/cw8d3l13p113o?at_medium=RSS&at_campaign=rss",
-        "desc": "Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces.",
-        "fecha": "2026-09-21T03:21:47+00:00",
+        "titulo": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
+        "enlace": "https://www.bbc.com/mundo/articles/cm1j42lee8n2o?at_medium=RSS&at_campaign=rss",
+        "desc": "Las autoridades reportaron al menos dos muertos y 20 heridos como consecuencia de los bombardeos.",
+        "fecha": "2026-09-20T12:52:48+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
         "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
         "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
-        "fecha": "2026-09-21T04:46:01.361197+00:00",
+        "fecha": "2026-09-21T10:32:46.672980+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -879,49 +914,14 @@
         "desc": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo…",
         "fecha": "2026-09-20T04:05:00+00:00",
         "fuente": "NASA EN"
-      },
-      {
-        "titulo": "Cómo nació el catalejo, el invento que cambió la forma de mirar el mundo",
-        "enlace": "https://www.abc.es/ciencia/nacio-catalejo-invento-cambio-forma-mirar-mundo-20260918013305-nt.html",
-        "desc": "A comienzos del siglo XVII, mientras Europa bullía entre descubrimientos y guerras, un artefacto nacido casi por casualidad permitió ver más lejos que nunca. El catalejo, también c…",
-        "fecha": "2026-09-19T01:33:05+02:00",
-        "fuente": "ABC Ciencia"
-      },
-      {
-        "titulo": "Curso práctico de chimpancé: las madres enseñan a sus crías cómo utilizar herramientas para comer",
-        "enlace": "https://www.elmundo.es/ciencia/2026/09/16/6aaa424efdddffd31f8b4587.html",
-        "desc": "Investigadores de la Universidad de Barcelona y el Instituto Jane Goodall España han captado imágenes de un comportamiento nunca visto antes en chimpancés y que sugiere que la ense…",
-        "fecha": "2026-09-16T12:41:10+02:00",
-        "fuente": "El Mundo Ciencia"
-      },
-      {
-        "titulo": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
-        "enlace": "https://www.bbc.com/mundo/articles/cm1j42lee8n2o?at_medium=RSS&at_campaign=rss",
-        "desc": "Las autoridades reportaron al menos dos muertos y 20 heridos como consecuencia de los bombardeos.",
-        "fecha": "2026-09-20T12:52:48+00:00",
-        "fuente": "BBC Ciencia ES"
-      },
-      {
-        "titulo": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-        "enlace": "https://www.nature.com/articles/d41586-026-02984-6",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translat…",
-        "fecha": "2026-09-21T04:46:01.361232+00:00",
-        "fuente": "Nature EN"
-      },
-      {
-        "titulo": "APOD: 2026 September 19 – A Zodiacal Night",
-        "enlace": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
-        "desc": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo…",
-        "fecha": "2026-09-19T04:05:00+00:00",
-        "fuente": "NASA EN"
       }
     ],
     "ciencia_en": [
       {
-        "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
-        "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
-        "fecha": "2026-09-21T04:46:05.807566+00:00",
+        "titulo": "How do I change labs gracefully during my PhD?",
+        "enlace": "https://www.nature.com/articles/d41586-026-02441-4",
+        "desc": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationsh…",
+        "fecha": "2026-09-21T10:32:52.673927+00:00",
         "fuente": "Nature"
       },
       {
@@ -946,31 +946,31 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "British food was complex, multicultural and flavorful in the 18th century—despite what you might think",
-        "enlace": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
-        "desc": "The stereotype of bland British food is notorious, and people mock the horrors of jellied eels and overcooked vegetables. Even roast beef and pudding are seen as uninspired compare…",
-        "fecha": "2026-09-20T20:30:04-04:00",
+        "titulo": "Genes that help flatworms regenerate their brains revealed",
+        "enlace": "https://phys.org/news/2026-09-genes-flatworms-regenerate-brains-revealed.html",
+        "desc": "The human brain is terrible at healing itself from injury or disease. But some animals can harness their own cellular abilities not only to repair injuries but also to regrow their…",
+        "fecha": "2026-09-21T05:00:09-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-        "enlace": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-        "desc": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo…",
-        "fecha": "2026-09-20T04:05:00+00:00",
+        "titulo": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+        "enlace": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+        "desc": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmo…",
+        "fecha": "2026-09-21T04:05:00+00:00",
         "fuente": "NASA"
       },
       {
-        "titulo": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
-        "enlace": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
-        "desc": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old…",
-        "fecha": "2026-09-20T06:30:31-04:00",
+        "titulo": "What kills Schrödinger’s cat? Gravity may not be the answer",
+        "enlace": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+        "desc": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath …",
+        "fecha": "2026-09-21T05:24:50-04:00",
         "fuente": "Science Daily"
       },
       {
-        "titulo": "What food items should you stock up on in case of an emergency?",
-        "enlace": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
-        "desc": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
-        "fecha": "2026-09-20T23:02:27+00:00",
+        "titulo": "Which emergency foods should you stock up on?",
+        "enlace": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+        "desc": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+        "fecha": "2026-09-21T05:22:09+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -981,40 +981,40 @@
         "fuente": "ESA"
       },
       {
-        "titulo": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-        "enlace": "https://www.nature.com/articles/d41586-026-02984-6",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translat…",
-        "fecha": "2026-09-21T04:46:05.807606+00:00",
+        "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
+        "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
+        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+        "fecha": "2026-09-21T10:32:52.673957+00:00",
         "fuente": "Nature"
       }
     ],
     "ciencia_fr": [
       {
-        "titulo": "Le monde vivant, un continent toujours plus vaste, mais de moins en moins exploré",
-        "enlace": "https://www.sciencesetavenir.fr/decouvrir/le-monde-vivant-un-continent-toujours-plus-vaste-face-a-une-science-a-court-de-moyens_193760?xtor=RSS-27",
-        "desc": "Jamais les biologistes n’ont autant observé les êtres vivants. Pourtant, chaque découverte élargit encore le champ de l’inconnu. Des abysses aux mondes microscopiques, la science m…",
-        "fecha": "2026-09-20T14:00:00+00:00",
+        "titulo": "Contrairement aux idées reçues, la ménopause protègerait le cerveau",
+        "enlace": "https://www.sciencesetavenir.fr/sante/la-menopause-a-un-effet-inattendu-sur-le-cerveau_194887?xtor=RSS-16",
+        "desc": "La transition hormonale caractéristique de la ménopause entraine une quantité d'effets physiologiques. Bouffées de chaleur, sueurs nocturnes, anxiété. Elle augmenterait&nbsp;le ris…",
+        "fecha": "2026-09-21T07:39:41+00:00",
+        "fuente": "Sciences et Avenir"
+      },
+      {
+        "titulo": "How do I change labs gracefully during my PhD?",
+        "enlace": "https://www.nature.com/articles/d41586-026-02441-4",
+        "desc": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationsh…",
+        "fecha": "2026-09-21T10:32:59.593913+00:00",
+        "fuente": "Nature EN"
+      },
+      {
+        "titulo": "Tout comme nous, les éléphants d’Asie savent réfléchir avant d’agir !",
+        "enlace": "https://www.sciencesetavenir.fr/animaux/les-elephants-d-asie-reflechissent-avant-d-agir-grace-a-un-controle-inhibiteur_194876?xtor=RSS-26",
+        "desc": "En réalisant des expériences avec des boîtes contenant de la nourriture, des chercheurs new-yorkais ont démontré que les éléphants d'Asie pouvaient avoir, eux aussi, un contrôle in…",
+        "fecha": "2026-09-21T07:00:26+00:00",
         "fuente": "Sciences et Avenir"
       },
       {
         "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
         "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
         "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
-        "fecha": "2026-09-21T04:46:09.990139+00:00",
-        "fuente": "Nature EN"
-      },
-      {
-        "titulo": "Et si... L'imagination comme instrument de connaissance",
-        "enlace": "https://www.sciencesetavenir.fr/decouvrir/et-si-l-imagination-comme-instrument-de-connaissance_194860?xtor=RSS-27",
-        "desc": "En s’appuyant sur les recherches les plus récentes, la rédaction de Sciences et Avenir a voulu explorer cette frontière mouvante entre l’impossible, l’improbable, le probable et l’…",
-        "fecha": "2026-09-20T12:00:00+00:00",
-        "fuente": "Sciences et Avenir"
-      },
-      {
-        "titulo": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-        "enlace": "https://www.nature.com/articles/d41586-026-02984-6",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translat…",
-        "fecha": "2026-09-21T04:46:09.990200+00:00",
+        "fecha": "2026-09-21T10:32:59.593942+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,78 +1023,113 @@
         "titulo": "Flughafenmalaria in Deutschland - wie groß ist die Gefahr?",
         "enlace": "https://www.dw.com/de/flughafenmalaria-in-deutschland-wie-groß-ist-die-gefahr/a-79321705?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Mehrere Menschen sind im Umfeld des Frankfurter Flughafens an Malaria erkrankt und gestorben. Grund dafür sind vermutlich Mücken im Gepäck von Reisenden. Worauf Urlauber und Ärzte …",
-        "fecha": "2026-09-21T04:46:12.972875+00:00",
+        "fecha": "2026-09-21T10:33:02.611586+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
-        "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
-        "fecha": "2026-09-21T04:46:13.153627+00:00",
+        "titulo": "How do I change labs gracefully during my PhD?",
+        "enlace": "https://www.nature.com/articles/d41586-026-02441-4",
+        "desc": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationsh…",
+        "fecha": "2026-09-21T10:33:03.926304+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Sommer 2026 - historischer Höchststand an Hitzetoten",
         "enlace": "https://www.dw.com/de/sommer-2026-historischer-höchststand-an-hitzetoten/a-79256504?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Der Sommer 2026 war einer der wärmsten seit Beginn der Aufzeichnung. Nach Schätzungen des RKI sind mehr als 16.000 Menschen in Deutschland hitzebedingt gestorben.",
-        "fecha": "2026-09-21T04:46:12.972915+00:00",
+        "fecha": "2026-09-21T10:33:02.611617+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-        "enlace": "https://www.nature.com/articles/d41586-026-02984-6",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translat…",
-        "fecha": "2026-09-21T04:46:13.153666+00:00",
+        "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
+        "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
+        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+        "fecha": "2026-09-21T10:33:03.926336+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
-        "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
-        "fecha": "2026-09-21T04:46:17.072652+00:00",
+        "titulo": "How do I change labs gracefully during my PhD?",
+        "enlace": "https://www.nature.com/articles/d41586-026-02441-4",
+        "desc": "Nature, Published online: 21 September 2026; doi:10.1038/d41586-026-02441-4 A scientist in training seeks help in finding a new adviser without damaging existing working relationsh…",
+        "fecha": "2026-09-21T10:33:09.823676+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-        "enlace": "https://www.nature.com/articles/d41586-026-02984-6",
-        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02984-6 Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translat…",
-        "fecha": "2026-09-21T04:46:17.072690+00:00",
+        "titulo": "Cognitive resilience helps to predict Alzheimer’s dementia",
+        "enlace": "https://www.nature.com/articles/d41586-026-02897-4",
+        "desc": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+        "fecha": "2026-09-21T10:33:09.823712+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "5h. Sondagem revela que PJ resiste aos casos Luís Neves",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1567/",
-        "desc": "59% dos inquiridos dizem confiar na Polícia Judiciária. É a 2.ª instituição com maior confiança dos portugueses. Ainda, combustíveis voltam a subir para preços nunca antes vistos e…",
-        "fecha": "2026-09-21T05:17:53+01:00",
+        "titulo": "PJ detém 3 suspeitos de traficar droga em entregas postais",
+        "enlace": "https://observador.pt/2026/09/21/pj-detem-tres-homens-suspeitos-de-importar-droga-atraves-de-encomendas-postais/",
+        "desc": "Os suspeitos foram identificados numa operação da Unidade Nacional de Combate ao Tráfico de Estupefacientes da PJ",
+        "fecha": "2026-09-21T11:29:29+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
-        "enlace": "https://www.bbc.com/portuguese/articles/cm89jqkqnzd5o?at_medium=RSS&at_campaign=rss",
-        "desc": "No acordo petrolífero com a Venezuela, o governo dos EUA está trabalhando com uma empresa pouco conhecida, em vez de gigantes do setor de energia como a ExxonMobil. Por quê?",
-        "fecha": "2026-09-20T17:26:33+00:00",
+        "titulo": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+        "enlace": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores p…",
+        "fecha": "2026-09-21T10:02:01+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "4h. Alemanha. Merz derrotado pela extrema-direita e esquerda",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2407/",
-        "desc": "Chanceler alemão assume derrotas, mas recusa demitir-se. Ainda neste jornal, partido de Vladimir Putin vence eleições legislativas na Rússia com maioria dos votos.",
-        "fecha": "2026-09-21T04:18:53+01:00",
+        "titulo": "Rússia. Putin renova maioria parlamentar com mais deputados",
+        "enlace": "https://observador.pt/2026/09/21/putin-renova-maioria-parlamentar-na-russia-com-recorde-de-deputados/",
+        "desc": "A votação decorreu entre sexta-feira e domingo, naquelas que foram as primeiras legislativas russas desde que Putin ordenou a invasão em grande escala da Ucrânia",
+        "fecha": "2026-09-21T11:28:14+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Chanceler alemão diz que permanecerá no cargo após 'desastre' nas eleições e crescente pressão",
-        "enlace": "https://www.bbc.com/portuguese/articles/cv4g50pnnx23o?at_medium=RSS&at_campaign=rss",
-        "desc": "Sondagens de boca das urnas mostram perdas significativas para o partido de centro-direita CDU de Merz nos estados de Berlim e Mecklemburgo-Pomerânia Ocidental",
-        "fecha": "2026-09-20T19:05:05+00:00",
+        "titulo": "Quem é Presley Gerber, filho de Cindy Crawford morto aos 27 anos",
+        "enlace": "https://www.bbc.com/portuguese/articles/ckg59p1prz4yo?at_medium=RSS&at_campaign=rss",
+        "desc": "Família pediu privacidade e citou 'momento muito difícil e doloroso' após a morte do modelo.",
+        "fecha": "2026-09-21T08:20:42+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
     "economia_es": [
+      {
+        "titulo": "Murtra integra la filial Tech bajo la gestión de Telefónica España",
+        "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/20/6aafee4e468aeb3b398b4583.html",
+        "desc": "Telefónica España incorpora una subsidiaria que facturó 2.222 millones en 2025. Busca sinergias para evitar duplicidades y hacer más competitiva la oferta.&nbsp; Leer",
+        "fecha": "2026-09-20T23:56:26+02:00",
+        "fuente": "Expansión"
+      },
+      {
+        "titulo": "Arquia Banca lanza un depósito con una rentabilidad del 3,25% TAE",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-09-21/arquia-banca-deposito-rentabilidad-fondos-inversion_4428041/",
+        "desc": "Este producto, contratable hasta el 30 de septiembre, está dirigido tanto a nuevos inversores como a clientes actuales que aporten nuevo capital",
+        "fecha": "2026-09-21T10:33:17.988711+00:00",
+        "fuente": "El Confidencial Eco"
+      },
+      {
+        "titulo": "Cuánto dinero cobra un notario en España en 2026: sueldo base por categorías y complementos",
+        "enlace": "https://www.abc.es/economia/dinero-cobra-notario-espana-2026-sueldo-base-20260921115607-nt.html",
+        "desc": "Elegir una profesión en el mercado actual es muy complicado. Aquellas que no suponen una gran preparación, aunque sí una cierta formación académica, están muy mal pagadas teniendo …",
+        "fecha": "2026-09-21T12:01:19+02:00",
+        "fuente": "ABC Economía"
+      },
+      {
+        "titulo": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+        "desc": "Gold edged lower as investors weighed the risk of a series of further US Federal Reserve rate hikes, even as benchmark oil futures extended a decline toward $100 a barrel.",
+        "fecha": "2026-09-20T23:45:47+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+        "enlace": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "desc": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+        "fecha": "2026-09-20T12:47:23+00:00",
+        "fuente": "CNBC"
+      },
       {
         "titulo": "El miedo a subidas de impuestos y los precios de la vivienda disparan las donaciones en vida",
         "enlace": "https://www.expansion.com/economia/2026/09/20/6aac0fd7e5fdeacf488b45aa.html",
@@ -1106,56 +1141,21 @@
         "titulo": "Los mercados reaccionan a la subida de los tipos de interés en Estados Unidos: no hay susto, pero sí cautela",
         "enlace": "https://www.elconfidencial.com/mercados/2026-09-19/subidas-tipos-interes-estados-unidos-mercados-bra_4426570/",
         "desc": "Ante este hecho, han reaccionado con cierta tranquilidad, aunque, a su vez, siguen pendientes de los distintos factores a corto plazo. Por una parte, los precios energéticos; por o…",
-        "fecha": "2026-09-21T04:46:22.067386+00:00",
+        "fecha": "2026-09-21T10:33:17.988739+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Subrogar tu hipoteca en septiembre: fijas desde el 2,75% TIN y variables a euríbor + 0,50%",
-        "enlace": "https://www.abc.es/economia/guia-financiera/subrogar-tu-hipoteca-en-septiembre-fijas-20260917120643-nt.html",
-        "desc": "Si firmaste tu hipoteca hace unos años y el interés que pagas se ha quedado por encima de lo que ofrecen hoy los bancos, llevarla a otra entidad es una de las vías para pagar menos…",
-        "fecha": "2026-09-21T06:00:15+02:00",
+        "titulo": "La UE multa a Google con más de 400 millones de euros por vulnerar reglas sobre la geolocalización",
+        "enlace": "https://www.abc.es/economia/ue-multa-google-400-millones-euros-vulnerar-20260921115056-nt.html",
+        "desc": "El gigante estadounidense Google recibió el lunes una multa de 403 millones de euros (462 millones de dólares) por parte del regulador de protección de datos irlandés, que actúa en…",
+        "fecha": "2026-09-21T11:50:56+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-        "desc": "Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this wee…",
-        "fecha": "2026-09-20T22:14:48+00:00",
-        "fuente": "Bloomberg"
-      },
-      {
-        "titulo": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-        "enlace": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-        "desc": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-        "fecha": "2026-09-20T12:47:23+00:00",
-        "fuente": "CNBC"
-      },
-      {
-        "titulo": "CaixaBank lanza incentivos para crecer entre los menores",
-        "enlace": "https://www.expansion.com/empresas/banca/2026/09/20/6ab010c1e5fdea460f8b4586.html",
-        "desc": "El banco bonificará con un premio de 30 euros la contratación de sus cuentas imaginKids e imaginTeens, dirigidas a niños y jóvenes de hasta 17 años.&nbsp; Leer",
-        "fecha": "2026-09-20T23:57:49+02:00",
-        "fuente": "Expansión"
-      },
-      {
-        "titulo": "De la banca programable al euro digital: la revolución imparable de las finanzas IA",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-09-19/asi-fue-ix-foro-activos-digitales-nuevo-orden-mercados-financieros_4425976/",
-        "desc": "Esta edición abordó un nuevo orden financiero donde el dinero es programable, la banca se reinventa, la tokenización avanza y los inversores reclaman interoperabilidad y superapps …",
-        "fecha": "2026-09-21T04:46:22.067430+00:00",
-        "fuente": "El Confidencial Eco"
-      },
-      {
-        "titulo": "La casa prefabricada de Amazon por menos de 18.000 euros con tres habitaciones y cocina equipada",
-        "enlace": "https://www.abc.es/economia/casa-prefabricada-amazon-18000-euros-tres-habitaciones-20260921060000-nt.html",
-        "desc": "En plena crisis de vivienda, en un contexto donde los precios de compra y alquiler alcanzan máximos históricos, las casas prefabricadas surgen como una alternativa real, funcional …",
-        "fecha": "2026-09-21T06:00:00+02:00",
-        "fuente": "ABC Economía"
-      },
-      {
-        "titulo": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-        "desc": "Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodati…",
-        "fecha": "2026-09-21T03:46:38+00:00",
+        "titulo": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
+        "desc": "Goldman Sachs Group Inc.’s traders are urging credit investors to take another look at some of the beaten-down bonds from Virgin Media O2 and VodafoneZiggo, just months after weake…",
+        "fecha": "2026-09-21T10:22:42+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1168,17 +1168,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-        "desc": "Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this wee…",
-        "fecha": "2026-09-20T22:14:48+00:00",
+        "titulo": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+        "desc": "Gold edged lower as investors weighed the risk of a series of further US Federal Reserve rate hikes, even as benchmark oil futures extended a decline toward $100 a barrel.",
+        "fecha": "2026-09-20T23:45:47+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Merriam-Webster welcomes ‘looksmaxxing,’ ‘vibe coding’ and ‘cuffing season’ to new word list",
-        "enlace": "https://www.foxbusiness.com/lifestyle/merriam-webster-welcomes-looksmaxxing-vibe-coding-cuffing-season-new-word-list",
-        "desc": "Merriam-Webster added 1,400 new words including vibe coding, looksmaxxing, parasocial, rickroll and meme coin in a sweeping internet-age update.",
-        "fecha": "2026-09-20T19:30:21-04:00",
+        "titulo": "Volkswagen recalls 208,000 SUVs over bolts that could cause steering loss",
+        "enlace": "https://www.foxbusiness.com/economy/volkswagen-recalls-208000-suvs-over-bolts-could-cause-steering-loss",
+        "desc": "Volkswagen is recalling more than 208,000 vehicles due to a faulty steering rack bolt that could break and cause a loss of steering control.",
+        "fecha": "2026-09-21T02:43:38-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1196,17 +1196,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-        "desc": "Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodati…",
-        "fecha": "2026-09-21T03:46:38+00:00",
+        "titulo": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
+        "desc": "Goldman Sachs Group Inc.’s traders are urging credit investors to take another look at some of the beaten-down bonds from Virgin Media O2 and VodafoneZiggo, just months after weake…",
+        "fecha": "2026-09-21T10:22:42+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Fast-food chains are chasing the specialty drink boom. Inside Sonic's strategy",
-        "enlace": "https://www.foxbusiness.com/lifestyle/fast-food-chains-chasing-specialty-drink-boom-inside-sonics-strategy",
-        "desc": "Sonic says its long-standing drink customization platform gives the chain an advantage as fast-food rivals invest in specialty beverages and personalized drinks.",
-        "fecha": "2026-09-20T15:57:29-04:00",
+        "titulo": "Merriam-Webster welcomes ‘looksmaxxing,’ ‘vibe coding’ and ‘cuffing season’ to new word list",
+        "enlace": "https://www.foxbusiness.com/lifestyle/merriam-webster-welcomes-looksmaxxing-vibe-coding-cuffing-season-new-word-list",
+        "desc": "Merriam-Webster added 1,400 new words including vibe coding, looksmaxxing, parasocial, rickroll and meme coin in a sweeping internet-age update.",
+        "fecha": "2026-09-20T19:30:21-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-        "desc": "Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this wee…",
-        "fecha": "2026-09-20T22:14:48+00:00",
+        "titulo": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+        "desc": "Gold edged lower as investors weighed the risk of a series of further US Federal Reserve rate hikes, even as benchmark oil futures extended a decline toward $100 a barrel.",
+        "fecha": "2026-09-20T23:45:47+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-        "desc": "Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodati…",
-        "fecha": "2026-09-21T03:46:38+00:00",
+        "titulo": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
+        "desc": "Goldman Sachs Group Inc.’s traders are urging credit investors to take another look at some of the beaten-down bonds from Virgin Media O2 and VodafoneZiggo, just months after weake…",
+        "fecha": "2026-09-21T10:22:42+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Landtagswahlen: Wie erste Datenanalysen das Ergebnis der Wahlen erklären",
-        "enlace": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-wie-erste-datenanalysen-das-ergebnis-der-wahlen-erklaeren/100254345.html",
-        "desc": "Ein Blick auf die Zahlen zeigt, welche Wähler wohin wanderten und wer die meisten Nichtwähler zu sich ziehen konnte. Bemerkenswert ist, welche Themen und Altersgruppen die Wahlen p…",
-        "fecha": "2026-09-21T04:37:38+00:00",
+        "titulo": "Internationales Recht: USA planen offenbar weitere Sanktionen gegen den Internationalen Strafgerichtshof",
+        "enlace": "https://www.handelsblatt.com/politik/international/internationaler-strafgerichtshof-usa-planen-offenbar-weitere-sanktionen-gegen-die-behoerde/100256184.html",
+        "desc": "Mehrere Vertreter des Strafgerichtshofs wurden bereits sanktioniert, nun sollen die Sanktionen auf die gesamte Behörde ausgeweitet werden. Das hätte weitreichende Folgen.",
+        "fecha": "2026-09-21T10:25:34+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-        "desc": "Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this wee…",
-        "fecha": "2026-09-20T22:14:48+00:00",
+        "titulo": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+        "desc": "Gold edged lower as investors weighed the risk of a series of further US Federal Reserve rate hikes, even as benchmark oil futures extended a decline toward $100 a barrel.",
+        "fecha": "2026-09-20T23:45:47+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Märkte: Insider – China bremst Börsengänge von Roboter-Herstellern",
-        "enlace": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-insider-china-bremst-boersengaenge-von-roboter-herstellern/100256063.html",
-        "desc": "Chinesische Aufsichtsbehörden prüfen wegen hoher Bewertungen mehrere geplante Börsengänge von Roboterfirmen. Auslöser ist laut Insidern unter anderem der volatile Börsenstart von U…",
-        "fecha": "2026-09-21T04:31:43+00:00",
+        "titulo": "Die Welt in Bildern: Blickfang",
+        "enlace": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
+        "desc": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein…",
+        "fecha": "2026-09-21T10:21:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-        "desc": "Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodati…",
-        "fecha": "2026-09-21T03:46:38+00:00",
+        "titulo": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
+        "desc": "Goldman Sachs Group Inc.’s traders are urging credit investors to take another look at some of the beaten-down bonds from Virgin Media O2 and VodafoneZiggo, just months after weake…",
+        "fecha": "2026-09-21T10:22:42+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-        "desc": "Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this wee…",
-        "fecha": "2026-09-20T22:14:48+00:00",
+        "titulo": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+        "desc": "Gold edged lower as investors weighed the risk of a series of further US Federal Reserve rate hikes, even as benchmark oil futures extended a decline toward $100 a barrel.",
+        "fecha": "2026-09-20T23:45:47+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-        "desc": "Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodati…",
-        "fecha": "2026-09-21T03:46:38+00:00",
+        "titulo": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
+        "desc": "Goldman Sachs Group Inc.’s traders are urging credit investors to take another look at some of the beaten-down bonds from Virgin Media O2 and VodafoneZiggo, just months after weake…",
+        "fecha": "2026-09-21T10:22:42+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "FMI recomenda evitar IVA Zero nos alimentos",
-        "enlace": "https://www.jornaldenegocios.pt/economia/detalhe/fmi-recomenda-evitar-iva-zero-nos-alimentos",
-        "desc": "Numa altura em que a oposição quer que os alimentos essenciais não paguem IVA, o FMI deixou uma recomendação aos governos para que evitem essas medidas. Medidas de PS e Chega devem…",
-        "fecha": "2026-09-20T23:30:00+01:00",
+        "titulo": "Famílias puseram 662 milhões de euros em certificados em agosto",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/familias-puseram-662-milhoes-de-euros-em-certificados-em-agosto",
+        "desc": "Apesar de o saldo conjunto ser positivo, houve mais resgates do que subscrições nos certificados do Tesouro. A procura por certificados de aforro compensou.",
+        "fecha": "2026-09-21T11:18:22+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Stocks Rise With US Futures, Brent Extends Decline: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-        "desc": "Stocks rose and futures pointed to more gains after the US described talks with China as “very successful” ahead of a summit between Presidents Donald Trump and Xi Jinping this wee…",
-        "fecha": "2026-09-20T22:14:48+00:00",
+        "titulo": "Gold Edges Lower as Traders Weigh Oil Prices and Fed Rate Path",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
+        "desc": "Gold edged lower as investors weighed the risk of a series of further US Federal Reserve rate hikes, even as benchmark oil futures extended a decline toward $100 a barrel.",
+        "fecha": "2026-09-20T23:45:47+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Um equívoco esclarecedor",
-        "enlace": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/um-equivoco-esclarecedor",
-        "desc": "O turismo de saúde é praticado por pessoas com poder de compra e não por aquelas que a presidente do conselho de administração do Amadora-Sintra aceita identificar como tal.",
-        "fecha": "2026-09-20T23:00:00+01:00",
+        "titulo": "Euribor sobe em todos os prazos. Europa no verde à boleia da banca e tecnológicas",
+        "enlace": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/encontro-bem-sucedido-entre-china-e-eua-anima-pracas-asiaticas-europa-aponta-para-ganhos",
+        "desc": "Acompanhe, ao minuto, a evolução dos mercados nesta segunda-feira.",
+        "fecha": "2026-09-21T11:09:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "BofA's Cabana: Front-End Yields Face Repricing Risk",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-cabana-front-end-yields-face-repricing-risk-video",
-        "desc": "Mark Cabana, Co-Head of Global Rates Research at BofA Global Research, says the front end of the global yield curve could reprice higher as central banks move to reduce accommodati…",
-        "fecha": "2026-09-21T03:46:38+00:00",
+        "titulo": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
+        "desc": "Goldman Sachs Group Inc.’s traders are urging credit investors to take another look at some of the beaten-down bonds from Virgin Media O2 and VodafoneZiggo, just months after weake…",
+        "fecha": "2026-09-21T10:22:42+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
