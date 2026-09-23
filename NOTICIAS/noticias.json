@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-09-23T00:10:02.155665+00:00",
+  "actualizado": "2026-09-23T05:40:37.767755+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Tres Cantos, municipio de 1991, pide auditar el censo exterior tras sumar 200 electores por la ley de nietos",
-        "enlace": "https://www.abc.es/espana/madrid/tres-cantos-municipio-1991-pide-auditar-censo-20260922013002-nt.html",
-        "desc": "Tres Cantos es uno de los municipios más jóvenes de la Comunidad de Madrid. No existía como tal hasta 1991, cuando se segregó de Colmenar Viejo. En menos de cuatro décadas su creci…",
-        "fecha": "2026-09-23T01:30:02+02:00",
+        "titulo": "Andalucía acogió menas que pidieron ir a Cataluña por el rechazo del independentismo",
+        "enlace": "https://www.abc.es/espana/andalucia/andalucia-acogio-menas-pidieron-cataluna-rechazo-independentismo-20260923213047-nts.html",
+        "desc": "El Gobierno usó a los menores inmigrantes como moneda de cambio en el último reparto de 2025. Los expedientes revelan que se saltó la reagrupación familiar dentro de España para co…",
+        "fecha": "2026-09-23T07:10:33+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "Trump legitima a Delcy Rodríguez con un encuentro en Nueva York mientras María Corina Machado intenta en vano regresar a Venezuela",
+        "enlace": "https://www.elmundo.es/internacional/2026/09/23/6ab35dc6e9cf4aed758b458c.html",
+        "desc": "La líder bolivariana posa sonriente con su antiguo enemigo y le agradece \"su respaldo al proceso de reinserción de nuestro país en los espacios multilaterales\"&nbsp; Leer",
+        "fecha": "2026-09-23T07:05:01+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "El chat secreto de la cloaca del PSOE: &quot;Estamos hablando de atacar a gente metida en las más altas instituciones&quot;",
+        "enlace": "https://www.libertaddigital.com/espana/2026-09-23/el-chat-secreto-de-la-cloaca-del-psoe-estamos-hablando-de-atacar-a-gente-metida-en-las-mas-altas-instituciones-7463376/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Libertad Digital publica en exclusiva el chat en el que las cloacas del PSOE de Pedro Sánchez conspiraron contra el Estado.",
+        "fecha": "2026-09-23T04:04:26+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "Sánchez reivindica la Agenda 2030 como la «agenda de la gente» y no «de la élite»",
+        "enlace": "https://theobjective.com/espana/politica/2026-09-23/sanchez-agenda-2030-agenda-gente-no-elite/",
+        "desc": "El presidente del Gobierno, Pedro Sánchez, ha defendido la Agenda 2030 como la «agenda de la gente» y no «de la élite» en un encuentro que [&#8230;]",
+        "fecha": "2026-09-23T05:38:27+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "Un incendio en una residencia en L'Ametlla del Vallès (Barcelona) obliga a atender a 71 personas",
+        "enlace": "https://www.elconfidencial.com/espana/cataluna/2026-09-23/incendio-residencia-ametlla-valles-humo-1tna-1tps_4429503/",
+        "desc": "El siniestro obligó a evacuar dos niveles y movilizó 13 vehículos de los Bomberos, mientras los residentes permanecían en zonas seguras o confinados",
+        "fecha": "2026-09-23T05:40:40.016624+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "A partir del lunes 28 de septiembre entra en vigor: la UE confirma el cambio de norma con los productos ecológicos del supermercado",
+        "enlace": "https://okdiario.com/economia/consumo/partir-del-lunes-28-septiembre-entra-vigor-ue-confirma-cambio-norma-productos-ecologicos-del-supermercado-20361908",
+        "desc": "Ir al supermercado y encontrarse con palabras como «verde», «ecológico» o «respetuoso con el medioambiente» en un envase se ha convertido en algo habitual. Lo podemos ver en produc…",
+        "fecha": "2026-09-23T07:30:55+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "Sánchez recibe otro revés de la UE y busca la foto con Mamdani mientras Trump y la OTAN se reconcilian sobre Groenlandia",
+        "enlace": "https://www.elespanol.com/mundo/europa/20260923/sanchez-recibe-reves-ue-busca-foto-mamdani-trump-otan-reconcilian-groenlandia/1003744393099_0.html",
+        "desc": "Alemania le reclama más \"espíritu europeo\" al rechazar su órdago de vincular el catalán con la ampliación de la Unión. Moncloa justifica la ausencia del presidente en la recepción …",
+        "fecha": "2026-09-23T05:00:00+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Sánchez tiene la acogida de menores en Andalucía colapsada ante un reparto de Ceuta",
+        "enlace": "https://www.abc.es/espana/andalucia/sanchez-acogida-menores-andalucia-colapsada-ante-reparto-20260923210203-nts.html",
+        "desc": "Sánchez «nos reventó». Así de contundente se mostró la consejera de Servicios Sociales, Loles López, en la comisión del Parlamento Andaluz cuando se refirió a la capacidad de acogi…",
+        "fecha": "2026-09-23T07:10:24+02:00",
         "fuente": "ABC"
       },
       {
@@ -17,63 +66,28 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "La mayoría izquierdista del TC consuma el plan de Pumpido: rechaza la ponencia de Macías y amnistiará a Turull",
-        "enlace": "https://www.libertaddigital.com/espana/2026-09-22/no-publicar-ccp-7463934/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "La mayoría izquierdista rechaza la ponencia del conservador José María Macías, que secundaba al Supremo y se oponía a amnistiar a Jordi Turull.",
-        "fecha": "2026-09-22T14:13:44+02:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "El presidente de Guyana reafirma ante Ceapi su apuesta por la inversión: «Estamos abiertos»",
-        "enlace": "https://theobjective.com/internacional/2026-09-22/el-presidente-de-guyana-reafirma-ante-ceapi-su-apuesta-por-la-inversion-estamos-abiertos/",
-        "desc": "El Consejo Empresarial Alianza por Iberoamérica (CEAPI) organizó este lunes, en el marco de la 81ª Asamblea General de las Naciones Unidas en Nueva York, un [&#8230;]",
-        "fecha": "2026-09-22T21:32:12+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "Detenido en Alemania el presunto 'cerebro' financiero del 'caso Plus Ultra'",
-        "enlace": "https://www.elconfidencial.com/espana/2026-09-22/detenido-en-alemania-el-presunto-cerebro-financiero-del-caso-plus-ultra_4429474/",
-        "desc": "El arresto se produjo en el marco de una Orden Europea de Detención y Entrega (OEDE) emitida por la Plaza 2 de la Sección de Instrucción del Tribunal Central de Instancia, según ha…",
-        "fecha": "2026-09-23T00:10:03.678972+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Alemania detiene al cerebro financiero del ‘caso Plus Ultra’ y lo entregará mañana a España",
-        "enlace": "https://okdiario.com/espana/alemania-detiene-cerebro-financiero-del-caso-plus-ultra-lo-entregara-manana-espana-20366630",
-        "desc": "Las autoridades de Alemania procederán este jueves a la entrega a España del financiero neerlandés Simon Leendert Verhoeven, considerado el cerebro detrás del presunto delito de bl…",
-        "fecha": "2026-09-23T02:06:28+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "Los besos de Delcy a Sánchez: la heredera de Maduro cruza toda la Asamblea de la ONU para agradecerle su apoyo ante la UE",
-        "enlace": "https://www.elespanol.com/espana/20260922/besos-delcy-sanchez-heredera-maduro-cruza-toda-asamblea-onu-agradecerle-apoyo-ue/1003744393072_0.html",
-        "desc": "El jefe del Ejecutivo garantiza a la presidenta encargada de Venezuela el compromiso de España con su país y con el futuro de la región. Delcy podría viajar a España en noviembre p…",
-        "fecha": "2026-09-22T18:24:57+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "Veintiuno: «El 'indie' a veces es tener padres ricos»",
-        "enlace": "https://www.abc.es/espana/madrid/veintiuno-indie-veces-tener-padres-ricos-20260915012954-nt.html",
-        "desc": "La de Veintiuno es una de esas historias que empiezan con un grupo actuando ante cuatro o cinco personas, que pronto se convierten en veinte o treinta, luego en ochenta o cien, y a…",
-        "fecha": "2026-09-23T01:29:54+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "Félix Plasencia y Oliver Blanco, los dos poderosos escoltas de Delcy en su golpe de efecto en la ONU",
-        "enlace": "https://www.elmundo.es/espana/2026/09/22/6ab2d2a6e9cf4aa7138b45cd.html",
-        "desc": "La presidenta encargada venezolana ejecutó su paseíllo coregrafiado acompañada por su jefe de la diplomacia y el 'dos' de Exteriores, Oliver Blanco&nbsp; Leer",
-        "fecha": "2026-09-22T22:54:57+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "Sánchez admite por primera vez que Marruecos &quot;falló&quot; en la frontera de Ceuta y que ha pedido &quot;respuestas&quot;",
-        "enlace": "https://www.libertaddigital.com/espana/politica/2026-09-22/sanchez-dice-en-la-cnn-que-ha-pedido-explicaciones-a-marruecos-porque-su-mecanismo-de-control-de-frontera-fallo-7464320/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Sánchez también ha aprovechado la entrevista para denunciar la &quot;insolidaridad&quot; de algunos de sus socios europeos.",
-        "fecha": "2026-09-22T20:40:52+02:00",
+        "titulo": "Conde-Pumpido ataca al Supremo en un pleno exprés para justificar la inminente amnistía total a Puigdemont",
+        "enlace": "https://www.libertaddigital.com/espana/2026-09-23/conde-pumpido-ataca-al-supremo-en-un-pleno-expres-para-justificar-la-inminente-amnistia-total-a-puigdemont-7464190/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Fuentes del TC consultadas por LD destacan que &quot;Conde-Pumpido ha calificado como &#039;irracionales&#039; e &#039;ilógicos&#039; los argumentos del Supremo&quot;.",
+        "fecha": "2026-09-23T06:03:54+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
+      {
+        "titulo": "Texas man charged with capital murder after 5-year-old killed in roadway shooting",
+        "enlace": "https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting",
+        "desc": "Jeremy Porter was charged with capital murder after police said he killed 5-year-old Zah&apos;Layah Walter in a roadway shooting in northwest Harris County.",
+        "fecha": "2026-09-22T23:21:23-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
+        "enlace": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act",
+        "desc": "White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.",
+        "fecha": "2026-09-23T01:26:31-04:00",
+        "fuente": "NPR"
+      },
       {
         "titulo": "Missouri mom who put newborn in oven instead of crib learns fate as murder charge dropped",
         "enlace": "https://www.foxnews.com/us/missouri-mom-put-newborn-oven-instead-crib-learns-fate-murder-charge-dropped",
@@ -87,67 +101,53 @@
         "desc": "The Black Mississippi teen's family questions whether his race contributed to his July 4th death on an island off the Mississippi coast.",
         "fecha": "2026-09-22T17:47:51-04:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Bodycam footage captures moments after ICE shooting of Venezuelan migrant in Austin",
-        "enlace": "https://www.foxnews.com/us/bodycam-footage-captures-moments-after-ice-shooting-venezuelan-migrant-austin",
-        "desc": "Austin Police Department body camera footage captures the moments after an ICE officer shot a Venezuelan migrant during an arrest attempt.",
-        "fecha": "2026-09-22T18:42:04-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape",
-        "enlace": "https://www.npr.org/2026/09/22/nx-s1-5978033/braden-peters-clavicular-looksmaxxing-rape-accusation",
-        "desc": "The allegations claim Braden Peters, also known as Clavicular, had non-consensual sex with the 17-year-old female victim after plying her with alcohol. Peters' representative denie…",
-        "fecha": "2026-09-22T17:37:28-04:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Un ave rapaz hallada en el suelo con problemas de salud regresó a la naturaleza luego de recibir cuidados especializados: \"Su capacidad de vuelo siguió mejorando y, finalmente, se consideró que estaba…",
-        "enlace": "https://www.clarin.com/internacional/ave-rapaz-hallada-suelo-problemas-salud-regreso-naturaleza-luego-recibir-cuidados-especializados-capacidad-vuelo-siguio-mejorando-finalmente-considero-lista-liberada_0_UlBNivZ9TY.html",
-        "desc": "Un animal silvestre rescatado volvió a su hábitat natural tras recibir atención veterinaria. El caso ocurrió en Sudáfrica.",
-        "fecha": "2026-09-22T23:45:34+00:00",
+        "titulo": "Alibaba anuncia una expansión de sus centros de datos internacionales",
+        "enlace": "https://www.clarin.com/estados-unidos/alibaba-anuncia-una-expansion-de-sus-centros-de-datos-internacionales_0_XlWppHL0yE.html",
+        "desc": "Alibaba planea expandir sus centros de datos en Europa y Oriente Medio, con nuevas zonas en Turquía, Finlandia y Países Bajos este año. La firma busca alcanzar 20 gigavatios de cap…",
+        "fecha": "2026-09-23T05:10:10+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Créditos hipotecarios: ya son 12 los bancos que bajaron la tasa al 7,5% y otros tres la fijaron por debajo del 7%",
-        "enlace": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-ya-son-12-los-bancos-que-bajaron-la-tasa-al-75-y-otros-tres-la-fijaron-por-nid21092026/",
-        "desc": "En pocos días, distintas entidades modificaron las condiciones de sus préstamos UVA; algunas recortaron varios puntos y otras incluso llevaron el interés por debajo del límite fija…",
-        "fecha": "2026-09-23T00:07:58+00:00",
+        "titulo": "Javier Milei y sus medidas, en vivo: el canciller Quirno se refirió a Malvinas en la ONU y reiteró que están ocupadas “ilegalmente”",
+        "enlace": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-canciller-quirno-se-refirio-a-malvinas-y-dijo-que-estan-nid23092026/",
+        "desc": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+        "fecha": "2026-09-23T05:33:58+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Kicillof en Nueva York: reuniones con fondos de inversión y empresarios, con críticas a Milei y al RIGI",
-        "enlace": "https://www.clarin.com/politica/kicillof-nueva-york-reuniones-fondos-inversion-empresarios-criticas-milei-rigi_0_KLkB2kCmkV.html",
-        "desc": "En paralelo a la presencia de Milei en la ONU, el gobernador busca generar confianza con el establishment financiero. Este miércoles tendrá un desayuno con Pedro Sánchez y el alcal…",
-        "fecha": "2026-09-22T23:43:00+00:00",
+        "titulo": "Trump prepara una bienvenida fastuosa a Xi en la Base Conjunta Andrews",
+        "enlace": "https://www.clarin.com/estados-unidos/trump-prepara-una-bienvenida-fastuosa-a-xi-en-la-base-conjunta-andrews_0_KNU2u96GYp.html",
+        "desc": "El líder chino llega a Washington para una visita de Estado marcada por un recibimiento excepcional por parte del presidente estadounidense. La ceremonia busca fortalecer lazos, pe…",
+        "fecha": "2026-09-23T04:50:07+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Estanislao Bachrach: “El bienestar o la toma de decisiones depende de lo que soy y lo que quiero ser”",
-        "enlace": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-el-bienestar-o-la-toma-de-decisiones-depende-de-lo-que-soy-y-lo-que-quiero-ser-nid22092026/",
-        "desc": "El biólogo molecular analiza la importancia de la intuición y el cuerpo para alcanzar la plenitud personal; describe técnicas para transformar la estructura cerebral y reducir el m…",
-        "fecha": "2026-09-23T00:04:00+00:00",
+        "titulo": "“Tiene que hacerte cosquillas”: pasó más de una década en marketing pero dejó la vida corporativa y encontró su vocación",
+        "enlace": "https://www.lanacion.com.ar/lifestyle/tiene-que-hacerte-cosquillas-paso-mas-de-una-decada-en-marketing-pero-dejo-la-vida-corporativa-y-nid23092026/",
+        "desc": "Trabajó en el mundo del marketing y el consumo masivo, pero la maternidad y la búsqueda de un ritmo propio la llevaron a replantearse todo",
+        "fecha": "2026-09-23T05:33:01+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Carburants : le gouvernement double les aides aux automobilistes pour éviter une crise",
-        "enlace": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html",
-        "desc": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 …",
-        "fecha": "2026-09-22T20:05:56+02:00",
+        "titulo": "A l’Assemblée générale de l’ONU, Donald Trump fait mine d’hésiter, au sujet de l’Iran, entre accord et « destruction »",
+        "enlace": "https://www.lemonde.fr/international/article/2026/09/23/a-l-assemblee-generale-de-l-onu-donald-trump-fait-mine-d-hesiter-au-sujet-de-l-iran-entre-accord-et-destruction_6780570_3210.html",
+        "desc": "Le président américain a dû consacrer, mardi, une partie de son discours d’autocélébration à son impopulaire aventure militaire en Iran. « Est-ce que je les conduis en enfer », s’e…",
+        "fecha": "2026-09-23T05:30:39+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "«Un rouleau compresseur» : de gauche à droite, fascination et inquiétude face à la campagne de Jean-Luc Mélenchon",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/un-rouleau-compresseur-de-gauche-a-droite-fascination-et-inquietude-face-a-la-campagne-de-jean-luc-melenchon-20260922",
-        "desc": "DÉCRYPTAGE - Les démonstrations de force du tribun Insoumis confirment pour nombre de ses adversaires qu’il est en capacité de se qualifier pour le second tour de la présidentielle…",
-        "fecha": "2026-09-22T19:52:14+02:00",
+        "titulo": "Détroit d’Ormuz, guerre en Ukraine, Gaza, intelligence artificielle : ce qu’il faut retenir de l’intervention d’Emmanuel Macron à l’ONU",
+        "enlace": "https://www.lefigaro.fr/international/detroit-d-ormuz-guerre-en-ukraine-gaza-intelligence-artificielle-ce-qu-il-faut-retenir-de-l-intervention-d-emmanuel-macron-a-l-onu-20260922",
+        "desc": "Dans son dernier discours à l’Assemblée générale des Nations unies, le président de la République a appelé à ne pas «céder» face à l’«esprit de défaite, à la fatalité».",
+        "fecha": "2026-09-22T22:08:18+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -158,17 +158,17 @@
         "fuente": "France 24"
       },
       {
-        "titulo": "A l’Assemblée générale de l’ONU, Emmanuel Macron appelle à se « tenir droit » aux côtés des Nations unies face à « la loi de la jungle »",
-        "enlace": "https://www.lemonde.fr/international/article/2026/09/22/emmanuel-macron-appelle-a-se-tenir-droit-aux-cotes-des-nations-unies-face-a-la-loi-de-la-jungle_6780290_3210.html",
-        "desc": "Le président français a également appelé à un « double moratoire » sur les frappes contre les sites énergétiques en Russie et Ukraine.",
-        "fecha": "2026-09-22T20:58:48+02:00",
+        "titulo": "Carburants : le gouvernement double les aides aux automobilistes pour éviter une crise",
+        "enlace": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html",
+        "desc": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 …",
+        "fecha": "2026-09-22T20:05:56+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Y a-t-il vraiment moins d’arrêts maladie en France qu’en Belgique, en Espagne et en Allemagne, comme l’affirme Jean-Luc Mélenchon ?",
-        "enlace": "https://www.lefigaro.fr/conjoncture/y-a-t-il-vraiment-moins-d-arrets-maladie-en-france-qu-en-belgique-en-espagne-et-en-allemagne-comme-l-affirme-jean-luc-melenchon-20260922",
-        "desc": "LA VÉRIF’ - Le candidat LFI à la présidentielle a vivement critiqué l’économie de 2 milliards d’euros sur les arrêts de travail souhaitée par le gouvernement en 2027, affirmant que…",
-        "fecha": "2026-09-22T19:16:06+02:00",
+        "titulo": "«Ne cédons pas à l’esprit de défaite» : retrouvez l’intégralité du discours d’Emmanuel Macron devant l’ONU",
+        "enlace": "https://www.lefigaro.fr/international/ne-cedons-pas-a-l-esprit-de-defaite-retrouvez-l-integralite-du-discours-d-emmanuel-macron-devant-l-onu-20260922",
+        "desc": "Pour la dernière fois de son mandat, le président de la République s’est exprimé le 22 septembre 2026 à la tribune des Nations Unies.",
+        "fecha": "2026-09-22T22:53:42+02:00",
         "fuente": "Le Figaro"
       },
       {
@@ -181,162 +181,162 @@
     ],
     "nacional_de": [
       {
-        "titulo": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise",
-        "enlace": "https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9#ref=rss",
-        "desc": "Die USA exportieren eine Menge Diesel, gleichzeitig ist der Treibstoff im Land teuer wie nie. Donald Trump erwägt daher, die Ausfuhr zu kappen. Doch das könnte nach hinten losgehen…",
-        "fecha": "2026-09-23T02:04:00+02:00",
+        "titulo": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen",
+        "enlace": "https://www.spiegel.de/wirtschaft/mit-xxl-tanks-will-qantas-ab-2028-von-sydney-direkt-nach-new-york-fliegen-a-1d61156a-bf02-48ad-b85f-623caedcaf34#ref=rss",
+        "desc": "Zwölf Airbus-Maschinen der Qantas bekommen zusätzliche Tanks für 20 Tonnen extra Sprit eingebaut. So sollen sie die Strecke von Australien in die USA ohne Zwischenstopp schaffen – …",
+        "fecha": "2026-09-23T07:36:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Krieg gegen die Ukraine: Selenskyj und Trump diskutieren Stopp von Angriffen auf Energieanlagen",
-        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-        "desc": "Am Rande der UN-Vollversammlung haben Selenskyj und Trump über Wege zu einem Kriegsende gesprochen. Auch ein mögliches Treffen mit Putin war ein Thema. Das Liveblog",
-        "fecha": "2026-09-22T23:46:22",
+        "titulo": "Spritpreise in den USA: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+        "enlace": "https://www.zeit.de/politik/ausland/2026-09/spritpreise-usa-diesel-exportstopp-donald-trump",
+        "desc": "Mitten im Wahlkampf steigen die Spritpreise in den USA stark. Die US-Regierung denkt nun über eine Ausfuhrsperre für Diesel nach – mit möglichen Folgen auch für Europa.",
+        "fecha": "2026-09-23T05:38:41",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Flughafen Düsseldorf: Rauch an Bord – Eurowings-Maschine muss kurz nach Start umdrehen",
-        "enlace": "https://www.spiegel.de/panorama/flughafen-duesseldorf-rauch-an-bord-eurowings-maschine-muss-kurz-nach-start-umdrehen-a-cbf60484-c10d-47d0-95bc-7266cdfabd74#ref=rss",
-        "desc": "Die 144 Passagiere wollten von Düsseldorf ins italienische Brindisi fliegen, doch so weit kamen sie nicht: Nach etwa zwölf Minuten in der Luft landeten sie schon wieder.",
-        "fecha": "2026-09-23T00:43:00+02:00",
+        "titulo": "DLRG-Bilanz: Fast 250 Menschen während der Badesaison in Deutschland ertrunken",
+        "enlace": "https://www.spiegel.de/panorama/dlrg-bilanz-fast-250-menschen-waehrend-der-badesaison-in-deutschland-ertrunken-a-1cb147f2-bd5e-4429-bd6a-e682c2700465#ref=rss",
+        "desc": "Die DLRG warnt: Leichtsinn und fehlende Schwimmkenntnisse bleiben ein großes Risiko, besonders für junge Männer. Vor allem während er Hitzewelle im Juni registrierten die Wasserret…",
+        "fecha": "2026-09-23T07:34:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Reformpläne der Bundesregierung: Kanzleramtschefin Nina Warken lehnt Änderungen an Reformen ab",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-09/nina-warken-cdu-reformen-koalition-rente-arbeitsmarkt",
-        "desc": "Nina Warken hat eine zügige Umsetzung der Koalitionspläne gefordert. Mutige Reformen seien nötig, sagte die Kanzleramtschefin – Union und SPD müssten »Knoten lösen«.",
-        "fecha": "2026-09-22T23:42:11",
+        "titulo": "Spritpreise: ADAC fordert Abschaffung der sogenannten 12-Uhr-Regel an Tankstellen",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-09/12-uhr-regel-tankstellen-adac-spritpreise",
+        "desc": "Tankstellen dürfen nur einmal am Tag die Preise für Benzin und Diesel erhöhen – um 12 Uhr. Der ADAC kritisiert, dass danach »erhebliche Zusatzkosten« anfallen.",
+        "fecha": "2026-09-23T05:33:45",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Meloni con l’elmetto in modalità elettorale: la sfida finale è al Colle",
-        "enlace": "https://www.repubblica.it/politica/2026/09/23/news/meloni_elezioni_sfida_colle_mattarella-425601417/",
-        "desc": "L’offensiva alimentata dalle chat dei parlamentari di FdI nelle quali è rimbalzato l’atto firmato 36 anni fa dall’allora ministro",
-        "fecha": "2026-09-22T23:00:00+00:00",
+        "titulo": "Capovilla: “In laguna la magia del creato, salviamola dal turismo senza regole”",
+        "enlace": "https://www.repubblica.it/cronaca/2026/09/23/news/pierpaolo_capovilla_veneto_intervista-425601237/",
+        "desc": "Il musicista e attore, protagonista del film Le città di pianura: “La Laguna e Pellestrina sono magiche, ma vanno difese”",
+        "fecha": "2026-09-23T05:00:00+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Il faro del Quirinale sul decreto scuola. Confronto aperto con il governo",
-        "enlace": "https://www.repubblica.it/politica/2026/09/23/news/quirinale_decreto_scuola_governo-425601360/",
-        "desc": "La sorpresa per il contropiede dell’inquilina di Palazzo Chigi che equipara un documento del ‘90 alla sua legge",
-        "fecha": "2026-09-22T23:00:00+00:00",
+        "titulo": "Il Veneto oltre l’overtourism: ecco come scoprirlo davvero, parola di Lonely Planet",
+        "enlace": "https://www.repubblica.it/viaggi/2026/09/23/news/regione_veneto_dove_andare_lonely_planet_best_in_travel_2027-425601593/",
+        "desc": "Dal Polesine ai borghi del Trevigiano, il racconto di un territorio che sfugge a code e cartoline, ora premiata dalla classifica Best in Travel per il 2027",
+        "fecha": "2026-09-23T04:54:04+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
-        "enlace": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
-        "desc": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
-        "fecha": "2026-09-22T21:22:36+00:00",
+        "titulo": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+        "enlace": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+        "desc": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+        "fecha": "2026-09-23T01:08:40+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "The Great British Bake Off review – Nigella is wise, generous … and perfect for this national treasure of a show",
-        "enlace": "https://www.theguardian.com/tv-and-radio/2026/sep/22/the-great-british-bake-off-review-nigella-wise-generous-perfect-national-treasure",
-        "desc": "The newest judge on the culinary competition is a soothing presence who is the ideal complement to Paul Hollywood. Long may the show continue with her on it There’s a very good arg…",
-        "fecha": "2026-09-22T20:30:04+00:00",
+        "titulo": "‘My body is on fire!’: my perilous, painful, perfect month of pilates",
+        "enlace": "https://www.theguardian.com/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates",
+        "desc": "A growing number of men, including singers Shaggy and Harry Styles, are taking up pilates. When I realised I could no longer touch my toes, I decided to try it out I realised somet…",
+        "fecha": "2026-09-23T04:00:15+00:00",
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
-        "enlace": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
-        "desc": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
-        "fecha": "2026-09-22T19:15:57+00:00",
+        "titulo": "Watch: Key moments from Andy Burnham's first UN speech",
+        "enlace": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+        "desc": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+        "fecha": "2026-09-23T01:25:47+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "I read 163 novels and these are the six best: Mary Beard on judging the Booker prize",
-        "enlace": "https://www.theguardian.com/books/2026/sep/22/i-read-163-novels-and-these-are-the-six-best-mary-beard-on-judging-the-booker-prize",
-        "desc": "I found being a Booker judge hugely rewarding. All the works on our shortlist will change how you see the world • This year’s Booker prize shortlist As a Booker judge, I think I ha…",
-        "fecha": "2026-09-22T18:57:06+00:00",
+        "titulo": "It’s easy to ignore the Lib Dems, but they could soon hold the balance of power | Rafael Behr",
+        "enlace": "https://www.theguardian.com/commentisfree/2026/sep/23/ignore-lib-dems-hold-balance-of-power",
+        "desc": "Ed Davey’s strategy is meant to build a ‘firewall’ of MPs to prevent Reform UK entering government. The stakes are high if he gets it wrong No politician craves obscurity, but it i…",
+        "fecha": "2026-09-23T05:00:15+00:00",
         "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Benfica estreia-se na Champions feminina com triunfo em Turim",
-        "enlace": "https://www.publico.pt/2026/09/23/desporto/noticia/benfica-estreiase-champions-feminina-triunfo-turim-2188988",
-        "desc": "“Encarnadas” entraram a ganhar na competição, impondo-se à Juventus por 1-2, em Itália. Segue-se um embate com o Bayern Munique, em Lisboa.",
-        "fecha": "2026-09-22T23:27:21+00:00",
+        "titulo": "Diana Soller: “EUA e China têm de controlar a competição para evitar uma guerra”",
+        "enlace": "https://www.publico.pt/2026/09/23/mundo/noticia/diana-soller-eua-china-controlar-competicao-evitar-guerra-2188966",
+        "desc": "Trump e Xi Jinping voltam a sentar-se à mesma mesa. Neste episódio, discutimos com Diana Soller como duas potências rivais tentam competir sem deixar que a relação saia do controlo…",
+        "fecha": "2026-09-23T04:30:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Falta de noção, falta de vergonha ou esta maneira de ser PS",
-        "enlace": "https://observador.pt/opiniao/falta-de-nocao-falta-de-vergonha-ou-esta-maneira-de-ser-ps/",
-        "desc": "Mário Centeno sonhou ser vice-primeiro-ministro. Augusto Santos Silva diz querer saber que crimes Sócrates cometeu. Ainda bem que continuam por aí para não esquecermos a essência d…",
-        "fecha": "2026-09-23T00:28:36+01:00",
+        "titulo": "As notícias das 6h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2503/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-09-23T06:12:52+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Montenegro afirma que Portugal vai ter excedente este ano e crescer acima da média europeia",
-        "enlace": "https://www.publico.pt/2026/09/23/politica/noticia/montenegro-afirma-portugal-vai-excedente-ano-crescer-acima-media-europeia-2188987",
-        "desc": "Nos EUA, para participar na próxima Assembleia Geral das Nações Unidas, Luís Montenegro promete excedente e crescimento de Portugal acima da UE, apelando ao investimento norte-amer…",
-        "fecha": "2026-09-22T23:17:50+00:00",
+        "titulo": "Como dizer “vem aí o diabo”, sem dizer “vem aí o diabo”",
+        "enlace": "https://www.publico.pt/2026/09/23/opiniao/editorial/dizer-vem-ai-diabo-dizer-vem-ai-diabo-2188944",
+        "desc": "Miranda Sarmento já disse que “a margem para negociar é curta” e que o programa do Governo não pode ser desvirtuado. Editorial deSónia Sapage",
+        "fecha": "2026-09-23T04:03:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "54 alunos aguardam colocação nas escolas, diz ministro",
-        "enlace": "https://observador.pt/2026/09/23/ministro-da-educacao-garante-que-alunos-sem-colocacao-sao-apenas-54-e-que-novos-pedidos-ficam-resolvidos-em-24-horas/",
-        "desc": "Na cerimónia em Portimão, Fernando Alexandre destacou também a importância do futuro Campus Universitário do Barlavento",
-        "fecha": "2026-09-23T00:28:35+01:00",
+        "titulo": "Transformei as minhas obsessões em criatividade",
+        "enlace": "https://observador.pt/programas/somos-todos-malucos/transformei-as-minhas-obsessoes-em-criatividade/",
+        "desc": "Hoje voltamos a um tema que me diz muito, a perturbação Obsessivo-compulsiva, para conhecer uma história, mas sobretudo para entender como podemos usar as “nossas pancadas” a nosso…",
+        "fecha": "2026-09-23T06:08:53+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Com enxaqueca, Michelle Bolsonaro é internada em Brasília sem previsão de alta",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/com-enxaqueca-michelle-bolsonaro-e-internada-em-brasilia-sem-previsao-de-alta.shtml",
-        "desc": "A ex-primeira-dama Michelle Bolsonaro ( PL ) foi internada nesta terça-feira (22) no Hospital DF Star, em Brasília , com um quadro de enxaqueca. Leia mais (09/22/2026 - 20h33)",
-        "fecha": "2026-09-22T20:33:00-03:00",
+        "titulo": "Folha lança Match Eleitoral para ajudar na escolha de deputado e senador em SP",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/folha-lanca-match-eleitoral-para-ajudar-na-escolha-de-deputado-e-senador-em-sp.shtml",
+        "desc": "A Folha e o Datafolha lançam nesta quarta-feira (23) o Match Eleitoral 2026, que facilita a escolha dos candidatos à Câmara dos Deputados e ao Senado em São Paulo. Leia mais (09/23…",
+        "fecha": "2026-09-23T00:05:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Caso Isabelle Caracristi: exame pericial descarta que jovem estava grávida",
-        "enlace": "https://g1.globo.com/ce/ceara/noticia/2026/09/22/caso-isabelle-caracristi-exame-pericial-descarta-que-jovem-estava-gravida.ghtml",
-        "desc": "Vídeo mostra últimos momentos de jovem encontrada morta em condomínio em Fortaleza Reprodução/Globo Um laudo pericial descartou que a estudante Isabelle Caracristi, morta no dia 13…",
-        "fecha": "2026-09-23T00:05:57",
+        "titulo": "María Corina Machado foi impedida de voltar à Venezuela, diz partido",
+        "enlace": "https://g1.globo.com/mundo/noticia/2026/09/23/maria-corina-machado-foi-impedida-de-voltar-a-venezuela-diz-partido.ghtml",
+        "desc": "Foto de arquivo: Maria Corina Machado, líder da oposição na Venezuela, discursa para apoiadores em protesto contra posse de Maduro para um terceiro mandato, em Caracas, em 9 de jan…",
+        "fecha": "2026-09-23T05:16:23",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Juiz federal deu votos pró-Master 6 meses antes de contrato milionário de sua esposa com banco, diz jornal",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/09/juiz-federal-deu-votos-pro-master-6-meses-antes-de-contrato-milionario-de-sua-esposa-com-banco-diz-jornal.shtml",
-        "desc": "O juiz federal do TRF-1 (Tribunal Regional Federal da 1ª Região) Newton Pereira Ramos Neto votou em duas ocasiões de forma favorável ao Banco Master , de Daniel Vorcaro , em uma aç…",
-        "fecha": "2026-09-22T20:25:00-03:00",
+        "titulo": "Uma aposta perdida",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/uma-aposta-perdida.shtml",
+        "desc": "Está saindo do forno uma medida provisória que limita a jogatina liberada pelo governo. Lula gostaria de acabar com ela, mas, como já explicou, não é dono do país. A favor mesmo, s…",
+        "fecha": "2026-09-22T23:00:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Eleições 2026: veja como foi a agenda dos candidatos ao governo de Goiás nesta terça-feira (22)",
-        "enlace": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-terca-feira-22.ghtml",
-        "desc": "Os candidatos ao governo de Goiás cumpriram agenda de campanha nesta terça-feira (22). Wilder Morais (PL), participou de carreata e foi recebido por apoiadores em Aparecida de Goiâ…",
-        "fecha": "2026-09-23T00:05:18",
+        "titulo": "Ataque a tiros mata 11 pessoas na África do Sul; grávida está entre as vítimas",
+        "enlace": "https://g1.globo.com/mundo/noticia/2026/09/23/ataque-a-tiros-na-africa-do-sul.ghtml",
+        "desc": "Homens armados invadiram uma casa em um bairro periférico de Durban, na África do Sul, e mataram 11 pessoas na noite de terça-feira (22), segundo autoridades locais. De acordo com …",
+        "fecha": "2026-09-23T05:02:59",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Trump plans two military bases in Greenland as deal signed",
-        "enlace": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/trump-bases-greenland-deal/",
-        "desc": "The deal is set to expand Washington's military role in Greenland, though it will leave the island under Danish sovereignty.",
-        "fecha": "2026-09-23T08:42:00+09:00",
+        "titulo": "Taiwan and human rights are ‘red lines’ for China, ambassador says ahead of Trump-Xi meeting",
+        "enlace": "https://www.japantimes.co.jp/news/2026/09/23/asia-pacific/politics/china-us-ambassador-taiwan-red-line/",
+        "desc": "Chinese leader Xi Jinping will visit Washington this week for talks ​with U.S. President Donald Trump, as both sides look to bring stability to ties.",
+        "fecha": "2026-09-23T14:26:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "Trump pageantry for Xi will mask feud over U.S.-China AI race",
-        "enlace": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/trump-xi-us-china-ai-race/",
-        "desc": "Meetings will cover thorny issues such as trade and Taiwan during the Chinese president's first visit to Washington since 2015.",
-        "fecha": "2026-09-23T08:21:00+09:00",
+        "titulo": "AI-generated political ads warp reality ahead of U.S. midterms",
+        "enlace": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/ai-political-ads-us-midterms/",
+        "desc": "The largely unregulated form of political communication is increasingly being adopted despite a broader backlash against AI-generated content.",
+        "fecha": "2026-09-23T14:00:00+09:00",
         "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
       {
-        "titulo": "Trump intenta un 'blitz' diplomático en la ONU para lograr los éxitos que se le resisten en Irán y Ucrania",
-        "enlace": "https://www.abc.es/internacional/trump-intenta-blitz-diplomatico-onu-lograr-exitos-20260923015822-nt.html",
-        "desc": "Donald Trump aseguró este martes ante la comunidad internacional reunida en la Asamblea General de la ONU que su capacidad para acabar con guerras -un logro discutido en su alcance…",
-        "fecha": "2026-09-23T01:58:22+02:00",
+        "titulo": "Trump y Delcy escenifican su alianza en Nueva York mientras se frustra la llegada de Machado a Venezuela",
+        "enlace": "https://www.abc.es/internacional/trump-reune-primera-vez-delcy-rodriguez-mitad-20260922034220-nt.html",
+        "desc": "El simbolismo no pudo ser mayor: mientras María Corina Machado, la líder de la oposición democrática en Venezuela, veía sus intentos de regresar a su país frustrados , Donald Trump…",
+        "fecha": "2026-09-23T03:42:20+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -347,45 +347,45 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Zelenski pide ayuda a Trump \"para antes del invierno\" y acabar la guerra",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-09-22/trump-zelenski-posible-salida-guerra-ucrania-entrega-de-misiles-patriot_4429443/",
-        "desc": "Trump señaló ante los periodistas que Ucrania tendrá que llegar finalmente a algún tipo de acuerdo con Rusia. \"Hablamos mucho de ello, también con el presidente Putin, y creo que a…",
-        "fecha": "2026-09-23T00:10:32.691344+00:00",
+        "titulo": "Donald Trump y Delcy Rodríguez se reúnen por primera vez en Nueva York",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-09-23/trump-delcy-rodriguez-reunion-1tps_4429502/",
+        "desc": "El diálogo, celebrado a puerta cerrada durante la Semana de Alto Nivel de la ONU, llega tras restablecerse los vínculos diplomáticos y pactarse un controvertido acuerdo petrolero",
+        "fecha": "2026-09-23T05:41:05.024541+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
-        "enlace": "https://www.bbc.com/mundo/articles/cqdr743ykg2zo?at_medium=RSS&at_campaign=rss",
-        "desc": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles.",
-        "fecha": "2026-09-22T21:50:08+00:00",
+        "titulo": "Por qué es tan relevante el encuentro que Trump y Delcy Rodríguez mantuvieron en Nueva York, a menos de 15 km de la cárcel en la que está preso Maduro",
+        "enlace": "https://www.bbc.com/mundo/articles/c623xym4jrreo?at_medium=RSS&at_campaign=rss",
+        "desc": "Los gobernantes de Estados Unidos y Venezuela consumaron su polémica alianza con una reunión cara a cara al margen de la Asamblea General de la ONU con varios significados, según a…",
+        "fecha": "2026-09-23T03:57:10+00:00",
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "El Niño transforma el desierto de Atacama: miles de hectáreas se cubren de flores",
-        "enlace": "https://es.euronews.com/2026/09/22/desierto-atacama-flores-lluvias-el-nino",
-        "desc": "Las lluvias excepcionales asociadas a El Niño han despertado millones de semillas que permanecían bajo la tierra, cubriendo de flores grandes extensiones de uno de los lugares más …",
-        "fecha": "2026-09-22T23:00:08+02:00",
+        "titulo": "Mientras Trump habla de \"súper inteligencia\" los líderes reunidos en la ONU claman por regular la IA",
+        "enlace": "https://es.euronews.com/2026/09/23/trump-super-inteligencia-lideres-onu-regular-ia",
+        "desc": "En la Asamblea General de la ONU, la inteligencia artificial se ha convertido en tema central tras incidentes fuera del control humano y advertencias internas, generando alarma y p…",
+        "fecha": "2026-09-23T07:20:31+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
         "enlace": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "desc": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "fecha": "2026-09-22T21:50:31+00:00",
+        "desc": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "fecha": "2026-09-23T02:57:00+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
-        "enlace": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
-        "desc": "Ukrainian President Volodymyr Zelenskyy warns the risk of Russian drone, missile or land attacks against countries bordering Russia is &quot;very high.&quot;",
-        "fecha": "2026-09-22T18:11:03-04:00",
+        "titulo": "Lukashenko reveals bizarre argument he and Putin have over who is the ‘bigger dictator’",
+        "enlace": "https://www.foxnews.com/world/lukashenko-reveals-bizarre-argument-putin-bigger-dictator",
+        "desc": "Belarusian President Alexander Lukashenko told a youth forum that he and Vladimir Putin regularly argue over who is the bigger dictator.",
+        "fecha": "2026-09-22T21:50:20-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Rusia ha convertido sus escuelas en máquinas de adoctrinamiento",
-        "enlace": "https://www.abc.es/internacional/rusia-convertido-escuelas-maquinas-adoctrinamiento-20260923012242-nt.html",
-        "desc": "«¿Cómo te sentiste cuando cometiste tu primer asesinato?» le pregunta un alumno en el aula a un hombre con uniforme militar. El profesor interviene: «No se trata de asesinatos. Est…",
-        "fecha": "2026-09-23T01:22:42+02:00",
+        "titulo": "Odisea truncada de María Corina Machado: siete intentos para volver a Venezuela",
+        "enlace": "https://www.abc.es/internacional/odisea-truncada-maria-corina-machado-siete-intentos-20260921031552-nt.html",
+        "desc": "María Corina Machado consiguió escapar de Nicolás Maduro, pero nueve meses después, con Maduro preso en Nueva York y buena parte del mundo que conoció entonces transformado, no ha …",
+        "fecha": "2026-09-23T03:15:52+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -396,26 +396,26 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Sánchez asegura ahora en la CNN que ha pedido explicaciones a Marruecos: \"Su mecanismo de control de frontera falló\"",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-09-22/pedro-sanchez-dice-que-pidio-respuestas-a-marruecos_4429426/",
-        "desc": "Además, ha cargado contra sus socios europeos al denunciar la \"insolidaridad\" que sufrió España durante la crisis migratoria provocada por la entrada masiva",
-        "fecha": "2026-09-23T00:10:32.691393+00:00",
+        "titulo": "Impiden tres nuevos intentos de María Corina Machado de volver a Venezuela",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-09-23/maria-corina-machado-regreso-venezuela-1tps_4429501/",
+        "desc": "Su equipo denuncia nuevos impedimentos para el retorno de la nobel, que permanece varada en territorio panameño y acumula al menos siete tentativas fallidas",
+        "fecha": "2026-09-23T05:41:05.024590+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
         "enlace": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "desc": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "fecha": "2026-09-22T21:50:31+00:00",
+        "desc": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "fecha": "2026-09-23T02:57:00+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
-        "enlace": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
-        "desc": "Ukrainian President Volodymyr Zelenskyy warns the risk of Russian drone, missile or land attacks against countries bordering Russia is &quot;very high.&quot;",
-        "fecha": "2026-09-22T18:11:03-04:00",
+        "titulo": "Lukashenko reveals bizarre argument he and Putin have over who is the ‘bigger dictator’",
+        "enlace": "https://www.foxnews.com/world/lukashenko-reveals-bizarre-argument-putin-bigger-dictator",
+        "desc": "Belarusian President Alexander Lukashenko told a youth forum that he and Vladimir Putin regularly argue over who is the bigger dictator.",
+        "fecha": "2026-09-22T21:50:20-04:00",
         "fuente": "Fox News"
       },
       {
@@ -426,31 +426,31 @@
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Shohei Ohtani on cusp of Dodgers return but in potentially different role",
-        "enlace": "https://nypost.com/2026/09/22/sports/shohei-ohtani-on-cusp-of-dodgers-return-after-il-stint/",
-        "desc": "Shohei Ohtani's time on the injured list is almost over",
-        "fecha": "2026-09-22T20:09:58-04:00",
+        "titulo": "Photographer scammed family out of $4.6M in child modeling fraud scheme, blew it on gambling, $200K Taylor Swift tickets",
+        "enlace": "https://nypost.com/2026/09/23/us-news/michigan-photographer-learns-fate-after-scamming-family-out-of-4-6-million-in-child-modeling-fraud-scheme/",
+        "desc": "“Coyne used a child’s aspirations as a smokescreen for a multimillion‑dollar fraud against a family. And when you prey on families, you will pay for it,” US Attorney Jerome Gorgon …",
+        "fecha": "2026-09-23T01:36:00-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Trump signs 'tremendous' Greenland security deal",
-        "enlace": "https://www.dw.com/en/trump-signs-tremendous-greenland-security-deal/a-79381148?maca=en-rss-en-all-1573-rdf",
-        "desc": "Donald Trump strikes a security deal with Greenland and Denmark on the sidelines of the UN General Assembly. The deal comes after Trump repeatedly said the US should own the Danish…",
-        "fecha": "2026-09-23T00:10:37.631375+00:00",
+        "titulo": "Sri Lanka: 15 men jailed for life in 2019 Easter bombings",
+        "enlace": "https://www.dw.com/en/sri-lanka-15-men-jailed-for-life-in-2019-easter-bombings/a-79382342?maca=en-rss-en-all-1573-rdf",
+        "desc": "The 15 convicts have been given prison sentences of at least 200 years each, following a long trial in what was among Sri Lanka's deadliest attacks.",
+        "fecha": "2026-09-23T05:41:11.223104+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Kyiv and Washington want war in Ukraine to end 'before winter,' Zelenskyy says",
-        "enlace": "https://www.euronews.com/2026/09/22/kyiv-and-washington-want-war-in-ukraine-to-end-before-winter-zelenskyy-says",
-        "desc": "The Ukrainian president added that he had just finished a \"positive and productive meeting with President Trump\" in New York on Tuesday.",
-        "fecha": "2026-09-22T23:13:07+02:00",
+        "titulo": "El Niño transforms Atacama desert as thousands of hectares burst into bloom",
+        "enlace": "https://www.euronews.com/2026/09/23/el-nino-transforms-atacama-desert-as-thousands-of-hectares-burst-into-bloom",
+        "desc": "Exceptionally heavy El Niño rains have awakened millions of seeds lying dormant underground, carpeting vast swathes of one of the planet's driest places with flowers.",
+        "fecha": "2026-09-23T07:03:38+02:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Vance-led anti-fraud task force targets 750K unauthorized Obamacare enrollments",
-        "enlace": "https://www.oann.com/newsroom/vance-led-anti-fraud-task-force-targets-750k-unauthorized-obamacare-enrollments/",
-        "desc": "Vice President JD Vance, President Donald Trump’s “Fraud Czar,” has announced that the Task Force to Eliminate Fraud will end enrollment for about 750,000 unauthorized individuals …",
-        "fecha": "2026-09-23T00:00:12+00:00",
+        "titulo": "Chris Christie floats potential 2028 presidential run, saying GOP may need to ‘change approach’",
+        "enlace": "https://www.oann.com/newsroom/chris-christie-floats-potential-2028-presidential-run-saying-gop-may-need-to-change-approach/",
+        "desc": "Former New Jersey GOP Governor Chris Christie is reportedly eyeing a third presidential run in 2028, arguing that the Republican Party needs a new direction.",
+        "fecha": "2026-09-23T01:33:55+00:00",
         "fuente": "OAN"
       },
       {
@@ -461,10 +461,10 @@
         "fuente": "BBC World"
       },
       {
-        "titulo": "Chinese Coast Guard rams Philippine boat in South China Sea, sparking diplomatic clash",
-        "enlace": "https://www.foxnews.com/world/chinese-coast-guard-rams-philippine-boat-south-china-sea-sparking-diplomatic-clash",
-        "desc": "A Chinese Coast Guard vessel collided with a Philippine government ship in the South China Sea Friday, sparking a diplomatic dispute between Beijing, Manila and the U.S.",
-        "fecha": "2026-09-22T08:47:35-04:00",
+        "titulo": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
+        "enlace": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
+        "desc": "Ukrainian President Volodymyr Zelenskyy warns the risk of Russian drone, missile or land attacks against countries bordering Russia is &quot;very high.&quot;",
+        "fecha": "2026-09-22T18:11:03-04:00",
         "fuente": "Fox News"
       },
       {
@@ -477,10 +477,10 @@
     ],
     "internacional_fr": [
       {
-        "titulo": "«Ne cédons pas à l’esprit de défaite» : retrouvez l’intégralité du discours d’Emmanuel Macron devant l’ONU",
-        "enlace": "https://www.lefigaro.fr/international/ne-cedons-pas-a-l-esprit-de-defaite-retrouvez-l-integralite-du-discours-d-emmanuel-macron-devant-l-onu-20260922",
-        "desc": "Pour la dernière fois de son mandat, le président de la République s’est exprimé le 22 septembre 2026 à la tribune des Nations Unies.",
-        "fecha": "2026-09-22T22:53:42+02:00",
+        "titulo": "«Un scénario houellebecquien» : quand l’AfD et l’extrême gauche deviennent les deux seules alternatives en Allemagne",
+        "enlace": "https://www.lefigaro.fr/international/un-scenario-houellebecquien-quand-l-afd-et-l-extreme-gauche-deviennent-les-deux-seules-alternatives-en-allemagne-20260923",
+        "desc": "VU D’AILLEURS - Les élections régionales outre-Rhin dessinent une carte à deux couleurs : bleu profond de l’AfD dans les campagnes, rouge foncé de Die Linke dans les métropoles. Po…",
+        "fecha": "2026-09-23T07:00:00+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
@@ -498,24 +498,24 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "Des artistes à Bogotá protestent contre les coupes dans la culture",
-        "enlace": "https://fr.euronews.com/video/2026/09/22/des-artistes-a-bogota-protestent-contre-les-coupes-dans-la-culture",
-        "desc": "Des centaines d'artistes et d'étudiants en arts du spectacle sont descendus dans les rues de Bogotá pour protester contre les coupes prévues dans le budget culturel de la Colombie …",
-        "fecha": "2026-09-22T23:00:02+02:00",
+        "titulo": "El Niño transforme le désert d'Atacama : Des milliers d'hectares se couvrent de fleurs",
+        "enlace": "https://fr.euronews.com/2026/09/23/el-nino-transforme-le-desert-datacama-des-milliers-dhectares-se-couvrent-de-fleurs",
+        "desc": "Les pluies exceptionnelles liées à El Niño ont réveillé des millions de graines enfouies, couvrant de fleurs de vastes zones de l’un des déserts les plus arides de la planète.",
+        "fecha": "2026-09-23T07:04:10+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
         "enlace": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "desc": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "fecha": "2026-09-22T21:50:31+00:00",
+        "desc": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "fecha": "2026-09-23T02:57:00+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Russie : que va faire Vladimir Poutine après sa victoire électorale ?",
-        "enlace": "https://www.lefigaro.fr/international/russie-que-va-faire-vladimir-poutine-apres-sa-victoire-electorale-20260922",
-        "desc": "ANALYSE - Le parti du chef du Kremlin a amélioré son score par rapport à la dernière élection législative, organisée en 2021. Un résultat dénoncé comme une «mascarade» par ses oppo…",
-        "fecha": "2026-09-22T21:37:49+02:00",
+        "titulo": "Pourquoi la France a exigé la levée des sanctions de Bruxelles contre un oligarque russe",
+        "enlace": "https://www.lefigaro.fr/international/pourquoi-la-france-a-exige-la-levee-des-sanctions-de-bruxelles-contre-un-oligarque-russe-20260923",
+        "desc": "DÉCRYPTAGE - La France s’est liguée avec la Slovaquie pour obtenir le retrait de l’homme d’affaires Alicher Ousmanov de la liste des sanctions européennes. Le Luxembourg lui a embo…",
+        "fecha": "2026-09-23T06:45:00+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
@@ -533,10 +533,10 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "Des robots dansent jusqu'à la finale d'America's Got Talent avec leur partenaire humain",
-        "enlace": "https://fr.euronews.com/video/2026/09/22/des-robots-dansent-jusqua-la-finale-damericas-got-talent-avec-leur-partenaire-humain",
-        "desc": "La danseuse chinoise Wu Yufei se prépare pour la finale d'America's Got Talent aux côtés d'une équipe de robots humanoïdes de l'entreprise chinoise de robotique Unitree.",
-        "fecha": "2026-09-22T22:00:09+02:00",
+        "titulo": "L’info du jour | 23 septembre 2026 - Matin",
+        "enlace": "https://fr.euronews.com/video/2026/09/23/linfo-du-jour-23-septembre-2026-matin",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 23 septembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le d…",
+        "fecha": "2026-09-23T07:00:07+02:00",
         "fuente": "Euronews FR"
       },
       {
@@ -549,52 +549,52 @@
     ],
     "internacional_de": [
       {
-        "titulo": "USA: Donald Trump erwägt Exportstopp für Diesel wegen hoher Spritpreise",
-        "enlace": "https://www.spiegel.de/ausland/usa-donald-trump-erwaegt-exportstopp-fuer-diesel-wegen-hoher-spritpreise-a-154ac142-90ab-493e-b792-e85e630b00c9#ref=rss",
-        "desc": "Die USA exportieren eine Menge Diesel, gleichzeitig ist der Treibstoff im Land teuer wie nie. Donald Trump erwägt daher, die Ausfuhr zu kappen. Doch das könnte nach hinten losgehen…",
-        "fecha": "2026-09-23T02:04:00+02:00",
+        "titulo": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen",
+        "enlace": "https://www.spiegel.de/wirtschaft/mit-xxl-tanks-will-qantas-ab-2028-von-sydney-direkt-nach-new-york-fliegen-a-1d61156a-bf02-48ad-b85f-623caedcaf34#ref=rss",
+        "desc": "Zwölf Airbus-Maschinen der Qantas bekommen zusätzliche Tanks für 20 Tonnen extra Sprit eingebaut. So sollen sie die Strecke von Australien in die USA ohne Zwischenstopp schaffen – …",
+        "fecha": "2026-09-23T07:36:00+02:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Warnung vor Hungersnot in Oleschky im Süden der Ukraine",
+        "enlace": "https://www.dw.com/de/warnung-vor-hungersnot-in-oleschky-im-süden-der-ukraine/a-79366794?maca=de-rss-de-all-1119-rdf",
+        "desc": "Die Ortschaft Oleschky im besetzten Teil der Region Cherson ist seit über drei Monaten von der Lebensmittelversorgung abgeschnitten. Kyjiw hat ohne Erfolg mit Moskau über die Evaku…",
+        "fecha": "2026-09-23T05:41:14.324351+00:00",
+        "fuente": "DW Deutsch"
+      },
+      {
+        "titulo": "El Niño bringt die Wüste zum Blühen: Seltenes Schauspiel in Chile",
+        "enlace": "https://de.euronews.com/2026/09/23/el-nino-bringt-wuste-zum-bluhen-seltenes-schauspiel-in-chile",
+        "desc": "Seltene El‑Niño‑Regen haben Millionen lange verborgener Samen sprießen lassen und nun weiten Teilen einer der trockensten Regionen der Erde Blütenteppiche beschert.",
+        "fecha": "2026-09-23T07:05:17+02:00",
+        "fuente": "Euronews DE"
+      },
+      {
+        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+        "enlace": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+        "desc": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "fecha": "2026-09-23T02:57:00+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "DLRG-Bilanz: Fast 250 Menschen während der Badesaison in Deutschland ertrunken",
+        "enlace": "https://www.spiegel.de/panorama/dlrg-bilanz-fast-250-menschen-waehrend-der-badesaison-in-deutschland-ertrunken-a-1cb147f2-bd5e-4429-bd6a-e682c2700465#ref=rss",
+        "desc": "Die DLRG warnt: Leichtsinn und fehlende Schwimmkenntnisse bleiben ein großes Risiko, besonders für junge Männer. Vor allem während er Hitzewelle im Juni registrierten die Wasserret…",
+        "fecha": "2026-09-23T07:34:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Merz unter Druck: Was heißt das für Deutschlands EU-Politik?",
         "enlace": "https://www.dw.com/de/merz-unter-druck-was-heißt-das-für-deutschlands-eu-politik/a-79379950?maca=de-rss-de-all-1119-rdf",
         "desc": "Die CDU-Landtagswahlergebnisse des letzten Wochenendes sind nach Aussage des deutschen Bundeskanzlers ein \"Desaster\". Werden sie auch auf europäischer Ebene Auswirkungen haben?",
-        "fecha": "2026-09-23T00:10:41.586172+00:00",
+        "fecha": "2026-09-23T05:41:14.324395+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Künstler protestieren in Bogotá mit Musik, Tanz und Puppen gegen Kulturkürzungen",
-        "enlace": "https://de.euronews.com/video/2026/09/22/kunstler-protestieren-in-bogota-mit-musik-tanz-und-puppen-gegen-kulturkurzungen",
-        "desc": "Hunderte Künstlerinnen, Künstler und Studierende der Darstellenden Künste sind in Bogotá auf die Straße gegangen, um gegen geplante Kürzungen im kolumbianischen Kulturhaushalt und …",
-        "fecha": "2026-09-22T23:00:02+02:00",
-        "fuente": "Euronews DE"
-      },
-      {
-        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-        "enlace": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "desc": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "fecha": "2026-09-22T21:50:31+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "Flughafen Düsseldorf: Rauch an Bord – Eurowings-Maschine muss kurz nach Start umdrehen",
-        "enlace": "https://www.spiegel.de/panorama/flughafen-duesseldorf-rauch-an-bord-eurowings-maschine-muss-kurz-nach-start-umdrehen-a-cbf60484-c10d-47d0-95bc-7266cdfabd74#ref=rss",
-        "desc": "Die 144 Passagiere wollten von Düsseldorf ins italienische Brindisi fliegen, doch so weit kamen sie nicht: Nach etwa zwölf Minuten in der Luft landeten sie schon wieder.",
-        "fecha": "2026-09-23T00:43:00+02:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Marokko wählt: Was das neue Parlament entscheiden kann",
-        "enlace": "https://www.dw.com/de/marokko-wählt-was-das-neue-parlament-entscheiden-kann/a-79374104?maca=de-rss-de-all-1119-rdf",
-        "desc": "27 Parteien treten bei der Parlamentswahl in Marokko an. Es geht um Jobs, Lebenshaltungskosten und politische Beteiligung der Jugend. Doch bei manchen Fragen hat das Parlament nur …",
-        "fecha": "2026-09-23T00:10:41.586214+00:00",
-        "fuente": "DW Deutsch"
-      },
-      {
-        "titulo": "Roboter tanzen sich mit menschlichem Partner ins Finale von America’s Got Talent",
-        "enlace": "https://de.euronews.com/video/2026/09/22/roboter-tanzen-sich-mit-menschlichem-partner-ins-finale-von-americas-got-talent",
-        "desc": "Die chinesische Tänzerin Wu Yufei bereitet sich gemeinsam mit einer Gruppe humanoider Roboter des chinesischen Unternehmens Unitree auf das Finale von „America’s Got Talent“ vor.",
-        "fecha": "2026-09-22T22:00:09+02:00",
+        "titulo": "Machtkampf um die KI: USA, Europa und China ringen um globale Regeln",
+        "enlace": "https://de.euronews.com/2026/09/23/machtkampf-ki-usa-europa-china-globale-regeln",
+        "desc": "Bei der UN-Generalversammlung steht Künstliche Intelligenz im Fokus, nachdem Pannen und Warnungen von Insidern weltweit Forderungen nach einer strengeren Aufsicht ausgelöst haben.",
+        "fecha": "2026-09-23T07:03:16+02:00",
         "fuente": "Euronews DE"
       },
       {
@@ -614,17 +614,17 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Bogotá, gli artisti protestano contro i tagli alla cultura con musica e danza",
-        "enlace": "https://it.euronews.com/video/2026/09/22/bogota-gli-artisti-protestano-contro-i-tagli-alla-cultura-con-musica-e-danza",
-        "desc": "Centinaia di artisti e studenti di arti performative sono scesi in strada a Bogotá per protestare contro i tagli proposti al budget culturale della Colombia e la sospensione di alc…",
-        "fecha": "2026-09-22T23:00:02+02:00",
+        "titulo": "El Niño trasforma il deserto sudamericano di Atacama: migliaia di ettari coperti di fiori",
+        "enlace": "https://it.euronews.com/2026/09/23/el-nino-trasforma-il-deserto-sudamericano-di-atacama-migliaia-di-ettari-coperti-di-fiori",
+        "desc": "Le piogge eccezionali legate al fenomeno di \"El Niño\" hanno fatto germogliare milioni di semi rimasti nel sottosuolo, ricoprendo di fiori vaste aree di uno dei luoghi più aridi del…",
+        "fecha": "2026-09-23T07:01:08+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+        "titulo": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
         "enlace": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "desc": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "fecha": "2026-09-22T21:50:31+00:00",
+        "desc": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "fecha": "2026-09-23T02:57:00+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -635,10 +635,10 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Meloni difende i conti pubblici ma l'Italia resta nella procedura Ue",
-        "enlace": "https://it.euronews.com/2026/09/22/meloni-difende-i-conti-pubblici-ma-litalia-resta-nella-procedura-ue",
-        "desc": "La premier sottolinea il calo dall'8,1%, ma il dato resta sopra la soglia del 3% necessaria per uscire dall'infrazione",
-        "fecha": "2026-09-22T22:12:10+02:00",
+        "titulo": "Le notizie del giorno | 23 settembre 2026 - Mattino",
+        "enlace": "https://it.euronews.com/video/2026/09/23/le-notizie-del-giorno-23-settembre-2026-mattino",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 23 settembre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-09-23T07:00:17+02:00",
         "fuente": "Euronews IT"
       },
       {
@@ -651,38 +651,38 @@
     ],
     "internacional_pt": [
       {
-        "titulo": "0h Ministro da Educação volta ao parlamento para responder sobre os problemas no arranque do ano letivo",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/0h-ministro-da-educacao-volta-ao-parlamento-para-responder-sobre-os-problemas-no-arranque-do-ano-letivo_a1_1767134",
+        "titulo": "6h Montenegro encontra-se hoje com António Guterres",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/6h-montenegro-encontra-se-hoje-com-antonio-guterres_a1_1767151",
         "desc": "",
-        "fecha": "2026-09-23T01:41:02+01:00",
+        "fecha": "2026-09-23T07:15:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Falta de noção, falta de vergonha ou esta maneira de ser PS",
-        "enlace": "https://observador.pt/opiniao/falta-de-nocao-falta-de-vergonha-ou-esta-maneira-de-ser-ps/",
-        "desc": "Mário Centeno sonhou ser vice-primeiro-ministro. Augusto Santos Silva diz querer saber que crimes Sócrates cometeu. Ainda bem que continuam por aí para não esquecermos a essência d…",
-        "fecha": "2026-09-23T00:28:36+01:00",
+        "titulo": "As notícias das 6h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2503/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-09-23T06:12:52+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Ameaça militar de Trump na ONU pressiona América Latina às vésperas das eleições brasileiras",
+        "titulo": "Liderados por Trump, 14 países da região se comprometem a combater facções e cartéis; documento cita PCC e CV",
         "enlace": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
         "desc": "Especialistas consultados pela BBC News Brasil avaliam que discurso do líder americano sobre possível uso de força militar para garantir interesses dos EUA na América Latina 'ating…",
-        "fecha": "2026-09-22T22:29:59+00:00",
+        "fecha": "2026-09-23T00:37:54+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Montenegro destaca \"magnífico momento\" das relações bilaterais com EUA",
-        "enlace": "https://www.rtp.pt/noticias/economia/montenegro-destaca-magnifico-momento-das-relacoes-bilaterais-com-eua_n1767129",
-        "desc": "Em Nova Iorque, Luís Montenegro destacou o &quot;magnífico momento&quot; das relações bilaterais com os Estados Unidos e remeteu essa análise para quarta-feira.",
-        "fecha": "2026-09-23T01:11:00+01:00",
+        "titulo": "5h Presidente do Irão já chegou aos EUA",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/5h-presidente-do-irao-ja-chegou-aos-eua_a1_1767145",
+        "desc": "",
+        "fecha": "2026-09-23T06:27:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "54 alunos aguardam colocação nas escolas, diz ministro",
-        "enlace": "https://observador.pt/2026/09/23/ministro-da-educacao-garante-que-alunos-sem-colocacao-sao-apenas-54-e-que-novos-pedidos-ficam-resolvidos-em-24-horas/",
-        "desc": "Na cerimónia em Portimão, Fernando Alexandre destacou também a importância do futuro Campus Universitário do Barlavento",
-        "fecha": "2026-09-23T00:28:35+01:00",
+        "titulo": "Transformei as minhas obsessões em criatividade",
+        "enlace": "https://observador.pt/programas/somos-todos-malucos/transformei-as-minhas-obsessoes-em-criatividade/",
+        "desc": "Hoje voltamos a um tema que me diz muito, a perturbação Obsessivo-compulsiva, para conhecer uma história, mas sobretudo para entender como podemos usar as “nossas pancadas” a nosso…",
+        "fecha": "2026-09-23T06:08:53+01:00",
         "fuente": "Observador"
       },
       {
@@ -716,10 +716,10 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Jacks stars as England grind out win over Sri Lanka",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
-        "fecha": "2026-09-22T19:08:52+00:00",
+        "titulo": "Hunting hidden gems - is there anywhere in the world left to scout?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
+        "desc": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
+        "fecha": "2026-09-23T05:24:56+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -744,15 +744,29 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "I was close to joining Liverpool in 2016 - Mbappe",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
-        "desc": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
-        "fecha": "2026-09-22T15:58:22+00:00",
+        "titulo": "Jacks stars as England grind out win over Sri Lanka",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "fecha": "2026-09-22T19:08:52+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
+        "titulo": "Hunting hidden gems - is there anywhere in the world left to scout?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
+        "desc": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
+        "fecha": "2026-09-23T05:24:56+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "Can Europe inspire new 'Medinah miracle' at Presidents Cup?",
+        "enlace": "https://www.skysports.com/golf/news/12040/13590713/presidents-cup-2026-can-europe-inspire-new-miracle-at-medinah-and-shock-international-team-victory-over-team-usa",
+        "desc": "If the International Team are going to end Team USA&#8217;s Presidents Cup dominance this week, live on Sky Sports, they may require their own 'Miracle at Medinah' to do it.",
+        "fecha": "2026-09-23T06:00:00",
+        "fuente": "Sky Sports"
+      },
+      {
         "titulo": "Jacks stars as England grind out win over Sri Lanka",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
         "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
@@ -760,40 +774,26 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Snedeker wants Spaun to 'make me look like an idiot' after Presidents Cup snub",
-        "enlace": "https://www.skysports.com/golf/news/12040/13590882/presidents-cup-us-team-captain-brandt-snedeker-wants-jj-spaun-to-make-me-look-like-an-idiot-after-snub",
-        "desc": "Brandt Snedeker said he wants JJ Spaun \"to make me look like an idiot\" after leaving the former US Open champion out of his Presidents Cup side.",
-        "fecha": "2026-09-22T23:59:00",
-        "fuente": "Sky Sports"
-      },
-      {
-        "titulo": "I was close to joining Liverpool in 2016 - Mbappe",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
-        "desc": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
-        "fecha": "2026-09-22T15:58:22+00:00",
-        "fuente": "BBC Sport"
-      },
-      {
-        "titulo": "Giants' star quarterback Dart could be forced to undergo knee surgery",
-        "enlace": "https://www.skysports.com/nfl/news/12040/13590830/nfl-new-york-giants-quarterback-jaxson-dart-could-be-forced-to-undergo-knee-surgery-that-would-end-his-season",
-        "desc": "New York Giants quarterback Jaxson Dart could be forced to undergo knee surgery that would end his season, according to ESPN.",
-        "fecha": "2026-09-22T20:57:00",
+        "titulo": "Ferrari set Baku target as Rosberg pinpoints team's repeat flaw",
+        "enlace": "https://www.skysports.com/f1/news/12040/13590751/ferrari-boss-frederic-vasseur-sets-goal-for-azerbaijan-gp-as-nico-rosberg-pinpoints-teams-achilles-heel",
+        "desc": "Ferrari boss Frederic Vasseur has stressed the importance of executing weekends more cleanly after a costly run of results for the team at recent races.",
+        "fecha": "2026-09-23T06:00:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
+        "titulo": "Hunting hidden gems - is there anywhere in the world left to scout?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
+        "desc": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
+        "fecha": "2026-09-23T05:24:56+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
         "titulo": "Jacks stars as England grind out win over Sri Lanka",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
         "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
         "fecha": "2026-09-22T19:08:52+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "I was close to joining Liverpool in 2016 - Mbappe",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
-        "desc": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
-        "fecha": "2026-09-22T15:58:22+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -802,44 +802,44 @@
         "titulo": "Fußball-Nationalmannschaft: Der Kampf um die Talente",
         "enlace": "https://www.dw.com/de/fußball-nationalmannschaft-der-kampf-um-die-talente/a-79321385?maca=de-rss-de-sport-4020-rdf",
         "desc": "Bundestrainer Jürgen Klopp hat einige Spieler ins DFB-Team berufen, die auch für ein anderes Land spielen könnten. Wenn der deutsche Verband sich solche Talente nicht rechtzeitig s…",
-        "fecha": "2026-09-23T00:10:57.120286+00:00",
+        "fecha": "2026-09-23T05:41:27.182790+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Jacks stars as England grind out win over Sri Lanka",
-        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
-        "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
-        "fecha": "2026-09-22T19:08:52+00:00",
+        "titulo": "Hunting hidden gems - is there anywhere in the world left to scout?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
+        "desc": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
+        "fecha": "2026-09-23T05:24:56+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "DFB-Team: Bundestrainer Jürgen Klopp startet mit XXL-Kader",
         "enlace": "https://www.dw.com/de/dfb-team-bundestrainer-jürgen-klopp-startet-mit-xxl-kader/a-79301621?maca=de-rss-de-sport-4020-rdf",
         "desc": "Mit einer radikalen Erneuerung mit gleich zwei Kadern und 16 möglichen Debütanten startet Klopp in die Fußball-Nations-League. Zudem sendet er ein klares Zeichen gegen rechte Polit…",
-        "fecha": "2026-09-23T00:10:57.120330+00:00",
+        "fecha": "2026-09-23T05:41:27.182836+00:00",
         "fuente": "DW Sport"
       },
-      {
-        "titulo": "I was close to joining Liverpool in 2016 - Mbappe",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
-        "desc": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
-        "fecha": "2026-09-22T15:58:22+00:00",
-        "fuente": "BBC Sport EN"
-      }
-    ],
-    "deportes_it": [
       {
         "titulo": "Jacks stars as England grind out win over Sri Lanka",
         "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
         "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
         "fecha": "2026-09-22T19:08:52+00:00",
         "fuente": "BBC Sport EN"
+      }
+    ],
+    "deportes_it": [
+      {
+        "titulo": "Hunting hidden gems - is there anywhere in the world left to scout?",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
+        "desc": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
+        "fecha": "2026-09-23T05:24:56+00:00",
+        "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "I was close to joining Liverpool in 2016 - Mbappe",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss",
-        "desc": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside.",
-        "fecha": "2026-09-22T15:58:22+00:00",
+        "titulo": "Jacks stars as England grind out win over Sri Lanka",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydn1gvlpo?at_medium=RSS&at_campaign=rss",
+        "desc": "Will Jacks' all-round efforts help England grind out an 89-run victory over Sri Lanka in the first one-day international at Chester-le-Street.",
+        "fecha": "2026-09-22T19:08:52+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -860,24 +860,24 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
-        "enlace": "https://www.bbc.com/mundo/articles/cqdr743ykg2zo?at_medium=RSS&at_campaign=rss",
-        "desc": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles.",
-        "fecha": "2026-09-22T21:50:08+00:00",
+        "titulo": "Por qué es tan relevante el encuentro que Trump y Delcy Rodríguez mantuvieron en Nueva York, a menos de 15 km de la cárcel en la que está preso Maduro",
+        "enlace": "https://www.bbc.com/mundo/articles/c623xym4jrreo?at_medium=RSS&at_campaign=rss",
+        "desc": "Los gobernantes de Estados Unidos y Venezuela consumaron su polémica alianza con una reunión cara a cara al margen de la Asamblea General de la ONU con varios significados, según a…",
+        "fecha": "2026-09-23T03:57:10+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Biosecurity must protect human functional capacity",
         "enlace": "https://www.nature.com/articles/d41586-026-02996-2",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity",
-        "fecha": "2026-09-23T00:11:08.645880+00:00",
+        "fecha": "2026-09-23T05:41:36.563313+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-        "enlace": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-        "desc": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testi…",
-        "fecha": "2026-09-22T19:19:45+00:00",
+        "titulo": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+        "enlace": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+        "desc": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cos…",
+        "fecha": "2026-09-23T04:05:00+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -895,24 +895,24 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "\"Contratacaremos si nos atacan\": el gobierno de Lituania le dice a la BBC que tiene planes de respuesta y evacuación ante las amenazas de Rusia",
-        "enlace": "https://www.bbc.com/mundo/articles/cm36ly7p3pe9o?at_medium=RSS&at_campaign=rss",
-        "desc": "En conversación con el programa Newsnight de la BBC, el primer ministro de Lituania dijo que la población se siente \"constantemente amenazada\" por Moscú.",
-        "fecha": "2026-09-22T18:54:33+00:00",
+        "titulo": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
+        "enlace": "https://www.bbc.com/mundo/articles/cqdr743ykg2zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles.",
+        "fecha": "2026-09-22T21:50:08+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Why insects need their own protected areas",
         "enlace": "https://www.nature.com/articles/d41586-026-02997-1",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas",
-        "fecha": "2026-09-23T00:11:08.645935+00:00",
+        "fecha": "2026-09-23T05:41:36.563349+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-        "enlace": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
-        "desc": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High tem…",
-        "fecha": "2026-09-22T17:33:10+00:00",
+        "titulo": "Boom Year for Desert Blooms",
+        "enlace": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+        "desc": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
+        "fecha": "2026-09-23T04:01:00+00:00",
         "fuente": "NASA EN"
       }
     ],
@@ -921,14 +921,14 @@
         "titulo": "Biosecurity must protect human functional capacity",
         "enlace": "https://www.nature.com/articles/d41586-026-02996-2",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity",
-        "fecha": "2026-09-23T00:11:12.280030+00:00",
+        "fecha": "2026-09-23T05:41:41.048301+00:00",
         "fuente": "Nature"
       },
       {
-        "titulo": "How turning electricity directly into food could help save the planet",
-        "enlace": "https://www.newscientist.com/article/2590402-how-turning-electricity-directly-into-food-could-help-save-the-planet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-        "desc": "Farming is one of the most destructive human activities. Columnist Michael Le Page is excited about developments in electro-ag, in which we can instead turn renewable electricity d…",
-        "fecha": "2026-09-22T19:40:00+00:00",
+        "titulo": "Is AI really getting dangerously out of control?",
+        "enlace": "https://www.newscientist.com/article/2590038-is-ai-dangerously-out-of-control-or-about-to-be/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+        "desc": "Grim warnings of the existential risk posed by AI are all over the news, but there is very little evidence to back them up",
+        "fecha": "2026-09-23T05:00:00+00:00",
         "fuente": "New Scientist"
       },
       {
@@ -946,17 +946,17 @@
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "How the pro‑nicotine 'wellness' movement rebranded an addictive drug",
-        "enlace": "https://phys.org/news/2026-09-pronicotine-wellness-movement-rebranded-addictive.html",
-        "desc": "An ironic development emerging alongside the \"Make America Healthy Again\" movement is the portrayal of nicotine as a wellness and performance-enhancing product. Across social media…",
-        "fecha": "2026-09-22T20:00:01-04:00",
+        "titulo": "Research project identifies pathways to climate-resilient water and soil management",
+        "enlace": "https://phys.org/news/2026-09-pathways-climate-resilient-soil.html",
+        "desc": "How can regions better adapt their water and soil resources to the impacts of climate change? After four years of research, the European collaborative project Blue Transition, led …",
+        "fecha": "2026-09-22T23:40:01-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-        "enlace": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-        "desc": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testi…",
-        "fecha": "2026-09-22T19:19:45+00:00",
+        "titulo": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+        "enlace": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+        "desc": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cos…",
+        "fecha": "2026-09-23T04:05:00+00:00",
         "fuente": "NASA"
       },
       {
@@ -967,10 +967,10 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "India is producing more green energy - but wasting a lot of it",
-        "enlace": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
-        "desc": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
-        "fecha": "2026-09-22T23:02:29+00:00",
+        "titulo": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+        "enlace": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+        "desc": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+        "fecha": "2026-09-23T04:20:12+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -984,7 +984,7 @@
         "titulo": "Why insects need their own protected areas",
         "enlace": "https://www.nature.com/articles/d41586-026-02997-1",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas",
-        "fecha": "2026-09-23T00:11:12.280070+00:00",
+        "fecha": "2026-09-23T05:41:41.048343+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1000,7 +1000,7 @@
         "titulo": "Biosecurity must protect human functional capacity",
         "enlace": "https://www.nature.com/articles/d41586-026-02996-2",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity",
-        "fecha": "2026-09-23T00:11:16.354495+00:00",
+        "fecha": "2026-09-23T05:41:44.325305+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "Why insects need their own protected areas",
         "enlace": "https://www.nature.com/articles/d41586-026-02997-1",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas",
-        "fecha": "2026-09-23T00:11:16.354547+00:00",
+        "fecha": "2026-09-23T05:41:44.325344+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,21 +1023,21 @@
         "titulo": "Flughafenmalaria in Deutschland - wie groß ist die Gefahr?",
         "enlace": "https://www.dw.com/de/flughafenmalaria-in-deutschland-wie-groß-ist-die-gefahr/a-79321705?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Mehrere Menschen sind im Umfeld des Frankfurter Flughafens an Malaria erkrankt und gestorben. Grund dafür sind vermutlich Mücken im Gepäck von Reisenden. Worauf Urlauber und Ärzte …",
-        "fecha": "2026-09-23T00:11:19.310169+00:00",
+        "fecha": "2026-09-23T05:41:46.028397+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Biosecurity must protect human functional capacity",
         "enlace": "https://www.nature.com/articles/d41586-026-02996-2",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity",
-        "fecha": "2026-09-23T00:11:19.458092+00:00",
+        "fecha": "2026-09-23T05:41:47.054509+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Why insects need their own protected areas",
         "enlace": "https://www.nature.com/articles/d41586-026-02997-1",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas",
-        "fecha": "2026-09-23T00:11:19.458133+00:00",
+        "fecha": "2026-09-23T05:41:47.054541+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1046,37 +1046,37 @@
         "titulo": "Biosecurity must protect human functional capacity",
         "enlace": "https://www.nature.com/articles/d41586-026-02996-2",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02996-2 Biosecurity must protect human functional capacity",
-        "fecha": "2026-09-23T00:11:23.163636+00:00",
+        "fecha": "2026-09-23T05:41:51.182911+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Why insects need their own protected areas",
         "enlace": "https://www.nature.com/articles/d41586-026-02997-1",
         "desc": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02997-1 Why insects need their own protected areas",
-        "fecha": "2026-09-23T00:11:23.163676+00:00",
+        "fecha": "2026-09-23T05:41:51.182950+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Falta de noção, falta de vergonha ou esta maneira de ser PS",
-        "enlace": "https://observador.pt/opiniao/falta-de-nocao-falta-de-vergonha-ou-esta-maneira-de-ser-ps/",
-        "desc": "Mário Centeno sonhou ser vice-primeiro-ministro. Augusto Santos Silva diz querer saber que crimes Sócrates cometeu. Ainda bem que continuam por aí para não esquecermos a essência d…",
-        "fecha": "2026-09-23T00:28:36+01:00",
+        "titulo": "As notícias das 6h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2503/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-09-23T06:12:52+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Ameaça militar de Trump na ONU pressiona América Latina às vésperas das eleições brasileiras",
+        "titulo": "Liderados por Trump, 14 países da região se comprometem a combater facções e cartéis; documento cita PCC e CV",
         "enlace": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
         "desc": "Especialistas consultados pela BBC News Brasil avaliam que discurso do líder americano sobre possível uso de força militar para garantir interesses dos EUA na América Latina 'ating…",
-        "fecha": "2026-09-22T22:29:59+00:00",
+        "fecha": "2026-09-23T00:37:54+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "54 alunos aguardam colocação nas escolas, diz ministro",
-        "enlace": "https://observador.pt/2026/09/23/ministro-da-educacao-garante-que-alunos-sem-colocacao-sao-apenas-54-e-que-novos-pedidos-ficam-resolvidos-em-24-horas/",
-        "desc": "Na cerimónia em Portimão, Fernando Alexandre destacou também a importância do futuro Campus Universitário do Barlavento",
-        "fecha": "2026-09-23T00:28:35+01:00",
+        "titulo": "Transformei as minhas obsessões em criatividade",
+        "enlace": "https://observador.pt/programas/somos-todos-malucos/transformei-as-minhas-obsessoes-em-criatividade/",
+        "desc": "Hoje voltamos a um tema que me diz muito, a perturbação Obsessivo-compulsiva, para conhecer uma história, mas sobretudo para entender como podemos usar as “nossas pancadas” a nosso…",
+        "fecha": "2026-09-23T06:08:53+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1099,21 +1099,21 @@
         "titulo": "Pibank eleva al 3,03% la rentabilidad de su depósito a doce meses y la de su cuenta hasta el 2,52%",
         "enlace": "https://www.elconfidencial.com/mercados/2026-09-22/pibank-ahorro-mejora-rentabilidad-depositos-1hms_4428672/",
         "desc": "Estos productos, disponibles para nuevos y actuales clientes, no cuentan con importe mínimo ni máximo, el abono de intereses se realiza de manera trimestral y permite cancelaciones…",
-        "fecha": "2026-09-23T00:11:28.223062+00:00",
+        "fecha": "2026-09-23T05:41:55.058791+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "España lidera el ranking mundial de laudos internacionales impagados delante de Venezuela y Rusia",
-        "enlace": "https://www.abc.es/economia/espana-lidera-ranking-mundial-laudos-internacionales-impagados-20260922012700-nt.html",
-        "desc": "El conflicto por la retirada de las ayudas a las renovables en la pasada década sigue pasando factura a nuestro país en forma de litigios internacionales con fondos de inversión. D…",
-        "fecha": "2026-09-23T01:27:00+02:00",
+        "titulo": "Javier Linares, asesor financiero: «Los jóvenes están comiéndose el impacto de la subida del precio de la vivienda y de sostener las pensiones»",
+        "enlace": "https://www.abc.es/economia/javier-linares-asesor-financiero-jovenes-comiendose-impacto-20260923060000-nt.html",
+        "desc": "El problema del que más se habla en España de manera recurrente es del de la vivienda. Más allá de cuestiones pasajeras como pueden puede ser la crisis migratoria de Ceuta, las inu…",
+        "fecha": "2026-09-23T06:00:05+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-        "desc": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic…",
-        "fecha": "2026-09-22T22:15:07+00:00",
+        "titulo": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "desc": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their d…",
+        "fecha": "2026-09-22T23:59:44+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1134,21 +1134,21 @@
         "titulo": "Inteligencia artificial en la banca: ¿oportunidad o amenaza en ciberseguridad?",
         "enlace": "https://www.elconfidencial.com/mercados/2026-09-22/ia-banca-ciberseguridad-tecnologia-bra_4428196/",
         "desc": "La irrupción de la IA tiene una doble vertiente en el sector bancario y tecnológico: ¿es ahora más fácil detectar las trampas?",
-        "fecha": "2026-09-23T00:11:28.223109+00:00",
+        "fecha": "2026-09-23T05:41:55.058831+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "El PP cambiará la norma de los nombramientos de los reguladores si llega al Gobierno",
-        "enlace": "https://www.abc.es/economia/pp-cambiara-norma-nombramientos-reguladores-llega-gobierno-20260923012650-nt.html",
-        "desc": "El Gobierno mantiene su decisión de renovar y plantear nombramientos dentro de organismos reguladores a personas afines y sin contar con la connivencia del principal partido de la …",
-        "fecha": "2026-09-23T01:26:50+02:00",
+        "titulo": "Gonzalo Bernardos, economista: «Habrá una subida del precio de los alimentos, especialmente el año que viene, para evitar mayor desgaste electoral»",
+        "enlace": "https://www.abc.es/economia/gonzalo-bernardos-economista-subida-precio-alimentos-especialmente-20260923054500-nt.html",
+        "desc": "España vive desde hace unos días una realidad muy difícil: la de una nueva subida en el precio de los carburantes. En buena parte de las gasolineras del país, el litro de gasolina …",
+        "fecha": "2026-09-23T05:45:07+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-        "desc": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menak…",
-        "fecha": "2026-09-22T23:00:49+00:00",
+        "titulo": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
+        "desc": "The Philippines is looking to expand its pool of individual debt investors with a new issuance of Retail Treasury Bonds, according to people familiar with the plan.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1161,17 +1161,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-        "desc": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic…",
-        "fecha": "2026-09-22T22:15:07+00:00",
+        "titulo": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "desc": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their d…",
+        "fecha": "2026-09-22T23:59:44+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "The Laughing Cow ditches iconic smile and teases cheese shoppers with cryptic message on packaging",
-        "enlace": "https://www.foxbusiness.com/fox-news-food-drink/laughing-cow-ditches-iconic-smile-teases-cheese-shoppers-cryptic-message-packaging",
-        "desc": "The Laughing Cow cheese wedges swap their iconic grin for a frown in a mysterious campaign featuring a QR code and the cryptic message &quot;We need to talk.&quot;",
-        "fecha": "2026-09-22T19:55:28-04:00",
+        "titulo": "New York overtakes San Francisco Bay Area as largest US tech talent market by workforce size",
+        "enlace": "https://www.foxbusiness.com/technology/new-york-overtakes-san-francisco-bay-area-largest-us-tech-talent-market-workforce-size",
+        "desc": "EliseAI&apos;s Fran Loftus says New York has become a major AI hub as the city overtakes the San Francisco Bay Area in tech workforce size for the first time.",
+        "fecha": "2026-09-22T23:52:46-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1189,17 +1189,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-        "desc": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menak…",
-        "fecha": "2026-09-22T23:00:49+00:00",
+        "titulo": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
+        "desc": "The Philippines is looking to expand its pool of individual debt investors with a new issuance of Retail Treasury Bonds, according to people familiar with the plan.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "LARRY KUDLOW: Trump offers historic optimistic vision at UN",
-        "enlace": "https://www.foxbusiness.com/politics/larry-kudlow-trump-offers-historic-optimistic-vision-un",
-        "desc": "The president speaks movingly to all of the UN members about ‘the enemies of humanity’",
-        "fecha": "2026-09-22T17:57:01-04:00",
+        "titulo": "Jaguar Land Rover recalls 23,000 SUVs over risk of sudden drive power loss",
+        "enlace": "https://www.foxbusiness.com/economy/jaguar-land-rover-recalls-23000-suvs-over-risk-sudden-drive-power-loss",
+        "desc": "Jaguar Land Rover recalled more than 23,000 vehicles over an electronic system error that may lead to the loss of drive power and exterior lighting.",
+        "fecha": "2026-09-22T21:44:38-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1219,63 +1219,63 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-        "desc": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic…",
-        "fecha": "2026-09-22T22:15:07+00:00",
+        "titulo": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "desc": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their d…",
+        "fecha": "2026-09-22T23:59:44+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-        "desc": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menak…",
-        "fecha": "2026-09-22T23:00:49+00:00",
+        "titulo": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
+        "desc": "The Philippines is looking to expand its pool of individual debt investors with a new issuance of Retail Treasury Bonds, according to people familiar with the plan.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Energie: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-        "enlace": "https://www.handelsblatt.com/politik/deutschland/energie-usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel/100256705.html",
-        "desc": "Mitten im Wahlkampf ziehen die Spritpreise in den USA weiter deutlich an. Die US-Regierung prüft deshalb eine Maßnahme, die auch Europa aufhorchen lassen dürfte.",
-        "fecha": "2026-09-22T23:29:47+00:00",
+        "titulo": "Kommentar: Private Krankenversicherung: Merz’ Eigentor in der Gerechtigkeitsdebatte",
+        "enlace": "https://www.handelsblatt.com/meinung/kommentare/kommentar-merz-eigentor-in-der-gerechtigkeitsdebatte-um-die-krankenversicherung/100256428.html",
+        "desc": "Mit seiner Kritik an der unterschiedlichen Behandlung von Kassen- und Privatpatienten hat der Kanzler eine Debatte losgetreten, die er so wohl gar nicht führen will.",
+        "fecha": "2026-09-23T05:28:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-        "desc": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic…",
-        "fecha": "2026-09-22T22:15:07+00:00",
+        "titulo": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "desc": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their d…",
+        "fecha": "2026-09-22T23:59:44+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Diplomatie: USA und Iran treffen sich erstmals seit Monaten",
-        "enlace": "https://www.handelsblatt.com/politik/international/diplomatie-usa-und-iran-treffen-sich-erstmals-seit-monaten/100256685.html",
-        "desc": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt. Der Iran betont, dies sei auf US-Wunsch geschehen.",
-        "fecha": "2026-09-22T21:20:41+00:00",
+        "titulo": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
+        "enlace": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-welche-fragen-sich-sparer-aktuell-beim-tagesgeld-stellen-sollten/100255706.html",
+        "desc": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-        "desc": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menak…",
-        "fecha": "2026-09-22T23:00:49+00:00",
+        "titulo": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
+        "desc": "The Philippines is looking to expand its pool of individual debt investors with a new issuance of Retail Treasury Bonds, according to people familiar with the plan.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-        "desc": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic…",
-        "fecha": "2026-09-22T22:15:07+00:00",
+        "titulo": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "desc": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their d…",
+        "fecha": "2026-09-22T23:59:44+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-        "desc": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menak…",
-        "fecha": "2026-09-22T23:00:49+00:00",
+        "titulo": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
+        "desc": "The Philippines is looking to expand its pool of individual debt investors with a new issuance of Retail Treasury Bonds, according to people familiar with the plan.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
@@ -1288,10 +1288,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-        "desc": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic…",
-        "fecha": "2026-09-22T22:15:07+00:00",
+        "titulo": "China’s AI Trade Favors Global Winners Over Local Champions",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+        "desc": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their d…",
+        "fecha": "2026-09-22T23:59:44+00:00",
         "fuente": "Bloomberg EN"
       },
       {
@@ -1302,10 +1302,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-        "desc": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menak…",
-        "fecha": "2026-09-22T23:00:49+00:00",
+        "titulo": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
+        "desc": "The Philippines is looking to expand its pool of individual debt investors with a new issuance of Retail Treasury Bonds, according to people familiar with the plan.",
+        "fecha": "2026-09-23T05:25:00+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
