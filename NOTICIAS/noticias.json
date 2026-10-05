@@ -1,19 +1,68 @@
 {
-  "actualizado": "2026-10-05T00:35:09.865550+00:00",
+  "actualizado": "2026-10-05T06:41:38.331109+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "El PP, a la espera de la decisión de Sánchez: «Estamos listos para lo que venga»",
-        "enlace": "https://www.abc.es/espana/pp-espera-decision-sanchez-listos-venga-20261004013141-nt.html",
-        "desc": "Calma tensa en la política española, también en la oposición. En el Partido Popular llevan todo el fin de semana especulando, valorando los distintos escenarios, haciendo algo que …",
-        "fecha": "2026-10-05T01:31:41+02:00",
+        "titulo": "Otro fin de semana negro para los motoristas en Galicia: un muerto en Barro y otro en Orense",
+        "enlace": "https://www.abc.es/espana/galicia/fin-semana-negro-motoristas-galicia-muerto-barro-20261005082648-nt.html",
+        "desc": "Un nuevo fin de semana negro para los motoristas en Galicia. Un conductor de motocicleta murió este domingo tras chocar contra un turismo en Barro (Pontevedra). Contra otro turismo…",
+        "fecha": "2026-10-05T08:26:48+02:00",
         "fuente": "ABC"
       },
       {
-        "titulo": "Sánchez baraja el adelanto electoral con el PP y Vox en más de 200 escaños y la izquierda en mínimos",
+        "titulo": "Sánchez se acerca a las elecciones con el PP y Vox en más de 200 escaños y la izquierda en mínimos",
         "enlace": "https://www.elmundo.es/espana/encuestas/2026/10/04/6ac25e4dfc6c83bb588b458d.html",
         "desc": "El PSOE solo lograría revalidar 103 escaños, mientras que Sumar no capitaliza el malestar por la vivienda y borra hoy toda opción de gobernar&nbsp; Leer",
-        "fecha": "2026-10-04T22:44:06+02:00",
+        "fecha": "2026-10-05T07:25:57+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "En Directo | Sánchez anuncia hoy si adelanta las elecciones tras la crisis de vivienda",
+        "enlace": "https://www.libertaddigital.com/espana/politica/2026-10-05/en-directo-sanchez-anuncia-hoy-si-adelanta-las-elecciones-tras-la-crisis-de-vivienda-7470111/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Tras un fin de semana de reflexión por el revés en vivienda, Pedro Sánchez comunica hoy si disuelve las Cortes y adelanta las elecciones.",
+        "fecha": "2026-10-05T07:00:00+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "Detenido un hombre por matar presuntamente a sus padres con una mancuerna en Madrid",
+        "enlace": "https://theobjective.com/sociedad/suceso/2026-10-05/detenido-hombre-presuntamente-mancuerna-madrid/",
+        "desc": "La Policía Nacional ha detenido a un hombre como presunto autor del asesinato a golpes con una mancuerna de sus padres, un matrimonio hallado muerto esta [&#8230;]",
+        "fecha": "2026-10-05T06:19:27+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "Teresa Rodríguez: \"Es un error gobernar con el PSOE; te tienes que tragar los sapos y decir que están buenos\"",
+        "enlace": "https://www.elconfidencial.com/espana/2026-10-05/1qrt-teresa-rodriguez-error-gobernar-psoe-tragar-sapos-decir-buenos_4438228/",
+        "desc": "La dirigente andaluza analiza los límites de las alianzas progresistas, revisa su experiencia en Podemos y advierte del desgaste que pueden sufrir las fuerzas minoritarias dentro d…",
+        "fecha": "2026-10-05T06:41:39.873393+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Predicción del horóscopo para Escorpio hoy, lunes 5 de octubre de 2026",
+        "enlace": "https://okdiario.com/horoscopo/prediccion-del-horoscopo-para-escorpio-hoy-lunes-5-de-octubre-de-2026-20483059",
+        "desc": "La predicción para Escorpio sugiere que la mañana traerá claridad y comprensión. Lo que hoy sientes como un obstáculo es, en realidad, una valiosa lección que te ayudará a crecer. …",
+        "fecha": "2026-10-05T08:33:33+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "Pedro Sánchez y las elecciones generales, en directo | El presidente comparece a las 9 horas para anunciar el adelanto electoral tras sus últimas derrotas parlamentarias",
+        "enlace": "https://www.elespanol.com/espana/politica/20261005/ultima-hora-politica-directo-sanchez-participa-acto-empresarios-incognita-adelantara-elecciones-generales/1003744408292_10.html",
+        "desc": "Tras el varapalo en el Congreso por el rechazo de los decretos de vivienda, Sánchez afronta hoy una jornada clave en la que puede despejar si habrá o no un adelanto electoral.",
+        "fecha": "2026-10-05T07:21:19+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Mercadona cierra supermercados este viernes 9 de octubre en toda una comunidad autónoma",
+        "enlace": "https://www.abc.es/espana/comunidad-valenciana/mercadona-cierra-supermercados-viernes-octubre-comunidad-autonoma-20261005081143-nt.html",
+        "desc": "Mercadona ha anunciado cambios en los horarios habituales de sus supermercados ubicados en España para esta semana y la siguiente. La compañía valenciana presidida por Juan Roig ce…",
+        "fecha": "2026-10-05T08:11:43+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "¿Cuántos votos recupera Sánchez con Maricarmen?",
+        "enlace": "https://www.elmundo.es/espana/2026/10/05/6ac287acfdddffae7a8b45be.html",
+        "desc": "Al final, no es tan fácil convencer a millones de personas de que después de ocho años empeorando la vivienda necesitas otros ocho para mejorarla&nbsp; Leer",
+        "fecha": "2026-10-05T00:03:28+02:00",
         "fuente": "El Mundo"
       },
       {
@@ -22,63 +71,14 @@
         "desc": "Medios afines al Gobierno como Eldiario.es y la Cadena Ser dan por hecho el adelanto electoral.",
         "fecha": "2026-10-04T23:09:00+02:00",
         "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "Cataluña da por finalizado el temporal y levanta las restricciones en las últimas comarcas",
-        "enlace": "https://theobjective.com/sociedad/2026-10-04/cataluna-finalizado-temporal-levanta-restricciones/",
-        "desc": "La Generalitat de Cataluña ha dado por finalizado el temporal de lluvias que ha azotado el territorio catalán en las últimas 24 horas y ha levantado [&#8230;]",
-        "fecha": "2026-10-04T21:49:56+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "Localizan el cuerpo sin vida de una persona próximo al Hospital del Sur, en Arona (Tenerife)",
-        "enlace": "https://www.elconfidencial.com/espana/2026-10-04/guardia-civil-localiza-cuerpo-arona-1tna-1tps_4438073/",
-        "desc": "Un viandante alertó a la Policía Local tras descubrir el cadáver; la autopsia determinará su identidad y las circunstancias del fallecimiento",
-        "fecha": "2026-10-05T00:35:11.718865+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Los psicólogos coinciden: las personas que evitan las cajas de autoservicio en el supermercado no son antisociales, en realidad están buscando interacción social",
-        "enlace": "https://okdiario.com/curiosidades/psicologos-coinciden-personas-que-evitan-cajas-autoservicio-supermercado-no-son-antisociales-realidad-estan-buscando-interaccion-social-20466961",
-        "desc": "Elegir una caja tradicional en lugar de una de autoservicio puede parecer una decisión basada únicamente en la comodidad, pero la psicología y los estudios sobre comportamiento del…",
-        "fecha": "2026-10-04T23:45:24+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "Sondeo exprés: si Sánchez disuelve el Congreso, el PP tendría hoy 143 diputados, PSOE 106, Vox 62 y Sumar 6",
-        "enlace": "https://www.elespanol.com/espana/politica/20261004/sondeo-expres-sanchez-disuelve-congreso-pp-hoy-diputados-psoe-vox-sumar/1003744408026_0.html",
-        "desc": "La suma de PP, Vox y UPN otorga una amplia mayoría de 206 escaños al bloque de centro y derecha. Las protestas por la vivienda permiten a Sánchez recuperar terreno perdido tras la …",
-        "fecha": "2026-10-04T18:31:43+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "Sánchez y la ultraizquierda expropian la calle",
-        "enlace": "https://www.abc.es/espana/cataluna/sanchez-ultraizquierda-echan-calle-20261002013137-nt.html",
-        "desc": "El desahucio de Maricarmen y la ocupación de Sol para sustituir a la playa del Trampolín me pilló con la antología que publica Acantilado de 'Die Weltbühne' (La escena mundial). Es…",
-        "fecha": "2026-10-05T01:31:37+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox",
-        "enlace": "https://www.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html",
-        "desc": "Entre las opciones que se contemplan estaría convalidar medidas de vivienda en al Diputación Permanente, donde tiene mayoría sin Junts, aunque se disuelvan las Cortes&nbsp; Leer",
-        "fecha": "2026-10-04T22:22:15+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "La izquierda mediática da por hecho que habrá elecciones",
-        "enlace": "https://www.libertaddigital.com/espana/2026-10-04/la-izquierda-mediatica-da-por-hecho-que-habra-elecciones-7470182/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Sánchez convertirá las elecciones en un plebiscito sobre los decretos de vivienda.",
-        "fecha": "2026-10-04T23:45:57+02:00",
-        "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "US pulls all bombers from key UK base after suspected Iran-linked terror plot",
-        "enlace": "https://www.foxnews.com/us/us-pulls-all-bombers-key-uk-base-after-suspected-iran-linked-terror-plot",
-        "desc": "The Pentagon says its bomber force remains ready for global strikes after aircraft deployed to RAF Fairford returned to the United States.",
-        "fecha": "2026-10-04T20:32:14-04:00",
+        "titulo": "Shark bites fisherman twice during kayaking encounter along California beach",
+        "enlace": "https://www.foxnews.com/us/shark-bites-fisherman-twice-kayaking-encounter-california-beach",
+        "desc": "A Malibu shark encounter sent a kayaker to the hospital after he reportedly reeled in a suspected mako shark while fishing off the California coast.",
+        "fecha": "2026-10-04T22:07:08-04:00",
         "fuente": "Fox News"
       },
       {
@@ -89,10 +89,10 @@
         "fuente": "NPR"
       },
       {
-        "titulo": "Portland teen faces terrorism, attempted murder charges after school cafeteria chemical scare",
-        "enlace": "https://www.foxnews.com/us/portland-teen-faces-terrorism-attempted-murder-charges-after-school-cafeteria-chemical-scare",
-        "desc": "A 15-year-old Benson Polytechnic High School student faces 19 counts including domestic terrorism after allegedly mixing toxic chemicals in the cafeteria.",
-        "fecha": "2026-10-04T18:37:06-04:00",
+        "titulo": "Mass shooting at Georgia block party leaves 2 dead, 35 injured",
+        "enlace": "https://www.foxnews.com/us/mass-shooting-georgia-block-party-leaves-2-dead-35-injured",
+        "desc": "A mass shooting at a block party in South Georgia left two people dead and more than three dozen others wounded early Sunday morning, according to officials.",
+        "fecha": "2026-10-04T21:59:01-04:00",
         "fuente": "Fox News"
       },
       {
@@ -106,122 +106,122 @@
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "La nostálgica bienvenida \"con estilo\" que le dio Chiqui Tapia a Messi en su llegada a Ezeiza",
-        "enlace": "https://www.clarin.com/deportes/nostalgica-bienvenida-estilo-dio-chiqui-tapia-messi-llegada-ezeiza_0_B2CqlfVHyO.html",
-        "desc": "El capitán de la Selección Argentina arribó al predio para comenzar los preparativos de su partido de despedida frente a Benín. El presidente de la AFA lo recibió con un abrazo, po…",
-        "fecha": "2026-10-04T23:54:11+00:00",
+        "titulo": "José Luis, padre de Iker Casillas: \"Mis amigos me decían: 'José, qué bueno es el niño; llévalo al Madrid'. Y eso hice\"",
+        "enlace": "https://www.clarin.com/internacional/jose-luis-padre-iker-casillas-amigos-decian-jose-bueno-nino-llevalo-madrid-hice_0_dmD1q01Th4.html",
+        "desc": "El papá del exitoso portero reveló cómo fue el camino de su hijo hasta la gloria. El esfuerzo y la educación, dos valores presentes durante toda la carrera.",
+        "fecha": "2026-10-05T06:00:31+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Argentinos no se baja: la pegada de Kevin Gutiérrez, el penal atajado por Siri y el insólito gol errado por Dómina",
-        "enlace": "https://www.lanacion.com.ar/deportes/futbol/argentinos-no-se-baja-la-pegada-de-kevin-gutierrez-el-penal-atajado-y-el-insolito-gol-errado-por-nid04102026/",
-        "desc": "El equipo de Nico Diez ganó 2-1 en un partido lleno de emociones; los dirigidos por Dabove merecieron algo más",
-        "fecha": "2026-10-05T00:31:53+00:00",
+        "titulo": "Pablo Quirno puso en duda la segunda vuelta en Brasil: “¿Lula le va a regalar el triunfo a Bolsonaro?”",
+        "enlace": "https://www.lanacion.com.ar/el-mundo/pablo-quirno-dijo-que-el-triunfo-de-bolsonaro-sobre-lula-ratifica-la-influencia-global-de-javier-nid04102026/",
+        "desc": "El canciller destacó la sintonía entre el oficialismo argentino y los sectores de la derecha brasileña, y anticipó un impacto positivo para la economía nacional si ambos países que…",
+        "fecha": "2026-10-05T06:33:05+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Elecciones en Brasil: el peronismo apostaba a un triunfo de Lula y sintió el impacto del resultado",
-        "enlace": "https://www.clarin.com/politica/elecciones-brasil-peronismo-apostaba-triunfo-lula-sintio-impacto-resultado_0_v0Y0BEZ6Na.html",
-        "desc": "En el PJ esperaban que se definiera en el balotaje, pero que Lula llegara con ventaja y no al revés. Dirigentes como Wado de Pedro y Victoria Tolosa Paz viajaron a San Pablo a resp…",
-        "fecha": "2026-10-04T23:44:39+00:00",
+        "titulo": "Iba en moto con su pareja, se cayó y murió tras ser alcanzada por un rayo",
+        "enlace": "https://www.clarin.com/sociedad/iba-moto-pareja-cayo-murio-alcanzada-rayo_0_hKTnr3RD4l.html",
+        "desc": "Ocurrió en la Ruta Provincial N°6, Corrientes. El acompañante sufrió heridas de menor consideración.",
+        "fecha": "2026-10-05T05:30:37+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Cuándo es el balotaje de Brasil 2026: así definen Lula y Flávio Bolsonaro las elecciones",
-        "enlace": "https://www.lanacion.com.ar/el-mundo/cuando-es-el-balotaje-de-brasil-2026-asi-definen-lula-y-flavio-bolsonaro-las-elecciones-nid04102026/",
-        "desc": "El Tribunal Superior Electoral confirmó la segunda vuelta que enfrentará al actual presidente con el líder del Partido Liberal",
-        "fecha": "2026-10-05T00:31:35+00:00",
+        "titulo": "Milei brinda con caipirinha",
+        "enlace": "https://www.lanacion.com.ar/politica/milei-brinda-con-caipirinha-nid04102026/",
+        "desc": "El resultado de la elección en Brasil tiene una carga simbólica que el oficialismo potenciará: la nueva derecha internacional, de la que Milei es un exponente, sigue ganando terren…",
+        "fecha": "2026-10-05T06:31:36+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Présidentielle au Brésil : Flavio Bolsonaro, fils de l’ancien chef d’Etat d’extrême droite, devance Lula et l’affrontera au second tour",
-        "enlace": "https://www.lemonde.fr/international/article/2026/10/05/presidentielle-au-bresil-flavio-bolsonaro-fils-de-l-ancien-chef-d-etat-d-extreme-droite-devance-lula-et-l-affrontera-au-second-tour_6788432_3210.html",
-        "desc": "Le député conservateur, désigné candidat par son père quand ce dernier a été condamné à vingt-sept ans de prison, compte plus de 47 % des suffrages, contre près de 45 % pour Lula, …",
-        "fecha": "2026-10-05T02:25:29+02:00",
+        "titulo": "EN DIRECT, blocage des lycées : des centaines d’établissements perturbés lundi, à la veille d’une nouvelle journée de mobilisation, que des syndicats appellent à rejoindre",
+        "enlace": "https://www.lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-des-centaines-d-etablissements-perturbes-lundi-a-la-veille-d-une-nouvelle-journee-de-mobilisation-que-des-syndicats-appellent-a-rejoindre_6788487_3224.html",
+        "desc": "Les cours seront « totalement ou partiellement » suspendus lundi dans 400 à 500 établissements où les conditions de sécurité ne sont « pas réunies » – sur les 3 700 lycées du pays …",
+        "fecha": "2026-10-05T07:02:10+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Rapport à LFI, école publique, «révolution fiscale»… Ce qu’il faut retenir du dernier débat télévisé de la primaire socialiste",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/rapport-a-lfi-ecole-publique-revolution-fiscale-ce-qu-il-faut-retenir-du-dernier-debat-televise-de-la-primaire-socialiste-20261004",
-        "desc": "Les cinq candidats se sont affrontés sur BFMTV dimanche soir à moins d’une semaine du premier tour du scrutin, dont on connaîtra le résultat samedi prochain peu après 20 heures.",
-        "fecha": "2026-10-04T23:49:43+02:00",
+        "titulo": "EN DIRECT - Blocage des lycées : «Il va falloir mettre des choses concrètes sur la table, pas juste des courriers», réclame un syndicat d’enseignants",
+        "enlace": "https://www.lefigaro.fr/actualite-france/en-direct-blocage-des-lycees-des-centaines-de-lycees-seront-a-nouveau-fermes-au-moins-partiellement-lundi-avant-un-acte-iii-mardi-20261005",
+        "desc": "La «feuille de route» adressée par Sébastien Lecornu dimanche à ses ministres pour faire face à la mobilisation lycéenne est un simple exercice de «communication», a dénoncé ce lun…",
+        "fecha": "2026-10-05T08:20:03+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "🔴 Présidentielle au Brésil : Flavio Bolsonaro devance Lula et l'affrontera au second tour",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
-        "desc": "",
-        "fecha": "2026-10-05T00:05:30+00:00",
+        "titulo": "Motion des Verts britanniques: \"Le sionisme est du racisme\"",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261005-motion-des-verts-britanniques-le-sionisme-est-une-forme-de-racisme",
+        "desc": "A la Une de la presse, la mobilisation, en France, des lycéens, qui disent vouloir poursuivre leur mouvement cette semaine, sur fond de crise budgétaire et sociale, alors qu’une un…",
+        "fecha": "2026-10-05T05:44:10+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Blocage des lycées : Sébastien Lecornu demande que les cours reprennent dès lundi « partout » où la sécurité le permet",
-        "enlace": "https://www.lemonde.fr/campus/article/2026/10/04/blocage-des-lycees-sebastien-lecornu-demande-que-les-cours-reprennent-des-lundi-partout-ou-la-securite-le-permet_6788331_4401467.html",
-        "desc": "Dans une lettre adressée à plusieurs de ses ministres, le chef du gouvernement leur confie cinq chantiers, issus des sujets remontés par les conseils académiques de la vie lycéenne…",
-        "fecha": "2026-10-04T21:03:33+02:00",
+        "titulo": "« Lula a payé le prix du mécontentement des électeurs » : au Brésil, Flavio Bolsonaro en tête au premier tour de l’élection présidentielle",
+        "enlace": "https://www.lemonde.fr/international/article/2026/10/05/lula-a-paye-le-prix-du-mecontentement-des-electeurs-au-bresil-flavio-bolsonaro-devance-lula-au-premier-tour-de-l-election-presidentielle_6788483_3210.html",
+        "desc": "Le candidat d’extrême droite, fils de l’ancien président Jair Bolsonaro, a obtenu 47 % des votes, dimanche, contre 45 % pour l’actuel chef de l’Etat qui brigue un quatrième mandat.",
+        "fecha": "2026-10-05T06:48:35+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Élection présidentielle au Brésil : Flavio Bolsonaro largement devant Lula au 1er tour",
-        "enlace": "https://www.lefigaro.fr/international/election-presidentielle-au-bresil-flavio-bolsonaro-largement-devant-lula-au-1er-tour-20261004",
-        "desc": "Le fils de l’ancien président d’extrême droite Jair Bolsonaro comptait à minuit environ 50,2% des suffrages lors de ce décompte partiel, contre quelque 41,6% pour Luiz Inacio Lula …",
-        "fecha": "2026-10-04T23:55:03+02:00",
+        "titulo": "« J’ai eu peur, je suis rentré chez moi » : la colère et l’inquiétude des élèves et leurs parents face aux violences devant les lycées",
+        "enlace": "https://www.lefigaro.fr/actualite-france/j-ai-eu-peur-je-suis-rentre-chez-moi-la-colere-et-l-inquietude-des-eleves-et-leurs-parents-face-aux-violences-devant-les-lycees-20261004",
+        "desc": "TÉMOIGNAGES - Alors que ce lundi, 400 à 500 établissements seront de nouveau fermés, des familles expriment leur exaspération et leurs craintes.",
+        "fecha": "2026-10-05T06:31:19+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Alerte près de la base de Fairford, en Angleterre : les États-Unis retirent leurs bombardiers",
-        "enlace": "https://www.france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
-        "desc": "Tous les bombardiers américains qui avaient été déployés sur la base britannique de Fairford ont été retirés, a annoncé dimanche le Pentagone, quelques jours après l'incident près …",
-        "fecha": "2026-10-04T23:56:53+00:00",
+        "titulo": "En direct : de 400 à 500 lycées fermés en France, plus de 160 en région parisienne",
+        "enlace": "https://www.france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+        "desc": "Après une semaine de blocages de lycées marquée par des tensions, les autorités s'attendent, lundi, à une nouvelle journée de mobilisation en France. Le gouvernement souhaite que l…",
+        "fecha": "2026-10-05T05:11:58+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "DFB-Remis gegen Griechenland: «Die Klopp-Ära kommt nicht in Gang» – die Pressestimmen",
-        "enlace": "https://www.spiegel.de/sport/fussball/dfb-remis-gegen-griechenland-die-klopp-aera-kommt-nicht-in-gang-die-pressestimmen-a-4f619207-f675-4769-a42e-1892e64f870a#ref=rss",
-        "desc": "Zu träge, zu wenig Fantasie: Der jüngste DFB-Auftritt in der Nations League erntet in den internationalen Medien eher Kritik. In Griechenland ist die Freude hingegen groß.",
-        "fecha": "2026-10-05T01:39:00+02:00",
+        "titulo": "Bund bewilligte seit Mai 100.000 Anträge für E-Auto-Prämie",
+        "enlace": "https://www.spiegel.de/wirtschaft/bund-bewilligte-seit-mai-100-000-antraege-fuer-e-auto-praemie-a-0faebd5d-18ca-4fa2-adfd-6a7b44b5fc1b#ref=rss",
+        "desc": "Bis zu 6000 Euro Zuschuss vom Staat sind möglich: Die E-Auto-Prämie kommt laut Umweltminister Carsten Schneider bei vielen Menschen mit niedrigen und mittleren Einkommen an.",
+        "fecha": "2026-10-05T08:27:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Medienbericht: AfD weicht offenbar von Forderung nach EU- und Euro-Austritt ab",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/afd-europe-eu-euro-abweichung-position-strategie-papier-plaene",
-        "desc": "Die AfD will nun offenbar doch nicht mehr aus dem Euro austreten. Stattdessen fordert sie in einem Strategiepapier Reformen und eine Neuordnung der EU.",
-        "fecha": "2026-10-05T00:27:24",
+        "titulo": "Krieg gegen die Ukraine: Russland attackiert ukrainischen Hafen und Frachtschiffe",
+        "enlace": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+        "desc": "In der Küstenregion Odessa haben Luftangriffe Hafenanlagen in Brand gesetzt. Ukrainische Drohnen bringen erneut Hilfsgüter in blockierte Frontstadt Oleschky. Das Liveblog",
+        "fecha": "2026-10-05T06:20:32",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "RAF Fairford: US-Luftwaffe zieht alle Bomber nach Anschlagsverdacht ab",
-        "enlace": "https://www.spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816#ref=rss",
-        "desc": "Die mutmaßlichen Anschlagspläne gegen die britische Basis Fairford haben das US-Militär aufgeschreckt. Jetzt sind sämtliche Langstreckenbomber zurückbeordert worden. Die Eile des A…",
-        "fecha": "2026-10-05T00:56:00+02:00",
+        "titulo": "Friedrich Merz: Warum die Abitur-Note des CDU-Kanzlers im Tresor bleibt",
+        "enlace": "https://www.spiegel.de/politik/friedrich-merz-warum-die-abitur-note-des-cdu-kanzlers-im-tresor-bleibt-a-4b3ed61e-0288-4992-9386-8b0cea00536b#ref=rss",
+        "desc": "Friedrich Merz kehrt heute an das Gymnasium zurück, an dem er vor 51 Jahren Abitur gemacht hat. Seine Abiturnote könnte er dort aber unter den Teppich kehren. Offenbar aus gutem Gr…",
+        "fecha": "2026-10-05T08:20:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Präsidentschaftswahl in Brasilien: Flávio Bolsonaro und Lula da Silva ziehen in die Stichwahl",
-        "enlace": "https://www.zeit.de/politik/ausland/2026-10/brasilien-wahlen-flavio-bolsonaro-luiz-inacio-lula-da-silva",
-        "desc": "Nach Auszählung fast aller Stimmen kommt der ultrarechte Flávio Bolsonaro auf knapp 47,4 Prozent der Stimmen. Auf Amtsinhaber Lula entfallen demnach rund 44,6 Prozent.",
-        "fecha": "2026-10-05T00:25:20",
+        "titulo": "Ifo-Geschäftsklimaindex: Stimmung in der deutschen Autoindustrie weiter verschlechtert",
+        "enlace": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte",
+        "desc": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo-Instituts.",
+        "fecha": "2026-10-05T06:18:39",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Brasile, l’esperto: “Il secondo turno gara tesa con colpi bassi, potrebbero spuntare altri scandali”",
-        "enlace": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_elezioni_lula_bolsonaro_risultati_intervista_esperto_pablo_ortellado-425625882/",
-        "desc": "Pablo Ortellado, professore di Politiche Pubbliche all’Università di San Paolo: “Sarà una sfida combattuta. Trump potrebbe non riconoscere la vittoria del leader uscente”",
-        "fecha": "2026-10-04T23:00:00+00:00",
+        "titulo": "Boxer Clemente Russo returns to the ring at 44: “I don’t want a retired athlete’s belly”",
+        "enlace": "https://europe.repubblica.it/en/sport/2026/10/05/news/clemente_russo_boxing_comeback_retired_athlete_s_belly-425625264/",
+        "desc": "The Italian national boxing team’s technical director: “I don’t want to let myself go. And boxing is inside me, like another organ in my body.”",
+        "fecha": "2026-10-06T04:00:00+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Elezioni in Brasile, i risultati: Bolsonaro in vantaggio con il 47%, Lula al 45%. Si va al ballottaggio",
-        "enlace": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
-        "desc": "I risultati sono una sorpresa: Lula era favorito al primo turno invece si trova a inseguire. Quasi 159 milioni di brasiliani alle urne per scegliere tra il presidente uscente Lula …",
-        "fecha": "2026-10-04T20:42:14+00:00",
+        "titulo": "Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali",
+        "enlace": "https://www.repubblica.it/esteri/2026/10/05/news/elezioni_brasile_michelle_bolsonaro_famiglia_eletti-425626113/",
+        "desc": "Otto membri della famiglia erano candidati in tutto il Paese. Il risultato conferma che la base esiste oltre il fondatore. Protagonista è l’ex moglie del patriarca",
+        "fecha": "2026-10-05T04:40:13+00:00",
         "fuente": "La Repubblica"
       }
     ],
@@ -229,114 +229,114 @@
       {
         "titulo": "US removes all bombers from RAF Fairford base",
         "enlace": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-        "desc": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
-        "fecha": "2026-10-04T21:57:32+00:00",
+        "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+        "fecha": "2026-10-05T04:58:56+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "For Kemi, being the Nasty party is not toxic but a badge of honour | John Crace",
-        "enlace": "https://www.theguardian.com/politics/2026/oct/04/for-kemi-being-the-nasty-party-is-not-toxic-but-a-badge-of-honour",
-        "desc": "The Tory leader says the party’s plans to cut people’s benefits are no more than ‘common sense’ It’s a thought. A bold one. Possibly a career-ending one. But a thought nonetheless.…",
-        "fecha": "2026-10-04T17:13:49+00:00",
+        "titulo": "‘If it’s too slick, it looks like a fashion mag’: Peter Zumthor on his £110m rammed concrete gallery",
+        "enlace": "https://www.theguardian.com/artanddesign/2026/oct/05/peter-zumthor-beyeler-foundation-concrete-gallery-basel",
+        "desc": "It is one of the world’s finest collections, full of Monets, Miros and Picassos. But is the great Swiss architect’s extension for the Beyeler Foundation a worthy addition? Or is it…",
+        "fecha": "2026-10-05T04:00:46+00:00",
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-        "enlace": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-        "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-        "fecha": "2026-10-05T00:27:06+00:00",
+        "titulo": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+        "enlace": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+        "desc": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+        "fecha": "2026-10-05T05:35:36+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "The AI industry is booming. Women are getting left behind",
-        "enlace": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-        "desc": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a common fear among people who work in Silicon Valley: snag one o…",
-        "fecha": "2026-10-04T13:00:29+00:00",
+        "titulo": "My sister Nicole married OJ Simpson. This is what I wish I had known",
+        "enlace": "https://www.theguardian.com/lifeandstyle/2026/oct/05/denise-brown-sister-nicole-brown-simpson-murder-oj-simpson",
+        "desc": "Since Nicole Brown Simpson’s murder in 1994, Denise Brown has devoted herself to ending domestic violence. She talks about her beloved sister, the trauma she witnessed in the coupl…",
+        "fecha": "2026-10-05T04:00:46+00:00",
         "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "O altruísmo eficaz e as contas do fim do mundo",
-        "enlace": "https://www.publico.pt/2026/10/05/opiniao/opiniao/altruismo-eficaz-contas-fim-mundo-2190247",
-        "desc": "A trajetória que vai do utilitarismo de Bentham às discussões actuais sobre o alinhamento da IA mostra bem tanto a força como as fragilidades do pensamento utilitarista. Opinião de…",
-        "fecha": "2026-10-04T23:30:00+00:00",
+        "titulo": "Passe Ferroviário Verde: a promessa dos 20 euros que virou uma dor de cabeça",
+        "enlace": "https://www.publico.pt/2026/10/05/sociedade/noticia/passe-ferroviario-verde-promessa-20-euros-virou-dor-cabeca-2190172",
+        "desc": "O Governo acelera no Passe Ferroviário Verde, mas a falta de comboios e desarticulação com operadores afecta os passageiros. Passe só chega à Fertagus, previsivelmente, em Novembro…",
+        "fecha": "2026-10-05T06:00:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "As notícias da 1h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2404/",
+        "titulo": "As notícias das 7h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2526/",
         "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-10-05T01:17:55+01:00",
+        "fecha": "2026-10-05T07:17:28+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "O escrutínio e a mentira",
-        "enlace": "https://www.publico.pt/2026/10/05/opiniao/opiniao/escrutinio-mentira-2190258",
-        "desc": "Não escrevo para celebrar. Escrevo porque este caso ilustra uma confusão que nos custa caro a todos: a confusão entre escrutínio e mentira. Opinião de Alexandre Lourenço",
-        "fecha": "2026-10-04T23:25:00+00:00",
+        "titulo": "Brothers : Woody e Mac juntos outra vez",
+        "enlace": "https://www.publico.pt/2026/10/05/culturaipsilon/noticia/brothers-woody-mac-juntos-2190268",
+        "desc": "Será que Woody Harrelson e Matthew McConaughey, parceiros no pequeno e no grande ecrã são irmãos? Há uma nova série cómica da Apple TV, co-criada pelos dois, que explora isso.",
+        "fecha": "2026-10-05T05:50:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "FPF e JJ dão \"todo o tempo do mundo\" a CR7?",
-        "enlace": "https://observador.pt/programas/resposta-pronta/fpf-e-jj-dao-todo-o-tempo-do-mundo-a-cr7/",
-        "desc": "Pedro Proença garante que Cristiano Ronaldo fará sempre parte do grupo e deixa a porta aberta. Jorge Jesus rejeita pedir desculpas após o abandono do estágio.",
-        "fecha": "2026-10-05T00:36:03+01:00",
+        "titulo": "As notícias das 6h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2515/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-10-05T06:16:06+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Arthur Lira e Renata JHC são eleitos ao Senado em AL; Renan Calheiros é derrotado após 4 mandatos",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/arthur-lira-e-renata-jhc-sao-eleitos-ao-senado-em-al-renan-calheiros-e-derrotado-apos-4-mandatos.shtml",
-        "desc": "O ex-presidente da Câmara dos Deputados Arthur Lira (PP) e Marina JHC ( PSDB ) foram eleitos neste domingo (4) para representar Alagoas no Senado . Leia mais (10/04/2026 - 21h32)",
-        "fecha": "2026-10-04T21:32:00-03:00",
+        "titulo": "A hora e a vez dos independentes",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/a-hora-e-a-vez-dos-independentes.shtml",
+        "desc": "Mais uma vez as urnas nos disseram que não são necessariamente cópias perfeitas dos retratos registrados pelas pesquisas ao longo da campanha. Leia mais (10/05/2026 - 02h18)",
+        "fecha": "2026-10-05T02:18:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Acompanhe o resultado do 1º turno das Eleições 2026 pelo Brasil",
-        "enlace": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
-        "desc": "Acompanhe o resultado do 1º turno das Eleições 2026 pelo Brasil Flávio Bolsonaro e Lula disputarão 2º turno em 25 de outubro No exterior, resultados parciais mostram Lula à frente …",
-        "fecha": "2026-10-05T00:24:27",
+        "titulo": "Resultado das eleições 2026 em Aiquara (BA): como foi a votação no 1º turno",
+        "enlace": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-aiquara-ba-como-foi-a-votacao-no-1o-turno.ghtml",
+        "desc": "Eleições 2026 - Resultado em Aiquara Lula (PT) foi o candidato a presidente mais votado em Aiquara (BA), com 2.315 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 753 v…",
+        "fecha": "2026-10-05T06:38:04",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Trump passa o dia sem comentar eleição, e Milei comemora desempenho de Flávio",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-passa-o-dia-sem-comentar-eleicao-e-milei-comemora-desempenho-de-flavio.shtml",
-        "desc": "Em meio a temores de que a eleição seja alvo de interferência externa, o primeiro turno terminou neste domingo (4) sem que o presidente dos Estados Unidos , Donald Trump , ou seus …",
-        "fecha": "2026-10-04T21:32:00-03:00",
+        "titulo": "Direita domina Senado com agenda estridente e terá poder sobre indicações do governo",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/direita-domina-senado-com-agenda-estridente-e-tera-poder-sobre-indicacoes-do-governo.shtml",
+        "desc": "A direita dominará o Senado a partir de 2027 e deve impor uma guinada na agenda da Casa Alta do Congresso Nacional , qualquer que seja o presidente da República eleito no segundo t…",
+        "fecha": "2026-10-05T01:58:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "EM TEMPO REAL: veja os resultados do 1º turno na região",
-        "enlace": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-sorocaba-jundiai-itapetininga.ghtml",
-        "desc": "EM TEMPO REAL: veja os resultados do 1º turno na região Confira os resultados do primeiro turno nas regiões de Sorocaba, Jundiaí e Itapetininga. O primeiro turno das Eleições 2026 …",
-        "fecha": "2026-10-05T00:24:14",
+        "titulo": "Resultado das eleições 2026 em Gavião (BA): como foi a votação no 1º turno",
+        "enlace": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-gaviao-ba-como-foi-a-votacao-no-1o-turno.ghtml",
+        "desc": "Eleições 2026 - Resultado em Gavião Lula (PT) foi o candidato a presidente mais votado em Gavião (BA), com 2.055 votos. Flavio Bolsonaro (PL) foi o segundo mais votado, com 1.038 v…",
+        "fecha": "2026-10-05T06:38:02",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "Flydubai co-pilot lost earlier job for dabbling in extremism",
-        "enlace": "https://www.japantimes.co.jp/news/2026/10/05/world/flydubai-co-pilot-extremism/",
-        "desc": "The revelation about the co-pilot's dismissal from Oman Air will likely raise questions about how he was able to get a job at Flydubai.",
-        "fecha": "2026-10-05T09:31:00+09:00",
+        "titulo": "U.S. accuses California woman of spying for China, surveilling Taiwan leader’s son",
+        "enlace": "https://www.japantimes.co.jp/news/2026/10/05/world/us-taiwan-china-california-spy/",
+        "desc": "U.S. officials say Wanying Zhang used tradecraft to avoid detection and never notified Washington that she was acting for a foreign government.",
+        "fecha": "2026-10-05T15:35:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "Mrs. Green Apple doesn’t want to play by ‘the rules’",
-        "enlace": "https://www.japantimes.co.jp/culture/2026/10/05/music/motoki-ohmori-green-apple/",
-        "desc": "Motoki Ohmori talks \"Pops,\" challenging musical conventions and what comes next for Japan's biggest band.",
-        "fecha": "2026-10-05T05:45:00+09:00",
+        "titulo": "Takaichi lays out ‘proactive fiscal policy’ as new session of parliament begins",
+        "enlace": "https://www.japantimes.co.jp/news/2026/10/05/japan/politics/prime-minister-speech-autumn-diet/",
+        "desc": "In her policy address, the prime minister said Japan needed further action to turn higher wages and investment into sustained growth.",
+        "fecha": "2026-10-05T15:18:00+09:00",
         "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
       {
-        "titulo": "Claudia Macero: «María Corina vuelve a Venezuela para movilizar y canalizar el descontento y organizar a los venezolanos»",
-        "enlace": "https://www.abc.es/internacional/claudia-macero-maria-corina-viene-venezuela-movilizar-20261004012308-nt.html",
-        "desc": "Claudia Macero , periodista venezolana de 34 años, fue la primera de la Operación Guacamaya que se fugó de la Embajada Argentina en Caracas para salir al exilio, en 2025. La pasada…",
-        "fecha": "2026-10-05T01:23:08+02:00",
+        "titulo": "El FBI detiene a una mujer china a la que acusa de espiar para Pekín al hijo del presidente de Taiwán",
+        "enlace": "https://www.abc.es/internacional/fbi-detiene-mujer-china-acusa-espiar-pekin-20261005082603-nt.html",
+        "desc": "La Oficina Federal de Investigación (FBI, por sus siglas en inglés) de Estados Unidos ha anunciado la detención antes de que pudiera volar a Shanghái de una «presunta agente» china…",
+        "fecha": "2026-10-05T08:26:03+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -347,45 +347,45 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Estados Unidos retira todos sus bombarderos de la base británica de Fairford por sorpresa",
-        "enlace": "https://www.elconfidencial.com/mundo/europa/2026-10-04/eeuu-retira-bombarderos-base-fairford_4438200/",
-        "desc": "La Fuerza Aérea de EEUU evacúa sus aviones B-1, B-2 y B-52 de Reino Unido para operar desde territorio nacional. Sky News confirma un repliegue que fuentes extraoficiales atribuyen…",
-        "fecha": "2026-10-05T00:35:49.562280+00:00",
+        "titulo": "La analista que lleva años avisando a la UE de China y los populismos: \"Alemania ya no es estable ni rica. Es hora de que España asuma el liderazgo\"",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-10-05/oertel-advierte-a-una-ue-cercada-por-china-y-la-ultraderecha_4436243/",
+        "desc": "La analista del European Council on Foreign Relations señala cómo la política comercial china erosiona la economía europea y destruye empleo, dejándola al borde de caer en la depen…",
+        "fecha": "2026-10-05T06:42:04.687841+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
         "titulo": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
         "enlace": "https://www.bbc.com/mundo/articles/c62e9knnnnnro?at_medium=RSS&at_campaign=rss",
         "desc": "La mayor democracia de América Latina irá a balotaje el 25 de octubre. Lula lleva la desventaja frente a Bolsonaro ya que históricamente nunca hubo una remontada en una segunda vue…",
-        "fecha": "2026-10-05T00:10:03+00:00",
+        "fecha": "2026-10-05T02:08:03+00:00",
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Secretario General de la Liga del Mundo Islámico: \"No sentimos preocupación en Europa\"",
-        "enlace": "https://es.euronews.com/2026/10/04/secretario-general-de-la-liga-del-mundo-islamico-no-sentimos-preocupacion-en-europa",
-        "desc": "De visita en Bruselas para reunirse con dirigentes políticos y religiosos, el jeque Mohammad bin Abdulkarim Al-Issa subrayó la necesidad de profundizar el diálogo para hacer frente…",
-        "fecha": "2026-10-04T19:11:21+02:00",
+        "titulo": "¿Puede la IA escapar al control humano? Un experto alerta de los riesgos de un escenario como 'Terminator'",
+        "enlace": "https://es.euronews.com/2026/10/05/ia-control-humano-riesgos-terminator-openai-anthropic",
+        "desc": "Los responsables de OpenAI y Anthropic alertan de los riesgos de acelerar el desarrollo de la inteligencia artificial. ¿Podría una IA escapar al control humano y provocar una catás…",
+        "fecha": "2026-10-05T08:30:58+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "enlace": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-        "fecha": "2026-10-04T12:09:04+00:00",
+        "titulo": "US air force removes all bombers from British military base RAF Fairford",
+        "enlace": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+        "fecha": "2026-10-05T04:58:56+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Bolsonaro wins first round of Brazilian presidential election, as Trump-backed candidates continue red wave",
-        "enlace": "https://www.foxnews.com/world/bolsonaro-wins-first-round-brazilian-presidential-election-trump-backed-candidates-continue-red-wave",
-        "desc": "Flavio Bolsonaro won the first round of Brazil&apos;s presidential election, and will now face off against incumbent Lula da Silva in a second round on October 25.",
-        "fecha": "2026-10-04T20:17:42-04:00",
+        "titulo": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike",
+        "enlace": "https://www.foxnews.com/world/dramatic-footage-shows-alleged-narco-boat-erupt-fireball-during-us-military-strike",
+        "desc": "The U.S. Southern Command conducted a strike on a suspected drug vessel in the Caribbean, killing four people alleged to be narco-traffickers.",
+        "fecha": "2026-10-05T01:22:12-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Texas vuelve a estar en juego treinta años después",
-        "enlace": "https://www.abc.es/internacional/texas-vuelve-estar-juego-treinta-anos-despues-20260928012226-nt.html",
-        "desc": "En Houston cuesta recorrer un tramo de calle sin tropezarse con una campaña que lo ocupa hoy casi todo: la radio del coche, las pantallas y los anuncios en esas enormes autopistas …",
-        "fecha": "2026-10-05T01:22:26+02:00",
+        "titulo": "Claudia Macero: «María Corina vuelve a Venezuela para movilizar y canalizar el descontento y organizar a los venezolanos»",
+        "enlace": "https://www.abc.es/internacional/claudia-macero-maria-corina-viene-venezuela-movilizar-20261004012308-nt.html",
+        "desc": "Claudia Macero , periodista venezolana de 34 años, fue la primera de la Operación Guacamaya que se fugó de la Embajada Argentina en Caracas para salir al exilio, en 2025. La pasada…",
+        "fecha": "2026-10-05T01:23:08+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -396,19 +396,68 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Estados Unidos retira todos sus bombarderos de la base británica de Fairford por sorpresa",
-        "enlace": "https://www.elconfidencial.com/mundo/europa/2026-10-04/eeuu-retira-bombarderos-base-fairford_4438199/",
-        "desc": "La Fuerza Aérea de EEUU evacúa sus aviones B-1, B-2 y B-52 de Reino Unido para operar desde territorio nacional. Sky News confirma un repliegue que fuentes extraoficiales atribuyen…",
-        "fecha": "2026-10-05T00:35:49.562321+00:00",
+        "titulo": "La 'uberización' de la tripulación de cabina de Ryanair explota en Polonia",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-10-05/ryanair-tripulacion-contratos-b2b-1hms_4434470/",
+        "desc": "La Inspección Nacional de Trabajo polaca tiene previsto realizar una inspección de Ryanair Sun antes de que termine el año. La aerolínea 'low cost' ofrece puestos de personal de ca…",
+        "fecha": "2026-10-05T06:42:04.687884+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "enlace": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-        "fecha": "2026-10-04T12:09:04+00:00",
+        "titulo": "US air force removes all bombers from British military base RAF Fairford",
+        "enlace": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+        "fecha": "2026-10-05T04:58:56+00:00",
+        "fuente": "BBC World"
+      },
+      {
+        "titulo": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike",
+        "enlace": "https://www.foxnews.com/world/dramatic-footage-shows-alleged-narco-boat-erupt-fireball-during-us-military-strike",
+        "desc": "The U.S. Southern Command conducted a strike on a suspected drug vessel in the Caribbean, killing four people alleged to be narco-traffickers.",
+        "fecha": "2026-10-05T01:22:12-04:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Live: Up to 500 schools to shut in France as student protests continue",
+        "enlace": "https://www.france24.com/en/france/20261005-live-up-to-500-schools-to-shut-in-france-as-student-protests-continue",
+        "desc": "Up to 500 schools are expected to close across France on Monday as student protests continue, according to the country's Education Minister Édouard Geffray. The protests over high …",
+        "fecha": "2026-10-05T05:15:51+00:00",
+        "fuente": "France 24 EN"
+      },
+      {
+        "titulo": "Jets played all the sad hits in loss that made any good feelings vanish",
+        "enlace": "https://nypost.com/2026/10/05/sports/jets-played-all-the-hits-in-loss-that-made-any-good-feelings-vanish/",
+        "desc": "There were no Jets silver linings to be had after a dismal performance in a loss to the Bears that the scoreboard said was 23-12, but anyone who watched it knows it was much, much …",
+        "fecha": "2026-10-05T01:05:15-04:00",
+        "fuente": "New York Post"
+      },
+      {
+        "titulo": "Yemen launches major military operation against Houthis",
+        "enlace": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
+        "desc": "Yemen's internationally recognized government announced a new military offensive to retake Houthi-held territory after rebels cut a key road linking the city of Taiz with Aden.",
+        "fecha": "2026-10-05T06:42:08.937157+00:00",
+        "fuente": "DW English"
+      },
+      {
+        "titulo": "Europe Today: Russia hits Kyiv as Merz visits; Bolsonaro wins Brazil's first round election",
+        "enlace": "https://www.euronews.com/2026/10/05/europe-today-russia-hits-kyiv-as-merz-visits-bolsonaro-wins-brazils-first-round-election",
+        "desc": "German Chancellor Friedriz Merz's visit to Ukraine was met with Russian missiles as he pledged €1.3 billion to Kyiv. In Iran, the country's deputy foreign minister says Washington …",
+        "fecha": "2026-10-05T08:01:54+02:00",
+        "fuente": "Euronews EN"
+      },
+      {
+        "titulo": "Trump announces $90 Medicare premium rebates for seniors ahead of midterms",
+        "enlace": "https://www.oann.com/newsroom/trump-announces-90-medicare-premium-rebates-for-seniors-ahead-of-midterms/",
+        "desc": "Ahead of the November midterm elections, President Donald Trump announced a plan to provide $90 payments to over 20 million seniors to assist with Medicare premiums.",
+        "fecha": "2026-10-05T01:18:02+00:00",
+        "fuente": "OAN"
+      },
+      {
+        "titulo": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "enlace": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "fecha": "2026-10-05T03:16:16+00:00",
         "fuente": "BBC World"
       },
       {
@@ -419,75 +468,26 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "🔴 Brazil presidential election heads to runoff with Bolsonaro ahead of Lula",
-        "enlace": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
-        "desc": "",
-        "fecha": "2026-10-05T00:18:35+00:00",
-        "fuente": "France 24 EN"
-      },
-      {
-        "titulo": "Aaron Glenn, Jets already bracing to get beaten ‘down with history’ as season spirals after loss to Bears",
-        "enlace": "https://nypost.com/2026/10/04/sports/aaron-glenn-jets-already-bracing-to-get-beaten-down-with-history-after-loss-to-bears/",
-        "desc": "Aaron Glenn knows exactly what’s coming.",
-        "fecha": "2026-10-04T20:32:35-04:00",
-        "fuente": "New York Post"
-      },
-      {
-        "titulo": "Brazil election: Bolsonaro and Lula head to runoff",
-        "enlace": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-        "desc": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the c…",
-        "fecha": "2026-10-05T00:35:55.792952+00:00",
-        "fuente": "DW English"
-      },
-      {
-        "titulo": "Latest news bulletin | October 4th, 2026 – Evening",
-        "enlace": "https://www.euronews.com/video/2026/10/04/latest-news-bulletin-october-4th-2026-evening",
-        "desc": "Catch up with the most important stories from around Europe and beyond this October 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Trave…",
-        "fecha": "2026-10-04T18:00:29+02:00",
-        "fuente": "Euronews EN"
-      },
-      {
-        "titulo": "‘If a bunch of goobers run’: Senator Kennedy considers 2028 presidential bid",
-        "enlace": "https://www.oann.com/newsroom/if-a-bunch-of-goobers-run-senator-kennedy-considers-2028-presidential-bid/",
-        "desc": "Louisiana Senator John Kennedy floated a potential 2028 presidential run during an interview with NBC’s \"Meet the Press.\"",
-        "fecha": "2026-10-04T23:54:23+00:00",
-        "fuente": "OAN"
-      },
-      {
-        "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "enlace": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "fecha": "2026-10-04T14:25:32+00:00",
-        "fuente": "BBC World"
-      },
-      {
-        "titulo": "US monitoring suspected fatal pneumonic plague case in Russia, State Department official says",
-        "enlace": "https://www.foxnews.com/world/us-monitoring-suspected-fatal-pneumonic-plague-case-russia-state-department-official-says",
-        "desc": "U.S. officials are tracking an unconfirmed report of a fatal pneumonic plague case in Russia’s Irkutsk Oblast while urging transparency from Moscow.",
-        "fecha": "2026-10-04T20:05:59-04:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
-        "enlace": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
-        "desc": "Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bols…",
-        "fecha": "2026-10-05T00:16:05+00:00",
+        "titulo": "Rubio visits Iceland ‘to discuss security collaboration’ as US boosts Arctic presence",
+        "enlace": "https://www.france24.com/en/europe/20261005-rubio-visits-iceland-as-us-boosts-arctic-presence-after-greenland-security-pact",
+        "desc": "US Secretary of State Marco Rubio is set to travel to Iceland on Monday, two weeks after Washington sealed a security pact with Denmark and Greenland on the sidelines of the United…",
+        "fecha": "2026-10-05T01:20:45+00:00",
         "fuente": "France 24 EN"
       }
     ],
     "internacional_fr": [
       {
-        "titulo": "En RD-Congo, l’immuable guerre contre l’épidémie d’Ebola",
-        "enlace": "https://www.lefigaro.fr/international/en-rd-congo-l-immuable-guerre-contre-l-epidemie-d-ebola-20261004",
-        "desc": "Le ministre des Affaires étrangères, Jean-Noël Barrot, s’est rendu samedi à Bunia, épicentre de la crise.",
-        "fecha": "2026-10-04T21:25:20+02:00",
+        "titulo": "« Les Geran-5 ne sont presque plus des drones » : dans le ciel de Kiev, l’éprouvant combat face aux nouvelles technologies russes",
+        "enlace": "https://www.lefigaro.fr/international/les-geran-5-ne-sont-presque-plus-des-drones-dans-le-ciel-de-kiev-l-eprouvant-combat-face-aux-nouvelles-technologies-russes-20261005",
+        "desc": "REPORTAGE – La Russie harcèle la capitale ukrainienne nuit et jour avec une nouvelle génération de drones à turboréacteurs, ultrarapides et résistants aux brouillages. La défense a…",
+        "fecha": "2026-10-05T08:19:25+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "🔴 Présidentielle au Brésil : Flavio Bolsonaro devance Lula et l'affrontera au second tour",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
-        "desc": "",
-        "fecha": "2026-10-05T00:05:30+00:00",
+        "titulo": "Motion des Verts britanniques: \"Le sionisme est du racisme\"",
+        "enlace": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261005-motion-des-verts-britanniques-le-sionisme-est-une-forme-de-racisme",
+        "desc": "A la Une de la presse, la mobilisation, en France, des lycéens, qui disent vouloir poursuivre leur mouvement cette semaine, sur fond de crise budgétaire et sociale, alors qu’une un…",
+        "fecha": "2026-10-05T05:44:10+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -498,31 +498,31 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "\"Nous ne sommes pas inquiets\" face à la situation en Europe, affirme le chef de la Ligue islamique mondiale",
-        "enlace": "https://fr.euronews.com/2026/10/04/nous-ne-sommes-pas-inquiets-face-a-la-situation-en-europe-affirme-le-chef-de-la-ligue-isla",
-        "desc": "En visite à Bruxelles, le cheikh Mohammad ben Abdelkarim Al-Issa a appelé à renforcer le dialogue face aux bouleversements mondiaux, estimant que les \"constitutions civilisées\" eur…",
-        "fecha": "2026-10-04T18:39:41+02:00",
+        "titulo": "Europe Today : La Russie frappe Kyiv lors de la visite de Merz ; Bolsonaro remporte le 1er tour",
+        "enlace": "https://fr.euronews.com/2026/10/05/europe-today-la-russie-frappe-kyiv-lors-de-la-visite-de-merz-bolsonaro-remporte-le-1er-tou",
+        "desc": "Ukraine, Iran, Brésil : le chancelier allemand Friedrich Merz, en visite à Kyiv sous les missiles russes, promet 1,3 milliard d'euros ; Washington étudie la proposition de Téhéran …",
+        "fecha": "2026-10-05T08:03:37+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "enlace": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-        "fecha": "2026-10-04T12:09:04+00:00",
+        "titulo": "US air force removes all bombers from British military base RAF Fairford",
+        "enlace": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+        "fecha": "2026-10-05T04:58:56+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Les souverainistes québécois aux portes du pouvoir",
-        "enlace": "https://www.lefigaro.fr/international/les-souverainistes-quebecois-aux-portes-du-pouvoir-20261004",
-        "desc": "Le chef du Parti québécois, Paul St-Pierre Plamondon, est pressenti pour être le nouveau premier ministre du Québec à l’issue des élections de ce lundi.",
-        "fecha": "2026-10-04T18:59:56+02:00",
+        "titulo": "Avec l’opération Vivaldi, les drones et les robots ukrainiens font reculer l’armée russe",
+        "enlace": "https://www.lefigaro.fr/international/avec-l-operation-vivaldi-les-drones-et-les-robots-ukrainiens-font-reculer-l-armee-russe-20261005",
+        "desc": "DÉCRYPTAGE - Sur le front du Donbass, près de Lyman, l’armée ukrainienne a une nouvelle fois démontré sa capacité d’innovation tactique et technologique.",
+        "fecha": "2026-10-05T06:23:57+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Alerte près de la base de Fairford, en Angleterre : les États-Unis retirent leurs bombardiers",
-        "enlace": "https://www.france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
-        "desc": "Tous les bombardiers américains qui avaient été déployés sur la base britannique de Fairford ont été retirés, a annoncé dimanche le Pentagone, quelques jours après l'incident près …",
-        "fecha": "2026-10-04T23:56:53+00:00",
+        "titulo": "En direct : de 400 à 500 lycées fermés en France, plus de 160 en région parisienne",
+        "enlace": "https://www.france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+        "desc": "Après une semaine de blocages de lycées marquée par des tensions, les autorités s'attendent, lundi, à une nouvelle journée de mobilisation en France. Le gouvernement souhaite que l…",
+        "fecha": "2026-10-05T05:11:58+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -533,79 +533,100 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 4 octobre 2026 - Soir",
-        "enlace": "https://fr.euronews.com/video/2026/10/04/linfo-du-jour-4-octobre-2026-soir",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 4 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le dive…",
-        "fecha": "2026-10-04T18:00:19+02:00",
+        "titulo": "L’info du jour | 5 octobre 2026 - Matin",
+        "enlace": "https://fr.euronews.com/video/2026/10/05/linfo-du-jour-5-octobre-2026-matin",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 5 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le dive…",
+        "fecha": "2026-10-05T07:00:07+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "enlace": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "fecha": "2026-10-04T14:25:32+00:00",
+        "titulo": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "enlace": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "fecha": "2026-10-05T03:16:16+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "DFB-Remis gegen Griechenland: «Die Klopp-Ära kommt nicht in Gang» – die Pressestimmen",
-        "enlace": "https://www.spiegel.de/sport/fussball/dfb-remis-gegen-griechenland-die-klopp-aera-kommt-nicht-in-gang-die-pressestimmen-a-4f619207-f675-4769-a42e-1892e64f870a#ref=rss",
-        "desc": "Zu träge, zu wenig Fantasie: Der jüngste DFB-Auftritt in der Nations League erntet in den internationalen Medien eher Kritik. In Griechenland ist die Freude hingegen groß.",
-        "fecha": "2026-10-05T01:39:00+02:00",
+        "titulo": "Bund bewilligte seit Mai 100.000 Anträge für E-Auto-Prämie",
+        "enlace": "https://www.spiegel.de/wirtschaft/bund-bewilligte-seit-mai-100-000-antraege-fuer-e-auto-praemie-a-0faebd5d-18ca-4fa2-adfd-6a7b44b5fc1b#ref=rss",
+        "desc": "Bis zu 6000 Euro Zuschuss vom Staat sind möglich: Die E-Auto-Prämie kommt laut Umweltminister Carsten Schneider bei vielen Menschen mit niedrigen und mittleren Einkommen an.",
+        "fecha": "2026-10-05T08:27:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "\"Superintelligenz\" statt KI: Liegt Donald Trump richtig?",
         "enlace": "https://www.dw.com/de/superintelligenz-statt-ki-liegt-donald-trump-richtig/a-79523704?maca=de-rss-de-all-1119-rdf",
         "desc": "Donald Trump findet, \"künstliche Intelligenz\" höre sich \"fake\" an, und hat die US-Behörden angewiesen, stattdessen von \"Superintelligenz\" zu sprechen. Doch warum sollten Tech-Unter…",
-        "fecha": "2026-10-05T00:35:59.996043+00:00",
+        "fecha": "2026-10-05T06:42:12.593225+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Wahllokale in Brasilien öffnen für rund 160 Millionen Wähler",
-        "enlace": "https://de.euronews.com/2026/10/04/wahl-brasilien-160-millionen-wahler",
-        "desc": "Brasilianer stimmen im ganzen Land ab. Die Wahllokale sind von 8:00 bis 17:00 Uhr Ortszeit geöffnet, digitale Ergebnisse werden bis zu drei Stunden nach Schließung erwartet.",
-        "fecha": "2026-10-04T20:26:53+02:00",
+        "titulo": "Europe Today: Russland greift Kyjiw an, Merz reist; Bolsonaro gewinnt erste Wahlrunde in Brasilien",
+        "enlace": "https://de.euronews.com/2026/10/05/europe-today-russland-greift-kyjiw-an-merz-reist-bolsonaro-gewinnt-erste-wahlrunde-in-bras",
+        "desc": "Friedrich Merz gerät bei seinem Ukraine-Besuch unter Raketenbeschuss und sagt Kyjiw 1,3 Milliarden Euro zu. Teherans Vizeaußenminister sagt, Washington prüfe einen Friedensvorschla…",
+        "fecha": "2026-10-05T08:03:04+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "enlace": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-        "fecha": "2026-10-04T12:09:04+00:00",
+        "titulo": "US air force removes all bombers from British military base RAF Fairford",
+        "enlace": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+        "fecha": "2026-10-05T04:58:56+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "RAF Fairford: US-Luftwaffe zieht alle Bomber nach Anschlagsverdacht ab",
-        "enlace": "https://www.spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816#ref=rss",
-        "desc": "Die mutmaßlichen Anschlagspläne gegen die britische Basis Fairford haben das US-Militär aufgeschreckt. Jetzt sind sämtliche Langstreckenbomber zurückbeordert worden. Die Eile des A…",
-        "fecha": "2026-10-05T00:56:00+02:00",
+        "titulo": "Friedrich Merz: Warum die Abitur-Note des CDU-Kanzlers im Tresor bleibt",
+        "enlace": "https://www.spiegel.de/politik/friedrich-merz-warum-die-abitur-note-des-cdu-kanzlers-im-tresor-bleibt-a-4b3ed61e-0288-4992-9386-8b0cea00536b#ref=rss",
+        "desc": "Friedrich Merz kehrt heute an das Gymnasium zurück, an dem er vor 51 Jahren Abitur gemacht hat. Seine Abiturnote könnte er dort aber unter den Teppich kehren. Offenbar aus gutem Gr…",
+        "fecha": "2026-10-05T08:20:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Kunst als DNA der Freiheit: Maria Kolesnikowa sprach beim Beethovenfest",
         "enlace": "https://www.dw.com/de/kunst-als-dna-der-freiheit-maria-kolesnikowa-sprach-beim-beethovenfest/a-79537306?maca=de-rss-de-all-1119-rdf",
         "desc": "Die belarussische Oppositionelle und Musikerin Maria Kolesnikowa trat beim Beethovenfest in Bonn mit einer Grundsatzrede zur Bedeutung der Kunst auf. Und besuchte die DW.",
-        "fecha": "2026-10-05T00:35:59.996087+00:00",
+        "fecha": "2026-10-05T06:42:12.593267+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 4. Oktober 2026 - Abendausgabe",
-        "enlace": "https://de.euronews.com/video/2026/10/04/nachrichten-des-tages-4-oktober-2026-abendausgabe",
-        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 4. Oktober 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-10-04T18:00:33+02:00",
+        "titulo": "Das Terminator-Szenario: Wie realistisch ist die KI-Apokalypse?",
+        "enlace": "https://de.euronews.com/2026/10/05/das-terminator-szenario-wie-realistisch-ist-die-ki-apokalypse",
+        "desc": "OpenAI-Chef Sam Altman und Anthropic-Chef Dario Amodei warnen vor den Risiken einer zu schnellen Entwicklung der Künstlichen Intelligenz (KI). Immer mehr Experten halten es für den…",
+        "fecha": "2026-10-05T07:05:42+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "enlace": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "fecha": "2026-10-04T14:25:32+00:00",
+        "titulo": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "enlace": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "fecha": "2026-10-05T03:16:16+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
+      {
+        "titulo": "Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali",
+        "enlace": "https://www.repubblica.it/esteri/2026/10/05/news/elezioni_brasile_michelle_bolsonaro_famiglia_eletti-425626113/?rss",
+        "desc": "Otto membri della famiglia erano candidati in tutto il Paese. Il risultato conferma che la base esiste oltre il fondatore. Protagonista è l’ex moglie del patriarca",
+        "fecha": "2026-10-05T06:40:13+02:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Europe Today: Russia colpisce Kyiv, Merz in visita, Bolsonaro avanti in Brasile",
+        "enlace": "https://it.euronews.com/2026/10/05/europe-today-russia-colpisce-kyiv-merz-in-visita-bolsonaro-avanti-in-brasile",
+        "desc": "La visita in Ucraina del cancelliere tedesco Friedrich Merz è stata colpita da missili russi mentre prometteva 1,3 mld a Kiev. In Iran Washington valuta la proposta di Teheran per …",
+        "fecha": "2026-10-05T08:02:51+02:00",
+        "fuente": "Euronews IT"
+      },
+      {
+        "titulo": "US air force removes all bombers from British military base RAF Fairford",
+        "enlace": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "desc": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+        "fecha": "2026-10-05T04:58:56+00:00",
+        "fuente": "BBC World EN"
+      },
       {
         "titulo": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
         "enlace": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_pronto_elezioni_cavalcando_piazza_sfida_destra_spagnola-425625990/?rss",
@@ -614,82 +635,61 @@
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Elezioni in Brasile, chiusi i seggi: testa a testa per la presidenza tra Lula e Bolsonaro Jr",
-        "enlace": "https://it.euronews.com/2026/10/04/elezioni-in-brasile-chiusi-i-seggi-testa-a-testa-per-la-presidenza-tra-lula-e-bolsonaro-jr",
-        "desc": "I brasiliani hanno votato dalle 8 alle 17 locali. Spoglio cominciato, i primi risultati sono attesi entro 3 ore dalla chiusura delle urne. Probabile che si vada al secondo turno il…",
-        "fecha": "2026-10-04T22:03:34+02:00",
+        "titulo": "Elezioni presidenziali in Brasile, Bolsonaro e Lula senza maggioranza: si va al ballottaggio",
+        "enlace": "https://it.euronews.com/2026/10/05/elezioni-presidenziali-in-brasile-bolsonaro-e-lula-senza-maggioranza-si-va-al-ballottaggio",
+        "desc": "Il figlio dell'ex presidente chiude il primo turno in vantaggio di due punti su Lula, che parla di \"risultato inaspettato\". Il ballottaggio fra tre settimane",
+        "fecha": "2026-10-05T07:16:19+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "enlace": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "desc": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-        "fecha": "2026-10-04T12:09:04+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "Pizzaballa: “Tutti ancora sono fermi al 7 ottobre 2023, ora è necessario cambiare”",
-        "enlace": "https://www.repubblica.it/esteri/2026/10/05/news/pizzaballa_intervista_7_ottobre_2023_gaza_elezioni_israele-425625954/?rss",
-        "desc": "Il cardinale: “Entrambe le popolazioni sono dentro questo trauma profondo. Ma non vogliamo che sia la nuova normalità”",
-        "fecha": "2026-10-05T01:00:00+02:00",
-        "fuente": "La Repubblica"
-      },
-      {
-        "titulo": "Le notizie del giorno | 04 ottobre 2026 - Serale",
-        "enlace": "https://it.euronews.com/video/2026/10/04/le-notizie-del-giorno-04-ottobre-2026-serale",
-        "desc": "Segui l'attualità dall'Europa e dal mondo del 04 ottobre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
-        "fecha": "2026-10-04T18:00:42+02:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "enlace": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-        "fecha": "2026-10-04T14:25:32+00:00",
+        "titulo": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "enlace": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "desc": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "fecha": "2026-10-05T03:16:16+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "0h Eleição presidencial no Brasil, tudo aponta para uma segunda volta",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/0h-eleicao-presidencial-no-brasil-tudo-aponta-para-uma-segunda-volta_a1_1769594",
+        "titulo": "07h Brasil avança para segunda volta",
+        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/07h-brasil-avanca-para-segunda-volta_a1_1769629",
         "desc": "",
-        "fecha": "2026-10-05T01:44:01+01:00",
+        "fecha": "2026-10-05T08:24:02+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "As notícias da 1h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2404/",
+        "titulo": "As notícias das 7h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2526/",
         "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-10-05T01:17:55+01:00",
+        "fecha": "2026-10-05T07:17:28+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Flávio Bolsonaro termina à frente de Lula, e eleição vai ao 2º turno; acompanhe a apuração dos votos",
-        "enlace": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
-        "desc": "Com 99% das urnas apuradas, Flávio tem 47% dos votos, e Lula, 45%. Veja os governadores eleitos no 1º turno, os senadores vencedores e a votação de deputados até agora.",
-        "fecha": "2026-10-05T00:36:08.283906+00:00",
+        "titulo": "Os maiores vencedores e os maiores perdedores do primeiro turno das eleições 2026",
+        "enlace": "https://www.bbc.com/portuguese/articles/c6x2w5x2egd8o?at_medium=RSS&at_campaign=rss",
+        "desc": "Especialistas apontam os personagens e partidos que sagraram-se vencedores e os que sofreram derrotas neste domingo e como eles se posicionarão no xadrez eleitoral das próximas sem…",
+        "fecha": "2026-10-05T04:27:19+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Sérgio Moro, ex-juiz da Lava Jato, eleito governador no Paraná",
-        "enlace": "https://www.rtp.pt/noticias/mundo/sergio-moro-ex-juiz-da-lava-jato-eleito-governador-no-parana_n1769593",
-        "desc": "O ainda senador e ex-juiz no processo Lava Jato Sergio Moro foi eleito hoje governador do estado do Paraná, no Sul do Brasil, para um mandato de quatro anos.",
-        "fecha": "2026-10-05T01:21:34+01:00",
+        "titulo": "Austrália investiga alegadas ligações ao país do copiloto de voo da Flydubai",
+        "enlace": "https://www.rtp.pt/noticias/mundo/australia-investiga-alegadas-ligacoes-ao-pais-do-copiloto-de-voo-da-flydubai_n1769628",
+        "desc": "As autoridades da Austrália confirmaram hoje que estão a investigar alegadas ligações ao país do copiloto de um voo da Flydubai que terá atacado o piloto durante uma viagem para Is…",
+        "fecha": "2026-10-05T08:10:20+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "FPF e JJ dão \"todo o tempo do mundo\" a CR7?",
-        "enlace": "https://observador.pt/programas/resposta-pronta/fpf-e-jj-dao-todo-o-tempo-do-mundo-a-cr7/",
-        "desc": "Pedro Proença garante que Cristiano Ronaldo fará sempre parte do grupo e deixa a porta aberta. Jorge Jesus rejeita pedir desculpas após o abandono do estágio.",
-        "fecha": "2026-10-05T00:36:03+01:00",
+        "titulo": "As notícias das 6h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2515/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-10-05T06:16:06+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Mapa das Eleições 2026: veja ao vivo o resultado para presidente e governador por Estado e cidade",
-        "enlace": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-        "desc": "Neste interativo, você pode acompanhar a apuração dos resultados em tempo real na eleição para presidente e governador em seu Estado e município.",
-        "fecha": "2026-10-04T19:15:47+00:00",
+        "titulo": "Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno",
+        "enlace": "https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Enquanto Lula propõe ampliar o papel do Estado, fortalecer políticas sociais e expandir direitos trabalhistas, Flávio defende uma agenda liberal na economia, a redução de impostos …",
+        "fecha": "2026-10-05T04:33:10+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,17 +702,17 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "7-0: Festival con póquer de Pina en la enésima humillación al Real Madrid",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234564/festival-poquer-pina-enesima-humillacion-real-madrid.html",
-        "desc": "El Real Madrid fue un títere en manos del FC Barcelona . Da igual cuándo lo lea. Las blancas se han reforzado bien este verano, llegaban ilusionadas y con un clima vendido desde la…",
-        "fecha": "2026-10-04T20:55:13+02:00",
+        "titulo": "Iniesta: \"Me encanta ver cómo juegan el Barça y la selección\"",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234488/iniesta-me-encanta-ver-como-juegan-barca-seleccion.html",
+        "desc": "Leyenda viva del Barça y del fútbol mundial, Andrés Iniesta (42 años) hizo un alto en su repleta agenda como nuevo entrenador del Gulf United y su vida familiar con esposa y cinco …",
+        "fecha": "2026-10-05T07:00:00+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Las palabras de Aleksander Sekulic tras la derrota del Barça ante UCAM Murcia",
-        "enlace": "https://www.gigantes.com/liga-endesa/palabras-sekulic-derrota-ucam-murcia/",
-        "desc": "Esto dijo el técnico culé tras el partido La entrada Las palabras de Aleksander Sekulic tras la derrota del Barça ante UCAM Murcia se publicó primero en Gigantes del Basket .",
-        "fecha": "2026-10-04T19:40:08+00:00",
+        "titulo": "Málaga cierra por todo lo alto el ‘Circuito 3×3 CaixaBank’ 2026: más de 12.000 asistentes",
+        "enlace": "https://www.gigantes.com/3x3/malaga-cierra-por-todo-lo-alto-el-circuito-3x3-caixabank-2026-mas-de-12-000-asistentes/",
+        "desc": "Más de 12.000 visitantes disfrutaron de la última parada del mayor festival de baloncesto urbano en España en el Paseo del Muelle Uno, en Málaga. La entrada Málaga cierra por todo …",
+        "fecha": "2026-10-05T06:31:02+00:00",
         "fuente": "Gigantes Basket"
       },
       {
@@ -730,17 +730,17 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "La clasificación de la Liga F Moeve: El Barça ya gana al Madrid por 114-13",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234567/asi-queda-clasificacion-liga-f-moeve-barca-gana-madrid-114-13.html",
-        "desc": "Cuando el Real Madrid absorbió al Club Deportivo Tacon se las prometían muy felices en la capital. Nada más lejos de la realidad porque siete años después, son ya 27 victorias en 2…",
-        "fecha": "2026-10-04T20:59:40+02:00",
+        "titulo": "7-0: Festival con póquer de Pina en la enésima humillación al Real Madrid",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234564/festival-poquer-pina-enesima-humillacion-real-madrid.html",
+        "desc": "El Real Madrid fue un títere en manos del FC Barcelona . Da igual cuándo lo lea. Las blancas se han reforzado bien este verano, llegaban ilusionadas y con un clima vendido desde la…",
+        "fecha": "2026-10-04T20:55:13+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Qué ha pasado en la Liga Endesa: El UCAM Murcia tumba al Barça para cerrar la jornada 2",
-        "enlace": "https://www.gigantes.com/liga-endesa/que-ha-pasado-liga-endesa-jornada2-2026/",
-        "desc": "Repasamos lo más destacado de la segunda jornada La entrada Qué ha pasado en la Liga Endesa: El UCAM Murcia tumba al Barça para cerrar la jornada 2 se publicó primero en Gigantes d…",
-        "fecha": "2026-10-04T19:00:00+00:00",
+        "titulo": "Las palabras de Aleksander Sekulic tras la derrota del Barça ante UCAM Murcia",
+        "enlace": "https://www.gigantes.com/liga-endesa/palabras-sekulic-derrota-ucam-murcia/",
+        "desc": "Esto dijo el técnico culé tras el partido La entrada Las palabras de Aleksander Sekulic tras la derrota del Barça ante UCAM Murcia se publicó primero en Gigantes del Basket .",
+        "fecha": "2026-10-04T19:40:08+00:00",
         "fuente": "Gigantes Basket"
       },
       {
@@ -760,10 +760,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Republic of Ireland draw with Israel in second Nations League meeting",
-        "enlace": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-        "desc": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
-        "fecha": "2026-10-04T21:51:00",
+        "titulo": "Zhuri chases a first success at Yarmouth",
+        "enlace": "https://www.skysports.com/racing/news/12040/13594924/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
+        "desc": "We have a busy day&#8217;s racing on Monday with flat action from Wolverhampton and Yarmouth, live on Sky Sports Racing...",
+        "fecha": "2026-10-05T07:00:00",
         "fuente": "Sky Sports"
       },
       {
@@ -774,10 +774,10 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "'Harry Potter did well, didn't he!?' - Humphries savours Grand Prix success",
-        "enlace": "https://www.skysports.com/darts/live-blog/12040/13595086/world-grand-prix-darts-final-luke-humphries-beats-gerwyn-price-6-4-after-epic-comeback-from-3-0-down-in-leicester",
-        "desc": "",
-        "fecha": "2026-10-04T21:50:00",
+        "titulo": "Republic of Ireland draw with Israel in second Nations League meeting",
+        "enlace": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
+        "desc": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
+        "fecha": "2026-10-04T21:51:00",
         "fuente": "Sky Sports"
       }
     ],
@@ -802,7 +802,7 @@
         "titulo": "Bundestrainer Jürgen Klopp reagiert verständnislos auf Rassismus gegen das DFB-Team",
         "enlace": "https://www.dw.com/de/bundestrainer-jürgen-klopp-reagiert-verständnislos-auf-rassismus-gegen-das-dfb-team/a-79517890?maca=de-rss-de-sport-4020-rdf",
         "desc": "Rassistische Kommentare begleiten die DFB-Elf seit Tagen. Rund um das Spiel gegen Serbien antwortet jeder auf seine Weise: Klopp mit klaren Worten, sein Team mit starkem Auftritt u…",
-        "fecha": "2026-10-05T00:36:19.486650+00:00",
+        "fecha": "2026-10-05T06:42:26.847008+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -816,7 +816,7 @@
         "titulo": "Dank Florian Wirtz: Fußball-Nationalmannschaft holt wichtigen Sieg gegen Serbien",
         "enlace": "https://www.dw.com/de/dank-florian-wirtz-fußball-nationalmannschaft-holt-wichtigen-sieg-gegen-serbien/a-79511561?maca=de-rss-de-sport-4020-rdf",
         "desc": "Im Spiel gegen Serbien zeigt die deutsche Fußball-Nationalmannschaft erfolgreichen \"Klopp-Fußball\". Den Bundestrainer freut es - besonders ein Sorgenkind im DFB-Team zeigt wieder D…",
-        "fecha": "2026-10-05T00:36:19.486690+00:00",
+        "fecha": "2026-10-05T06:42:26.847050+00:00",
         "fuente": "DW Sport"
       },
       {
@@ -863,21 +863,21 @@
         "titulo": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
         "enlace": "https://www.bbc.com/mundo/articles/c62e9knnnnnro?at_medium=RSS&at_campaign=rss",
         "desc": "La mayor democracia de América Latina irá a balotaje el 25 de octubre. Lula lleva la desventaja frente a Bolsonaro ya que históricamente nunca hubo una remontada en una segunda vue…",
-        "fecha": "2026-10-05T00:10:03+00:00",
+        "fecha": "2026-10-05T02:08:03+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Location, location, location: how to edit genes only in the cells you want",
         "enlace": "https://www.nature.com/articles/d41586-026-03037-8",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8 Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
-        "fecha": "2026-10-05T00:36:32.593048+00:00",
+        "fecha": "2026-10-05T06:42:36.506426+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-        "enlace": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-        "desc": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that …",
-        "fecha": "2026-10-04T21:13:07+00:00",
+        "titulo": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+        "enlace": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+        "desc": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the co…",
+        "fecha": "2026-10-05T04:05:00+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -895,24 +895,24 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
-        "enlace": "https://www.bbc.com/mundo/articles/c62e9kx0424do?at_medium=RSS&at_campaign=rss",
-        "desc": "La periodista británica Helen Roberts dijo a la BBC que en Christa Pike conviven dos facetas distintas: una personal y una criminal.",
-        "fecha": "2026-10-04T13:18:21+00:00",
+        "titulo": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
+        "enlace": "https://www.bbc.com/mundo/articles/cqvgjdkrmr7ro?at_medium=RSS&at_campaign=rss",
+        "desc": "El senador derechista pasa fortalecido al balotaje contra el presidente de izquierda tras obtener más votos en la primera vuelta contra varios pronósticos, pero la elección sigue a…",
+        "fecha": "2026-10-05T02:39:05+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
         "enlace": "https://www.nature.com/articles/d41586-026-03057-4",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4 The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum …",
-        "fecha": "2026-10-05T00:36:32.593091+00:00",
+        "fecha": "2026-10-05T06:42:36.506475+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-        "enlace": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-        "desc": "&#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221; That&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a tit…",
-        "fecha": "2026-10-04T19:10:59+00:00",
+        "titulo": "Moon-Like Madagascar",
+        "enlace": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
+        "desc": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+        "fecha": "2026-10-05T04:01:00+00:00",
         "fuente": "NASA EN"
       }
     ],
@@ -921,14 +921,14 @@
         "titulo": "Location, location, location: how to edit genes only in the cells you want",
         "enlace": "https://www.nature.com/articles/d41586-026-03037-8",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8 Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
-        "fecha": "2026-10-05T00:36:36.966707+00:00",
+        "fecha": "2026-10-05T06:42:40.275643+00:00",
         "fuente": "Nature"
       },
       {
         "titulo": "Six biology breakthroughs that should have won a Nobel Prize—but didn’t",
         "enlace": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
         "desc": "Major discoveries, including the role of DNA, the biological basis of psychology, and the human genome, missed out on science’s top recognition",
-        "fecha": "2026-10-05T00:36:37.512613+00:00",
+        "fecha": "2026-10-05T06:42:40.720357+00:00",
         "fuente": "Science"
       },
       {
@@ -939,31 +939,31 @@
         "fuente": "New Scientist"
       },
       {
-        "titulo": "Redefining enterprise intelligence with autonomous AI",
-        "enlace": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-        "desc": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor…",
-        "fecha": "2026-10-02T15:49:04+00:00",
+        "titulo": "EmTech Future 2026: When AI Meets Everything",
+        "enlace": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "desc": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact…",
+        "fecha": "2026-10-05T04:00:00+00:00",
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-        "enlace": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-        "desc": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
-        "fecha": "2026-10-04T15:34:14+00:00",
+        "titulo": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+        "enlace": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+        "desc": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+        "fecha": "2026-10-05T04:00:52+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Nature-strip gardens are a paradise for pollinators in your street",
-        "enlace": "https://phys.org/news/2026-09-nature-gardens-paradise-pollinators-street.html",
-        "desc": "In front of most Australian houses, between the sidewalk and the road, runs a strip of land most people never really think about. In Australia, it's called the nature strip, but it…",
-        "fecha": "2026-10-04T20:30:01-04:00",
+        "titulo": "Sunken Silk Road city reveals Central Asia's lost history",
+        "enlace": "https://phys.org/news/2026-10-sunken-silk-road-city-reveals.html",
+        "desc": "The sun had barely risen, but diving volunteer Elizaveta Bodrova was already raring to plunge into the cold waters of Lake Issyk-Kul, where the ruins of a once-thriving city have l…",
+        "fecha": "2026-10-05T02:38:24-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-        "enlace": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-        "desc": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that …",
-        "fecha": "2026-10-04T21:13:07+00:00",
+        "titulo": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+        "enlace": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+        "desc": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the co…",
+        "fecha": "2026-10-05T04:05:00+00:00",
         "fuente": "NASA"
       },
       {
@@ -1000,7 +1000,7 @@
         "titulo": "Location, location, location: how to edit genes only in the cells you want",
         "enlace": "https://www.nature.com/articles/d41586-026-03037-8",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8 Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
-        "fecha": "2026-10-05T00:36:42.590762+00:00",
+        "fecha": "2026-10-05T06:42:43.854974+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1014,7 +1014,7 @@
         "titulo": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
         "enlace": "https://www.nature.com/articles/d41586-026-03057-4",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4 The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum …",
-        "fecha": "2026-10-05T00:36:42.590803+00:00",
+        "fecha": "2026-10-05T06:42:43.855021+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,28 +1023,28 @@
         "titulo": "\"Superintelligenz\" statt KI: Liegt Donald Trump richtig?",
         "enlace": "https://www.dw.com/de/superintelligenz-statt-ki-liegt-donald-trump-richtig/a-79523704?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Donald Trump findet, \"künstliche Intelligenz\" höre sich \"fake\" an, und hat die US-Behörden angewiesen, stattdessen von \"Superintelligenz\" zu sprechen. Doch warum sollten Tech-Unter…",
-        "fecha": "2026-10-05T00:36:45.540949+00:00",
+        "fecha": "2026-10-05T06:42:46.320802+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Location, location, location: how to edit genes only in the cells you want",
         "enlace": "https://www.nature.com/articles/d41586-026-03037-8",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8 Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
-        "fecha": "2026-10-05T00:36:45.683663+00:00",
+        "fecha": "2026-10-05T06:42:46.457617+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Depression: Autoritäre Erziehung macht Kinder krank",
         "enlace": "https://www.dw.com/de/depression-autoritäre-erziehung-macht-kinder-krank/a-79497580?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Ob Depressionen oder Verhaltensstörungen - psychische Probleme von Kindern hängen oft mit der Erziehung zusammen. Eltern können nicht alles richtig machen, aber es gibt ein paar Di…",
-        "fecha": "2026-10-05T00:36:45.540989+00:00",
+        "fecha": "2026-10-05T06:42:46.320850+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
         "enlace": "https://www.nature.com/articles/d41586-026-03057-4",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4 The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum …",
-        "fecha": "2026-10-05T00:36:45.683703+00:00",
+        "fecha": "2026-10-05T06:42:46.457660+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1053,44 +1053,44 @@
         "titulo": "Location, location, location: how to edit genes only in the cells you want",
         "enlace": "https://www.nature.com/articles/d41586-026-03037-8",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8 Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
-        "fecha": "2026-10-05T00:36:49.591993+00:00",
+        "fecha": "2026-10-05T06:42:49.435733+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
         "enlace": "https://www.nature.com/articles/d41586-026-03057-4",
         "desc": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4 The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum …",
-        "fecha": "2026-10-05T00:36:49.592032+00:00",
+        "fecha": "2026-10-05T06:42:49.435773+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "As notícias da 1h",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2404/",
+        "titulo": "As notícias das 7h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2526/",
         "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-        "fecha": "2026-10-05T01:17:55+01:00",
+        "fecha": "2026-10-05T07:17:28+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Flávio Bolsonaro termina à frente de Lula, e eleição vai ao 2º turno; acompanhe a apuração dos votos",
-        "enlace": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
-        "desc": "Com 99% das urnas apuradas, Flávio tem 47% dos votos, e Lula, 45%. Veja os governadores eleitos no 1º turno, os senadores vencedores e a votação de deputados até agora.",
-        "fecha": "2026-10-05T00:36:52.672929+00:00",
+        "titulo": "Os maiores vencedores e os maiores perdedores do primeiro turno das eleições 2026",
+        "enlace": "https://www.bbc.com/portuguese/articles/c6x2w5x2egd8o?at_medium=RSS&at_campaign=rss",
+        "desc": "Especialistas apontam os personagens e partidos que sagraram-se vencedores e os que sofreram derrotas neste domingo e como eles se posicionarão no xadrez eleitoral das próximas sem…",
+        "fecha": "2026-10-05T04:27:19+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "FPF e JJ dão \"todo o tempo do mundo\" a CR7?",
-        "enlace": "https://observador.pt/programas/resposta-pronta/fpf-e-jj-dao-todo-o-tempo-do-mundo-a-cr7/",
-        "desc": "Pedro Proença garante que Cristiano Ronaldo fará sempre parte do grupo e deixa a porta aberta. Jorge Jesus rejeita pedir desculpas após o abandono do estágio.",
-        "fecha": "2026-10-05T00:36:03+01:00",
+        "titulo": "As notícias das 6h",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2515/",
+        "desc": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+        "fecha": "2026-10-05T06:16:06+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Mapa das Eleições 2026: veja ao vivo o resultado para presidente e governador por Estado e cidade",
-        "enlace": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-        "desc": "Neste interativo, você pode acompanhar a apuração dos resultados em tempo real na eleição para presidente e governador em seu Estado e município.",
-        "fecha": "2026-10-04T19:15:47+00:00",
+        "titulo": "Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno",
+        "enlace": "https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Enquanto Lula propõe ampliar o papel do Estado, fortalecer políticas sociais e expandir direitos trabalhistas, Flávio defende uma agenda liberal na economia, a redução de impostos …",
+        "fecha": "2026-10-05T04:33:10+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1106,21 +1106,21 @@
         "titulo": "El petróleo afloja la presión y el crecimiento mundial sorprende a los mercados",
         "enlace": "https://www.elconfidencial.com/mercados/2026-10-03/mercados-financieros-inversiones-petroleo-bra_4436875/",
         "desc": "La clave pasa por \"preservar la flexibilidad en nuestras inversiones y aplicar la gestión activa, sin sobrerreaccionar a los factores de corto plazo ni a los potenciales episodios …",
-        "fecha": "2026-10-05T00:36:55.742567+00:00",
+        "fecha": "2026-10-05T06:42:53.305199+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Elecciones",
-        "enlace": "https://www.abc.es/economia/jose-ramon-iturriaga-elecciones-20261005013154-nt.html",
-        "desc": "Hoy, probablemente, tras estos últimos días de reflexión , sabremos si finalmente el presidente del Gobierno decide adelantar las elecciones generales. Tras un fin de semana en el …",
-        "fecha": "2026-10-05T01:31:54+02:00",
+        "titulo": "Alfonso Muñoz, funcionario de la Seguridad Social: «Se puede reducir la edad de jubilación de muchos colectivos a los 60 y mantener el 100%»",
+        "enlace": "https://www.abc.es/economia/alfonso-munoz-funcionario-seguridad-social-puede-reducir-20261002053000-nt.html",
+        "desc": "Muchas personas, llegada una cierta edad, intentan estudiar cuál sería su futura edad de jubilación ordinaria. Y después de conocer ese dato, inspeccionan a ver si tienen recursos …",
+        "fecha": "2026-10-05T05:30:08+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-        "desc": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Hou…",
-        "fecha": "2026-10-04T22:17:26+00:00",
+        "titulo": "Horizons Middle East & Africa 10/5/2026 (Video)",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
+        "desc": "",
+        "fecha": "2026-10-05T06:35:30+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1131,9 +1131,9 @@
         "fuente": "CNBC"
       },
       {
-        "titulo": "Iberdrola busca una alianza para vender seguros a sus clientes",
-        "enlace": "https://www.expansion.com/empresas/2026/10/05/6ac2865be5fdeae31a8b456f.html",
-        "desc": "La eléctrica quiere diversificar sus fuentes de ingresos con las comisiones que ingresará por la comercialización de pólizas a sus clientes.&nbsp; Leer",
+        "titulo": "El Supremo blinda que las plataformas subcontraten el servicio de reparto",
+        "enlace": "https://www.expansion.com/economia/2026/10/05/6abff5e8e5fdea7f728b4571.html",
+        "desc": "El Alto Tribunal rechaza que acudir a flotas externas suponga cesión ilegal de empleados y ratifica que las empresas de 'delivery' pueden externalizar la logística si estas funcion…",
         "fecha": "2026-10-05T00:05:11+02:00",
         "fuente": "Expansión"
       },
@@ -1141,21 +1141,21 @@
         "titulo": "Swisscanto AM ficha en Olea Gestión para reforzar su equipo de ventas en España",
         "enlace": "https://www.elconfidencial.com/mercados/2026-10-01/swisscanto-olea-gestion-rafael-segovia-expansion-espana-1hms_4435914/",
         "desc": "El nuevo ejecutivo impulsará la distribución de los fondos de inversión de la firma entre bancas privadas, 'family offices' y asesores independientes, en plena expansión local de l…",
-        "fecha": "2026-10-05T00:36:55.742606+00:00",
+        "fecha": "2026-10-05T06:42:53.305240+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Cómo alquilar seis votos a Junts",
-        "enlace": "https://www.abc.es/economia/john-muller-alquilar-seis-votos-junts-20261004013128-nt.html",
-        "desc": "Que el Gobierno de Pedro Sánchez depende de Junts es la regla que dio vida a su investidura y paralizó esta legislatura. Y el viernes ésta volvió a cumplirse: el primer decreto-ley…",
-        "fecha": "2026-10-05T01:31:28+02:00",
+        "titulo": "Elecciones",
+        "enlace": "https://www.abc.es/economia/jose-ramon-iturriaga-elecciones-20261005013154-nt.html",
+        "desc": "Hoy, probablemente, tras estos últimos días de reflexión , sabremos si finalmente el presidente del Gobierno decide adelantar las elecciones generales. Tras un fin de semana en el …",
+        "fecha": "2026-10-05T01:31:54+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
-        "desc": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to divers…",
-        "fecha": "2026-10-04T23:51:23+00:00",
+        "titulo": "Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
+        "desc": "The euro fell to its weakest since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
+        "fecha": "2026-10-05T03:30:19+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1168,10 +1168,10 @@
     ],
     "economia_en": [
       {
-        "titulo": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-        "desc": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Hou…",
-        "fecha": "2026-10-04T22:17:26+00:00",
+        "titulo": "Horizons Middle East & Africa 10/5/2026 (Video)",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
+        "desc": "",
+        "fecha": "2026-10-05T06:35:30+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1196,10 +1196,10 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
-        "desc": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to divers…",
-        "fecha": "2026-10-04T23:51:23+00:00",
+        "titulo": "Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
+        "desc": "The euro fell to its weakest since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
+        "fecha": "2026-10-05T03:30:19+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-        "desc": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Hou…",
-        "fecha": "2026-10-04T22:17:26+00:00",
+        "titulo": "Horizons Middle East & Africa 10/5/2026 (Video)",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
+        "desc": "",
+        "fecha": "2026-10-05T06:35:30+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
-        "desc": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to divers…",
-        "fecha": "2026-10-04T23:51:23+00:00",
+        "titulo": "Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
+        "desc": "The euro fell to its weakest since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
+        "fecha": "2026-10-05T03:30:19+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Wahlen: Stichwahl in Brasilien – Lula gegen Bolsonaro-Sohn Flávio",
-        "enlace": "https://www.handelsblatt.com/politik/international/wahlen-stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-flavio/100259634.html",
-        "desc": "Nach Auszählung fast aller Stimmen liegt Lula hauchdünn hinter seinem Kontrahenten. Doch für eine Mehrheit reicht das Ergebnis von keinem von beiden.",
-        "fecha": "2026-10-05T00:22:34+00:00",
+        "titulo": "Elektronik: Schneider Electric kündigt Milliardenübernahme von PTC an",
+        "enlace": "https://www.handelsblatt.com/unternehmen/industrie/elektronik-schneider-electric-kuendigt-milliardenuebernahme-von-ptc-an/100259661.html",
+        "desc": "Der französische Konzern wächst wegen des enormen Bedarfs neuer Rechenzentren. Nun steht das Unternehmen vor der Expansion in den USA und verkündet einen Milliardendeal.",
+        "fecha": "2026-10-05T06:38:24+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-        "desc": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Hou…",
-        "fecha": "2026-10-04T22:17:26+00:00",
+        "titulo": "Horizons Middle East & Africa 10/5/2026 (Video)",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
+        "desc": "",
+        "fecha": "2026-10-05T06:35:30+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Präsidentenwahl: Stichwahl in Brasilien: Lula gegen Bolsonaro-Sohn Flávio",
-        "enlace": "https://www.handelsblatt.com/politik/international/praesidentenwahl-stichwahl-in-brasilien-lula-gegen-bolsonaro-sohn-flavio/100259635.html",
-        "desc": "Die Präsidentenwahl in Brasilien geht in eine zweite Runde. Wie vor vier Jahren stehen zwei Namen zur Auswahl: Lula und Bolsonaro. Dieses Mal heißt Lulas Herausforderer allerdings …",
-        "fecha": "2026-10-05T00:13:13+00:00",
+        "titulo": "Sozialdemokraten: Babler kündigt Rückzug als Österreichs Vizekanzler an",
+        "enlace": "https://www.handelsblatt.com/politik/international/sozialdemokraten-babler-kuendigt-rueckzug-als-oesterreichs-vizekanzler-an/100259682.html",
+        "desc": "Finanzminister Marterbauer soll stellvertretender Regierungschef werden – doch seine Ernennung hängt von einer laufenden Krebstherapie ab. Auch andere Fragen bleiben vorerst offen.",
+        "fecha": "2026-10-05T06:37:34+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
-        "desc": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to divers…",
-        "fecha": "2026-10-04T23:51:23+00:00",
+        "titulo": "Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
+        "desc": "The euro fell to its weakest since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
+        "fecha": "2026-10-05T03:30:19+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-        "desc": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Hou…",
-        "fecha": "2026-10-04T22:17:26+00:00",
+        "titulo": "Horizons Middle East & Africa 10/5/2026 (Video)",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
+        "desc": "",
+        "fecha": "2026-10-05T06:35:30+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
-        "desc": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to divers…",
-        "fecha": "2026-10-04T23:51:23+00:00",
+        "titulo": "Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
+        "desc": "The euro fell to its weakest since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
+        "fecha": "2026-10-05T03:30:19+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
+        "titulo": "Open Cosmos equipa constelação ConnectedCosmos com 192 satélites",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/open-cosmos-equipa-constelacao-connectedcosmos-com-192-satelites",
+        "desc": "A empresa está a acelerar a produção de satélites após captar 300 milhões de euros e está a traçar parcerias para conseguir colocar os satélites no espaço.",
+        "fecha": "2026-10-05T07:00:00+01:00",
+        "fuente": "Jornal de Negócios"
+      },
+      {
+        "titulo": "Horizons Middle East & Africa 10/5/2026 (Video)",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-05/horizons-middle-east-africa-10-5-2026-video",
+        "desc": "",
+        "fecha": "2026-10-05T06:35:30+00:00",
+        "fuente": "Bloomberg EN"
+      },
+      {
         "titulo": "Bolsonaro (47%) e Lula (44%) vão disputar a segunda volta a 25 de outubro",
         "enlace": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/bolsonaro-47-e-lula-44-vao-disputar-a-segunda-volta-a-25-de-outubro",
-        "desc": "Candidato da direita parte com vantagem, ficando muito perto do Palácio do Planalto.",
+        "desc": "Candidato da direita parte com vantagem, ficando muito perto do Palácio do Planalto. Nunca um vencedor da primeira volta perdeu a eleição desde a redemocratização do Brasil.",
         "fecha": "2026-10-05T01:01:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
-        "desc": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Hou…",
-        "fecha": "2026-10-04T22:17:26+00:00",
-        "fuente": "Bloomberg EN"
-      },
-      {
-        "titulo": "Proença quer resolver \"mal-entendido\" com Ronaldo e regresso em novembro",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/proenca-quer-resolver-mal-entendido-com-ronaldo-e-regresso-em-novembro",
-        "desc": "O presidente da Federação desvalorizou a atitude do avançado, que abandonou o estágio de Portugal em Copenhaga 24 horas antes do duelo com a Dinamarca, e preferiu apontar o \"amor\" …",
-        "fecha": "2026-10-04T23:59:00+01:00",
-        "fuente": "Jornal de Negócios"
-      },
-      {
-        "titulo": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
-        "desc": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to divers…",
-        "fecha": "2026-10-04T23:51:23+00:00",
+        "titulo": "Euro Falls to 17-Month Low on Region’s Fiscal, Political Risks",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-05/euro-falls-to-17-month-low-on-region-s-fiscal-political-risks",
+        "desc": "The euro fell to its weakest since May 2025 as investor concerns over political and fiscal risks in the region intensified.",
+        "fecha": "2026-10-05T03:30:19+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
