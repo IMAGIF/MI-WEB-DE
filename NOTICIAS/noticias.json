@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-10-14T12:44:55.368079+00:00",
+  "actualizado": "2026-10-14T17:52:01.699575+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Juan José Imbroda, presidente de Melilla, ante el Rey: «Aquí empieza España y Europa»",
-        "enlace": "https://www.abc.es/espana/casa-real/juan-jose-imbroda-presidente-melilla-ante-rey-20261014143000-nt.html",
-        "desc": "El presidente de Melilla , Juan José Imbroda, entregó las llaves de la ciudad al Rey con un discurso en el que reivindicó la historia de este enclave europeo en la costa de África.…",
-        "fecha": "2026-10-14T14:30:00+02:00",
+        "titulo": "Confirmado por el BOE ante riesgo de terremotos en Andalucía: los técnicos marcarán tu casa con estos tres colores si hay daños",
+        "enlace": "https://www.abc.es/espana/andalucia/confirmado-boe-ante-riesgo-terremotos-andalucia-tecnicos-20261014193232-nts.html",
+        "desc": "Cuando tiene lugar un terremoto, una de las mayores preocupaciones de la gente que está fuera de su casa es averiguar si esta ha aguantado el tipo o si puede haber algún peligro cu…",
+        "fecha": "2026-10-14T19:32:32+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta",
+        "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html",
+        "desc": "Bolaños, uno de los ministros con más peso político, ocupará la tercera posición en la lista también por delante del titular de Interior, que será el quinto&nbsp; Leer",
+        "fecha": "2026-10-14T17:35:50+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Un colegio madrileño fuerza a niños a votar para &quot;convertir las calles en una pesadilla para los fascistas del PP&quot;",
+        "enlace": "https://www.libertaddigital.com/madrid/2026-10-14/un-colegio-madrileno-fuerza-a-ninos-a-votar-para-convertir-las-calles-en-una-pesadilla-para-los-fascistas-del-pp-7475948/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "&quot;No quieren paz en las calles, no quieren paz en las aulas. Y si no quieren paz, entonces, qué es lo que quieren&quot;, lanzó la consejera.",
+        "fecha": "2026-10-14T15:44:11+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "La ministra Milagros Tolón, cabeza de lista al Congreso por el PSOE de Toledo",
+        "enlace": "https://theobjective.com/espana/politica/2026-10-14/ministra-tolon-lista-congreso-psoe-toledo/",
+        "desc": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, será la número 1 de la lista al Congreso de los Diputados por el PSOE de [&#8230;]",
+        "fecha": "2026-10-14T17:50:06+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas \"y nada más\"",
+        "enlace": "https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/",
+        "desc": "Feijóo no detalla cómo preservará la viabilidad del sistema y lo vincula a la \"productividad\", la \"competitividad\" y al empleo, sin entrar en una posible reforma del modelo actual:…",
+        "fecha": "2026-10-14T17:52:11.132623+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Disciplina condena al Rayo al cierre parcial de Vallecas por los incidentes ante el Athletic",
+        "enlace": "https://okdiario.com/deportes/disciplina-condena-rayo-cierre-parcial-vallecas-incidentes-athletic-20551619",
+        "desc": "El Rayo Vallecano deberá cerrar parcialmente el estadio de Vallecas tras los incidentes que llevaron a la suspensión del partido ante el Athletic. El Comité de Disciplina de la RFE…",
+        "fecha": "2026-10-14T19:51:48+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "El Rey en Melilla: \"Que nadie confunda con debilidad nuestras convicciones. Estamos preparados para defenderlas\"",
+        "enlace": "https://www.elespanol.com/reportajes/20261014/rey-melilla-nadie-confunda-debilidad-convicciones-preparados-defenderlas/1003744420339_0.html",
+        "desc": "\"España y Marruecos debemos velar siempre por construir y preservar una relación de buena vecindad\", ha subrayado el monarca. Más información: El Rey proclama que \"Ceuta es España\"…",
+        "fecha": "2026-10-14T18:34:11+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "El Rey asume el desafío de Ceuta y Melilla: «Nos vamos con ganas de volver»",
+        "enlace": "https://www.abc.es/espana/casa-real/rey-asume-desafio-ceuta-melilla-vamos-ganas-20261014192729-nt.html",
+        "desc": "Los Reyes respondieron al desafío soberanista de Marruecos sobre Ceuta y Melilla con dos jornadas de baños masivos de cariño. «Estos dos días intensos nos llevan, a la Reina y a mí…",
+        "fecha": "2026-10-14T19:28:12+02:00",
         "fuente": "ABC"
       },
       {
@@ -17,220 +66,171 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Los vocales izquierdistas frustran un comunicado de apoyo del CGPJ a la juez Biedma",
-        "enlace": "https://www.libertaddigital.com/espana/2026-10-14/los-vocales-izquierdistas-frustran-un-comunicado-de-apoyo-del-cgpj-a-la-juez-biedma-7475673/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Los nueve vocales &quot;autodenominados progresistas&quot; han mostrado su &quot;oposición frontal&quot;, señalan fuentes del CGPJ a LD.",
-        "fecha": "2026-10-14T12:09:47+02:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "Montse Mínguez, más allá del PSOE: 50 años, divorciada, sus dos hijos, su pareja ‘rentista’, su afición al pilates y al pádel, su pasado en la universidad y sus casas declaradas",
-        "enlace": "https://theobjective.com/gente/2026-10-14/montse-minguez-mas-alla-del-psoe-50-anos-divorciada-sus-dos-hijos-su-pareja-rentista-su-aficion-al-pilates-y-al-padel-su-pasado-en-la-universidad-y-sus-casas-declaradas/",
-        "desc": "Montse Mínguez se encuentra de plena actualidad política por las informaciones sobre los negocios inmobiliarios de su pareja, Sergi Vélez Viola. El empresario está vinculado a [&#8…",
-        "fecha": "2026-10-14T12:42:32+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "Imbroda agradece a los Reyes su visita: \"Hoy comienza una nueva Melilla, nos da confianza\"",
-        "enlace": "https://www.elconfidencial.com/espana/2026-10-14/imbroda-reyes-melilla-espana-1tna-1tps_4444787/",
-        "desc": "El dirigente autonómico destaca el respaldo recibido ante la crisis migratoria y reclama mayor presencia estatal para reforzar la seguridad y el desarrollo socioeconómico",
-        "fecha": "2026-10-14T12:44:57.008786+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Última hora de la visita de los Reyes a Melilla, elecciones del 29-N y la actualidad política en directo hoy",
-        "enlace": "https://okdiario.com/espana/ultima-hora-visita-reyes-melilla-elecciones-del-29-n-actualidad-politica-directo-hoy-20544175",
-        "desc": "La actualidad informativa de este miércoles 14 de octubre pasa por la primera visita que los Reyes Felipe VI y Letizia realizarán a Melilla, donde se espera que reciban una acogida…",
-        "fecha": "2026-10-14T14:40:37+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "El Rey, acogido en Melilla con el mismo entusiasmo que en Ceuta tras proclamar que son parte de España y de la UE",
-        "enlace": "https://www.elespanol.com/reportajes/20261014/reyes-llegan-melilla-clamor-popular-ceuta-firme-defensa-felipe-vi-soberania-espanola/1003744419444_0.html",
-        "desc": "La ciudad autónoma ha amanecido este miércoles engalanada con la bandera nacional en sus balcones y con ornamentación floral. Más información: Felipe VI supedita \"la buena relación…",
-        "fecha": "2026-10-14T12:26:19+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "Toledo recepciona las obras del Centro de Mayores de Buenavista y prevé abrirlo tras el 29-N",
-        "enlace": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-recepciona-obras-centro-mayores-buenavista-preve-20261014142808-nt.html",
-        "desc": "El Centro de Mayores de Buenavista está un paso más cerca de abrir sus puertas. El Ayuntamiento de Toledo ya ha recepcionado las obras de las instalaciones, según ha anunciado el p…",
-        "fecha": "2026-10-14T14:28:09+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "El Tribunal Supremo ratifica la condena a Ábalos y Koldo y despeja la vía de acudir al TC",
-        "enlace": "https://www.elmundo.es/espana/2026/10/14/6acf664fe4d4d8d2338b45b5.html",
-        "desc": "La desestimación de los incidentes de nulidad presentados contra la sentencia que condenó a 24 años de prisión a Ábalos y a 19 a Koldo, agota la vía ordinaria&nbsp; Leer",
-        "fecha": "2026-10-14T13:36:07+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "Cerco al Gobierno: exigen a la juez los datos del CNI sobre la invasión naval marroquí en Ceuta",
-        "enlace": "https://www.libertaddigital.com/espana/2026-10-14/la-acusacion-popular-pide-a-tardon-que-investigue-si-los-buques-marroquies-invadieron-el-espacio-maritimo-espanol-7475703/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Pide requerimientos a Defensa y Exteriores, así como al CNI para esclarecer la entrada de buques de guerra marroquíes durante la invasión.",
-        "fecha": "2026-10-14T12:32:44+02:00",
+        "titulo": "Margarita Robles, &quot;la pájara&quot;, será la dos de Sánchez en las listas del PSOE para Madrid",
+        "enlace": "https://www.libertaddigital.com/espana/politica/2026-10-14/margarita-robles-la-pajara-sera-la-dos-de-sanchez-en-las-listas-del-psoe-para-madrid-7476061/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "La ministra de Defensa tachó de &quot;machistas&quot; esas palabras.",
+        "fecha": "2026-10-14T17:25:02+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "Six Flags rider who fell to his death was in remission from cancer, survived 'crazy' car fire, sister says",
-        "enlace": "https://www.foxnews.com/us/six-flags-rider-fell-death-remission-cancer-survived-crazy-car-fire-sister-says",
-        "desc": "Six Flags Over Georgia&apos;s Goliath roller coaster remains under investigation after Hassan Kariem fell from the 200-foot-tall ride during a park visit.",
-        "fecha": "2026-10-14T08:14:19-04:00",
+        "titulo": "Great Wolf Lodge family massacre blew up during ‘uncommon’ three-week stay at pricey resort, officials say",
+        "enlace": "https://www.foxnews.com/us/great-wolf-lodge-family-massacre-blew-up-during-uncommon-three-week-stay-pricey-resort-officials-say",
+        "desc": "Metallica Rose Harrison allegedly used butcher knives to kill her husband and 3-year-old son during a three-week stay at Great Wolf Lodge resort.",
+        "fecha": "2026-10-14T12:49:45-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-        "enlace": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
-        "desc": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung canc…",
-        "fecha": "2026-10-14T07:38:51-04:00",
+        "titulo": "Inflation sizzled in September — and Social Security benefits will get a boost",
+        "enlace": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+        "desc": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
+        "fecha": "2026-10-14T09:33:44-04:00",
         "fuente": "NPR"
       },
       {
-        "titulo": "Vance gives pointed warning after federal raid on Ilhan Omar's home and more top headlines",
-        "enlace": "https://www.foxnews.com/us/vance-gives-pointed-warning-after-federal-raid-ilhan-omars-home-more-top-headlines",
-        "desc": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-        "fecha": "2026-10-14T07:40:16-04:00",
+        "titulo": "Wisconsin plane crash kills 5 adults, child as authorities probe final communications with air traffic control",
+        "enlace": "https://www.foxnews.com/us/wisconsin-plane-crash-kills-5-adults-child-authorities-probe-final-communications-air-traffic-control",
+        "desc": "A Piper PA-46 crashed in a wooded area in Sauk County, Wisconsin Tuesday night, killing all six people aboard including a child. The FAA is investigating.",
+        "fecha": "2026-10-14T11:57:52-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "These workers help train robots who could one day steal their jobs",
-        "enlace": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
-        "desc": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
-        "fecha": "2026-10-14T05:28:47-04:00",
+        "titulo": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+        "enlace": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+        "desc": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+        "fecha": "2026-10-14T09:00:00-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Pesca en Córdoba: qué truchas y dorados se pueden capturar desde octubre y cuáles son las reglas",
-        "enlace": "https://www.clarin.com/informacion-general/pesca-cordoba-truchas-dorados-pueden-capturar-octubre-reglas_0_ym5i9kRsMc.html",
-        "desc": "Ante el inicio de la temporada, las autoridades buscan evitar la liberación o incorporación de ejemplares en ambientes donde no corresponden.",
-        "fecha": "2026-10-14T12:20:57+00:00",
+        "titulo": "Alerta por un hongo que infecta el cerebro y tiene 70% de tasa de mortalidad: se cuadruplicaron los casos y los científicos no saben por qué",
+        "enlace": "https://www.clarin.com/estados-unidos/alerta-hongo-infecta-cerebro-70-tasa-mortalidad-cuadruplicaron-casos-cientificos-saben_0_5L1UKrEXk3.html",
+        "desc": "Un informe de los Centros para el Control y la Prevención de Enfermedades de Estados Unidos identificó un aumento de infecciones por un hongo poco frecuente.",
+        "fecha": "2026-10-14T17:23:00+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Murió el excampeón mundial de boxeo Jorge “Locomotora” Castro a los 59 años",
-        "enlace": "https://www.lanacion.com.ar/deportes/boxeo/fallecio-el-excampeon-mundial-de-boxeo-jorge-el-rona-castro-nid14102026/",
-        "desc": "Se descompensó en un bingo de Morón; desde hace años sostenía comedores y merenderos en el conurbano",
-        "fecha": "2026-10-14T12:40:53+00:00",
+        "titulo": "Sorpresa en el tenis: se retiró Gael Monfils, pese a que había anunciado más torneos en la temporada",
+        "enlace": "https://www.lanacion.com.ar/deportes/tenis/sorpresa-en-el-tenis-se-retiro-gael-monfils-pese-a-que-habia-anunciado-mas-torneos-en-la-temporada-nid14102026/",
+        "desc": "Tras disputar el US Open, el jugador de 40 años tenía proyectado actuar en Lyon y tener una última función en el Masters 1000 de París, pero salió del sistema antidopaje",
+        "fecha": "2026-10-14T17:48:20+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "La muerte del Roña Castro: su icónica mano a John David Jackson que lo convirtió para siempre en un ídolo de boxeo",
-        "enlace": "https://www.clarin.com/deportes/muerte-rona-castro-iconica-mano-john-david-jackson-convirtio-siempre-idolo-boxeo_0_XhSvLuxso4.html",
-        "desc": "Aquella noche entró en la historia como una de las grandes hazañas del deporte argentino. El excampeón del mundo perdía por paliza ante el estadounidense, hasta que pasó lo imposib…",
-        "fecha": "2026-10-14T12:19:50+00:00",
+        "titulo": "La Matanza: un alumno baleó a un compañero en el baño de una escuela",
+        "enlace": "https://www.clarin.com/sociedad/matanza-alumno-baleo-companero-bano-escuela_0_oeKeU38qiA.html",
+        "desc": "El dramático hecho ocurrió en un colegio de la localidad de Villa Dorrego, y el agresor fue demorado. La víctima fue herida en el abdomen y el brazo.",
+        "fecha": "2026-10-14T17:22:33+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Detuvieron a dos ladrones que quisieron escaparse con una moto robada desde Flores hasta el Barrio Zavaleta",
-        "enlace": "https://www.lanacion.com.ar/seguridad/detuvieron-a-dos-ladrones-que-quisieron-escaparse-con-una-moto-robada-desde-flores-hasta-el-barrio-nid14102026/",
-        "desc": "Tienen 17 y 18 años; el rodado tenía un pedido de secuestro vigente por un robo agravado cometido en septiembre",
-        "fecha": "2026-10-14T12:40:37+00:00",
+        "titulo": "“Locomotora” Castro: hijo de la calle y la pelea, dueño de la grandeza de los campeones del pueblo",
+        "enlace": "https://www.lanacion.com.ar/deportes/boxeo/locomotora-castro-hijo-de-la-calle-y-la-pelea-dueno-de-la-grandeza-de-los-campeones-del-pueblo-nid14102026/",
+        "desc": "Formó parte de un triunvirato pugilístico inolvidable junto a los santafesinos Julio César Vásquez y Juan Martin Coggi, en los gloriosos años 90; por su personalidad, todos estuvie…",
+        "fecha": "2026-10-14T17:47:23+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "« On veut servir de catapulte au mouvement lycéen » : la mobilisation prend de l’ampleur dans les grandes écoles",
-        "enlace": "https://www.lemonde.fr/campus/article/2026/10/14/je-suis-une-privilegiee-mais-je-revendique-un-systeme-plus-egalitaire-le-mouvement-lyceen-inspire-les-etudiants-des-grandes-ecoles_6793711_4401467.html",
-        "desc": "Les étudiants des établissements d’élite ont rejoint le mouvement lycéen début octobre. Même si leurs conditions d’études sont favorables, ils se disent solidaires des revendicatio…",
-        "fecha": "2026-10-14T11:21:27+02:00",
+        "titulo": "Mouvement lycéen : pourquoi les 3 000 professeurs remplaçants promis par Edouard Geffray ne couvriront pas toutes les absences",
+        "enlace": "https://www.lemonde.fr/societe/article/2026/10/14/mouvement-lyceen-pourquoi-les-3-000-professeurs-remplacants-promis-par-edouard-geffray-ne-couvriront-pas-toutes-les-absences_6793784_3224.html",
+        "desc": "Le ministre de l’éducation nationale a indiqué, mercredi 14 octobre au Sénat, que les deux tiers des remplaçants disponibles avaient été affectés. Une réponse qui ne satisfait pas …",
+        "fecha": "2026-10-14T19:01:27+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "EN DIRECT - Présidentielle 2027 : Marine Le Pen se dit prête au «bras de fer» avec l’UE sur le budget européen et met en cause Ursula von der Leyen",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-la-gauche-est-renforcee-par-la-multiplicite-des-candidatures-selon-fabien-roussel-20261014",
-        "desc": "La patronne du RN prépare le terrain avant de se rendre dans la soirée à Bruxelles pour une réunion avec ses alliés européens.",
-        "fecha": "2026-10-14T14:41:03+02:00",
+        "titulo": "80 milliards de dépenses, festival d’impôts : le budget coup de poing de Jean-Luc Mélenchon en cas d’élection",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/programmes/80-milliards-de-depenses-festival-d-impots-le-budget-coup-de-poing-de-jean-luc-melenchon-en-cas-d-election-20261014",
+        "desc": "DÉCRYPTAGE - Le candidat à la présidentielle a détaillé mercredi les mesures économiques qu’il prendrait dès son arrivée à l’Élysée.",
+        "fecha": "2026-10-14T18:37:11+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "L’Arabie saoudite touchée au cœur de son économie par les rebelles houthis",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261014-l-arabie-saoudite-touch%C3%A9e-au-c%C5%93ur-de-son-%C3%A9conomie-par-les-rebelles-houthis",
-        "desc": "Les rebelles houthis accentuent la pression sur l’Arabie saoudite, avec notamment une frappe visant un site pétrolier d’Aramco. Au-delà des dégâts matériels, ces attaques font pese…",
-        "fecha": "2026-10-14T12:06:50+00:00",
+        "titulo": "Éthiopie : comment la désinformation sur les réseaux sociaux brouille la réalité de la guerre",
+        "enlace": "https://www.france24.com/fr/afrique/20261014-%C3%A9thiopie-comment-la-d%C3%A9sinformation-sur-les-r%C3%A9seaux-sociaux-brouille-la-r%C3%A9alit%C3%A9-de-la-guerre",
+        "desc": "En Éthiopie, la reprise des combats au Tigré s'accompagne d'une autre bataille, moins visible mais tout aussi déterminante : celle de l’information. Sur les réseaux sociaux, des vi…",
+        "fecha": "2026-10-14T17:40:15+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "L’usine Duralex aux verres emblématiques reprise par Tomé, déjà propriétaire de Tupperware France",
-        "enlace": "https://www.lemonde.fr/economie/article/2026/10/14/l-usine-duralex-aux-verres-iconiques-reprise-par-tome-deja-proprietaire-de-tupperware-france_6793735_3234.html",
-        "desc": "Le tribunal de commerce d’Orléans a choisi, mercredi, la mieux-disante des deux offres industrielle pour la cession de l’entreprise placée en redressement judiciaire depuis juin, d…",
-        "fecha": "2026-10-14T14:07:51+02:00",
+        "titulo": "Au Groenland, Donald Trump n’a pas abandonné ses visées sur le pétrole",
+        "enlace": "https://www.lemonde.fr/international/article/2026/10/14/au-groenland-donald-trump-n-a-pas-abandonne-ses-visees-sur-le-petrole_6793780_3210.html",
+        "desc": "En 2021, le territoire autonome danois a décidé d’interdire la production d’hydrocarbures. L’entreprise américaine Greenland Energy espère prendre le contrôle des trois licences d’…",
+        "fecha": "2026-10-14T18:58:28+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "«C’est juste fou» : David Lisnard, les coulisses d’une accélération",
-        "enlace": "https://www.lefigaro.fr/elections/presidentielles/c-est-juste-fou-immersion-dans-les-coulisses-de-la-campagne-de-david-lisnard-en-pleine-acceleration-20261014",
-        "desc": "REPORTAGE - Le candidat de Nouvelle Énergie se réjouit d’avoir franchi la barre des 54.000 adhérents et observe une dynamique sur les réseaux sociaux. «Il vaut mieux gérer la crois…",
-        "fecha": "2026-10-14T14:36:03+02:00",
+        "titulo": "Présidentielle 2027 : David Lisnard double Bruno Retailleau à droite, selon un sondage",
+        "enlace": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-david-lisnard-double-bruno-retailleau-a-droite-selon-un-sondage-20261014",
+        "desc": "DÉCRYPTAGE - En cas de candidatures simultanées du patron de LR et de son homologue de Nouvelle Énergie, le premier atteint la cote d’alerte, selon une étude Ifop-Fiducial pour LCI…",
+        "fecha": "2026-10-14T19:36:21+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "L'Ukraine lâchée par les renseignements américains et Starlink ?",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261014-l-ukraine-l%C3%A2ch%C3%A9e-par-les-renseignements-am%C3%A9ricains-et-starlink",
-        "desc": "Alors que l'Ukraine a subi une nouvelle nuit de frappes russes, les sirènes ont dysfonctionné, et Starlink \"semble avoir été restreint\", ce qui pourrait être une conséquence aux te…",
-        "fecha": "2026-10-14T11:40:09+00:00",
+        "titulo": "Avec un chiffrage désormais officiel, les aides aux entreprises entrent dans le débat",
+        "enlace": "https://www.france24.com/fr/france/20261014-france-premier-chiffrage-officiel-aides-publiques-aux-entreprises-166-milliards-euros",
+        "desc": "Le gouvernement a publié mardi le premier chiffrage officiel des aides publiques apportées aux entreprises. Elles oscillent en 2024 entre 60 milliards et 166 milliards d'euros, sel…",
+        "fecha": "2026-10-14T17:25:56+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Türkei: Forscher entdecken Spuren von ältestem bekannten Schiffswrack der Welt",
-        "enlace": "https://www.spiegel.de/wissenschaft/technik/tuerkei-forscher-entdecken-spuren-von-aeltestem-bekannten-schiffswrack-der-welt-a-01c2f22a-d0dd-45bc-b221-ade77370c680#ref=rss",
-        "desc": "Es fuhr über das Mittelmeer, als gerade die Pyramiden gebaut wurden: Forschende haben Reste eines 4500 Jahre alten Wracks gefunden. Sollte das Schiff Wein nach Troja bringen?",
-        "fecha": "2026-10-14T14:35:00+02:00",
+        "titulo": "Radsport: Valentina Cavallar beklagt Dopingprobe kurz nach dem Tod ihrer Mutter",
+        "enlace": "https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss",
+        "desc": "Radrennfahrerin Valentina Cavallar hat eine für sie verstörende Dopingkontrolle öffentlich gemacht und den Umgang mit Profisportlern kritisiert. Die zuständige Agentur bat nach Med…",
+        "fecha": "2026-10-14T19:40:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Pflege: Bundesregierung benennt Mitglieder der Pflegekommission",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/pflegestrukturkommission-bundeskabinett-carsten-linnemann-pflegereform",
-        "desc": "Die Pflegekommission kann mit ihrer Arbeit beginnen: Das Bundeskabinett hat offiziell die 13 Mitglieder einberufen. Ende Januar werden erste Ergebnisse erwartet.",
-        "fecha": "2026-10-14T12:37:16",
+        "titulo": "Palestine Action: Autorin Sally Rooney nimmt Bücher von britischem Markt",
+        "enlace": "https://www.zeit.de/feuilleton/2026-10/sally-rooney-palestine-action-buecher-grossbritannien-verbot",
+        "desc": "Bestsellerautorin Sally Rooney stellt sich gegen die Einstufung einer propalästinensischen Gruppe in Großbritannien. Ihre Bücher werden dort nicht mehr verkauft.",
+        "fecha": "2026-10-14T17:36:33",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Lufthansa erhält Zuschlag für portugiesische TAP",
-        "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-gewinnt-bieterrennen-um-portugiesische-tap-a-94b1fa05-0e14-4f74-9003-57fb08af5dd7#ref=rss",
-        "desc": "Die Lufthansa kann bei der portugiesischen Fluggesellschaft TAP einsteigen. Die deutsche ​Airline erhält den Zuschlag für einen Anteil von 44,9 Prozent und ‌hat sich damit gegen de…",
-        "fecha": "2026-10-14T14:23:00+02:00",
+        "titulo": "Abi in Hamburg: Schulen sollen bald Ukrainisch als Abiturfach anbieten",
+        "enlace": "https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten-a-ce62693d-afbf-4913-b163-02348215b883#ref=rss",
+        "desc": "Mehr als 5000 ukrainischsprachige Kinder und Jugendliche besuchen derzeit Schulen in Hamburg. Die Bürgerschaft will die Sprache nun als Prüfungsfach im Abitur anerkennen lassen.",
+        "fecha": "2026-10-14T19:40:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Fluggesellschaften: Lufthansa erhält Zuschlag für Einstieg bei portugiesischer TAP",
-        "enlace": "https://www.zeit.de/wirtschaft/2026-10/lufthansa-tap-air-portugal-anteile-teilprivatisierung",
-        "desc": "Die Lufthansa hat von Portugals Regierung den Zuschlag für einen Anteil von 44,9 Prozent an der Airline TAP erhalten. Damit setzte sie sich gegen Air France-KLM durch.",
-        "fecha": "2026-10-14T12:32:42",
+        "titulo": "Koalition in Berlin: Bundes-Grüne geben Berliner Landesverband bei Sondierung freie Hand",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/koalition-berlin-gruene-spd-linke-antsemitismus-felix-banaszak",
+        "desc": "Nach der Unterbrechung der Sondierungen mit der Linken hat die Grünen-Bundesspitze die Autonomie des Berliner Landesverbandes betont. Die Entscheidung bleibe in Berlin.",
+        "fecha": "2026-10-14T17:21:26",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Najmeh Amini, 23 anni, condannata a morte in Iran per un post sui social giudicato “blasfemo”",
-        "enlace": "https://www.repubblica.it/esteri/2026/10/14/news/najmeh_amini_condannata_morte_iran_post_social-425647446/",
-        "desc": "La studentessa è stata arrestata a gennaio, durante le proteste anti-governative. L’appello: “Non voglio fare l’eroina ma la mia voce sia ascoltata”",
-        "fecha": "2026-10-14T12:20:24+00:00",
+        "titulo": "Aveva armi in casa e scriveva post violenti e di estrema destra: arrestato 19enne suprematista",
+        "enlace": "https://milano.repubblica.it/cronaca/2026/10/14/news/suprematista_19_anni_arrestato_voghera-425648152/",
+        "desc": "L’operazione della Digos di Milano a Voghera, nel Pavese. Il ragazzo è indagato anche per propaganda e istigazione per motivi religiosi",
+        "fecha": "2026-10-14T16:57:49+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Sticker di un cobra, led e alettone: la minicar delle aggressioni a Roma era parcheggiata sotto casa",
-        "enlace": "https://roma.repubblica.it/cronaca/2026/10/14/news/minicar_aggressioni_roma_cobra_led_alettone_adesivo_officina_parcheggiata_sotto_casa-425647430/",
-        "desc": "Nera, con l’assetto sportivo, i cerchioni personalizzati e le luci rosse. Per dieci giorni è stata la macchina più ricercata di Roma. A mettere gli investigatori sulla pista giusta…",
-        "fecha": "2026-10-14T11:56:54+00:00",
+        "titulo": "“Te possino dà tante cortellate”: minacce social alla sindaca di Brescia. Lei sporge denuncia",
+        "enlace": "https://milano.repubblica.it/cronaca/2026/10/14/news/minacce_social_sindaca_brescia_castelletti_denuncia_odio_diverso_razzismo_social-425648104/",
+        "desc": "Gli insulti sotto una foto in cui Castelletti è insieme a un rapper bresciano figlio di genitori stranieri: “Abbiamo visto crescere un odio social preoccupante verso il diverso”",
+        "fecha": "2026-10-14T16:37:56+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
-        "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-        "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "fecha": "2026-10-14T11:32:07+00:00",
+        "titulo": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+        "enlace": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+        "desc": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+        "fecha": "2026-10-14T16:22:28+00:00",
         "fuente": "BBC"
       },
       {
@@ -241,10 +241,10 @@
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Watch: Block of flats in ruins after Russian strikes on Ukraine",
-        "enlace": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-        "desc": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
-        "fecha": "2026-10-14T09:25:03+00:00",
+        "titulo": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+        "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+        "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+        "fecha": "2026-10-14T13:11:17+00:00",
         "fuente": "BBC"
       },
       {
@@ -257,237 +257,272 @@
     ],
     "nacional_pt": [
       {
-        "titulo": "Robot apalpa adolescente na Alemanha. Proprietário está a ser investigado",
-        "enlace": "https://www.publico.pt/2026/10/14/impar/noticia/robot-apalpa-adolescente-alemanha-proprietario-investigado-2191337",
-        "desc": "“Até agora, não tínhamos conhecimento deste fenómeno”, lamentam as autoridades, que divulgaram o incidente nas redes sociais. Robot estava a ser controlado por outro adolescente.",
-        "fecha": "2026-10-14T11:49:48+00:00",
+        "titulo": "Descoberto fóssil de nova ninfa semelhante a uma libélula com 298 milhões de anos",
+        "enlace": "https://www.publico.pt/2026/10/14/ciencia/noticia/descoberto-fossil-nova-ninfa-semelhante-libelula-298-milhoes-anos-2191343",
+        "desc": "A descoberta foi feita em xistos do Carbonífero Superior numa exploração de carvão a céu aberto na mina da Paraduça, no Pejão, distrito de Aveiro.",
+        "fecha": "2026-10-14T16:45:40+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Se Passos Coelho voltar vai conseguir unir a direita?",
-        "enlace": "https://observador.pt/programas/realpolitik/se-passos-coelho-voltar-vai-conseguir-unir-a-direita/",
-        "desc": "No \"Realpolitik\", Sérgio Sousa Pinto e Miguel Pinheiro falam sobre a entrevista de Passos Coelho e respondem a um ouvinte que pediu sugestões de livros sobre política.",
-        "fecha": "2026-10-14T13:35:57+01:00",
+        "titulo": "OE. PS diz que retirou ao Chega possibilidade de chantagear",
+        "enlace": "https://observador.pt/2026/10/14/oe2027-ps-diz-que-abstencao-retira-ao-chega-possibilidade-de-chantagear-o-pais/",
+        "desc": "O documento tem aprovação garantida uma vez que o PS já anunciou a abstenção",
+        "fecha": "2026-10-14T18:44:40+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Escola da Parede abriu processo disciplinar a professora acusada de discurso de ódio",
-        "enlace": "https://www.publico.pt/2026/10/14/sociedade/noticia/escola-parede-abriu-processo-disciplinar-professora-acusada-discurso-odio-2191238",
-        "desc": "Inspecção-Geral da Educação está a acompanhar o caso. Pais denunciaram comentários como “deviam ir para a vossa terra”, “sou portuguesa de origem”, os imigrantes estão a “estragar …",
-        "fecha": "2026-10-14T11:30:35+00:00",
+        "titulo": "Sindicato Cena-STE critica Casa da Música por convidar banda israelita para festival",
+        "enlace": "https://www.publico.pt/2026/10/14/culturaipsilon/noticia/sindicato-cenaste-critica-casa-musica-convidar-banda-israelita-festival-2191397",
+        "desc": "Segundo o sindicato, os Yemen Blues são “coniventes com o regime sionista”, integrando “elementos que vêm de colonatos construídos sobre território roubado a comunidades palestinia…",
+        "fecha": "2026-10-14T16:41:41+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Extraditado português suspeito de homicídio em Manchester",
-        "enlace": "https://observador.pt/2026/10/14/extraditado-portugues-suspeito-de-homicidio-em-confronto-de-gangues-em-manchester/",
-        "desc": "Presente ao Tribunal da Relação de Lisboa no dia 7 de outubro, foi-lhe determinada a extradição para o Reino Unido, agora cumprida",
-        "fecha": "2026-10-14T13:22:56+01:00",
+        "titulo": "O que ganha Portugal com a privatização da TAP?",
+        "enlace": "https://observador.pt/programas/explicador/o-que-ganha-portugal-com-a-privatizacao-da-tap/",
+        "desc": "Filipe Costa (PS) rejeita privatização total e defende os 49,9%. Jorge Miguel Teixeira (IL) defende venda a 100%, mas pede clareza. Gonçalo Lage (PSD) rejeita dúvidas e destaca o p…",
+        "fecha": "2026-10-14T18:35:35+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "Flávio Bolsonaro volta atrás e agora diz que vai a debate da Band no domingo",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-volta-atras-e-agora-diz-que-vai-a-debate-da-band-no-domingo.shtml",
-        "desc": "O candidato pelo PL à presidência, Flávio Bolsonaro , disse nesta quarta-feira (14) que decidiu ir ao debate presidencial promovido pela rede Bandeirantes, no domingo (18). O senad…",
-        "fecha": "2026-10-14T09:10:00-03:00",
+        "titulo": "Investigadores devem fatiar caso de Flávio Bolsonaro em 'Dark Horse' e concluir primeiro suspeitas sobre Vorcaro",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/investigadores-avaliam-fatiar-dark-horse-e-so-apurar-caso-de-flavio-apos-concluir-suspeitas-sobre-vorcaro.shtml",
+        "desc": "Investigadores que trabalham no inquérito do caso \" Dark Horse \" analisam a possibilidade de fatiamento das apurações e de uma conclusão célere da parte mais avançada, que trata de…",
+        "fecha": "2026-10-14T13:05:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Ambulância bate em cavalo na Estrada da Produção, em Montes Claros; animal morreu no local",
-        "enlace": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/14/ambulancia-bate-em-cavalo-na-estrada-da-producao-em-montes-claros-animal-morreu-no-local.ghtml",
-        "desc": "Ambulância atingiu um cavalo na Estrada da Produção Samu/Divulgação Uma ambulância atingiu um cavalo na LMG-657, conhecida como Estrada da Produção, em Montes Claros, na noite dest…",
-        "fecha": "2026-10-14T12:42:29",
+        "titulo": "Homem morre após acidente de caminhão na BR-393, em Volta Redonda",
+        "enlace": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/14/homem-morre-apos-acidente-de-caminhao-na-br-393-em-volta-redonda.ghtml",
+        "desc": "IML de Volta Redonda Foto: Annia Brum Um homem morreu após um acidente de caminhão nesta quarta-feira (14) na BR-393, em Volta Redonda (RJ). O caso aconteceu na altura do km 255. S…",
+        "fecha": "2026-10-14T17:43:53",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/ex-ministro-de-fhc-pedro-parente-nao-declara-voto-mas-ve-em-flavio-risco-de-concentracao-de-poder-com-vitoria-da-direita-no-congresso.shtml",
-        "desc": "Ex-ministro da Casa Civil e do Planejamento no governo Fernando Henrique Cardoso , ex-presidente da Petrobras e da BRF, Pedro Parente afirma que o resultado do primeiro turno mudou…",
-        "fecha": "2026-10-14T08:26:00-03:00",
+        "titulo": "Lula é aconselhado por aliados e avalia ir ao Senado caso fim da 6x1 seja aprovado",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lula-e-aconselhado-por-aliados-e-avalia-ir-ao-senado-caso-fim-da-6x1-seja-aprovado.shtml",
+        "desc": "Aliados do presidente Lula ( PT ) aconselham o petista a ir ao Senado caso o fim da jornada de trabalho 6x1 seja aprovado na Casa. Os parlamentares votam nesta quarta-feira (14) so…",
+        "fecha": "2026-10-14T13:02:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Avanço de portos, pecuária e seca ameaçam pesca artesanal no Maicá e Ituqui, em Santarém, aponta estudo",
-        "enlace": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/14/avanco-de-portos-pecuaria-e-seca-ameacam-pesca-artesanal-no-maica-e-ituqui-em-santarem-aponta-estudo.ghtml",
-        "desc": "Nível do Rio Tapajós atingiu a marca de 1,85 metro nesta quarta-feira (14). O rio continua baixando rapidamente, o que acende o alerta e aumenta a preocupação de moradores com o ri…",
-        "fecha": "2026-10-14T12:42:27",
+        "titulo": "Fiscalização apreende peixes vivos e equipamento de pesca durante defeso na Laguna de Araruama",
+        "enlace": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/14/fiscalizacao-apreende-peixes-vivos-e-equipamento-de-pesca-durante-defeso-na-laguna-de-araruama.ghtml",
+        "desc": "Os itens ficaram à disposição da autoridade policial para os procedimentos cabíveis. SEMAM Araruama Uma vara de pesca com molinete e um saco com peixes vivos foram apreendidos na n…",
+        "fecha": "2026-10-14T17:40:54",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
+      {
+        "titulo": "Kobe sees off Jeonbuk to claim second Asian Champions League win",
+        "enlace": "https://www.japantimes.co.jp/sports/2026/10/14/soccer/kobe-jeonbuk-asian-champions-league/",
+        "desc": "The win moved Kobe level with compatriots Kashima Antlers and Gamba Osaka as well as China's Beijing Guoan on six points.",
+        "fecha": "2026-10-14T22:09:00+09:00",
+        "fuente": "Japan Times"
+      },
       {
         "titulo": "Hitachi eyes small nuclear reactors in Japan as power costs rise",
         "enlace": "https://www.japantimes.co.jp/business/2026/10/14/hitachi-small-nuclear-reactors/",
         "desc": "Small modular reactors, having capacity of 300 megawatts or less, are increasingly seen as a way to decarbonize energy.",
         "fecha": "2026-10-14T21:05:00+09:00",
         "fuente": "Japan Times"
-      },
-      {
-        "titulo": "Program helps children with developmental issues through theater",
-        "enlace": "https://www.japantimes.co.jp/news/2026/10/14/japan/theater-developmental-issues/",
-        "desc": "Nabi Ito said that theater can make communication easier for children who struggle with conversation because scripts provide a framework.",
-        "fecha": "2026-10-14T20:56:00+09:00",
-        "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
       {
-        "titulo": "Comienza en Alemania el juicio al ucraniano que saboteó el gasoducto Nord Stream",
-        "enlace": "https://www.abc.es/internacional/comienza-alemania-juicio-ucraniano-saboteo-gasoducto-nord-20261014122846-nt.html",
-        "desc": "Las estrictas medidas de seguridad para acceder al Tribunal Superior Hanseático de Hamburgo han ocasionado largas colas en la entrada. No en vano, en fiscal confía en conseguir una…",
-        "fecha": "2026-10-14T12:28:46+02:00",
+        "titulo": "Alemania liderará el rechazo al nuevo presupuesto europeo y propone recortes multimillonarios",
+        "enlace": "https://www.abc.es/internacional/alemania-liderara-nueve-contribuyentes-netos-rechazo-presupuesto-20261014184306-nt.html",
+        "desc": "No al presupuesto europeo que, en su opinión, hay que reducir en cientos de miles de millones de euros; no a la deuda conjunta comunitaria y no a una estructura financiera que perp…",
+        "fecha": "2026-10-14T18:43:06+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "En un encuentro electoral de Eisenkot, el 'anti Netanyahu' que \"representa el nuevo rostro\" de Israel: \"Nos merecemos un líder auténtico, fiable y honesto\"",
-        "enlace": "https://www.elmundo.es/internacional/2026/10/14/6ace657bfc6c830a308b4595.html",
-        "desc": "EL MUNDO acude a un encuentro electoral del gran rival de Netanyahu el próximo 27 de octubre&nbsp; Leer",
-        "fecha": "2026-10-14T09:03:52+02:00",
+        "titulo": "El 'Google ruso', botín de guerra para Ucrania",
+        "enlace": "https://www.elmundo.es/internacional/2026/10/13/6ace7268e4d4d84f4e8b4592.html",
+        "desc": "El ataque a Yandex por parte de Kiev pone de relieve cómo los centros de datos son el nuevo objetivo de los enemigos&nbsp; Leer",
+        "fecha": "2026-10-14T01:54:29+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "El papa León XIV: \" Este amor debe convertirse en la meta, el camino y el sentido de nuestras vidas\"",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-10-14/papa-leon-amor-meta-sentido-amor-vidas-1qrt_4444617/",
-        "desc": "El pontífice ha reivindicado la importancia de ayudar a los demás y mantener la solidaridad como principio fundamental",
-        "fecha": "2026-10-14T12:45:21.898407+00:00",
+        "titulo": "EEUU levanta sanciones al hermano de Delcy y presidente de la Asamblea Nacional de Venezuela, Jorge Rodríguez",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-10-14/eeuu-levanta-las-sanciones-al-presidente-de-la-asamblea-venezuela_4444952/",
+        "desc": "La Oficina de Control de Activos Extranjeros (OFAC) ha tomado esta decisión, de la que no han trascendido más detalles, salvo que ha excluido de su 'lista negra' al político venezo…",
+        "fecha": "2026-10-14T17:52:40.779888+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
         "titulo": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
         "enlace": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss",
-        "desc": "EE.UU. vende sobre todo combustibles al sector privado de la isla, pero también autos, carnes y productos lácteos. En el caso de los combustibles, las exportaciones crecieron un 21…",
-        "fecha": "2026-10-14T11:44:42+00:00",
+        "desc": "EE.UU. vende sobre todo combustibles al sector privado de la isla, pero también autos, carnes y productos lácteos. Las exportaciones crecieron un 210% entre enero y agosto.",
+        "fecha": "2026-10-14T15:28:14+00:00",
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Rusia arresta al periodista japonés del diario 'Hokkaido Shimbun' acusado de espionaje",
-        "enlace": "https://es.euronews.com/2026/10/14/rusia-arresta-periodista-japones-diario-hokkaido-shimbun-acusado-espionaje",
-        "desc": "Según los servicios secretos rusos, el detenido recopilaba información sobre la capacidad defensiva de Rusia y el número de movilizados y voluntarios para la guerra en Ucrania.",
-        "fecha": "2026-10-14T14:23:57+02:00",
+        "titulo": "Rusia ataca a energéticas en Ucrania: 1 muerto y 20 heridos",
+        "enlace": "https://es.euronews.com/2026/10/14/rusia-ataca-a-energeticas-en-ucrania-1-muerto-y-20-heridos",
+        "desc": "Las autoridades ucranianas afirman que algunos de los ataques rusos tuvieron como objetivo infraestructuras energéticas, pocos días después de que el presidente estadounidense Dona…",
+        "fecha": "2026-10-14T19:23:14+02:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "titulo": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
         "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "fecha": "2026-10-14T11:32:07+00:00",
+        "fecha": "2026-10-14T13:11:17+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Greta Thunberg joins massive French student protests as cars burn, police fire tear gas",
-        "enlace": "https://www.foxnews.com/world/greta-thunberg-joins-massive-french-student-protests-cars-burn-police-fire-tear-gas",
-        "desc": "Greta Thunberg joined student protesters in France amid over 6,100 arrests and widespread school closures as violent clashes with riot police escalate.",
-        "fecha": "2026-10-13T17:31:12-04:00",
+        "titulo": "Pope Leo undergoes blood tests, X-ray following cancer surgery, Vatican says",
+        "enlace": "https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says",
+        "desc": "Pope Leo XIV began walking and resumed eating after thoracic surgery at Rome&apos;s Gemelli Hospital, with blood tests and an X-ray being part of his recovery.",
+        "fecha": "2026-10-14T13:29:03-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "Condenan a muerte a una joven en Irán por «blasfemar» en redes sociales",
-        "enlace": "https://www.abc.es/internacional/condenan-muerte-joven-iran-blasfemar-redes-sociales-20261014121925-nt.html",
-        "desc": "La República Islámica de Irán ha condenado a muerte a una joven de 23 años por un presunto delito de blasfemia por publicaciones en redes sociales en la que habría insultado al pro…",
-        "fecha": "2026-10-14T12:19:26+02:00",
+        "titulo": "Oksana Brovko, sobre los medios en Ucrania: «Enseñamos a la gente a sobrevivir un día más»",
+        "enlace": "https://www.abc.es/internacional/oksana-brovko-sobre-medios-ucrania-ensenamos-gente-20261014183534-nt.html",
+        "desc": "Luchar contra la corrupción, aguantar las presiones del poder, salvaguardar la independencia de los medios, publicar información veraz, hacer de contrapeso democrático, adaptarse a…",
+        "fecha": "2026-10-14T18:35:34+02:00",
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "El gigante del Golfo no sabe frenar a los hutíes",
-        "enlace": "https://www.elmundo.es/internacional/2026/10/14/6ace6171fc6c831f2e8b458a.html",
-        "desc": "Los ataques dejan al descubierto los límites del enorme gasto militar saudí&nbsp; Leer",
-        "fecha": "2026-10-14T09:03:54+02:00",
+        "titulo": "Macron exige al Gobierno \"respuestas concretas\" ante las protestas estudiantiles",
+        "enlace": "https://www.elmundo.es/internacional/2026/10/14/6acf7c35fc6c8353538b457e.html",
+        "desc": "El presidente entiende \"las inquietudes legítimas\" de los jóvenes, pero lamenta la \"explotación política\" y la \"violencia urbana\"&nbsp; Leer",
+        "fecha": "2026-10-14T15:07:59+02:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Rusia ataca con misiles infraestructuras energéticas de Ucrania y deja al menos cuatro muertos",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-10-14/ataques-rusos-misiles-kiev-1tps_4444486/",
-        "desc": "La capital ucraniana sufrió daños en una central eléctrica y viviendas, mientras Zelenski denuncia que sus aliados no avisaron del primer lanzamiento de proyectiles",
-        "fecha": "2026-10-14T12:45:21.898447+00:00",
+        "titulo": "Pena de muerte para una joven iraní por \"blasfemia\" en un post de redes sociales",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-10-14/pena-muerte-joven-irani-muerte-blasfemia-1qrt_4444885/",
+        "desc": "Una estudiante de 23 años se enfrenta a la ejecución tras ser condenada por unas publicaciones cuyo contenido no ha trascendido",
+        "fecha": "2026-10-14T17:52:40.779934+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "titulo": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
         "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "fecha": "2026-10-14T11:32:07+00:00",
+        "fecha": "2026-10-14T13:11:17+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Greta Thunberg joins massive French student protests as cars burn, police fire tear gas",
-        "enlace": "https://www.foxnews.com/world/greta-thunberg-joins-massive-french-student-protests-cars-burn-police-fire-tear-gas",
-        "desc": "Greta Thunberg joined student protesters in France amid over 6,100 arrests and widespread school closures as violent clashes with riot police escalate.",
-        "fecha": "2026-10-13T17:31:12-04:00",
+        "titulo": "Pope Leo undergoes blood tests, X-ray following cancer surgery, Vatican says",
+        "enlace": "https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says",
+        "desc": "Pope Leo XIV began walking and resumed eating after thoracic surgery at Rome&apos;s Gemelli Hospital, with blood tests and an X-ray being part of his recovery.",
+        "fecha": "2026-10-14T13:29:03-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Trump's crackdown on migrants: New documentary investigates ICE operations",
-        "enlace": "https://www.france24.com/en/tv-shows/perspective/20261014-trump-s-crackdown-on-migrants-new-documentary-investigates-ice-operations",
-        "desc": "A new documentary from our sister channel France Télévisions explores US President Donald Trump's relentless crackdown on immigration and the agency carrying it out – United States…",
-        "fecha": "2026-10-14T11:51:29+00:00",
+        "titulo": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
+        "enlace": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
+        "desc": "Yemen's Houthi rebels said Wednesday they had targeted facilities belonging to Saudi oil giant Aramco after officials in Riyadh reported a strike on a building in an area housing t…",
+        "fecha": "2026-10-14T16:21:53+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Oregon high school football coach fired after ruthless onside kick",
-        "enlace": "https://nypost.com/2026/10/14/sports/oregon-high-school-football-coach-zach-loboy-fired-after-ruthless-onside-kick/",
-        "desc": "\"We determined that a change in leadership was necessary to reflect our school’s mission and values...\"",
-        "fecha": "2026-10-14T08:43:21-04:00",
+        "titulo": "Kash Patel is not in Russia, FBI reveals — exposing false MS Now report",
+        "enlace": "https://nypost.com/2026/10/14/us-news/fbi-reveals-kash-patel-is-not-in-russia-exposing-ms-now-false-report/",
+        "desc": "The FBI boss ripped the news outlet for its false claim that he's in Moscow for a mysterious trip, then revealed where he really was.",
+        "fecha": "2026-10-14T10:44:49-07:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "China's influence in the gaming industry is growing",
-        "enlace": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
-        "desc": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting pl…",
-        "fecha": "2026-10-14T12:45:25.951670+00:00",
+        "titulo": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
+        "enlace": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf",
+        "desc": "A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia's Far East. A geopolitical rivalry over disputed islands in the region has recently caused tensi…",
+        "fecha": "2026-10-14T17:52:46.248462+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Japan summons Russian ambassador to protest journalist's arrest on spying charges",
-        "enlace": "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying",
-        "desc": "Moscow's FSB security service said a Japanese national was arrested on the Far East island of Sakhalin, near a disputed cluster of islands, but did not name the individual.",
-        "fecha": "2026-10-14T12:55:54+02:00",
+        "titulo": "Latest news bulletin | October 14th, 2026 – Evening",
+        "enlace": "https://www.euronews.com/video/2026/10/14/latest-news-bulletin-october-14th-2026-evening",
+        "desc": "Catch up with the most important stories from around Europe and beyond this October 14th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Trav…",
+        "fecha": "2026-10-14T18:00:26+02:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "Trump headlines Alaska rally for Sen. Dan Sullivan ahead of pivotal Senate race",
-        "enlace": "https://www.oann.com/newsroom/trump-headlines-alaska-rally-for-sen-dan-sullivan-ahead-of-pivotal-senate-race/",
-        "desc": "A massive crowd welcomed President Donald Trump when he took to the stage in Wasilla, Alaska, where he rallied support for incumbent GOP United States Senator Dan S. Sullivan.",
-        "fecha": "2026-10-14T01:41:36+00:00",
+        "titulo": "Microsoft Borrowed America’s Trust. Trump Wants an Accounting",
+        "enlace": "https://www.oann.com/commentary/microsoft-borrowed-americas-trust-trump-wants-an-accounting/",
+        "desc": "By Brabim Karki October 14, 2026 (Views expressed by guest commentators may not reflect the views of OAN or its affiliates.)",
+        "fecha": "2026-10-14T15:56:12+00:00",
         "fuente": "OAN"
       },
       {
-        "titulo": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "enlace": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-        "fecha": "2026-10-14T11:17:51+00:00",
+        "titulo": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+        "desc": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "fecha": "2026-10-14T15:12:46+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "‘Peace through strength’: Trump Gaza plan gains global backing one year on",
-        "enlace": "https://www.foxnews.com/world/peace-through-strength-trump-gaza-plan-gains-global-backing-one-year",
-        "desc": "Donald Trump&apos;s Board of Peace excludes UNRWA from Gaza&apos;s future as the EU pledges $1 billion and demilitarization efforts gain global momentum.",
-        "fecha": "2026-10-13T12:18:26-04:00",
+        "titulo": "African nations on ‘knife’s edge’ as US embassy warns Americans of long-range attacks",
+        "enlace": "https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks",
+        "desc": "With regional tensions mounting, the Horn of Africa risks war between Ethiopia and Eritrea. Following attacks in Addis Ababa, the U.S. Embassy warned citizens of long-range threats…",
+        "fecha": "2026-10-14T10:39:14-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "French student protesters are being 'exploited' by political forces, Macron says",
-        "enlace": "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces",
-        "desc": "French President Emmanuel Macron said on Wednesday that France's student protesters are being \"exploited\" by political forces ahead of the country's presidential election in April …",
-        "fecha": "2026-10-14T11:33:42+00:00",
+        "titulo": "In Phoenix, young ultra-conservatives look to carry on Charlie Kirk’s legacy",
+        "enlace": "https://www.france24.com/en/americas/20261014-in-phoenix-young-ultra-conservatives-look-to-carry-on-charlie-kirk-s-legacy",
+        "desc": "More than a year after the assassination of far-right influencer Charlie Kirk in September 2025, young activists from the organisation he co-founded, Turning Point USA, are working…",
+        "fecha": "2026-10-14T14:37:37+00:00",
         "fuente": "France 24 EN"
       }
     ],
     "internacional_fr": [
       {
-        "titulo": "Kimberly Guilfoyle, la pimpante ambassadrice que Donald Trump a fini par désavouer",
-        "enlace": "https://www.lefigaro.fr/international/kimberly-guilfoyle-la-pimpante-ambassadrice-que-donald-trump-a-fini-par-desavouer-20261014",
-        "desc": "PORTRAIT - Accusée de corruption, l’ex-compagne de l’un des fils du président américain incarnait en Grèce la diplomatie de l’ère Maga, plus directe et plus visible.",
-        "fecha": "2026-10-14T12:40:12+02:00",
+        "titulo": "Coupure du signal Starlink : l’Ukraine sous pression des États-Unis",
+        "enlace": "https://www.lefigaro.fr/international/coupure-du-signal-starlink-l-ukraine-sous-pression-des-etats-unis-20261014",
+        "desc": "DÉCRYPTAGE - Les opérations militaires ukrainiennes ont été entravées après des restrictions sur l’emploi de la constellation de satellites de communication détenue par Elon Musk.",
+        "fecha": "2026-10-14T19:36:51+02:00",
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "L’Arabie saoudite touchée au cœur de son économie par les rebelles houthis",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261014-l-arabie-saoudite-touch%C3%A9e-au-c%C5%93ur-de-son-%C3%A9conomie-par-les-rebelles-houthis",
-        "desc": "Les rebelles houthis accentuent la pression sur l’Arabie saoudite, avec notamment une frappe visant un site pétrolier d’Aramco. Au-delà des dégâts matériels, ces attaques font pese…",
-        "fecha": "2026-10-14T12:06:50+00:00",
+        "titulo": "Éthiopie : comment la désinformation sur les réseaux sociaux brouille la réalité de la guerre",
+        "enlace": "https://www.france24.com/fr/afrique/20261014-%C3%A9thiopie-comment-la-d%C3%A9sinformation-sur-les-r%C3%A9seaux-sociaux-brouille-la-r%C3%A9alit%C3%A9-de-la-guerre",
+        "desc": "En Éthiopie, la reprise des combats au Tigré s'accompagne d'une autre bataille, moins visible mais tout aussi déterminante : celle de l’information. Sur les réseaux sociaux, des vi…",
+        "fecha": "2026-10-14T17:40:15+00:00",
+        "fuente": "France 24 FR"
+      },
+      {
+        "titulo": "Jordan Bardella au FN dès 2013: le reportage de RFI qui contredit sa défense sur ses propos antisémites",
+        "enlace": "https://www.rfi.fr/fr/france/20261014-jordan-bardella-au-fn-d%C3%A8s-2013-le-reportage-de-rfi-qui-contredit-sa-d%C3%A9fense-sur-ses-propos-antis%C3%A9mites",
+        "desc": "Le site d’information Les Jours a publié mardi 13 octobre un article prouvant le militantisme actif dès 2013 de Jordan Bardella au Rassemblement national (RN) (alors Front national…",
+        "fecha": "2026-10-14T16:38:37+00:00",
+        "fuente": "RFI"
+      },
+      {
+        "titulo": "Duane Davis condamné à au moins 40 ans de prison pour le meurtre de Tupac Shakur",
+        "enlace": "https://fr.euronews.com/2026/10/14/duane-davis-condamne-a-au-moins-40-ans-de-prison-pour-le-meurtre-de-tupac-shakur",
+        "desc": "Shakur était une figure centrale de la rivalité hip-hop qui opposait la côte Est à la côte Ouest des États-Unis. Il n'avait que 25 ans lorsqu'il a été abattu à Las Vegas.",
+        "fecha": "2026-10-14T19:46:15+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+        "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+        "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+        "fecha": "2026-10-14T13:11:17+00:00",
+        "fuente": "BBC World EN"
+      },
+      {
+        "titulo": "Les premiers pas difficiles de Katie Zacharia, la nouvelle porte-parole de la Maison-Blanche",
+        "enlace": "https://www.lefigaro.fr/international/les-premiers-pas-difficiles-de-katie-zacharia-la-nouvelle-porte-parole-de-la-maison-blanche-20261014",
+        "desc": "RÉCIT - Cette ancienne commentatrice de Fox News, qui hérite d’une relation tumultueuse entre les médias et la Maison-Blanche, a réalisé une première conférence de presse hésitante…",
+        "fecha": "2026-10-14T18:36:25+02:00",
+        "fuente": "Le Figaro Monde"
+      },
+      {
+        "titulo": "Avec un chiffrage désormais officiel, les aides aux entreprises entrent dans le débat",
+        "enlace": "https://www.france24.com/fr/france/20261014-france-premier-chiffrage-officiel-aides-publiques-aux-entreprises-166-milliards-euros",
+        "desc": "Le gouvernement a publié mardi le premier chiffrage officiel des aides publiques apportées aux entreprises. Elles oscillent en 2024 entre 60 milliards et 166 milliards d'euros, sel…",
+        "fecha": "2026-10-14T17:25:56+00:00",
         "fuente": "France 24 FR"
       },
       {
@@ -498,198 +533,163 @@
         "fuente": "RFI"
       },
       {
-        "titulo": "Trump critiqué après une vidéo choc montrant un Britannique tué par un tigre",
-        "enlace": "https://fr.euronews.com/2026/10/14/trump-critique-apres-une-video-choc-montrant-un-britannique-tue-par-un-tigre",
-        "desc": "L'homme de la vraie vidéo, identifié par la BBC comme William Chapman, est mort plus tard de ses blessures après l'incident de samedi, selon la police.",
-        "fecha": "2026-10-14T13:01:17+02:00",
-        "fuente": "Euronews FR"
-      },
-      {
-        "titulo": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-        "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-        "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "fecha": "2026-10-14T11:32:07+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "« Midterms » aux États-Unis : combien de sièges pourraient perdre les républicains ?",
-        "enlace": "https://www.lefigaro.fr/elections-americaines/midterms-aux-etats-unis-combien-de-sieges-pourraient-perdre-les-republicains-20261014",
-        "desc": "DÉCRYPTAGE - À trois semaines des élections américaines de mi-mandat, différents modèles statistiques de prévision des votes permettent d’évaluer le recul à venir du parti de Donal…",
-        "fecha": "2026-10-14T08:15:00+02:00",
-        "fuente": "Le Figaro Monde"
-      },
-      {
-        "titulo": "L'Ukraine lâchée par les renseignements américains et Starlink ?",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261014-l-ukraine-l%C3%A2ch%C3%A9e-par-les-renseignements-am%C3%A9ricains-et-starlink",
-        "desc": "Alors que l'Ukraine a subi une nouvelle nuit de frappes russes, les sirènes ont dysfonctionné, et Starlink \"semble avoir été restreint\", ce qui pourrait être une conséquence aux te…",
-        "fecha": "2026-10-14T11:40:09+00:00",
-        "fuente": "France 24 FR"
-      },
-      {
-        "titulo": "Guerre en Ukraine: frappes russes meurtrières, des infrastructures énergétiques touchées à Kiev",
-        "enlace": "https://www.rfi.fr/fr/europe/20261014-guerre-en-ukraine-frappes-russes-meurtri%C3%A8res-des-infrastructures-%C3%A9nerg%C3%A9tiques-touch%C3%A9es-%C3%A0-kiev",
-        "desc": "Des ​frappes russes ont visé l'Ukraine dans la nuit de mardi 13 à jeudi 14 octobre, faisant au moins six morts ‌et ⁠endommageant des ‌installations énergétiques. Ces nouvelles atta…",
-        "fecha": "2026-10-14T06:18:13+00:00",
-        "fuente": "RFI"
-      },
-      {
-        "titulo": "L’info du jour | 14 octobre 2026 - Mi-journée",
-        "enlace": "https://fr.euronews.com/video/2026/10/14/linfo-du-jour-14-octobre-2026-mi-journee",
+        "titulo": "L’info du jour | 14 octobre 2026 - Soir",
+        "enlace": "https://fr.euronews.com/video/2026/10/14/linfo-du-jour-14-octobre-2026-soir",
         "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le div…",
-        "fecha": "2026-10-14T12:00:52+02:00",
+        "fecha": "2026-10-14T18:00:34+02:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "enlace": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-        "fecha": "2026-10-14T11:17:51+00:00",
+        "titulo": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+        "desc": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "fecha": "2026-10-14T15:12:46+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Türkei: Forscher entdecken Spuren von ältestem bekannten Schiffswrack der Welt",
-        "enlace": "https://www.spiegel.de/wissenschaft/technik/tuerkei-forscher-entdecken-spuren-von-aeltestem-bekannten-schiffswrack-der-welt-a-01c2f22a-d0dd-45bc-b221-ade77370c680#ref=rss",
-        "desc": "Es fuhr über das Mittelmeer, als gerade die Pyramiden gebaut wurden: Forschende haben Reste eines 4500 Jahre alten Wracks gefunden. Sollte das Schiff Wein nach Troja bringen?",
-        "fecha": "2026-10-14T14:35:00+02:00",
+        "titulo": "Abi in Hamburg: Schulen sollen bald Ukrainisch als Abiturfach anbieten",
+        "enlace": "https://www.spiegel.de/panorama/abi-in-hamburg-schulen-sollen-bald-ukrainisch-als-abiturfach-anbieten-a-ce62693d-afbf-4913-b163-02348215b883#ref=rss",
+        "desc": "Mehr als 5000 ukrainischsprachige Kinder und Jugendliche besuchen derzeit Schulen in Hamburg. Die Bürgerschaft will die Sprache nun als Prüfungsfach im Abitur anerkennen lassen.",
+        "fecha": "2026-10-14T19:40:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Türkei: Razzia beim oppositionsnahen Sender Halk TV",
-        "enlace": "https://www.dw.com/de/türkei-razzia-beim-oppositionsnahen-sender-halk-tv/a-79657908?maca=de-rss-de-all-1119-rdf",
-        "desc": "Im Zuge einer Razzia bei dem oppositionsnahen Sender Halk TV stürmt die Polizei die Zentrale. Am selben Tag steht Präsidentschaftskandidat Ekrem İmamoğlu vor Gericht.",
-        "fecha": "2026-10-14T12:45:29.663656+00:00",
+        "titulo": "Kanzler Merz im Bundestag: Gerechtigkeit ist Grundlage der Demokratie",
+        "enlace": "https://www.dw.com/de/kanzler-merz-im-bundestag-gerechtigkeit-ist-grundlage-der-demokratie/a-79661732?maca=de-rss-de-all-1119-rdf",
+        "desc": "Dem Bundeskanzler bläst der Wind von vielen Seiten ins Gesicht. Die neue Überschrift seiner Regierung soll Gerechtigkeit sein. Merz verteidigt die Ukraine-Unterstützung gegen \"ganz…",
+        "fecha": "2026-10-14T17:53:05.343270+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 14. Oktober 2026 - Mittagsausgabe",
-        "enlace": "https://de.euronews.com/video/2026/10/14/nachrichten-des-tages-14-oktober-2026-mittagsausgabe",
+        "titulo": "Nachrichten des Tages | 14. Oktober 2026 - Abendausgabe",
+        "enlace": "https://de.euronews.com/video/2026/10/14/nachrichten-des-tages-14-oktober-2026-abendausgabe",
         "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 14. Oktober 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-10-14T12:00:25+02:00",
+        "fecha": "2026-10-14T18:00:11+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "titulo": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
         "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "fecha": "2026-10-14T11:32:07+00:00",
+        "fecha": "2026-10-14T13:11:17+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Lufthansa erhält Zuschlag für portugiesische TAP",
-        "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-gewinnt-bieterrennen-um-portugiesische-tap-a-94b1fa05-0e14-4f74-9003-57fb08af5dd7#ref=rss",
-        "desc": "Die Lufthansa kann bei der portugiesischen Fluggesellschaft TAP einsteigen. Die deutsche ​Airline erhält den Zuschlag für einen Anteil von 44,9 Prozent und ‌hat sich damit gegen de…",
-        "fecha": "2026-10-14T14:23:00+02:00",
+        "titulo": "Radsport: Valentina Cavallar beklagt Dopingprobe kurz nach dem Tod ihrer Mutter",
+        "enlace": "https://www.spiegel.de/sport/radsport/radsport-valentina-cavallar-beklagt-dopingprobe-kurz-nach-dem-tod-ihrer-mutter-a-cfa15340-2892-4195-a04c-798bbcd4eb8e#ref=rss",
+        "desc": "Radrennfahrerin Valentina Cavallar hat eine für sie verstörende Dopingkontrolle öffentlich gemacht und den Umgang mit Profisportlern kritisiert. Die zuständige Agentur bat nach Med…",
+        "fecha": "2026-10-14T19:40:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Trump kündigt Erschließung von Rohstoffen in Grönland an",
-        "enlace": "https://www.dw.com/de/trump-kündigt-erschließung-von-rohstoffen-in-grönland-an/a-79657712?maca=de-rss-de-all-1119-rdf",
-        "desc": "Der US-Präsident verfolgt seine Grönland-Pläne weiter. Nach dem Abkommen mit Dänemark über eine stärkere amerikanische Militärpräsenz nimmt er nun die Öl- und Gasvorkommen auf der …",
-        "fecha": "2026-10-14T12:45:29.663710+00:00",
+        "titulo": "Erbschaftssteuer: Wackeln Privilegien für Firmenerben?",
+        "enlace": "https://www.dw.com/de/erbschaftssteuer-wackeln-privilegien-für-firmenerben/a-79651845?maca=de-rss-de-all-1119-rdf",
+        "desc": "Wer ein kleines Vermögen erbt, zahlt oft einen höheren Steuersatz als Millionenerben großer Unternehmen. Mit dieser Ungleichbehandlung befasst sich nun das Bundesverfassungsgericht…",
+        "fecha": "2026-10-14T17:53:05.343321+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Gerechtigkeit nach 30 Jahren: Ex-Gangchef wegen Mord an Rapper Tupac verurteilt",
-        "enlace": "https://de.euronews.com/2026/10/14/gerechtigkeit-nach-30-jahren-ex-gangchef-wegen-mord-an-rapper-tupac-verurteilt",
-        "desc": "Shakur war eine zentrale Figur im Hip-Hop-Konflikt zwischen US-Ostküste und Westküste. Mit nur 25 Jahren wurde er 1996 in Las Vegas erschossen. 30 Jahre später ist der Drahtzieher …",
-        "fecha": "2026-10-14T11:37:18+02:00",
+        "titulo": "Türkische Polizei stürmt Halk TV in Istanbul: Empörung über Medienfreiheit",
+        "enlace": "https://de.euronews.com/video/2026/10/14/turkische-polizei-sturmt-halk-tv-in-istanbul-emporung-uber-medienfreiheit",
+        "desc": "Am Mittwoch, dem 14. Oktober, sperrten Polizeisperren den Sitz von Halk TV in Istanbul. Behörden stürmten den unabhängigen Sender und setzten einen Treuhänder ein.",
+        "fecha": "2026-10-14T17:01:43+02:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "enlace": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-        "fecha": "2026-10-14T11:17:51+00:00",
+        "titulo": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+        "desc": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "fecha": "2026-10-14T15:12:46+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
       {
-        "titulo": "Najmeh Amini, 23 anni, condannata a morte in Iran per un post sui social giudicato “blasfemo”",
-        "enlace": "https://www.repubblica.it/esteri/2026/10/14/news/najmeh_amini_condannata_morte_iran_post_social-425647446/?rss",
-        "desc": "La studentessa è stata arrestata a gennaio, durante le proteste anti-governative. L’appello: “Non voglio fare l’eroina ma la mia voce sia ascoltata”",
-        "fecha": "2026-10-14T14:20:24+02:00",
+        "titulo": "Vietnam, sepolti dopo 60 anni 731 soldati caduti nell’offensiva del Tet: “Bentornati a casa”",
+        "enlace": "https://www.repubblica.it/esteri/2026/10/14/news/vietnam_sepolti_dopo_60_anni_731_soldati_caduti_nell_offensiva_del_tet_bentornati_a_casa-425648224/?rss",
+        "desc": "I resti dei militari, caduti durante la campagna del 1968, sono stati trovati per caso in fosse comuni in un parco di Ho Chi Minh quest’estate. Ci sono voluti tre mesi di lavori pe…",
+        "fecha": "2026-10-14T19:26:36+02:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Libano, Meloni punta su una missione franco-italiana dopo Unifil. Crosetto: \"Non possiamo abbandonare l'area\"",
-        "enlace": "https://it.euronews.com/2026/10/14/libano-meloni-punta-su-una-missione-franco-italiana-dopo-unifil-crosetto-non-possiamo-abba",
-        "desc": "Mentre la missione della forza ONU in Libano, Unifil, si avvicina alla fine, crescono le preoccupazioni per la sicurezza nel sud, tra operazioni israeliane e ritardi nel dispiegame…",
-        "fecha": "2026-10-14T13:25:37+02:00",
+        "titulo": "Attacchi russi a Kiev: morti e feriti anche in altre città dell'Ucraina",
+        "enlace": "https://it.euronews.com/2026/10/14/attacchi-russi-a-kiev-morti-e-feriti-anche-in-altre-citta-dellucraina",
+        "desc": "Le autorità ucraine affermano che alcuni attacchi russi hanno colpito infrastrutture energetiche, pochi giorni dopo che il presidente statunitense Donald Trump ha annunciato un \"ce…",
+        "fecha": "2026-10-14T18:24:05+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+        "titulo": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "enlace": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
         "desc": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-        "fecha": "2026-10-14T11:32:07+00:00",
+        "fecha": "2026-10-14T13:11:17+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Kiev denuncia limitazioni nell’uso della versione militare di Starlink: “Annullate diverse missioni”",
-        "enlace": "https://www.repubblica.it/esteri/2026/10/14/news/kiev_denuncia_limitazioni_uso_versione_militare_starlink_raid_russi_blackout_ucraina-425647218/?rss",
-        "desc": "L'interruzione dei terminali, senza alcun preavviso, si verifica mentre la Russia continua a colpire l’Ucraina. Zelensky: “Almeno 600mila persone sono senza elettricità. Ci sono da…",
-        "fecha": "2026-10-14T12:37:08+02:00",
+        "titulo": "Sally Rooney, i suoi libri non saranno più venduti nel Regno Unito per aver sostenuto gruppi pro-Pal",
+        "enlace": "https://www.repubblica.it/esteri/2026/10/14/news/sally_rooney_libri_regno_unito_divieto_gaza_palestinian_group-425648002/?rss",
+        "desc": "La scrittrice irlandese ha appoggiato Palestinian Action, gruppo radicale per la causa palestinese definito “organizzazione terroristica” dal governo laburista di Keir Starmer nel …",
+        "fecha": "2026-10-14T18:01:33+02:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Russia arresta un giornalista giapponese: è accusato di spionaggio",
-        "enlace": "https://it.euronews.com/2026/10/14/russia-arresta-un-giornalista-giapponese-e-accusato-di-spionaggio",
-        "desc": "Secondo i servizi di sicurezza russi, raccoglieva informazioni sulla \"capacità di difesa della Russia\" e sul numero di mobilitati e volontari per partecipare alla guerra in Ucraina",
-        "fecha": "2026-10-14T12:46:47+02:00",
+        "titulo": "Le notizie del giorno | 14 ottobre 2026 - Serale",
+        "enlace": "https://it.euronews.com/video/2026/10/14/le-notizie-del-giorno-14-ottobre-2026-serale",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 14 ottobre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-10-14T18:00:21+02:00",
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "enlace": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "desc": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-        "fecha": "2026-10-14T11:17:51+00:00",
+        "titulo": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+        "desc": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "fecha": "2026-10-14T15:12:46+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "Milhares de pessoas estão a ser afetadas pela greve do metro de Lisboa",
-        "enlace": "https://www.rtp.pt/noticias/pais/milhares-de-pessoas-estao-a-ser-afetadas-pela-greve-do-metro-de-lisboa_v1771623",
-        "desc": "Uma paralisação total, uma vez que não foram decretados serviços mínimos.",
-        "fecha": "2026-10-14T14:36:47+01:00",
+        "titulo": "Torreense acredita em boa prestação diante do Sunderland",
+        "enlace": "https://www.rtp.pt/noticias/mundo/torreense-acredita-em-boa-prestacao-diante-do-sunderland_d1771694",
+        "desc": "O treinador-adjunto do Torreense, Carlos Simões, e o jogador Javi Vázquez mostraram-se hoje confiantes numa boa prestação na receção aos ingleses do Sunderland, na segunda jornada …",
+        "fecha": "2026-10-14T19:52:19+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Se Passos Coelho voltar vai conseguir unir a direita?",
-        "enlace": "https://observador.pt/programas/realpolitik/se-passos-coelho-voltar-vai-conseguir-unir-a-direita/",
-        "desc": "No \"Realpolitik\", Sérgio Sousa Pinto e Miguel Pinheiro falam sobre a entrevista de Passos Coelho e respondem a um ouvinte que pediu sugestões de livros sobre política.",
-        "fecha": "2026-10-14T13:35:57+01:00",
+        "titulo": "OE. PS diz que retirou ao Chega possibilidade de chantagear",
+        "enlace": "https://observador.pt/2026/10/14/oe2027-ps-diz-que-abstencao-retira-ao-chega-possibilidade-de-chantagear-o-pais/",
+        "desc": "O documento tem aprovação garantida uma vez que o PS já anunciou a abstenção",
+        "fecha": "2026-10-14T18:44:40+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Fim da escala 6x1: Senado vota proposta nesta quarta-feira; acompanhe em tempo real",
+        "titulo": "Fim da escala 6x1: Senado pode decidir sobre proposta ainda nesta quarta; siga em tempo real",
         "enlace": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
         "desc": "Proposta, uma das maiores bandeiras da campanha de reeleição de Lula, pode passar pela primeira rodada de votação nesta quarta-feira (14/10). Flávio Bolsonaro (PL) voltou atrás sob…",
-        "fecha": "2026-10-14T12:45:34.615873+00:00",
+        "fecha": "2026-10-14T17:53:12.560295+00:00",
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Dois autores e uma associação portuguesa candidatos a prémio sueco ALMA",
-        "enlace": "https://www.rtp.pt/noticias/cultura/dois-autores-e-uma-associacao-portuguesa-candidatos-a-premio-sueco-alma_n1771617",
-        "desc": "A escritora Margarida Fonseca Santos, o autor e ilustrador António Jorge Gonçalves e a associação artística Andante estão nomeados para o prémio literário sueco Astrid Lindgren Mem…",
-        "fecha": "2026-10-14T14:20:20+01:00",
+        "titulo": "Sudakov reconhece que sentiu \"pressão\" de ser contratação mais cara do Benfica",
+        "enlace": "https://www.rtp.pt/noticias/futebol-internacional/sudakov-reconhece-que-sentiu-pressao-de-ser-contratacao-mais-cara-do-benfica_d1771691",
+        "desc": "O médio Sudakov reconheceu hoje que sentiu a &quot;pressão&quot; de ser a contratação mais cara da história do futebol do Benfica, a par de Richard Ríos, mas revelou que ficou mais…",
+        "fecha": "2026-10-14T19:42:05+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Extraditado português suspeito de homicídio em Manchester",
-        "enlace": "https://observador.pt/2026/10/14/extraditado-portugues-suspeito-de-homicidio-em-confronto-de-gangues-em-manchester/",
-        "desc": "Presente ao Tribunal da Relação de Lisboa no dia 7 de outubro, foi-lhe determinada a extradição para o Reino Unido, agora cumprida",
-        "fecha": "2026-10-14T13:22:56+01:00",
+        "titulo": "O que ganha Portugal com a privatização da TAP?",
+        "enlace": "https://observador.pt/programas/explicador/o-que-ganha-portugal-com-a-privatizacao-da-tap/",
+        "desc": "Filipe Costa (PS) rejeita privatização total e defende os 49,9%. Jorge Miguel Teixeira (IL) defende venda a 100%, mas pede clareza. Gonçalo Lage (PSD) rejeita dúvidas e destaca o p…",
+        "fecha": "2026-10-14T18:35:35+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "Ex-ministro de FHC, Pedro Parente vê em Flávio risco de concentração de poder",
-        "enlace": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
-        "desc": "Ex-ministro da Casa Civil de FHC e ex-presidente da Petrobras afirma que Flávio Bolsonaro não demonstrou ter um projeto de país.",
-        "fecha": "2026-10-14T07:48:30+00:00",
+        "titulo": "Meta promete mudança em sua IA após acusações de favorecimento a Flávio Bolsonaro",
+        "enlace": "https://www.bbc.com/portuguese/articles/cm4g1exxq8ndo?at_medium=RSS&at_campaign=rss",
+        "desc": "Em redes sociais, usuários relataram que conseguiram criar materiais de campanha pró-Flávio Bolsonaro, mas que a ferramenta da Meta vetou a criação de materiais pró-Lula",
+        "fecha": "2026-10-14T16:05:42+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -702,24 +702,24 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Lamine vacila a Mario Lemina tras su exhibición ante el Galatasaray",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238684/lamine-acuerda-lemina-exhibicion.html",
-        "desc": "Lamine Yamal encontró una forma de responder a Mario Lemina después de la contundente victoria del Barça ante el Galatasaray (1-4) en la Champions League. El extremo azulgrana, que…",
-        "fecha": "2026-10-14T14:08:52+02:00",
+        "titulo": "Ya hay sanción para Vinicius: ¡cuatro partidos!",
+        "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238797/hay-sancion-vinicius-cuatro-partidos.html",
+        "desc": "El Comité de Disciplina de la Federación ha sancionado a Vinicius con cuatro partidos por su expulsión ante el Villarreal con roja directa por tirar del pelo a Saliba y sus posteri…",
+        "fecha": "2026-10-14T19:28:30+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Campus Gigantes Basket Lover se incorpora al programa España Compite",
-        "enlace": "https://www.gigantes.com/campus-gigantes/campus-gigantes-une-espana-compite/",
-        "desc": "Campus Gigantes Basket Lover da un nuevo paso en su compromiso con la formación y desarrollo de jóvenes jugadores de baloncesto. El proyecto deportivo de Gigantes del Basket se ha.…",
-        "fecha": "2026-10-14T11:06:11+00:00",
+        "titulo": "Última hora: Kosner Baskonia rescinde el contrato de Paolo Galbiati y firma a Velimir Perasovic",
+        "enlace": "https://www.gigantes.com/liga-endesa/kosner-baskonia-rescinde-contrato-paolo-galbiati/",
+        "desc": "El técnico italiano llegó al club en agosto de 2025 La entrada Última hora: Kosner Baskonia rescinde el contrato de Paolo Galbiati y firma a Velimir Perasovic se publicó primero en…",
+        "fecha": "2026-10-14T17:01:47+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Struijk red card shown after VAR intervention is overturned",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-        "desc": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-        "fecha": "2026-10-14T10:18:45+00:00",
+        "titulo": "Wilcox the target again in another damaging Man Utd fallout",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "fecha": "2026-10-14T15:30:03+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -730,116 +730,116 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Osimhen y Lemina acabaron rendidos a Lamine",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238680/osimhen-lemina-acabaron-rendidos-lamine.html",
-        "desc": "No solo el barcelonismo se rindió a Lamine Yamal después de su exhibición en el Ali Sami Yen , también las principales cabececera de los medios deportivos de toda Europa y hasta lo…",
-        "fecha": "2026-10-14T13:30:17+02:00",
+        "titulo": "Lamine vacila a Lemina tras su exhibición y éste le responde",
+        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238684/lamine-acuerda-lemina-exhibicion.html",
+        "desc": "Lamine Yamal encontró una forma de responder a Mario Lemina después de la contundente victoria del Barça ante el Galatasaray (1-4) en la Champions League. El extremo azulgrana, que…",
+        "fecha": "2026-10-14T14:08:52+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Hablamos con Jean Montero en su regreso a Valencia: sensaciones, palabras para la afición…",
-        "enlace": "https://www.gigantes.com/euroliga/hablamos-con-jean-montero-en-su-regreso-a-valencia-sensaciones-palabras-para-la-aficion/",
-        "desc": "El dominicano se enfrenó por primera vez al Valencia Basket tras su fichaje por el Olympiacos en verano y firmó una exhibición La entrada Hablamos con Jean Montero en su regreso a …",
-        "fecha": "2026-10-14T09:52:04+00:00",
+        "titulo": "Los refuerzos del Covirán Granada ante los problemas de lesiones",
+        "enlace": "https://www.gigantes.com/primera-feb/lesiones-coviran-granada-kravic-gauzin/",
+        "desc": "Llegan Dejan Kravic y Matthieu Gauzin La entrada Los refuerzos del Covirán Granada ante los problemas de lesiones se publicó primero en Gigantes del Basket .",
+        "fecha": "2026-10-14T15:47:56+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "enlace": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-        "fecha": "2026-10-14T12:15:09+00:00",
+        "titulo": "Fifa to offer extra £2.6bn for football development",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+        "fecha": "2026-10-14T15:59:59+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
-        "titulo": "Struijk red card shown after VAR intervention is overturned",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-        "desc": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-        "fecha": "2026-10-14T10:18:45+00:00",
+        "titulo": "Wilcox the target again in another damaging Man Utd fallout",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "fecha": "2026-10-14T15:30:03+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "NFL suspends Rams' Jackson for striking Bills' Chubb in face after game",
-        "enlace": "https://www.skysports.com/nfl/news/12040/13599152/alaric-jackson-nfl-suspends-los-angeles-rams-offensive-lineman-for-striking-buffalo-bills-bradley-chubb-after-monday-night-nfl-game",
-        "desc": "Los Angeles Rams Alaric Jackson has been suspended for two games for striking Buffalo Bills linebacker Bradley Chubb after their Monday Night Football game.",
-        "fecha": "2026-10-14T10:30:00",
+        "titulo": "Palace latest: Sage admits Lyon return brings back 'emotion'",
+        "enlace": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+        "desc": "",
+        "fecha": "2026-10-11T16:45:00",
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "enlace": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-        "fecha": "2026-10-14T12:15:09+00:00",
+        "titulo": "Fifa to offer extra £2.6bn for football development",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+        "fecha": "2026-10-14T15:59:59+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Britain's Kartal earns big win over world No 12 Bencic in Wuhan",
-        "enlace": "https://www.skysports.com/tennis/news/12040/13599153/wuhan-open-britains-sonay-kartal-earns-huge-win-over-belinda-bencic-to-set-up-meeting-with-jasmine-paolini-in-china",
-        "desc": "Britain's Sonay Kartal secured another huge win as she continued her impressive comeback from long-term injury at the Wuhan Open.",
-        "fecha": "2026-10-14T10:28:00",
+        "titulo": "Hollywood star Bettany reflects on Arsenal's title win on Premier League show",
+        "enlace": "https://www.skysports.com/football/live-blog/12040/13455133/premier-league-show-live-latest-team-news-exclusive-interviews-and-analysis",
+        "desc": "",
+        "fecha": "2026-10-14T18:32:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "Struijk red card shown after VAR intervention is overturned",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-        "desc": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-        "fecha": "2026-10-14T10:18:45+00:00",
+        "titulo": "Wilcox the target again in another damaging Man Utd fallout",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "fecha": "2026-10-14T15:30:03+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "enlace": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-        "fecha": "2026-10-14T12:15:09+00:00",
+        "titulo": "Fifa to offer extra £2.6bn for football development",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+        "fecha": "2026-10-14T15:59:59+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_de": [
       {
-        "titulo": "Urbig statt Neuer: Schleichende Wachablösung im Bayern-Tor?",
-        "enlace": "https://www.dw.com/de/urbig-statt-neuer-schleichende-wachablösung-im-bayern-tor/a-79649648?maca=de-rss-de-sport-4020-rdf",
-        "desc": "Nach dem Patzer beim FC Augsburg wird die Frage heiß diskutiert, wie lange Manuel Neuer noch Nummer eins des FC Bayern bleiben sollte. Seinen Nachfolger hat er selbst aufgebaut, ab…",
-        "fecha": "2026-10-14T12:45:42.618595+00:00",
+        "titulo": "Frauenfußball boomt - aber viele verdienen kaum Mindestlohn",
+        "enlace": "https://www.dw.com/de/frauenfußball-boomt-aber-viele-verdienen-kaum-mindestlohn/a-79658609?maca=de-rss-de-sport-4020-rdf",
+        "desc": "Auf den ersten Blick wirkt der Frauenfußball gesund wie nie zuvor - doch hinter dem Milliarden-Boom verbergen sich prekäre Gehälter, psychische Krisen und strukturelle Lücken. Was …",
+        "fecha": "2026-10-14T17:53:22.210152+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Struijk red card shown after VAR intervention is overturned",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-        "desc": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-        "fecha": "2026-10-14T10:18:45+00:00",
+        "titulo": "Wilcox the target again in another damaging Man Utd fallout",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "fecha": "2026-10-14T15:30:03+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "DFB-Frauen: Ena Mahmutovic nutzt Tor-Chance gegen Berger",
         "enlace": "https://www.dw.com/de/dfb-frauen-ena-mahmutovic-nutzt-tor-chance-gegen-berger/a-79598336?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die DFB-Frauen gewinnen ihr Testspiel gegen Australien. Im Tor macht Ena Mahmutovic dabei eine gute Figur. Die 22-jährige Bayern-Keeperin gilt als Nachfolgerin von Ann-Katrin Berge…",
-        "fecha": "2026-10-14T12:45:42.618640+00:00",
+        "fecha": "2026-10-14T17:53:22.210196+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "enlace": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-        "fecha": "2026-10-14T12:15:09+00:00",
+        "titulo": "Fifa to offer extra £2.6bn for football development",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+        "fecha": "2026-10-14T15:59:59+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "Struijk red card shown after VAR intervention is overturned",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
-        "desc": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-        "fecha": "2026-10-14T10:18:45+00:00",
+        "titulo": "Wilcox the target again in another damaging Man Utd fallout",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "desc": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "fecha": "2026-10-14T15:30:03+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "enlace": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "desc": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-        "fecha": "2026-10-14T12:15:09+00:00",
+        "titulo": "Fifa to offer extra £2.6bn for football development",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&at_campaign=rss",
+        "desc": "Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
+        "fecha": "2026-10-14T15:59:59+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -862,22 +862,22 @@
       {
         "titulo": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
         "enlace": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss",
-        "desc": "EE.UU. vende sobre todo combustibles al sector privado de la isla, pero también autos, carnes y productos lácteos. En el caso de los combustibles, las exportaciones crecieron un 21…",
-        "fecha": "2026-10-14T11:44:42+00:00",
+        "desc": "EE.UU. vende sobre todo combustibles al sector privado de la isla, pero también autos, carnes y productos lácteos. Las exportaciones crecieron un 210% entre enero y agosto.",
+        "fecha": "2026-10-14T15:28:14+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "China’s AI research is booming. Where is it headed?",
-        "enlace": "https://www.nature.com/articles/d41586-026-03223-8",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
-        "fecha": "2026-10-14T12:45:52.639618+00:00",
+        "titulo": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "enlace": "https://www.nature.com/articles/s41586-026-11242-8",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "fecha": "2026-10-14T17:53:36.137245+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-        "enlace": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-        "desc": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
-        "fecha": "2026-10-14T04:05:00+00:00",
+        "titulo": "NASA’s Space X CRS-35 Launch Jellyfish",
+        "enlace": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+        "desc": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a &#8220;jellyfish…",
+        "fecha": "2026-10-14T15:18:38+00:00",
         "fuente": "NASA EN"
       },
       {
@@ -895,47 +895,47 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
-        "enlace": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
-        "desc": "Trump responsabiliza a la guerra entre Ucrania y Rusia del alza del petróleo en EE.UU. para contener el descontento de los votantes. Pero los problemas en la escena internacional s…",
-        "fecha": "2026-10-14T02:28:54+00:00",
+        "titulo": "Quién queda a cargo del Vaticano y cómo funciona la Iglesia católica mientras el papa León XIV se recupera de una cirugía pulmonar",
+        "enlace": "https://www.bbc.com/mundo/articles/cqev3dvnmmjmo?at_medium=RSS&at_campaign=rss",
+        "desc": "El interrogante resurgió tras el diagnóstico de cáncer de pulmón que recibió el papa León XIV este martes.",
+        "fecha": "2026-10-14T12:50:23+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
-        "titulo": "China’s extraordinary rise in science and how it will change the world",
-        "enlace": "https://www.nature.com/articles/d41586-026-03222-9",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological …",
-        "fecha": "2026-10-14T12:45:52.639662+00:00",
+        "titulo": "This is why butterflies are so hard to catch",
+        "enlace": "https://www.nature.com/articles/d41586-026-03301-x",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
+        "fecha": "2026-10-14T17:53:36.137289+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Hurricane Simon Lurks Off the Mexican Coast",
-        "enlace": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-        "desc": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-        "fecha": "2026-10-14T04:01:00+00:00",
+        "titulo": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+        "enlace": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+        "desc": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA research…",
+        "fecha": "2026-10-14T14:41:21+00:00",
         "fuente": "NASA EN"
       }
     ],
     "ciencia_en": [
       {
-        "titulo": "China’s AI research is booming. Where is it headed?",
-        "enlace": "https://www.nature.com/articles/d41586-026-03223-8",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
-        "fecha": "2026-10-14T12:45:56.318699+00:00",
+        "titulo": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "enlace": "https://www.nature.com/articles/s41586-026-11242-8",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "fecha": "2026-10-14T17:53:40.202001+00:00",
         "fuente": "Nature"
       },
       {
-        "titulo": "Simons Observatory takes a closer look at the infant universe",
-        "enlace": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
-        "desc": "New facility in Chile will hunt for signs of cosmic inflation while using the microwave background to discover galaxy clusters",
-        "fecha": "2026-10-14T12:45:56.760865+00:00",
+        "titulo": "Can predictive tools tell us who really needs antidepressants?",
+        "enlace": "https://www.science.org/content/article/can-predictive-tools-tell-us-who-really-needs-antidepressants",
+        "desc": "Amid a U.S. push for “deprescribing,” researchers are finding new ways to match patients to their optimal treatment",
+        "fecha": "2026-10-14T17:53:40.334733+00:00",
         "fuente": "Science"
       },
       {
-        "titulo": "Rare cancer spread between twins in utero",
-        "enlace": "https://www.newscientist.com/article/2593625-rare-cancer-spread-between-twins-in-utero/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-        "desc": "In a very rare case, a fetus developed cancer in the uterus, and these tumour cells spread to her twin sister",
-        "fecha": "2026-10-14T11:21:20+00:00",
+        "titulo": "Twisteddoodles on life before the study began…",
+        "enlace": "https://www.newscientist.com/article/2593499-twisteddoodles-on-life-before-the-study-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+        "desc": "This week's cartoon from Twisteddoodles",
+        "fecha": "2026-10-14T17:00:00+00:00",
         "fuente": "New Scientist"
       },
       {
@@ -946,24 +946,24 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "The Internet’s undersea backbone is slipping into the danger zone",
-        "enlace": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-        "desc": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
-        "fecha": "2026-10-14T11:15:24+00:00",
+        "titulo": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+        "enlace": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+        "desc": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
+        "fecha": "2026-10-14T13:56:11+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "New study finds gendered messaging can backfire",
-        "enlace": "https://phys.org/news/2026-10-gendered-messaging-backfire.html",
-        "desc": "Campaigns and initiatives aimed at advancing equity for girls and women often reference gender—\"The future is female\" or \"Fight like a girl,\" for instance. However, is such messagi…",
-        "fecha": "2026-10-14T08:40:01-04:00",
+        "titulo": "Warmer coastal waters drive heavy cyclone rainfall farther inland, raising flood risks",
+        "enlace": "https://phys.org/news/2026-10-warmer-coastal-heavy-cyclone-rainfall.html",
+        "desc": "A research team at The Hong Kong Polytechnic University (PolyU) has found that the area affected by tropical cyclone (TC) rainfall is extending inland along Northern Hemisphere coa…",
+        "fecha": "2026-10-14T13:40:06-04:00",
         "fuente": "Phys.org"
       },
       {
-        "titulo": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-        "enlace": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-        "desc": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
-        "fecha": "2026-10-14T04:05:00+00:00",
+        "titulo": "NASA’s Space X CRS-35 Launch Jellyfish",
+        "enlace": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+        "desc": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a &#8220;jellyfish…",
+        "fecha": "2026-10-14T15:18:38+00:00",
         "fuente": "NASA"
       },
       {
@@ -974,10 +974,10 @@
         "fuente": "Science Daily"
       },
       {
-        "titulo": "More tea? How Scotland's crops of the future could be set to change",
-        "enlace": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-        "desc": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-        "fecha": "2026-10-14T05:02:27+00:00",
+        "titulo": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
+        "enlace": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
+        "desc": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
+        "fecha": "2026-10-14T14:13:37+00:00",
         "fuente": "BBC Science"
       },
       {
@@ -990,31 +990,31 @@
     ],
     "ciencia_fr": [
       {
-        "titulo": "Record d'accidents du travail mortels en 2025",
-        "enlace": "https://www.sciencesetavenir.fr/sante/le-record-d-accidents-du-travail-mortels-en-2025-confirme-par-l-assurance-maladie_195373?xtor=RSS-16",
-        "desc": "Les accidents du travail ont fait 783 morts en 2025 dans le secteur privé, soit 19 de plus qu’en 2024, déjà une année record. Au total, 1331 décès sont liés aux accidents du travai…",
-        "fecha": "2026-10-14T09:55:59+00:00",
+        "titulo": "Derrière les appels à la régulation, l’affrontement entre IA fermées et IA ouvertes",
+        "enlace": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/derriere-les-appels-a-la-regulation-l-affrontement-entre-ia-fermees-et-ia-ouvertes_195381?xtor=RSS-12",
+        "desc": "Alors que les géants américains de l'IA&nbsp;appellent à renforcer la régulation du secteur, la Chine mise sur des modèles ouverts, que chacun peut télécharger et modifier. Une dif…",
+        "fecha": "2026-10-14T15:26:44+00:00",
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "China’s AI research is booming. Where is it headed?",
-        "enlace": "https://www.nature.com/articles/d41586-026-03223-8",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
-        "fecha": "2026-10-14T12:46:00.556928+00:00",
+        "titulo": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "enlace": "https://www.nature.com/articles/s41586-026-11242-8",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "fecha": "2026-10-14T17:53:45.060849+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "Piratage de supermarchés en France : \"Pas besoin de chars pour faire la guerre\", dit un expert",
-        "enlace": "https://www.sciencesetavenir.fr/nutrition/piratage-de-supermarches-en-france-pas-besoin-de-chars-pour-faire-la-guerre-dit-un-expert_195372?xtor=RSS-28",
-        "desc": "La cyberattaque visant les installations frigorifiques des supermarchés révèle la vulnérabilité de l’approvisionnement alimentaire français. Pour Stéphane Linou, expert associé au …",
-        "fecha": "2026-10-14T09:54:23+00:00",
+        "titulo": "La psilocybine contre les neuropathies dégénératives",
+        "enlace": "https://www.sciencesetavenir.fr/sante/la-psilocybine-en-prevention-des-neuropathies-degeneratives-de-la-chimiotherapie_195357?xtor=RSS-16",
+        "desc": "La&nbsp;psilocybine pourrait prévenir des effets secondaires très douloureux de la chimiothérapie. Cette découverte est parue dans Science, et elle est le fruit d’une étude réalisé…",
+        "fecha": "2026-10-14T14:50:52+00:00",
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "China’s extraordinary rise in science and how it will change the world",
-        "enlace": "https://www.nature.com/articles/d41586-026-03222-9",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological …",
-        "fecha": "2026-10-14T12:46:00.556971+00:00",
+        "titulo": "This is why butterflies are so hard to catch",
+        "enlace": "https://www.nature.com/articles/d41586-026-03301-x",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
+        "fecha": "2026-10-14T17:53:45.060895+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1023,113 +1023,78 @@
         "titulo": "Klimaziel: Deutschland muss Billionen investieren",
         "enlace": "https://www.dw.com/de/klimaziel-deutschland-muss-billionen-investieren/a-79641448?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Um bis 2045 klimaneutral zu werden, müssen in Deutschland einer Studie zufolge sechs Billionen Euro investiert werden. Nach Überzeugung der Autoren lohnen sich die Ausgaben, weil i…",
-        "fecha": "2026-10-14T12:46:02.648143+00:00",
+        "fecha": "2026-10-14T17:53:47.830297+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "China’s AI research is booming. Where is it headed?",
-        "enlace": "https://www.nature.com/articles/d41586-026-03223-8",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
-        "fecha": "2026-10-14T12:46:02.753568+00:00",
+        "titulo": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "enlace": "https://www.nature.com/articles/s41586-026-11242-8",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "fecha": "2026-10-14T17:53:47.948520+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Verschwörungstheorien: Wie prüfe ich, was stimmen könnte?",
         "enlace": "https://www.dw.com/de/verschwörungstheorien-wie-prüfe-ich-was-stimmen-könnte/a-79518510?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Verschwörungen gibt es und wird es immer geben. Die Frage ist, wie sich absurde von wahrscheinlichen Verschwörungstheorien unterscheiden lassen. Dabei hilft ein gewisses Maß an Mis…",
-        "fecha": "2026-10-14T12:46:02.648186+00:00",
+        "fecha": "2026-10-14T17:53:47.830341+00:00",
         "fuente": "DW Wissen"
       },
       {
-        "titulo": "China’s extraordinary rise in science and how it will change the world",
-        "enlace": "https://www.nature.com/articles/d41586-026-03222-9",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological …",
-        "fecha": "2026-10-14T12:46:02.753613+00:00",
+        "titulo": "This is why butterflies are so hard to catch",
+        "enlace": "https://www.nature.com/articles/d41586-026-03301-x",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
+        "fecha": "2026-10-14T17:53:47.948564+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_it": [
       {
-        "titulo": "China’s AI research is booming. Where is it headed?",
-        "enlace": "https://www.nature.com/articles/d41586-026-03223-8",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
-        "fecha": "2026-10-14T12:46:05.633491+00:00",
+        "titulo": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "enlace": "https://www.nature.com/articles/s41586-026-11242-8",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+        "fecha": "2026-10-14T17:53:51.911110+00:00",
         "fuente": "Nature EN"
       },
       {
-        "titulo": "China’s extraordinary rise in science and how it will change the world",
-        "enlace": "https://www.nature.com/articles/d41586-026-03222-9",
-        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological …",
-        "fecha": "2026-10-14T12:46:05.633535+00:00",
+        "titulo": "This is why butterflies are so hard to catch",
+        "enlace": "https://www.nature.com/articles/d41586-026-03301-x",
+        "desc": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
+        "fecha": "2026-10-14T17:53:51.911155+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Se Passos Coelho voltar vai conseguir unir a direita?",
-        "enlace": "https://observador.pt/programas/realpolitik/se-passos-coelho-voltar-vai-conseguir-unir-a-direita/",
-        "desc": "No \"Realpolitik\", Sérgio Sousa Pinto e Miguel Pinheiro falam sobre a entrevista de Passos Coelho e respondem a um ouvinte que pediu sugestões de livros sobre política.",
-        "fecha": "2026-10-14T13:35:57+01:00",
+        "titulo": "OE. PS diz que retirou ao Chega possibilidade de chantagear",
+        "enlace": "https://observador.pt/2026/10/14/oe2027-ps-diz-que-abstencao-retira-ao-chega-possibilidade-de-chantagear-o-pais/",
+        "desc": "O documento tem aprovação garantida uma vez que o PS já anunciou a abstenção",
+        "fecha": "2026-10-14T18:44:40+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Fim da escala 6x1: Senado vota proposta nesta quarta-feira; acompanhe em tempo real",
+        "titulo": "Fim da escala 6x1: Senado pode decidir sobre proposta ainda nesta quarta; siga em tempo real",
         "enlace": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
         "desc": "Proposta, uma das maiores bandeiras da campanha de reeleição de Lula, pode passar pela primeira rodada de votação nesta quarta-feira (14/10). Flávio Bolsonaro (PL) voltou atrás sob…",
-        "fecha": "2026-10-14T12:46:07.564676+00:00",
+        "fecha": "2026-10-14T17:53:54.856273+00:00",
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Extraditado português suspeito de homicídio em Manchester",
-        "enlace": "https://observador.pt/2026/10/14/extraditado-portugues-suspeito-de-homicidio-em-confronto-de-gangues-em-manchester/",
-        "desc": "Presente ao Tribunal da Relação de Lisboa no dia 7 de outubro, foi-lhe determinada a extradição para o Reino Unido, agora cumprida",
-        "fecha": "2026-10-14T13:22:56+01:00",
+        "titulo": "O que ganha Portugal com a privatização da TAP?",
+        "enlace": "https://observador.pt/programas/explicador/o-que-ganha-portugal-com-a-privatizacao-da-tap/",
+        "desc": "Filipe Costa (PS) rejeita privatização total e defende os 49,9%. Jorge Miguel Teixeira (IL) defende venda a 100%, mas pede clareza. Gonçalo Lage (PSD) rejeita dúvidas e destaca o p…",
+        "fecha": "2026-10-14T18:35:35+01:00",
         "fuente": "Observador Tech"
       },
       {
-        "titulo": "Ex-ministro de FHC, Pedro Parente vê em Flávio risco de concentração de poder",
-        "enlace": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
-        "desc": "Ex-ministro da Casa Civil de FHC e ex-presidente da Petrobras afirma que Flávio Bolsonaro não demonstrou ter um projeto de país.",
-        "fecha": "2026-10-14T07:48:30+00:00",
+        "titulo": "Meta promete mudança em sua IA após acusações de favorecimento a Flávio Bolsonaro",
+        "enlace": "https://www.bbc.com/portuguese/articles/cm4g1exxq8ndo?at_medium=RSS&at_campaign=rss",
+        "desc": "Em redes sociais, usuários relataram que conseguiram criar materiais de campanha pró-Flávio Bolsonaro, mas que a ferramenta da Meta vetou a criação de materiais pró-Lula",
+        "fecha": "2026-10-14T16:05:42+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
     "economia_es": [
-      {
-        "titulo": "FCC, Urbaser y Prezero se lanzan a por las plantas de residuos de Madrid",
-        "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6ace9b4b468aebb97b8b45a0.html",
-        "desc": "La nueva planta de la Mancomunidad del Noroeste y la gestión de Las Lomas (Valdemingómez) reúne a los grupos líderes de medio ambiante. Acciona se cae de las pujas.&nbsp; Leer",
-        "fecha": "2026-10-14T03:08:58+02:00",
-        "fuente": "Expansión"
-      },
-      {
-        "titulo": "El petróleo de Texas baja un 1,24 %, hasta los 92,58 dólares el barril",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-10-13/petroleo-wti-ataques-arabia-saudi-1tps_4444000/",
-        "desc": "El crudo estadounidense retrocede tras el avance previo, mientras los ataques a instalaciones saudíes y ucranianas elevan la inquietud sobre el suministro energético",
-        "fecha": "2026-10-14T12:46:10.300516+00:00",
-        "fuente": "El Confidencial Eco"
-      },
-      {
-        "titulo": "El 92% de los europeos pide garantizar que se pueda pagar en efectivo, según Denaria Europe",
-        "enlace": "https://www.abc.es/economia/europeos-pide-garantizar-pueda-pagar-efectivo-segun-20261014125239-nt.html",
-        "desc": "El 92% de los europeos considera que debe garantizarse la posibilidad de realizar pagos en efectivo, aunque solamente un 23% lo utiliza como medio de pago principal , según se desp…",
-        "fecha": "2026-10-14T12:52:40+02:00",
-        "fuente": "ABC Economía"
-      },
-      {
-        "titulo": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "desc": "Stocks and bonds fell as consumer prices climbed at the fastest pace in five months, reinforcing concerns the Federal Reserve will keep lifting interest rates amid elevated oil pri…",
-        "fecha": "2026-10-13T22:03:38+00:00",
-        "fuente": "Bloomberg"
-      },
-      {
-        "titulo": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-        "enlace": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-        "desc": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
-        "fecha": "2026-10-14T11:58:05+00:00",
-        "fuente": "CNBC"
-      },
       {
         "titulo": "La deuda española ofrece una oportunidad histórica para invertir",
         "enlace": "https://www.expansion.com/mercados/renta-fija/2026/10/14/6ace67f2e5fdea18358b456f.html",
@@ -1138,54 +1103,89 @@
         "fuente": "Expansión"
       },
       {
-        "titulo": "Berkeley corta su remontada (-3,87%) pero suma aún un 90% en octubre",
-        "enlace": "https://www.elconfidencial.com/mercados/2026-10-13/se-dispara-un-120-berkeley-mineria_4443996/",
-        "desc": "Berkeley destaca como elemento relevante el nuevo escenario político en España. En concreto, Pedro Sánchez anunció la convocatoria de elecciones generales anticipadas para el 29 de…",
-        "fecha": "2026-10-14T12:46:10.300560+00:00",
+        "titulo": "El petróleo de Texas baja un 1,24 %, hasta los 92,58 dólares el barril",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-10-13/petroleo-wti-ataques-arabia-saudi-1tps_4444000/",
+        "desc": "El crudo estadounidense retrocede tras el avance previo, mientras los ataques a instalaciones saudíes y ucranianas elevan la inquietud sobre el suministro energético",
+        "fecha": "2026-10-14T17:53:56.853523+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Cuerpo admite que la retirada de pisos de alquiler «puede estar relacionado» con la «incertidumbre» por el decreto",
-        "enlace": "https://www.abc.es/economia/cuerpo-admite-retirada-pisos-alquiler-puede-estar-20261014113913-nt.html",
-        "desc": "El vicepresidente primero y ministro de Economía, Carlos Cuerpo, ha reconocido que la retirada masiva de viviendas del mercado del alquiler por parte de pequeños propietarios desde…",
-        "fecha": "2026-10-14T11:39:13+02:00",
+        "titulo": "El PP respalda la candidatura de Hernández de Cos para presidir el BCE",
+        "enlace": "https://www.abc.es/economia/pp-respalda-candidatura-hernandez-cos-presidir-bce-20261014191904-nt.html",
+        "desc": "Cierre de filas en torno a Pablo Hernández de Cos para optar a que presida el Banco Central Europeo (BCE) . Tres semanas después de que el Gobierno de Pedro Sánchez lanzara su cand…",
+        "fecha": "2026-10-14T19:19:04+02:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-        "desc": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar rep…",
-        "fecha": "2026-10-14T12:34:23+00:00",
+        "titulo": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+        "desc": "September’s hot inflation data lit up expectations that the Federal Reserve may raise interest rates this month, a prospect that appeared unlikely after policymakers in recent week…",
+        "fecha": "2026-10-14T17:43:06+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-        "enlace": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-        "desc": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.",
-        "fecha": "2026-10-14T12:10:03+00:00",
+        "titulo": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+        "enlace": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+        "desc": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
+        "fecha": "2026-10-14T17:33:57+00:00",
+        "fuente": "CNBC"
+      },
+      {
+        "titulo": "FCC, Urbaser y Prezero se lanzan a por las plantas de residuos de Madrid",
+        "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6ace9b4b468aebb97b8b45a0.html",
+        "desc": "La nueva planta de la Mancomunidad del Noroeste y la gestión de Las Lomas (Valdemingómez) reúne a los grupos líderes de medio ambiante. Acciona se cae de las pujas.&nbsp; Leer",
+        "fecha": "2026-10-14T03:08:58+02:00",
+        "fuente": "Expansión"
+      },
+      {
+        "titulo": "Berkeley corta su remontada (-3,87%) pero suma aún un 90% en octubre",
+        "enlace": "https://www.elconfidencial.com/mercados/2026-10-13/se-dispara-un-120-berkeley-mineria_4443996/",
+        "desc": "Berkeley destaca como elemento relevante el nuevo escenario político en España. En concreto, Pedro Sánchez anunció la convocatoria de elecciones generales anticipadas para el 29 de…",
+        "fecha": "2026-10-14T17:53:56.853565+00:00",
+        "fuente": "El Confidencial Eco"
+      },
+      {
+        "titulo": "La inflación acelera también en EE.UU.: complica las elecciones a Trump y presiona a la Fed",
+        "enlace": "https://www.abc.es/economia/inflacion-acelera-eeuu-complica-elecciones-trump-presiona-20261014180652-nt.html",
+        "desc": "Los precios de EE.UU. experimentaron en septiembre una subida del 3,7% respecto a hace un año, según los datos ofrecidos este miércoles por la Oficina de Estadísticas Laborales. Es…",
+        "fecha": "2026-10-14T18:06:52+02:00",
+        "fuente": "ABC Economía"
+      },
+      {
+        "titulo": "A elite empresarial busca aproximação com Flávio Bolsonaro",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
+        "desc": "A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier (Source: Bloomb…",
+        "fecha": "2026-10-14T17:36:35+00:00",
+        "fuente": "Bloomberg"
+      },
+      {
+        "titulo": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+        "enlace": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+        "desc": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
+        "fecha": "2026-10-14T15:03:59+00:00",
         "fuente": "CNBC"
       }
     ],
     "economia_en": [
       {
-        "titulo": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "desc": "Stocks and bonds fell as consumer prices climbed at the fastest pace in five months, reinforcing concerns the Federal Reserve will keep lifting interest rates amid elevated oil pri…",
-        "fecha": "2026-10-13T22:03:38+00:00",
+        "titulo": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+        "desc": "September’s hot inflation data lit up expectations that the Federal Reserve may raise interest rates this month, a prospect that appeared unlikely after policymakers in recent week…",
+        "fecha": "2026-10-14T17:43:06+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Consumer inflation rose at a faster pace than expected in September",
-        "enlace": "https://www.foxbusiness.com/economy/cpi-inflation-september-2026",
-        "desc": "The Labor Department released the latest consumer price index data for September which showed CPI inflation rose further from the Fed&apos;s target for the month.",
-        "fecha": "2026-10-14T08:33:53-04:00",
+        "titulo": "Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway",
+        "enlace": "https://www.foxbusiness.com/markets/michael-saylor-predicts-bitcoin-blow-past-100k-he-declares-new-bull-market-underway",
+        "desc": "Michael Saylor predicts bitcoin will surge past $100,000 to kick off a massive new bull market, arguing the failed Clarity Act freed crypto regulation.",
+        "fecha": "2026-10-14T13:03:10-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-        "enlace": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-        "desc": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
-        "fecha": "2026-10-14T11:58:05+00:00",
+        "titulo": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+        "enlace": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+        "desc": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
+        "fecha": "2026-10-14T17:33:57+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1196,24 +1196,24 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-        "desc": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar rep…",
-        "fecha": "2026-10-14T12:34:23+00:00",
+        "titulo": "A elite empresarial busca aproximação com Flávio Bolsonaro",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
+        "desc": "A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier (Source: Bloomb…",
+        "fecha": "2026-10-14T17:36:35+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Amazon Extra Strength Acetaminophen recalled: More than 112,000 bottles affected by discoloration complaints",
-        "enlace": "https://www.foxbusiness.com/lifestyle/amazon-extra-strength-acetaminophen-recalled-more-than-112000-bottles-affected-discoloration-complaints",
-        "desc": "The FDA says over 112,000 bottles of Amazon Extra Strength Acetaminophen are being recalled after consumer complaints about discolored tablets.",
-        "fecha": "2026-10-14T01:27:03-04:00",
+        "titulo": "US regulator accuses nation's largest banks of debanking customers over political views",
+        "enlace": "https://www.foxbusiness.com/politics/us-regulator-accuses-nations-largest-banks-debanking-customers-over-political-views",
+        "desc": "The Office of the Comptroller of the Currency released a report Wednesday into debanking practices in the U.S., saying it has found &quot;irrefutable evidence.&quot;",
+        "fecha": "2026-10-14T12:21:21-04:00",
         "fuente": "Fox Business"
       },
       {
-        "titulo": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-        "enlace": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-        "desc": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.",
-        "fecha": "2026-10-14T12:10:03+00:00",
+        "titulo": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+        "enlace": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+        "desc": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
+        "fecha": "2026-10-14T15:03:59+00:00",
         "fuente": "CNBC"
       },
       {
@@ -1226,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "desc": "Stocks and bonds fell as consumer prices climbed at the fastest pace in five months, reinforcing concerns the Federal Reserve will keep lifting interest rates amid elevated oil pri…",
-        "fecha": "2026-10-13T22:03:38+00:00",
+        "titulo": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+        "desc": "September’s hot inflation data lit up expectations that the Federal Reserve may raise interest rates this month, a prospect that appeared unlikely after policymakers in recent week…",
+        "fecha": "2026-10-14T17:43:06+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-        "desc": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar rep…",
-        "fecha": "2026-10-14T12:34:23+00:00",
+        "titulo": "A elite empresarial busca aproximação com Flávio Bolsonaro",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
+        "desc": "A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier (Source: Bloomb…",
+        "fecha": "2026-10-14T17:36:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "+++ Ukraine-Krieg +++: Selenskyj zu Gespräch mit Premierminister Burnham in London eingetroffen",
-        "enlace": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-zu-gespraech-mit-burnham-in-london-eingetroffen/27982126.html",
-        "desc": "Polens Außenminister kritisiert Musk für Starlink-Einschränkung +++ EU überweist Ukraine Milliardensumme für Drohnen und Raketen +++ Wadephul sieht keine reduzierte US-Hilfe für Uk…",
-        "fecha": "2026-10-14T12:41:00+00:00",
+        "titulo": "Geldanlage: Bis zu 14 Prozent Jahresrendite: Welche Robo-Advisor am besten performen",
+        "enlace": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-erzielten-2025-die-hoechsten-renditen/100224417.html",
+        "desc": "Digitale Vermögensverwalter erzielten 2025 teils zweistellige Renditen, wie eine neue Auswertung zeigt. Die Lösungen eignen sich besonders für zwei Anlegertypen.",
+        "fecha": "2026-10-15T13:00:00+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "desc": "Stocks and bonds fell as consumer prices climbed at the fastest pace in five months, reinforcing concerns the Federal Reserve will keep lifting interest rates amid elevated oil pri…",
-        "fecha": "2026-10-13T22:03:38+00:00",
+        "titulo": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+        "desc": "September’s hot inflation data lit up expectations that the Federal Reserve may raise interest rates this month, a prospect that appeared unlikely after policymakers in recent week…",
+        "fecha": "2026-10-14T17:43:06+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Sachsen-Anhalt: „Explosives Regierungsgemisch“ – Forscher warnen vor schwer kontrollierbarer AfD-Fraktion",
-        "enlace": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-forscher-warnen-vor-schwer-kontrollierbarer-afd-fraktion-01/100261237.html",
-        "desc": "Die AfD könnte in Sachsen-Anhalt bald regieren. Doch bestimmte Abgeordnete könnten eigene Wege gehen und die Regierung ausbremsen, zeigt eine Analyse des Instituts der deutschen Wi…",
-        "fecha": "2026-10-14T12:32:00+00:00",
+        "titulo": "HIV und Aids: Von HIV geheilter Patient ist Charité-Mitarbeiter",
+        "enlace": "https://www.handelsblatt.com/technik/forschung-innovation/hiv-und-aids-von-hiv-geheilter-patient-ist-charite-mitarbeiter/100262317.html",
+        "desc": "Der „Zweite Berliner Patient“ wurde als einer von 13 Menschen weltweit von HIV geheilt. Ihm wurden Stammzellen einer gesunden Spenderin inklusive ihres Immunsystems übertragen.",
+        "fecha": "2026-10-14T17:29:47+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-        "desc": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar rep…",
-        "fecha": "2026-10-14T12:34:23+00:00",
+        "titulo": "A elite empresarial busca aproximação com Flávio Bolsonaro",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
+        "desc": "A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier (Source: Bloomb…",
+        "fecha": "2026-10-14T17:36:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "desc": "Stocks and bonds fell as consumer prices climbed at the fastest pace in five months, reinforcing concerns the Federal Reserve will keep lifting interest rates amid elevated oil pri…",
-        "fecha": "2026-10-13T22:03:38+00:00",
+        "titulo": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+        "desc": "September’s hot inflation data lit up expectations that the Federal Reserve may raise interest rates this month, a prospect that appeared unlikely after policymakers in recent week…",
+        "fecha": "2026-10-14T17:43:06+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-        "desc": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar rep…",
-        "fecha": "2026-10-14T12:34:23+00:00",
+        "titulo": "A elite empresarial busca aproximação com Flávio Bolsonaro",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
+        "desc": "A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier (Source: Bloomb…",
+        "fecha": "2026-10-14T17:36:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "“Precisamos avançar para a segunda fase” da venda da TAP",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/precisamos-avancar-para-a-segunda-fase-da-venda-da-tap",
-        "desc": "Fechada a venda de até 49,9% do capital da companhia portuguesa, o Executivo diz que está pronto para avançar para a segunda fase. A alienação do remanescente poderá estar fechada …",
-        "fecha": "2026-10-14T13:32:58+01:00",
+        "titulo": "Zelensky preocupado com limitações no Starlink e partilha de informação dos EUA",
+        "enlace": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/zelensky-preocupado-com-limitacoes-no-starlink-e-partilha-de-informacao-dos-eua",
+        "desc": "O Presidente ucraniano lamenta a falta de informação dos serviços de inteligência norte-americanos sobre os ataques russos e de restrições no uso da plataforma de comunicações por …",
+        "fecha": "2026-10-14T18:50:17+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
-        "desc": "Stocks and bonds fell as consumer prices climbed at the fastest pace in five months, reinforcing concerns the Federal Reserve will keep lifting interest rates amid elevated oil pri…",
-        "fecha": "2026-10-13T22:03:38+00:00",
+        "titulo": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
+        "desc": "September’s hot inflation data lit up expectations that the Federal Reserve may raise interest rates this month, a prospect that appeared unlikely after policymakers in recent week…",
+        "fecha": "2026-10-14T17:43:06+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Parceria com Lufthansa põe Portugal na rota \"da recuperação total\" do valor injetado na TAP",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/parceria-com-lufthansa-poe-portugal-na-rota-da-recuperacao-total-do-valor-injetado-na-tap",
-        "desc": "Primeiro-ministro, Luís Montenegro, diz que a Lufthansa foi a \"melhor escolha\" para a TAP.",
-        "fecha": "2026-10-14T13:31:00+01:00",
+        "titulo": "Maioria dos portugueses quer ter possibilidade de pagar em dinheiro, diz estudo",
+        "enlace": "https://www.jornaldenegocios.pt/economia/detalhe/maioria-dos-portugueses-quer-ter-possibilidade-de-pagar-em-dinheiro-diz-estudo",
+        "desc": "A possibilidade de usar moedas e notas nos pagamentos é apoiada por 97% dos inquiridos em Portugal, de acordo com o Barómetro Europeu sobre a Necessidade de Preservar o Numerário.",
+        "fecha": "2026-10-14T18:42:09+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/saudi-aramco-headquarters-hit-in-houthi-attack-video",
-        "desc": "Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, hitting oil giant Saudi Aramco’s headquarters, as well several cities in the kingdom. Abeer Abu Omar rep…",
-        "fecha": "2026-10-14T12:34:23+00:00",
+        "titulo": "A elite empresarial busca aproximação com Flávio Bolsonaro",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
+        "desc": "A repórter Rachel Gamarski conta sobre como a elite empresarial busca aproximação com Flávio Bolsonaro. Com produção de Gisele Fernandes e edição de Patricia Xavier (Source: Bloomb…",
+        "fecha": "2026-10-14T17:36:35+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
