@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-10-17T08:23:49.345734+00:00",
+  "actualizado": "2026-10-17T12:47:58.086099+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Lluvias y tormentas en toda Andalucía este sábado: consulta el mapa y los horarios de alerta",
-        "enlace": "https://www.abc.es/espana/andalucia/lluvias-tormentas-andalucia-sabado-consulta-mapa-horarios-20261017100910-nts.html",
-        "desc": "El fin de semana en Andalucía comienza con un cambio de tiempo importante como consecuencia de la llegada de fuertes lluvias y tormentas desde este sábado, 17 de octubre, que oblig…",
-        "fecha": "2026-10-17T10:09:10+02:00",
+        "titulo": "Un año de prisión por agredir y humillar a su pareja en la boda de su hermano",
+        "enlace": "https://www.abc.es/espana/andalucia/huelva/ano-prision-agredir-humillar-pareja-boda-hermano-20261017143343-nts.html",
+        "desc": "Un hombre con antecedentes por violencia de género agredió físicamente y humilló verbalmente a su esposa en el aparcamiento del restaurante donde se celebraba la boda de su propio …",
+        "fecha": "2026-10-17T14:33:44+02:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez por la polémica de los \"30 pisos\" y Page se ausenta de un Comité Federal \"sin posibilidad de intervención\"",
+        "enlace": "https://www.elmundo.es/espana/2026/10/17/6ad32408fdddffb0328b4578.html",
+        "desc": "El máximo órgano del partido proclama a Sánchez como candidato \"por unanimidad\" y aprueba las listas al Congreso y Senado tras las imposiciones de Ferraz&nbsp; Leer",
+        "fecha": "2026-10-17T12:41:47+02:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "Zozobra en el Comité Federal del PSOE tras la dimisión de Montse Mínguez",
+        "enlace": "https://www.libertaddigital.com/espana/2026-10-17/zozobra-en-el-comite-federal-del-psoe-tras-la-dimision-de-monse-minguez-7477588/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Sánchez reúne este sábado al máximo órgano socialista en Fuenlabrada, sin turno de palabra para sus miembros y tras la salida de su portavoz.",
+        "fecha": "2026-10-17T09:15:16+02:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "Nogueras reivindica a Junts como freno a los «dos bloques españoles» y sus extremos",
+        "enlace": "https://theobjective.com/espana/politica/2026-10-17/nogueras-junts-freno-espanoles-extremos/",
+        "desc": "La candidata de Junts al Congreso y portavoz del partido en la Cámara durante la anterior legislatura, Míriam Nogueras, ha reivindicado el papel de su partido, [&#8230;]",
+        "fecha": "2026-10-17T12:45:37+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "Un hombre se desorienta mientras realiza una ruta en Aller y pasa la noche en una cueva",
+        "enlace": "https://www.elconfidencial.com/espana/2026-10-17/rescate-hombre-desorientado-montana-aller-1tna-1tps_4447153/",
+        "desc": "Los equipos del SEPA lo localizaron en un alto junto a su perro y le facilitaron abrigo y alimentos antes de acompañarlo hasta su vehículo",
+        "fecha": "2026-10-17T12:47:59.750514+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Rafa Jódar – Medvedev, en directo hoy: cómo va el partido, dónde ver, y marcador online de las semifinales del Masters 1000 de Shanghái 2026 en tiempo real",
+        "enlace": "https://okdiario.com/deportes/rafa-jodar-medvedev-directo-sigue-partido-semifinales-del-masters-1000-shanghai-2026-tiempo-real-20569664",
+        "desc": "¡Buenos días! Bienvenidos a la retransmisión en directo del partido de semifinales del Masters 1.000 de Shanghái entre Rafa Jódar y Daniil Medvedev. El tenista español sueña con di…",
+        "fecha": "2026-10-17T14:40:03+02:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "Sánchez elude mencionar la dimisión de Montse Mínguez e insiste en que el PSOE lucha contra \"los fondos buitre\"",
+        "enlace": "https://www.elespanol.com/espana/politica/20261017/sanchez-presume-luchar-fondos-buitre-pese-caso-minguez-proclama-amor-begona-gomez/1003744424019_0.html",
+        "desc": "El PSOE da el visto bueno a las listas del PSOE y aprueba el relevo de Mínguez, que será sustituida en la portavocía por Rebeca Torró. Más información: La campaña de los \"fondos bu…",
+        "fecha": "2026-10-17T12:53:55+02:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Un incendio forestal activo en Forcarei calcina más de 20 hectáreas",
+        "enlace": "https://www.abc.es/espana/galicia/incendio-forestal-activo-forcarei-calcina-hectareas-20261017143007-nt.html",
+        "desc": "Un incendio forestal permanece activo en Forcarei (Pontevedra) desde altas horas de la madrugada de este sábado y ha calcinado hasta ahora una superficie de 20 hectáreas, según las…",
+        "fecha": "2026-10-17T14:30:07+02:00",
         "fuente": "ABC"
       },
       {
@@ -17,260 +66,240 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Sánchez renuncia a 61.700 millones de fondos europeos que habrían permitido financiar 440.000 viviendas asequibles",
-        "enlace": "https://www.libertaddigital.com/libremercado/2026-10-17/sanchez-renuncia-a-61-700-millones-de-fondos-europeos-que-habrian-permitido-financiar-440-000-viviendas-asequibles-7476723/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El FRI calcula que los préstamos europeos descartados por el Gobierno habrían permitido cubrir el 60% del déficit residencial de España.",
-        "fecha": "2026-10-17T07:01:07+02:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "El PSOE cierra filas con Mínguez y denuncia la «crueldad» política tras su dimisión",
-        "enlace": "https://theobjective.com/espana/politica/2026-10-17/psoe-filas-minguez-crueldad-dimision/",
-        "desc": "Dirigentes socialistas que asisten este sábado al Comité Federal del PSOE han hecho patente su apoyo a la hasta ahora portavoz del partido, Montse Mínguez, cuya [&#8230;]",
-        "fecha": "2026-10-17T08:18:12+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "Un hombre sufre una parada cardiorrespiratoria y se salva con la cadena de supervivencia en Getafe",
-        "enlace": "https://www.elconfidencial.com/espana/madrid/2026-10-17/parada-cardiorrespiratoria-deportista-getafe-1tna-1tps_4447051/",
-        "desc": "Testigos y agentes iniciaron la reanimación con un desfibrilador, lograron recuperar el pulso y trasladaron al afectado al hospital con buen pronóstico",
-        "fecha": "2026-10-17T08:23:52.766840+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Jorge Rey lanza un aviso sobre el tiempo en España: «Otra DANA traerá fuertes tormentas a estas zonas el domingo y el lunes»",
-        "enlace": "https://okdiario.com/sociedad/jorge-rey-lanza-aviso-sobre-tiempo-espana-otra-dana-traera-fuertes-tormentas-estas-zonas-domingo-lunes-20570619",
-        "desc": "Jorge Rey ha vuelto a hacerse viral con una advertencia para este fin de semana: llega otra DANA y el Mediterráneo será la zona más castigada. El joven extremeño, conocido por sus …",
-        "fecha": "2026-10-17T10:20:16+02:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "La campaña de los \"fondos buitre\" se vuelve contra el PSOE y tumba a Montse Mínguez: Sánchez intentó que siguiera",
-        "enlace": "https://www.elespanol.com/espana/politica/20261017/campana-fondos-buitre-vuelve-psoe-tumba-montse-minguez-sanchez-intento-siguiera/1003744423598_0.html",
-        "desc": "El presidente lo presenta como una \"cacería\", critica el nivel \"de agresividad y de odio\" en la política y dice que \"en los últimos años se han cruzado líneas rojas\". Temor en el G…",
-        "fecha": "2026-10-17T05:00:00+02:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "La Guardia Civil da un golpe a los petaqueros tras desmantelar una guardería en Cádiz",
-        "enlace": "https://www.abc.es/espana/andalucia/cadiz/guardia-civil-golpe-petaqueros-tras-desmantelar-guarderia-20261017100736-nts.html",
-        "desc": "La Guardia Civil de Cádiz ha dado un golpe a los petaqueros, definitivo para una organización criminal que se asentaba en la provincia de Cádiz compuesta por vecinos de Conil y La …",
-        "fecha": "2026-10-17T10:07:37+02:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "El PSOE designa a Rebeca Torró portavoz tras la dimisión de Montse Mínguez por la polémica de los \"30 pisos\" y Page se ausenta de un Comité Federal \"sin posibilidad de intervención\"",
-        "enlace": "https://www.elmundo.es/espana/2026/10/17/6ad32408fdddffb0328b4578.html",
-        "desc": "Page se ausenta del Comité Federal de este sábado por ser \"una reunión de trámite sin posibilidad de intervención\"&nbsp; Leer",
-        "fecha": "2026-10-17T09:54:56+02:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "La vivienda le estalla al Gobierno que busca ahora azuzar el miedo a PP y Vox con las pensiones",
-        "enlace": "https://www.libertaddigital.com/espana/politica/2026-10-17/la-vivienda-le-estalla-al-gobierno-que-busca-ahora-azuzar-el-miedo-a-pp-y-vox-con-las-pensiones-7477190/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Las contradicciones de los dirigentes del PSOE truncan los planes sus planes de utilizar la vivienda como ariete electoral.",
-        "fecha": "2026-10-17T05:00:35+02:00",
+        "titulo": "Sánchez convierte el mitin del PSOE en una declaración de amor a Begoña: &quot;Que lo escuchen alto y claro. Te quiero&quot;",
+        "enlace": "https://www.libertaddigital.com/espana/politica/2026-10-17/sanchez-convierte-el-mitin-del-psoe-en-una-declaracion-de-amor-a-begona-que-lo-escuchen-alto-y-claro-te-quiero-7477639/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "El PSOE vuelve a defender la tesis de que las causas judiciales que le salpican responden a &quot;bulos&quot;.",
+        "fecha": "2026-10-17T12:33:23+02:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "Fox News Campus Radicals Newsletter: Judeo-Christian values under assault in American schools",
-        "enlace": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-judeo-christian-values-under-assault-american-schools",
-        "desc": "Stay up to date with the Fox News Campus Radicals newsletter.",
-        "fecha": "2026-10-16T21:33:21-04:00",
+        "titulo": "Detective suspected in girl’s murder may have killed others, former investigator fears",
+        "enlace": "https://www.foxnews.com/us/detective-suspected-girls-murder-may-have-killed-others-former-investigator-fears",
+        "desc": "A fingerprint on an 8-year-old&apos;s communion purse finally identified Chicago cop Thomas McInerney as Gloria Kowalewicz&apos;s killer after 65 years, police say.",
+        "fecha": "2026-10-17T08:00:01-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Coastal homes burn as hot winds fuel California fires",
-        "enlace": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
-        "desc": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate.",
-        "fecha": "2026-10-17T04:20:00-04:00",
+        "titulo": "Perspective: Midterm money madness",
+        "enlace": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+        "desc": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+        "fecha": "2026-10-17T08:00:00-04:00",
         "fuente": "NPR"
       },
       {
-        "titulo": "Hero dad who took down Oregon school shooter identified along with teacher, student both killed in attack",
-        "enlace": "https://www.foxnews.com/us/hero-dad-took-down-oregon-school-shooter-identified-along-teacher-killed-attack",
-        "desc": "The teacher killed in a shooting at a Bend, Oregon, school was identified by police Friday as 25-year-old Meghan Lambert. The hero who took down the shooter was Kaylub Giamanco.",
-        "fecha": "2026-10-16T18:02:51-04:00",
+        "titulo": "Serial killer's ex-wife slept beside murderer for 8 years, never suspected his deadly double life",
+        "enlace": "https://www.foxnews.com/us/serial-killer-ex-wife-slept-beside-murderer-8-years-never-suspected-deadly-double-life",
+        "desc": "Bonnie Lou Gower reveals the haunting warning signs she missed while sharing a bed with serial killer Richard Evonitz for over eight years.",
+        "fecha": "2026-10-17T07:00:19-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Katie Zacharia is out as press secretary, White House says",
-        "enlace": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
-        "desc": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events f…",
-        "fecha": "2026-10-16T16:29:40-04:00",
+        "titulo": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+        "enlace": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+        "desc": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's…",
+        "fecha": "2026-10-17T07:43:14-04:00",
         "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "En 1888, George Vanderbilt comenzó a construir una vasta propiedad en Carolina del Norte; 26 años después, su viuda vendió 86.700 acres de su finca por 433.500 dólares, lo que ayudó a crear el núcleo …",
-        "enlace": "https://www.clarin.com/estados-unidos/1888-george-vanderbilt-comenzo-construir-vasta-propiedad-carolina-norte-26-anos-despues-viuda-vendio-86700-acres-finca-433500-dolares-ayudo-crear-nucleo-bosque-nacional-pisgah-1916_0_N3meyA1WkO.html",
-        "desc": "La enorme propiedad terminó dando origen a una de las grandes áreas protegidas de Carolina del Norte.",
-        "fecha": "2026-10-17T07:45:41+00:00",
+        "titulo": "\"No soy un robot\": el cansancio de Zverev y la sorpresa de Davidovich en el Masters 1000 de Shanghái",
+        "enlace": "https://www.clarin.com/deportes/robot-cansancio-zverev-sorpresa-davidovich-masters-1000-shanghai_0_m02JRhdp8A.html",
+        "desc": "El alemán, segundo del ranking mundial pero que cerrará el año como número 1, cayó en tres sets ante el español, que buscará su primer título Masters 1000. “Lo primero que se te ca…",
+        "fecha": "2026-10-17T12:25:25+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Jenn Crovato, chef: “La cebolla no se debe refrigerar entera, ya que la baja temperatura hace que se ablande”",
-        "enlace": "https://www.lanacion.com.ar/estados-unidos/jenn-crovato-chef-la-cebolla-no-se-debe-refrigerar-entera-ya-que-la-baja-temperatura-hace-que-se-nid17102026/",
-        "desc": "Descubre por qué la chef Jenn Crovato recomienda no refrigerar las cebollas enteras y conoce cómo conservarlas para evitar que se ablanden.",
-        "fecha": "2026-10-17T08:15:00+00:00",
+        "titulo": "Julieta Picos, dermatóloga: “Después de los 40, hay tres pilares para cuidar la piel: limpieza, hidratación y fotoprotección”",
+        "enlace": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/julieta-picos-dermatologa-despues-de-los-40-hay-tres-pilares-para-cuidar-la-piel-limpieza-nid17102026/",
+        "desc": "La médica especializada en dermatología reveló los consejos para cuidar la piel del envejecimiento natural del organismo",
+        "fecha": "2026-10-17T12:39:47+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "En 2011, Taylor Swift donó 6.000 libros por valor de 68.000 dólares a una biblioteca de Pensilvania que luchaba por mantenerse abierta; 14 años después, en 2025, la biblioteca prestaba casi 200 mil ej…",
-        "enlace": "https://www.clarin.com/estados-unidos/2011-taylor-swift-dono-6000-libros-valor-68000-dolares-biblioteca-pensilvania-luchaba-mantenerse-abierta-14-anos-despues-2025-biblioteca-prestaba-200-mil-ejemplares-atraia-cientos-participantes-programas_0_2MoCVDCwHQ.html",
-        "desc": "Un gesto de Taylor Swift dejó huellas en Pensilvania. La biblioteca de Reading aún sigue reuniendo a distintas generaciones alrededor de la lectura.",
-        "fecha": "2026-10-17T07:43:41+00:00",
+        "titulo": "Javier Milei y sus medidas, EN VIVO: tras su visita a EE.UU., el Presidente ya prepara otro viaje a España",
+        "enlace": "https://www.clarin.com/politica/javier-milei-medidas-vivo-visita-eeuu-presidente-prepara-viaje-espana_0_we2ZpxlEVB.html",
+        "desc": "El mandatario viajará al país europeo en el marco de la previa de las elecciones presidenciales anticipadas, en las que apoyará a partidos de derecha como por ejemplo VOX, de Santi…",
+        "fecha": "2026-10-17T12:09:38+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "Se aproxima un fenómeno que pondrá fin a un período de diez días consecutivos de lluvias y provocará un fin de semana de contrastes muy marcados, con frío y algo de sol: las zonas afectadas",
-        "enlace": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-fenomeno-que-pondra-fin-a-un-periodo-de-diez-dias-consecutivos-de-lluvias-y-provocara-nid17102026/",
-        "desc": "El cambio en la circulación del viento favorecerá una mejora gradual en la Capital y el conurbano, aunque las mínimas caerán hasta los 5 °C; el Día de la Madre tendrá más ratos de …",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Detuvieron al padre de Agostina Páez, la argentina que estuvo presa en Brasil por gestos racistas",
+        "enlace": "https://www.lanacion.com.ar/seguridad/detuvieron-al-padre-de-agostina-paez-la-argentina-que-estuvo-presa-en-brasil-por-gestos-racistas-nid17102026/",
+        "desc": "Está acusado de robar dinero en efectivo de un comercio en Termas de Río Hondo; también fue aprehendida su pareja, señalada como su cómplice",
+        "fecha": "2026-10-17T12:36:24+00:00",
         "fuente": "La Nación"
       }
     ],
     "nacional_co": [],
     "nacional_fr": [
       {
-        "titulo": "Entre Emmanuel Macron et la jeunesse, un divorce consommé",
-        "enlace": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html",
-        "desc": "Porteur d’un message d’émancipation sociale lors de son arrivée au pouvoir, le chef de l’Etat n’a cessé de creuser le fossé avec la jeune génération, qui se mobilisera samedi 17 oc…",
-        "fecha": "2026-10-17T05:30:19+02:00",
+        "titulo": "EN DIRECT, manifestations du 17 octobre : à Paris, Lyon, Bordeaux et d’autres grandes villes, des tensions entre les forces de l’ordre et des manifestants avant le départ des cortèges",
+        "enlace": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-plusieurs-actions-contestaires-se-mettent-en-place-a-travers-la-france-avec-une-forte-presence-policiere_6795855_3224.html",
+        "desc": "Un cortège protéiforme contre la « vie chère » va partir de la place de la République à Paris, où la situation est tendue depuis samedi matin. Les forces de l’ordre ont fait usage …",
+        "fecha": "2026-10-17T12:48:55+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "EN DIRECT - Manifestations du 17 octobre : des incidents à Lyon, des barrages filtrants par des «gilets jaunes» à Rennes et des commerces barricadés à Paris",
+        "titulo": "EN DIRECT - Manifestations du 17 octobre : le cortège s’élance à Paris, des affrontements violents dans la capitale, ainsi qu’à Marseille et à Lyon",
         "enlace": "https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017",
         "desc": "Des «gilets jaunes», des lycéens et des étudiants, rejoints par des organisations syndicales, appellent à manifester ce samedi 17 octobre contre la vie chère, la hausse des prix de…",
-        "fecha": "2026-10-17T10:23:02+02:00",
+        "fecha": "2026-10-17T14:37:10+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Midterms 2026, le récap’ : toujours devancés, les républicains se raccrochent à la marge d’erreur",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20261017-midterms-2026-recap-republicains-marge-erreur-sondages-democrates-musk-texas-minnesota",
-        "desc": "La dernière ligne droite de la campagne pour les midterms a commencé ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point sur ce qu'il faut retenir. Alors que …",
-        "fecha": "2026-10-17T07:43:05+00:00",
+        "titulo": "🔴 17-Octobre en direct : des milliers de manifestants en France, tensions à Paris et Marseille",
+        "enlace": "https://www.france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
+        "desc": "",
+        "fecha": "2026-10-17T12:09:42+00:00",
         "fuente": "France 24"
       },
       {
-        "titulo": "Gaz lacrymogène, grenades, LBD : les armes de force intermédiaire, un arsenal de maintien de l’ordre qui n’a cessé de s’enrichir et de faire débat",
-        "enlace": "https://www.lemonde.fr/societe/article/2026/10/17/du-gaz-lacrymogene-aux-grenades-en-passant-par-les-lbd-les-armes-de-force-intermediaire-cet-arsenal-du-maintien-de-l-ordre-qui-n-a-cesse-de-s-enrichir-et-dont-la-pertinence-fait-debat_6796023_3224.html",
-        "desc": "Le ministre de l’intérieur a débloqué l’usage de la grenade assourdissante EF-SON à l’occasion des manifestations de ce samedi, après l’indignation des syndicats lors de sa suspens…",
-        "fecha": "2026-10-17T08:44:19+02:00",
+        "titulo": "Olivier Cahn, juriste : « La garde à vue au chalut est désormais utilisée pour réduire le nombre de manifestants et prévenir des troubles »",
+        "enlace": "https://www.lemonde.fr/idees/article/2026/10/17/olivier-cahn-juriste-la-garde-a-vue-au-chalut-est-desormais-utilisee-pour-reduire-le-nombre-de-manifestants-et-prevenir-des-troubles_6795888_3232.html",
+        "desc": "Revenant sur la dynamique de judiciarisation du maintien de l’ordre en cours, le professeur de droit pénal s’inquiète, dans un entretien au « Monde », que l’autorité publique impos…",
+        "fecha": "2026-10-17T06:30:05+02:00",
         "fuente": "Le Monde"
       },
       {
-        "titulo": "De retour dans la rue, carrière politique avortée et démêlés judiciaires : que sont devenues les figures des «gilets jaunes» ?",
-        "enlace": "https://www.lefigaro.fr/actualite-france/de-retour-dans-la-rue-carriere-politique-avortee-et-demeles-judiciaires-que-sont-devenues-les-figures-des-gilets-jaunes-20261017",
-        "desc": "PORTRAITS - Huit ans après la révolte des ronds-points, plusieurs visages du mouvement des «gilets jaunes» soutiennent la manifestation du samedi 17 octobre. Certaines comptent rep…",
-        "fecha": "2026-10-17T07:00:00+02:00",
+        "titulo": "Le maire de Marseille annonce avoir obtenu des renforts de police après un échange avec Macron",
+        "enlace": "https://www.lefigaro.fr/marseille/c-est-la-revolution-on-prend-la-bastille-a-marseille-des-manifestants-penetrent-brievement-dans-le-hall-de-la-mairie-un-poste-de-police-attaque-20261017",
+        "desc": "«C’est la Révolution, on prend la Bastille» : à Marseille, des manifestants ont brièvement pénétré dans le hall de la mairie et un poste de police a été attaqué sur la Canebière.",
+        "fecha": "2026-10-17T14:34:38+02:00",
         "fuente": "Le Figaro"
       },
       {
-        "titulo": "Youssef Badr, le juge en lutte contre les discriminations qui obsède l’extrême droite",
-        "enlace": "https://www.france24.com/fr/france/20261017-youssef-bardr-le-juge-en-lutte-contre-les-discriminations-qui-obs%C3%A8de-l-extr%C3%AAme-droite-fronti%C3%A8res-erik-tegn%C3%A9r-bollor%C3%A9",
-        "desc": "Juge au tribunal de Bobigny et président d'une association qui œuvre pour l'égalité des chances, Youssef Badr fait l'objet d'une campagne de haine en ligne à la suite de la publica…",
-        "fecha": "2026-10-17T06:03:20+00:00",
+        "titulo": "Mobilisation du 17 octobre : vers une convergence des colères ?",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261017-mobilisation-du-17-octobre-vers-une-convergence-des-col%C3%A8res",
+        "desc": "Emmanuel Echivard, politologue et professeur à Sciences Po Reims, est notre invité.",
+        "fecha": "2026-10-17T11:49:02+00:00",
         "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Brasilien: So wenig Regenwald wurde seit 40 Jahren nicht mehr abgeholzt",
-        "enlace": "https://www.spiegel.de/wissenschaft/natur/brasilien-so-wenig-regenwald-wurde-seit-40-jahren-nicht-mehr-abgeholzt-a-fe70397f-bfe1-4419-9b45-3586b8908343#ref=rss",
-        "desc": "Im brasilianischen Amazonasgebiet werden jedes Jahr Tausende Quadratkilometer Wald gerodet. Brasiliens Präsident Lula will dies bis zum Jahr 2030 beenden. Schon jetzt gibt es einen…",
-        "fecha": "2026-10-17T09:26:00+02:00",
+        "titulo": "Katie Zacharia als Pressesprecherin im Weißen Haus: Fünf Tage Chaos",
+        "enlace": "https://www.spiegel.de/ausland/katie-zacharia-als-pressesprecherin-im-weissen-haus-fuenf-tage-chaos-a-3933c8ac-90c2-4976-940a-d8199e086b5a#ref=rss",
+        "desc": "So schnell war den Job bisher noch niemand wieder los. Am Montag fing Katie Zacharia als Pressesprecherin an, jetzt ist sie schon wieder raus: Rückblick auf eine kuriose Woche im W…",
+        "fecha": "2026-10-17T14:36:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Rentenreform: Arbeitsminister Schweitzer setzt auf Kompromiss bei Rente mit 63",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/alexander-schweitzer-rentereform-arbeitsminiter-spd-baerbel-bas-gxe",
-        "desc": "Bärbel Bas nannte die Empfehlungen der Rentenkommission ein »Gesamtkunstwerk«. Ihr Nachfolger im Arbeitsministerium sieht darin lediglich eine Diskussionsgrundlage.",
-        "fecha": "2026-10-17T07:13:34",
+        "titulo": "Berlin: Linke, Grüne und SPD einigen sich bei Sondierungen in Berlin",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/linke-gruene-und-spd-einigen-sich-offenbar-bei-sondierungen-in-berlin",
+        "desc": "Linke, Grüne und SPD haben die Sondierungen über eine Regierungsbildung in Berlin abgeschlossen. Am frühen Abend informieren sie über den Verlauf der Gespräche.",
+        "fecha": "2026-10-17T12:29:59",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Thorsten Frei: Unionsfraktionschef will Änderungen bei Zuckersteuer",
-        "enlace": "https://www.spiegel.de/politik/thorsten-frei-unionsfraktionschef-will-aenderungen-bei-zuckersteuer-a-20578853-acfb-4b31-94cd-d69ef52f2e7e#ref=rss",
-        "desc": "Gerade erst hat das Bundeskabinett einen Gesetzentwurf für die Zuckersteuer auf den Weg gebracht. Nun dringt Unionsfraktionschef Thorsten Frei auf Übergangsfristen für Hersteller. …",
-        "fecha": "2026-10-17T09:25:00+02:00",
+        "titulo": "Massenproteste und Demonstrationen in Frankreich: Polizei setzt Tränengas ein",
+        "enlace": "https://www.spiegel.de/ausland/massenproteste-und-demonstrationen-in-frankreich-polizei-setzt-traenengas-ein-a-4d2744cb-c65e-43cf-9664-c9baee4008f3#ref=rss",
+        "desc": "In Frankreich hat ein landesweiter Protesttag wegen hoher Preise und maroder Schulen begonnen. Die Behörden befürchten Ausschreitungen, die ersten Zusammenstöße gab es bereits.",
+        "fecha": "2026-10-17T14:20:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Bundestagspräsidentin: Klöckner fordert mehr Toleranz gegenüber anderen politischen Meinungen",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/julia-kloeckner-extremismus-rassismus-cdu-gxe",
-        "desc": "Julia Klöckner warnt vor moralischer Überhöhung im politischen Diskurs. Für »zugewanderte Machos« müssten dieselben Maßstäbe gelten wie für einen »alten weißen Mann«.",
-        "fecha": "2026-10-17T06:09:23",
+        "titulo": "Protest gegen die AfD: »Der Protest war spontan. Rechtsextreme gehören nicht in Synagogen«",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-10/synagoge-halle-hans-thomas-tillschneider-studierendenunion-ron-dekel",
+        "desc": "Vorige Woche verwehrte Ron Dekel dem AfD-Mann Hans-Thomas Tillschneider den Zutritt zur Synagoge in Halle. Hier erzählt er, was ihn dazu bewog und was er seither erlebt.",
+        "fecha": "2026-10-17T11:42:27",
         "fuente": "Die Zeit"
       }
     ],
-    "nacional_it": [],
+    "nacional_it": [
+      {
+        "titulo": "\"La Via maestra”a Roma, la Cgil in piazza sfida il governo. Landini: “Impari ad ascoltare la gente”",
+        "enlace": "https://www.repubblica.it/politica/2026/10/17/diretta/manifestazione_e_corteo_cgil_oggi_a_roma_le_news_in_diretta-425654630/",
+        "desc": "In piazza anche i leader del campo largo. Chisura a piazza del Popolo con Landini",
+        "fecha": "2026-10-17T11:56:58+00:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Famiglia nel bosco, i bambini tornano nel casolare di Palmoli dopo 11 mesi",
+        "enlace": "https://www.repubblica.it/cronaca/2026/10/17/news/famiglia_bosco_bambini_tornano_nel_casolare_di_palmoli-425654611/",
+        "desc": "I genitori li hanno accompagnati in auto fino a casa, dove resteranno sino al pomeriggio. Poi i piccoli andranno nell’abitazione concessa dal Comune dove resteranno con Nathan e Ca…",
+        "fecha": "2026-10-17T11:42:37+00:00",
+        "fuente": "La Repubblica"
+      }
+    ],
     "nacional_gb": [
+      {
+        "titulo": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+        "enlace": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+        "desc": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+        "fecha": "2026-10-17T12:14:52+00:00",
+        "fuente": "BBC"
+      },
+      {
+        "titulo": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
+        "enlace": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
+        "desc": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on Li…",
+        "fecha": "2026-10-17T11:00:30+00:00",
+        "fuente": "The Guardian"
+      },
       {
         "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "fecha": "2026-10-17T07:41:01+00:00",
+        "fecha": "2026-10-17T11:56:06+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "Muscles, metrosexuals and male tears: the 39 pictures that changed the way we see men (for good and for bad)",
-        "enlace": "https://www.theguardian.com/society/2026/oct/17/39-pictures-that-changed-the-way-we-see-men-for-good-and-for-bad",
-        "desc": "From a body-building Arnie to a weeping Frenchman, these 39 groundbreaking images have upended assumptions about how men behave, dress and project power. Introduction by Luke Kenna…",
-        "fecha": "2026-10-17T05:00:22+00:00",
-        "fuente": "The Guardian"
-      },
-      {
-        "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-        "enlace": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "fecha": "2026-10-17T06:49:48+00:00",
-        "fuente": "BBC"
-      },
-      {
-        "titulo": "Not cool: who hacked France’s supermarket fridges?",
-        "enlace": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-        "desc": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before…",
-        "fecha": "2026-10-17T04:00:20+00:00",
+        "titulo": "The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood",
+        "enlace": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
+        "desc": "Unprecedented folly of misjudgment, bad timing and spectacular hubris is predicted to lose $245m. How did this happen? The fanfare at Digger’s world premiere in London four weeks a…",
+        "fecha": "2026-10-17T08:12:20+00:00",
         "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Donald Trump adia sanções contra a Rússia aprovadas pelo Congresso",
-        "enlace": "https://www.publico.pt/2026/10/17/mundo/noticia/donald-trump-adia-sancoes-russia-aprovadas-congresso-2191696",
-        "desc": "Decisão do Presidente dos EUA surge dois dias antes da data em que a lei que sancionava responsáveis russos e impunha tarifas a países importadores de produtos petrolíferos da Rúss…",
-        "fecha": "2026-10-17T08:03:18+00:00",
+        "titulo": "Manifestação contra “aumento do custo” de vida volta a encher a Praça D. João I no Porto",
+        "enlace": "https://www.publico.pt/2026/10/17/economia/noticia/manifestacao-aumento-custo-vida-volta-encher-praca-d-joao-i-porto-2191710",
+        "desc": "Convocadas pela CGTP, as manifestação começaram nesta manhã no Porto e Coimbra, e outras cidades. Em Lisboa, a concentração está marcada para esta tarde.",
+        "fecha": "2026-10-17T12:24:16+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Trump adia novamente sanções contra a Rússia",
-        "enlace": "https://observador.pt/liveblogs/trump-adia-novamente-sancoes-contra-a-russia/",
-        "desc": "Presidente norte-americano anunciou que Moscovo vai fornecer aos EUA milhares de toneladas de gasóleo no âmbito do \"acordo energético\". Suspensão de sanções surge em momento tenso …",
-        "fecha": "2026-10-17T09:22:09+01:00",
+        "titulo": "BE pede ao Governo que apoie venda imediata da Visão",
+        "enlace": "https://observador.pt/2026/10/17/be-pede-ao-governo-que-apoie-venda-imediata-da-visao-para-evitar-encerramento/",
+        "desc": "Partido fez apelo para que o Estado, maior credor da Trust in News, apoie a venda imediata da Visão, mantida por jornalistas que pretendem comprá-la.",
+        "fecha": "2026-10-17T13:36:16+01:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "O Dubai num carro sem condutor: o mais estranho é o volante mexer sozinho",
-        "enlace": "https://www.publico.pt/2026/10/17/fugas/reportagem/dubai-carro-condutor-estranho-volante-mexer-sozinho-2191145",
-        "desc": "Os veículos autónomos da Uber, com tecnologia da empresa baseada na China WeRide, já estão disponíveis nos bairros de Jumeirah e Umm Suqeim, no Dubai, e podem ser chamados pela apl…",
-        "fecha": "2026-10-17T07:38:00+00:00",
+        "titulo": "Almério: a voz entre a liberdade de Ney Matogrosso e o sim de Bethânia",
+        "enlace": "https://www.publico.pt/2026/10/17/publico-brasil/noticia/almerio-voz-liberdade-ney-matogrosso-sim-bethania-2191700",
+        "desc": "Cantor pernambucano fala de sexualidade, da relação com Ney Matogrosso, da emoção de gravar com Bethânia e dos planos de lançar um disco em Portugal. Ele se apresenta no Porto (17)…",
+        "fecha": "2026-10-17T11:50:37+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "9h. Habitação. Líderes dos movimentos são do PCP ou BE",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2504/",
-        "desc": "Os organizadores garantem ao Observador, no entanto, que não recebem financiamento partidário. Ainda, serviços secretos espanhóis dizem que Marrocos foi negligente na crise migrató…",
-        "fecha": "2026-10-17T09:14:49+01:00",
+        "titulo": "As imagens dos protestos no Porto e em Lisboa",
+        "enlace": "https://observador.pt/2026/10/17/as-imagens-dos-protestos-pela-habitacao-e-contra-o-aumento-do-custo-de-vida-no-porto-e-em-lisboa/",
+        "desc": "Este sábado está a ser marcado pelos protestos pelo direito à habitação e as manifestações da CGTP em vários pontos do país. No Porto e em Lisboa, muitos expressam o seu descontent…",
+        "fecha": "2026-10-17T13:24:33+01:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
+      {
+        "titulo": "Damares pede investigação de uso de van com marca do MEC em compromisso de campanha de Lula",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/damares-pede-investigacao-de-uso-de-van-com-marca-do-mec-em-compromisso-de-campanha-de-lula.shtml",
+        "desc": "A senadora Damares Alves ( Republicanos -DF) pediu que o Ministério Público Eleitoral investigue o uso de uma van com a marca do Ministério da Educação no transporte de estudantes …",
+        "fecha": "2026-10-17T06:00:00-03:00",
+        "fuente": "Folha SP"
+      },
+      {
+        "titulo": "Base da PM é atacada a tiros após confrontos deixarem dois mortos em Guarujá, SP",
+        "enlace": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/17/base-da-pm-e-atacada-a-tiros-apos-confrontos-deixarem-dois-mortos-em-guaruja-sp.ghtml",
+        "desc": "Homem morre durante troca de tiros em comunidade em Guarujá A base da Polícia Militar Ambiental foi atacada a tiros, na noite desta sexta-feira (16), em Guarujá, no litoral de São …",
+        "fecha": "2026-10-17T12:43:11",
+        "fuente": "G1 Globo"
+      },
       {
         "titulo": "Abstenção cai entre jovens, idosos e menos instruídos no 1º turno, segundo TSE",
         "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/abstencao-cai-entre-jovens-idosos-e-menos-instruidos-no-1o-turno-segundo-tse.shtml",
@@ -279,49 +308,35 @@
         "fuente": "Folha SP"
       },
       {
-        "titulo": "VÍDEO: mulher de 81 anos ganha 1º carro automático dos sobrinhos após 63 anos de direção em SC",
-        "enlace": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/17/video-mulher-81-anos-1o-carro-automatico-sobrinhos-surpresa-em-sc.ghtml",
-        "desc": "Motorista de 81 anos ganha carro automático de presente em surpresa de sobrinhos Nedi Sartori, de 81 anos, foi por muito tempo a motorista oficial dos sobrinhos em Curitibanos, no …",
-        "fecha": "2026-10-17T08:00:00",
-        "fuente": "G1 Globo"
-      },
-      {
-        "titulo": "Debate da Band entre Lula e Flávio terá confronto livre de 30 minutos; veja regras",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml",
-        "desc": "Lula ( PT ) e Flávio Bolsonaro ( PL -RJ) terão 30 minutos de confronto direto no primeiro bloco do debate da Band , marcado para domingo (18), em São Paulo. A direção da emissora e…",
-        "fecha": "2026-10-17T04:00:00-03:00",
-        "fuente": "Folha SP"
-      },
-      {
-        "titulo": "Paraná tem inscrições abertas para casamento coletivo gratuito; veja documentos necessários",
-        "enlace": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/17/casamento-coletivo-londrina-inscricao.ghtml",
-        "desc": "Casamento coletivo realizado em Ibaiti. Divulgação Agência Estadual de Notícias Londrina, no Norte do Paraná, tem inscrições abertas para o casamento coletivo gratuito. A iniciativ…",
-        "fecha": "2026-10-17T08:00:00",
+        "titulo": "Homem é preso com dezenas de peixes proibidos, arma e munições em MS",
+        "enlace": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/17/homem-e-preso-com-dezenas-de-peixes-proibidos-arma-e-municoes-em-ms.ghtml",
+        "desc": "Homem de 32 anos foi preso na sexta-feira (16). PC MS Um homem de 32 anos, que não teve o nome divulgado, foi preso em flagrante na noite de sexta-feira (16), em Lagoa Bonita, dist…",
+        "fecha": "2026-10-17T12:41:09",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
+      {
+        "titulo": "‘Ozu showed the way’: A documentarian looks for the man behind the legend",
+        "enlace": "https://www.japantimes.co.jp/culture/2026/10/17/film/daniel-raim-ozu-diaries/",
+        "desc": "Though known for his documentaries about American filmmakers, Daniel Raim's project on Yasujiro Ozu was executed with great care and admiration.",
+        "fecha": "2026-10-17T17:30:00+09:00",
+        "fuente": "Japan Times"
+      },
       {
         "titulo": "Japan to raise youth awareness about Northern Territories",
         "enlace": "https://www.japantimes.co.jp/news/2026/10/17/japan/northern-territories-youth-awareness/",
         "desc": "Such efforts will include attracting school trips to areas close to the islands and sharing relevant information on social media.",
         "fecha": "2026-10-17T16:17:00+09:00",
         "fuente": "Japan Times"
-      },
-      {
-        "titulo": "IMF official welcomes Japan’s temporary tax cut plan",
-        "enlace": "https://www.japantimes.co.jp/business/2026/10/17/economy/imf-official-japan-tax-cut-plan/",
-        "desc": "Rahul Anand, IMF assistant director and mission chief for Japan, said the approach was \"a very welcome step.\"",
-        "fecha": "2026-10-17T15:46:00+09:00",
-        "fuente": "Japan Times"
       }
     ],
     "internacional_es": [
       {
-        "titulo": "Otro favor de Trump a Putin: suspende una ley de sanciones diseñada por el Congreso de EE.UU. para asfixiar a Rusia",
-        "enlace": "https://www.abc.es/internacional/favor-trump-putin-suspende-ley-sanciones-disenada-20261017080758-nt.html",
-        "desc": "Donald Trump ha firmado una orden ejecutiva que bloquea la entrada en vigor de una amplia ley de sanciones contra Rusia que aprobó el Congreso de EE.UU. el mes pasado y que él mism…",
-        "fecha": "2026-10-17T08:07:58+02:00",
+        "titulo": "Bukele matiza que la liberación anticipada de presos afectaría solo a 10.000 «colaboradores» de las pandillas",
+        "enlace": "https://www.abc.es/internacional/bukele-matiza-liberacion-anticipada-presos-afectaria-solo-20261017132203-nt.html",
+        "desc": "El presidente de El Salvador, Nayib Bukele, precisó este viernes que la liberación «anticipada» que evalúa para detenidos en su guerra antipandillas aplicaría para unas 10.000 pers…",
+        "fecha": "2026-10-17T13:22:03+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -332,45 +347,45 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Trump suspende el último paquete de sanciones contra Rusia por motivos de \"interés nacional\"",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-10-17/trump-suspende-sanciones-rusia-1tps_4447049/",
-        "desc": "Washington congela indefinidamente las sanciones aprobadas por el Capitolio, mientras endurece sus críticas al mandatario ucraniano y estrecha posiciones con Moscú",
-        "fecha": "2026-10-17T08:24:23.866849+00:00",
+        "titulo": "León XIV recibe el alta hospitalaria tras su operación y regresará al Vaticano este sábado",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-10-17/leon-xiv-recibe-el-alta-hospitalaria-tras-su-operacion_4447112/",
+        "desc": "El pontífice abandona el Hospital Gemelli de Roma tras las últimas analíticas y después de cinco días hospitalizado para tratarse un cáncer de pulmón",
+        "fecha": "2026-10-17T12:48:29.486355+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "Por qué Irlanda es uno de los países del mundo más críticos con Israel por la guerra en Gaza",
-        "enlace": "https://www.bbc.com/mundo/articles/c8r4vy17rx62o?at_medium=RSS&at_campaign=rss",
-        "desc": "Las narrativas históricas y el pasado irlandés como colonia inglesa juegan un rol clave en las percepciones actuales.",
-        "fecha": "2026-10-17T04:00:42+00:00",
+        "titulo": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+        "enlace": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss",
+        "desc": "La ejecución de Nidal Hasan, el pistolero de Fort Hood, sería la primera vez que el Ejército de Estados Unidos utilizaría un pelotón de fusilamiento desde 1945.",
+        "fecha": "2026-10-17T12:29:58+00:00",
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Corea del Norte afirma haber probado un nuevo sistema de torpedos con IA",
-        "enlace": "https://es.euronews.com/2026/10/17/corea-del-norte-afirma-haber-probado-un-nuevo-sistema-de-torpedos-con-ia",
-        "desc": "Esta afirmación se produce después de que Corea del Norte probara el miércoles dos tipos de misiles de crucero estratégicos lanzados desde el mar, en lo que se considera un intento…",
-        "fecha": "2026-10-17T10:03:47+02:00",
+        "titulo": "Los drones ucranianos cierran por la noche los 4 aeropuertos de Moscú y cancelan vuelos",
+        "enlace": "https://es.euronews.com/2026/10/17/los-drones-ucranianos-cierran-por-la-noche-los-4-aeropuertos-de-moscu-y-cancelan-vuelos",
+        "desc": "Los aeropuertos de Moscú estuvieron cerrados 101 horas en los primeros 14 días de octubre, más del doble que en todo septiembre.",
+        "fecha": "2026-10-17T12:35:32+02:00",
         "fuente": "Euronews ES"
       },
       {
         "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "fecha": "2026-10-17T07:41:01+00:00",
+        "fecha": "2026-10-17T11:56:06+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city",
-        "enlace": "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
-        "desc": "Pope Leo called Vladimir Putin from his hospital bed to urge a ceasefire in Oleshky, Ukraine, where food deliveries have been blocked since May.",
-        "fecha": "2026-10-16T19:10:21-04:00",
+        "titulo": "Pope Leo XIV to be discharged from hospital and return to Vatican after surgery to remove lung cancer",
+        "enlace": "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
+        "desc": "Pope Leo XIV received blood tests and a chest X-ray at Gemelli Hospital confirming he is well enough to return to the Vatican after surgery.",
+        "fecha": "2026-10-17T07:19:52-04:00",
         "fuente": "Fox News Mundo"
       },
       {
-        "titulo": "De Singapur a la India: los 5.000 kilómetros que un empresario español anima a nadar por los niños huérfanos",
-        "enlace": "https://www.abc.es/internacional/singapur-india-5000-kilometros-empresario-espanol-anima-20261014014629-nt.html",
-        "desc": "Nunca imaginó que un día de febrero, mientras celebraba su cumpleaños en la isla de Kusu, un paraje natural al sur de Singapur al que todos los años acuden cientos de tortugas mari…",
-        "fecha": "2026-10-17T01:46:29+02:00",
+        "titulo": "Un nuevo aviso a los europeos",
+        "enlace": "https://www.abc.es/internacional/nuevo-aviso-europeos-20261017121449-nt.html",
+        "desc": "Hace unos días Donald Trump autorizó la importación de diésel ruso a Estados Unidos para bajar los precios de este combustible antes de las elecciones de medio mandato. Es una oper…",
+        "fecha": "2026-10-17T12:14:50+02:00",
         "fuente": "ABC Internacional"
       },
       {
@@ -381,10 +396,10 @@
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Detrás de las papeleras en llamas: en la UE, hay colegios sin calefacción, a 30 grados y letrinas en el patio",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-10-17/crisis-educativa-colegios-profesores-europa-1hms_4446482/",
-        "desc": "Los 'chalecos amarillos' se suman a los jóvenes este sábado. En Francia, la brecha entre alumnos es de 100 puntos en PISA. Su queja resuena en otros países: el 47% de griegos y 44%…",
-        "fecha": "2026-10-17T08:24:23.866889+00:00",
+        "titulo": "Las protestas se extienden por Francia con el apoyo de los chalecos amarillos y suman más de un centenar de detenidos",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-10-17/los-chalecos-amarillos-se-suman-a-las-protestas_4447095/",
+        "desc": "El coste de los carburantes se suma a la lista de reclamaciones de los manifestantes, que empezaron con quejas por el estado de la educación pública, mientras aumentan los choques …",
+        "fecha": "2026-10-17T12:48:29.486392+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
@@ -393,74 +408,109 @@
         "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "fecha": "2026-10-17T07:41:01+00:00",
+        "fecha": "2026-10-17T11:56:06+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city",
-        "enlace": "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
-        "desc": "Pope Leo called Vladimir Putin from his hospital bed to urge a ceasefire in Oleshky, Ukraine, where food deliveries have been blocked since May.",
-        "fecha": "2026-10-16T19:10:21-04:00",
+        "titulo": "Pope Leo XIV to be discharged from hospital and return to Vatican after surgery to remove lung cancer",
+        "enlace": "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
+        "desc": "Pope Leo XIV received blood tests and a chest X-ray at Gemelli Hospital confirming he is well enough to return to the Vatican after surgery.",
+        "fecha": "2026-10-17T07:19:52-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-        "enlace": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-        "desc": "Yemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport on Friday, saying they had targeted a weapons depot as well as a milit…",
-        "fecha": "2026-10-17T06:00:32+00:00",
+        "titulo": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
+        "enlace": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+        "desc": "",
+        "fecha": "2026-10-17T12:30:33+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Norwegian teen hitman sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang",
-        "enlace": "https://nypost.com/2026/10/17/world-news/norwegian-teen-hitman-johannes-natland-sentenced-for-plotting-murder-in-uk-for-iran-linked-gang/",
-        "desc": "Johannes Kongsnes Natland, 19, was found guilty in July of conspiracy to murder for agreeing to shoot an unknown target for 25,000 euros (21,500 pounds or $28,000) last year.",
-        "fecha": "2026-10-17T04:13:14-04:00",
+        "titulo": "Novig promo code NYPOST: Deposit $10, get $50 in trade credits for College Football Week 7 Saturday games",
+        "enlace": "https://nypost.com/2026/10/17/betting/novig-promo-code-nypost-deposit-10-get-50-in-trade-credits-for-college-football-week-7/",
+        "desc": "Deposit $10, get $50 with the Novig promo code NYPOST for Saturday's Week 7 college football slate.",
+        "fecha": "2026-10-17T08:44:56-04:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
-        "enlace": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf",
-        "desc": "Three Mexican men were found guilty last week of murdering foreign surfers in 2024. The case had drawn global condemnation, particularly in Australia, where two of the victims were…",
-        "fecha": "2026-10-17T08:24:29.628122+00:00",
+        "titulo": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+        "enlace": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
+        "desc": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow…",
+        "fecha": "2026-10-17T12:48:34.159036+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "North Korea says it tested new AI-powered torpedo system",
-        "enlace": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
-        "desc": "It comes after North Korea tested two types of underwater-launched strategic cruise missiles on Wednesday as part of what is believed to be a push to bolster its naval capabilities…",
-        "fecha": "2026-10-17T09:52:50+02:00",
+        "titulo": "Hungarian PM Péter Magyar says Zelenskyy unlikely to visit Budapest later this month",
+        "enlace": "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month",
+        "desc": "Zelenskyy's deputy chief of staff told Euronews earlier this week that the Ukrainian leader had been invited to Budapest on 23 October, to join events commemorating the 70th annive…",
+        "fecha": "2026-10-17T14:01:42+02:00",
         "fuente": "Euronews EN"
-      },
-      {
-        "titulo": "USSS Deputy Director Matthew C. Quinn resigns",
-        "enlace": "https://www.oann.com/newsroom/usss-deputy-director-matthew-c-quinn-resigns/",
-        "desc": "United States Secret Service (USSS) Deputy Director Matthew C. Quinn has announced his resignation from the federal law enforcement agency, according to an internal email circulate…",
-        "fecha": "2026-10-17T00:13:09+00:00",
-        "fuente": "OAN"
       },
       {
         "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
         "enlace": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "fecha": "2026-10-17T06:49:48+00:00",
+        "fecha": "2026-10-17T09:58:17+00:00",
         "fuente": "BBC World"
       },
       {
-        "titulo": "Autistic teen lured to fake Snapchat meetup, brutally beaten by group of teens: report",
-        "enlace": "https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report",
-        "desc": "Video captured the violent beating of a 15-year-old boy with autism near a Stawell train station after he was lured through a Snapchat meetup.",
-        "fecha": "2026-10-15T18:40:32-04:00",
+        "titulo": "ChinaAid raises alarm over imprisoned Chinese pastor's health as family seeks answers",
+        "enlace": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
+        "desc": "ChinaAid founder Bob Fu says reports of Pastor Wang Yi&apos;s advanced liver cancer in a Chinese prison are credible but cannot be independently verified.",
+        "fecha": "2026-10-17T06:00:44-04:00",
         "fuente": "Fox News"
       },
       {
-        "titulo": "Live: France's Yellow Vests throw their weight behind mounting student protests",
-        "enlace": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-        "desc": "Hundreds of thousands of ⁠people are expected to ​demonstrate across France on Saturday as students, trade union members and remnants of the Yellow Vest movement join forces to pro…",
-        "fecha": "2026-10-17T05:17:22+00:00",
+        "titulo": "France faces day of cost-of-living protests",
+        "enlace": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
+        "desc": "French authorities detained dozens on Saturday at the start of nationwide protests against the cost of living, in what is likely to be a key indicator of the social climate heading…",
+        "fecha": "2026-10-17T11:47:30+00:00",
         "fuente": "France 24 EN"
+      },
+      {
+        "titulo": "The Post’s expert Week 7 college football grid picks, best bets",
+        "enlace": "https://nypost.com/2026/10/17/betting/the-posts-expert-week-7-college-football-grid-picks-best-bets/",
+        "desc": "Perhaps the best college football week to date.",
+        "fecha": "2026-10-17T08:30:59-04:00",
+        "fuente": "New York Post"
       }
     ],
     "internacional_fr": [
+      {
+        "titulo": "Voitures Deepal ou BYD, caméras, drones : d’inquiétants matériels chinois au cœur des armées européennes",
+        "enlace": "https://www.lefigaro.fr/international/voitures-deepal-ou-byd-cameras-drones-d-inquietants-materiels-chinois-au-coeur-des-armees-europeennes-20261017",
+        "desc": "De la Norvège au Royaume-Uni, les incidents impliquant du matériel chinois s’accumulent. En France, 3000 drones DJI sont en service dans ses armées, malgré les avertissements du co…",
+        "fecha": "2026-10-17T14:00:00+02:00",
+        "fuente": "Le Figaro Monde"
+      },
+      {
+        "titulo": "🔴 17-Octobre en direct : des milliers de manifestants en France, tensions à Paris et Marseille",
+        "enlace": "https://www.france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
+        "desc": "",
+        "fecha": "2026-10-17T12:09:42+00:00",
+        "fuente": "France 24 FR"
+      },
+      {
+        "titulo": "DIRECT - Journée de mobilisation en France: la manifestation parisienne a commencé, malgré des affrontements",
+        "enlace": "https://www.rfi.fr/fr/france/20261017-direct-lyc%C3%A9ens-gilets-jaunes-suivez-la-journ%C3%A9e-de-mobilisation-%C3%A0-travers-la-france",
+        "desc": "Des centaines d'actions, de blocages et de rassemblements étaient prévus ce samedi 17 octobre partout en France. Anciens « gilets jaunes », lycéens, étudiants, militants du climat …",
+        "fecha": "2026-10-17T08:43:17+00:00",
+        "fuente": "RFI"
+      },
+      {
+        "titulo": "La Corée du Nord affirme avoir testé un nouveau système de torpilles doté d'IA",
+        "enlace": "https://fr.euronews.com/2026/10/17/la-coree-du-nord-affirme-avoir-teste-un-nouveau-systeme-de-torpilles-dote-dia",
+        "desc": "Cela intervient après que la Corée du Nord a testé mercredi deux types de missiles de croisière stratégiques lancés sous l’eau, dans ce qui est considéré comme une tentative de ren…",
+        "fecha": "2026-10-17T12:41:39+02:00",
+        "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "fecha": "2026-10-17T11:56:06+00:00",
+        "fuente": "BBC World EN"
+      },
       {
         "titulo": "« Raviver la flamme allumée ici il y a des millénaires » : Marco Rubio, l’Américain qui rêve de ressusciter la vieille Europe",
         "enlace": "https://www.lefigaro.fr/international/raviver-la-flamme-allumee-ici-il-y-a-des-millenaires-marco-rubio-l-americain-qui-reve-de-ressusciter-la-vieille-europe-20261017",
@@ -469,170 +519,170 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Midterms 2026, le récap’ : toujours devancés, les républicains se raccrochent à la marge d’erreur",
-        "enlace": "https://www.france24.com/fr/am%C3%A9riques/20261017-midterms-2026-recap-republicains-marge-erreur-sondages-democrates-musk-texas-minnesota",
-        "desc": "La dernière ligne droite de la campagne pour les midterms a commencé ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point sur ce qu'il faut retenir. Alors que …",
-        "fecha": "2026-10-17T07:43:05+00:00",
+        "titulo": "Mobilisation du 17 octobre : vers une convergence des colères ?",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261017-mobilisation-du-17-octobre-vers-une-convergence-des-col%C3%A8res",
+        "desc": "Emmanuel Echivard, politologue et professeur à Sciences Po Reims, est notre invité.",
+        "fecha": "2026-10-17T11:49:02+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "France: de multiples mobilisations annoncées ce 17 octobre pour une «convergence des luttes»",
-        "enlace": "https://www.rfi.fr/fr/france/20261016-france-de-multiples-mobilisations-annonc%C3%A9es-ce-17-octobre-pour-une-convergence-des-luttes",
-        "desc": "Quelque 200 000 manifestants sont attendus par les autorités samedi 17 octobre, à six mois de la présidentielle, dans toute la France pour protester contre la vie chère et demander…",
-        "fecha": "2026-10-16T20:39:30+00:00",
+        "titulo": "Maroc: un système inédit de surveillance de voix dissidentes révélé par Amnesty",
+        "enlace": "https://www.rfi.fr/fr/afrique/20261017-maroc-un-syst%C3%A8me-in%C3%A9dit-de-surveillance-de-voix-dissidentes-r%C3%A9v%C3%A9l%C3%A9-par-amnesty",
+        "desc": "Après des années d’enquête, l’ONG de défense des droits de l’homme sort un rapport inédit sur le fonctionnement du système de surveillance marocain pour réprimer des militants de l…",
+        "fecha": "2026-10-17T09:38:29+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 17 octobre 2026 - Matin",
-        "enlace": "https://fr.euronews.com/video/2026/10/17/linfo-du-jour-17-octobre-2026-matin",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 17 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le div…",
-        "fecha": "2026-10-17T07:00:16+02:00",
-        "fuente": "Euronews FR"
-      },
-      {
-        "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "fecha": "2026-10-17T07:41:01+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "«Il en passe 30 à 50 par jour» : dans le Michigan, la livraison par drones d’Amazon ne plaît pas à tout le monde",
-        "enlace": "https://www.lefigaro.fr/societes/il-en-passe-30-a-50-par-jour-dans-le-michigan-la-livraison-par-drones-par-amazon-ne-plait-pas-a-tout-le-monde-20261016",
-        "desc": "REPORTAGE - La ville de Hazel Park, dans la banlieue de détroit, est l’un des sites pionniers pour tester la livraison par drones d’Amazon aux États-Unis.",
-        "fecha": "2026-10-16T22:37:39+02:00",
-        "fuente": "Le Figaro Monde"
-      },
-      {
-        "titulo": "Youssef Badr, le juge en lutte contre les discriminations qui obsède l’extrême droite",
-        "enlace": "https://www.france24.com/fr/france/20261017-youssef-bardr-le-juge-en-lutte-contre-les-discriminations-qui-obs%C3%A8de-l-extr%C3%AAme-droite-fronti%C3%A8res-erik-tegn%C3%A9r-bollor%C3%A9",
-        "desc": "Juge au tribunal de Bobigny et président d'une association qui œuvre pour l'égalité des chances, Youssef Badr fait l'objet d'une campagne de haine en ligne à la suite de la publica…",
-        "fecha": "2026-10-17T06:03:20+00:00",
-        "fuente": "France 24 FR"
-      },
-      {
-        "titulo": "États-Unis: Donald Trump exempte la Russie de nouvelles sanctions adoptées par le Congrès",
-        "enlace": "https://www.rfi.fr/fr/am%C3%A9riques/20261017-%C3%A9tats-unis-donald-trump-exempte-la-russie-de-nouvelles-sanctions-adopt%C3%A9es-par-le-congr%C3%A8s",
-        "desc": "Le président américain Donald Trump a annoncé, vendredi 16 octobre 2026, la levée de plusieurs sanctions, restrictions et droits de douane visant la Russie, prévus dans le cadre d'…",
-        "fecha": "2026-10-17T02:26:45+00:00",
-        "fuente": "RFI"
-      },
-      {
-        "titulo": "L’info du jour | 16 octobre 2026 - Soir",
-        "enlace": "https://fr.euronews.com/video/2026/10/16/linfo-du-jour-16-octobre-2026-soir",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 16 octobre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le div…",
-        "fecha": "2026-10-16T18:00:34+02:00",
+        "titulo": "Détroit d'Ormuz : un superpétrolier en feu après avoir heurté une mine",
+        "enlace": "https://fr.euronews.com/2026/10/17/detroit-dormuz-un-superpetrolier-en-feu-apres-avoir-heurte-une-mine",
+        "desc": "La marine des Gardiens de la révolution islamique a accusé le pétrolier d'avoir désactivé ses systèmes de positionnement et ses radars pour tenter d'échapper à la détection.",
+        "fecha": "2026-10-17T12:39:38+02:00",
         "fuente": "Euronews FR"
       },
       {
         "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
         "enlace": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "fecha": "2026-10-17T06:49:48+00:00",
+        "fecha": "2026-10-17T09:58:17+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_de": [
       {
-        "titulo": "Brasilien: So wenig Regenwald wurde seit 40 Jahren nicht mehr abgeholzt",
-        "enlace": "https://www.spiegel.de/wissenschaft/natur/brasilien-so-wenig-regenwald-wurde-seit-40-jahren-nicht-mehr-abgeholzt-a-fe70397f-bfe1-4419-9b45-3586b8908343#ref=rss",
-        "desc": "Im brasilianischen Amazonasgebiet werden jedes Jahr Tausende Quadratkilometer Wald gerodet. Brasiliens Präsident Lula will dies bis zum Jahr 2030 beenden. Schon jetzt gibt es einen…",
-        "fecha": "2026-10-17T09:26:00+02:00",
+        "titulo": "Katie Zacharia als Pressesprecherin im Weißen Haus: Fünf Tage Chaos",
+        "enlace": "https://www.spiegel.de/ausland/katie-zacharia-als-pressesprecherin-im-weissen-haus-fuenf-tage-chaos-a-3933c8ac-90c2-4976-940a-d8199e086b5a#ref=rss",
+        "desc": "So schnell war den Job bisher noch niemand wieder los. Am Montag fing Katie Zacharia als Pressesprecherin an, jetzt ist sie schon wieder raus: Rückblick auf eine kuriose Woche im W…",
+        "fecha": "2026-10-17T14:36:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "News kompakt: Selenskyj fordert 70 Milliarden Euro von der EU",
-        "enlace": "https://www.dw.com/de/news-kompakt-selenskyj-fordert-70-milliarden-euro-von-der-eu/a-79685651?maca=de-rss-de-all-1119-rdf",
-        "desc": "Die Ukraine benötigt mehr Geld, um sich gegen die russischen Angriffe zu wehren. Donald Trump legt die geplanten Sanktionen gegen Russland auf Eis. Der DW-Nachrichtenüberblick.",
-        "fecha": "2026-10-17T08:24:33.986353+00:00",
+        "titulo": "In Deutschland angekommen, in der Heimat verwurzelt: Kurden zwischen zwei Welten",
+        "enlace": "https://www.dw.com/de/in-deutschland-angekommen-in-der-heimat-verwurzelt-kurden-zwischen-zwei-welten/a-79668889?maca=de-rss-de-all-1119-rdf",
+        "desc": "Kurdinnen und Kurden gehören zu den größten Zuwanderungsgruppen in Deutschland. Dass dennoch vergleichsweise wenig über sie bekannt ist, liegt auch daran, dass es keinen kurdischen…",
+        "fecha": "2026-10-17T12:48:49.288207+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "USA: Donald Trump stoppt Sanktionspaket gegen Russland",
-        "enlace": "https://de.euronews.com/2026/10/17/usa-donald-trump-stoppt-sanktionspaket-gegen-russland",
-        "desc": "Die Entscheidung, die Sanktionen auszusetzen, fällt in eine Phase wachsender Kritik Trumps am ukrainischen Präsidenten Wolodymyr Selenskyj.",
-        "fecha": "2026-10-17T08:58:32+02:00",
+        "titulo": "Nordkorea testet KI-gesteuerte Torpedosysteme im Meer",
+        "enlace": "https://de.euronews.com/2026/10/17/nordkorea-testet-ki-gesteuerte-torpedosysteme-im-meer",
+        "desc": "Zuvor hatte Nordkorea am Mittwoch zwei Typen strategischer, unter Wasser gestarteter Marschflugkörper getestet. Offenbar zur Stärkung seiner Marine.",
+        "fecha": "2026-10-17T13:31:38+02:00",
         "fuente": "Euronews DE"
       },
       {
         "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "fecha": "2026-10-17T07:41:01+00:00",
+        "fecha": "2026-10-17T11:56:06+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Thorsten Frei: Unionsfraktionschef will Änderungen bei Zuckersteuer",
-        "enlace": "https://www.spiegel.de/politik/thorsten-frei-unionsfraktionschef-will-aenderungen-bei-zuckersteuer-a-20578853-acfb-4b31-94cd-d69ef52f2e7e#ref=rss",
-        "desc": "Gerade erst hat das Bundeskabinett einen Gesetzentwurf für die Zuckersteuer auf den Weg gebracht. Nun dringt Unionsfraktionschef Thorsten Frei auf Übergangsfristen für Hersteller. …",
-        "fecha": "2026-10-17T09:25:00+02:00",
+        "titulo": "Massenproteste und Demonstrationen in Frankreich: Polizei setzt Tränengas ein",
+        "enlace": "https://www.spiegel.de/ausland/massenproteste-und-demonstrationen-in-frankreich-polizei-setzt-traenengas-ein-a-4d2744cb-c65e-43cf-9664-c9baee4008f3#ref=rss",
+        "desc": "In Frankreich hat ein landesweiter Protesttag wegen hoher Preise und maroder Schulen begonnen. Die Behörden befürchten Ausschreitungen, die ersten Zusammenstöße gab es bereits.",
+        "fecha": "2026-10-17T14:20:00+02:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Wer war Eva Mamlok? Warum ein Berliner Platz künftig ihren Namen trägt",
-        "enlace": "https://www.dw.com/de/wer-war-eva-mamlok-warum-ein-berliner-platz-künftig-ihren-namen-trägt/a-79676874?maca=de-rss-de-all-1119-rdf",
-        "desc": "Schon als Jugendliche leistete sie Widerstand gegen Hitler und hörte damit bis zu ihrem Tod in einem Konzentrationslager nicht auf. Nun wird ein bekannter Park in Berlin nach Eva M…",
-        "fecha": "2026-10-17T08:24:33.986398+00:00",
+        "titulo": "Unterdrückte Meta Brasiliens Präsidenten Lula im Wahlkampf?",
+        "enlace": "https://www.dw.com/de/unterdrückte-meta-brasiliens-präsidenten-lula-im-wahlkampf/a-79687056?maca=de-rss-de-all-1119-rdf",
+        "desc": "Während eine brasilianische Zeitung schreibt, es gebe Beweise für eine Manipulation von Lulas Social-Media-Konten, weist der Konzern Meta dies entschieden zurück. Das Oberste Wahlg…",
+        "fecha": "2026-10-17T12:48:49.288251+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 17. Oktober 2026 - Morgenausgabe",
-        "enlace": "https://de.euronews.com/video/2026/10/17/nachrichten-des-tages-17-oktober-2026-morgenausgabe",
+        "titulo": "Nachrichten des Tages | 17. Oktober 2026 - Mittagsausgabe",
+        "enlace": "https://de.euronews.com/video/2026/10/17/nachrichten-des-tages-17-oktober-2026-mittagsausgabe",
         "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 17. Oktober 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-10-17T07:00:43+02:00",
+        "fecha": "2026-10-17T12:00:28+02:00",
         "fuente": "Euronews DE"
       },
       {
         "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
         "enlace": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "fecha": "2026-10-17T06:49:48+00:00",
+        "fecha": "2026-10-17T09:58:17+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_it": [
       {
-        "titulo": "La Corea del Nord testa un nuovo sistema di missili con l'intelligenza artificiale",
-        "enlace": "https://it.euronews.com/2026/10/17/la-corea-del-nord-testa-un-nuovo-sistema-di-missili-con-lintelligenza-artificiale",
-        "desc": "La notizia arriva dopo che mercoledì la Corea del Nord ha testato due tipi di missili da crociera strategici lanciati da sottomarino, in quella che viene considerata una spinta a r…",
-        "fecha": "2026-10-17T10:10:53+02:00",
+        "titulo": "Francia, oggi proteste contro il carovita: scontri a Parigi, la polizia lancia lacrimogeni",
+        "enlace": "https://www.repubblica.it/esteri/2026/10/17/news/francia_proteste_contro_carovita_scontri_parigi_polizia_lacrimogeni-425654529/?rss",
+        "desc": "Giornata di mobilitazione per unire le diverse proteste contro il carovita, a sei mesi dalle presidenziali, in tutto il Paese. I fermi nella capitale sono già oltre 100. Riunione d…",
+        "fecha": "2026-10-17T14:31:37+02:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Le notizie del giorno | 17 ottobre 2026 - Pomeridiane",
+        "enlace": "https://it.euronews.com/video/2026/10/17/le-notizie-del-giorno-17-ottobre-2026-pomeridiane",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 17 ottobre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-10-17T12:00:15+02:00",
         "fuente": "Euronews IT"
       },
       {
         "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "enlace": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "fecha": "2026-10-17T07:41:01+00:00",
+        "fecha": "2026-10-17T11:56:06+00:00",
         "fuente": "BBC World EN"
       },
       {
-        "titulo": "Donald Trump sospende il nuovo pacchetto di sanzioni alla Russia",
-        "enlace": "https://it.euronews.com/2026/10/17/donald-trump-sospende-il-nuovo-pacchetto-di-sanzioni-alla-russia",
-        "desc": "La decisione di sospendere le sanzioni arriva mentre Trump intensifica le critiche al presidente ucraino Volodymyr Zelensky e fa seguito all'accordo statunitense sul diesel con la …",
-        "fecha": "2026-10-17T08:53:14+02:00",
+        "titulo": "“Operazione Vivaldi”, la controffensiva ucraina che blocca l’assalto russo del Donetsk",
+        "enlace": "https://www.repubblica.it/esteri/2026/10/17/news/operazione_vivaldi_controffensiva_ucraina_blocca_assalto_russo_donetsk_conquista_donbass-425654399/?rss",
+        "desc": "L’esercito ucraino rivendica la riconquista di 277 chilometri quadrati e ferma l’invasione a nord della città fortezza. Minacciato l’obiettivo russo di conquistare l’intero Donbass…",
+        "fecha": "2026-10-17T14:27:04+02:00",
+        "fuente": "La Repubblica"
+      },
+      {
+        "titulo": "Urto contro una mina, superpetroliera in fiamme nello Stretto di Hormuz",
+        "enlace": "https://it.euronews.com/2026/10/17/urto-contro-una-mina-superpetroliera-in-fiamme-nello-stretto-di-hormuz",
+        "desc": "Una petroliera avrebbe urtato una mina nello Stretto di Hormuz sabato, la notizia è stata diffusa dai pasdaran",
+        "fecha": "2026-10-17T11:49:59+02:00",
         "fuente": "Euronews IT"
       },
       {
         "titulo": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
         "enlace": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "desc": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "fecha": "2026-10-17T06:49:48+00:00",
+        "fecha": "2026-10-17T09:58:17+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "Presidente da União Internacional de Juízes rejeita crise na Justiça brasileira",
-        "enlace": "https://www.rtp.pt/noticias/mundo/presidente-da-uniao-internacional-de-juizes-rejeita-crise-na-justica-brasileira_n1772270",
-        "desc": "O juiz brasileiro Walter Barone, presidente da União Internacional de Magistrados, rejeitou hoje que exista uma crise da Justiça no Brasil, mas admitiu que os ataques políticos ao …",
-        "fecha": "2026-10-17T10:16:59+01:00",
+        "titulo": "Arábia Saudita executa cinco cidadãos pela prática de \"crimes terroristas\"",
+        "enlace": "https://www.rtp.pt/noticias/mundo/arabia-saudita-executa-cinco-cidadaos-pela-pratica-de-crimes-terroristas_n1772321",
+        "desc": "A Arábia Saudita executou hoje cinco cidadãos sauditas na Província Oriental, acusados de &quot;crimes terroristas&quot;, incluindo a ligação a uma organização estrangeira e o ataq…",
+        "fecha": "2026-10-17T14:35:06+01:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Trump adia novamente sanções contra a Rússia",
-        "enlace": "https://observador.pt/liveblogs/trump-adia-novamente-sancoes-contra-a-russia/",
-        "desc": "Presidente norte-americano anunciou que Moscovo vai fornecer aos EUA milhares de toneladas de gasóleo no âmbito do \"acordo energético\". Suspensão de sanções surge em momento tenso …",
-        "fecha": "2026-10-17T09:22:09+01:00",
+        "titulo": "BE pede ao Governo que apoie venda imediata da Visão",
+        "enlace": "https://observador.pt/2026/10/17/be-pede-ao-governo-que-apoie-venda-imediata-da-visao-para-evitar-encerramento/",
+        "desc": "Partido fez apelo para que o Estado, maior credor da Trust in News, apoie a venda imediata da Visão, mantida por jornalistas que pretendem comprá-la.",
+        "fecha": "2026-10-17T13:36:16+01:00",
+        "fuente": "Observador"
+      },
+      {
+        "titulo": "O que a eleição de uma estreante deputada federal de 24 anos do Rio revela sobre a onda de direita no Brasil",
+        "enlace": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
+        "desc": "A influenciadora Julia de Castro faz parte da leva de jovens de direita eleitos após construir capital político digital e serem recrutados por partidos, em uma estratégia bem-suced…",
+        "fecha": "2026-10-17T09:57:35+00:00",
+        "fuente": "BBC Brasil"
+      },
+      {
+        "titulo": "Ataques de Israel a Gaza matam cinco habitantes incluindo criança e polícia",
+        "enlace": "https://www.rtp.pt/noticias/mundo/ataques-de-israel-a-gaza-matam-cinco-habitantes-incluindo-crianca-e-policia_n1772313",
+        "desc": "O Exército israelita matou hoje pelo menos cinco habitantes de Gaza em ataques contra a Faixa, incluindo uma criança e um polícia, segundo fontes médicas, aumentando para 1.500 os …",
+        "fecha": "2026-10-17T14:32:07+01:00",
+        "fuente": "RTP Notícias"
+      },
+      {
+        "titulo": "As imagens dos protestos no Porto e em Lisboa",
+        "enlace": "https://observador.pt/2026/10/17/as-imagens-dos-protestos-pela-habitacao-e-contra-o-aumento-do-custo-de-vida-no-porto-e-em-lisboa/",
+        "desc": "Este sábado está a ser marcado pelos protestos pelo direito à habitação e as manifestações da CGTP em vários pontos do país. No Porto e em Lisboa, muitos expressam o seu descontent…",
+        "fecha": "2026-10-17T13:24:33+01:00",
         "fuente": "Observador"
       },
       {
@@ -640,27 +690,6 @@
         "enlace": "https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss",
         "desc": "Reinaldo Azambuja, ex-governador de Mato Grosso do Sul e presidente estadual do PL, prometeu 'premiar' as cidades em reunião com lideranças em Campo Grande nesta semana.",
         "fecha": "2026-10-16T20:00:48+00:00",
-        "fuente": "BBC Brasil"
-      },
-      {
-        "titulo": "Se Bolsonaro vencer Yanomami ficam em risco",
-        "enlace": "https://www.rtp.pt/noticias/mundo/se-bolsonaro-vencer-yanomami-ficam-em-risco_n1772263",
-        "desc": "O líder indígena brasileiro Davi Kopenawa alertou, em entrevista à Lusa, para os riscos que uma eventual vitória de Flávio Bolsonaro nas presidenciais representa para o povo Yanoma…",
-        "fecha": "2026-10-17T10:02:50+01:00",
-        "fuente": "RTP Notícias"
-      },
-      {
-        "titulo": "9h. Habitação. Líderes dos movimentos são do PCP ou BE",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2504/",
-        "desc": "Os organizadores garantem ao Observador, no entanto, que não recebem financiamento partidário. Ainda, serviços secretos espanhóis dizem que Marrocos foi negligente na crise migrató…",
-        "fecha": "2026-10-17T09:14:49+01:00",
-        "fuente": "Observador"
-      },
-      {
-        "titulo": "Como PF e PGR mapeiam suposta rede de exploração sexual de Vorcaro: 'Voo das kengas é para sair de manhã'",
-        "enlace": "https://www.bbc.com/portuguese/articles/cmpwgqzpdl5qo?at_medium=RSS&at_campaign=rss",
-        "desc": "Investigação sobre banqueiro do Master avança sobre possível favorecimento à prostituição e intermediários",
-        "fecha": "2026-10-16T18:55:42+00:00",
         "fuente": "BBC Brasil"
       }
     ],
@@ -673,24 +702,24 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Betis-Barça: Partidazo y dos 'fichajes'",
-        "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239657/betis-barca-partidazo-dos-fichajes.html",
-        "desc": "Empieza la semana más apasionante de lo que va de temporada. El FC Barcelona afronta hoy su visita al Real Betis en La Cartuja (18.30h/DAZN), un escenario que pondrá a prueba el gr…",
-        "fecha": "2026-10-17T07:00:00+02:00",
+        "titulo": "El Atlético, más cerca del gol en el RCDE Stadium",
+        "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261017/1004237820/espanyol-atletico-madrid-directo-laliga-ea-sports.html",
+        "desc": "",
+        "fecha": "2026-10-17T14:13:16+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "La competencia de Hugo González en Boston Celtics: Rol, contexto y situación",
-        "enlace": "https://www.gigantes.com/nba/hugo-gonzalez-boston-celtics-competencia-rol/",
-        "desc": "Hugo González afronta su segunda temporada en los Boston Celtics con el objetivo de seguir creciendo en la NBA y a nivel individual. La entrada La competencia de Hugo González en B…",
-        "fecha": "2026-10-17T06:00:00+00:00",
+        "titulo": "Impresionante triple ganador: El Oviedo firma una de las canastas del año",
+        "enlace": "https://www.gigantes.com/primera-feb/impresionante-triple-ganador-el-oviedo-firma-una-de-las-canastas-del-ano/",
+        "desc": "Sander Hollanders anotó desde su propio campo el triple ganador ante Tizona Burgos y dio al Alimerka Oviedo una increíble victoria por 100-101. La entrada Impresionante triple gana…",
+        "fecha": "2026-10-17T09:10:26+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "England's 41-match unbeaten run ended by Canada",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
-        "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "fecha": "2026-10-17T07:25:54+00:00",
+        "titulo": "England stunned by Tonga in World Cup opener",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+        "desc": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+        "fecha": "2026-10-17T11:04:05+00:00",
         "fuente": "BBC Sport EN"
       },
       {
@@ -701,29 +730,43 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "Horario, canal y dónde ver por TV el Betis - FC Barcelona de LaLiga EA Sports",
-        "enlace": "https://www.mundodeportivo.com/horarios/futbol/20261015/1004239001/horario-canal-ver-tv-real-betis-fc-barcelona-laliga-ea-sports-primera-division-futbol.html",
-        "desc": "Se disputa el partidazo de la novena jornada de LaLiga EA Sports 26-27, donde el Barça quiere seguir con el pleno de victorias de la temporada contra un Betis lanzado que quiere da…",
-        "fecha": "2026-10-15T17:23:23+02:00",
+        "titulo": "Jódar se lleva el 1.º set 6-3 ante Medvedev",
+        "enlace": "https://www.mundodeportivo.com/tenis/20261017/1004239565/jodar-medvedev-directo-masters-shanghai-tenis-semifinales.html",
+        "desc": "",
+        "fecha": "2026-10-17T12:44:44+02:00",
         "fuente": "Mundo Deportivo"
       },
       {
-        "titulo": "Trasvases ‘impactantes’ en los banquillos: Repasamos algunos de los nombres más destacados de la Liga Endesa",
-        "enlace": "https://www.gigantes.com/revista/trasvases-banquillos-impactantes-historia/",
-        "desc": "A lo largo de las últimas décadas ha habido en la Liga Endesa varios movimientos de entrenadores que levantaron un molesto polvo, ya fuera por la forma, el momento, el dinero y has…",
-        "fecha": "2026-10-17T05:45:00+00:00",
+        "titulo": "Aday Mara, Baba Miller, Sergio de Larrea y Hugo González: El balance de los españoles en la pretemporada NBA",
+        "enlace": "https://www.gigantes.com/nba/espanoles-pretemporada-nba-2026-estadisticas/",
+        "desc": "Repasamos sus estadísticas y mejores actuaciones La entrada Aday Mara, Baba Miller, Sergio de Larrea y Hugo González: El balance de los españoles en la pretemporada NBA se publicó …",
+        "fecha": "2026-10-17T08:36:05+00:00",
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Ranking the Premier League's all-time greatest super subs",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-        "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-        "fecha": "2026-10-16T21:15:47+00:00",
+        "titulo": "England's 41-match unbeaten run ended by Canada",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+        "fecha": "2026-10-17T07:25:54+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_en": [
       {
+        "titulo": "England stunned by Tonga in World Cup opener",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+        "desc": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+        "fecha": "2026-10-17T11:04:05+00:00",
+        "fuente": "BBC Sport"
+      },
+      {
+        "titulo": "Isak, Gakpo and Szoboszlai with Liverpool squad at Brentford LIVE!",
+        "enlace": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
+        "desc": "",
+        "fecha": "2026-10-17T13:00:00",
+        "fuente": "Sky Sports"
+      },
+      {
         "titulo": "England's 41-match unbeaten run ended by Canada",
         "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
         "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
@@ -731,40 +774,26 @@
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Red Roses' 41-game unbeaten run ended in dramatic fashion",
-        "enlace": "https://www.skysports.com/rugby-union/news/12040/13600098/wxv-global-series-england-stunned-by-a-late-rally-from-canada-as-red-roses-41-match-unbeaten-run-ends-with-24-21-loss",
-        "desc": "England's 41-game unbeaten run is over after they were stunned by a late rally from Canada, the Red Roses falling 24-21 in their WXV Global Series clash in Toronto.",
-        "fecha": "2026-10-17T07:28:00",
-        "fuente": "Sky Sports"
-      },
-      {
-        "titulo": "Ranking the Premier League's all-time greatest super subs",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-        "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-        "fecha": "2026-10-16T21:15:47+00:00",
-        "fuente": "BBC Sport"
-      },
-      {
-        "titulo": "Rugby League World Cup LIVE! England's women dominating Wales in opening match",
-        "enlace": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament",
-        "desc": "",
-        "fecha": "2026-10-17T07:00:00",
+        "titulo": "'A huge milestone' - Kartal becomes second Brit ever to reach WTA 1000 final",
+        "enlace": "https://www.skysports.com/tennis/news/12040/13600120/sonay-kartal-british-star-digs-deep-to-beat-jelena-ostapenko-and-secure-a-spot-in-her-first-ever-wta-1000-final",
+        "desc": "Britain's Sonay Kartal was forced to dig deep to beat Jelena Ostapenko and secure a spot in her first-ever WTA 1000 final on Saturday.",
+        "fecha": "2026-10-17T12:28:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
+        "titulo": "England stunned by Tonga in World Cup opener",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+        "desc": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+        "fecha": "2026-10-17T11:04:05+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
         "titulo": "England's 41-match unbeaten run ended by Canada",
         "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
         "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
         "fecha": "2026-10-17T07:25:54+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "Ranking the Premier League's all-time greatest super subs",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-        "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-        "fecha": "2026-10-16T21:15:47+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -773,44 +802,44 @@
         "titulo": "UEFA gegen Infantino: Lager belauern sich bei FIFA-Council - Europa sucht nach Gegenkandidat",
         "enlace": "https://www.dw.com/de/uefa-gegen-infantino-lager-belauern-sich-bei-fifa-council-europa-sucht-nach-gegenkandidat/a-79677520?maca=de-rss-de-sport-4020-rdf",
         "desc": "FIFA-Präsident Gianni Infantino bittet beim ersten Aufeinandertreffen mit seinen Kritikern aus Europa um Entschuldigung - doch befriedigende Antworten blieben aus. Die UEFA bleibt …",
-        "fecha": "2026-10-17T08:24:52.026495+00:00",
+        "fecha": "2026-10-17T12:49:04.522815+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "England's 41-match unbeaten run ended by Canada",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
-        "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
-        "fecha": "2026-10-17T07:25:54+00:00",
+        "titulo": "England stunned by Tonga in World Cup opener",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+        "desc": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+        "fecha": "2026-10-17T11:04:05+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "UEFA sucht Herausforderer für FIFA-Präsident Gianni Infantino - die Frist läuft im November ab",
         "enlace": "https://www.dw.com/de/uefa-sucht-herausforderer-für-fifa-präsident-gianni-infantino-die-frist-läuft-im-november-ab/a-79612830?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die UEFA hat in Berlin einen Fahrplan zur Ablösung von FIFA-Präsident Gianni Infantino beschlossen. Bis zum 18. November muss ein Gegenkandidat her - doch ein Name fehlt noch.",
-        "fecha": "2026-10-17T08:24:52.026538+00:00",
+        "fecha": "2026-10-17T12:49:04.522856+00:00",
         "fuente": "DW Sport"
       },
-      {
-        "titulo": "Ranking the Premier League's all-time greatest super subs",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-        "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-        "fecha": "2026-10-16T21:15:47+00:00",
-        "fuente": "BBC Sport EN"
-      }
-    ],
-    "deportes_it": [
       {
         "titulo": "England's 41-match unbeaten run ended by Canada",
         "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
         "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
         "fecha": "2026-10-17T07:25:54+00:00",
         "fuente": "BBC Sport EN"
+      }
+    ],
+    "deportes_it": [
+      {
+        "titulo": "England stunned by Tonga in World Cup opener",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+        "desc": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+        "fecha": "2026-10-17T11:04:05+00:00",
+        "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "Ranking the Premier League's all-time greatest super subs",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-        "desc": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-        "fecha": "2026-10-16T21:15:47+00:00",
+        "titulo": "England's 41-match unbeaten run ended by Canada",
+        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+        "desc": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+        "fecha": "2026-10-17T07:25:54+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -831,17 +860,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Por qué Irlanda es uno de los países del mundo más críticos con Israel por la guerra en Gaza",
-        "enlace": "https://www.bbc.com/mundo/articles/c8r4vy17rx62o?at_medium=RSS&at_campaign=rss",
-        "desc": "Las narrativas históricas y el pasado irlandés como colonia inglesa juegan un rol clave en las percepciones actuales.",
-        "fecha": "2026-10-17T04:00:42+00:00",
+        "titulo": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+        "enlace": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss",
+        "desc": "La ejecución de Nidal Hasan, el pistolero de Fort Hood, sería la primera vez que el Ejército de Estados Unidos utilizaría un pelotón de fusilamiento desde 1945.",
+        "fecha": "2026-10-17T12:29:58+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
         "enlace": "https://www.nature.com/articles/d41586-026-03341-3",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why smal…",
-        "fecha": "2026-10-17T08:25:05.938926+00:00",
+        "fecha": "2026-10-17T12:49:15.231485+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -866,17 +895,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo",
-        "enlace": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss",
-        "desc": "Katie Zacharia se convirtió en la secretaria de prensa de la Casa Blanca con el mandato más breve en la historia moderna de Estados Unidos.",
-        "fecha": "2026-10-16T19:52:40+00:00",
+        "titulo": "Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento crítico para Trump",
+        "enlace": "https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss",
+        "desc": "La Casa Blanca se enfrenta a una adversidad creciente, escribe Anthony Zurcher de la BBC, a semanas de las cruciales elecciones de mitad de mandato.",
+        "fecha": "2026-10-17T09:14:04+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "The pianist who never played",
         "enlace": "https://www.nature.com/articles/d41586-026-03112-0",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
-        "fecha": "2026-10-17T08:25:05.938983+00:00",
+        "fecha": "2026-10-17T12:49:15.231526+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -892,14 +921,14 @@
         "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
         "enlace": "https://www.nature.com/articles/d41586-026-03341-3",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why smal…",
-        "fecha": "2026-10-17T08:25:10.151973+00:00",
+        "fecha": "2026-10-17T12:49:19.032106+00:00",
         "fuente": "Nature"
       },
       {
         "titulo": "How scientists domesticated a killer bacterium",
         "enlace": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
         "desc": "Genome analysis shows how decades of lab cultivation turned C. botulinum , the canned-food killer, into a potent tool for medicine and the beauty industry",
-        "fecha": "2026-10-17T08:25:10.323216+00:00",
+        "fecha": "2026-10-17T12:49:19.162936+00:00",
         "fuente": "Science"
       },
       {
@@ -917,17 +946,17 @@
         "fuente": "MIT Tech Review"
       },
       {
-        "titulo": "OpenAI models hacked a crypto wallet and breached more websites",
-        "enlace": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "desc": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-        "fecha": "2026-10-16T20:59:01+00:00",
+        "titulo": "Science says your boss should talk less in meetings",
+        "enlace": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+        "desc": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+        "fecha": "2026-10-17T11:15:11+00:00",
         "fuente": "Ars Technica"
       },
       {
-        "titulo": "Optical imaging links altered metabolism and oxygen use in Alzheimer's disease",
-        "enlace": "https://phys.org/news/2026-10-optical-imaging-links-metabolism-oxygen.html",
-        "desc": "Alzheimer's disease is best known for its effects on memory and cognition, but the disease also involves changes in how brain cells produce and use energy. Mitochondria, the struct…",
-        "fecha": "2026-10-17T04:16:41-04:00",
+        "titulo": "Electrical sliding switches graphene between magnetic states",
+        "enlace": "https://phys.org/news/2026-10-electrical-graphene-magnetic-states.html",
+        "desc": "In a discovery that could offer a new way to control quantum properties in two-dimensional materials, researchers at Cornell have found that electrically sliding the layers of ultr…",
+        "fecha": "2026-10-17T08:00:06-04:00",
         "fuente": "Phys.org"
       },
       {
@@ -961,6 +990,20 @@
     ],
     "ciencia_fr": [
       {
+        "titulo": "Les technologies du futur porte-avions \"France libre\"",
+        "enlace": "https://www.sciencesetavenir.fr/high-tech/france-libre-le-futur-porte-avions-nucleaire-francais_194984?xtor=RSS-12",
+        "desc": "Le porte-avions destiné à remplacer l’actuel Charles de Gaulle&nbsp;a désormais un nom : France Libre. En attendant une mise en service prévue pour 2038, les grandes lignes du futu…",
+        "fecha": "2026-10-17T12:00:00+00:00",
+        "fuente": "Sciences et Avenir"
+      },
+      {
+        "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+        "enlace": "https://www.nature.com/articles/d41586-026-03341-3",
+        "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why smal…",
+        "fecha": "2026-10-17T12:49:22.345884+00:00",
+        "fuente": "Nature EN"
+      },
+      {
         "titulo": "De la lumière au cœur des abysses",
         "enlace": "https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/bioluminescence-pourquoi-ces-animaux-des-abysses-produisent-ils-de-la-lumiere_194996?xtor=RSS-15",
         "desc": "Dans les grands fonds, l’obscurité n’est jamais totale : d’innombrables organismes y produisent leur propre lumière. Apparue à de multiples reprises au cours de l’évolution, la bio…",
@@ -968,24 +1011,10 @@
         "fuente": "Sciences et Avenir"
       },
       {
-        "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
-        "enlace": "https://www.nature.com/articles/d41586-026-03341-3",
-        "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why smal…",
-        "fecha": "2026-10-17T08:25:15.128781+00:00",
-        "fuente": "Nature EN"
-      },
-      {
-        "titulo": "Wildlife Photographer of the Year 2026 : découvrez les clichés primés",
-        "enlace": "https://www.sciencesetavenir.fr/animaux/biodiversite/wildlife-photographer-of-the-year-2026-decouvrez-les-cliches-primes-du-celebre-concours-photo_195436?xtor=RSS-26",
-        "desc": "Les gagnants du Wildlife Photographer of the Year, la prestigieuse compétition de photographie, ont été révélés le 14 octobre 2026. Sciences et Avenir vous présente une sélection d…",
-        "fecha": "2026-10-16T16:03:18+00:00",
-        "fuente": "Sciences et Avenir"
-      },
-      {
         "titulo": "The pianist who never played",
         "enlace": "https://www.nature.com/articles/d41586-026-03112-0",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
-        "fecha": "2026-10-17T08:25:15.128830+00:00",
+        "fecha": "2026-10-17T12:49:22.345926+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -994,28 +1023,28 @@
         "titulo": "Warum Starlink für die Ukraine so wichtig ist",
         "enlace": "https://www.dw.com/de/warum-starlink-für-die-ukraine-so-wichtig-ist/a-79668027?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Immer wieder gibt es Sorgen über eine Drosselung oder Abschaltung des Satelliteninternets Starlink in der Ukraine. Wie groß ist die Abhängigkeit des Landes von dem System, und welc…",
-        "fecha": "2026-10-17T08:25:18.115304+00:00",
+        "fecha": "2026-10-17T12:49:25.168303+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
         "enlace": "https://www.nature.com/articles/d41586-026-03341-3",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why smal…",
-        "fecha": "2026-10-17T08:25:18.264740+00:00",
+        "fecha": "2026-10-17T12:49:25.287066+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Was Sie über \"hirnfressende\" Amöben wissen sollten",
         "enlace": "https://www.dw.com/de/was-sie-über-hirnfressende-amöben-wissen-sollten/a-66427073?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Nach dem Tod eines Mannes durch einen Parasiten sind in der Urlaubsregion Yucatán in Mexiko sechs Seen gesperrt worden. Solche Infektionen sind zwar selten, verlaufen aber meistens…",
-        "fecha": "2026-10-17T08:25:18.115350+00:00",
+        "fecha": "2026-10-17T12:49:25.168344+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "The pianist who never played",
         "enlace": "https://www.nature.com/articles/d41586-026-03112-0",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
-        "fecha": "2026-10-17T08:25:18.264802+00:00",
+        "fecha": "2026-10-17T12:49:25.287107+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1024,23 +1053,37 @@
         "titulo": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
         "enlace": "https://www.nature.com/articles/d41586-026-03341-3",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why smal…",
-        "fecha": "2026-10-17T08:25:22.389003+00:00",
+        "fecha": "2026-10-17T12:49:28.834376+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "The pianist who never played",
         "enlace": "https://www.nature.com/articles/d41586-026-03112-0",
         "desc": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
-        "fecha": "2026-10-17T08:25:22.389053+00:00",
+        "fecha": "2026-10-17T12:49:28.834419+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "Trump adia novamente sanções contra a Rússia",
-        "enlace": "https://observador.pt/liveblogs/trump-adia-novamente-sancoes-contra-a-russia/",
-        "desc": "Presidente norte-americano anunciou que Moscovo vai fornecer aos EUA milhares de toneladas de gasóleo no âmbito do \"acordo energético\". Suspensão de sanções surge em momento tenso …",
-        "fecha": "2026-10-17T09:22:09+01:00",
+        "titulo": "BE pede ao Governo que apoie venda imediata da Visão",
+        "enlace": "https://observador.pt/2026/10/17/be-pede-ao-governo-que-apoie-venda-imediata-da-visao-para-evitar-encerramento/",
+        "desc": "Partido fez apelo para que o Estado, maior credor da Trust in News, apoie a venda imediata da Visão, mantida por jornalistas que pretendem comprá-la.",
+        "fecha": "2026-10-17T13:36:16+01:00",
+        "fuente": "Observador Tech"
+      },
+      {
+        "titulo": "O que a eleição de uma estreante deputada federal de 24 anos do Rio revela sobre a onda de direita no Brasil",
+        "enlace": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
+        "desc": "A influenciadora Julia de Castro faz parte da leva de jovens de direita eleitos após construir capital político digital e serem recrutados por partidos, em uma estratégia bem-suced…",
+        "fecha": "2026-10-17T09:57:35+00:00",
+        "fuente": "BBC Brasil Tec"
+      },
+      {
+        "titulo": "As imagens dos protestos no Porto e em Lisboa",
+        "enlace": "https://observador.pt/2026/10/17/as-imagens-dos-protestos-pela-habitacao-e-contra-o-aumento-do-custo-de-vida-no-porto-e-em-lisboa/",
+        "desc": "Este sábado está a ser marcado pelos protestos pelo direito à habitação e as manifestações da CGTP em vários pontos do país. No Porto e em Lisboa, muitos expressam o seu descontent…",
+        "fecha": "2026-10-17T13:24:33+01:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1048,20 +1091,6 @@
         "enlace": "https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss",
         "desc": "Reinaldo Azambuja, ex-governador de Mato Grosso do Sul e presidente estadual do PL, prometeu 'premiar' as cidades em reunião com lideranças em Campo Grande nesta semana.",
         "fecha": "2026-10-16T20:00:48+00:00",
-        "fuente": "BBC Brasil Tec"
-      },
-      {
-        "titulo": "9h. Habitação. Líderes dos movimentos são do PCP ou BE",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2504/",
-        "desc": "Os organizadores garantem ao Observador, no entanto, que não recebem financiamento partidário. Ainda, serviços secretos espanhóis dizem que Marrocos foi negligente na crise migrató…",
-        "fecha": "2026-10-17T09:14:49+01:00",
-        "fuente": "Observador Tech"
-      },
-      {
-        "titulo": "Como PF e PGR mapeiam suposta rede de exploração sexual de Vorcaro: 'Voo das kengas é para sair de manhã'",
-        "enlace": "https://www.bbc.com/portuguese/articles/cmpwgqzpdl5qo?at_medium=RSS&at_campaign=rss",
-        "desc": "Investigação sobre banqueiro do Master avança sobre possível favorecimento à prostituição e intermediários",
-        "fecha": "2026-10-16T18:55:42+00:00",
         "fuente": "BBC Brasil Tec"
       }
     ],
@@ -1077,7 +1106,7 @@
         "titulo": "Vuelven las dudas a los mercados: la inflación obliga a replantear todas las apuestas de cara a 2027",
         "enlace": "https://www.elconfidencial.com/mercados/2026-10-17/mercados-inversiones-inflacion-bra_4446387/",
         "desc": "Europa y España, por otro lado, han mostrado una mayor resistencia. El Ibex se ha beneficiado del buen comportamiento de los bancos españoles, de la fortaleza de la actividad turís…",
-        "fecha": "2026-10-17T08:25:27.751933+00:00",
+        "fecha": "2026-10-17T12:49:33.762719+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1088,10 +1117,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "enlace": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "desc": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded a…",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Global Aid Cuts Deepen Humanitarian Strain",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+        "desc": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts a…",
+        "fecha": "2026-10-17T12:44:18+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1112,7 +1141,7 @@
         "titulo": "Goldman supera el 3% en BBVA por primera vez desde abril",
         "enlace": "https://www.elconfidencial.com/mercados/2026-10-15/goldman-sachs-participacion-bbva-1tps_4445857/",
         "desc": "La posición combina acciones e instrumentos financieros y alcanza un valor conjunto cercano a 3.840 millones de euros",
-        "fecha": "2026-10-17T08:25:27.751979+00:00",
+        "fecha": "2026-10-17T12:49:33.762760+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
@@ -1123,10 +1152,10 @@
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "desc": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thaila…",
-        "fecha": "2026-10-17T05:40:45+00:00",
+        "titulo": "India Frees ‘Cockroach’ Leader As Voter Row Simmers",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "desc": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over th…",
+        "fecha": "2026-10-17T02:34:29+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1139,17 +1168,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "enlace": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "desc": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded a…",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Global Aid Cuts Deepen Humanitarian Strain",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+        "desc": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts a…",
+        "fecha": "2026-10-17T12:44:18+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "Trump waives many Russian sanctions, tariffs under new law backed by Lindsey Graham",
-        "enlace": "https://www.foxbusiness.com/politics/trump-waives-many-russian-sanctions-under-new-law-backed-lindsey-graham",
-        "desc": "President Donald Trump on Friday said he was waiving many Russian-related sanctions and tariffs under a new law backed by late South Carolina Sen. Lindsey Graham.",
-        "fecha": "2026-10-16T22:00:12-04:00",
+        "titulo": "Senator warns ‘clock is ticking’ as Social Security funds run dry",
+        "enlace": "https://www.foxbusiness.com/media/senator-warns-clock-ticking-social-security-funds-run-dry",
+        "desc": "Sen. Bill Cassidy warns the 3.6% Social Security COLA could drain the trust fund faster, leaving Congress roughly five and a half years to act before retirees face steep benefit cu…",
+        "fecha": "2026-10-17T07:00:58-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1167,17 +1196,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "desc": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thaila…",
-        "fecha": "2026-10-17T05:40:45+00:00",
+        "titulo": "India Frees ‘Cockroach’ Leader As Voter Row Simmers",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "desc": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over th…",
+        "fecha": "2026-10-17T02:34:29+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "LARRY KUDLOW: No fracking, free health insurance for illegal immigrants — is that really affordability?",
-        "enlace": "https://www.foxbusiness.com/politics/larry-kudlow-no-fracking-free-health-insurance-illegal-immigrants-really-affordability",
-        "desc": "No wonder the purported Democratic blue wave may not pan out in the upcoming midterm elections",
-        "fecha": "2026-10-16T17:32:01-04:00",
+        "titulo": "Mark Ruffalo calls Gavin Newsom's billionaire tax stance 'disqualifying' ahead of California vote",
+        "enlace": "https://www.foxbusiness.com/politics/mark-ruffalo-calls-gavin-newsoms-billionaire-tax-stance-disqualifying-ahead-california-vote",
+        "desc": "Mark Ruffalo slammed Gavin Newsom for opposing California&apos;s billionaire wealth tax, calling it &quot;disqualifying&quot; for anyone with ambitions for higher office.",
+        "fecha": "2026-10-17T05:16:39-04:00",
         "fuente": "Fox Business"
       },
       {
@@ -1197,93 +1226,93 @@
     ],
     "economia_fr": [
       {
-        "titulo": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "enlace": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "desc": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded a…",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Global Aid Cuts Deepen Humanitarian Strain",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+        "desc": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts a…",
+        "fecha": "2026-10-17T12:44:18+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "desc": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thaila…",
-        "fecha": "2026-10-17T05:40:45+00:00",
+        "titulo": "India Frees ‘Cockroach’ Leader As Voter Row Simmers",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "desc": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over th…",
+        "fecha": "2026-10-17T02:34:29+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "USA: US-Präsident Trump setzt neue Russland-Sanktionen per Dekret aus",
-        "enlace": "https://www.handelsblatt.com/politik/international/usa-trump-setzt-neue-russland-sanktionen-per-dekret-aus/100262955.html",
-        "desc": "Mitte September hatte US-Präsident Trump das Sanktionsgesetz gegen Russland unterzeichnet, nun setzt er es kurz vor Inkrafttreten aus. Er begründet das mit dem nationalen Interesse…",
-        "fecha": "2026-10-17T07:41:56+00:00",
+        "titulo": "Berlin: Linke, Grüne und SPD in Berlin wollen Koalitionsgespräche führen",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/berlin-linke-gruene-und-spd-in-berlin-wollen-koalitionsgespraeche-fuehren/100262974.html",
+        "desc": "Die drei Berliner Parteien sind sich in den Sondierungsgespräche nach der Abgeordnetenhauswahl einig geworden. Nun wollen sie über eine rot-grün-rote Koalition verhandeln.",
+        "fecha": "2026-10-17T12:34:39+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "enlace": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "desc": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded a…",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Global Aid Cuts Deepen Humanitarian Strain",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+        "desc": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts a…",
+        "fecha": "2026-10-17T12:44:18+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Trump-Watch: „Russland hat noch immer die Oberhand“ – Außenpolitik-Expertin Friedlander erklärt Trumps Ukrainepolitik",
-        "enlace": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-russland-hat-noch-immer-die-oberhand-aussenpolitik-expertin-friedlander-erklaert-trumps-ukrainepolitik/100262930.html",
-        "desc": "Gescheiterte Energie-Waffenruhe und Druck auf Kiew: Die Geschäftsführerin der Atlantikbrücke ordnet die Ukrainepolitik des US-Präsidenten ein – und die Folgen für Europa.",
-        "fecha": "2026-10-17T07:16:07+00:00",
+        "titulo": "Junge Union: „Die Menschen fühlen sich verarscht“ – JU knüpft Unterstützung für Kanzler an Reformen",
+        "enlace": "https://www.handelsblatt.com/politik/deutschland/reformen-junge-union-knuepft-unterstuetzung-fuer-kanzler-an-reformen/100261878.html",
+        "desc": "Friedrich Merz muss sich beim „Deutschlandtag“ der Jungen Union gegen Reform- und Rücktrittsforderungen behaupten. Zumindest mit einem Thema kann der Kanzler punkten.",
+        "fecha": "2026-10-17T12:33:22+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "desc": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thaila…",
-        "fecha": "2026-10-17T05:40:45+00:00",
+        "titulo": "India Frees ‘Cockroach’ Leader As Voter Row Simmers",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "desc": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over th…",
+        "fecha": "2026-10-17T02:34:29+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "enlace": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "desc": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded a…",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Global Aid Cuts Deepen Humanitarian Strain",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+        "desc": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts a…",
+        "fecha": "2026-10-17T12:44:18+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "desc": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thaila…",
-        "fecha": "2026-10-17T05:40:45+00:00",
+        "titulo": "India Frees ‘Cockroach’ Leader As Voter Row Simmers",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "desc": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over th…",
+        "fecha": "2026-10-17T02:34:29+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_pt": [
       {
-        "titulo": "Trump é o culpado, mas Governo tem responsabilidade de intervir para baixar preço dos combustíveis",
-        "enlace": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/barometro-embargo-17-10-trump-e-o-culpado-mas-governo-tem-responsabilidade-de-intervir-para-baixar-preco-dos-combustiveis",
-        "desc": "Presidente dos EUA é o grande responsável pela escalada dos preços da gasolina e do gasóleo nos postos de abastecimento nacionais. O Governo não tem culpa, segundo o Barómetro da I…",
-        "fecha": "2026-10-17T09:00:00+01:00",
+        "titulo": "Visão em risco de encerramento. BE pede ao Governo que apoie a venda imediata da revista",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/media/detalhe/visao-em-risco-de-encerramento-be-pede-ao-governo-que-apoie-a-venda-imediata-da-revista",
+        "desc": "O Bloco de Esquerda (BE) pediu hoje ao Governo que o Estado, maior credor da Trust in News, apoie a venda imediata da Visão, mantida por jornalistas que pretendem comprá-la, alerta…",
+        "fecha": "2026-10-17T13:43:47+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-        "enlace": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-        "desc": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville’s time, but now regarded a…",
-        "fecha": "2026-10-17T08:00:00+00:00",
+        "titulo": "Global Aid Cuts Deepen Humanitarian Strain",
+        "enlace": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+        "desc": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts a…",
+        "fecha": "2026-10-17T12:44:18+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Médio Oriente: 135 incidentes marítimos e 76 vítimas desde início de guerra contra o Irão",
-        "enlace": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/medio-oriente-135-incidentes-maritimos-e-76-vitimas-desde-inicio-de-guerra-contra-o-irao",
-        "desc": "Na última semana, a organização britânica de segurança marítima (UKMTO) registou 12 ataques contra embarcações: 10 no Estreito de Ormuz, um no Golfo Pérsico e outro no Golfo de Omã…",
-        "fecha": "2026-10-17T08:36:22+01:00",
+        "titulo": "IP3 cortado duas noites devido a obras entre Santa Comba Dão e Viseu",
+        "enlace": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/ip3-cortado-duas-noites-devido-a-obras-entre-santa-comba-dao-e-viseu",
+        "desc": "O trânsito será feito pela Estrada Nacional (EN)2, nos dois sentidos, entre as 21:00 e as 05:00.",
+        "fecha": "2026-10-17T13:01:00+01:00",
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Lagarde Says Sustainable Finances Key for Economic Stability",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-        "desc": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thaila…",
-        "fecha": "2026-10-17T05:40:45+00:00",
+        "titulo": "India Frees ‘Cockroach’ Leader As Voter Row Simmers",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+        "desc": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his group’s legal affairs head said, as a widening fight over th…",
+        "fecha": "2026-10-17T02:34:29+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
