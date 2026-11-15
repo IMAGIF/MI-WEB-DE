@@ -1,12 +1,61 @@
 {
-  "actualizado": "2026-11-15T01:36:43.874528+00:00",
+  "actualizado": "2026-11-15T08:58:50.249329+00:00",
   "secciones": {
     "nacional_es": [
       {
-        "titulo": "Tu Otra Bonita: «No hace falta estar enchufado para tocar rock»",
-        "enlace": "https://www.abc.es/espana/madrid/bonita-falta-estar-enchufado-tocar-rock-20261115020715-nt.html",
-        "desc": "Una canción de dieciocho minutos no es precisamente una apuesta comercial en estos tiempos. Por eso hay que celebrar que haya quien se atreva a hacerlo, como Tu Otra Bonita con 'Lo…",
-        "fecha": "2026-11-15T02:07:15+01:00",
+        "titulo": "Una barbacoa ilegal acaba a tiros contra un policía local en una barriada de Palma",
+        "enlace": "https://www.abc.es/espana/baleares/barbacoa-ilegal-acaba-tiros-policia-local-barriada-20261115093443-nt.html",
+        "desc": "Un agente de la Policía Local de Palma resultó herido de bala este sábado por la tarde en la barriada de Corea , después de que un hombre le arrebatara su arma reglamentaria y efec…",
+        "fecha": "2026-11-15T09:34:43+01:00",
+        "fuente": "ABC"
+      },
+      {
+        "titulo": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+        "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html",
+        "desc": "La vuelta a la campaña lúdica con Begoña Gómez como activo electoral le reporta al PSOE dos décimas que roba al Frente Amplio&nbsp; Leer",
+        "fecha": "2026-11-15T01:10:45+01:00",
+        "fuente": "El Mundo"
+      },
+      {
+        "titulo": "León XIV vuelve al Perú: la gloria y la cruz de España en América",
+        "enlace": "https://www.libertaddigital.com/internacional/latinoamerica/2026-11-15/federico-jimenez-losantos-leon-xiv-vuelve-al-peru-la-gloria-y-la-cruz-de-espana-en-america-7491617/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "Es en el viaje a Perú donde se ha visto por primera vez al hombre, y, antes que el personaje, sin el menor culto a la personalidad, apareció la persona.",
+        "fecha": "2026-11-15T07:15:10+01:00",
+        "fuente": "Libertad Digital"
+      },
+      {
+        "titulo": "Galicia, en alerta por lluvias persistentes y fuertes vientos de hasta 80 kilómetros por hora",
+        "enlace": "https://theobjective.com/meteorologia/2026-11-15/galicia-alerta-lluvias-vientos/",
+        "desc": "El paso de un frente atlántico dejará este domingo lluvias persistentes en la mitad oeste de Galicia, localmente con tormenta y con posibilidad de ser fuertes, [&#8230;]",
+        "fecha": "2026-11-15T08:34:53+00:00",
+        "fuente": "The Objective"
+      },
+      {
+        "titulo": "Colapsa una casa en Riba-roja d'Ebre (Tarragona) y buscan a una persona atrapada",
+        "enlace": "https://www.elconfidencial.com/espana/cataluna/2026-11-15/casa-colapsada-riba-roja-ebre-1tna-1tps_4465306/",
+        "desc": "Diez dotaciones y dos ambulancias intervienen en el inmueble, mientras se investiga si alguien permanece bajo los restos",
+        "fecha": "2026-11-15T08:58:52.266282+00:00",
+        "fuente": "El Confidencial"
+      },
+      {
+        "titulo": "Siete piezas reemplazables, 40 horas de música y 119 euros: así son los auriculares Fairbuds 2 que sobreviven a una batería gastada",
+        "enlace": "https://okdiario.com/techy/auriculares-fairbuds-2-fairphone-siete-piezas-reemplazables-20738485",
+        "desc": "La empresa neerlandesa Fairphone presentó el 14 de octubre en Ámsterdam sus auriculares Fairbuds 2. El propio usuario puede cambiar siete de sus piezas, baterías incluidas. Cuestan…",
+        "fecha": "2026-11-15T09:47:10+01:00",
+        "fuente": "OKDiario"
+      },
+      {
+        "titulo": "Identificados 18 altos mandos civiles y policiales marroquíes y \"dinamizadores\" de la invasión junto a la frontera con Ceuta",
+        "enlace": "https://www.elespanol.com/espana/tribunales/20261115/identificados-altos-mandos-civiles-policiales-marroquies-dinamizadores-invasion-junto-frontera-ceuta/1003744458224_0.html",
+        "desc": "El último informe del CENIF sitúa al 'wali' o gobernador del Tánger-Tetuán y al 'wali al amn' o prefecto de Policía de Tetuán en Castillejos el 30 y 31 de julio. Más información: P…",
+        "fecha": "2026-11-15T05:00:00+01:00",
+        "fuente": "El Español"
+      },
+      {
+        "titulo": "Restaurada la peana dorada de la Soledad del Caído de Córdoba",
+        "enlace": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/restaurada-peana-dorada-soledad-caido-cordoba-20261115091311-nts.html",
+        "desc": "La peana barroca de Nuestra Señora del Mayor Dolor en su Soledad , titular de la hermandad de Jesús Caído de Córdoba, vuelve a lucir con todo su brillo tras la conservación que ha …",
+        "fecha": "2026-11-15T09:13:12+01:00",
         "fuente": "ABC"
       },
       {
@@ -17,68 +66,33 @@
         "fuente": "El Mundo"
       },
       {
-        "titulo": "Feijóo reivindica la gestión frente al &quot;despilfarro&quot; de Sánchez y arranca en Galicia su camino hacia el 29-N",
-        "enlace": "https://www.libertaddigital.com/espana/politica/2026-11-14/feijoo-reivindica-la-gestion-frente-al-despilfarro-de-sanchez-y-arranca-en-galicia-su-camino-hacia-el-29-n-7491558/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "El líder del PP ha confirmado que integrará la cartera de vivienda en una vicepresidencia, al considerar que es el mayor problema de los españoles.",
-        "fecha": "2026-11-14T15:14:37+01:00",
-        "fuente": "Libertad Digital"
-      },
-      {
-        "titulo": "Los vuelos en EEUU se estabilizarán el domingo",
-        "enlace": "https://theobjective.com/internacional/2026-11-15/vuelos-eeuu-domingo/",
-        "desc": "Los efectos del parón aéreo que asoló EEUU el viernes 13 se han sentido a lo largo del sábado y, según informa el NYT, el director [&#8230;]",
-        "fecha": "2026-11-14T23:25:52+00:00",
-        "fuente": "The Objective"
-      },
-      {
-        "titulo": "La Guardia Civil destruye una granada mortero de 55 mm de la Guerra Civil hallada en Sóller (Mallorca)",
-        "enlace": "https://www.elconfidencial.com/espana/2026-11-14/guardia-civil-destruye-granada-mortero-1tna-1tps_4465271/",
-        "desc": "Los agentes la colocaron en un hoyo de un terreno para detonarla de manera segura y procedieron según los protocolos establecidos para la destrucción de la misma",
-        "fecha": "2026-11-15T01:36:45.352536+00:00",
-        "fuente": "El Confidencial"
-      },
-      {
-        "titulo": "Massiel desvela el episodio más traumático de su vida antes de casarse: «Tuve que someterme a un aborto clandestino en la mesa de mi comedor»",
-        "enlace": "https://okdiario.com/cool/television/massiel-desvela-episodio-mas-traumatico-vida-antes-casarse-tuve-que-someterme-aborto-clandestino-mesa-comedor-20901086",
-        "desc": "Massiel es una de las grandes voces que ha regalado la música española y una de las pocas artistas que puede presumir de haber llevado a nuestro país a lo más alto de Eurovisión. S…",
-        "fecha": "2026-11-15T01:28:45+01:00",
-        "fuente": "OKDiario"
-      },
-      {
-        "titulo": "El PP obligado a suspender su campaña en Guipúzcoa tras el ataque con piedras y petardos a su candidato, Jon Echevarría",
-        "enlace": "https://www.elespanol.com/espana/politica/20261114/lanzan-piedras-huevos-petardos-coche-viajaba-jon-echeverria-candidato-pp-guipuzcoa/1003744458557_0.html",
-        "desc": "El joven ha cancelado su gira de campaña por Guipúzcoa ante este episodio protagonizado por \"una caterva de proetarras\". Más información : Feijóo hace resumen de ocho años: \"De Ába…",
-        "fecha": "2026-11-14T16:05:05+01:00",
-        "fuente": "El Español"
-      },
-      {
-        "titulo": "La calle del Pez",
-        "enlace": "https://www.abc.es/espana/madrid/calle-pez-20261115020648-nt.html",
-        "desc": "No se crean que en Madrid no se mueren algunos peces. Así pasó hace tiempo y, de hecho, el origen del nombre de la calle del Pez es precisamente la muerte de uno. Según la leyenda,…",
-        "fecha": "2026-11-15T02:06:48+01:00",
-        "fuente": "ABC"
-      },
-      {
-        "titulo": "Frente Amplio, \"sobrevivir para empezar a reconstruir\"",
-        "enlace": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8a98afc6c83b0318b4577.html",
-        "desc": "La convocatoria anticipada pilló al espacio de la izquierda del PSOE sin liderazgo y sin organización&nbsp; Leer",
-        "fecha": "2026-11-15T00:00:03+01:00",
-        "fuente": "El Mundo"
-      },
-      {
-        "titulo": "Una &quot;caterva de proeterras&quot; ataca a pedradas al PP en Hernani y ertzainas claman contra esta &quot;vergüenza&quot;",
-        "enlace": "https://www.libertaddigital.com/espana/2026-11-14/una-caterva-de-proeterras-ataca-a-pedradas-al-pp-en-hernani-y-ertzainas-claman-contra-esta-verguenza-7491560/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
-        "desc": "Un grupo de unas 200 personas impidió la celebración de un acto del PP en Hernani.",
-        "fecha": "2026-11-14T14:32:34+01:00",
+        "titulo": "Los cambios &#039;cosméticos&#039; en Adif dejan un polvorín sanchista para el próximo Gobierno",
+        "enlace": "https://www.libertaddigital.com/libremercado/2026-11-15/no-el-polvorin-de-adif-que-heredaran-pp-y-vox-amenaza-la-legislatura-7490142/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Noticias+y+opini%C3%B3n+en+la+red",
+        "desc": "La estructura elefantiásica y la politización de la compañía en los últimos ocho años pueden poner en jaque al futuro Gobierno.",
+        "fecha": "2026-11-15T05:50:18+01:00",
         "fuente": "Libertad Digital"
       }
     ],
     "nacional_us": [
       {
-        "titulo": "At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms",
-        "enlace": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort",
-        "desc": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
-        "fecha": "2026-11-14T16:13:55-05:00",
+        "titulo": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport, leaving 2 injured",
+        "enlace": "https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured",
+        "desc": "A UPS Airlines cargo plane and a Copa Airlines passenger jet collided on the ground at Miami International Airport on Saturday night, leaving two people with minor injuries.",
+        "fecha": "2026-11-15T02:43:15-05:00",
+        "fuente": "Fox News"
+      },
+      {
+        "titulo": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+        "enlace": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+        "desc": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
+        "fecha": "2026-11-14T23:28:45-05:00",
+        "fuente": "NPR"
+      },
+      {
+        "titulo": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+        "enlace": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown",
+        "desc": "Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.",
+        "fecha": "2026-11-14T23:55:51-05:00",
         "fuente": "Fox News"
       },
       {
@@ -87,50 +101,36 @@
         "desc": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, in…",
         "fecha": "2026-11-14T20:13:59-05:00",
         "fuente": "NPR"
-      },
-      {
-        "titulo": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
-        "enlace": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video",
-        "desc": "Video near Joint Base Elmendorf-Richardson captured a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests its a kite.",
-        "fecha": "2026-11-14T09:00:38-05:00",
-        "fuente": "Fox News"
-      },
-      {
-        "titulo": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-        "enlace": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-        "desc": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year ru…",
-        "fecha": "2026-11-14T19:03:52-05:00",
-        "fuente": "NPR"
       }
     ],
     "nacional_mx": [],
     "nacional_ar": [
       {
-        "titulo": "Las potencias globales convergen en Manila en el inicio de la cumbre de la ASEAN",
-        "enlace": "https://www.clarin.com/estados-unidos/las-potencias-globales-convergen-en-manila-en-el-inicio-de-la-cumbre-de-la-asean_0_XJnqjv3pUQ.html",
-        "desc": "La cumbre en Manila aborda comercio, seguridad y crisis energética en el sudeste asiático, con líderes mundiales presentes. Trump llegará el martes. El Quad busca contrarrestar a C…",
-        "fecha": "2026-11-15T00:50:08+00:00",
+        "titulo": "Criadores de bóxers con 15 años de experiencia coinciden: \"Suelen tener mucha energía hasta los dos años aproximadamente; una familia debe estar preparada para satisfacer esa necesidad\"",
+        "enlace": "https://www.clarin.com/estados-unidos/criadores-boxers-15-anos-experiencia-coinciden-suelen-tener-mucha-energia-anos-aproximadamente-familia-debe-preparada-satisfacer-necesidad_0_bda38mLMnW.html",
+        "desc": "Son cariñosos, protectores y disfrutan de la compañía de las personas. Sin embargo, su extraordinaria energía puede convertirse en un desafío para la familia.",
+        "fecha": "2026-11-15T08:07:08+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "San Cirano venció a Curupaytí y volvió a la elite del rugby de Buenos Aires tras una década de espera",
-        "enlace": "https://www.lanacion.com.ar/deportes/rugby/san-cirano-vencio-a-curupayti-y-volvio-a-la-elite-del-rugby-de-buenos-aires-tras-una-decada-de-nid14112026/",
-        "desc": "En una cambiante final de la primera A, ganó por 25-17; en la intermedia, CASI venció a SIC y se consagró después de 23 años",
-        "fecha": "2026-11-15T01:27:06+00:00",
+        "titulo": "Papa León XIV en Perú, EN VIVO: el viaje a Cusco y Pucallpa hoy, minuto a minuto",
+        "enlace": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-el-viaje-a-cusco-y-pucallpa-hoy-minuto-a-minuto-nid15112026/",
+        "desc": "El Pontífice continúa su visita en territorio peruano; en su anteúltimo día, tendrá encuentros con fieles y misioneros; también habrá una oración en la plaza de la Basílica Catedra…",
+        "fecha": "2026-11-15T08:30:00+00:00",
         "fuente": "La Nación"
       },
       {
-        "titulo": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, sábado 14 de noviembre",
-        "enlace": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-sabado-14-noviembre_0_VMyzIGh92v.html",
-        "desc": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-        "fecha": "2026-11-15T00:41:14+00:00",
+        "titulo": "Arvid Lindblad, piloto de F1, recuerda el sacrificio de su familia: \"Mi padre empezó a trabajar con 11 años limpiando lavabos. Estoy muy orgulloso de mis raíces y de todo lo que mi familia ha luchado\"",
+        "enlace": "https://www.clarin.com/internacional/arvid-lindblad-piloto-f1-recuerda-sacrificio-familia-padre-empezo-trabajar-11-anos-limpiando-lavabos-orgulloso-raices-familia-luchado_0_trjYPZy4Om.html",
+        "desc": "Sus abuelos lo perdieron todo en la Partición de la India. Lindblad convirtió esa historia en la base de su carácter dentro y fuera del auto.",
+        "fecha": "2026-11-15T08:01:08+00:00",
         "fuente": "Clarín"
       },
       {
-        "titulo": "“Con el corazón en los Andes”: sacerdotes agustinos le regalaron al papa León XIV una pintura de Mercedes Fariña",
-        "enlace": "https://www.lanacion.com.ar/cultura/con-el-corazon-en-los-andes-sacerdotes-agustinos-le-regalaron-al-papa-leon-xiv-una-pintura-de-nid14112026/",
-        "desc": "La obra muestra a Su Santidad junto a un niño con un “chullo” de lana de vicuña y, de fondo, la cordillera; “Es un homenaje a su recorrido pastoral en el norte del Perú”, dice la a…",
-        "fecha": "2026-11-15T01:24:50+00:00",
+        "titulo": "Christina Koch, de Artemis II, sobre la repercusión de la misión: “Superó con creces todo lo que habíamos imaginado y esperado”",
+        "enlace": "https://www.lanacion.com.ar/el-mundo/christina-koch-de-artemis-ii-sobre-la-repercusion-de-la-mision-supero-con-creces-todo-lo-que-nid15112026/",
+        "desc": "Tras su regreso a la Tierra, Donald Trump le entregó a cada tripulante una medalla Medalla de Honor Espacial del Congreso, durante una ceremonia en el Centro Espacial Jonhson de Ho…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "La Nación"
       }
     ],
@@ -144,10 +144,31 @@
         "fuente": "Le Monde"
       },
       {
-        "titulo": "Protection des enfants, opposition au «permis de tuer» et au gouvernement : à Paris, un mouvement social aux revendications multiples et en perte de vitesse",
-        "enlace": "https://www.lefigaro.fr/actualite-france/protection-des-enfants-opposition-au-permis-de-tuer-et-au-gouvernement-a-paris-un-mouvement-social-aux-revendications-multiples-et-en-perte-de-vitesse-20261114",
-        "desc": "REPORTAGE - Le cortège parisien a rassemblé 24.000 personnes selon Beauvau et 100.000 selon l’Interfac de la jeunesse. Si la première partie de l’itinéraire s’est déroulée sans acc…",
-        "fecha": "2026-11-14T21:18:37+01:00",
+        "titulo": "Une femme de 73 ans portée disparue après une nuit de fortes inondations dans l’Hérault",
+        "enlace": "https://www.lefigaro.fr/meteo/inondations-dans-l-herault-une-femme-de-73-ans-portee-disparue-20261115",
+        "desc": "Une femme de 73 ans est portée disparue près de Montpellier après les fortes inondations qui ont frappé l’Hérault dans la nuit de samedi à dimanche.",
+        "fecha": "2026-11-15T09:38:35+01:00",
+        "fuente": "Le Figaro"
+      },
+      {
+        "titulo": "\"GTA VI devrait décrire une Amérique en déclin tentant d'exister dans un monde qui a changé\"",
+        "enlace": "https://www.france24.com/fr/culture/20261115-gta-vi-jamais-autant-dire-societe-americaine-vicissitudes-jeux-video",
+        "desc": "Alors que la franchise \"Grand Theft Auto\" s'apprête à accueillir un nouvel épisode le 19 novembre, le chercheur Olivier Mauco, président de l'Observatoire européen des jeux vidéo e…",
+        "fecha": "2026-11-15T08:19:11+00:00",
+        "fuente": "France 24"
+      },
+      {
+        "titulo": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+        "enlace": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
+        "desc": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout…",
+        "fecha": "2026-11-15T05:15:01+01:00",
+        "fuente": "Le Monde"
+      },
+      {
+        "titulo": "«L’équivalent de deux mois et demi de pluie en une nuit» : les images impressionnantes des inondations dans l’Hérault",
+        "enlace": "https://www.lefigaro.fr/meteo/l-equivalent-de-deux-mois-et-demi-de-pluie-en-une-nuit-les-images-impressionnantes-des-inondations-dans-l-herault-20261115",
+        "desc": "De très fortes pluies se sont abattues sur l’Hérault dans la nuit de samedi à dimanche. L’équivalent de deux mois et demi de pluie est tombé à Montpellier en une nuit. Ce matin, le…",
+        "fecha": "2026-11-15T09:39:37+01:00",
         "fuente": "Le Figaro"
       },
       {
@@ -156,178 +177,157 @@
         "desc": "L'Afrique peut-elle former ses propres élites sans les envoyer étudier à l'étranger ? Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements afri…",
         "fecha": "2026-11-14T22:24:21+00:00",
         "fuente": "France 24"
-      },
-      {
-        "titulo": "Présidentielle 2027 : les relations tortueuses entre Raphaël Glucksmann et les macronistes, entre attraction et grande méfiance",
-        "enlace": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-entre-attraction-et-grande-mefiance-les-relations-tortueuses-entre-raphael-glucksmann-et-les-macronistes_6809719_823448.html",
-        "desc": "Le candidat du PS et de Place publique a toujours critiqué le bilan d’Emmamuel Macron. Mais quelques anciens fidèles du président de la République l’ont rejoint, ce qui donne des a…",
-        "fecha": "2026-11-14T06:18:15+01:00",
-        "fuente": "Le Monde"
-      },
-      {
-        "titulo": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
-        "enlace": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115",
-        "desc": "L’interdiction porte sur les artifices de catégories F2 et F3, ceux de catégorie F4 restent réservés aux artificiers professionnels.",
-        "fecha": "2026-11-15T02:33:40+01:00",
-        "fuente": "Le Figaro"
-      },
-      {
-        "titulo": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
-        "desc": "C’est une information révélée par nos confrères de Jeune Afrique : la France aurait demandé au Rwanda de retirer sa candidature pour le poste de secrétaire général de l’Organisatio…",
-        "fecha": "2026-11-14T22:12:50+00:00",
-        "fuente": "France 24"
       }
     ],
     "nacional_de": [
       {
-        "titulo": "Hamas-Kommandeur im Gazastreifen getötet",
-        "enlace": "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90#ref=rss",
-        "desc": "Seit Monaten gilt eine Waffenruhe zwischen Israel und der Hamas. Doch die Attacken gehen weiter. Jetzt soll ein ranghoher Hamas-Kommandeur nach einem israelischen Luftangriff im Sü…",
-        "fecha": "2026-11-15T01:14:00+01:00",
+        "titulo": "Handwerk warnt vor »stillem Sterben der Betriebe«",
+        "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss",
+        "desc": "Hohe Kosten und fehlende Bauaufträge setzen vielen Handwerkern zu, sagt Verbandschef Jörg Dittrich. Allein in den vergangenen zwei Jahren seien so 150.000 Arbeitsplätze weggefallen…",
+        "fecha": "2026-11-15T09:52:00+01:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "SPD: Bundespolitiker fordern Verbleib von Lars Klingbeil an Parteispitze",
-        "enlace": "https://www.zeit.de/politik/deutschland/2026-11/spd-parteivorsitz-lars-klingbeil-bundesumweltminister-carsten-schneider",
-        "desc": "Bundesumweltminister Carsten Schneider hält einen Wechsel an der SPD-Spitze für unnötig. Fraktionschef Matthias Miersch warnt vor falschen Hoffnungen an einen neuen Mann.",
-        "fecha": "2026-11-15T01:23:04",
+        "titulo": "Krankenkassenreform: SPD und Grüne lehnen vermehrte Selbstzahlertermine in Arztpraxen ab",
+        "enlace": "https://www.zeit.de/politik/deutschland/2026-11/selbstzahler-termine-arztpraxen-kassenpatienten-spd-lars-klingbeil-gxe",
+        "desc": "Kassenärzte warnen, dass durch die Reform bald mehr Patienten selbst für Termine zahlen müssen. Die SPD verweist auf Termingarantien, auch von den Grünen kommt Kritik.",
+        "fecha": "2026-11-15T08:29:14",
         "fuente": "Die Zeit"
       },
       {
-        "titulo": "Kabel- und Routertausch soll Flugchaos verursacht haben – Tausende weitere Flüge gestrichen",
-        "enlace": "https://www.spiegel.de/panorama/kabel-und-routertausch-soll-flugchaos-verursacht-haben-tausende-weitere-fluege-gestrichen-a-202245c3-145d-42b7-9107-8664ea1ac15e#ref=rss",
-        "desc": "Auch einen Tag nach dem Startverbot auf fast allen US-Airports ist der Flugverkehr stark gestört. 4000 weitere Verbindungen wurden gestrichen. Auslöser war offenbar die Installatio…",
-        "fecha": "2026-11-15T00:40:00+01:00",
+        "titulo": "Fraktionschef Matthias Miersch: »Schallende Ohrfeige« – nur drei Prozent junger Wähler halten zur SPD",
+        "enlace": "https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss",
+        "desc": "Nur noch drei Prozent der jungen Menschen halten die SPD für ihre Partei. Fraktionschef Miersch übt Selbstkritik und zeigt Verständnis für die Gen-Z-Proteste.",
+        "fecha": "2026-11-15T09:44:00+01:00",
         "fuente": "Der Spiegel"
       },
       {
-        "titulo": "Phantasialand in Brühl: 15 Verletzte in Freizeitpark nach Microsoft-Panne",
-        "enlace": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/phantasialand-bruehl-chlor-unfall-pool-hotel-microsoft-stoerung",
-        "desc": "Ein Dosierungssystem hatte zu viel Chlor in einen Pool des Phantasialands gepumpt. Doch E-Mail-Warnungen kamen wegen der weltweiten Microsoft-Störung nicht an.",
-        "fecha": "2026-11-15T00:29:03",
+        "titulo": "Zwillingsforschung: Vegetarismus ist zu 77 Prozent erblich. Wie kann das sein?",
+        "enlace": "https://www.zeit.de/wissenschaft/2026-11/zwillingsforschung-ernaehrung-politik-dna-erziehung-wissen-podcast",
+        "desc": "Viel mehr unserer Eigenschaften als gedacht sind genetisch bedingt. Ein Zwillingsforscher und Verhaltensgenetiker ordnet ein, wie sehr unser Schicksal vorbestimmt ist.",
+        "fecha": "2026-11-15T08:15:26",
         "fuente": "Die Zeit"
       }
     ],
     "nacional_it": [
       {
-        "titulo": "Il politologo Fesenko: “Kiev nella Nato? Nessuna svolta, Putin non accetterebbe mai”",
-        "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/nato_ucraina_donbass_fesenko-425724068/",
-        "desc": "L’analista del centro Penta: “Per noi impossibile cedere il Donbass. I russi hanno già provato ad eliminare Zelensky nel 2022”",
-        "fecha": "2026-11-15T00:00:53+00:00",
+        "titulo": "Wta Finals, Errani e Paolini in finale: è la prima coppia azzurra a riuscirci",
+        "enlace": "https://www.repubblica.it/sport/2026/11/15/news/wta_finals_errani_e_paolini_volano_in_finale_battute_guo_e_mladenovic-425724618/",
+        "desc": "Battute Guo-Mladenovic in due set, stasera la caccia al titolo contro Siniakova e Townsend",
+        "fecha": "2026-11-15T05:17:51+00:00",
         "fuente": "La Repubblica"
       },
       {
-        "titulo": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
-        "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/",
-        "desc": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
-        "fecha": "2026-11-15T00:00:07+00:00",
+        "titulo": "Tennis's season finale takes centre stage in Turin",
+        "enlace": "https://www.repubblica.it/en/europe/sport/2026/11/15/news/atp_finals_2026_turin_tennis_events_city-425721478/",
+        "desc": "The Piedmont capital has turned the ATP Finals, running from today until 22 November, into a citywide celebration. Only the world's top eight players qualify to compete for the fin…",
+        "fecha": "2026-11-15T05:00:00+00:00",
         "fuente": "La Repubblica"
       }
     ],
     "nacional_gb": [
       {
-        "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-        "fecha": "2026-11-14T22:37:25+00:00",
+        "titulo": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+        "enlace": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+        "desc": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+        "fecha": "2026-11-15T06:01:46+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "Honey review – a hugely entertaining Killing Eve prequel that’s packed with naughty jokes",
-        "enlace": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer",
-        "desc": "This tale of a young female spy in 1980s East Berlin is a visual delight. Around every corner is a fun comic twist Is there any more alluring aesthetic in screen fiction than the i…",
-        "fecha": "2026-11-14T21:50:01+00:00",
+        "titulo": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
+        "enlace": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
+        "desc": "After a childhood of grief, hardship and hunger, the Guardian food writer’s father Raj always resisted going back to Uganda. What happened when he finally agreed to accompany her o…",
+        "fecha": "2026-11-15T06:00:07+00:00",
         "fuente": "The Guardian"
       },
       {
-        "titulo": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-        "enlace": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-        "desc": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
-        "fecha": "2026-11-14T12:22:43+00:00",
+        "titulo": "Alleged Russell Brand rape victim wants age of consent law changed",
+        "enlace": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+        "fecha": "2026-11-15T07:19:52+00:00",
         "fuente": "BBC"
       },
       {
-        "titulo": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers",
-        "enlace": "https://www.theguardian.com/media/2026/nov/14/small-businesses-fighting-back-influencers-behaving-badly",
-        "desc": "From diva-like behaviour to freebie requests that never result in a review, ‘entitled’ content creators are a growing blight on small-business owners. Now entrepreneurs are calling…",
-        "fecha": "2026-11-14T12:00:43+00:00",
+        "titulo": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+        "enlace": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+        "desc": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most aston…",
+        "fecha": "2026-11-15T06:00:06+00:00",
         "fuente": "The Guardian"
       }
     ],
     "nacional_pt": [
       {
-        "titulo": "Falta habitação acessível? Sem ordenamento do território, não há milagres!",
-        "enlace": "https://www.publico.pt/2026/11/15/opiniao/opiniao/falta-habitacao-acessivel-ordenamento-territorio-nao-ha-milagres-2194596",
-        "desc": "Não existe em Portugal uma política de ordenamento do território que responda de forma antecipada e eficaz às necessidades de habitação.",
-        "fecha": "2026-11-15T00:30:00+00:00",
+        "titulo": "Israel matou um dos “mais importantes” comandantes do Hamas",
+        "enlace": "https://www.publico.pt/2026/11/15/mundo/noticia/israel-matou-importantes-comandantes-hamas-2195019",
+        "desc": "Samir Abu Younis foi morto num ataque que o tinha como alvo. Desde o início do cessar-fogo, a 10 de Outubro do ano passado, mais de 1600 palestinianos foram mortos.",
+        "fecha": "2026-11-15T08:15:22+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "1h. Acampada. PSP vai adotar \"postura de prevenção\"",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2446/",
-        "desc": "A decisão da pernoita foi tomada pela Acampada de Lisboa num dia marcado pela manifestação pelo direito à habitação. Ainda, no futebol, Portugal sofreu uma pesada derrota frente à …",
-        "fecha": "2026-11-15T01:15:27+00:00",
+        "titulo": "8h. Habitação. José Luís Carneiro solidário com protestos",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2578/",
+        "desc": "No discurso de ontem dos Estados Gerais do PS, José Luís Carneiro diz que foram os manifestantes que colocaram a habitação na agenda. Ainda, André Ventura pede demissão da ministra…",
+        "fecha": "2026-11-15T08:13:37+00:00",
         "fuente": "Observador"
       },
       {
-        "titulo": "O futuro à porta de casa",
-        "enlace": "https://www.publico.pt/2026/11/15/opiniao/opiniao/futuro-porta-casa-2194122",
-        "desc": "O Alentejo tem ativos, empresas, instituições, conhecimento e oportunidades. Tem também desafios demográficos que não podemos adiar. Opinião de Ricardo Pinheiro",
-        "fecha": "2026-11-15T00:25:00+00:00",
+        "titulo": "Falar bem é relevante para a aprendizagem da leitura e da escrita",
+        "enlace": "https://www.publico.pt/2026/11/15/impar/opiniao/falar-bem-relevante-aprendizagem-leitura-escrita-2194911",
+        "desc": "As crianças desenvolvem naturalmente o seu vocabulário em interação com a família, ouvindo cada vez mais palavras diferentes e reproduzindo-as num contexto adequado. Opinião de Els…",
+        "fecha": "2026-11-15T08:09:00+00:00",
         "fuente": "Público"
       },
       {
-        "titulo": "Da Real Barraca à Acampada da República",
-        "enlace": "https://observador.pt/opiniao/da-real-barraca-a-acampada-da-republica/",
-        "desc": "Dom José aterrorizado com o terramoto não mais quis dormir sob telha e enfiou-se na Real Barraca, já Seguro com medo de desagradar à rua de esquerda levou a barraca para Belém.",
-        "fecha": "2026-11-15T00:25:36+00:00",
+        "titulo": "\"Quase desisti do Ironman\" c/ Cláudia Dias",
+        "enlace": "https://observador.pt/programas/amiga-faz-parte/quase-desisti-do-ironman-c-claudia-dias/",
+        "desc": "Dá para ser a Cláudia Dias, fundadora do clube Alcance, e mesmo assim não querer fazer o Ironman? Ela conta como foi chegar à meta, o que custou e a maratona de Nova Iorque que vem…",
+        "fecha": "2026-11-15T08:05:35+00:00",
         "fuente": "Observador"
       }
     ],
     "nacional_br": [
       {
-        "titulo": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-reforca-ao-stf-pedido-de-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos.shtml",
-        "desc": "A PGR (Procuradoria-Geral da República) reforçou ao STF (Supremo Tribunal Federal) a demanda para que o governo abra um crédito extraordinário para bancar verbas extras de integran…",
-        "fecha": "2026-11-14T22:01:00-03:00",
+        "titulo": "137 anos depois, quem a República deixou de fora?",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/137-anos-depois-quem-a-republica-deixou-de-fora.shtml",
+        "desc": "Desde a Proclamação da República , o Brasil teve seis Constituições republicanas. Apenas a última, promulgada em 1988, quase 100 anos após o fim do Império, consolidou o sufrágio u…",
+        "fecha": "2026-11-15T00:35:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Inauguração de um dos maiores complexos culturais do país atrai multidão no Ceará",
-        "enlace": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/inauguracao-de-um-dos-maiores-complexos-culturais-do-pais-atrai-multidao-no-ceara.ghtml",
-        "desc": "Ceará ganha complexo cultural O Ceará ganhou um dos maiores complexos culturais do país e atraiu uma multidão na abertura ao público. Neste sábado (14), a arte foi programa de famí…",
-        "fecha": "2026-11-15T01:26:21",
+        "titulo": "Paulistano apaixonado por música cria mapa colaborativo com rodas de samba que acontecem em São Paulo",
+        "enlace": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/15/paulistano-apaixonado-por-musica-cria-mapa-colaborativo-com-rodas-de-samba-que-acontecem-em-sao-paulo.ghtml",
+        "desc": "Mapa do samba de São Paulo Reprodução/Mapa do samba Apaixonado por samba e pagode, Amyr Furlan da Cunha transformou seu amor pelos estilos musicais em um objetivo: mapear as rodas …",
+        "fecha": "2026-11-15T08:30:23",
         "fuente": "G1 Globo"
       },
       {
-        "titulo": "Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro",
-        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-publico-nega-pedido-para-reabrir-caso-da-rachadinha-contra-flavio-bolsonaro.shtml",
-        "desc": "O Ministério Público do Rio de Janeiro negou um pedido feito pelo deputado federal Rui Falcão (PT-SP) para reabrir a investigação da suspeita de rachadinha contra o senador Flávio …",
-        "fecha": "2026-11-14T21:00:00-03:00",
+        "titulo": "Idosos com 70 anos ou mais são 4 em cada 10 novos eleitores no 2º turno",
+        "enlace": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/idosos-com-70-anos-ou-mais-sao-4-de-cada-10-novos-eleitores-no-2o-turno.shtml",
+        "desc": "Os idosos com 70 anos ou mais não são obrigados a votar, mas foram os eleitores que mais fizeram diferença no segundo turno das eleições de 2026, de acordo com dados divulgados nes…",
+        "fecha": "2026-11-14T23:09:00-03:00",
         "fuente": "Folha SP"
       },
       {
-        "titulo": "Homem é encontrado debilitado após ficar 9 dias na região de mata em SC",
-        "enlace": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/14/homem-e-encontrado-debilitado-apos-ficar-9-dias-na-regiao-de-mata-em-sc.ghtml",
-        "desc": "Homem é encontrado debilitado após ficar 9 dias na região de mata em SC Polícia Militar/Divulgação Um homem de 42 anos foi encontrado debilitado após ficar 9 dias na região do Pico…",
-        "fecha": "2026-11-15T01:20:51",
+        "titulo": "Traficante Predador passou 5 meses na guerra da Ucrânia mesmo condenado por tráfico no Brasil",
+        "enlace": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/traficante-predador-guerra-da-ucrania-condenado-trafico-brasil.ghtml",
+        "desc": "Conhecido como Predador, Luiz André dos Santos Souza foi condenado por tráfico de drogas em outubro de 2024 Reprodução O traficante Luiz André dos Santos Souza, de 26 anos, conheci…",
+        "fecha": "2026-11-15T08:03:02",
         "fuente": "G1 Globo"
       }
     ],
     "nacional_jp": [
       {
-        "titulo": "This Pomeranian is affectionate and strong-willed",
-        "enlace": "https://www.japantimes.co.jp/community/2026/11/15/cacao-pomeranian-adoption/",
-        "desc": "Cacao loves to run and have his fur brushed. He's also looking for someone loyal to share life's joys with.",
-        "fecha": "2026-11-15T10:18:00+09:00",
+        "titulo": "Francophone summit opens with Congo, Rwandan clash",
+        "enlace": "https://www.japantimes.co.jp/news/2026/11/15/world/politics/francophone-summit-congo-rwanda/",
+        "desc": "The Organisation Internationale de la Francophonie (OIF) gathers around 90 states and nations including 53 full members.",
+        "fecha": "2026-11-15T16:55:00+09:00",
         "fuente": "Japan Times"
       },
       {
-        "titulo": "Italy pitches Germany observer status in fighter jet program",
-        "enlace": "https://www.japantimes.co.jp/news/2026/11/15/japan/gcap-germany-observer-status/",
-        "desc": "Rome, London and Tokyo are driving the Global Combat Air Program, which aims to put a sixth-generation fighter jet into service by the mid-2030s.",
-        "fecha": "2026-11-15T09:44:00+09:00",
+        "titulo": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan",
+        "enlace": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/politics/asean-manila-summit-myanmar/",
+        "desc": "The summit is under pressure to ⁠ease a five-year ban on Myanmar's military-backed leaders attending high-level meetings.",
+        "fecha": "2026-11-15T16:43:00+09:00",
         "fuente": "Japan Times"
       }
     ],
@@ -340,38 +340,38 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "La \"fatiga\" y la violencia desinflan las protestas sociales en Francia",
-        "enlace": "https://www.elmundo.es/internacional/2026/11/14/6af8570ae85ecec9608b459c.html",
-        "desc": "Poco más de 100.000 manifestantes en todo el país participan en las marchas de este sábado en una semana cuajada de incidentes graves en los institutos&nbsp; Leer",
-        "fecha": "2026-11-14T18:33:11+01:00",
+        "titulo": "El trono sin heredero de Xi Jinping: 14 años en el poder, purgas interminables y ninguna pista sobre su sucesor",
+        "enlace": "https://www.elmundo.es/internacional/2026/11/14/6af515b3fdddff1e118b4597.html",
+        "desc": "A sus 73 años, el mandatario del gigante asiático celebra hoy 14 años en el poder sin contrapesos visibles. Ha desmontado las reglas de sucesión, su campaña anticorrupción se ha ll…",
+        "fecha": "2026-11-14T22:33:25+01:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Hallan millones de euros enterrados en Hungría al investigar la corrupción del Gobierno de Orbán",
-        "enlace": "https://www.elconfidencial.com/mundo/2026-11-14/hallan-millones-de-euros-enterrados-en-hungria-al-investigar-la-corrupcion-de-orban_4465254/",
-        "desc": "La nueva Administración de Péter Magyar recupera más de 17 millones de euros ocultos en distintos escondites durante una investigación contra un exministro de Viktor Orbán",
-        "fecha": "2026-11-15T01:37:06.200451+00:00",
+        "titulo": "Dos aviones Boeing chocan en la pista del aeropuerto de Miami: \"La punta del ala impactó contra el morro\"",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-11-15/choque-aviones-aeropuerto-miami-1tna-1tps_4465294/",
+        "desc": "El suceso ocurrió mientras el aeropuerto recuperaba la normalidad tras un fallo técnico que provocó miles de cancelaciones en todo Estados Unidos",
+        "fecha": "2026-11-15T08:59:24.107376+00:00",
         "fuente": "El Confidencial Mundo"
       },
       {
-        "titulo": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
-        "enlace": "https://www.bbc.com/mundo/articles/cm70244lv8e1o?at_medium=RSS&at_campaign=rss",
-        "desc": "El presidente ucraniano afirma que los enviados estadounidenses presentaron el intercambio como parte de los esfuerzos para resolver el conflicto.",
-        "fecha": "2026-11-14T13:22:21+00:00",
+        "titulo": "\"Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial\"",
+        "enlace": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Larry Diamond, un reconocido experto internacional, dice en una entrevista que varios hechos recientes podrían indicar un cambio de patrón a favor de la democracia en el mundo.",
+        "fecha": "2026-11-15T04:57:14+00:00",
         "fuente": "BBC Mundo"
       },
       {
-        "titulo": "Últimas noticias | 14 noviembre 2026 - Tarde",
-        "enlace": "https://es.euronews.com/video/2026/11/14/ultimas-noticias-14-noviembre-2026-tarde",
-        "desc": "Ponte al día con las noticias más importantes de Europa y el mundo este 14 noviembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, via…",
-        "fecha": "2026-11-14T18:00:34+01:00",
+        "titulo": "Cabo Verde vota hoy y podría elegir a su primera presidenta de la República",
+        "enlace": "https://es.euronews.com/2026/11/15/cabo-verde-vota-hoy-y-podria-elegir-a-su-primera-presidenta-de-la-republica",
+        "desc": "Cabo Verde podría elegir este domingo a su primera mujer presidenta. La exministra de Justicia Joana Rosa es una de las favoritas frente al actual jefe de Estado, José Maria Neves,…",
+        "fecha": "2026-11-15T09:55:18+01:00",
         "fuente": "Euronews ES"
       },
       {
-        "titulo": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "fecha": "2026-11-14T19:12:25+00:00",
+        "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "fecha": "2026-11-14T22:37:25+00:00",
         "fuente": "BBC World"
       },
       {
@@ -389,26 +389,26 @@
         "fuente": "ABC Internacional"
       },
       {
-        "titulo": "Suenan las campanas por el 'Padre Roberto' en Chiclayo, su \"pueblo fiel\": \"Ya forma parte de nosotros\"",
-        "enlace": "https://www.elmundo.es/internacional/2026/11/14/6af88993e9cf4a50318b4589.html",
-        "desc": "El papa León XIV regresa a la ciudad peruana donde echó raíces como misionero, recibido por una multitud que lo siente como uno de los suyos&nbsp; Leer",
-        "fecha": "2026-11-14T17:38:26+01:00",
+        "titulo": "La \"fatiga\" y la violencia desinflan las protestas sociales en Francia",
+        "enlace": "https://www.elmundo.es/internacional/2026/11/14/6af8570ae85ecec9608b459c.html",
+        "desc": "Poco más de 100.000 manifestantes en todo el país participan en las marchas de este sábado en una semana cuajada de incidentes graves en los institutos&nbsp; Leer",
+        "fecha": "2026-11-14T18:33:11+01:00",
         "fuente": "El Mundo Internacional"
       },
       {
-        "titulo": "Zelenski asegura que EEUU ha propuesto a Ucrania entrar en la OTAN si renuncia al Donbás",
-        "enlace": "https://www.elconfidencial.com/mundo/europa/2026-11-14/zelenski-otan-donbas-rusia-1tps_4465181/",
-        "desc": "El mandatario asegura que la adhesión atlántica podría condicionarse a ceder territorios, aunque reclama garantías militares y sometería el pacto a consulta popular",
-        "fecha": "2026-11-15T01:37:06.200481+00:00",
+        "titulo": "No fue un ciberataque: unas obras para cambiar un cable de cobre causaron el caos aéreo en EEUU",
+        "enlace": "https://www.elconfidencial.com/mundo/2026-11-15/fallo-sistema-control-aereo-vuelos-1tna-1tps_4465286/",
+        "desc": "Una avería durante trabajos de modernización dejó miles de viajeros varados y obligó a investigar un posible error técnico, mientras las aerolíneas flexibilizan cambios",
+        "fecha": "2026-11-15T08:59:24.107420+00:00",
         "fuente": "El Confidencial Mundo"
       }
     ],
     "internacional_en": [
       {
-        "titulo": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "fecha": "2026-11-14T19:12:25+00:00",
+        "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "fecha": "2026-11-14T22:37:25+00:00",
         "fuente": "BBC World"
       },
       {
@@ -419,38 +419,38 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
-        "enlace": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
-        "desc": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
-        "fecha": "2026-11-14T20:51:24+00:00",
+        "titulo": "Three sentenced to death over Jordan church attack",
+        "enlace": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+        "desc": "A Jordian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hammoud that killed nine and wounded others. T…",
+        "fecha": "2026-11-15T08:53:39+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "Dodgers may have something to worry about as Padres make top free-agency priority clear",
-        "enlace": "https://nypost.com/2026/11/14/sports/dodgers-padres-free-agency-priority-starting-pitching/",
-        "desc": "The Padres are going all in on their starting rotation this offseason. President of baseball operations A.J. Preller has made the unit its top priority, and the Padres put teams on…",
-        "fecha": "2026-11-14T20:33:20-05:00",
+        "titulo": "Dear Abby: My then-boyfriend didn’t invite me to his daughter’s wedding",
+        "enlace": "https://nypost.com/2026/11/15/lifestyle/dear-abby-my-then-boyfriend-didnt-invite-me-to-his-daughters-wedding/",
+        "desc": "Dear Abby advises a woman who is upset that the man she was dating excluded her from his daughter's wedding.",
+        "fecha": "2026-11-15T03:00:00-05:00",
         "fuente": "New York Post"
       },
       {
-        "titulo": "Tens of thousands continue to protest across France",
-        "enlace": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf",
-        "desc": "Some 106,000 people marched through French cities for a fifth consecutive weekend of protests, marking the lowest turnout in recent weeks.",
-        "fecha": "2026-11-15T01:37:10.438544+00:00",
+        "titulo": "Macron urges unity as Francophonie summit opens in Cambodia",
+        "enlace": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-all-1573-rdf",
+        "desc": "Leaders of French-speaking nations gathered in Phnom Penh as a row over who should lead the Francophonie and Congo’s threat to quit put pressure on Macron to broker consensus.",
+        "fecha": "2026-11-15T08:59:31.029866+00:00",
         "fuente": "DW English"
       },
       {
-        "titulo": "Moscow says it will not dictate EU delegation's participation in Ukraine talks",
-        "enlace": "https://www.euronews.com/2026/11/14/moscow-says-it-will-not-dictate-eu-delegations-participation-in-ukraine-talks",
-        "desc": "Moscow, which had previously insisted that European representatives had no place at the negotiating table, has now softened its stance.",
-        "fecha": "2026-11-14T22:05:23+01:00",
+        "titulo": "Latest news bulletin | November 15th, 2026 – Morning",
+        "enlace": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
+        "desc": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Tra…",
+        "fecha": "2026-11-15T07:00:32+01:00",
         "fuente": "Euronews EN"
       },
       {
-        "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-        "fecha": "2026-11-14T22:37:25+00:00",
+        "titulo": "Copper wire upgrade behind US flight suspension, transport secretary says",
+        "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+        "fecha": "2026-11-15T07:10:31+00:00",
         "fuente": "BBC World"
       },
       {
@@ -461,17 +461,17 @@
         "fuente": "Fox News"
       },
       {
-        "titulo": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-        "enlace": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-        "desc": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. T…",
-        "fecha": "2026-11-14T20:35:22+00:00",
+        "titulo": "Cape Verde could make election history with first female president",
+        "enlace": "https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president",
+        "desc": "Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumben…",
+        "fecha": "2026-11-15T07:56:14+00:00",
         "fuente": "France 24 EN"
       },
       {
-        "titulo": "John Harbaugh defends conservative Giants play-calling for ‘capable’ J.J. McCarthy",
-        "enlace": "https://nypost.com/2026/11/14/sports/john-harbaugh-defends-conservative-play-calling-for-j-j-mccarthy/",
-        "desc": "The box score reads that last Thursday was the most prolific passing night of J.J. McCarthy’s young career. The fourth quarter of the Giants’ loss to the Commanders suggests someth…",
-        "fecha": "2026-11-14T20:32:44-05:00",
+        "titulo": "So much for friendly! Red Bulls, Club America erupt in wild brawl",
+        "enlace": "https://nypost.com/2026/11/15/sports/red-bulls-club-america-friendly-erupts-into-massive-brawl/",
+        "desc": "A massive brawl erupted between the New York Red Bulls and Club America during a friendly, with punches, kicks, flying projectiles and multiple ejections.",
+        "fecha": "2026-11-15T02:55:23-05:00",
         "fuente": "New York Post"
       }
     ],
@@ -484,31 +484,31 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
-        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261114-enseignement-sup%C3%A9rieur-en-afrique-l-um6p-un-mod%C3%A8le-d-excellence-%C3%A0-suivre",
-        "desc": "L'Afrique peut-elle former ses propres élites sans les envoyer étudier à l'étranger ? Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements afri…",
-        "fecha": "2026-11-14T22:24:21+00:00",
+        "titulo": "\"GTA VI devrait décrire une Amérique en déclin tentant d'exister dans un monde qui a changé\"",
+        "enlace": "https://www.france24.com/fr/culture/20261115-gta-vi-jamais-autant-dire-societe-americaine-vicissitudes-jeux-video",
+        "desc": "Alors que la franchise \"Grand Theft Auto\" s'apprête à accueillir un nouvel épisode le 19 novembre, le chercheur Olivier Mauco, président de l'Observatoire européen des jeux vidéo e…",
+        "fecha": "2026-11-15T08:19:11+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Israël: le bras de fer Eisenkot-Netanyahu se poursuit, la formation d'un gouvernement piétine",
-        "enlace": "https://www.rfi.fr/fr/moyen-orient/20261114-isra%C3%ABl-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-gouvernement-pi%C3%A9tine",
-        "desc": "En Israël, la formation du prochain gouvernement tourne au duel. Alors que Gadi Eisenkot détient depuis une semaine le mandat pour bâtir une coalition, Benyamin Netanyahu multiplie…",
-        "fecha": "2026-11-14T21:22:27+00:00",
+        "titulo": "Francophonie: le XXe sommet de Phnom Penh s'ouvre sur fond de tensions",
+        "enlace": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions",
+        "desc": "Le XXe sommet de la Francophonie s'est ouvert ce matin à Phnom Penh, sur fond de tensions autour de l'élection du ou de la future secrétaire générale de l'OIF.",
+        "fecha": "2026-11-15T07:36:15+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "L’info du jour | 14 novembre 2026 - Soir",
-        "enlace": "https://fr.euronews.com/video/2026/11/14/linfo-du-jour-14-novembre-2026-soir",
-        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le di…",
-        "fecha": "2026-11-14T18:00:34+01:00",
+        "titulo": "L’info du jour | 15 novembre 2026 - Matin",
+        "enlace": "https://fr.euronews.com/video/2026/11/15/linfo-du-jour-15-novembre-2026-matin",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 15 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le di…",
+        "fecha": "2026-11-15T07:00:16+01:00",
         "fuente": "Euronews FR"
       },
       {
-        "titulo": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "fecha": "2026-11-14T19:12:25+00:00",
+        "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "enlace": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "fecha": "2026-11-14T22:37:25+00:00",
         "fuente": "BBC World EN"
       },
       {
@@ -519,25 +519,55 @@
         "fuente": "Le Figaro Monde"
       },
       {
-        "titulo": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
-        "enlace": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
-        "desc": "C’est une information révélée par nos confrères de Jeune Afrique : la France aurait demandé au Rwanda de retirer sa candidature pour le poste de secrétaire général de l’Organisatio…",
-        "fecha": "2026-11-14T22:12:50+00:00",
+        "titulo": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
+        "enlace": "https://www.france24.com/fr/vid%C3%A9o/20261114-enseignement-sup%C3%A9rieur-en-afrique-l-um6p-un-mod%C3%A8le-d-excellence-%C3%A0-suivre",
+        "desc": "L'Afrique peut-elle former ses propres élites sans les envoyer étudier à l'étranger ? Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements afri…",
+        "fecha": "2026-11-14T22:24:21+00:00",
         "fuente": "France 24 FR"
       },
       {
-        "titulo": "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
-        "enlace": "https://www.rfi.fr/fr/france/20261114-pr%C3%A9sidentielle-en-france-teddy-riner-attire-les-foules-mais-ne-d%C3%A9voile-encore-rien-de-son-programme",
-        "desc": "Après les tatamis, le terrain politique. Teddy Riner poursuit ses premiers pas dans la course à l'Élysée. Le quintuple champion olympique de judo était en déplacement, samedi 14 no…",
-        "fecha": "2026-11-14T22:27:16+00:00",
+        "titulo": "«Un acharnement»: depuis la Côte d'Ivoire, les exilés burkinabè répondent au régime militaire à Ouagadougou",
+        "enlace": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou",
+        "desc": "Au Burkina Faso, d’anciens responsables politiques, militaires, ou journalistes sont aujourd’hui dans le viseur de la justice. Certains font l’objet de mandats d’arrêt et de demand…",
+        "fecha": "2026-11-15T07:57:50+00:00",
         "fuente": "RFI"
       },
       {
-        "titulo": "Volodymyr Zelensky affirme que Washington évoque une cession de territoires en échange d'une adhésion à l'OTAN",
-        "enlace": "https://fr.euronews.com/2026/11/14/volodymyr-zelensky-affirme-que-washington-evoque-une-cession-de-territoires-en-echange-dun",
-        "desc": "Vladimir Poutine a indiqué que la Russie ne reviendra pas sur ses exigences territoriales pour contrôler des parties de l'Ukraine, tout en refusant l'hypothèse d'un déploiement de …",
-        "fecha": "2026-11-14T15:30:37+01:00",
+        "titulo": "L’info du jour | 14 novembre 2026 - Soir",
+        "enlace": "https://fr.euronews.com/video/2026/11/14/linfo-du-jour-14-novembre-2026-soir",
+        "desc": "Suivez les derniers développements de l'actualité en Europe et dans le monde en ce 14 novembre 2026. Retrouvez les dernières infos sur la politique, l'économie, la culture et le di…",
+        "fecha": "2026-11-14T18:00:34+01:00",
         "fuente": "Euronews FR"
+      },
+      {
+        "titulo": "Copper wire upgrade behind US flight suspension, transport secretary says",
+        "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+        "fecha": "2026-11-15T07:10:31+00:00",
+        "fuente": "BBC World EN"
+      }
+    ],
+    "internacional_de": [
+      {
+        "titulo": "Handwerk warnt vor »stillem Sterben der Betriebe«",
+        "enlace": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-warnt-vor-stillem-sterben-der-betriebe-a-8ae8249b-be4e-467e-b6c8-dce66525f1e0#ref=rss",
+        "desc": "Hohe Kosten und fehlende Bauaufträge setzen vielen Handwerkern zu, sagt Verbandschef Jörg Dittrich. Allein in den vergangenen zwei Jahren seien so 150.000 Arbeitsplätze weggefallen…",
+        "fecha": "2026-11-15T09:52:00+01:00",
+        "fuente": "Der Spiegel"
+      },
+      {
+        "titulo": "Nobelpreisträgerin Mohammadi: Memoiren aus dem Gefängnis - Ein Leben im Kampf für Freiheit im Iran",
+        "enlace": "https://www.dw.com/de/nobelpreisträgerin-mohammadi-memoiren-aus-dem-gefängnis-ein-leben-im-kampf-für-freiheit-im-iran/a-79875768?maca=de-rss-de-all-1119-rdf",
+        "desc": "Im Gefängnis geschrieben und herausgeschmuggelt: Das Buch von Narges Mohammadi, Friedensnobelpreisträgerin von 2023, zeigt, welchen Preis es haben kann, sich dem Regime im Iran zu …",
+        "fecha": "2026-11-15T08:59:35.157807+00:00",
+        "fuente": "DW Deutsch"
+      },
+      {
+        "titulo": "Papst Leo XIV. feiert Messe in Peru – Furcht vor Masern-Ausbreitung",
+        "enlace": "https://de.euronews.com/2026/11/15/papst-leo-xiv-messe-peru-furcht-masern",
+        "desc": "In Lateinamerika drängen riesige Menschenmengen zum 71-jährigen Papst. Gesundheitsbehörden fürchten neue Masernfälle und warnen vor Ansteckung.",
+        "fecha": "2026-11-15T09:39:58+01:00",
+        "fuente": "Euronews DE"
       },
       {
         "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -545,57 +575,50 @@
         "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
         "fecha": "2026-11-14T22:37:25+00:00",
         "fuente": "BBC World EN"
-      }
-    ],
-    "internacional_de": [
+      },
       {
-        "titulo": "Hamas-Kommandeur im Gazastreifen getötet",
-        "enlace": "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90#ref=rss",
-        "desc": "Seit Monaten gilt eine Waffenruhe zwischen Israel und der Hamas. Doch die Attacken gehen weiter. Jetzt soll ein ranghoher Hamas-Kommandeur nach einem israelischen Luftangriff im Sü…",
-        "fecha": "2026-11-15T01:14:00+01:00",
+        "titulo": "Fraktionschef Matthias Miersch: »Schallende Ohrfeige« – nur drei Prozent junger Wähler halten zur SPD",
+        "enlace": "https://www.spiegel.de/politik/deutschland/fraktionschef-matthias-miersch-schallende-ohrfeige-nur-drei-prozent-junger-waehler-halten-zur-spd-a-9758ede1-e55f-4dc7-939a-f37c3920d657#ref=rss",
+        "desc": "Nur noch drei Prozent der jungen Menschen halten die SPD für ihre Partei. Fraktionschef Miersch übt Selbstkritik und zeigt Verständnis für die Gen-Z-Proteste.",
+        "fecha": "2026-11-15T09:44:00+01:00",
         "fuente": "Der Spiegel"
       },
       {
         "titulo": "Gaza: Humanitäre Lage verschärft sich, politische Lösung bleibt aus",
         "enlace": "https://www.dw.com/de/gaza-humanitäre-lage-verschärft-sich-politische-lösung-bleibt-aus/a-79946973?maca=de-rss-de-all-1119-rdf",
         "desc": "Heftige Regenfälle haben in Gaza Tausende Zelte überflutet, mehrere Menschen starben. Kann Trumps Friedensgremium mit Druck auf Israel und die Hamas die humanitäre Not lindern?",
-        "fecha": "2026-11-15T01:37:13.082808+00:00",
+        "fecha": "2026-11-15T08:59:35.157854+00:00",
         "fuente": "DW Deutsch"
       },
       {
-        "titulo": "Nachrichten des Tages | 14. November 2026 - Abendausgabe",
-        "enlace": "https://de.euronews.com/video/2026/11/14/nachrichten-des-tages-14-november-2026-abendausgabe",
-        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 14. November 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
-        "fecha": "2026-11-14T18:00:12+01:00",
+        "titulo": "Nachrichten des Tages | 15. November 2026 - Morgenausgabe",
+        "enlace": "https://de.euronews.com/video/2026/11/15/nachrichten-des-tages-15-november-2026-morgenausgabe",
+        "desc": "Informieren Sie sich über das aktuelle Geschehen in Europa und der Welt an diesem 15. November 2026 - Politik, Wirtschaft, Unterhaltung, Kultur und Reisen.",
+        "fecha": "2026-11-15T07:00:43+01:00",
         "fuente": "Euronews DE"
       },
       {
-        "titulo": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "titulo": "Copper wire upgrade behind US flight suspension, transport secretary says",
         "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "fecha": "2026-11-14T19:12:25+00:00",
+        "fecha": "2026-11-15T07:10:31+00:00",
         "fuente": "BBC World EN"
+      }
+    ],
+    "internacional_it": [
+      {
+        "titulo": "Bomba in un impianto di etanolo in Illinois: indaga l’Fbi",
+        "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/bomba_in_un_impianto_di_etanolo_in_illinois_indaga_l_fbi-425724567/?rss",
+        "desc": "Le autorità non hanno precisato se siano state identificate o arrestate persone",
+        "fecha": "2026-11-15T02:48:01+01:00",
+        "fuente": "La Repubblica"
       },
       {
-        "titulo": "Kabel- und Routertausch soll Flugchaos verursacht haben – Tausende weitere Flüge gestrichen",
-        "enlace": "https://www.spiegel.de/panorama/kabel-und-routertausch-soll-flugchaos-verursacht-haben-tausende-weitere-fluege-gestrichen-a-202245c3-145d-42b7-9107-8664ea1ac15e#ref=rss",
-        "desc": "Auch einen Tag nach dem Startverbot auf fast allen US-Airports ist der Flugverkehr stark gestört. 4000 weitere Verbindungen wurden gestrichen. Auslöser war offenbar die Installatio…",
-        "fecha": "2026-11-15T00:40:00+01:00",
-        "fuente": "Der Spiegel"
-      },
-      {
-        "titulo": "Neue Impulse für NATO-Mitgliedschaft der Ukraine",
-        "enlace": "https://www.dw.com/de/neue-impulse-für-nato-mitgliedschaft-der-ukraine/a-79948144?maca=de-rss-de-all-1119-rdf",
-        "desc": "Die USA haben nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj einen NATO-Beitritt der Ukraine ins Spiel gebracht. Voraussetzung sei, dass die Ukraine die Donbass-Regi…",
-        "fecha": "2026-11-15T01:37:13.082854+00:00",
-        "fuente": "DW Deutsch"
-      },
-      {
-        "titulo": "Katar und Türkei verkünden wegweisendes Verteidigungsbündnis",
-        "enlace": "https://de.euronews.com/2026/11/14/katar-turkei-wegweisendes-verteidigungsbundnis",
-        "desc": "Die multilaterale Sicherheitsordnung am Golf und im Nahen Osten befindet sich in einem rasanten Umbruch. Auslöser sind der Iran-Krieg und Signale der USA, ihre langjährige militäri…",
-        "fecha": "2026-11-14T15:37:55+01:00",
-        "fuente": "Euronews DE"
+        "titulo": "Le notizie del giorno | 15 novembre 2026 - Mattino",
+        "enlace": "https://it.euronews.com/video/2026/11/15/le-notizie-del-giorno-15-novembre-2026-mattino",
+        "desc": "Segui l'attualità dall'Europa e dal mondo del 15 novembre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.",
+        "fecha": "2026-11-15T07:00:30+01:00",
+        "fuente": "Euronews IT"
       },
       {
         "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -603,14 +626,12 @@
         "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
         "fecha": "2026-11-14T22:37:25+00:00",
         "fuente": "BBC World EN"
-      }
-    ],
-    "internacional_it": [
+      },
       {
-        "titulo": "SpaceX nella storia, recupera per la prima volta un veicolo spaziale: “Un passo più vicini a Marte”",
-        "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/spacex_nella_storia_recupera_per_la_prima_volta_un_veicolo_spaziale_un_passo_piu_vicini_a_marte-425724549/?rss",
-        "desc": "Dopo oltre 22 ore di volo, lo stadio superiore del razzo ha fatto ritorno alla base spaziale in Texas, afferrato dai giganteschi bracci meccanici della torre di lancio",
-        "fecha": "2026-11-15T00:45:46+01:00",
+        "titulo": "Alla Cop di Antalya la marcia per il clima: “La pace è pulita, la guerra è fossile”",
+        "enlace": "https://www.repubblica.it/esteri/2026/11/15/news/alla_cop_di_antalya_la_marcia_per_il_clima_pace_guerra-425723857/?rss",
+        "desc": "Ad Antalya la sfila il popolo delle rinnovabili: “Siamo in 10mila da tutto il mondo”. Occasione per i turchi di protestare contro Erdogan",
+        "fecha": "2026-11-15T01:00:54+01:00",
         "fuente": "La Repubblica"
       },
       {
@@ -621,47 +642,26 @@
         "fuente": "Euronews IT"
       },
       {
-        "titulo": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "titulo": "Copper wire upgrade behind US flight suspension, transport secretary says",
         "enlace": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-        "fecha": "2026-11-14T19:12:25+00:00",
-        "fuente": "BBC World EN"
-      },
-      {
-        "titulo": "Francia, attacco alle Poste: hacker rubano i dati di 22 milioni di clienti",
-        "enlace": "https://www.repubblica.it/esteri/2026/11/14/news/francia_attacco_alle_poste_hacker_rubano_i_dati_di_22_milioni_di_clienti-425724406/?rss",
-        "desc": "Vittima a metà settembre la filiale Maileva, specializzata nella corrispondenza professionale",
-        "fecha": "2026-11-14T22:26:13+01:00",
-        "fuente": "La Repubblica"
-      },
-      {
-        "titulo": "Canada, accordo commerciale con le Filippine: Carney cerca alternative agli Usa di Trump",
-        "enlace": "https://it.euronews.com/2026/11/14/canada-accordo-commerciale-con-le-filippine-carney-cerca-alternative-agli-usa-di-trump",
-        "desc": "Ottawa conclude i negoziati per un accordo di libero scambio con Manila e punta a diversificare i partner commerciali. Sullo sfondo le tensioni con Washington e la strategia per ri…",
-        "fecha": "2026-11-14T16:39:07+01:00",
-        "fuente": "Euronews IT"
-      },
-      {
-        "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "enlace": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-        "fecha": "2026-11-14T22:37:25+00:00",
+        "fecha": "2026-11-15T07:10:31+00:00",
         "fuente": "BBC World EN"
       }
     ],
     "internacional_pt": [
       {
-        "titulo": "01h Acampada de Lisboa muda-se para os Restauradores",
-        "enlace": "https://www.rtp.pt/noticias/noticiario-antena1/01h-acampada-de-lisboa-muda-se-para-os-restauradores_a1_1779255",
-        "desc": "",
-        "fecha": "2026-11-15T01:17:02+00:00",
+        "titulo": "Habitação. Manifestantes montam tendas nos Restauradores",
+        "enlace": "https://www.rtp.pt/noticias/economia/habitacao-manifestantes-montam-tendas-nos-restauradores_e1779157",
+        "desc": "Por todo o país, milhares de pessoas saíram às ruas numa manifestação pelo direito à habitação. Em Lisboa, o movimento Acampada decidiu voltar a erguer tendas, desta vez nos Restau…",
+        "fecha": "2026-11-15T08:04:45+00:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "1h. Acampada. PSP vai adotar \"postura de prevenção\"",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2446/",
-        "desc": "A decisão da pernoita foi tomada pela Acampada de Lisboa num dia marcado pela manifestação pelo direito à habitação. Ainda, no futebol, Portugal sofreu uma pesada derrota frente à …",
-        "fecha": "2026-11-15T01:15:27+00:00",
+        "titulo": "8h. Habitação. José Luís Carneiro solidário com protestos",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2578/",
+        "desc": "No discurso de ontem dos Estados Gerais do PS, José Luís Carneiro diz que foram os manifestantes que colocaram a habitação na agenda. Ainda, André Ventura pede demissão da ministra…",
+        "fecha": "2026-11-15T08:13:37+00:00",
         "fuente": "Observador"
       },
       {
@@ -672,17 +672,17 @@
         "fuente": "BBC Brasil"
       },
       {
-        "titulo": "Netanyahu reafirma que só Governo de união nacional garante “segurança de Israel\"",
-        "enlace": "https://www.rtp.pt/noticias/mundo/netanyahu-reafirma-que-so-governo-de-uniao-nacional-garante-seguranca-de-israel_n1779253",
-        "desc": "O primeiro-ministro israelita voltou hoje a defender um Governo de união nacional com o seu rival Gadi Eisenkot, como única forma de “garantir a segurança de Israel” perante o Irão…",
-        "fecha": "2026-11-15T01:16:37+00:00",
+        "titulo": "Arquitetura de pedra, terra e memória: as lições de sustentabilidade do Nordeste Algarvio",
+        "enlace": "https://www.rtp.pt/noticias/cultura/arquitetura-de-pedra-terra-e-memoria-as-licoes-de-sustentabilidade-do-nordeste-algarvio_n1778545",
+        "desc": "Mais do que um retrato da arquitetura tradicional do Nordeste Algarvio, os dois volumes agora publicados com o título &quot;Casa do Nordeste Algarvio: Arquitetura, Construção, Terr…",
+        "fecha": "2026-11-15T07:41:10+00:00",
         "fuente": "RTP Notícias"
       },
       {
-        "titulo": "Da Real Barraca à Acampada da República",
-        "enlace": "https://observador.pt/opiniao/da-real-barraca-a-acampada-da-republica/",
-        "desc": "Dom José aterrorizado com o terramoto não mais quis dormir sob telha e enfiou-se na Real Barraca, já Seguro com medo de desagradar à rua de esquerda levou a barraca para Belém.",
-        "fecha": "2026-11-15T00:25:36+00:00",
+        "titulo": "\"Quase desisti do Ironman\" c/ Cláudia Dias",
+        "enlace": "https://observador.pt/programas/amiga-faz-parte/quase-desisti-do-ironman-c-claudia-dias/",
+        "desc": "Dá para ser a Cláudia Dias, fundadora do clube Alcance, e mesmo assim não querer fazer o Ironman? Ela conta como foi chegar à meta, o que custou e a maratona de Nova Iorque que vem…",
+        "fecha": "2026-11-15T08:05:35+00:00",
         "fuente": "Observador"
       },
       {
@@ -702,10 +702,38 @@
         "fuente": "Marca"
       },
       {
-        "titulo": "De la Fuente zanja la polémica con Lamine: \"Está fantástico\"",
-        "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251021/fuente-zanja-polemica-lamine-fantastico-volveriamos.html",
-        "desc": "Luis de la Fuente quiso cerrar definitivamente el capítulo de la polémica alrededor de Lamine Yamal antes del último compromiso de España en esta concentración. El seleccionador as…",
-        "fecha": "2026-11-14T18:41:20+01:00",
+        "titulo": "España recibe a Inglaterra en una 'final' por el liderato",
+        "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261115/1004251093/espana-recibe-inglaterra-final-primeros.html",
+        "desc": "España e Inglaterra vuelven a cruzarse en una cita de máxima exigencia . Con ambas selecciones clasificadas para cuartos, el Metropolitano será el escenario del último partido de l…",
+        "fecha": "2026-11-15T07:00:00+01:00",
+        "fuente": "Mundo Deportivo"
+      },
+      {
+        "titulo": "El resumen de la noche NBA: Highlights, resultados y estadísticas. Antetokounmpo y Jokic lideran la jornada",
+        "enlace": "https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/",
+        "desc": "Repasamos todo lo ocurrido en la madrugada NBA La entrada El resumen de la noche NBA: Highlights, resultados y estadísticas. Antetokounmpo y Jokic lideran la jornada se publicó pri…",
+        "fecha": "2026-11-15T05:00:00+00:00",
+        "fuente": "Gigantes Basket"
+      },
+      {
+        "titulo": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+        "desc": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+        "fecha": "2026-11-15T07:32:46+00:00",
+        "fuente": "BBC Sport EN"
+      },
+      {
+        "titulo": "El &#039;nuevo Diomande&#039;: &quot;Nuestra forma de jugar se parece bastante&quot;",
+        "enlace": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html",
+        "desc": "El extremo lidera al RB Leipzig tras la salida del madridista con seis goles y ocho asistencias",
+        "fecha": "2026-11-11T12:58:02+01:00",
+        "fuente": "Marca"
+      },
+      {
+        "titulo": "Horario y dónde ver por TV el España - Inglaterra de la UEFA Nations League",
+        "enlace": "https://www.mundodeportivo.com/horarios/futbol/20261114/1004251003/horario-canal-ver-tv-espana-inglaterra-uefa-nations-league.html",
+        "desc": "España quiere llevarse la victoria en el Riyadh Air Metropolitano , donde se medirá a Inglaterra por el liderato del grupo C en la sexta y última jornada. Le basta con no caer en c…",
+        "fecha": "2026-11-14T21:31:19+01:00",
         "fuente": "Mundo Deportivo"
       },
       {
@@ -716,112 +744,56 @@
         "fuente": "Gigantes Basket"
       },
       {
-        "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-        "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-        "fecha": "2026-11-14T20:22:00+00:00",
+        "titulo": "How Spain's humble superstar Simon became world's best keeper",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+        "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+        "fecha": "2026-11-15T07:29:30+00:00",
         "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "Oklahoma AD rips Ole Miss, SEC for Sunday game; Rebels defend travel efforts",
-        "enlace": "https://www.espn.com/college-football/story/_/id/50482206/oklahoma-ad-infuriated-sec-ole-miss-sunday-game",
-        "desc": "Oklahoma AD Roger Denny ripped the SEC and Ole Miss for the \"inexplicable\" decision to move its game to Sunday, while the Rebels defended their travel efforts.",
-        "fecha": "2026-11-14T19:49:24-05:00",
-        "fuente": "ESPN EN"
-      },
-      {
-        "titulo": "El &#039;nuevo Diomande&#039;: &quot;Nuestra forma de jugar se parece bastante&quot;",
-        "enlace": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html",
-        "desc": "El extremo lidera al RB Leipzig tras la salida del madridista con seis goles y ocho asistencias",
-        "fecha": "2026-11-11T12:58:02+01:00",
-        "fuente": "Marca"
-      },
-      {
-        "titulo": "De la Fuente, tajante con Tuchel: \"Decidle que en España no hay racismo\"",
-        "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251050/fuente-tajante-tuchel-decidle-espana-no-hay-racismo.html",
-        "desc": "Luis de la Fuente dejó un mensaje rotundo al ser preguntado por el racismo en España en la previa del encuentro ante Inglaterra de la Nations League. El seleccionador español quiso…",
-        "fecha": "2026-11-14T19:59:34+01:00",
-        "fuente": "Mundo Deportivo"
-      },
-      {
-        "titulo": "Rasir Bolton firma una exhibición para el recuerdo en el partido con el cuarto más anotador de la historia",
-        "enlace": "https://www.gigantes.com/liga-endesa/rasir-bolton-exhibicion-breogan-burgos/",
-        "desc": "Un partido histórico para el conjunto lucense La entrada Rasir Bolton firma una exhibición para el recuerdo en el partido con el cuarto más anotador de la historia se publicó prime…",
-        "fecha": "2026-11-14T19:28:05+00:00",
-        "fuente": "Gigantes Basket"
-      },
-      {
-        "titulo": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
-        "fecha": "2026-11-14T19:33:46+00:00",
-        "fuente": "BBC Sport EN"
-      },
-      {
-        "titulo": "No. 9 Indiana spruces up postseason resume as fill-in starter Wilson delivers vs. USC",
-        "enlace": "https://www.espn.com/college-football/story/_/id/50485076/grant-wilson-indiana-boost-cfp-big-ten-hopes-win-vs-usc",
-        "desc": "Filling in for Josh Hoover, Grant Wilson threw two touchdown passes in his first start and No. 6 Indiana solidified its postseason résumé with a 27-13 win over USC.",
-        "fecha": "2026-11-14T19:49:24-05:00",
-        "fuente": "ESPN EN"
       }
     ],
     "deportes_en": [
       {
-        "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-        "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-        "fecha": "2026-11-14T20:22:00+00:00",
+        "titulo": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+        "desc": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+        "fecha": "2026-11-15T07:32:46+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "Oklahoma AD rips Ole Miss, SEC for Sunday game; Rebels defend travel efforts",
-        "enlace": "https://www.espn.com/college-football/story/_/id/50482206/oklahoma-ad-infuriated-sec-ole-miss-sunday-game",
-        "desc": "Oklahoma AD Roger Denny ripped the SEC and Ole Miss for the \"inexplicable\" decision to move its game to Sunday, while the Rebels defended their travel efforts.",
-        "fecha": "2026-11-14T19:49:24-05:00",
-        "fuente": "ESPN"
-      },
-      {
-        "titulo": "Andreeva beats rival Pegula to reach maiden final at WTA Finals",
-        "enlace": "https://www.skysports.com/watch/video/13612362/mirra-andreeva-vs-jessica-pegula-wta-finals-highlights",
-        "desc": "Highlights of the semi-final match between Mirra Andreeva and Jessica Pegula at the WTA Finals.",
-        "fecha": "2026-11-14T22:24:00+00:00",
+        "titulo": "Bizarre moment NHL goalie's stick gets stuck in boards and opponents score!",
+        "enlace": "https://www.skysports.com/watch/video/13612407/nhl-goaltenders-stick-gets-stuck-in-advertising-boards-and-leads-to-goal",
+        "desc": "A bizarre moment occurred in the NHL where goaltender Spencer Knight got a stick wedged between the advertising boards, leading to a Kyle Connor goal, during the Winnipeg Jets' win…",
+        "fecha": "2026-11-15T08:15:00+00:00",
         "fuente": "Sky Sports"
       },
       {
-        "titulo": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
-        "fecha": "2026-11-14T19:33:46+00:00",
+        "titulo": "How Spain's humble superstar Simon became world's best keeper",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+        "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+        "fecha": "2026-11-15T07:29:30+00:00",
         "fuente": "BBC Sport"
       },
       {
-        "titulo": "No. 9 Indiana spruces up postseason resume as fill-in starter Wilson delivers vs. USC",
-        "enlace": "https://www.espn.com/college-football/story/_/id/50485076/grant-wilson-indiana-boost-cfp-big-ten-hopes-win-vs-usc",
-        "desc": "Filling in for Josh Hoover, Grant Wilson threw two touchdown passes in his first start and No. 6 Indiana solidified its postseason résumé with a 27-13 win over USC.",
-        "fecha": "2026-11-14T19:49:24-05:00",
-        "fuente": "ESPN"
-      },
-      {
-        "titulo": "Svitolina to meet Andreeva in final after thrashing Noskova",
-        "enlace": "https://www.skysports.com/watch/video/13612371/elina-svitolina-vs-linda-noskova-wta-finals-highlights",
-        "desc": "Highlights of Elina Svitolina against Linda Noskova from the semi-finals at the WTA Finals.",
-        "fecha": "2026-11-14T23:24:00+00:00",
+        "titulo": "Woad in the mix as Lindy Duncan edges closer to first LPGA win",
+        "enlace": "https://www.skysports.com/golf/news/12040/13612373/the-annika-lottie-woad-in-the-mix-as-lindy-duncan-edges-closer-to-first-ever-lpga-tour-victory",
+        "desc": "Lindy Duncan edged closer towards her first LPGA Tour victory on Saturday as the American made 17 pars in a flawless bogey-free round to take a one-shot lead at The Annika.",
+        "fecha": "2026-11-14T23:31:00+00:00",
         "fuente": "Sky Sports"
       }
     ],
     "deportes_fr": [
       {
-        "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-        "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-        "fecha": "2026-11-14T20:22:00+00:00",
+        "titulo": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+        "desc": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+        "fecha": "2026-11-15T07:32:46+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
-        "fecha": "2026-11-14T19:33:46+00:00",
+        "titulo": "How Spain's humble superstar Simon became world's best keeper",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+        "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+        "fecha": "2026-11-15T07:29:30+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -830,44 +802,44 @@
         "titulo": "Klopp nach Gespräch mit Nmecha: \"Er wird so nicht mehr jubeln\"",
         "enlace": "https://www.dw.com/de/klopp-nach-gespräch-mit-nmecha-er-wird-so-nicht-mehr-jubeln/a-79938854?maca=de-rss-de-sport-4020-rdf",
         "desc": "Die Jubelgeste von Felix Nmecha hatte für Diskussionen über ihn und das Netzwerk \"Ballers in God\" gesorgt. Vor dem Nations-League-Spiel in Serbien legt Bundestrainer Jürgen Klopp d…",
-        "fecha": "2026-11-15T01:37:25.789497+00:00",
+        "fecha": "2026-11-15T08:59:53.865597+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-        "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-        "fecha": "2026-11-14T20:22:00+00:00",
+        "titulo": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+        "desc": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+        "fecha": "2026-11-15T07:32:46+00:00",
         "fuente": "BBC Sport EN"
       },
       {
         "titulo": "Felix Nmecha: BVB-Fans fordern Distanzierung von religiösem Netzwerk",
         "enlace": "https://www.dw.com/de/felix-nmecha-bvb-fans-fordern-distanzierung-von-religiösem-netzwerk/a-79897268?maca=de-rss-de-sport-4020-rdf",
         "desc": "Borussia Dortmunds Felix Nmecha zeigt erneut seinen Jubel, der der konservativ-religiösen Bewegung \"Ballers in God\" zugerechnet wird. Das sorgt für Diskussionen und Kritik auch aus…",
-        "fecha": "2026-11-15T01:37:25.789534+00:00",
+        "fecha": "2026-11-15T08:59:53.865642+00:00",
         "fuente": "DW Sport"
       },
       {
-        "titulo": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
-        "fecha": "2026-11-14T19:33:46+00:00",
+        "titulo": "How Spain's humble superstar Simon became world's best keeper",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+        "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+        "fecha": "2026-11-15T07:29:30+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
     "deportes_it": [
       {
-        "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-        "enlace": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-        "desc": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-        "fecha": "2026-11-14T20:22:00+00:00",
+        "titulo": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+        "enlace": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+        "desc": "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'.",
+        "fecha": "2026-11-15T07:32:46+00:00",
         "fuente": "BBC Sport EN"
       },
       {
-        "titulo": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-        "enlace": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-        "desc": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
-        "fecha": "2026-11-14T19:33:46+00:00",
+        "titulo": "How Spain's humble superstar Simon became world's best keeper",
+        "enlace": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+        "desc": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+        "fecha": "2026-11-15T07:29:30+00:00",
         "fuente": "BBC Sport EN"
       }
     ],
@@ -888,17 +860,17 @@
         "fuente": "El Mundo Ciencia"
       },
       {
-        "titulo": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
-        "enlace": "https://www.bbc.com/mundo/articles/cm70244lv8e1o?at_medium=RSS&at_campaign=rss",
-        "desc": "El presidente ucraniano afirma que los enviados estadounidenses presentaron el intercambio como parte de los esfuerzos para resolver el conflicto.",
-        "fecha": "2026-11-14T13:22:21+00:00",
+        "titulo": "\"Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial\"",
+        "enlace": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss",
+        "desc": "Larry Diamond, un reconocido experto internacional, dice en una entrevista que varios hechos recientes podrían indicar un cambio de patrón a favor de la democracia en el mundo.",
+        "fecha": "2026-11-15T04:57:14+00:00",
         "fuente": "BBC Ciencia ES"
       },
       {
         "titulo": "Number of international students arriving in US plunges — worrying scientists",
         "enlace": "https://www.nature.com/articles/d41586-026-03668-x",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the pro…",
-        "fecha": "2026-11-15T01:37:33.669006+00:00",
+        "fecha": "2026-11-15T09:00:06.781285+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -933,7 +905,7 @@
         "titulo": "Chinese graduate students are now choosing to stay closer to home",
         "enlace": "https://www.nature.com/articles/d41586-026-03456-7",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
-        "fecha": "2026-11-15T01:37:33.669040+00:00",
+        "fecha": "2026-11-15T09:00:06.781329+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -949,14 +921,14 @@
         "titulo": "Number of international students arriving in US plunges — worrying scientists",
         "enlace": "https://www.nature.com/articles/d41586-026-03668-x",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the pro…",
-        "fecha": "2026-11-15T01:37:36.777200+00:00",
+        "fecha": "2026-11-15T09:00:11.206724+00:00",
         "fuente": "Nature"
       },
       {
-        "titulo": "Honey bees inject venom with a two-stroke stinger",
-        "enlace": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
-        "desc": "Unlike other poisonous animals, bees use a strange set of pistons to pump toxin",
-        "fecha": "2026-11-15T01:37:36.844443+00:00",
+        "titulo": "Extinct ‘vampire camel’ once stalked North American plains",
+        "enlace": "https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains",
+        "desc": "New fossil survey shines light on this mysterious creature, as well as ancient camels’ ecological importance",
+        "fecha": "2026-11-15T09:00:11.438897+00:00",
         "fuente": "Science"
       },
       {
@@ -995,16 +967,16 @@
         "fuente": "NASA"
       },
       {
-        "titulo": "Scientists find a simple daily routine linked to less pain and depression",
-        "enlace": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-        "desc": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults w…",
-        "fecha": "2026-11-14T07:48:01-05:00",
+        "titulo": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+        "enlace": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+        "desc": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions …",
+        "fecha": "2026-11-14T23:31:56-05:00",
         "fuente": "Science Daily"
       },
       {
         "titulo": "SpaceX successfully catches top of huge Starship rocket for first time",
         "enlace": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "desc": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+        "desc": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
         "fecha": "2026-11-14T22:15:52+00:00",
         "fuente": "BBC Science"
       },
@@ -1012,7 +984,7 @@
         "titulo": "Chinese graduate students are now choosing to stay closer to home",
         "enlace": "https://www.nature.com/articles/d41586-026-03456-7",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
-        "fecha": "2026-11-15T01:37:36.777235+00:00",
+        "fecha": "2026-11-15T09:00:11.206767+00:00",
         "fuente": "Nature"
       }
     ],
@@ -1028,7 +1000,7 @@
         "titulo": "Number of international students arriving in US plunges — worrying scientists",
         "enlace": "https://www.nature.com/articles/d41586-026-03668-x",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the pro…",
-        "fecha": "2026-11-15T01:37:38.863765+00:00",
+        "fecha": "2026-11-15T09:00:16.412829+00:00",
         "fuente": "Nature EN"
       },
       {
@@ -1042,7 +1014,7 @@
         "titulo": "Chinese graduate students are now choosing to stay closer to home",
         "enlace": "https://www.nature.com/articles/d41586-026-03456-7",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
-        "fecha": "2026-11-15T01:37:38.863797+00:00",
+        "fecha": "2026-11-15T09:00:16.412873+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1051,28 +1023,28 @@
         "titulo": "Regenwaldfonds TFFF in Gefahr?",
         "enlace": "https://www.dw.com/de/regenwaldfonds-tfff-in-gefahr/a-79830883?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Der Regenwaldfonds TFFF gilt als mächtiges Instrument, um die Zerstörung der letzten Tropenwälder zu stoppen. Doch für den Start fehlen zwei Milliarden US-Dollar. Wie stehen seine …",
-        "fecha": "2026-11-15T01:37:40.749498+00:00",
+        "fecha": "2026-11-15T09:00:18.878139+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Number of international students arriving in US plunges — worrying scientists",
         "enlace": "https://www.nature.com/articles/d41586-026-03668-x",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the pro…",
-        "fecha": "2026-11-15T01:37:40.803667+00:00",
+        "fecha": "2026-11-15T09:00:19.025668+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Elektrifizierung ist ein Schlüssel im Kampf gegen die Klimakrise, doch veraltete Stromnetze bremsen den Wandel",
         "enlace": "https://www.dw.com/de/elektrifizierung-ist-ein-schlüssel-im-kampf-gegen-die-klimakrise-doch-veraltete-stromnetze-bremsen-den-wandel/a-79842223?maca=de-rss-de-wissenschaft-4019-rdf",
         "desc": "Ob E-Autos im Verkehr, Wärmepumpen, die Häuser heizen oder PV-Anlagen, die Geräte mit Strom versorgen: Der Umstieg auf Elektroenergie ist bereits in vollem Gange. Doch es gibt noch…",
-        "fecha": "2026-11-15T01:37:40.749533+00:00",
+        "fecha": "2026-11-15T09:00:18.878183+00:00",
         "fuente": "DW Wissen"
       },
       {
         "titulo": "Chinese graduate students are now choosing to stay closer to home",
         "enlace": "https://www.nature.com/articles/d41586-026-03456-7",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
-        "fecha": "2026-11-15T01:37:40.803698+00:00",
+        "fecha": "2026-11-15T09:00:19.025713+00:00",
         "fuente": "Nature EN"
       }
     ],
@@ -1081,23 +1053,23 @@
         "titulo": "Number of international students arriving in US plunges — worrying scientists",
         "enlace": "https://www.nature.com/articles/d41586-026-03668-x",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the pro…",
-        "fecha": "2026-11-15T01:37:43.612350+00:00",
+        "fecha": "2026-11-15T09:00:23.074519+00:00",
         "fuente": "Nature EN"
       },
       {
         "titulo": "Chinese graduate students are now choosing to stay closer to home",
         "enlace": "https://www.nature.com/articles/d41586-026-03456-7",
         "desc": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
-        "fecha": "2026-11-15T01:37:43.612385+00:00",
+        "fecha": "2026-11-15T09:00:23.074561+00:00",
         "fuente": "Nature EN"
       }
     ],
     "ciencia_pt": [
       {
-        "titulo": "1h. Acampada. PSP vai adotar \"postura de prevenção\"",
-        "enlace": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2446/",
-        "desc": "A decisão da pernoita foi tomada pela Acampada de Lisboa num dia marcado pela manifestação pelo direito à habitação. Ainda, no futebol, Portugal sofreu uma pesada derrota frente à …",
-        "fecha": "2026-11-15T01:15:27+00:00",
+        "titulo": "8h. Habitação. José Luís Carneiro solidário com protestos",
+        "enlace": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2578/",
+        "desc": "No discurso de ontem dos Estados Gerais do PS, José Luís Carneiro diz que foram os manifestantes que colocaram a habitação na agenda. Ainda, André Ventura pede demissão da ministra…",
+        "fecha": "2026-11-15T08:13:37+00:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1108,10 +1080,10 @@
         "fuente": "BBC Brasil Tec"
       },
       {
-        "titulo": "Da Real Barraca à Acampada da República",
-        "enlace": "https://observador.pt/opiniao/da-real-barraca-a-acampada-da-republica/",
-        "desc": "Dom José aterrorizado com o terramoto não mais quis dormir sob telha e enfiou-se na Real Barraca, já Seguro com medo de desagradar à rua de esquerda levou a barraca para Belém.",
-        "fecha": "2026-11-15T00:25:36+00:00",
+        "titulo": "\"Quase desisti do Ironman\" c/ Cláudia Dias",
+        "enlace": "https://observador.pt/programas/amiga-faz-parte/quase-desisti-do-ironman-c-claudia-dias/",
+        "desc": "Dá para ser a Cláudia Dias, fundadora do clube Alcance, e mesmo assim não querer fazer o Ironman? Ela conta como foi chegar à meta, o que custou e a maratona de Nova Iorque que vem…",
+        "fecha": "2026-11-15T08:05:35+00:00",
         "fuente": "Observador Tech"
       },
       {
@@ -1134,21 +1106,21 @@
         "titulo": "Wall Street tiembla, pero los beneficios resisten: ¿es Europa un refugio para los mercados financieros?",
         "enlace": "https://www.elconfidencial.com/mercados/2026-11-14/wall-street-beneficios-empresariales-europa-bra_4464443/",
         "desc": "En el S&amp;P 500, cerca del 84% de las compañías ha superado las estimaciones de beneficio por acción, muy por encima de la media histórica del 67%. En Europa, el 59% ha batido ex…",
-        "fecha": "2026-11-15T01:37:47.066223+00:00",
+        "fecha": "2026-11-15T09:00:28.475292+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Gana 1.000 euros en un día por ir de VIP: tareas y requisitos para aspirar a la oferta de empleo que arrasa en España",
-        "enlace": "https://www.abc.es/economia/cuentas-corrientes/gana-1000-euros-dia-vip-tareas-requisitos-20261104111351-nt.html",
-        "desc": "El sector de los recursos humanos vuelve a agitar el mercado con una de esas propuestas difíciles de rechazar. Y es que, más allá, de todas las convocatorias dirigidas a las campañ…",
-        "fecha": "2026-11-15T02:28:28+01:00",
+        "titulo": "Prestar el coche a tu hijo menor de 25 años sin avisar al seguro: el error que puede costarte miles de euros",
+        "enlace": "https://www.abc.es/economia/cuentas-corrientes/prestar-coche-hijo-menor-anos-avisar-seguro-20261109075712-nt.html",
+        "desc": "Es un gesto clásico en miles de hogares españoles: tu hijo menor de 25 años aprueba el carné de conducir, pide las llaves para un trayecto corto y el coche sale a la calle sin que …",
+        "fecha": "2026-11-15T07:57:12+01:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "(Digital) SpaceX Catches Starship in Novel Landing",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-        "desc": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
-        "fecha": "2026-11-14T22:25:41+00:00",
+        "titulo": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "desc": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1169,21 +1141,21 @@
         "titulo": "La demanda de acciones de Anthropic supera en seis veces su volumen ante su salida a bolsa",
         "enlace": "https://www.elconfidencial.com/mercados/2026-11-13/anthropic-salida-bolsa-demanda-opi-1hms_4464463/",
         "desc": "Anthropic afronta su debut bursátil con una demanda seis veces superior a las acciones disponibles y prevé captar hasta 64.350 millones de dólares",
-        "fecha": "2026-11-15T01:37:47.066264+00:00",
+        "fecha": "2026-11-15T09:00:28.475342+00:00",
         "fuente": "El Confidencial Eco"
       },
       {
-        "titulo": "Una solución 'en caliente' para el almacenamiento energético",
-        "enlace": "https://www.abc.es/economia/solucion-caliente-almacenamiento-energetico-20261115021239-nt.html",
-        "desc": "Desde hace años tenemos en España grandes centrales termosolares que utilizan sales fundidas para almacenar calor y generar electricidad. Ahora una nueva generación de tecnologías …",
-        "fecha": "2026-11-15T02:12:39+01:00",
+        "titulo": "¿Cuánto dinero deberías tener ahorrado? Casi la mitad de los españoles tiene menos de 5.000 euros",
+        "enlace": "https://www.abc.es/economia/cuentas-corrientes/dinero-deberias-tener-ahorrado-mitad-espanoles-5000-20261115024029-nt.html",
+        "desc": "La inflación encarece cada día más el coste de la vida. El dinero que ganamos da para cada vez menos y eso lógicamente afecta al ahorro. El caldo de cultivo de sueldos limitados y …",
+        "fecha": "2026-11-15T02:40:29+01:00",
         "fuente": "ABC Economía"
       },
       {
-        "titulo": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "desc": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-        "fecha": "2026-11-14T20:00:00+00:00",
+        "titulo": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "desc": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
+        "fecha": "2026-11-15T05:10:27+00:00",
         "fuente": "Bloomberg"
       },
       {
@@ -1196,17 +1168,17 @@
     ],
     "economia_en": [
       {
-        "titulo": "(Digital) SpaceX Catches Starship in Novel Landing",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-        "desc": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
-        "fecha": "2026-11-14T22:25:41+00:00",
+        "titulo": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "desc": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit",
-        "enlace": "https://www.foxbusiness.com/economy/new-orleans-port-seeks-tanker-seizure-cruise-ship-crash-sparks-lawsuit",
-        "desc": "A federal lawsuit seeks more than $1 million for damage to a New Orleans port terminal after an asphalt tanker collided with a river cruise ship on the Mississippi River.",
-        "fecha": "2026-11-14T19:01:31-05:00",
+        "titulo": "IRS raises 401(k) contribution limit by $1,000 for 2027 as retirement savings caps increase",
+        "enlace": "https://www.foxbusiness.com/personal-finance/irs-raises-401k-contribution-limit-1000-2027-retirement-savings-caps-increase",
+        "desc": "The IRS raised the 401(k) contribution limit to $25,500 for 2027, while catch-up contributions for workers 50 and over also climbed under new rules.",
+        "fecha": "2026-11-14T21:33:38-05:00",
         "fuente": "Fox Business"
       },
       {
@@ -1224,17 +1196,17 @@
         "fuente": "The Economist"
       },
       {
-        "titulo": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "desc": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-        "fecha": "2026-11-14T20:00:00+00:00",
+        "titulo": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "desc": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
+        "fecha": "2026-11-15T05:10:27+00:00",
         "fuente": "Bloomberg"
       },
       {
-        "titulo": "SpaceX makes history as Starship spacecraft caught by launch tower for first time",
-        "enlace": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
-        "desc": "SpaceX achieved a historic first Saturday as its Mechazilla launch tower caught a returning Starship spacecraft after 22 hours in space, advancing its reusable rocket ambitions.",
-        "fecha": "2026-11-14T18:46:56-05:00",
+        "titulo": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
+        "enlace": "https://www.foxbusiness.com/technology/tesla-makes-major-cybercab-announcement-driverless-vehicle-goes-sale",
+        "desc": "Tesla&apos;s Cybercab is now available to select customers for $29,990 with a $299 monthly autonomy subscription, but Elon Musk says the fee is too high.",
+        "fecha": "2026-11-14T20:49:28-05:00",
         "fuente": "Fox Business"
       },
       {
@@ -1254,63 +1226,63 @@
     ],
     "economia_fr": [
       {
-        "titulo": "(Digital) SpaceX Catches Starship in Novel Landing",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-        "desc": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
-        "fecha": "2026-11-14T22:25:41+00:00",
+        "titulo": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "desc": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "desc": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-        "fecha": "2026-11-14T20:00:00+00:00",
+        "titulo": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "desc": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
+        "fecha": "2026-11-15T05:10:27+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_de": [
       {
-        "titulo": "Raumfahrt: SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
-        "enlace": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html",
-        "desc": "Mit dem größten je gebauten Raketensystem der Raumfahrtgeschichte will Elon Musk den Mars erschließen. Jetzt hat das Starship erneut einen Testflug absolviert - mit einem Erfolg un…",
-        "fecha": "2026-11-14T23:34:57+00:00",
+        "titulo": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
+        "enlace": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
+        "desc": "Regierungstruppen ziehen sich von strategischer Meerenge zurück +++ Bahrain wehrt iranische Luftangriffe ab +++ Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand +++ De…",
+        "fecha": "2026-11-15T08:54:06+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "(Digital) SpaceX Catches Starship in Novel Landing",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-        "desc": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
-        "fecha": "2026-11-14T22:25:41+00:00",
+        "titulo": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "desc": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "+++ Ukraine-Krieg +++: USA schlagen laut Selenskyj Donbass-Rückzug gegen Nato-Beitritt vor",
-        "enlace": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html",
-        "desc": "USA: Direkter Kontakt zwischen Russland und europäischen Partnern angestrebt +++ Russland: Haben ukrainischen Ort Tersjanka eingenommen +++ Starlink-Störungen: Senatoren fordern Un…",
-        "fecha": "2026-11-14T22:38:00+00:00",
+        "titulo": "Immobilien: Vorbild New York: Diese Stadt plant jetzt einen Park auf einer alten Bahntrasse",
+        "enlace": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vorbild-new-york-diese-stadt-plant-jetzt-park-auf-bahntrasse/100268687.html",
+        "desc": "Die High Line zählt zu den großen Touristenmagneten in Big Apple: ein langer Park auf einer stillgelegten Bahnstrecke mitten in Manhattan. Nun ahmt eine deutsche Metropole die Idee…",
+        "fecha": "2026-11-15T08:36:10+00:00",
         "fuente": "Handelsblatt"
       },
       {
-        "titulo": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "desc": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-        "fecha": "2026-11-14T20:00:00+00:00",
+        "titulo": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "desc": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
+        "fecha": "2026-11-15T05:10:27+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
     "economia_it": [
       {
-        "titulo": "(Digital) SpaceX Catches Starship in Novel Landing",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-        "desc": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
-        "fecha": "2026-11-14T22:25:41+00:00",
+        "titulo": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "desc": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
-        "titulo": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "desc": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-        "fecha": "2026-11-14T20:00:00+00:00",
+        "titulo": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "desc": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
+        "fecha": "2026-11-15T05:10:27+00:00",
         "fuente": "Bloomberg EN"
       }
     ],
@@ -1323,10 +1295,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "(Digital) SpaceX Catches Starship in Novel Landing",
-        "enlace": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-        "desc": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
-        "fecha": "2026-11-14T22:25:41+00:00",
+        "titulo": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+        "desc": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of o…",
+        "fecha": "2026-11-15T08:00:00+00:00",
         "fuente": "Bloomberg EN"
       },
       {
@@ -1337,10 +1309,10 @@
         "fuente": "Jornal de Negócios"
       },
       {
-        "titulo": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "enlace": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-        "desc": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-        "fecha": "2026-11-14T20:00:00+00:00",
+        "titulo": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+        "enlace": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+        "desc": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest level…",
+        "fecha": "2026-11-15T05:10:27+00:00",
         "fuente": "Bloomberg EN"
       }
     ]
